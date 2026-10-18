@@ -1,0 +1,782 @@
+[
+  {
+    "id": "dc-street-fighter-3-3rd-strike",
+    "title": "Street Fighter III: 3rd Strike",
+    "titleZh": "街头霸王III 三度冲击",
+    "titleJa": "ストリートファイターIII 3rd STRIKE -Fight for the Future-",
+    "year": 2000,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genre": "格斗",
+    "tags": [
+      "2D格斗",
+      "手绘像素",
+      "BLOCKING"
+    ],
+    "players": "1-2",
+    "tagline": "像素格斗的终极形态，一招BLOCKING定乾坤",
+    "description": "如果说有哪款游戏能代表2D像素动画的最高峰，那一定是《街霸III 3rd Strike》。CPS3基板上每个角色动辄上千帧的手绘动画，在DC上几乎原汁原味地重现——春丽的连踢、肯的升龙、伦敦街头的马车与看热闹的路人，每一帧都值得截图当壁纸。\n\n真正让它封神的是“BLOCKING”系统：在对手攻击命中的瞬间推前，便能化解一切招式。高手对决中，一套超必杀被逐一挡下再反手一击，这种肾上腺素爆发的瞬间，至今仍被格斗迷津津乐道。\n\n三度冲击入门门槛不低，但正因如此，每一分进步都格外甜美。今天重温，它依旧是格斗游戏教科书级的存在，任何自称喜爱像素艺术的玩家都绕不开它。",
+    "highlights": [
+      "CPS3级别超高帧数手绘像素动画",
+      "BLOCKING系统奠定竞技深度",
+      "Hip-hop与爵士混搭的独特配乐",
+      "DC版附带训练模式等丰富追加要素"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "34/40",
+        "quote": "四位编辑一致认可其高完成度的移植与深厚的对战内涵"
+      },
+      {
+        "source": "IGN",
+        "score": "8.3/10",
+        "quote": "动画华丽、系统精妙，但面向新手的门槛偏高"
+      },
+      {
+        "source": "GameSpot",
+        "score": "7.4/10",
+        "quote": "移植忠实于街机原作，格斗深度无可挑剔"
+      }
+    ],
+    "editorScore": 9.5,
+    "is2D": true,
+    "screenshots": [
+      "images/dc/dc-street-fighter-3-3rd-strike-1.jpg",
+      "images/dc/dc-street-fighter-3-3rd-strike-2.jpg",
+      "images/dc/dc-street-fighter-3-3rd-strike-3.jpg"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "dc-ikaruga",
+    "title": "Ikaruga",
+    "titleZh": "斑鸠",
+    "titleJa": "斑鳩",
+    "year": 2002,
+    "developer": "Treasure",
+    "publisher": "ESP",
+    "genre": "射击",
+    "tags": [
+      "弹幕",
+      "黑白属性",
+      "双人"
+    ],
+    "players": "1-2",
+    "tagline": "黑白交错之间，射击游戏的禅意巅峰",
+    "description": "Treasure出品，必属精品——《斑鸠》便是这句话的最佳注脚。游戏只有黑白两种属性：吸收同色子弹充能，用异色子弹击破敌人。简单的规则衍生出近乎解谜般的关卡设计，每一波敌阵都像精心编排的舞蹈。\n\n本作在DC上的发售日期已是主机停产之后，却依然以惊人的画面与流畅度征服了无数玩家。“连锁”系统要求你按三个同色敌人一组击破，打分党为此反复背板、乐此不疲。\n\n画面虽是3D多边形，玩法却是最纯粹的2D纵版射击。五个关卡不长，但想要拿到S评价，恐怕要花上你一整个夏天。",
+    "highlights": [
+      "黑白属性切换的革命性系统",
+      "连锁打分带来无穷钻研乐趣",
+      "支持双人同屏合作",
+      "DC末期的Treasure神作"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "36/40",
+        "quote": "在DC版评测中两位编辑给出满分10分，盛赞系统的独创性"
+      },
+      {
+        "source": "GameSpot",
+        "score": "8.5/10",
+        "quote": "美术、音乐与设计均属一流，是射击迷必备之作"
+      },
+      {
+        "source": "Dorimaga",
+        "score": "8.7/10",
+        "quote": "将属性切换玩法打磨到极致的硬派射击"
+      }
+    ],
+    "editorScore": 9.4,
+    "is2D": true,
+    "screenshots": [
+      "images/dc/dc-ikaruga-2.jpg",
+      "images/dc/dc-ikaruga-3.jpg",
+      "images/dc/dc-ikaruga-1.jpg"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "dc-skies-of-arcadia",
+    "title": "Skies of Arcadia",
+    "titleZh": "阿卡迪亚之空",
+    "titleJa": "エターナルアルカディア",
+    "year": 2000,
+    "developer": "Overworks",
+    "publisher": "Sega",
+    "genre": "角色扮演",
+    "tags": [
+      "空贼",
+      "JRPG",
+      "飞空艇",
+      "冒险"
+    ],
+    "players": "1",
+    "tagline": "扬帆天空，最纯粹的王道冒险RPG",
+    "description": "天空之上漂浮着无数大陆，少年空贼维斯驾驶飞空艇，追逐着“月之石”的秘密——《阿卡迪亚之空》是一封写给冒险精神的情书。它没有沉重的世界观，只有阳光、友情与未知的天空。\n\n游戏由《樱花大战》开发班底Overworks操刀，传统回合制战斗配合“气力”共享系统，节奏明快；更有震撼的飞空艇大战与“发现物”收集要素，让探索的乐趣贯穿始终。\n\n虽然是3D作品，但它浓厚的JRPG气质与老派冒险情怀，令每一位喜欢日式RPG的玩家都会会心一笑。DC上最值得收藏的RPG之一，没有之一。",
+    "highlights": [
+      "空贼题材的王道冒险剧情",
+      "飞空艇舰队大战气势恢宏",
+      "“发现物”探索要素丰富",
+      "角色塑造鲜活有温度"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "33/40",
+        "quote": "世界观充满魅力，冒险的爽快感令人印象深刻"
+      },
+      {
+        "source": "IGN",
+        "score": "9.2/10",
+        "quote": "DC平台上最出色的RPG之一，充满想象力的天空世界"
+      },
+      {
+        "source": "GameSpot",
+        "score": "9.2/10",
+        "quote": "传统但极其精致，冒险氛围无可挑剔"
+      }
+    ],
+    "editorScore": 9.4,
+    "is2D": false,
+    "screenshots": [
+      "images/dc/dc-skies-of-arcadia-1.jpg",
+      "images/dc/dc-skies-of-arcadia-2.jpg",
+      "images/dc/dc-skies-of-arcadia-3.jpg"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "dc-shenmue",
+    "title": "Shenmue",
+    "titleZh": "莎木",
+    "titleJa": "シェンムー 一章 横須賀",
+    "year": 1999,
+    "developer": "Sega AM2",
+    "publisher": "Sega",
+    "genre": "动作冒险",
+    "tags": [
+      "开放世界",
+      "QTE",
+      "复仇",
+      "昭和风情"
+    ],
+    "players": "1",
+    "tagline": "铃木裕的梦想之作，一座活着的横须贺",
+    "description": "1986年的横须贺，少年芭月凉目睹父亲被神秘男子蓝帝杀害，一场跨越大洋的复仇之旅由此展开。《莎木》以当年难以想象的预算，构筑了一个拥有昼夜交替、天气变化、每个NPC都有自己生活节奏的小镇。\n\n你可以在杂货铺买零食抽扭蛋，在游戏厅玩《太空哈利》，在码头开叉车上班——这些“无用”的细节，恰恰是本作最迷人之处。QTE系统也由本作首次命名并发扬光大。\n\n它是3D作品，却有着最浓郁的旧时代生活气息。今天再玩，仿佛回到那个慢节奏的冬天。",
+    "highlights": [
+      "开创性的开放世界小镇模拟",
+      "QTE系统的命名与开山之作",
+      "可玩的世嘉街机经典",
+      "细腻的80年代日本风情"
+    ],
+    "reviews": [
+      {
+        "source": "IGN",
+        "score": "9.7/10",
+        "quote": "前所未有的沉浸感与细节，DC上的里程碑"
+      },
+      {
+        "source": "Edge",
+        "score": "8/10",
+        "quote": "技术与野心令人惊叹，但节奏较慢"
+      },
+      {
+        "source": "DC-UK",
+        "score": "10/10",
+        "quote": "一部足以定义世代的杰作"
+      }
+    ],
+    "editorScore": 9.3,
+    "is2D": false,
+    "screenshots": [
+      "images/dc/dc-shenmue-1.jpg",
+      "images/dc/dc-shenmue-2.jpg",
+      "images/dc/dc-shenmue-3.jpg"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "dc-marvel-vs-capcom-2",
+    "title": "Marvel vs. Capcom 2: New Age of Heroes",
+    "titleZh": "漫画英雄VS卡普空2",
+    "titleJa": "マーヴル VS. カプコン2 ニューエイジ オブ ヒーローズ",
+    "year": 2000,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genre": "格斗",
+    "tags": [
+      "3对3",
+      "56人",
+      "2D格斗"
+    ],
+    "players": "1-2",
+    "tagline": "56位英雄乱斗，满屏光束的狂欢派对",
+    "description": "56名角色、三对三组队、满屏的超必杀光束——《漫画英雄VS卡普空2》就是一场永不落幕的狂欢派对。蜘蛛侠、金刚狼与隆、春丽、洛克人同台竞技，喜欢哪个就选哪个。\n\n本作以2D像素角色搭配3D背景，节奏快到令人窒息，空中连段与援护攻击构成的“TOD”连招让无数街机厅为之疯狂。那首爵士风格的选人BGM，更是一代玩家的共同记忆。\n\nDC版是公认最接近街机的家用版本，至今仍在格斗大赛上被使用。无论是认真钻研还是朋友聚会乱按，它都能带来最纯粹的快乐。",
+    "highlights": [
+      "56名可用角色的超豪华阵容",
+      "三人组队与援护系统",
+      "DC版高度还原NAOMI街机",
+      "沿用至今的格斗大赛常青树"
+    ],
+    "reviews": [
+      {
+        "source": "IGN",
+        "score": "9.3/10",
+        "quote": "阵容庞大、节奏爽快，家用机最好的格斗体验之一"
+      },
+      {
+        "source": "GameSpot",
+        "score": "8.4/10",
+        "quote": "角色数量惊人，DC版移植近乎完美"
+      },
+      {
+        "source": "Metacritic",
+        "score": "90/100",
+        "quote": "获得媒体普遍盛赞"
+      }
+    ],
+    "editorScore": 9.2,
+    "is2D": true,
+    "screenshots": [
+      "images/dc/dc-marvel-vs-capcom-2-1.png",
+      "images/dc/dc-marvel-vs-capcom-2-2.jpg",
+      "images/dc/dc-marvel-vs-capcom-2-3.jpg"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "dc-grandia-2",
+    "title": "Grandia II",
+    "titleZh": "格兰蒂亚II",
+    "titleJa": "グランディアII",
+    "year": 2000,
+    "developer": "Game Arts",
+    "publisher": "Game Arts（日）/ Ubisoft（美）",
+    "genre": "角色扮演",
+    "tags": [
+      "JRPG",
+      "IP战斗",
+      "奇幻"
+    ],
+    "players": "1",
+    "tagline": "行动条上的心跳，史上最爽快的回合制战斗",
+    "description": "佣兵剑士留德与神之歌姬艾莲娜的旅程，是一场关于善与恶、信仰与自我的思辨。《格兰蒂亚II》继承了前作的冒险精神，剧情却更加成熟深沉。\n\n真正让人欲罢不能的是它的战斗系统：所有角色在IP行动条上竞速，“会心一击”可以打断敌人的行动，战术性与爽快感完美平衡，被许多玩家誉为“回合制战斗的最高杰作”。\n\n岩垂德行的配乐恢弘动人，多边形画面在当年也是一流水准。如果你只玩一款DC上的传统JRPG，它和《阿卡迪亚之空》都是不二之选。",
+    "highlights": [
+      "IP行动条+取消攻击的经典战斗系统",
+      "成熟深刻的善恶主题剧情",
+      "岩垂德行的出色配乐",
+      "魔法与必杀技的成长系统"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "35/40",
+        "quote": "战斗系统的爽快感与紧张感出众"
+      },
+      {
+        "source": "IGN",
+        "score": "9.2/10",
+        "quote": "战斗系统极富策略性，是DC上最好的RPG之一"
+      },
+      {
+        "source": "Metacritic",
+        "score": "90/100",
+        "quote": "获得媒体普遍好评"
+      }
+    ],
+    "editorScore": 9.2,
+    "is2D": false,
+    "screenshots": [
+      "images/dc/dc-grandia-2-1.jpg",
+      "images/dc/dc-grandia-2-2.jpg",
+      "images/dc/dc-grandia-2-3.jpg"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "dc-garou-mark-of-the-wolves",
+    "title": "Garou: Mark of the Wolves",
+    "titleZh": "饿狼传说：狼之印记",
+    "titleJa": "餓狼 MARK OF THE WOLVES",
+    "year": 2001,
+    "developer": "SNK",
+    "publisher": "SNK（日）/ Agetec（美）",
+    "genre": "格斗",
+    "tags": [
+      "2D格斗",
+      "SNK",
+      "JUST DEFEND"
+    ],
+    "players": "1-2",
+    "tagline": "SNK像素艺术的绝唱，洛克的传奇开篇",
+    "description": "特瑞戴上了棒球帽，收养了吉斯之子洛克·霍华德——《狼之印记》为饿狼传说系列翻开了全新篇章，也是SNK在2D像素领域最后的巅峰之作。\n\n全新的角色阵容个性十足：凯因、北斗丸、双叶小华……每个人都有细腻流畅的动画。“JUST DEFEND”精准防御系统与T.O.P.系统让攻防节奏紧张刺激，平衡性在SNK作品中首屈一指。\n\nDC版完美移植了NEOGEO原作，读盘迅速。对于想要在《街霸III》之外寻找另一部像素格斗神作的玩家，这里就是答案。",
+    "highlights": [
+      "SNK顶级水准的像素动画",
+      "JUST DEFEND精准防御系统",
+      "全新角色阵容与洛克登场",
+      "平衡性优秀的对战体验"
+    ],
+    "reviews": [
+      {
+        "source": "IGN",
+        "score": "9/10",
+        "quote": "SNK最精致的格斗作品之一，动画与系统俱佳"
+      },
+      {
+        "source": "GameSpot",
+        "score": "8.5/10",
+        "quote": "画面华丽、手感扎实，是2D格斗爱好者的必备"
+      },
+      {
+        "source": "Metacritic",
+        "score": "86/100",
+        "quote": "获得媒体普遍好评"
+      }
+    ],
+    "editorScore": 9.1,
+    "is2D": true,
+    "screenshots": [
+      "images/dc/dc-garou-mark-of-the-wolves-1.png",
+      "images/dc/dc-garou-mark-of-the-wolves-2.jpg",
+      "images/dc/dc-garou-mark-of-the-wolves-3.jpg"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "dc-capcom-vs-snk-2",
+    "title": "Capcom vs. SNK 2: Millionaire Fighting 2001",
+    "titleZh": "卡普空VS SNK 2",
+    "titleJa": "カプコン バーサス エス・エヌ・ケイ 2 ミリオネア ファイティング 2001",
+    "year": 2001,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genre": "格斗",
+    "tags": [
+      "梦幻对决",
+      "GROOVE系统",
+      "2D格斗"
+    ],
+    "players": "1-2",
+    "tagline": "两大格斗帝国全面开战，GROOVE百变任选",
+    "description": "隆对京、春丽对不知火舞——两大2D格斗巨头的全明星梦幻对决！《卡普空VS SNK 2》集结44名角色，把九十年代街机厅里的所有热血一次性释放。\n\n六种“GROOVE”系统让你可以用街霸风格或KOF风格战斗，甚至模拟街霸III的BLOCKING或饿狼的JUST DEFEND，玩法自由度惊人。比率系统让组队策略也充满变化。\n\nDC版为日本独占发售，是DC格斗阵容的压轴之作。若你成长于双方游戏厅的鼎盛年代，这款游戏就是你的青春大合集。",
+    "highlights": [
+      "卡普空与SNK角色的梦幻共演",
+      "六种GROOVE系统自由选择",
+      "比率组队带来策略变化",
+      "DC日版独占的压轴格斗大作"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "35/40",
+        "quote": "两家角色的融合度极高，系统丰富耐玩"
+      },
+      {
+        "source": "GameSpot",
+        "score": "7.9/10",
+        "quote": "丰富的GROOVE系统与庞大阵容带来极高耐玩度"
+      }
+    ],
+    "editorScore": 9.0,
+    "is2D": true,
+    "screenshots": [
+      "images/dc/dc-capcom-vs-snk-2-1.jpg",
+      "images/dc/dc-capcom-vs-snk-2-2.jpg",
+      "images/dc/dc-capcom-vs-snk-2-3.jpg"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "dc-jet-set-radio",
+    "title": "Jet Set Radio",
+    "titleZh": "街头涂鸦",
+    "titleJa": "ジェットセットラジオ",
+    "year": 2000,
+    "developer": "Smilebit",
+    "publisher": "Sega",
+    "genre": "动作",
+    "tags": [
+      "卡通渲染",
+      "滑轮",
+      "涂鸦",
+      "音乐"
+    ],
+    "players": "1",
+    "tagline": "卡通渲染开山作，踩着节拍去涂鸦",
+    "description": "穿上滑轮鞋，在东京都“东京-to”的街头飞驰，用喷漆把城市变成你的画布——《Jet Set Radio》是世嘉最酷、最具态度的一款游戏。\n\n本作首创“卡通渲染”技术，让3D画面呈现出漫画般的鲜明质感，至今看来依然时髦。长口英策等人打造的原声集混合了J-Pop、Funk与Hip-hop，被誉为游戏史上最佳原声之一。\n\n它是3D作品，但那股千禧年初的街头文化气息与世嘉的叛逆精神，正是“复古”二字最动人的部分。",
+    "highlights": [
+      "开创卡通渲染技术先河",
+      "游戏史级别的原声音乐",
+      "涂鸦与滑行的自由玩法",
+      "浓烈的千禧年街头文化"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "32/40",
+        "quote": "独特的画面表现与街头氛围令人耳目一新"
+      },
+      {
+        "source": "IGN",
+        "score": "9.6/10",
+        "quote": "风格独一无二，画面和音乐都是大师级"
+      },
+      {
+        "source": "DC-UK",
+        "score": "9/10",
+        "quote": "世嘉最具创意与态度的作品之一"
+      }
+    ],
+    "editorScore": 9.0,
+    "is2D": false,
+    "screenshots": [
+      "images/dc/dc-jet-set-radio-1.png",
+      "images/dc/dc-jet-set-radio-2.jpg",
+      "images/dc/dc-jet-set-radio-3.jpg"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "dc-chuchu-rocket",
+    "title": "ChuChu Rocket!",
+    "titleZh": "啾啾火箭",
+    "titleJa": "チューチューロケット!",
+    "year": 1999,
+    "developer": "Sonic Team",
+    "publisher": "Sega",
+    "genre": "益智",
+    "tags": [
+      "多人派对",
+      "网络对战",
+      "箭头解谜"
+    ],
+    "players": "1-4",
+    "tagline": "四人乱斗的鼠猫大战，派对游戏之王",
+    "description": "老鼠冲向火箭，猫咪紧追不舍，而你只能摆放箭头为它们指路——《啾啾火箭》由索尼克小组打造，规则简单到一看就懂，却能让四个朋友吵得面红耳赤。\n\n“老鼠狂欢”“猫咪狂潮”等随机事件让局势瞬息万变，前一秒还领先，下一秒火箭里就钻进了一只大猫。单人模式还有上百道箭头解谜关卡，适合独自慢慢钻研。\n\n本作也是DC早期支持网络对战的代表作，在当年意义非凡。网格化的2D玩法清爽明快，至今仍是聚会必备的神作。",
+    "highlights": [
+      "四人同屏的爆笑派对对战",
+      "DC早期网络对战代表作",
+      "大量解谜关卡与关卡编辑",
+      "简单易懂、老少咸宜"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "34/40",
+        "quote": "规则简单却极具深度，多人游戏乐趣十足"
+      },
+      {
+        "source": "IGN",
+        "score": "9.0/10",
+        "quote": "最容易上瘾的派对游戏之一"
+      },
+      {
+        "source": "GameSpot",
+        "score": "8.2/10",
+        "quote": "多人对战的混乱与欢乐无可替代"
+      }
+    ],
+    "editorScore": 8.8,
+    "is2D": true,
+    "screenshots": [
+      "images/dc/dc-chuchu-rocket-1.jpg",
+      "images/dc/dc-chuchu-rocket-2.jpg"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "dc-bangai-o",
+    "title": "Bangai-O",
+    "titleZh": "爆裂无敌万解王",
+    "titleJa": "爆裂無敵バンガイオー",
+    "year": 1999,
+    "developer": "Treasure",
+    "publisher": "ESP",
+    "genre": "射击",
+    "tags": [
+      "全方位射击",
+      "导弹",
+      "Treasure"
+    ],
+    "players": "1",
+    "tagline": "满屏导弹齐发，Treasure式的爆炸美学",
+    "description": "按下按钮，数百枚导弹从机甲身上同时射出，在屏幕上炸开绚烂火海——《爆裂无敌万解王》就是这样一款简单粗暴又让人热血沸腾的游戏。\n\n这是Treasure出品的2D全方位射击游戏，44个关卡宛如一个个解谜沙盒：利用墙壁反弹、计算敌弹数量来触发“反击爆发”，敌人越多，导弹越多，爽快感随之翻倍。\n\n满满的恶搞台词与动漫风角色，透着典型的世纪末玩心。DC版相较N64版大幅强化了画面与音效，是Treasure迷必收的2D珍品。",
+    "highlights": [
+      "满屏导弹齐射的极致爽快感",
+      "反击系统：越危险越强大",
+      "关卡如解谜沙盒般巧妙",
+      "Treasure特有的恶搞幽默"
+    ],
+    "reviews": [
+      {
+        "source": "IGN",
+        "score": "9.3/10",
+        "quote": "日版评测：疯狂、爽快、独一无二的射击游戏"
+      },
+      {
+        "source": "GameSpot",
+        "score": "8.5/10",
+        "quote": "满屏爆炸的快感与巧妙的关卡设计令人着迷"
+      },
+      {
+        "source": "Fami通",
+        "score": "27/40",
+        "quote": "系统独特，但难度与上手门槛偏高"
+      }
+    ],
+    "editorScore": 8.7,
+    "is2D": true,
+    "screenshots": [
+      "images/dc/dc-bangai-o-1.png",
+      "images/dc/dc-bangai-o-2.jpg",
+      "images/dc/dc-bangai-o-3.jpg"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "dc-jojo",
+    "title": "JoJo's Bizarre Adventure: Heritage for the Future",
+    "titleZh": "JOJO的奇妙冒险 未来的遗产",
+    "titleJa": "ジョジョの奇妙な冒険 未来への遺産",
+    "year": 1999,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genre": "格斗",
+    "tags": [
+      "2D格斗",
+      "替身",
+      "漫改"
+    ],
+    "players": "1-2",
+    "tagline": "替身使者登场！最“JOJO”的像素格斗",
+    "description": "欧拉欧拉欧拉！卡普空以CPS3基板为荒木飞吕彦的名作打造的格斗游戏，将《星尘斗士》的漫画分镜原汁原味地搬进了像素世界。\n\n独特的“替身”系统让角色可以召唤或收回替身，形成两套截然不同的招式体系；空条承太郎、DIO、波鲁那雷夫等经典角色的招式与台词高度还原，效果字和拟声词跃然屏上。\n\nDC版收录了更新版《未来的遗产》，并新增超级故事模式，重现原作的名场面小游戏。不管你是不是JOJO粉，都能感受到卡普空巅峰时期的像素功力。",
+    "highlights": [
+      "CPS3级别的精美像素动画",
+      "替身ON/OFF的独特系统",
+      "高度还原原作的台词与演出",
+      "DC版追加超级故事模式"
+    ],
+    "reviews": [
+      {
+        "source": "IGN",
+        "score": "8.5/10",
+        "quote": "对原作的还原令人惊喜，格斗系统独具一格"
+      },
+      {
+        "source": "GameSpot",
+        "score": "8.3/10",
+        "quote": "视觉风格大胆，替身系统带来新鲜感"
+      },
+      {
+        "source": "Eurogamer",
+        "score": "8/10",
+        "quote": "古怪又迷人的卡普空格斗作品"
+      }
+    ],
+    "editorScore": 8.6,
+    "is2D": true,
+    "screenshots": [
+      "images/dc/dc-jojo-1.png"
+    ],
+    "coverShot": false
+  },
+  {
+    "id": "dc-border-down",
+    "title": "Border Down",
+    "titleZh": "边界坠落",
+    "titleJa": "ボーダーダウン",
+    "year": 2003,
+    "developer": "G.rev",
+    "publisher": "G.rev",
+    "genre": "射击",
+    "tags": [
+      "横版射击",
+      "边界系统",
+      "硬核"
+    ],
+    "players": "1",
+    "tagline": "前TAITO名匠之作，DC末期的横版绝唱",
+    "description": "由前TAITO开发者组成的G.rev，将对《金属黑》的敬意倾注于这部横版射击作品。“边界系统”是本作精髓：玩家在绿、黄、红三条难度路线之间升降，机体被击毁便会坠落至更高难度的边界——死亡反而让游戏更刺激。\n\n可蓄力的“破坏光束”与敌方光束对拼时的激烈火花，是射击迷心中DC时代最震撼的画面之一。\n\n本作在DC停产两年后的2003年发售，发行量稀少，如今已是收藏界的高价珍品。若你热爱老派横版射击，它绝对值得一试。",
+    "highlights": [
+      "独创“边界”分支难度系统",
+      "光束对拼的震撼演出",
+      "前TAITO班底的匠心之作",
+      "DC末期稀有收藏珍品"
+    ],
+    "reviews": [
+      {
+        "source": "Edge",
+        "score": "6/10",
+        "quote": "具备成为杰作的全部要素，但紧张感稍显不足"
+      },
+      {
+        "source": "Eurogamer",
+        "score": "—",
+        "quote": "回顾文章称其可能是G.rev最出色的作品"
+      },
+      {
+        "source": "Retro Gamer",
+        "score": "—",
+        "quote": "被评为DC末期评价最高的作品之一"
+      }
+    ],
+    "editorScore": 8.6,
+    "is2D": true,
+    "screenshots": [
+      "images/dc/dc-border-down-1.png",
+      "images/dc/dc-border-down-2.jpg",
+      "images/dc/dc-border-down-3.jpg"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "dc-record-of-lodoss-war",
+    "title": "Record of Lodoss War",
+    "titleZh": "罗德斯岛战记 邪神降临",
+    "titleJa": "ロードス島戦記 邪神降臨",
+    "year": 2000,
+    "developer": "Neverland",
+    "publisher": "ESP / 角川书店（日）",
+    "genre": "动作角色扮演",
+    "tags": [
+      "ARPG",
+      "刷宝",
+      "奇幻",
+      "暗黑风"
+    ],
+    "players": "1",
+    "tagline": "罗德斯岛上的暗黑之旅，DC最爽快的刷宝ARPG",
+    "description": "沉睡的勇士被复活，在魔女卡拉的陪伴下重新踏上罗德斯岛的战场——《罗德斯岛战记 邪神降临》将水野良的经典奇幻小说，改编成了一款类似《暗黑破坏神》的动作RPG。\n\n斜俯视角的地下城探索、成堆掉落的装备、可以重新打造武器的锻造系统，让人一刷就停不下来。原作中的帕恩、蒂德莉特等人物也会在冒险中登场，粉丝看了必定热泪盈眶。\n\n画面虽为3D，但俯视视角与老派奇幻氛围令人倍感亲切，是DC上为数不多的优质日式ARPG。",
+    "highlights": [
+      "暗黑式俯视角ARPG玩法",
+      "丰富的装备掉落与锻造系统",
+      "原作角色客串登场",
+      "正统的西式奇幻氛围"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "30/40",
+        "quote": "忠实于原作世界观，动作与成长要素扎实"
+      },
+      {
+        "source": "IGN",
+        "score": "8.7/10",
+        "quote": "DC上最好的暗黑类ARPG，令人上瘾"
+      },
+      {
+        "source": "GameSpot",
+        "score": "6.8/10",
+        "quote": "玩法耐玩，但画面与剧情表现略显平淡"
+      }
+    ],
+    "editorScore": 8.4,
+    "is2D": false,
+    "screenshots": [
+      "images/dc/dc-record-of-lodoss-war-1.jpg",
+      "images/dc/dc-record-of-lodoss-war-2.jpg",
+      "images/dc/dc-record-of-lodoss-war-3.jpg"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "dc-elemental-gimmick-gear",
+    "title": "Elemental Gimmick Gear",
+    "titleZh": "元素机关齿轮",
+    "titleJa": "エレメンタルギミックギア",
+    "year": 1999,
+    "developer": "Birthday",
+    "publisher": "Hudson",
+    "genre": "动作角色扮演",
+    "tags": [
+      "ARPG",
+      "像素风",
+      "俯视角",
+      "解谜"
+    ],
+    "players": "1",
+    "tagline": "手绘像素的俯视ARPG，DC上的“塞尔达”式冒险",
+    "description": "少年里昂从冬眠中苏醒，驾驶名为“E.G.G.”的球形机甲，在神秘的城镇与遗迹之间探索失落的记忆——这是一款在DC上极为少见的2D俯视角动作RPG。\n\n手绘的高精度背景与精灵角色营造出浓郁的童话气息，城镇中的商店、居民与对话场景，让人联想起SFC时代的经典ARPG。迷宫中充满机关与谜题，战斗时Boss则以3D多边形呈现，形成新旧交融的独特风格。\n\n它或许不够完美，但若你钟爱《塞尔达》《圣剑传说》那样的像素冒险，E.G.G.会是DC上最贴近你口味的一款。",
+    "highlights": [
+      "DC罕见的2D俯视角ARPG",
+      "精致的手绘像素城镇与迷宫",
+      "解谜与战斗并重的冒险",
+      "2D场景与3D Boss战结合"
+    ],
+    "reviews": [
+      {
+        "source": "IGN",
+        "score": "8/10",
+        "quote": "画面迷人、氛围出色的老派动作RPG"
+      },
+      {
+        "source": "Fami通",
+        "score": "27/40",
+        "quote": "2D画面细腻，但系统略显朴素"
+      },
+      {
+        "source": "GameSpot",
+        "score": "6.8/10",
+        "quote": "画面优美，但节奏偏慢"
+      }
+    ],
+    "editorScore": 8.3,
+    "is2D": true,
+    "screenshots": [
+      "images/dc/dc-elemental-gimmick-gear-1.jpg",
+      "images/dc/dc-elemental-gimmick-gear-2.jpg",
+      "images/dc/dc-elemental-gimmick-gear-3.jpg"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "dc-mars-matrix",
+    "title": "Mars Matrix",
+    "titleZh": "火星矩阵",
+    "titleJa": "マーズマトリックス",
+    "year": 2000,
+    "developer": "Takumi",
+    "publisher": "Capcom",
+    "genre": "射击",
+    "tags": [
+      "弹幕",
+      "纵版射击",
+      "吸收反击"
+    ],
+    "players": "1-2",
+    "tagline": "吸弹反击的弹幕狂潮，分数党的天堂",
+    "description": "由《枪翼》开发商Takumi打造、卡普空发行的纵版弹幕射击。本作的核心是“吸收射击”：用护盾吸收满屏的敌弹，再以数倍威力一次性反击，化危机为得分良机。\n\n满屏的子弹与动辄上亿的分数，让本作成为打分玩家的终极修罗场。DC版还加入了可以用分数解锁的商店模式，大幅提升了重复游玩的动力。\n\n这是一款纯正的2D世纪末弹幕射击，难度虽高，但每一次吸弹反击的瞬间都令人肾上腺素飙升。",
+    "highlights": [
+      "吸收敌弹并反击的独特系统",
+      "动辄上亿的夸张得分机制",
+      "DC版追加商店解锁要素",
+      "支持双人同屏"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "31/40",
+        "quote": "系统富有新意，打分要素出众"
+      },
+      {
+        "source": "IGN",
+        "score": "8.5/10",
+        "quote": "硬核但极具成就感的弹幕射击"
+      },
+      {
+        "source": "Edge",
+        "score": "7/10",
+        "quote": "系统有趣，适合射击核心玩家"
+      }
+    ],
+    "editorScore": 8.2,
+    "is2D": true,
+    "screenshots": [
+      "images/dc/dc-mars-matrix-1.png",
+      "images/dc/dc-mars-matrix-2.jpg"
+    ],
+    "coverShot": true
+  }
+]

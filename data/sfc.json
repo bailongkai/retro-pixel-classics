@@ -1,0 +1,923 @@
+[
+  {
+    "id": "sfc-chrono-trigger",
+    "title": "Chrono Trigger",
+    "titleZh": "时空之轮",
+    "titleJa": "クロノ・トリガー",
+    "year": 1995,
+    "developer": "Square",
+    "publisher": "Square",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "多结局",
+      "时空穿越"
+    ],
+    "players": "1",
+    "tagline": "梦幻组合铸就的RPG不朽丰碑",
+    "description": "坂口博信、堀井雄二、鸟山明——当年光是这三个名字凑在一起，就足以让全体玩家心跳加速！《时空之轮》讲述少年克罗诺在千年祭上卷入时空裂缝，穿梭于原始、中世、现代与末日未来，只为改变星球毁灭的命运。\n\n本作取消了传统的随机遇敌，战斗直接在地图上展开；独创的“合体技”让队友之间的配合妙趣横生。十余种结局、“强くてニューゲーム”二周目系统，更是开创了日式RPG的先河。\n\n光田康典的配乐至今仍是游戏音乐会的常客。三十年过去，它依然是每一位RPG爱好者绕不开的必修课——没玩过？现在补也不晚！",
+    "highlights": [
+      "无缝战斗，地图上直接开打",
+      "双人/三人合体技组合丰富",
+      "十余种结局与继承二周目",
+      "光田康典神级配乐"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "34/40",
+        "quote": "四位编辑一致认可，梦幻团队交出了SFC末期的顶级RPG"
+      },
+      {
+        "source": "EGM",
+        "score": "37/40",
+        "quote": "评测组盛赞其画面、音乐与剧情全方位达到16位机极限"
+      },
+      {
+        "source": "GameRankings",
+        "score": "96%",
+        "quote": "综合媒体评分位列SNES平台最高之列"
+      }
+    ],
+    "editorScore": 9.9,
+    "is2D": true,
+    "screenshots": [
+      "images/sfc/sfc-chrono-trigger-1.png",
+      "images/sfc/sfc-chrono-trigger-2.jpg"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "sfc-final-fantasy-vi",
+    "title": "Final Fantasy VI",
+    "titleZh": "最终幻想6",
+    "titleJa": "ファイナルファンタジーVI",
+    "year": 1994,
+    "developer": "Square",
+    "publisher": "Square",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "群像剧",
+      "魔导蒸汽朋克"
+    ],
+    "players": "1",
+    "tagline": "十四位主角谱写的魔导史诗",
+    "description": "当魔导与机械共存的蒸汽朋克世界在16位画面中徐徐展开，谁能不为之震撼？《最终幻想6》没有绝对主角，蒂娜、洛克、席琳、卡扬……十四位角色各自背负伤痕，在帝国阴影下汇聚成一首壮阔的群像史诗。\n\n歌剧院一幕至今被奉为游戏史上的名场面；而反派凯夫卡那疯狂的笑声，更让无数玩家咬牙切齿。世界崩坏后的后半段采用开放式结构，让你亲手把失散的伙伴一一找回。\n\n植松伸夫的音乐配合SFC音源，奏出了媲美交响乐的感染力。这是2D像素RPG的巅峰之作，强烈推荐！",
+    "highlights": [
+      "14名可操作角色的群像叙事",
+      "经典歌剧院名场面",
+      "世界崩坏后的开放式后半段",
+      "植松伸夫巅峰配乐"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "37/40",
+        "quote": "四位编辑给出9、8、10、10的高分，称其为系列集大成之作"
+      },
+      {
+        "source": "EGM",
+        "score": "36/40",
+        "quote": "评测组全员9分，赞赏剧情与音乐的史诗气质"
+      },
+      {
+        "source": "RPGamer",
+        "score": "10/10",
+        "quote": "被视为SNES时代最出色的RPG之一"
+      }
+    ],
+    "editorScore": 9.8,
+    "is2D": true,
+    "screenshots": [
+      "images/sfc/sfc-final-fantasy-vi-1.png",
+      "images/sfc/sfc-final-fantasy-vi-2.jpg"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "sfc-zelda-a-link-to-the-past",
+    "title": "The Legend of Zelda: A Link to the Past",
+    "titleZh": "塞尔达传说：众神的三角力量",
+    "titleJa": "ゼルダの伝説 神々のトライフォース",
+    "year": 1991,
+    "developer": "Nintendo EAD",
+    "publisher": "Nintendo",
+    "genre": "动作冒险",
+    "tags": [
+      "俯视角",
+      "解谜",
+      "表里世界"
+    ],
+    "players": "1",
+    "tagline": "俯视角动作冒险的教科书",
+    "description": "一场暴雨之夜，林克手持油灯潜入海拉尔城堡——这个开场至今令人记忆犹新。《众神的三角力量》确立了此后二十余年塞尔达系列的基本框架：迷宫、道具、心之容器，一切都从这里开始。\n\n“光之世界”与“暗之世界”的双地图设计堪称神来之笔，同一片土地在两个世界里截然不同，解谜的空间被无限放大。每一座迷宫都精巧得像钟表，拿到新道具后豁然开朗的快感，无可替代。\n\nFami通四位编辑给出39分的惊人高分。时至今日，它仍是所有俯视角动作冒险游戏的教科书。",
+    "highlights": [
+      "光暗双世界的颠覆式设计",
+      "道具与迷宫的精妙咬合",
+      "奠定系列此后的标准框架",
+      "大师之剑的经典传承"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "39/40",
+        "quote": "首款获得近乎满分评价的游戏，四位编辑给出9、10、10、10"
+      },
+      {
+        "source": "EGM",
+        "score": "35/40",
+        "quote": "被评为当年最佳续作，冒险体量惊人"
+      },
+      {
+        "source": "GameRankings",
+        "score": "93%",
+        "quote": "综合评分常年位居SNES前列"
+      }
+    ],
+    "editorScore": 9.8,
+    "is2D": true,
+    "screenshots": [
+      "images/sfc/sfc-zelda-a-link-to-the-past-2.jpg",
+      "images/sfc/sfc-zelda-a-link-to-the-past-1.png"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "sfc-super-metroid",
+    "title": "Super Metroid",
+    "titleZh": "超级银河战士",
+    "titleJa": "スーパーメトロイド",
+    "year": 1994,
+    "developer": "Nintendo R&D1 / Intelligent Systems",
+    "publisher": "Nintendo",
+    "genre": "动作冒险",
+    "tags": [
+      "银河恶魔城",
+      "探索",
+      "科幻"
+    ],
+    "players": "1",
+    "tagline": "孤独星球上的探索艺术",
+    "description": "没有一句台词，却能讲出最动人的故事——这就是《超级银河战士》的魔力。萨姆斯孤身降落在泽贝斯星，阴冷的洞窟、诡异的生物与压抑的音乐，营造出无与伦比的孤独氛围。\n\n整颗星球就是一座巨大迷宫：拿到抓钩、高速靴、变形球炸弹，原本无法通过的区域一一解锁。正是本作与《恶魔城X 月下夜想曲》一起，催生了“银河恶魔城”这一游戏类型。\n\n速通玩家至今仍在钻研它的极限技巧。如果你喜欢《空洞骑士》之类的作品，请一定回来看看它们的老祖宗！",
+    "highlights": [
+      "“银河恶魔城”类型奠基作",
+      "无台词的环境叙事",
+      "丰富的能力解锁与捷径",
+      "速通圈常青经典"
+    ],
+    "reviews": [
+      {
+        "source": "GameRankings",
+        "score": "97%",
+        "quote": "综合评分位列SNES平台最高"
+      },
+      {
+        "source": "EGM",
+        "score": "36/40",
+        "quote": "四位评测员一致给出9分，赞其氛围与关卡设计"
+      },
+      {
+        "source": "IGN",
+        "score": "9.5/10",
+        "quote": "被誉为2D动作冒险的巅峰之一"
+      }
+    ],
+    "editorScore": 9.7,
+    "is2D": true,
+    "screenshots": [
+      "images/sfc/sfc-super-metroid-1.png",
+      "images/sfc/sfc-super-metroid-2.jpg"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "sfc-seiken-densetsu-3",
+    "title": "Trials of Mana",
+    "titleZh": "圣剑传说3",
+    "titleJa": "聖剣伝説3",
+    "year": 1995,
+    "developer": "Square",
+    "publisher": "Square",
+    "genre": "动作角色扮演",
+    "tags": [
+      "像素",
+      "多主角",
+      "转职"
+    ],
+    "players": "1-2",
+    "tagline": "六位主角，六种命运",
+    "description": "当年没有出美版的《圣剑传说3》，硬是让一代中国玩家抱着日文攻略本啃完了全程！游戏一开始就让你从六位主角中挑选三人组队，不同的组合将走向不同的剧情与最终BOSS。\n\n每个角色都可进行两次转职，光暗分支共八种职业，研究最强阵容的乐趣无穷。SFC末期的画面水准堪称惊艳：昼夜交替、精细的像素场景与华丽的魔法特效，配上菊田裕树的音乐，童话般的玛娜世界令人沉醉。\n\n本作支持双人同玩，和好友一起闯荡依然是最美好的回忆。2D动作RPG爱好者绝不能错过的日版神作！",
+    "highlights": [
+      "六主角任选三人，剧情多线",
+      "光暗两系二段转职",
+      "昼夜交替的精美像素画面",
+      "支持双人合作"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "31/40",
+        "quote": "编辑认为转职与多主角系统极具重玩价值"
+      },
+      {
+        "source": "GameFan",
+        "score": "95/100",
+        "quote": "三位评测员给出94-96分，盛赞画面与音乐"
+      },
+      {
+        "source": "Nintendo Life",
+        "score": "9/10",
+        "quote": "称其为16位机时代最美的动作RPG之一"
+      }
+    ],
+    "editorScore": 9.5,
+    "is2D": true,
+    "screenshots": [
+      "images/sfc/sfc-seiken-densetsu-3-1.png",
+      "images/sfc/sfc-seiken-densetsu-3-2.jpg"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "sfc-secret-of-mana",
+    "title": "Secret of Mana",
+    "titleZh": "圣剑传说2",
+    "titleJa": "聖剣伝説2",
+    "year": 1993,
+    "developer": "Square",
+    "publisher": "Square",
+    "genre": "动作角色扮演",
+    "tags": [
+      "像素",
+      "三人合作",
+      "环状菜单"
+    ],
+    "players": "1-3",
+    "tagline": "三人同屏的玛娜冒险",
+    "description": "少年从河里拔出一把生锈的剑，整个世界的命运便从此改变。《圣剑传说2》是史克威尔在SFC上的动作RPG杰作，最大的卖点是——借助多人适配器，三位玩家可以同屏冒险！\n\n独创的“环状菜单”让道具与魔法的选择直观又迅速，武器和魔法通过熟练度不断成长。乘坐白龙“菲拉米”在Mode 7世界地图上翱翔的瞬间，是那个年代最浪漫的游戏画面之一。\n\n菊田裕树的音乐清新动人，“天使的恐惧”一曲响起就能让老玩家眼眶湿润。邀上朋友，一起重温吧！",
+    "highlights": [
+      "最多三人同屏合作",
+      "创新的环状菜单系统",
+      "乘白龙飞翔的Mode 7地图",
+      "武器与魔法熟练度成长"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "33/40",
+        "quote": "编辑肯定其动作与RPG的融合"
+      },
+      {
+        "source": "EGM",
+        "score": "35/40",
+        "quote": "评测组称多人模式让冒险体验焕然一新"
+      },
+      {
+        "source": "Edge",
+        "score": "9/10",
+        "quote": "赞其为当年最出色的动作RPG之一"
+      }
+    ],
+    "editorScore": 9.4,
+    "is2D": true,
+    "screenshots": [
+      "images/sfc/sfc-secret-of-mana-1.png"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "sfc-dragon-quest-v",
+    "title": "Dragon Quest V: Hand of the Heavenly Bride",
+    "titleZh": "勇者斗恶龙5：天空的新娘",
+    "titleJa": "ドラゴンクエストV 天空の花嫁",
+    "year": 1992,
+    "developer": "Chunsoft",
+    "publisher": "Enix",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "亲子三代",
+      "怪物收服"
+    ],
+    "players": "1",
+    "tagline": "跨越三代人的命运长卷",
+    "description": "比安卡还是芙罗拉？这道“世纪难题”让多少日本玩家辗转反侧！《勇者斗恶龙5》以主人公的一生为线索，从幼年随父旅行、青年沦为奴隶，到成家育子、寻找传说中的勇者，讲述了一个跨越三代人的动人故事。\n\n本作首次引入“怪物收服”系统，史莱姆、杀人机器都能成为伙伴，这一玩法后来更启发了无数怪物养成游戏。堀井雄二的剧本温情而残酷，父亲帕帕斯的那一幕让无数人落泪。\n\n在Fami通读者票选的史上百佳游戏中，本作名列前茅。中文玩家可以通过DS重制版体验，但SFC原版的味道依然无可替代。",
+    "highlights": [
+      "跨越三代的人生叙事",
+      "系列首创怪物收服系统",
+      "经典“新娘抉择”",
+      "鸟山明角色设计"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "36/40",
+        "quote": "四位编辑给出9、10、9、8，盛赞剧本感染力"
+      },
+      {
+        "source": "Fami通读者票选",
+        "score": "历代第11名",
+        "quote": "2006年读者票选史上百佳游戏中名列第11"
+      }
+    ],
+    "editorScore": 9.4,
+    "is2D": true,
+    "screenshots": [
+      "images/sfc/sfc-dragon-quest-v-2.png",
+      "images/sfc/sfc-dragon-quest-v-1.jpg"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "sfc-yoshis-island",
+    "title": "Super Mario World 2: Yoshi's Island",
+    "titleZh": "耀西岛",
+    "titleJa": "スーパーマリオ ヨッシーアイランド",
+    "year": 1995,
+    "developer": "Nintendo EAD",
+    "publisher": "Nintendo",
+    "genre": "平台动作",
+    "tags": [
+      "横版",
+      "手绘画风",
+      "丢蛋"
+    ],
+    "players": "1",
+    "tagline": "蜡笔画出的平台跳跃奇迹",
+    "description": "当所有厂商都在追逐预渲染3D时，任天堂却拿出了一幅会动的蜡笔画！《耀西岛》以手绘风格描绘了一个童趣盎然的世界，耀西驮着小马里奥一路护送，借助SuperFX2芯片实现了大量缩放与旋转特效。\n\n吃掉敌人变成蛋、瞄准抛掷、踢腿浮空——操作简单却变化无穷。每关隐藏的红币、花朵与星星，让收集党欲罢不能。宝宝马里奥的哭声虽然让人抓狂，但正是这份紧张感让游戏更有趣。\n\n这是2D平台游戏美术与关卡设计的巅峰之一，任何年代玩都不会过时。",
+    "highlights": [
+      "独树一帜的蜡笔手绘画风",
+      "SuperFX2芯片特效",
+      "丢蛋与浮空跳的新玩法",
+      "高密度的收集要素"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "33/40",
+        "quote": "编辑给出9、9、8、7，称赞创意满满"
+      },
+      {
+        "source": "GameRankings",
+        "score": "96%",
+        "quote": "综合评分位居SNES平台顶尖"
+      },
+      {
+        "source": "Edge",
+        "score": "9/10",
+        "quote": "赞其为2D平台游戏的艺术品"
+      }
+    ],
+    "editorScore": 9.4,
+    "is2D": true,
+    "screenshots": [
+      "images/sfc/sfc-yoshis-island-1.png",
+      "images/sfc/sfc-yoshis-island-2.jpg"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "sfc-super-mario-world",
+    "title": "Super Mario World",
+    "titleZh": "超级马里奥世界",
+    "titleJa": "スーパーマリオワールド",
+    "year": 1990,
+    "developer": "Nintendo EAD",
+    "publisher": "Nintendo",
+    "genre": "平台动作",
+    "tags": [
+      "横版",
+      "耀西",
+      "隐藏路线"
+    ],
+    "players": "1-2",
+    "tagline": "SFC首发即巅峰",
+    "description": "1990年11月，SFC与本作同时登场，从此开启了16位机的黄金时代。《超级马里奥世界》首次让耀西登场，马里奥骑着这只小恐龙吞食敌人、踩踏飞跃，画面色彩之鲜艳令当年玩家目瞪口呆。\n\n全游戏共96个出口，大地图上隐藏着大量秘密路线与“星之路”；斗篷马里奥的滑翔飞行技巧极具深度。关卡设计精妙到几乎每一处砖块都有它存在的意义。\n\n三十多年后，它依然是速通、改关圈最活跃的游戏之一。经典就是经典，拿起手柄就停不下来。",
+    "highlights": [
+      "耀西首次登场",
+      "96个出口与隐藏路线",
+      "斗篷飞行的高阶技巧",
+      "SFC首发护航大作"
+    ],
+    "reviews": [
+      {
+        "source": "EGM",
+        "score": "36/40",
+        "quote": "四位评测员全员9分，称其为SFC必备之作"
+      },
+      {
+        "source": "Fami通",
+        "score": "32/40",
+        "quote": "编辑盛赞关卡容量与可玩性"
+      },
+      {
+        "source": "GameRankings",
+        "score": "94%",
+        "quote": "综合评分位居SNES前列"
+      }
+    ],
+    "editorScore": 9.4,
+    "is2D": true,
+    "screenshots": [
+      "images/sfc/sfc-super-mario-world-1.png",
+      "images/sfc/sfc-super-mario-world-2.png"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "sfc-terranigma",
+    "title": "Terranigma",
+    "titleZh": "天地创造",
+    "titleJa": "天地創造",
+    "year": 1995,
+    "developer": "Quintet",
+    "publisher": "Enix",
+    "genre": "动作角色扮演",
+    "tags": [
+      "像素",
+      "世界复苏",
+      "日版神作"
+    ],
+    "players": "1",
+    "tagline": "亲手让地球重生的创世神话",
+    "description": "“天地创造”——这四个字在中国老玩家心中分量极重。少年亚克打开了村中禁忌之箱，整个村子被封印，为了拯救大家，他踏上了让地表世界复活的旅程。\n\n游戏的立意宏大得惊人：你要逐一复苏大陆、植物、动物乃至人类，见证文明从原始到现代的演进；城镇会随着你的行动而发展壮大。动作系统流畅爽快，冲刺跳斩等技巧手感极佳。\n\n本作从未在北美发行，却凭借汉化版在国内声名远扬。那份关于生命与存在的哲思，以及最后那令人怅然的结局，值得每位RPG玩家亲身体验。",
+    "highlights": [
+      "让地球生命复苏的宏大主题",
+      "城镇随剧情发展演进",
+      "流畅的动作战斗",
+      "发人深省的结局"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "30/40",
+        "quote": "编辑称赞其壮阔的世界观与动作系统"
+      },
+      {
+        "source": "CVG",
+        "score": "4/5",
+        "quote": "英国杂志认为其是SNES末期出色的动作RPG"
+      },
+      {
+        "source": "GameRankings",
+        "score": "74%",
+        "quote": "综合媒体评分，欧版发行后口碑持续发酵"
+      }
+    ],
+    "editorScore": 9.3,
+    "is2D": true,
+    "screenshots": [
+      "images/sfc/sfc-terranigma-1.png",
+      "images/sfc/sfc-terranigma-2.jpg"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "sfc-tactics-ogre",
+    "title": "Tactics Ogre: Let Us Cling Together",
+    "titleZh": "皇家骑士团2",
+    "titleJa": "タクティクスオウガ",
+    "year": 1995,
+    "developer": "Quest",
+    "publisher": "Quest",
+    "genre": "策略角色扮演",
+    "tags": [
+      "战棋",
+      "多结局",
+      "政治剧"
+    ],
+    "players": "1",
+    "tagline": "沉重而深邃的战棋史诗",
+    "description": "“让我们紧紧相依”——这句副标题背后，是一个关于民族、战争与背叛的沉重故事。《皇家骑士团2》由松野泰己执导，将战棋游戏的叙事深度推到了前所未有的高度。\n\n游戏采用斜45度立体战场，高低差、地形、天气都会影响战局；而剧情中的关键抉择将使你走向“秩序”“中立”“混沌”三条截然不同的路线，结局也随之改变。在这里，没有绝对的正义。\n\n后来的《最终幻想战略版》正是脱胎于本作。喜欢战棋的朋友，它就是那座必须攀登的高峰。",
+    "highlights": [
+      "高低差立体战场",
+      "三条路线、多重结局",
+      "成熟的政治战争剧本",
+      "松野泰己代表作"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "34/40",
+        "quote": "SFC版获10、8、8、8分，赞其策略深度"
+      },
+      {
+        "source": "Nintendo Life",
+        "score": "10/10",
+        "quote": "Virtual Console版评测给出满分，称其为战棋巅峰"
+      }
+    ],
+    "editorScore": 9.3,
+    "is2D": true,
+    "screenshots": [
+      "images/sfc/sfc-tactics-ogre-1.png",
+      "images/sfc/sfc-tactics-ogre-2.jpg"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "sfc-earthbound",
+    "title": "EarthBound",
+    "titleZh": "地球冒险2",
+    "titleJa": "MOTHER2 ギーグの逆襲",
+    "year": 1994,
+    "developer": "Ape / HAL Laboratory",
+    "publisher": "Nintendo",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "现代美国",
+      "怪诞幽默"
+    ],
+    "players": "1",
+    "tagline": "温暖又古怪的现代童话",
+    "description": "不是剑与魔法，而是棒球棍与悠悠球！糸井重里打造的《地球冒险2》把RPG舞台搬到了仿美国小镇，少年奈斯为了阻止外星人基格的入侵，带着伙伴踏上了冒险。\n\n本作充满冷幽默：敌人是嬉皮士、疯狂的出租车和会走路的垃圾桶；战斗采用“滚动血量”系统，濒死时迅速出招还能逃过一劫。看似天真的画风下，却藏着关于成长、思乡与孤独的深沉情感。\n\n这款游戏在欧美拥有狂热的邪典粉丝，《传说之下》的作者便深受其影响。它的温柔与古怪，都值得你亲自感受。",
+    "highlights": [
+      "现代都市背景的另类RPG",
+      "独特的滚动血量战斗",
+      "糸井重里的幽默剧本",
+      "影响《传说之下》等独立游戏"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "34/40",
+        "quote": "编辑给出9、9、8、8，称赞其独树一帜的世界观"
+      },
+      {
+        "source": "IGN",
+        "score": "9/10",
+        "quote": "Virtual Console版评测称其魅力历久弥新"
+      },
+      {
+        "source": "Nintendo Life",
+        "score": "10/10",
+        "quote": "满分评价，誉为不可错过的经典"
+      }
+    ],
+    "editorScore": 9.3,
+    "is2D": true,
+    "screenshots": [
+      "images/sfc/sfc-earthbound-2.jpg"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "sfc-fire-emblem-genealogy",
+    "title": "Fire Emblem: Genealogy of the Holy War",
+    "titleZh": "火焰纹章：圣战之系谱",
+    "titleJa": "ファイアーエムブレム 聖戦の系譜",
+    "year": 1996,
+    "developer": "Intelligent Systems",
+    "publisher": "Nintendo",
+    "genre": "策略角色扮演",
+    "tags": [
+      "战棋",
+      "双世代",
+      "恋爱继承"
+    ],
+    "players": "1",
+    "tagline": "父子两代的圣战悲歌",
+    "description": "加贺昭三执掌的系列第四作，是许多火纹老粉心中永远的No.1。《圣战之系谱》将故事分为父辈与子辈两部，前半段角色之间的恋爱关系将决定后半段子女的能力与武器——这种“血统继承”的设计至今无出其右。\n\n超大地图上一章即是一场战役，城池攻防、骑兵冲锋，气势恢宏。而前半部结尾的那场“巴哈拉之战”，堪称游戏史上最令人心碎的悲剧之一。\n\n本作从未官方出海，但凭借汉化版在国内拥有极高人气。战棋爱好者务必一试，准备好纸巾！",
+    "highlights": [
+      "父子两代的叙事结构",
+      "恋爱系统决定子女能力",
+      "大地图战役式关卡",
+      "令人震撼的悲剧剧情"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "31/40",
+        "quote": "编辑给出9、6、8、8，肯定其宏大的系统设计"
+      }
+    ],
+    "editorScore": 9.2,
+    "is2D": true,
+    "screenshots": [
+      "images/sfc/sfc-fire-emblem-genealogy-1.png",
+      "images/sfc/sfc-fire-emblem-genealogy-2.jpg"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "sfc-live-a-live",
+    "title": "Live A Live",
+    "titleZh": "时空勇士",
+    "titleJa": "ライブ・ア・ライブ",
+    "year": 1994,
+    "developer": "Square",
+    "publisher": "Square",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "多篇章",
+      "日版神作"
+    ],
+    "players": "1",
+    "tagline": "七个时代，七种玩法",
+    "description": "原始时代、幕末忍者、西部牛仔、近未来超能力者……《时空勇士》把七个风格迥异的短篇故事装进一张卡带，每篇由不同的知名漫画家担当角色设计，玩法也各有千秋。\n\n功夫篇是收徒传承，忍者篇可以“不杀”通关，SF篇则几乎是一部太空惊悚冒险。网格式战斗系统需要考虑站位与攻击范围，策略性十足。当所有篇章揭开后，真正的最终章才会登场——那一刻的震撼与反转，绝对值得等待。\n\n这款曾经只在日本发售的冷门神作，在2022年终于以HD-2D重制版走向世界，口碑极佳。原版的像素风味同样迷人！",
+    "highlights": [
+      "七个时代七种玩法",
+      "多位知名漫画家联手",
+      "网格式战术战斗",
+      "震撼的隐藏最终章"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "29/40",
+        "quote": "SFC原版获8、7、7、7分，肯定其大胆的实验性"
+      },
+      {
+        "source": "IGN",
+        "score": "9/10",
+        "quote": "2022年重制版评测盛赞其独特的叙事结构"
+      },
+      {
+        "source": "Nintendo Life",
+        "score": "8/10",
+        "quote": "称其为终于走向世界的隐藏瑰宝"
+      }
+    ],
+    "editorScore": 9.1,
+    "is2D": true,
+    "screenshots": [
+      "images/sfc/sfc-live-a-live-1.jpg"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "sfc-mega-man-x",
+    "title": "Mega Man X",
+    "titleZh": "洛克人X",
+    "titleJa": "ロックマンX",
+    "year": 1993,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genre": "动作",
+    "tags": [
+      "横版",
+      "射击",
+      "踢墙跳"
+    ],
+    "players": "1",
+    "tagline": "蓝色机器人的16位进化",
+    "description": "洛克人系列登陆SFC后的全新篇章！新主角X拥有“踢墙跳”与“冲刺”两大新能力，动作手感比FC时代更加爽快流畅。开场的高速公路关卡，正是教学设计的典范——不用一句提示就把所有操作教给了你。\n\n八大BOSS任选挑战，击败后获得特殊武器，找出克制关系是永恒的乐趣；各关隐藏的装甲部件与心之容器、甚至还有隐藏的“升龙拳”，让探索充满惊喜。\n\n杰洛这个角色就此诞生，酷到没朋友。这款作品至今仍是横版动作射击游戏的标杆。",
+    "highlights": [
+      "踢墙跳与冲刺带来全新手感",
+      "教科书级开场关卡",
+      "隐藏装甲与升龙拳彩蛋",
+      "杰洛首次登场"
+    ],
+    "reviews": [
+      {
+        "source": "EGM",
+        "score": "36/40",
+        "quote": "四位评测员全员9分，称其系列最佳"
+      },
+      {
+        "source": "GameRankings",
+        "score": "88.5%",
+        "quote": "综合评分处于SNES动作游戏前列"
+      },
+      {
+        "source": "IGN",
+        "score": "9/10",
+        "quote": "Virtual Console版评测称其依然经典"
+      }
+    ],
+    "editorScore": 9.1,
+    "is2D": true,
+    "screenshots": [
+      "images/sfc/sfc-mega-man-x-1.png",
+      "images/sfc/sfc-mega-man-x-2.png"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "sfc-romancing-saga-3",
+    "title": "Romancing SaGa 3",
+    "titleZh": "浪漫沙加3",
+    "titleJa": "ロマンシング サ・ガ3",
+    "year": 1995,
+    "developer": "Square",
+    "publisher": "Square",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "自由剧本",
+      "闪光技"
+    ],
+    "players": "1",
+    "tagline": "自由度爆表的沙加巅峰",
+    "description": "八位主角任选其一，开局之后去哪儿、做什么全凭你自己——这就是河津秋敏的“自由剧本”系统！《浪漫沙加3》讲述死蚀之年降生的“宿命之子”之谜，世界各地的事件交织成复杂的网络。\n\n战斗中角色会随机“闪光”领悟新技能，那个灯泡亮起的瞬间令人上瘾；阵型系统与连携技让战术变化多端。此外还有经营商会的“商战”与指挥军队的“大会战”等丰富小游戏。\n\n伊藤贤治的战斗曲燃到爆，小林智美的插画美到极致。本作已推出现代平台重制版，是喜欢高自由度RPG玩家的不二之选。",
+    "highlights": [
+      "八主角自由剧本系统",
+      "随机“闪光”领悟技能",
+      "商战、大会战等多元玩法",
+      "伊藤贤治热血配乐"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "34/40",
+        "quote": "编辑给出9、9、9、7，赞赏自由度与战斗系统"
+      }
+    ],
+    "editorScore": 9.0,
+    "is2D": true,
+    "screenshots": [
+      "images/sfc/sfc-romancing-saga-3-1.jpg",
+      "images/sfc/sfc-romancing-saga-3-2.jpg"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "sfc-donkey-kong-country-2",
+    "title": "Donkey Kong Country 2: Diddy's Kong Quest",
+    "titleZh": "超级大金刚2",
+    "titleJa": "スーパードンキーコング2 ディクシー&ディディー",
+    "year": 1995,
+    "developer": "Rare",
+    "publisher": "Nintendo",
+    "genre": "平台动作",
+    "tags": [
+      "横版",
+      "预渲染",
+      "海盗"
+    ],
+    "players": "1-2",
+    "tagline": "海盗船上的预渲染奇迹",
+    "description": "大金刚被海盗克鲁尔王抓走了！迪迪和新角色迪克西携手出发营救。Rare在SFC上用预渲染CG技术制作的画面，在当年简直堪比次世代主机。\n\n迪克西用马尾巴螺旋桨滑翔，配合两人投掷合作，关卡变化极其丰富：海盗船、火山、蜂巢、鬼魂过山车……每一关都有独特的主题与机关。David Wise创作的“Stickerbush Symphony”被无数玩家奉为游戏史最美的配乐之一。\n\n难度比前作更高，收集要素也更多，是硬核平台玩家的心头好。",
+    "highlights": [
+      "预渲染CG画面震撼一时",
+      "迪迪与迪克西双人搭档",
+      "主题鲜明的多样关卡",
+      "David Wise经典配乐"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "32/40",
+        "quote": "编辑给出8、9、8、7，称赞画面与关卡"
+      },
+      {
+        "source": "GameRankings",
+        "score": "90%",
+        "quote": "综合媒体评分"
+      },
+      {
+        "source": "IGN",
+        "score": "8.8/10",
+        "quote": "回顾评测肯定其关卡设计与配乐"
+      }
+    ],
+    "editorScore": 9.0,
+    "is2D": true,
+    "screenshots": [
+      "images/sfc/sfc-donkey-kong-country-2-1.png",
+      "images/sfc/sfc-donkey-kong-country-2-2.jpg"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "sfc-super-castlevania-iv",
+    "title": "Super Castlevania IV",
+    "titleZh": "恶魔城4",
+    "titleJa": "悪魔城ドラキュラ",
+    "year": 1991,
+    "developer": "Konami",
+    "publisher": "Konami",
+    "genre": "动作",
+    "tags": [
+      "横版",
+      "哥特",
+      "八方向鞭"
+    ],
+    "players": "1",
+    "tagline": "哥特城堡里的八方向鞭击",
+    "description": "西蒙·贝尔蒙特再度挥鞭讨伐德古拉！作为SFC早期作品，《恶魔城4》就已充分运用了机能：旋转的房间、缩放的吊灯、透明的背景层，哥特城堡的氛围被渲染得淋漓尽致。\n\n本作首次实现八方向挥鞭，还可甩鞭摆荡、悬挂抵挡，操作性大幅提升。关卡设计张弛有度，配乐更是系列中的佼佼者，管风琴与贝斯交织出阴森又华丽的旋律。\n\n喜欢“古典恶魔城”的硬派玩家，这一作是最值得入门的经典。",
+    "highlights": [
+      "八方向挥鞭与摆荡",
+      "Mode 7旋转房间特效",
+      "系列最佳配乐之一",
+      "古典恶魔城的集大成"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "29/40",
+        "quote": "编辑给出7、8、8、6，赞赏画面效果"
+      },
+      {
+        "source": "IGN",
+        "score": "8/10",
+        "quote": "Virtual Console版评测认为其依然可玩性极高"
+      },
+      {
+        "source": "Nintendo Life",
+        "score": "9/10",
+        "quote": "称其为古典恶魔城的巅峰之一"
+      }
+    ],
+    "editorScore": 8.9,
+    "is2D": true,
+    "screenshots": [
+      "images/sfc/sfc-super-castlevania-iv-1.png",
+      "images/sfc/sfc-super-castlevania-iv-2.png"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "sfc-contra-iii",
+    "title": "Contra III: The Alien Wars",
+    "titleZh": "魂斗罗精神",
+    "titleJa": "魂斗羅スピリッツ",
+    "year": 1992,
+    "developer": "Konami",
+    "publisher": "Konami",
+    "genre": "射击",
+    "tags": [
+      "横版",
+      "双人",
+      "硬核"
+    ],
+    "players": "1-2",
+    "tagline": "双人狂扫的硬派火力盛宴",
+    "description": "上下上下左右左右BA！FC时代的魂斗罗来到SFC，火力全面升级。《魂斗罗精神》中，两名战士可同时携带两种武器随时切换，紧急时还能使用炸弹清屏。\n\n本作充分利用了SFC特效：攀爬墙壁、悬挂导弹空中穿梭、俯视角的Mode 7旋转关卡，巨型BOSS一个比一个夸张。难度依旧硬核，但双人合作时的爽快感无可匹敌。\n\n叫上好兄弟，找回当年并肩作战的热血吧！",
+    "highlights": [
+      "双武器切换与清屏炸弹",
+      "Mode 7俯视角关卡",
+      "超大体型BOSS战",
+      "双人同屏合作"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "28/40",
+        "quote": "编辑认可其爽快的射击体验"
+      },
+      {
+        "source": "EGM",
+        "score": "36/40",
+        "quote": "四位评测员全员9分，赞其为最激烈的动作游戏之一"
+      }
+    ],
+    "editorScore": 8.8,
+    "is2D": true,
+    "screenshots": [
+      "images/sfc/sfc-contra-iii-1.png"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "sfc-street-fighter-ii-turbo",
+    "title": "Street Fighter II Turbo",
+    "titleZh": "街头霸王2 Turbo",
+    "titleJa": "ストリートファイターII ターボ",
+    "year": 1993,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genre": "格斗",
+    "tags": [
+      "对战",
+      "街机移植",
+      "像素"
+    ],
+    "players": "1-2",
+    "tagline": "全民格斗热潮的家用巅峰",
+    "description": "九十年代游戏厅里最火爆的身影，就在你家电视上！《街头霸王2 Turbo》移植自街机版“Hyper Fighting”，四大天王全员可选，春丽的气功拳、隆的空中旋风腿等新招式全部收录。\n\n可自由调节的速度星级让对战节奏更加紧张刺激，移植完成度之高在当年令人震惊。一个波动拳、一个升龙拳，搓招成功的那一刻，就是童年最纯粹的快乐。\n\n叫上朋友，摆好手柄，决一胜负吧！",
+    "highlights": [
+      "移植自街机Hyper Fighting",
+      "四天王全员可选",
+      "可调节游戏速度",
+      "高完成度的家用移植"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "36/40",
+        "quote": "编辑盛赞移植度与对战乐趣"
+      },
+      {
+        "source": "EGM",
+        "score": "38/40",
+        "quote": "评测组称其为家用机上最好的格斗游戏"
+      },
+      {
+        "source": "GamePro",
+        "score": "20/20",
+        "quote": "满分评价"
+      }
+    ],
+    "editorScore": 8.8,
+    "is2D": true,
+    "screenshots": [
+      "images/sfc/sfc-street-fighter-ii-turbo-1.png",
+      "images/sfc/sfc-street-fighter-ii-turbo-2.jpg"
+    ],
+    "coverShot": true
+  }
+]

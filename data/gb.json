@@ -1,0 +1,764 @@
+[
+  {
+    "id": "gb-links-awakening-dx",
+    "title": "The Legend of Zelda: Link's Awakening DX",
+    "titleZh": "塞尔达传说 织梦岛DX",
+    "titleJa": "ゼルダの伝説 夢をみる島DX",
+    "year": 1998,
+    "developer": "Nintendo EAD",
+    "publisher": "Nintendo",
+    "genre": "动作冒险",
+    "tags": [
+      "俯视角",
+      "解谜",
+      "迷宫",
+      "像素"
+    ],
+    "players": "1",
+    "tagline": "掌机上最美的一场梦，塞尔达系列异色名作",
+    "description": "一场海难，林克被冲上了神秘的寇霍林特岛——没有海拉鲁，没有塞尔达公主，只有一枚沉睡在山顶巨蛋中的风之鱼。小小的黑白屏幕里，任天堂硬是塞进了一部完整的塞尔达：八座精巧迷宫、换物支线、钓鱼小游戏，还有客串的耀西、栗宝宝和吃铁球的汪汪！\n\n1998年的DX版为全彩重制，并新增了只能靠彩色辨识的“颜色迷宫”，配合Game Boy打印机还能打印相片。岛上的村庄、杂货铺和会说话的动物们充满日式童话味，结局揭晓的那一刻更是让无数玩家怅然若失。\n\n直到今天，它的迷宫设计依然是俯视角ARPG的教科书。只要你喜欢2D冒险，这座梦之岛就非去不可！",
+    "highlights": [
+      "8座构思精妙的迷宫，道具组合解谜堪称系列典范",
+      "彩色重制并新增“颜色迷宫”",
+      "横版跳跃段落与马力欧系客串角色彩蛋满满",
+      "伤感而余韵悠长的“梦”之结局"
+    ],
+    "reviews": [
+      {
+        "source": "IGN",
+        "score": "10/10",
+        "quote": "DX版是掌机上最完整的塞尔达体验，满分毫无争议"
+      },
+      {
+        "source": "Nintendo Life",
+        "score": "10/10",
+        "quote": "无论原版还是DX，都是Game Boy上最伟大的游戏之一"
+      },
+      {
+        "source": "GameSpot",
+        "score": "8.7/10",
+        "quote": "彩色化与新迷宫让这部经典焕然一新"
+      }
+    ],
+    "editorScore": 9.7,
+    "is2D": true,
+    "screenshots": [
+      "images/gb/gb-links-awakening-dx-2.png",
+      "images/gb/gb-links-awakening-dx-1.png"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "gb-pokemon-gold-silver",
+    "title": "Pokémon Gold / Silver",
+    "titleZh": "精灵宝可梦 金／银",
+    "titleJa": "ポケットモンスター 金・銀",
+    "year": 1999,
+    "developer": "Game Freak",
+    "publisher": "Nintendo",
+    "genre": "角色扮演",
+    "tags": [
+      "收集",
+      "养成",
+      "回合制",
+      "通信对战"
+    ],
+    "players": "1-2",
+    "tagline": "昼夜轮转的城都之旅，史上最豪华的续作",
+    "description": "当年拿到《金·银》的玩家，大概都经历过这一刻：打败四天王、看完制作人员名单，才发现——整个关都地区居然还在后面等着你！两块大陆、16枚徽章，这份“买一送一”的诚意至今令人咋舌。\n\n本作加入内置时钟，昼夜与星期会影响出现的宝可梦和活动；新增100只宝可梦、携带道具、性别与孵蛋系统，奠定了此后二十多年的系列框架。城都的日式古都风景、铃铛塔与金黄的枫叶，都用GBC的有限色彩描绘得温柔动人。\n\n在不少老玩家心中，这依然是宝可梦的巅峰。想体验最纯粹的收集养成乐趣，从若叶镇出发吧！",
+    "highlights": [
+      "城都＋关都两大地区，内容量惊人",
+      "实时钟带来昼夜与星期变化",
+      "首次引入孵蛋、性别、携带道具系统",
+      "通过连接线与红绿蓝版互通交换"
+    ],
+    "reviews": [
+      {
+        "source": "IGN",
+        "score": "10/10",
+        "quote": "在各方面都超越了前作，掌机RPG的新标杆"
+      },
+      {
+        "source": "Fami通",
+        "score": "33/40",
+        "quote": "系统大幅扩充，昼夜变化让冒险更加鲜活"
+      },
+      {
+        "source": "GameSpot",
+        "score": "8.8/10",
+        "quote": "新宝可梦与新系统让老玩家欲罢不能"
+      }
+    ],
+    "editorScore": 9.6,
+    "is2D": true,
+    "screenshots": [
+      "images/gb/gb-pokemon-gold-silver-1.png"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "gb-zelda-oracle",
+    "title": "The Legend of Zelda: Oracle of Seasons / Oracle of Ages",
+    "titleZh": "塞尔达传说 不可思议的果实 大地之章／时空之章",
+    "titleJa": "ゼルダの伝説 ふしぎの木の実 大地の章／時空の章",
+    "year": 2001,
+    "developer": "Flagship（Capcom）",
+    "publisher": "Nintendo",
+    "genre": "动作冒险",
+    "tags": [
+      "俯视角",
+      "解谜",
+      "双版本联动"
+    ],
+    "players": "1",
+    "tagline": "卡普空执笔的双子塞尔达，四季与时空任你操纵",
+    "description": "任天堂把塞尔达交给卡普空旗下的Flagship，结果端出了一对双胞胎杰作！《大地之章》挥动“四季之杖”切换春夏秋冬——冬天的积雪能当台阶、夏天的藤蔓可以攀爬，偏重动作；《时空之章》则用“时空竖琴”穿梭于过去与现在，谜题烧脑程度直逼系列之最。\n\n两作通关后可凭密码联动，在另一卷中解锁真结局与最终BOSS，这种设计在当年真是让人拍案叫绝。画面在织梦岛基础上全面强化，GBC的色彩被挖掘到极致。\n\n如果你通关了织梦岛还嫌不过瘾，这两卷合计近十六座迷宫的分量，足够你再沉迷一整个暑假。",
+    "highlights": [
+      "四季切换与时空穿越两套核心机制",
+      "密码/连线联动解锁真结局",
+      "迷宫数量与谜题密度都极为丰富",
+      "戒指收集系统带来养成乐趣"
+    ],
+    "reviews": [
+      {
+        "source": "IGN",
+        "score": "10/10",
+        "quote": "两部作品都是Game Boy Color上的顶级冒险"
+      },
+      {
+        "source": "GameSpot",
+        "score": "9.2/10",
+        "quote": "忠于系列精髓又各具特色的双子杰作"
+      },
+      {
+        "source": "Fami通",
+        "score": "31/40",
+        "quote": "（大地之章）季节切换的点子新颖，分量十足"
+      }
+    ],
+    "editorScore": 9.3,
+    "is2D": true,
+    "screenshots": [
+      "images/gb/gb-zelda-oracle-1.png",
+      "images/gb/gb-zelda-oracle-2.png"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "gb-pokemon-red-green",
+    "title": "Pokémon Red / Green / Blue",
+    "titleZh": "精灵宝可梦 红／绿／蓝",
+    "titleJa": "ポケットモンスター 赤・緑",
+    "year": 1996,
+    "developer": "Game Freak",
+    "publisher": "Nintendo",
+    "genre": "角色扮演",
+    "tags": [
+      "收集",
+      "养成",
+      "回合制",
+      "通信交换"
+    ],
+    "players": "1-2",
+    "tagline": "一根连接线，引爆全世界的口袋怪兽热潮",
+    "description": "“去捉一只吧！”——田尻智把童年捉虫的回忆装进了小小的Game Boy卡带。151只口袋怪兽分散在红、绿两个版本中，想要收集齐全，就得拉上同学用连接线交换，这一创意让游戏真正“活”在了校园与街头。\n\n属性相克的回合制战斗简单易懂却深不见底，从真新镇出发、挑战八座道馆、对决劲敌小茂，标准的日式RPG冒险结构加上浓浓的收集欲，让人一玩就停不下来。\n\n画面朴素、BUG不少，却丝毫不影响它的魅力。这是一切的起点，也是理解宝可梦为何能成为全球最赚钱IP的最佳教材。",
+    "highlights": [
+      "151只怪兽，双版本交换收集",
+      "属性相克的回合制战斗易学难精",
+      "连接线对战与交换开创社交玩法",
+      "超梦、隐藏要素等都市传说层出不穷"
+    ],
+    "reviews": [
+      {
+        "source": "IGN",
+        "score": "10/10",
+        "quote": "令人上瘾的收集与对战，掌机必备之作"
+      },
+      {
+        "source": "GameSpot",
+        "score": "8.8/10",
+        "quote": "（蓝版）看似简单，实则深度惊人"
+      },
+      {
+        "source": "Fami通",
+        "score": "29/40",
+        "quote": "收集与交换的点子独特，耐玩度高"
+      }
+    ],
+    "editorScore": 9.2,
+    "is2D": true,
+    "screenshots": [
+      "images/gb/gb-pokemon-red-green-1.png"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "gb-tetris",
+    "title": "Tetris",
+    "titleZh": "俄罗斯方块",
+    "titleJa": "テトリス",
+    "year": 1989,
+    "developer": "Nintendo R&D1",
+    "publisher": "Nintendo",
+    "genre": "益智",
+    "tags": [
+      "方块消除",
+      "对战",
+      "永恒经典"
+    ],
+    "players": "1-2",
+    "tagline": "Game Boy的灵魂之作，三千万份的传奇",
+    "description": "提起Game Boy，谁的脑海里不会响起那段俄罗斯民歌《货郎》？任天堂把这款来自苏联的益智游戏捆绑进掌机同捆包，结果一举卖出三千多万份，造就了掌机史上最强的“杀手级应用”。\n\n玩法简单到只需一句话：把落下的方块拼满一行。但A型无尽模式的速度攀升、B型模式的残局清理，还有用连接线进行的双人对战——把消除的行数“送”给对手，紧张感拉满。\n\n三十多年过去了，它依然是“再来一局”的代名词。不论你是公交车上的上班族还是怀旧玩家，这块小小的黑白屏幕永远不会过时。",
+    "highlights": [
+      "掌机同捆大作，全球销量超3500万",
+      "A型/B型两种模式与经典BGM",
+      "连接线双人对战首创送行机制",
+      "上手零门槛，深度无止境"
+    ],
+    "reviews": [
+      {
+        "source": "GameRankings",
+        "score": "90%",
+        "quote": "综合媒体评价极高，被誉为Game Boy的杀手级应用"
+      },
+      {
+        "source": "Fami通",
+        "score": "29/40",
+        "quote": "规则单纯却令人上瘾，随时随地都能玩"
+      },
+      {
+        "source": "Next Generation",
+        "score": "—",
+        "quote": "被认为是让Game Boy大获成功的关键作品"
+      }
+    ],
+    "editorScore": 9.2,
+    "is2D": true,
+    "screenshots": [
+      "images/gb/gb-tetris-1.png"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "gb-final-fantasy-adventure",
+    "title": "Final Fantasy Adventure",
+    "titleZh": "圣剑传说 ～最终幻想外传～",
+    "titleJa": "聖剣伝説 ～ファイナルファンタジー外伝～",
+    "year": 1991,
+    "developer": "Square",
+    "publisher": "Square",
+    "genre": "动作角色扮演",
+    "tags": [
+      "俯视角",
+      "ARPG",
+      "剧情",
+      "像素"
+    ],
+    "players": "1",
+    "tagline": "圣剑传说的起点，掌机上的日式ARPG先驱",
+    "description": "一名被迫在角斗场搏命的奴隶少年，为了救出神秘少女，踏上对抗暗黑之王的旅途……这就是石井浩一带领团队打造的《圣剑传说》系列第一作。在那个年代，能在Game Boy上玩到剧情如此丰满的动作RPG，简直不可思议！\n\n游戏采用俯视角即时战斗，剑、斧、锁链镰各有用途，可用来砍树、钩取或破坏障碍；升级时可自选成长方向，还有陆行鸟同行。村庄、商店与地下城一应俱全，浓浓的日式幻想风情扑面而来，那首悲伤的主题曲更让人难以忘怀。\n\n后来的《圣剑传说2》《3》名满天下，但要追溯这股“玛娜”的源头，就从这里开始吧。",
+    "highlights": [
+      "《圣剑传说》系列初代作品",
+      "多种武器兼具战斗与解谜用途",
+      "戏剧性的剧情与伊藤贤治的动人配乐",
+      "日式村镇与地下城探索氛围浓厚"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "33/40",
+        "quote": "在Game Boy上实现了正统的动作RPG，完成度很高"
+      },
+      {
+        "source": "IGN",
+        "score": "9/10",
+        "quote": "剧情、画面与音乐俱佳，谜题设计颇具新意"
+      },
+      {
+        "source": "RPGFan",
+        "score": "92%",
+        "quote": "至今仍值得一玩的掌机ARPG经典"
+      }
+    ],
+    "editorScore": 9.0,
+    "is2D": true,
+    "screenshots": [
+      "images/gb/gb-final-fantasy-adventure-1.png",
+      "images/gb/gb-final-fantasy-adventure-2.png"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "gb-wario-land-3",
+    "title": "Wario Land 3",
+    "titleZh": "瓦力欧大陆3",
+    "titleJa": "ワリオランド3 ふしぎなオルゴール",
+    "year": 2000,
+    "developer": "Nintendo R&D1",
+    "publisher": "Nintendo",
+    "genre": "平台动作",
+    "tags": [
+      "横版",
+      "解谜",
+      "探索"
+    ],
+    "players": "1",
+    "tagline": "打不死的瓦力欧，横版解谜的最高杰作",
+    "description": "这一次，瓦力欧被吸进了神秘音乐盒的世界。最有趣的是——他根本不会死！被火烧会变成火球、被压扁会变成弹簧、被僵尸咬会变成能穿地板的僵尸，这些“状态变化”全都是通关的钥匙。\n\n游戏的地图会随昼夜切换，并根据你取得的宝物逐步解锁新能力与新路线，同一关卡反复探索也能发现新天地，堪称“银河恶魔城”式的关卡设计。GBC的色彩表现明亮饱满，动作手感扎实。\n\n这是任天堂第一开发部在GBC末期交出的满分答卷，喜欢横版动作与解谜的玩家绝不能错过。",
+    "highlights": [
+      "“不死”的状态变化系统，化伤害为能力",
+      "昼夜切换与能力解锁的开放探索",
+      "每关四把钥匙四个宝箱，收集欲满点",
+      "迷你高尔夫等小游戏趣味十足"
+    ],
+    "reviews": [
+      {
+        "source": "GameSpot",
+        "score": "9.8/10",
+        "quote": "Game Boy Color上最出色的游戏之一"
+      },
+      {
+        "source": "Fami通",
+        "score": "33/40",
+        "quote": "变身解谜与探索的结合非常出色"
+      },
+      {
+        "source": "IGN",
+        "score": "9/10",
+        "quote": "新颖的玩法设计，必玩的平台游戏"
+      }
+    ],
+    "editorScore": 9.0,
+    "is2D": true,
+    "screenshots": [
+      "images/gb/gb-wario-land-3-1.jpg"
+    ],
+    "coverShot": false
+  },
+  {
+    "id": "gb-metal-gear-ghost-babel",
+    "title": "Metal Gear Solid (Ghost Babel)",
+    "titleZh": "合金装备 幽灵巴别塔",
+    "titleJa": "メタルギア ゴーストバベル",
+    "year": 2000,
+    "developer": "Konami Computer Entertainment Japan",
+    "publisher": "Konami",
+    "genre": "潜入动作",
+    "tags": [
+      "俯视角",
+      "潜入",
+      "剧情"
+    ],
+    "players": "1-2",
+    "tagline": "把潜入谍战塞进GBC，小岛组出品必属精品",
+    "description": "谁说潜入游戏只能在主机上玩？这部GBC版的《合金装备》并非PS版移植，而是一部全新剧情的外传：故事发生在初代MSX《合金装备》的舞台“外天国”七年后，Snake再度潜入非洲，追查被盗的新型合金装备。\n\n视野锥、纸箱、敲墙吸引注意、无线电通讯……PS版的潜入精髓几乎原汁原味地压缩到了掌机里，关卡多达十余章，还有VR训练任务与双人对战。俯视角像素画面清晰利落，紧张感毫不打折。\n\n这是掌机史上最被低估的动作游戏之一，喜欢2D俯视角的玩家一定要补课。",
+    "highlights": [
+      "全新原创剧情，衔接MSX初代",
+      "视野、纸箱、无线电等系列精髓齐全",
+      "丰富的VR训练与连线对战",
+      "Boss战设计依旧充满小岛式创意"
+    ],
+    "reviews": [
+      {
+        "source": "IGN",
+        "score": "10/10",
+        "quote": "不可思议地把系列精髓完美带上了掌机"
+      },
+      {
+        "source": "GameSpot",
+        "score": "9.4/10",
+        "quote": "Game Boy Color上最好的动作游戏之一"
+      },
+      {
+        "source": "Fami通",
+        "score": "31/40",
+        "quote": "潜入玩法在掌机上依然成立，分量十足"
+      }
+    ],
+    "editorScore": 8.8,
+    "is2D": true,
+    "screenshots": [
+      "images/gb/gb-metal-gear-ghost-babel-1.png",
+      "images/gb/gb-metal-gear-ghost-babel-2.png"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "gb-super-mario-land-2",
+    "title": "Super Mario Land 2: 6 Golden Coins",
+    "titleZh": "超级马力欧大陆2 六枚金币",
+    "titleJa": "スーパーマリオランド2 6つの金貨",
+    "year": 1992,
+    "developer": "Nintendo R&D1",
+    "publisher": "Nintendo",
+    "genre": "平台动作",
+    "tags": [
+      "横版",
+      "跳跃",
+      "世界地图"
+    ],
+    "players": "1",
+    "tagline": "瓦力欧初登场！黑白屏上的大块头马力欧",
+    "description": "马力欧的城堡被一个长得像他、却满脸坏笑的家伙占领了——没错，这就是瓦力欧的首次登场！为了夺回城堡，马力欧必须收集分散在六个主题世界中的六枚金币。\n\n与前作相比，本作的角色精灵大了一圈，画面细腻得不像Game Boy。马力欧大陆上有巨大化的“马力欧玩具区”、需要钻进兔耳朵飞翔的南瓜区、还有在宇宙中失重跳跃的太空区，每个世界都创意十足，还可以自由选择挑战顺序。\n\n轻松明快的节奏和可爱的世界观，非常适合碎片时间游玩，也是理解瓦力欧系列起源的必修课。",
+    "highlights": [
+      "瓦力欧首次登场",
+      "大尺寸角色精灵，画面精致",
+      "六大主题世界可自由选择顺序",
+      "兔耳马力欧等新变身"
+    ],
+    "reviews": [
+      {
+        "source": "IGN",
+        "score": "9/10",
+        "quote": "大幅超越前作，画面与关卡设计都更上一层楼"
+      },
+      {
+        "source": "EGM",
+        "score": "35/40",
+        "quote": "四位评论员均给出高分，掌机必玩平台游戏"
+      },
+      {
+        "source": "Nintendo Life",
+        "score": "9/10",
+        "quote": "充满魅力的世界与关卡，至今依然好玩"
+      }
+    ],
+    "editorScore": 8.8,
+    "is2D": true,
+    "screenshots": [
+      "images/gb/gb-super-mario-land-2-1.png",
+      "images/gb/gb-super-mario-land-2-2.jpg"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "gb-donkey-kong-94",
+    "title": "Donkey Kong",
+    "titleZh": "大金刚（GB版）",
+    "titleJa": "ドンキーコング",
+    "year": 1994,
+    "developer": "Nintendo EAD",
+    "publisher": "Nintendo",
+    "genre": "动作解谜",
+    "tags": [
+      "平台",
+      "解谜",
+      "关卡制"
+    ],
+    "players": "1",
+    "tagline": "四关之后才是真正开始，百关动作解谜盛宴",
+    "description": "开场你会看到熟悉的四个街机关卡——钢梁、滚桶、马力欧救公主。正当你以为“就这？”的时候，大金刚扛起宝琪逃走了，后面还有整整九十多关等着你！\n\n本作的马力欧身手矫健：倒立、后空翻、单手吊绳样样精通。每一关都是精心设计的“搬钥匙开门”谜题，需要合理利用道具、开关与平台，动作与思考缺一不可。配合超级Game Boy还有专属边框与彩色。\n\n它是后来《马力欧vs大金刚》系列的前身，也是很多玩家心中被埋没的Game Boy第一神作。",
+    "highlights": [
+      "从街机原作4关延伸出百余关",
+      "马力欧新增倒立、后空翻等动作",
+      "动作与解谜完美结合的关卡设计",
+      "《马力欧vs大金刚》系列的原点"
+    ],
+    "reviews": [
+      {
+        "source": "EGM",
+        "score": "33/40",
+        "quote": "当月最佳游戏，并获评年度最佳Game Boy游戏"
+      },
+      {
+        "source": "Total!",
+        "score": "92%",
+        "quote": "史上最佳平台游戏之一，原作的出色续篇"
+      },
+      {
+        "source": "Game Players",
+        "score": "93%",
+        "quote": "出人意料的丰富内容与巧妙关卡"
+      }
+    ],
+    "editorScore": 8.7,
+    "is2D": true,
+    "screenshots": [
+      "images/gb/gb-donkey-kong-94-1.png",
+      "images/gb/gb-donkey-kong-94-2.jpg"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "gb-kaeru-no-tame",
+    "title": "For the Frog the Bell Tolls",
+    "titleZh": "青蛙为了钟声而鸣",
+    "titleJa": "カエルの為に鐘は鳴る",
+    "year": 1992,
+    "developer": "Nintendo R&D1 / Intelligent Systems",
+    "publisher": "Nintendo",
+    "genre": "动作角色扮演",
+    "tags": [
+      "俯视角",
+      "幽默",
+      "日版独占",
+      "遗珠"
+    ],
+    "players": "1",
+    "tagline": "织梦岛的“原型”，任天堂冷门遗珠",
+    "description": "萨布雷王国的王子为了营救被困的提拉米苏公主，和宿敌理查德王子展开一场“谁先到”的竞赛——结果半路被诅咒变成了青蛙！变成青蛙能游泳钻小洞，变成蛇则能……被所有人讨厌？这种无厘头的幽默贯穿始终。\n\n本作由任天堂第一开发部与Intelligent Systems联合制作，俯视角探索结合横版跳跃，战斗则是根据属性自动进行的“比数值”式对决，重点在于探索与解谜。它的引擎后来被用于开发《织梦岛》，理查德王子还在织梦岛中客串登场。\n\n这款日版独占作品早有爱好者英文补丁，3DS虚拟主机与Switch的Nintendo Classics也都收录了它。想挖宝的玩家，这颗遗珠值得一试！",
+    "highlights": [
+      "《织梦岛》的技术与精神前身",
+      "青蛙/蛇变身带来不同探索能力",
+      "日式无厘头幽默剧情",
+      "俯视角与横版切换的独特结构"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "30/40",
+        "quote": "幽默感出众，主角不圣人化的设定令人耳目一新"
+      },
+      {
+        "source": "Retro Gamer",
+        "score": "—",
+        "quote": "“Import Only”专题介绍，盛赞其为值得进口的掌机遗珠"
+      }
+    ],
+    "editorScore": 8.6,
+    "is2D": true,
+    "screenshots": [
+      "images/gb/gb-kaeru-no-tame-1.png"
+    ],
+    "coverShot": false
+  },
+  {
+    "id": "gb-dragon-warrior-monsters",
+    "title": "Dragon Warrior Monsters",
+    "titleZh": "勇者斗恶龙 怪兽篇 特瑞的仙境",
+    "titleJa": "ドラゴンクエストモンスターズ テリーのワンダーランド",
+    "year": 1998,
+    "developer": "Tose",
+    "publisher": "Enix",
+    "genre": "角色扮演",
+    "tags": [
+      "怪物收集",
+      "配合",
+      "回合制"
+    ],
+    "players": "1-2",
+    "tagline": "史莱姆也能当伙伴！DQ怪兽配合的原点",
+    "description": "《勇者斗恶龙VI》中的少年特瑞，为了救回被掳走的姐姐米蕾优，闯入了神秘的“塔吉国”，成为一名怪兽驯养师。从史莱姆、德拉奇到龙王，系列熟悉的怪物都能收入麾下。\n\n本作最大的魅力是“配合”系统：将两只怪兽配对诞生新怪兽，继承特技、提升能力，配合表的组合几乎无穷无尽。鸟山明画风的怪物在GB像素中依旧萌态十足，随机生成的迷宫“旅之门”更让人一刷再刷。\n\n在日本卖出235万份的它，是宝可梦之外最值得一玩的怪兽养成RPG，DQ粉丝必收。",
+    "highlights": [
+      "DQ系列怪物全面登场可收服",
+      "配合系统深度惊人，继承特技组合多变",
+      "随机迷宫耐玩度高",
+      "连接线对战与配合"
+    ],
+    "reviews": [
+      {
+        "source": "IGN",
+        "score": "9/10",
+        "quote": "不输宝可梦的怪兽收集RPG，配合系统极具深度"
+      },
+      {
+        "source": "GameSpot",
+        "score": "8.7/10",
+        "quote": "令人上瘾的养成与收集乐趣"
+      },
+      {
+        "source": "Game Informer",
+        "score": "8/10",
+        "quote": "扎实的DQ式战斗加上丰富的怪物培养"
+      }
+    ],
+    "editorScore": 8.6,
+    "is2D": true,
+    "screenshots": [
+      "images/gb/gb-dragon-warrior-monsters-1.jpg"
+    ],
+    "coverShot": false
+  },
+  {
+    "id": "gb-kirbys-dream-land-2",
+    "title": "Kirby's Dream Land 2",
+    "titleZh": "星之卡比2",
+    "titleJa": "星のカービィ2",
+    "year": 1995,
+    "developer": "HAL Laboratory",
+    "publisher": "Nintendo",
+    "genre": "平台动作",
+    "tags": [
+      "横版",
+      "复制能力",
+      "动物伙伴"
+    ],
+    "players": "1",
+    "tagline": "卡比携三位动物伙伴，可爱与深度兼备",
+    "description": "彩虹岛的七座彩虹桥被黑暗笼罩，粉红色的小英雄再次出发！这一次卡比不再孤军奋战：仓鼠力克、猫头鹰库、翻车鱼凯恩三位伙伴各有绝技，与七种复制能力组合后能变化出二十多种招式。\n\n比如和库一起吞下“刀刃”就能放出旋风刃、和凯恩搭配“火焰”可以吐火——组合不同，过关方式也不同。想看到真结局，还得用特定组合找出每关隐藏的彩虹之滴，探索要素十分扎实。\n\n画面在超级Game Boy上还有专属配色，节奏轻快、难度友好，是带小朋友入门、也让老玩家会心一笑的佳作。",
+    "highlights": [
+      "力克、库、凯恩三位动物伙伴首次登场",
+      "复制能力×伙伴组合出20多种招式",
+      "收集彩虹之滴解锁真结局",
+      "支持超级Game Boy配色"
+    ],
+    "reviews": [
+      {
+        "source": "Official Nintendo Magazine",
+        "score": "93/100",
+        "quote": "可爱又充满变化，Game Boy上最好的平台游戏之一"
+      },
+      {
+        "source": "Fami通",
+        "score": "29/40",
+        "quote": "伙伴系统带来丰富变化，上手轻松"
+      },
+      {
+        "source": "Jeuxvideo.com",
+        "score": "17/20",
+        "quote": "玩法丰富，节奏明快，依旧耐玩"
+      }
+    ],
+    "editorScore": 8.5,
+    "is2D": true,
+    "screenshots": [
+      "images/gb/gb-kirbys-dream-land-2-1.png",
+      "images/gb/gb-kirbys-dream-land-2-2.png"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "gb-metroid-2",
+    "title": "Metroid II: Return of Samus",
+    "titleZh": "银河战士2 萨姆斯归来",
+    "titleJa": "メトロイドII RETURN OF SAMUS",
+    "year": 1991,
+    "developer": "Nintendo R&D1",
+    "publisher": "Nintendo",
+    "genre": "动作冒险",
+    "tags": [
+      "横版",
+      "探索",
+      "银河恶魔城"
+    ],
+    "players": "1",
+    "tagline": "猎杀银河战士的孤独任务，系列转折点",
+    "description": "萨姆斯奉命前往银河战士的母星SR388，任务只有一个：把这个物种彻底灭绝。地下洞窟中，四十多只处于不同进化阶段的银河战士等待着她，左下角的计数器每归零一次，地震便会打开通往更深处的道路。\n\n本作首次加入了蜘蛛球、存档点和萨姆斯的变形服造型，大块头的角色精灵让黑白屏也能清晰辨认。压抑的环境音乐和越来越狰狞的敌人，营造出系列独有的孤独感。而最后与银河战士幼体的相遇，更直接改写了整个系列的走向。\n\n2017年虽有3DS重制版《萨姆斯归来》，但原汁原味的黑白洞窟依然别具韵味。",
+    "highlights": [
+      "首创蜘蛛球、存档点等系列要素",
+      "以“猎杀计数”推动的独特探索结构",
+      "压抑氛围与环境音乐出色",
+      "银河战士幼体登场，衔接《超级银河战士》"
+    ],
+    "reviews": [
+      {
+        "source": "Entertainment Weekly",
+        "score": "A+",
+        "quote": "在小小的掌机上实现了令人惊叹的冒险"
+      },
+      {
+        "source": "Player One",
+        "score": "91%",
+        "quote": "探索与氛围出色的掌机动作冒险"
+      },
+      {
+        "source": "Fami通",
+        "score": "25/40",
+        "quote": "探索紧张刺激，但地图辨识较为困难"
+      }
+    ],
+    "editorScore": 8.4,
+    "is2D": true,
+    "screenshots": [
+      "images/gb/gb-metroid-2-1.png",
+      "images/gb/gb-metroid-2-2.jpg"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "gb-final-fantasy-legend-2",
+    "title": "Final Fantasy Legend II",
+    "titleZh": "魔界塔士 沙加2 秘宝传说",
+    "titleJa": "サ・ガ2 秘宝伝説",
+    "year": 1990,
+    "developer": "Square",
+    "publisher": "Square",
+    "genre": "角色扮演",
+    "tags": [
+      "回合制",
+      "自由成长",
+      "SaGa系列"
+    ],
+    "players": "1",
+    "tagline": "河津秋敏的自由之作，寻找77块秘宝的旅程",
+    "description": "主角的父亲为了寻找散落各个世界的神之秘宝“玛基”而离家出走，少年少女们于是踏上追寻父亲与秘宝的旅程——这就是GB版《沙加》系列人气最高的第二作。\n\n人类、エスパー（超能力者）、怪物、机器人四大种族各有截然不同的成长方式：人类靠道具强化、超能力者随机觉醒能力、怪物吃“肉”变身、机器人靠装备决定能力。收集玛基还能提升能力或获得特殊效果，世界之间穿梭的冒险充满了SaGa式的自由感。植松伸夫与伊藤贤治的音乐同样出彩。\n\n喜欢挑战与探索的RPG玩家，这部Square掌机名作值得一试。",
+    "highlights": [
+      "四种族成长方式迥异，组队自由",
+      "收集77块秘宝“玛基”",
+      "多个世界穿梭冒险，剧情起伏",
+      "被Nintendo Power评为1991年最具挑战GB游戏"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "33/40",
+        "quote": "比前作更易上手、更有乐趣"
+      },
+      {
+        "source": "RPGFan",
+        "score": "90%",
+        "quote": "SaGa系列在Game Boy上的高峰之作"
+      },
+      {
+        "source": "IGN",
+        "score": "8/10",
+        "quote": "系统独特、内容丰富的掌机RPG"
+      }
+    ],
+    "editorScore": 8.4,
+    "is2D": true,
+    "screenshots": [
+      "images/gb/gb-final-fantasy-legend-2-1.png"
+    ],
+    "coverShot": false
+  },
+  {
+    "id": "gb-shantae",
+    "title": "Shantae",
+    "titleZh": "桑塔",
+    "titleJa": "",
+    "year": 2002,
+    "developer": "WayForward Technologies",
+    "publisher": "Capcom",
+    "genre": "平台动作",
+    "tags": [
+      "横版",
+      "探索",
+      "变身",
+      "遗珠"
+    ],
+    "players": "1",
+    "tagline": "GBC末期的绝美遗珠，半精灵少女的舞蹈冒险",
+    "description": "用头发当鞭子、跳舞就能变身成猴子、大象和蜘蛛——这位紫发半精灵少女桑塔，在2002年GBA早已上市的时候才姗姗登场于GBC，结果因为发售太晚、出货量极少，成了当年鲜有人知的遗珠，如今卡带更是收藏界的天价货。\n\n然而只要一开机，你就会被它震撼：流畅的大尺寸动画、鲜艳的色彩，几乎把GBC的机能榨干。游戏采用开放式探索结构，在城镇、沙漠与迷宫之间往返，学会新舞蹈即可开辟新路线，还有昼夜变化与商店系统。\n\n这部作品开启了WayForward长寿的“桑塔”系列，喜欢2D动作冒险的你绝对值得体验它的起点。",
+    "highlights": [
+      "GBC顶级的像素动画表现",
+      "舞蹈变身开启新探索路线",
+      "昼夜系统与城镇商店",
+      "发行量稀少，收藏价值极高"
+    ],
+    "reviews": [
+      {
+        "source": "IGN",
+        "score": "9/10",
+        "quote": "Game Boy Color上技术表现最出色的游戏之一"
+      },
+      {
+        "source": "Nintendo Life",
+        "score": "9/10",
+        "quote": "被时代埋没的掌机杰作"
+      },
+      {
+        "source": "GameSpot",
+        "score": "7.7/10",
+        "quote": "画面惊艳，探索要素丰富"
+      }
+    ],
+    "editorScore": 8.3,
+    "is2D": true,
+    "screenshots": [
+      "images/gb/gb-shantae-1.png",
+      "images/gb/gb-shantae-2.jpg"
+    ],
+    "coverShot": true
+  }
+]

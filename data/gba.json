@@ -1,0 +1,864 @@
+[
+  {
+    "id": "gba-mother-3",
+    "title": "Mother 3",
+    "titleZh": "地球冒险3",
+    "titleJa": "MOTHER3",
+    "year": 2006,
+    "developer": "Brownie Brown / HAL Laboratory",
+    "publisher": "Nintendo",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "回合制",
+      "剧情向",
+      "日版独占"
+    ],
+    "players": "1",
+    "tagline": "糸井重里的催泪绝唱，十二年终成正果",
+    "description": "从N64时代一路难产到GBA，《MOTHER3》终于在2006年登场。糸井重里一如既往地用荒诞、幽默包裹着最沉重的主题——家庭的破碎、乡村被“文明”吞噬、少年卢卡斯的成长，每一章都换一位主角，叙事手法在掌机RPG中独树一帜。\n\n战斗系统加入了“节奏连击”：跟着背景音乐的拍子按键即可打出连续攻击，让回合制也有了律动感。塔兹米利村的田园风光、像素小人的细腻动作，都透着Brownie Brown对细节的偏执。\n\n本作从未正式海外发售，但民间汉化与英化让它成为一代人的传说。笑着笑着就哭了——这就是MOTHER。",
+    "highlights": [
+      "糸井重里编剧，笑泪交织的群像剧",
+      "随音乐节拍连击的独特战斗",
+      "章节制多主角叙事",
+      "像素表现力登峰造极"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "35/40",
+        "quote": "独特的世界观与幽默文字令人沉醉，是系列粉丝等待已久的完美答卷"
+      },
+      {
+        "source": "Eurogamer",
+        "score": "7/10",
+        "quote": "即便语言不通也能感受到它的魅力与心意，进口玩家值得一试"
+      },
+      {
+        "source": "GameRankings",
+        "score": "83.5%",
+        "quote": "以日版之身仍获海外媒体普遍好评"
+      }
+    ],
+    "editorScore": 9.7,
+    "is2D": true,
+    "screenshots": [
+      "images/gba/gba-mother-3-1.png",
+      "images/gba/gba-mother-3-2.png"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "gba-golden-sun",
+    "title": "Golden Sun",
+    "titleZh": "黄金太阳 开启的封印",
+    "titleJa": "黄金の太陽 開かれし封印",
+    "year": 2001,
+    "developer": "Camelot Software Planning",
+    "publisher": "Nintendo",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "解谜",
+      "回合制",
+      "精灵"
+    ],
+    "players": "1-2",
+    "tagline": "GBA机能极限！掌上最华丽的王道RPG",
+    "description": "当年第一眼看到《黄金太阳》的召唤魔法，编辑部全员都愣住了——这真的是掌机？巨大的精灵召唤、旋转缩放的战斗镜头，Camelot硬是把GBA榨出了SFC末期大作的气势。\n\n“精神力（Psynergy）”系统是本作灵魂：移动石柱、冻结水洼、读取NPC心声，魔法既是战斗手段也是解谜钥匙，迷宫设计因此充满“啊哈”时刻。收集各属性的“精灵（Djinn）”自由搭配职业，更让养成乐趣无穷。\n\n桜庭统的配乐气势磅礴。如果你怀念SFC黄金年代的日式RPG，这就是GBA上必须通关的第一款作品。",
+    "highlights": [
+      "精神力魔法兼顾战斗与迷宫解谜",
+      "精灵收集与职业搭配系统深度十足",
+      "召唤魔法演出震撼，画面堪称机能标杆",
+      "桜庭统激昂配乐"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "34/40",
+        "quote": "画面与演出极具水准，解谜型迷宫设计令人印象深刻"
+      },
+      {
+        "source": "IGN",
+        "score": "9.7/10",
+        "quote": "GBA上最出色的RPG之一，视听表现几乎无可挑剔"
+      },
+      {
+        "source": "Metacritic",
+        "score": "91/100",
+        "quote": "媒体普遍赞誉的掌机RPG标杆"
+      }
+    ],
+    "editorScore": 9.6,
+    "is2D": true,
+    "screenshots": [
+      "images/gba/gba-golden-sun-1.png",
+      "images/gba/gba-golden-sun-2.png"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "gba-castlevania-aria-of-sorrow",
+    "title": "Castlevania: Aria of Sorrow",
+    "titleZh": "恶魔城 晓月圆舞曲",
+    "titleJa": "キャッスルヴァニア 暁月の円舞曲",
+    "year": 2003,
+    "developer": "Konami Computer Entertainment Tokyo",
+    "publisher": "Konami",
+    "genre": "动作角色扮演",
+    "tags": [
+      "像素",
+      "银河恶魔城",
+      "收集",
+      "哥特"
+    ],
+    "players": "1",
+    "tagline": "魂之系统降临，掌上恶魔城的巅峰",
+    "description": "2035年，日食之夜，少年来须苍真被卷入德古拉城——光是这个设定就足够让老玩家热血沸腾。《晓月圆舞曲》是GBA三部恶魔城中公认的最高杰作，也是“IGA恶魔城”在掌机上最成熟的形态。\n\n核心的“战术魂”系统堪称神来之笔：击败敌人有几率吸收其灵魂，获得飞行、变身、召唤等上百种能力，刷魂的成就感让人停不下来。城堡结构紧凑，探索节奏明快，画面色彩也一改前作的阴暗。\n\n山根美智留的配乐优雅凄美，结局的反转更是经典。喜欢2D动作RPG的玩家，绝对不能错过。",
+    "highlights": [
+      "战术魂系统，上百种能力可收集",
+      "GBA恶魔城系列最佳平衡性",
+      "剧情反转令人难忘",
+      "通关后解锁多种模式"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "36/40",
+        "quote": "灵魂收集系统极具中毒性，系列掌机作的集大成者"
+      },
+      {
+        "source": "IGN",
+        "score": "9.3/10",
+        "quote": "GBA上最好的恶魔城，探索与成长的节奏无可挑剔"
+      },
+      {
+        "source": "Eurogamer",
+        "score": "9/10",
+        "quote": "精致、耐玩，2D动作冒险的典范"
+      }
+    ],
+    "editorScore": 9.6,
+    "is2D": true,
+    "screenshots": [
+      "images/gba/gba-castlevania-aria-of-sorrow-1.jpg"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "gba-zelda-minish-cap",
+    "title": "The Legend of Zelda: The Minish Cap",
+    "titleZh": "塞尔达传说 缩小帽",
+    "titleJa": "ゼルダの伝説 ふしぎのぼうし",
+    "year": 2004,
+    "developer": "Capcom / Flagship",
+    "publisher": "Nintendo",
+    "genre": "动作冒险",
+    "tags": [
+      "像素",
+      "解谜",
+      "俯视角",
+      "童话"
+    ],
+    "players": "1",
+    "tagline": "变小的林克，看见更大的海拉尔",
+    "description": "Capcom旗下Flagship操刀的这部2D塞尔达，是GBA末期最耀眼的明珠之一。会说话的帽子“艾泽洛”让林克能缩小成小人族大小，于是草叶成了森林、水洼成了湖泊、老鼠洞成了迷宫——同一张地图，两种尺度，探索乐趣翻倍。\n\n画面采用明亮的卡通像素风，色彩饱满到令人惊叹；“幸运碎片”拼合系统让与村民互动充满惊喜，城下町的热闹气息扑面而来。\n\n流程不算长，但密度极高，每个迷宫都有独特道具与巧妙机关。想体验经典俯视角塞尔达的精髓，从这里开始最合适。",
+    "highlights": [
+      "大小切换的双重视角探索",
+      "色彩绚丽的卡通像素美术",
+      "幸运碎片收集带来大量支线",
+      "迷宫设计精巧紧凑"
+    ],
+    "reviews": [
+      {
+        "source": "IGN",
+        "score": "9/10",
+        "quote": "教科书般的2D塞尔达，虽短却每分钟都精彩"
+      },
+      {
+        "source": "GameSpot",
+        "score": "9.1/10",
+        "quote": "缩小机制带来新鲜感，画面是GBA上最漂亮的之一"
+      },
+      {
+        "source": "Metacritic",
+        "score": "89/100",
+        "quote": "获得媒体普遍好评"
+      }
+    ],
+    "editorScore": 9.4,
+    "is2D": true,
+    "screenshots": [
+      "images/gba/gba-zelda-minish-cap-1.png"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "gba-metroid-fusion",
+    "title": "Metroid Fusion",
+    "titleZh": "银河战士 融合",
+    "titleJa": "メトロイドフュージョン",
+    "year": 2002,
+    "developer": "Nintendo R&D1",
+    "publisher": "Nintendo",
+    "genre": "动作冒险",
+    "tags": [
+      "像素",
+      "银河恶魔城",
+      "科幻",
+      "惊悚"
+    ],
+    "players": "1",
+    "tagline": "被自己追杀的恐惧，萨姆斯最紧张的一战",
+    "description": "时隔八年，萨姆斯回来了，而且这次她被X寄生体感染、与银河战士融合。最可怕的敌人是SA-X——一个拥有萨姆斯全盛能力的复制体，在B.S.L.空间站里阴魂不散地巡逻。每当它的脚步声响起，那种无力逃窜的压迫感至今难忘。\n\n相比《超级银河战士》，本作更强调线性叙事与导航指引，节奏紧凑，Boss战难度却丝毫不减。像素动画流畅，环境细节丰富。\n\n如果你想在掌机上体验正统2D银河战士的探索与紧张感，《融合》依然是最好的选择之一。",
+    "highlights": [
+      "SA-X追杀带来恐怖氛围",
+      "Boss战设计凶狠精彩",
+      "像素动画流畅细腻",
+      "剧情叙事在系列中最为浓厚"
+    ],
+    "reviews": [
+      {
+        "source": "IGN",
+        "score": "9.5/10",
+        "quote": "GBA上最出色的动作游戏之一，氛围营造极为出色"
+      },
+      {
+        "source": "Fami通",
+        "score": "34/40",
+        "quote": "正统2D银河战士回归，紧张感十足"
+      },
+      {
+        "source": "Metacritic",
+        "score": "92/100",
+        "quote": "获得媒体一致盛赞"
+      }
+    ],
+    "editorScore": 9.4,
+    "is2D": true,
+    "screenshots": [
+      "images/gba/gba-metroid-fusion-1.jpg",
+      "images/gba/gba-metroid-fusion-2.png"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "gba-final-fantasy-vi-advance",
+    "title": "Final Fantasy VI Advance",
+    "titleZh": "最终幻想6 Advance",
+    "titleJa": "ファイナルファンタジーVI アドバンス",
+    "year": 2006,
+    "developer": "Square Enix",
+    "publisher": "Square Enix",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "回合制",
+      "群像剧",
+      "移植"
+    ],
+    "players": "1",
+    "tagline": "像素RPG的不朽歌剧，随身携带",
+    "description": "SFC版《最终幻想6》被无数玩家奉为像素RPG的最高峰，而GBA版让这部史诗得以装进口袋。十四名主角的群像剧、魔导与幻兽交织的世界观、凯夫卡这位史上最疯狂的反派，至今仍无人能出其右。\n\n本移植版重新翻译了文本，追加了新幻兽与“龙之巢穴”等隐藏迷宫，以及高难度的“灵魂神殿”，内容比原版更加丰富。\n\n歌剧院一幕、崩坏后的世界、植松伸夫的旋律……如果你只玩一款经典FF，那就是它。",
+    "highlights": [
+      "14名可操作角色的宏大群像剧",
+      "新增幻兽与追加迷宫",
+      "植松伸夫经典配乐",
+      "凯夫卡——RPG史上最具魅力的反派"
+    ],
+    "reviews": [
+      {
+        "source": "Metacritic",
+        "score": "92/100",
+        "quote": "经典之作的出色移植，获普遍赞誉"
+      },
+      {
+        "source": "IGN",
+        "score": "9/10",
+        "quote": "无论新老玩家，这都是必玩的经典"
+      },
+      {
+        "source": "Fami通",
+        "score": "31/40",
+        "quote": "名作移植，追加要素让老玩家也有新鲜感"
+      }
+    ],
+    "editorScore": 9.4,
+    "is2D": true,
+    "screenshots": [],
+    "coverShot": false
+  },
+  {
+    "id": "gba-golden-sun-the-lost-age",
+    "title": "Golden Sun: The Lost Age",
+    "titleZh": "黄金太阳 失落的时代",
+    "titleJa": "黄金の太陽 失われし時代",
+    "year": 2002,
+    "developer": "Camelot Software Planning",
+    "publisher": "Nintendo",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "解谜",
+      "回合制",
+      "航海"
+    ],
+    "players": "1-2",
+    "tagline": "扬帆起航，补完黄金传说的下半章",
+    "description": "作为前作的直接续篇，《失落的时代》视角转到“反派”一方的贾斯汀们，故事格局随之翻转。更妙的是，可以通过密码继承前作存档，两代队伍最终会合，这种跨卡带的史诗感在当年极其罕见。\n\n本作获得船只后可自由航海，世界地图比前作大得多，精神力魔法种类增加，迷宫谜题也更加烧脑。精灵数量翻倍，召唤演出更加夸张。\n\n建议与前作连着玩，一口气体验完整的黄金太阳史诗。",
+    "highlights": [
+      "继承前作数据，两代主角会合",
+      "可自由航海的广阔世界",
+      "更多精神力与更复杂谜题",
+      "召唤魔法演出再升级"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "33/40",
+        "quote": "续作内容扎实，谜题与世界规模全面扩展"
+      },
+      {
+        "source": "IGN",
+        "score": "9/10",
+        "quote": "前作的一切优点都更上一层楼"
+      },
+      {
+        "source": "GameRankings",
+        "score": "87%",
+        "quote": "媒体平均评价优秀"
+      }
+    ],
+    "editorScore": 9.3,
+    "is2D": true,
+    "screenshots": [
+      "images/gba/gba-golden-sun-the-lost-age-1.png",
+      "images/gba/gba-golden-sun-the-lost-age-2.png"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "gba-fire-emblem",
+    "title": "Fire Emblem",
+    "titleZh": "火焰纹章 烈火之剑",
+    "titleJa": "ファイアーエムブレム 烈火の剣",
+    "year": 2003,
+    "developer": "Intelligent Systems",
+    "publisher": "Nintendo",
+    "genre": "战略角色扮演",
+    "tags": [
+      "像素",
+      "战棋",
+      "永久死亡",
+      "剧情向"
+    ],
+    "players": "1",
+    "tagline": "一步错满盘输，战棋迷的入门圣典",
+    "description": "《烈火之剑》是火纹系列首次走出日本的作品，也是无数中国玩家的战棋启蒙。琳、艾利伍德、赫克托耳三位主角的友情与宿命，在一场场残酷的战役中徐徐展开。\n\n系列招牌的“阵亡即永别”机制让每一步都如履薄冰；武器三角克制、支援对话、转职系统层层叠加，策略深度惊人。GBA上的战斗动画更是像素艺术的杰作，暴击时的一刀斩至今看都不腻。\n\n开头的琳篇教学贴心，新手也能顺利入门。打通之后，你一定会想挑战赫克托耳篇困难模式。",
+    "highlights": [
+      "三主角篇章，剧情丰满",
+      "阵亡永久消失的紧张感",
+      "支援对话塑造鲜活角色",
+      "像素战斗动画精彩绝伦"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "34/40",
+        "quote": "系列一贯的高水准，掌机上也毫不缩水"
+      },
+      {
+        "source": "IGN",
+        "score": "9.5/10",
+        "quote": "深度与易上手兼备的战棋杰作"
+      },
+      {
+        "source": "Metacritic",
+        "score": "88/100",
+        "quote": "获得媒体普遍好评"
+      }
+    ],
+    "editorScore": 9.3,
+    "is2D": true,
+    "screenshots": [
+      "images/gba/gba-fire-emblem-1.png"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "gba-mario-and-luigi-superstar-saga",
+    "title": "Mario & Luigi: Superstar Saga",
+    "titleZh": "马里奥与路易吉RPG",
+    "titleJa": "マリオ＆ルイージRPG",
+    "year": 2003,
+    "developer": "AlphaDream",
+    "publisher": "Nintendo",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "搞笑",
+      "动作指令",
+      "兄弟合作"
+    ],
+    "players": "1",
+    "tagline": "兄弟同心，笑料满点的另类RPG",
+    "description": "由《超级马里奥RPG》原班人马之一打造的《马里奥与路易吉RPG》，是GBA上最欢乐的角色扮演游戏。A键控制马里奥、B键控制路易吉，兄弟俩在场景中跳跃、锤击、合体变形，移动本身就是一场解谜。\n\n战斗是回合制，但每次攻击与防御都需要看准时机按键，打得好伤害翻倍、还能完美闪避，紧张感堪比动作游戏。邪恶女巫偷走碧奇公主的声音，兄弟俩被迫与库巴联手远赴豆豆王国，剧情满是任天堂式的冷幽默。\n\n路易吉终于摆脱了“绿色替身”的命运，这一作，他是真正的主角之一。",
+    "highlights": [
+      "双键分别操控兄弟的独特操作",
+      "需要按键时机的动作化回合战斗",
+      "任天堂式爆笑剧情",
+      "像素角色表情丰富生动"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "37/40",
+        "quote": "动作与RPG的融合天衣无缝，乐趣十足"
+      },
+      {
+        "source": "IGN",
+        "score": "9/10",
+        "quote": "文本幽默、系统新颖，GBA必玩RPG"
+      },
+      {
+        "source": "Metacritic",
+        "score": "90/100",
+        "quote": "获得普遍盛赞"
+      }
+    ],
+    "editorScore": 9.3,
+    "is2D": true,
+    "screenshots": [
+      "images/gba/gba-mario-and-luigi-superstar-saga-1.png"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "gba-advance-wars",
+    "title": "Advance Wars",
+    "titleZh": "高级战争",
+    "titleJa": "ゲームボーイウォーズアドバンス",
+    "year": 2001,
+    "developer": "Intelligent Systems",
+    "publisher": "Nintendo",
+    "genre": "战略模拟",
+    "tags": [
+      "像素",
+      "战棋",
+      "多人",
+      "策略"
+    ],
+    "players": "1-4",
+    "tagline": "Q版外表下的硬核兵棋，一局停不下来",
+    "description": "别被可爱的Q版画风骗了，《高级战争》是一款货真价实的硬核战略游戏。步兵、坦克、轰炸机、潜艇，近二十种兵种相互克制，地形、补给、天气都会影响胜负。\n\n每位指挥官（CO）拥有独特的“CO能力”，关键时刻发动可以逆转战局，让对局充满变数。战役模式教学循序渐进，后期关卡却能难到让人抓狂；地图编辑器与一机多人对战更让耐玩度无限。\n\n欧美媒体给出了近乎满分的评价。随时开一局、十分钟决胜负，这才是掌机游戏该有的样子。",
+    "highlights": [
+      "兵种克制与地形策略深度十足",
+      "个性鲜明的CO与必杀能力",
+      "支持一机轮流对战与地图编辑",
+      "上手简单、精通极难"
+    ],
+    "reviews": [
+      {
+        "source": "IGN",
+        "score": "9.9/10",
+        "quote": "近乎完美的策略游戏，GBA首发阵容最强之作"
+      },
+      {
+        "source": "Eurogamer",
+        "score": "10/10",
+        "quote": "易于上手、深度惊人，令人上瘾"
+      },
+      {
+        "source": "Metacritic",
+        "score": "92/100",
+        "quote": "获得媒体一致赞誉"
+      }
+    ],
+    "editorScore": 9.2,
+    "is2D": true,
+    "screenshots": [
+      "images/gba/gba-advance-wars-1.png"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "gba-final-fantasy-tactics-advance",
+    "title": "Final Fantasy Tactics Advance",
+    "titleZh": "最终幻想战略版Advance",
+    "titleJa": "ファイナルファンタジータクティクスアドバンス",
+    "year": 2003,
+    "developer": "Square",
+    "publisher": "Square / Nintendo",
+    "genre": "战略角色扮演",
+    "tags": [
+      "像素",
+      "战棋",
+      "职业系统",
+      "伊瓦利斯"
+    ],
+    "players": "1-2",
+    "tagline": "走进书中的伊瓦利斯，组建你的氏族",
+    "description": "一本古书，把现实中的少年玛修带进了奇幻的伊瓦利斯。与PS版的沉重政治剧不同，GBA版《FFTA》风格明快，却保留了系列最迷人的职业系统：人类、邦加、维埃拉、莫古利等五大种族，三十余种职业，学技能、转职业，组队搭配千变万化。\n\n“法官”与“律法”系统是本作特色——每场战斗都有禁止事项，违者会被黄牌、红牌，迫使玩家改变惯用战术。三百个任务够你玩上百小时。\n\n伊藤龙马的角色设计温暖可爱，崎元仁的配乐恢弘悦耳，是掌机战棋的必玩之作。",
+    "highlights": [
+      "五大种族、三十余职业自由培养",
+      "律法系统让每场战斗变数十足",
+      "300个任务，内容极其丰富",
+      "崎元仁配乐"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "34/40",
+        "quote": "职业养成的乐趣无穷，任务量惊人"
+      },
+      {
+        "source": "IGN",
+        "score": "9/10",
+        "quote": "深度惊人的掌机战略RPG"
+      },
+      {
+        "source": "Metacritic",
+        "score": "87/100",
+        "quote": "获得媒体普遍好评"
+      }
+    ],
+    "editorScore": 9.1,
+    "is2D": true,
+    "screenshots": [
+      "images/gba/gba-final-fantasy-tactics-advance-1.png"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "gba-pokemon-ruby-sapphire",
+    "title": "Pokémon Ruby & Sapphire",
+    "titleZh": "精灵宝可梦 红宝石／蓝宝石",
+    "titleJa": "ポケットモンスター ルビー・サファイア",
+    "year": 2002,
+    "developer": "Game Freak",
+    "publisher": "Nintendo",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "收集",
+      "对战",
+      "养成"
+    ],
+    "players": "1-4",
+    "tagline": "丰缘大冒险，口袋妖怪的新时代",
+    "description": "登陆GBA的第三世代宝可梦，带来了全新的丰缘地区：火山、沙漠、大海与海底，冒险舞台前所未有的辽阔。新增的特性与性格系统彻底改变了对战格局，双打对战更是从此成为官方赛事标准。\n\n华丽大赛、秘密基地、树果种植等玩法让冒险之外也有大把乐趣可寻。固拉多与盖欧卡的远古之争，配合气势磅礴的音乐，让人至今难忘。\n\n从小镇出发、在草丛里遇到第一只精灵的悸动——这份感动，二十年后依然新鲜。",
+    "highlights": [
+      "全新丰缘地区，海陆空大冒险",
+      "特性、性格与双打对战的加入",
+      "华丽大赛与秘密基地等丰富玩法",
+      "GBA联机交换与对战"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "34/40",
+        "quote": "系统全面进化，收集与对战的乐趣不减"
+      },
+      {
+        "source": "IGN",
+        "score": "9.5/10",
+        "quote": "系列精髓不变，新要素让人重新沉迷"
+      },
+      {
+        "source": "Metacritic",
+        "score": "82/100",
+        "quote": "获得媒体普遍好评"
+      }
+    ],
+    "editorScore": 9.0,
+    "is2D": true,
+    "screenshots": [
+      "images/gba/gba-pokemon-ruby-sapphire-1.jpg"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "gba-tactics-ogre-knight-of-lodis",
+    "title": "Tactics Ogre: The Knight of Lodis",
+    "titleZh": "皇家骑士团外传 罗迪斯骑士",
+    "titleJa": "タクティクスオウガ外伝 The Knight of Lodis",
+    "year": 2001,
+    "developer": "Quest",
+    "publisher": "Nintendo / Atlus",
+    "genre": "战略角色扮演",
+    "tags": [
+      "像素",
+      "战棋",
+      "多结局",
+      "黑暗奇幻"
+    ],
+    "players": "1",
+    "tagline": "被低估的皇骑正统外传，硬派战棋之魂",
+    "description": "很多人只知道SFC与PS上的《皇家骑士团》，却不知道GBA上还有这样一部由Quest亲自打造的外传。故事讲述罗迪斯骑士阿尔方斯在奥贝罗岛的遭遇，宗教、阴谋与背叛交织，依旧是那个熟悉的黑暗成人风格。\n\n斜45度视角的高低差战场、元素相性、圣物与职业系统一应俱全，而“情感”与选择会影响多重结局，重复游玩价值极高。\n\n它是GBA早期少见的硬核战棋，策略迷绝对值得挖掘的遗珠。",
+    "highlights": [
+      "Quest原班打造的正统外传",
+      "高低差斜视角战场",
+      "选择影响多重结局",
+      "黑暗成熟的剧情氛围"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "34/40",
+        "quote": "系列风味完整保留，掌机上的正统皇骑"
+      },
+      {
+        "source": "GameSpot",
+        "score": "9.1/10",
+        "quote": "深度惊人的战术RPG，系列粉丝不可错过"
+      },
+      {
+        "source": "Metacritic",
+        "score": "88/100",
+        "quote": "获得媒体普遍好评"
+      }
+    ],
+    "editorScore": 8.9,
+    "is2D": true,
+    "screenshots": [
+      "images/gba/gba-tactics-ogre-knight-of-lodis-1.jpg"
+    ],
+    "coverShot": false
+  },
+  {
+    "id": "gba-astro-boy-omega-factor",
+    "title": "Astro Boy: Omega Factor",
+    "titleZh": "铁臂阿童木 阿童木之心的秘密",
+    "titleJa": "アストロボーイ・鉄腕アトム アトムハートの秘密",
+    "year": 2003,
+    "developer": "Treasure / Hitmaker",
+    "publisher": "Sega",
+    "genre": "动作",
+    "tags": [
+      "像素",
+      "清版射击",
+      "手冢治虫",
+      "隐藏佳作"
+    ],
+    "players": "1",
+    "tagline": "Treasure出品，手冢宇宙动作盛宴",
+    "description": "一款改编动画的游戏能有多好？当开发商是Treasure时，答案是：好到离谱。《阿童木之心的秘密》把横版动作与射击无缝结合，阿童木可以飞行、冲刺、发射手指激光与臀部机关枪，爽快感十足。\n\n更令手冢迷感动的是，怪医黑杰克、火之鸟、三眼神童等几十位手冢角色悉数登场，结识他们会提升阿童木能力，剧情还藏着穿越时间的大秘密。\n\n这是GBA上最被低估的动作游戏之一，硬核动作迷请务必一试。",
+    "highlights": [
+      "Treasure招牌的爽快动作设计",
+      "横版动作与飞行射击结合",
+      "数十位手冢治虫角色客串",
+      "时间穿越的精彩剧情"
+    ],
+    "reviews": [
+      {
+        "source": "GameSpot",
+        "score": "9.2/10",
+        "quote": "华丽、爽快、充满创意的动作佳作"
+      },
+      {
+        "source": "Fami通",
+        "score": "34/40",
+        "quote": "动作手感一流，原作粉丝更会会心一笑"
+      },
+      {
+        "source": "Metacritic",
+        "score": "85/100",
+        "quote": "获得媒体普遍好评"
+      }
+    ],
+    "editorScore": 8.8,
+    "is2D": true,
+    "screenshots": [
+      "images/gba/gba-astro-boy-omega-factor-1.png"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "gba-boktai",
+    "title": "Boktai: The Sun Is in Your Hand",
+    "titleZh": "我们的太阳",
+    "titleJa": "ボクらの太陽",
+    "year": 2003,
+    "developer": "Konami Computer Entertainment Japan",
+    "publisher": "Konami",
+    "genre": "动作角色扮演",
+    "tags": [
+      "像素",
+      "潜行",
+      "光感应",
+      "隐藏佳作"
+    ],
+    "players": "1",
+    "tagline": "拿到阳光下玩！小岛秀夫的奇想之作",
+    "description": "卡带上装着一块真正的太阳光传感器——这就是小岛秀夫的鬼才创意。《我们的太阳》中，少年姜戈手持太阳枪对抗吸血鬼，而枪的能量要靠现实中的阳光充电。\n\n于是玩家们纷纷跑到窗边、阳台上玩游戏。游戏本身是俯视角动作RPG，融入了《合金装备》式的潜行要素，引诱敌人、躲避视线、最后把吸血鬼拖到阳光下净化，玩法独一无二。\n\n今天用模拟器也能调节“日照”，但若有机会用实体卡带在阳光下玩，那份感动无可替代。",
+    "highlights": [
+      "卡带内置太阳光传感器",
+      "俯视角动作RPG结合潜行玩法",
+      "拖着吸血鬼棺材晒太阳的独特净化",
+      "小岛秀夫监制"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "36/40",
+        "quote": "利用真实阳光的创意令人惊叹，游戏本身也很扎实"
+      },
+      {
+        "source": "IGN",
+        "score": "8.5/10",
+        "quote": "新颖的概念与扎实的玩法兼备"
+      },
+      {
+        "source": "Metacritic",
+        "score": "83/100",
+        "quote": "获得媒体普遍好评"
+      }
+    ],
+    "editorScore": 8.7,
+    "is2D": true,
+    "screenshots": [
+      "images/gba/gba-boktai-1.jpg"
+    ],
+    "coverShot": false
+  },
+  {
+    "id": "gba-harvest-moon-friends-of-mineral-town",
+    "title": "Harvest Moon: Friends of Mineral Town",
+    "titleZh": "牧场物语 矿石镇的伙伴们",
+    "titleJa": "牧場物語 ミネラルタウンのなかまたち",
+    "year": 2003,
+    "developer": "Marvelous Interactive",
+    "publisher": "Marvelous Interactive / Natsume",
+    "genre": "模拟经营",
+    "tags": [
+      "像素",
+      "种田",
+      "小镇生活",
+      "恋爱"
+    ],
+    "players": "1",
+    "tagline": "锄地、养牛、追女孩，矿石镇的慢生活",
+    "description": "如果你喜欢像素风的日式小镇，那矿石镇一定会让你流连忘返。杂货铺、诊所、酒吧、铁匠铺，镇上每位居民都有自己的作息和故事，春夏秋冬四季轮转，节日活动应接不暇。\n\n本作以PS版《牧场物语 Back to Nature》为蓝本重新打造，在GBA上精简优化，操作更加流畅。种菜、养鸡养牛、下矿挖宝、送礼追求心仪的女孩、结婚生子——简单的循环却令人一玩就是几百天。\n\n它是无数人的种田启蒙，也是《星露谷物语》的精神源头之一。",
+    "highlights": [
+      "四季轮转的像素田园生活",
+      "个性鲜明的小镇居民与恋爱系统",
+      "矿洞探索与丰富收集",
+      "《星露谷物语》的灵感源头"
+    ],
+    "reviews": [
+      {
+        "source": "IGN",
+        "score": "8.9/10",
+        "quote": "看似简单却令人深陷，昼夜变化的画面表现很出色"
+      },
+      {
+        "source": "Metacritic",
+        "score": "81/100",
+        "quote": "获得媒体普遍好评"
+      }
+    ],
+    "editorScore": 8.7,
+    "is2D": true,
+    "screenshots": [
+      "images/gba/gba-harvest-moon-friends-of-mineral-town-1.png",
+      "images/gba/gba-harvest-moon-friends-of-mineral-town-2.jpg"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "gba-mega-man-zero-3",
+    "title": "Mega Man Zero 3",
+    "titleZh": "洛克人Zero 3",
+    "titleJa": "ロックマンゼロ3",
+    "year": 2004,
+    "developer": "Inti Creates",
+    "publisher": "Capcom",
+    "genre": "动作",
+    "tags": [
+      "像素",
+      "高难度",
+      "横版动作",
+      "评价系统"
+    ],
+    "players": "1",
+    "tagline": "光剑一闪，硬核横版动作的极致",
+    "description": "Inti Creates接手的《洛克人Zero》系列，把“洛克人X”的高速动作推向了新的高峰，而第三作被许多玩家视为系列最佳平衡点。杰洛手持Z光剑，冲刺、蹬墙、蓄力斩，操作行云流水。\n\n本作引入“赛博精灵”与芯片系统强化自定义，关卡评分机制则逼迫高手追求无伤速通。宿敌巴伊尔博士的登场，让剧情走向全系列最黑暗的高潮。\n\n像素画面锐利精致，配乐热血。喜欢硬派2D动作的玩家，这是必修课。",
+    "highlights": [
+      "高速流畅的光剑动作",
+      "关卡评分系统挑战极限",
+      "芯片与赛博精灵自定义",
+      "系列最受好评的反派登场"
+    ],
+    "reviews": [
+      {
+        "source": "IGN",
+        "score": "8/10",
+        "quote": "系列一贯的高品质动作，难度依旧硬派"
+      },
+      {
+        "source": "GameSpot",
+        "score": "8.3/10",
+        "quote": "精致的2D动作，系列粉丝必玩"
+      },
+      {
+        "source": "Fami通",
+        "score": "28/40",
+        "quote": "动作手感扎实，适合挑战型玩家"
+      }
+    ],
+    "editorScore": 8.6,
+    "is2D": true,
+    "screenshots": [
+      "images/gba/gba-mega-man-zero-3-1.jpg"
+    ],
+    "coverShot": false
+  },
+  {
+    "id": "gba-riviera-the-promised-land",
+    "title": "Riviera: The Promised Land",
+    "titleZh": "约束之地 利维埃拉",
+    "titleJa": "約束の地リヴィエラ",
+    "year": 2004,
+    "developer": "Sting Entertainment",
+    "publisher": "Sting Entertainment / Atlus",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "美少女",
+      "道具战斗",
+      "隐藏佳作"
+    ],
+    "players": "1",
+    "tagline": "Sting奇幻小品，精致像素RPG",
+    "description": "《利维埃拉》原是WonderSwan Color上的作品，GBA版重制后大幅提升了画面与演出。故事讲述堕天使艾达为阻止恶魔复苏，前往神之乐园利维埃拉的冒险。\n\n本作玩法非常独特：没有自由移动的大地图，而是在场景中“选择行动”推进探索；战斗依赖有限次数使用的武器道具，用到一定次数还能学会“奥义”，策略性十足。与四位少女同伴的好感度会改变剧情与结局。\n\n这是Sting“Dept. Heaven”系列的起点，画风细腻、音乐动听，喜欢日式奇幻RPG的玩家值得发掘。",
+    "highlights": [
+      "道具耐久与奥义学习的独特战斗",
+      "好感度影响剧情与多结局",
+      "精美立绘与细腻像素",
+      "Dept. Heaven系列开端"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "32/40",
+        "quote": "系统独特、画面精美，Sting风格鲜明"
+      },
+      {
+        "source": "Game Informer",
+        "score": "8.25/10",
+        "quote": "别出心裁的RPG，值得一试"
+      },
+      {
+        "source": "Metacritic",
+        "score": "76/100",
+        "quote": "获得媒体普遍正面评价"
+      }
+    ],
+    "editorScore": 8.4,
+    "is2D": true,
+    "screenshots": [
+      "images/gba/gba-riviera-the-promised-land-1.png"
+    ],
+    "coverShot": true
+  }
+]

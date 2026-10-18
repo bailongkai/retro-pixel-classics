@@ -1,0 +1,863 @@
+[
+  {
+    "id": "ps-symphony-of-the-night",
+    "title": "Castlevania: Symphony of the Night",
+    "titleZh": "恶魔城X 月下夜想曲",
+    "titleJa": "悪魔城ドラキュラX 月下の夜想曲",
+    "year": 1997,
+    "developer": "Konami",
+    "publisher": "Konami",
+    "genre": "动作冒险",
+    "tags": [
+      "像素",
+      "银河恶魔城",
+      "探索",
+      "RPG要素"
+    ],
+    "players": "1",
+    "tagline": "月光下的哥特城堡，2D动作的永恒圣典",
+    "description": "当3D大潮席卷PS主机之际，KONAMI却逆流而上，交出了一部将2D像素美术推向巅峰的杰作！主角阿鲁卡多踏入德古拉城，整座城堡便是一张巨大的迷宫地图——每打开一道新门、每获得一项新能力，都意味着更深处的秘密向你敞开。\n\n本作大胆引入经验值、装备与道具系统，数百种武器、防具与魔法让每一次探索都充满惊喜。小岛文美的唯美人设、山根美智留华丽的哥特摇滚配乐，更是让无数玩家深夜不忍关机。而那座\"倒转城\"的惊天反转，至今仍是玩家间津津乐道的传说。\n\n“银河恶魔城”一词由它而生，今天无数独立游戏仍在向它致敬。没玩过月下，就别说你懂2D动作游戏！",
+    "highlights": [
+      "开创\"银河恶魔城\"类型的里程碑之作",
+      "细腻华丽的像素美术与流畅动画",
+      "海量武器装备与隐藏要素，倒转城惊喜满满",
+      "山根美智留的经典哥特配乐"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "30/40",
+        "quote": "以RPG式的成长与探索为恶魔城系列注入新生命，2D画面表现令人惊叹"
+      },
+      {
+        "source": "IGN",
+        "score": "9/10",
+        "quote": "PS上最出色的2D动作游戏之一，深度与美感兼具"
+      },
+      {
+        "source": "GameSpot",
+        "score": "8.9/10",
+        "quote": "巨大的城堡、丰富的道具与秘密，足以让玩家沉迷数十小时"
+      }
+    ],
+    "editorScore": 9.8,
+    "is2D": true,
+    "screenshots": [
+      "images/ps/ps-symphony-of-the-night-1.jpg",
+      "images/ps/ps-symphony-of-the-night-2.jpg"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "ps-chrono-cross",
+    "title": "Chrono Cross",
+    "titleZh": "时空之轮 交叉",
+    "titleJa": "クロノ・クロス",
+    "year": 1999,
+    "developer": "Square",
+    "publisher": "Square",
+    "genre": "角色扮演",
+    "tags": [
+      "双世界",
+      "光田康典",
+      "多结局"
+    ],
+    "players": "1",
+    "tagline": "两个世界的海潮之歌，世纪末的RPG绝唱",
+    "description": "《时空之轮》的精神续作终于登场！少年塞尔吉在热带群岛埃尔尼多醒来，却发现自己在另一个世界里早已\"死去\"。在\"本世界\"与\"别世界\"之间穿梭，命运的谜团层层揭开，最终与前作的宏大时空产生令人震撼的交汇。\n\n本作拥有多达45名可加入的伙伴，独创的\"元素\"战斗系统兼具策略与爽快感。预渲染背景色彩浓烈如油画，配合光田康典那首传颂至今的《时之海潮》，开场动画一响，便足以让人热泪盈眶。\n\n这是SQUARE在PS时代最具艺术野心的作品之一，剧情深邃、音乐绝美，任何RPG爱好者都不应错过。",
+    "highlights": [
+      "光田康典谱写的游戏音乐史级名曲",
+      "两个平行世界交错的宏大叙事",
+      "45名可入队伙伴与多重结局",
+      "无需刷级的元素战斗系统"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "36/40",
+        "quote": "画面与音乐均达到极高水准，剧情构思大胆，是值得期待的精品"
+      },
+      {
+        "source": "GameSpot",
+        "score": "10/10",
+        "quote": "给予满分评价，称其为PS平台上最出色的RPG之一"
+      },
+      {
+        "source": "IGN",
+        "score": "9.7/10",
+        "quote": "美丽的世界、动人的音乐与新颖的战斗系统，令人难以忘怀"
+      }
+    ],
+    "editorScore": 9.6,
+    "is2D": false,
+    "screenshots": [
+      "images/ps/ps-chrono-cross-1.png",
+      "images/ps/ps-chrono-cross-2.png"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "ps-suikoden-ii",
+    "title": "Suikoden II",
+    "titleZh": "幻想水浒传II",
+    "titleJa": "幻想水滸伝II",
+    "year": 1998,
+    "developer": "Konami Computer Entertainment Tokyo",
+    "publisher": "Konami",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "108星",
+      "战争",
+      "友情"
+    ],
+    "players": "1",
+    "tagline": "108星再聚首，像素RPG的史诗巅峰",
+    "description": "在3D画面大行其道的年代，KONAMI坚持用精美的2D像素描绘了一场撼动人心的战争史诗。主角与挚友乔伊从少年军团的幸存者，一步步走向对立的阵营，那份\"友情与宿命\"的拉扯，让无数玩家在结局前久久无言。\n\n招募全部108星、建设属于自己的城堡、指挥大规模战争、六人协力战斗、一对一决斗……系统丰富却毫不臃肿。更令人称道的是，读取前作存档还能继承数据，与老朋友在新战场重逢。\n\n本作在日本至今仍是\"最佳RPG\"榜单的常客。像素小人的一颦一笑胜过千言万语，喜欢2D剧情RPG的你，这是必修课！",
+    "highlights": [
+      "2D像素美术的巅峰表现，城镇细节丰富",
+      "招募108星并扩建大本营的收集乐趣",
+      "战争、决斗、六人战斗多种玩法交织",
+      "可继承前作存档，系列粉丝的福利"
+    ],
+    "reviews": [
+      {
+        "source": "IGN",
+        "score": "9/10",
+        "quote": "剧情感人至深，是PS上最被低估的RPG之一"
+      },
+      {
+        "source": "GameSpot",
+        "score": "7.6/10",
+        "quote": "画面虽显朴素，但故事与角色塑造出色"
+      },
+      {
+        "source": "Metacritic",
+        "score": "82/100",
+        "quote": "媒体综合评价良好，玩家口碑更是经久不衰"
+      }
+    ],
+    "editorScore": 9.6,
+    "is2D": true,
+    "screenshots": [
+      "images/ps/ps-suikoden-ii-1.jpg",
+      "images/ps/ps-suikoden-ii-2.jpg"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "ps-final-fantasy-tactics",
+    "title": "Final Fantasy Tactics",
+    "titleZh": "最终幻想战略版",
+    "titleJa": "ファイナルファンタジータクティクス",
+    "year": 1997,
+    "developer": "Square",
+    "publisher": "Square",
+    "genre": "策略角色扮演",
+    "tags": [
+      "战棋",
+      "职业系统",
+      "中世纪",
+      "剧情"
+    ],
+    "players": "1",
+    "tagline": "伊瓦利斯的狮子战争，战棋RPG的不朽经典",
+    "description": "由《皇家骑士团》原班人马松野泰己操刀，SQUARE倾力打造的战棋大作！在伊瓦利斯大陆的\"狮子战争\"中，平民出身的迪利塔与贵族少年拉姆萨，走上了截然不同的道路——一个登上王座，一个被历史抹去。\n\n可旋转的3D斜视角战场上，精致的2D像素小人生动无比。超过20种职业的自由搭配，让\"骑士+黑魔法\"、\"忍者双刀\"等组合层出不穷，研究职业构成本身就是巨大的乐趣。\n\n厚重的政治剧情、崎元仁与岩田匡治的庄严配乐、高难度的战术挑战，构成了一部不随时间褪色的杰作。喜欢动脑的朋友，请务必一试！",
+    "highlights": [
+      "松野泰己编织的厚重政治群像剧",
+      "20余种职业自由转职搭配",
+      "3D战场与精美2D像素角色的结合",
+      "崎元仁、岩田匡治的史诗配乐"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "34/40",
+        "quote": "深度十足的职业与战术系统，成功将FF世界带入战棋领域"
+      },
+      {
+        "source": "IGN",
+        "score": "8.5/10",
+        "quote": "战略深度惊人，剧情复杂成熟"
+      },
+      {
+        "source": "GameSpot",
+        "score": "8.9/10",
+        "quote": "策略RPG爱好者必玩之作，可玩性极高"
+      }
+    ],
+    "editorScore": 9.5,
+    "is2D": true,
+    "screenshots": [
+      "images/ps/ps-final-fantasy-tactics-1.jpg",
+      "images/ps/ps-final-fantasy-tactics-2.jpg"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "ps-valkyrie-profile",
+    "title": "Valkyrie Profile",
+    "titleZh": "北欧女神",
+    "titleJa": "ヴァルキリープロファイル",
+    "year": 1999,
+    "developer": "tri-Ace",
+    "publisher": "Enix",
+    "genre": "角色扮演",
+    "tags": [
+      "北欧神话",
+      "横版",
+      "连击战斗"
+    ],
+    "players": "1",
+    "tagline": "英灵殿的召唤，横版RPG的华丽变奏",
+    "description": "tri-Ace以北欧神话为蓝本，打造了一款风格独树一帜的RPG。女武神蕾娜斯奉主神奥丁之命降临人间，收集勇者的灵魂，为即将到来的\"诸神黄昏\"做准备。每位英灵都有一段凄美的死亡故事，短短数分钟便能让人鼻酸。\n\n迷宫采用横版2D动作形式，跳跃、冻结敌人、滑铲等操作别具一格；战斗则以手柄四个按键分别对应四名角色，打出华丽连击后接上必杀技，视觉冲击力满分！\n\n樱庭统的激昂配乐与细腻的2D美术相得益彰。多结局设计与高难度隐藏迷宫，更让硬派玩家欲罢不能。",
+    "highlights": [
+      "横版动作迷宫与RPG的创意融合",
+      "四键连击+必杀技的爽快战斗",
+      "每位英灵都有动人的独立故事",
+      "樱庭统激昂的配乐"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "35/40",
+        "quote": "独特的世界观与战斗系统令人眼前一亮"
+      },
+      {
+        "source": "IGN",
+        "score": "9.1/10",
+        "quote": "兼具深度与原创性的杰出RPG"
+      },
+      {
+        "source": "Metacritic",
+        "score": "81/100",
+        "quote": "获得媒体普遍好评"
+      }
+    ],
+    "editorScore": 9.3,
+    "is2D": true,
+    "screenshots": [
+      "images/ps/ps-valkyrie-profile-1.jpg",
+      "images/ps/ps-valkyrie-profile-2.jpg"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "ps-xenogears",
+    "title": "Xenogears",
+    "titleZh": "异度装甲",
+    "titleJa": "ゼノギアス",
+    "year": 1998,
+    "developer": "Square",
+    "publisher": "Square",
+    "genre": "角色扮演",
+    "tags": [
+      "机甲",
+      "哲学",
+      "剧情向"
+    ],
+    "players": "1",
+    "tagline": "神、人与机甲，PS上最野心勃勃的史诗",
+    "description": "高桥哲哉执笔，SQUARE出品的科幻巨作！少年菲伊的平静生活被一场机甲战火打碎，他驾驶巨大的\"齿轮\"机体，卷入跨越万年的神话、宗教与人类起源之谜。剧情之深邃，涉及弗洛伊德、荣格与尼采的哲学思想，被玩家誉为\"游戏界的EVA\"。\n\n2D像素角色行走于3D场景之中，格斗游戏风格的连招战斗系统颇有新意，机甲战斗更是热血沸腾。光田康典的配乐空灵大气，至今仍被反复演奏。\n\n虽然第二张光盘因开发时间不足而略显仓促，但瑕不掩瑜。想体验一部真正\"大人的RPG\"，异度装甲不容错过。",
+    "highlights": [
+      "宏大深邃的科幻神话剧情",
+      "格斗式连招的人物战斗与机甲战",
+      "2D像素角色融合3D场景",
+      "光田康典的空灵配乐"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "31/40",
+        "quote": "庞大的世界观与剧情令人印象深刻"
+      },
+      {
+        "source": "IGN",
+        "score": "9.5/10",
+        "quote": "剧情雄心勃勃，是不可多得的史诗RPG"
+      },
+      {
+        "source": "GameSpot",
+        "score": "9/10",
+        "quote": "深度、长度与故事都远超一般RPG"
+      }
+    ],
+    "editorScore": 9.2,
+    "is2D": true,
+    "screenshots": [
+      "images/ps/ps-xenogears-1.jpg",
+      "images/ps/ps-xenogears-2.jpg"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "ps-legend-of-mana",
+    "title": "Legend of Mana",
+    "titleZh": "圣剑传说 玛娜传奇",
+    "titleJa": "聖剣伝説 LEGEND OF MANA",
+    "year": 1999,
+    "developer": "Square",
+    "publisher": "Square",
+    "genre": "动作角色扮演",
+    "tags": [
+      "像素",
+      "手绘",
+      "箱庭"
+    ],
+    "players": "1-2",
+    "tagline": "会动的绘本，水彩般梦幻的圣剑世界",
+    "description": "打开光盘，仿佛翻开了一本会动的童话绘本！本作采用前所未见的手绘风2D美术，每一帧背景都如水彩画般温柔细腻，至今仍被誉为PS上最美的2D游戏之一。\n\n独创的\"Land Make\"系统让玩家亲手把各种道具放置在地图上，创造属于自己的世界；故事则由数十个独立事件拼贴而成，珍珠公主、龙族、宝石骑士……每条线都有其韵味。下村阳子的配乐更是温柔动人。\n\n武器锻造、魔法乐器、宠物培育、果园种植等要素丰富无比，支持双人合作。它不急于讲述一个宏大故事，而是邀请你慢慢漫步于这片玛娜之地。",
+    "highlights": [
+      "手绘水彩风的顶级2D美术",
+      "Land Make自由构建世界地图",
+      "下村阳子温柔动人的配乐",
+      "锻造、宠物、果园等丰富养成"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "31/40",
+        "quote": "美丽的画面与自由度极高的玩法令人着迷"
+      },
+      {
+        "source": "IGN",
+        "score": "8.3/10",
+        "quote": "画面令人惊叹，音乐出色，探索乐趣十足"
+      },
+      {
+        "source": "GameSpot",
+        "score": "7/10",
+        "quote": "画面与音乐一流，但叙事结构较为松散"
+      }
+    ],
+    "editorScore": 9.1,
+    "is2D": true,
+    "screenshots": [
+      "images/ps/ps-legend-of-mana-1.jpg",
+      "images/ps/ps-legend-of-mana-2.png"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "ps-alundra",
+    "title": "Alundra",
+    "titleZh": "阿兰多拉",
+    "titleJa": "アランドラ",
+    "year": 1997,
+    "developer": "Matrix Software",
+    "publisher": "Sony Computer Entertainment",
+    "genre": "动作角色扮演",
+    "tags": [
+      "像素",
+      "解谜",
+      "俯视角",
+      "梦境"
+    ],
+    "players": "1",
+    "tagline": "潜入梦境的勇者，PS上的2D塞尔达",
+    "description": "由前Climax成员组成的Matrix Software打造，被誉为\"PS上的塞尔达\"！能潜入他人梦境的少年阿兰多拉漂流到小镇伊诺亚，村民们接连被噩梦夺去生命，他必须进入梦中与恶魔对决。\n\n俯视角2D像素画面精致细腻，村庄、森林与地下城各具风情。本作谜题以高难度著称，箱子推拉、跳跃平台与机关设计环环相扣，解开时的成就感无与伦比。剧情也相当成熟沉重，对信仰与命运的探讨令人深思。\n\n如果你喜欢经典俯视角动作冒险，这款硬派佳作绝对值得挑战。",
+    "highlights": [
+      "正统俯视角2D动作冒险",
+      "高难度且设计精妙的谜题",
+      "进入他人梦境的独特设定",
+      "成熟沉重的剧情"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "31/40",
+        "quote": "迷宫与谜题设计扎实，动作RPG爱好者不容错过"
+      },
+      {
+        "source": "GameSpot",
+        "score": "8.8/10",
+        "quote": "精致的2D画面与烧脑谜题，足以媲美塞尔达"
+      },
+      {
+        "source": "IGN",
+        "score": "8.5/10",
+        "quote": "富有挑战性的动作冒险佳作"
+      }
+    ],
+    "editorScore": 9.0,
+    "is2D": true,
+    "screenshots": [
+      "images/ps/ps-alundra-1.jpg"
+    ],
+    "coverShot": false
+  },
+  {
+    "id": "ps-klonoa",
+    "title": "Klonoa: Door to Phantomile",
+    "titleZh": "风之克罗诺亚",
+    "titleJa": "風のクロノア door to phantomile",
+    "year": 1997,
+    "developer": "Namco",
+    "publisher": "Namco",
+    "genre": "横版动作",
+    "tags": [
+      "2.5D",
+      "平台跳跃",
+      "童话"
+    ],
+    "players": "1",
+    "tagline": "随风而起的梦之旅，2.5D平台的教科书",
+    "description": "NAMCO献给所有人的一场梦！长着大耳朵的少年克罗诺亚，手持风之戒指，在梦幻国度Phantomile展开冒险。抓住敌人、充气、投掷、借力二段跳——简单的操作衍生出精妙的关卡设计。\n\n本作开创性地将2D精灵角色放在3D场景中，镜头随路径蜿蜒旋转，所谓\"2.5D\"的魅力在此展现得淋漓尽致。色彩明快的画面配上悠扬的音乐，让人心情愉悦。\n\n然而别被可爱外表骗了，最终章的剧情转折足以让成年玩家泪流满面。这是一部被低估的杰作，强烈推荐！",
+    "highlights": [
+      "2D角色+3D场景的2.5D先驱",
+      "抓投敌人的独特核心玩法",
+      "童话外表下令人落泪的结局",
+      "关卡设计精巧，老少咸宜"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "30/40",
+        "quote": "操作简单易上手，关卡设计充满巧思"
+      },
+      {
+        "source": "GameSpot",
+        "score": "9.2/10",
+        "quote": "画面迷人、玩法新颖，是不容错过的平台游戏"
+      },
+      {
+        "source": "IGN",
+        "score": "8.0/10",
+        "quote": "可爱又有深度的平台动作游戏"
+      }
+    ],
+    "editorScore": 9.0,
+    "is2D": true,
+    "screenshots": [
+      "images/ps/ps-klonoa-1.png",
+      "images/ps/ps-klonoa-2.jpg"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "ps-breath-of-fire-iii",
+    "title": "Breath of Fire III",
+    "titleZh": "龙战士III",
+    "titleJa": "ブレス オブ ファイアIII",
+    "year": 1997,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "龙族",
+      "成长"
+    ],
+    "players": "1",
+    "tagline": "龙之少年的成长史诗，卡普空的像素匠心",
+    "description": "卡普空招牌RPG系列登陆PS！龙族少年琉从矿山中苏醒，与伙伴雷、提佩特一同成长，从童年到青年，探寻龙族灭亡的真相。整个故事横跨主角的成长岁月，情感层次丰富。\n\n本作以精美的2D像素角色搭配可旋转的3D场景，人物动作细腻生动，充满卡普空特有的动画质感。\"龙之基因\"组合变身系统、向大师拜师学技、钓鱼小游戏、建设妖精村等要素，玩起来乐趣十足。\n\n温暖的冒险、略带忧伤的剧情，是一部值得细细品味的经典日式RPG。",
+    "highlights": [
+      "卡普空精心绘制的生动像素角色",
+      "龙之基因组合变身系统",
+      "拜师学艺、钓鱼、妖精村等丰富要素",
+      "贯穿主角成长的感人故事"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "28/40",
+        "quote": "画面与系统完成度高，延续系列魅力"
+      },
+      {
+        "source": "IGN",
+        "score": "7.5/10",
+        "quote": "传统而扎实的RPG，像素画面颇具魅力"
+      },
+      {
+        "source": "GameSpot",
+        "score": "6.9/10",
+        "quote": "系统丰富，但节奏偏慢"
+      }
+    ],
+    "editorScore": 8.9,
+    "is2D": true,
+    "screenshots": [
+      "images/ps/ps-breath-of-fire-iii-1.png",
+      "images/ps/ps-breath-of-fire-iii-2.png"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "ps-suikoden",
+    "title": "Suikoden",
+    "titleZh": "幻想水浒传",
+    "titleJa": "幻想水滸伝",
+    "year": 1995,
+    "developer": "Konami",
+    "publisher": "Konami",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "108星",
+      "军团战"
+    ],
+    "players": "1",
+    "tagline": "集结108星，一切传奇的开端",
+    "description": "以中国古典名著《水浒传》为灵感，KONAMI于PS初期推出的这部RPG开创了一个传奇系列。帝国将军之子提尔，因一场阴谋被迫走上反抗帝国之路，在宿命之纹章的指引下集结108位英雄。\n\n本作的2D像素画面朴实精致，节奏明快，通关时间约二十小时，非常适合现代玩家。大本营随着伙伴增加而逐步扩建，招募全员后的完美结局更是令人激动。剧情中父子对决、挚友牺牲等桥段，十分催泪。\n\n作为《幻水II》的前传，先玩一代再接续二代的存档，体验会更加完整。",
+    "highlights": [
+      "108星招募与城堡扩建的乐趣",
+      "节奏紧凑，二十小时即可通关",
+      "父子、挚友间的感人剧情",
+      "可将存档继承至《幻想水浒传II》"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "26/40",
+        "quote": "以水浒传为题材的独特RPG，招募要素富有新意"
+      },
+      {
+        "source": "IGN",
+        "score": "9/10",
+        "quote": "经典的日式RPG，故事与角色令人难忘"
+      },
+      {
+        "source": "EGM",
+        "score": "35/40",
+        "quote": "剧情吸引人，战争系统颇具特色"
+      }
+    ],
+    "editorScore": 8.8,
+    "is2D": true,
+    "screenshots": [
+      "images/ps/ps-suikoden-1.jpg",
+      "images/ps/ps-suikoden-2.jpg"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "ps-street-fighter-alpha-3",
+    "title": "Street Fighter Alpha 3",
+    "titleZh": "街头霸王ZERO3",
+    "titleJa": "ストリートファイターZERO3",
+    "year": 1998,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genre": "格斗",
+    "tags": [
+      "像素",
+      "对战",
+      "街机移植"
+    ],
+    "players": "1-2",
+    "tagline": "2D格斗的黄金时代，像素拳脚的狂欢",
+    "description": "卡普空2D格斗的集大成之作移植PS！30余名角色悉数登场，春丽、隆、肯、维加……经典人物齐聚一堂。X-ISM、A-ISM、V-ISM三种风格可选，从传统一击到华丽的\"原创连段\"，进阶空间深不见底。\n\n虽然PS内存有限、部分动画帧被削减，但移植版追加了\"世界巡回模式\"，以RPG方式培养角色，单人玩家也能乐在其中，堪称良心。\n\n叫上好友，坐在电视前来一场\"拳头见真章\"吧！那份街机厅的热血，至今依旧滚烫。",
+    "highlights": [
+      "30余名角色的豪华阵容",
+      "三种ISM战斗风格，深度十足",
+      "PS版独有世界巡回RPG式养成模式",
+      "细腻的卡普空像素动画"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "32/40",
+        "quote": "街机原作的魅力完整保留，追加模式丰富"
+      },
+      {
+        "source": "IGN",
+        "score": "9.3/10",
+        "quote": "PS上最出色的2D格斗游戏之一"
+      },
+      {
+        "source": "GameSpot",
+        "score": "8/10",
+        "quote": "移植扎实，内容丰富"
+      }
+    ],
+    "editorScore": 8.8,
+    "is2D": true,
+    "screenshots": [
+      "images/ps/ps-street-fighter-alpha-3-1.png"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "ps-breath-of-fire-iv",
+    "title": "Breath of Fire IV",
+    "titleZh": "龙战士IV",
+    "titleJa": "ブレス オブ ファイアIV うつろわざるもの",
+    "year": 2000,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "双主角",
+      "龙族"
+    ],
+    "players": "1",
+    "tagline": "不灭者的叹息，龙战士系列的像素绝唱",
+    "description": "系列在PS上的第二作，也是2D像素美术最精致的一作！公主妮娜寻找失踪的姐姐，途中在沙漠中邂逅失去记忆的少年琉；而另一边，一位被唤醒的古代皇帝\"不灭者\"弗乌，正怀着对人类的憎恨展开复仇。\n\n故事在两条线之间交替推进，善与恶的界限逐渐模糊，结局极具冲击力。手绘质感的像素角色动画堪称卡普空巅峰，战斗中的组合技与前后排交替系统让战斗更具策略性。\n\n画风温暖如水彩，剧情却深沉厚重，是被严重低估的PS后期RPG佳作。",
+    "highlights": [
+      "卡普空巅峰级的2D角色动画",
+      "正邪双主角交替叙事",
+      "组合魔法技与前后排交替战斗",
+      "成熟而具冲击力的剧情"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "31/40",
+        "quote": "精致的画面与成熟的剧情令人满意"
+      },
+      {
+        "source": "IGN",
+        "score": "8.2/10",
+        "quote": "美丽的2D画面，系列最出色的作品之一"
+      },
+      {
+        "source": "GameSpot",
+        "score": "7.5/10",
+        "quote": "传统但做工精良的RPG"
+      }
+    ],
+    "editorScore": 8.8,
+    "is2D": true,
+    "screenshots": [
+      "images/ps/ps-breath-of-fire-iv-1.png",
+      "images/ps/ps-breath-of-fire-iv-2.png"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "ps-wild-arms",
+    "title": "Wild Arms",
+    "titleZh": "狂野历险",
+    "titleJa": "ワイルドアームズ",
+    "year": 1996,
+    "developer": "Media.Vision",
+    "publisher": "Sony Computer Entertainment",
+    "genre": "角色扮演",
+    "tags": [
+      "西部",
+      "像素",
+      "解谜"
+    ],
+    "players": "1",
+    "tagline": "口哨一响，荒野之上的西部幻想",
+    "description": "开场那段口哨声，是多少玩家心中的PS经典回忆！索尼自家出品，将西部片风格与奇幻世界融合，三位主角——能操控ARM的少年罗迪、寻宝猎人杰克、魔法少女塞西莉亚——各自展开序章后汇聚，踏上拯救法尔加亚的旅程。\n\n地图与迷宫采用精美的2D像素，每个角色拥有独特道具(炸弹、钩爪、魔杖等)，迷宫解谜设计颇具塞尔达风味；战斗则转为3D画面，在当时令人耳目一新。\n\n成毛美智子(なるけみちこ)的配乐荒凉又热血，是PS初期最值得回味的RPG之一。",
+    "highlights": [
+      "西部片风格的独特世界观",
+      "三主角各有道具的迷宫解谜",
+      "2D地图与3D战斗的结合",
+      "成毛美智子的口哨主题曲令人难忘"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "31/40",
+        "quote": "西部风格独特，迷宫解谜设计出色"
+      },
+      {
+        "source": "GameSpot",
+        "score": "8.6/10",
+        "quote": "扎实的RPG，解谜与战斗平衡良好"
+      },
+      {
+        "source": "IGN",
+        "score": "8/10",
+        "quote": "PS早期优秀的传统RPG"
+      }
+    ],
+    "editorScore": 8.6,
+    "is2D": true,
+    "screenshots": [
+      "images/ps/ps-wild-arms-1.png",
+      "images/ps/ps-wild-arms-2.png"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "ps-tales-of-destiny",
+    "title": "Tales of Destiny",
+    "titleZh": "宿命传说",
+    "titleJa": "テイルズ オブ デスティニー",
+    "year": 1997,
+    "developer": "Wolf Team",
+    "publisher": "Namco",
+    "genre": "动作角色扮演",
+    "tags": [
+      "像素",
+      "即时战斗",
+      "会说话的剑"
+    ],
+    "players": "1-4",
+    "tagline": "会说话的剑与少年，传说系列PS首航",
+    "description": "《传说》系列首次登陆PS！乡下少年斯坦偷渡上飞行船，意外与拥有人格的\"索迪安\"之剑迪姆罗斯结缘，被卷入一场围绕古代神器的阴谋之中。\n\n系列招牌的\"线性动作战斗系统\"(LMBS)以横版格斗形式即时进行，连击、奥义技爽快感十足，最多可支持多人同乐。2D像素画面细腻明亮，猪股睦实的人设充满活力，还有樱庭统的配乐护航。\n\n本作是传说系列人气腾飞的起点，在日本销量突破百万。想了解\"传说\"的根，就从这里出发吧！",
+    "highlights": [
+      "即时横版的LMBS战斗系统",
+      "拥有人格的剑\"索迪安\"设定",
+      "明亮细腻的2D像素画面",
+      "支持多人协力战斗"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "31/40",
+        "quote": "即时战斗爽快，剧情与人物富有魅力"
+      },
+      {
+        "source": "IGN",
+        "score": "7.5/10",
+        "quote": "动作战斗颇具乐趣的传统RPG"
+      },
+      {
+        "source": "EGM",
+        "score": "8.12/10",
+        "quote": "战斗系统别具一格，值得一玩"
+      }
+    ],
+    "editorScore": 8.5,
+    "is2D": true,
+    "screenshots": [
+      "images/ps/ps-tales-of-destiny-1.jpg",
+      "images/ps/ps-tales-of-destiny-2.jpg"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "ps-mega-man-x4",
+    "title": "Mega Man X4",
+    "titleZh": "洛克人X4",
+    "titleJa": "ロックマンX4",
+    "year": 1997,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genre": "横版动作",
+    "tags": [
+      "像素",
+      "射击",
+      "双主角"
+    ],
+    "players": "1",
+    "tagline": "X与杰洛，32位时代的蓝色闪电",
+    "description": "洛克人X系列进入32位时代的首部作品！本作首次可选择两位主角：使用X-Buster远程射击的X，以及挥舞光剑近身斩击的杰洛，两人的玩法与剧情截然不同，等于一次享受两款游戏。\n\n画面在原有像素风格上大幅进化，角色动画更加流畅，背景层次丰富，过场还加入了动画片段。八大BOSS关卡设计富有变化，空中骑乘、高速追逐场景紧张刺激。\n\n手感精准、节奏爽快，是X系列公认的高峰之作。想重温纯粹的2D横版射击动作，X4是绝佳选择。",
+    "highlights": [
+      "X与杰洛双主角，玩法剧情各异",
+      "32位机上进化的精致像素画面",
+      "八大BOSS关卡设计富有变化",
+      "爽快精准的操作手感"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "25/40",
+        "quote": "系列粉丝会满意的作品，双主角设计新颖"
+      },
+      {
+        "source": "IGN",
+        "score": "7/10",
+        "quote": "扎实的2D动作，画面表现出色"
+      },
+      {
+        "source": "GameSpot",
+        "score": "7.0/10",
+        "quote": "经典洛克人玩法的稳健延续"
+      }
+    ],
+    "editorScore": 8.4,
+    "is2D": true,
+    "screenshots": [
+      "images/ps/ps-mega-man-x4-1.jpg",
+      "images/ps/ps-mega-man-x4-2.jpg"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "ps-rayman",
+    "title": "Rayman",
+    "titleZh": "雷曼",
+    "titleJa": "",
+    "year": 1995,
+    "developer": "Ubi Pictures",
+    "publisher": "Ubi Soft",
+    "genre": "横版动作",
+    "tags": [
+      "手绘",
+      "平台跳跃",
+      "高难度"
+    ],
+    "players": "1",
+    "tagline": "没有四肢的英雄，手绘般的平台冒险",
+    "description": "来自法国的育碧，凭借这位没有四肢的英雄一炮而红！雷曼的世界宛如一部会动的卡通片：手绘风格的森林、音乐之地、画笔山脉，色彩鲜艳、动画流畅，在PS初期让玩家大开眼界。\n\n雷曼可以投掷拳头攻击、抓住边缘、用头发旋转滑翔，能力随冒险逐步解锁。关卡设计富有想象力，但难度可不低——要收集所有笼子里的小精灵，可得费上不少心思。\n\n这是PS首批大热的2D平台游戏之一，在欧洲销量惊人。其精美画面至今看来依旧赏心悦目。",
+    "highlights": [
+      "卡通片般的手绘2D画面",
+      "飞拳、发丝滑翔等可爱招式",
+      "想象力丰富的关卡主题",
+      "硬派的高难度挑战"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "27/40",
+        "quote": "画面美丽，动作游戏的基本功扎实"
+      },
+      {
+        "source": "EGM",
+        "score": "35.5/40",
+        "quote": "画面惊艳的横版动作游戏，难度颇高"
+      }
+    ],
+    "editorScore": 8.4,
+    "is2D": true,
+    "screenshots": [
+      "images/ps/ps-rayman-1.png",
+      "images/ps/ps-rayman-2.png"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "ps-abes-oddysee",
+    "title": "Oddworld: Abe's Oddysee",
+    "titleZh": "奇异世界：阿比逃亡记",
+    "titleJa": "",
+    "year": 1997,
+    "developer": "Oddworld Inhabitants",
+    "publisher": "GT Interactive",
+    "genre": "平台解谜",
+    "tags": [
+      "预渲染",
+      "解谜",
+      "黑色幽默"
+    ],
+    "players": "1",
+    "tagline": "拯救同胞的逃亡之旅，预渲染2D的黑色童话",
+    "description": "肉品工厂的清洁工阿比，偶然发现老板打算把同族穆多肯人做成零食！于是他展开了一场惊险的大逃亡，还要沿路解救99名同胞。\n\n本作采用精美的预渲染2D场景，画面细节丰富，充满怪诞的工业气息。阿比不能攻击，只能依靠潜行、跳跃与\"附身\"敌人来解谜；独特的\"游戏说话\"系统让阿比可以和同伴对话，下达指令。死亡是家常便饭，但每次重来都会更加聪明。\n\n讽刺资本主义的黑色幽默、独树一帜的美术，让它成为PS上最具个性的作品之一。",
+    "highlights": [
+      "精美细致的预渲染2D场景",
+      "附身敌人与语音指令的创新解谜",
+      "讽刺意味浓厚的黑色幽默",
+      "解救同胞决定不同结局"
+    ],
+    "reviews": [
+      {
+        "source": "GameSpot",
+        "score": "8.4/10",
+        "quote": "画面与氛围出色，解谜富有挑战性"
+      },
+      {
+        "source": "IGN",
+        "score": "7.5/10",
+        "quote": "独特的美术与创意玩法令人印象深刻"
+      },
+      {
+        "source": "Metacritic",
+        "score": "85/100",
+        "quote": "获得媒体广泛好评"
+      }
+    ],
+    "editorScore": 8.3,
+    "is2D": true,
+    "screenshots": [
+      "images/ps/ps-abes-oddysee-1.jpg",
+      "images/ps/ps-abes-oddysee-2.jpg"
+    ],
+    "coverShot": true
+  }
+]

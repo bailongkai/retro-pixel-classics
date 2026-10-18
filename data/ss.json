@@ -1,0 +1,729 @@
+[
+  {
+    "id": "ss-radiant-silvergun",
+    "title": "Radiant Silvergun",
+    "titleZh": "闪亮银枪",
+    "titleJa": "レイディアントシルバーガン",
+    "year": 1998,
+    "developer": "Treasure",
+    "publisher": "ESP",
+    "genre": "纵版射击",
+    "tags": [
+      "像素",
+      "弹幕",
+      "硬核",
+      "神作"
+    ],
+    "players": "1-2",
+    "tagline": "Treasure巅峰之作，土星射击的终极圣杯",
+    "description": "如果说世嘉土星是2D机能的王者，那么《闪亮银枪》就是这顶王冠上最耀眼的宝石！Treasure的天才们把七种武器同时塞给玩家，不同颜色的敌机连锁消灭可获得额外奖励，一边闪避铺天盖地的弹幕，一边算计连锁，脑子和手指同时燃烧。\n\n画面上，多层卷轴背景、旋转缩放的巨大头目、2D与多边形的巧妙融合，在当年简直是魔法。配上崎元仁的史诗级配乐，每一关都像在看一部太空歌剧。\n\n本作只在日本发售、初版仅数万份，二手价格一度高得吓人。如今已有移植版可玩，射击迷不玩此作，就不算真正读懂了“Treasure”这四个字。",
+    "highlights": [
+      "七种武器同时可用，玩法深度惊人",
+      "同色连锁计分系统，研究性极强",
+      "崎元仁操刀的史诗级交响配乐",
+      "多层卷轴与巨大头目战展现土星机能"
+    ],
+    "reviews": [
+      {
+        "source": "GameSpot",
+        "score": "9/10",
+        "quote": "绝对必买，从未有射击游戏能把精心设计的动作与惊艳音画结合到如此程度"
+      },
+      {
+        "source": "Edge",
+        "score": "8/10",
+        "quote": "堪称土星有史以来最出色的技术展示，多层卷轴背景令人叹为观止"
+      },
+      {
+        "source": "Sega Saturn Magazine (英)",
+        "score": "95%",
+        "quote": "深度胜过不少RPG，2D与3D画面融合得极为出色，难度令人满足"
+      }
+    ],
+    "editorScore": 9.6,
+    "is2D": true,
+    "screenshots": [
+      "images/ss/ss-radiant-silvergun-1.png"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "ss-guardian-heroes",
+    "title": "Guardian Heroes",
+    "titleZh": "守护英雄",
+    "titleJa": "ガーディアンヒーローズ",
+    "year": 1996,
+    "developer": "Treasure",
+    "publisher": "Sega",
+    "genre": "动作清版",
+    "tags": [
+      "像素",
+      "多结局",
+      "多人",
+      "RPG养成"
+    ],
+    "players": "1-6",
+    "tagline": "清版动作+RPG，Treasure的疯狂实验",
+    "description": "这是一款把格斗游戏、清版动作和RPG搅在一起的奇作！三条纵深线路自由切换，搓招放必杀，升级加点，剧情还会根据你的选择分出多条路线与结局，每一次通关都是新的冒险。\n\n更夸张的是对战模式——最多六人同屏混战，还能使用游戏中登场的几十名角色，当年在宿舍里接上多分插，那叫一个热闹！Treasure标志性的爆炸特效与流畅像素动画，至今看来依然鲜活。\n\n想体验土星时代最有创意的2D动作游戏？就是它了。",
+    "highlights": [
+      "三线纵深战斗，动作与格斗系统融合",
+      "剧情分支与多结局，重玩价值高",
+      "最多六人同屏对战，派对神作",
+      "击败敌人获得经验值，自由分配能力点"
+    ],
+    "reviews": [
+      {
+        "source": "Sega Saturn Magazine",
+        "score": "95%",
+        "quote": "土星上最具创意的动作游戏之一，深度与爽快感兼备"
+      },
+      {
+        "source": "EGM",
+        "score": "8.125/10",
+        "quote": "将清版动作与RPG元素结合得别出心裁"
+      },
+      {
+        "source": "Fami通",
+        "score": "26/40",
+        "quote": "评价两极：有编辑打出9分，也有人嫌画面过于混乱"
+      }
+    ],
+    "editorScore": 9.5,
+    "is2D": true,
+    "screenshots": [
+      "images/ss/ss-guardian-heroes-1.jpg"
+    ],
+    "coverShot": false
+  },
+  {
+    "id": "ss-shining-force-3",
+    "title": "Shining Force III",
+    "titleZh": "光明力量III",
+    "titleJa": "シャイニング・フォースIII",
+    "year": 1997,
+    "developer": "Camelot Software Planning（Sonic! Software Planning）",
+    "publisher": "Sega",
+    "genre": "战棋RPG",
+    "tags": [
+      "战棋",
+      "三部曲",
+      "剧情"
+    ],
+    "players": "1",
+    "tagline": "三部曲联动，世嘉战棋的最高峰",
+    "description": "光明力量系列在土星上迎来了史诗级的终章！本作分为三个剧本，分别从帝国与共和国不同立场讲述同一场战争，前作存档还能继承到下一部，那种“原来当时对面发生了这些事”的震撼，是同时代RPG少有的体验。\n\n战斗沿用系列招牌的格子战棋，角色众多、转职丰富，还加入了伙伴间的友情值系统。虽然战场改用多边形，但人物依旧可爱生动，节奏明快。\n\n可惜欧美只发行了第一部，完整三部曲至今仍要靠汉化与爱好者补丁。喜欢战棋的玩家，这是必修课。",
+    "highlights": [
+      "三剧本多视角叙事，存档可继承",
+      "庞大的角色阵容与转职系统",
+      "友情系统让伙伴并肩作战更强",
+      "系列最具野心的一作"
+    ],
+    "reviews": [
+      {
+        "source": "Sega Saturn Magazine",
+        "score": "93%",
+        "quote": "土星上最好的RPG之一，战略与剧情兼具"
+      },
+      {
+        "source": "GameSpot",
+        "score": "8.5/10",
+        "quote": "经典光明力量玩法的出色延续，内容扎实"
+      },
+      {
+        "source": "EGM",
+        "score": "8.875/10",
+        "quote": "战棋爱好者不容错过的大作"
+      }
+    ],
+    "editorScore": 9.4,
+    "is2D": false,
+    "screenshots": [
+      "images/ss/ss-shining-force-3-1.jpg",
+      "images/ss/ss-shining-force-3-2.jpg"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "ss-grandia",
+    "title": "Grandia",
+    "titleZh": "格兰蒂亚",
+    "titleJa": "グランディア",
+    "year": 1997,
+    "developer": "Game Arts",
+    "publisher": "ESP",
+    "genre": "RPG",
+    "tags": [
+      "冒险",
+      "即时指令战斗",
+      "王道"
+    ],
+    "players": "1",
+    "tagline": "少年梦想的大冒险，土星RPG之王",
+    "description": "还记得第一次推开格兰蒂亚世界大门时的那份悸动吗？少年冒险家贾斯汀背上行囊，从港口小镇出发，穿越大海、高山与古代遗迹，一路寻找传说中的安格鲁文明——这就是最纯粹的“冒险”二字！\n\nGame Arts为本作打造了半即时的行动指令战斗：时间轴上敌我交错，打断对方技能、拉开距离都有讲究，紧张又爽快。3D场景配上精致的2D角色，城镇里人来人往，生活气息扑面而来。\n\n岩垂德行的音乐温暖动人。哪怕今天再玩，它依然是那封写给所有冒险少年的情书。",
+    "highlights": [
+      "行动时间轴战斗系统，打断与连携极具策略",
+      "王道冒险故事，角色塑造鲜活",
+      "3D场景与2D精灵结合的独特画风",
+      "岩垂德行的经典配乐"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "32/40",
+        "quote": "四位编辑给出9/7/8/8，盛赞其战斗系统与冒险感"
+      },
+      {
+        "source": "GameSpot",
+        "score": "9.3/10",
+        "quote": "土星上最出色的RPG之一"
+      },
+      {
+        "source": "Sega Saturn Magazine (日)",
+        "score": "9/10",
+        "quote": "画面与战斗系统都达到了顶尖水准"
+      }
+    ],
+    "editorScore": 9.3,
+    "is2D": false,
+    "screenshots": [
+      "images/ss/ss-grandia-1.jpg"
+    ],
+    "coverShot": false
+  },
+  {
+    "id": "ss-dragon-force",
+    "title": "Dragon Force",
+    "titleZh": "龙之力",
+    "titleJa": "ドラゴンフォース",
+    "year": 1996,
+    "developer": "J-Force / Sega",
+    "publisher": "Sega（北美：Working Designs）",
+    "genre": "战略模拟",
+    "tags": [
+      "战略",
+      "百人大战",
+      "多主角"
+    ],
+    "players": "1",
+    "tagline": "百人同屏冲锋，土星独有的战争史诗",
+    "description": "八位君主，一片大陆，谁能统一天下？《龙之力》把三国志式的国家经营和即时战场完美结合，招揽将领、攻城略地，再在战场上看双方上百名士兵像潮水般对冲——这种热血场面，在1996年只有土星做得到！\n\n每位将军都能选择兵种和阵型，克制关系一目了然；战局胶着时发动必杀魔法，画面瞬间爆开，爽快至极。八位主角各有剧情，通关一次远远不够。\n\n欧美由Working Designs精心本地化，口碑极佳。喜欢策略又嫌传统SLG太慢的朋友，一定要试试。",
+    "highlights": [
+      "上百名士兵同屏即时混战",
+      "八位君主各自独立剧情",
+      "兵种相克与阵型系统简单易懂",
+      "内政与战争节奏明快"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "30/40",
+        "quote": "策略与动作结合得恰到好处"
+      },
+      {
+        "source": "GameSpot",
+        "score": "9.1/10",
+        "quote": "兼具深度与易上手的出色策略游戏"
+      },
+      {
+        "source": "EGM",
+        "score": "36/40",
+        "quote": "四位编辑给出9.5/9.5/9/8，赞其独一无二的大规模战斗"
+      }
+    ],
+    "editorScore": 9.2,
+    "is2D": true,
+    "screenshots": [
+      "images/ss/ss-dragon-force-1.png"
+    ],
+    "coverShot": false
+  },
+  {
+    "id": "ss-princess-crown",
+    "title": "Princess Crown",
+    "titleZh": "公主皇冠",
+    "titleJa": "プリンセスクラウン",
+    "year": 1997,
+    "developer": "Atlus（神谷盛治主导）",
+    "publisher": "Atlus",
+    "genre": "动作RPG",
+    "tags": [
+      "像素",
+      "手绘风",
+      "香草社前身"
+    ],
+    "players": "1",
+    "tagline": "香草社的起点，会动的绘本童话",
+    "description": "在《奥丁领域》《胧村正》诞生之前，神谷盛治就在土星上画出了这本会动的童话绘本！少女女王古拉迪斯手持长剑踏上旅途，大尺寸手绘角色在横版场景中流畅舞动，每一帧都美得像插画。\n\n本作是横版动作RPG，要吃东西恢复体力、调配道具，战斗讲究攻防节奏。主线之外还有多位角色的篇章，故事层层交织，最终拼成完整的王国传说。\n\n如果你喜欢香草社的画风，那么回到这部“一切的原点”，会看到那份对2D美术近乎偏执的热爱从何而来。",
+    "highlights": [
+      "超大尺寸手绘角色，动画细腻流畅",
+      "横版动作RPG，攻防与道具管理并重",
+      "多角色篇章交织叙事",
+      "香草社作品的精神原点"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "29/40",
+        "quote": "2D画面极具魅力的动作RPG"
+      },
+      {
+        "source": "RPGFan",
+        "score": "95%",
+        "quote": "土星上最美的2D游戏之一，值得为之学日语"
+      }
+    ],
+    "editorScore": 9.1,
+    "is2D": true,
+    "screenshots": [
+      "images/ss/ss-princess-crown-1.png"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "ss-vampire-savior",
+    "title": "Vampire Savior: The Lord of Vampire",
+    "titleZh": "恶魔战士3",
+    "titleJa": "ヴァンパイアセイヴァー",
+    "year": 1998,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genre": "格斗",
+    "tags": [
+      "像素",
+      "4MB扩展卡",
+      "对战"
+    ],
+    "players": "1-2",
+    "tagline": "4MB卡加持，家用机最完美的妖怪大乱斗",
+    "description": "卡普空2D格斗的美术巅峰，在土星上迎来了几乎完美的移植！借助4MB扩展内存卡，莉莉丝、莫丽卡们的动画帧数几乎全部保留，每一个夸张变形的动作都流畅得令人感动。\n\n土星版更是集大成：收录全部角色，还加入了前作人气角色，选人画面阵容豪华。连段系统、暗黑力量、自由连段，节奏极快，高手对决让人热血沸腾。\n\n当年PS版因为内存问题删减动画，土星版则成了玩家心中的“正统家用版”。土星对2D格斗的统治力，就是被这样的作品奠定的。",
+    "highlights": [
+      "4MB扩展卡几乎完整重现街机动画",
+      "收录全部角色，阵容豪华",
+      "卡普空2D美术的最高水平",
+      "快节奏连段，对战深度十足"
+    ],
+    "reviews": [
+      {
+        "source": "Sega Saturn Magazine (英)",
+        "score": "94%",
+        "quote": "动画流畅度几乎与街机无异的完美移植"
+      },
+      {
+        "source": "Sega Saturn Magazine (日)",
+        "score": "9.7/10",
+        "quote": "土星2D格斗移植的标杆之作"
+      }
+    ],
+    "editorScore": 9.1,
+    "is2D": true,
+    "screenshots": [
+      "images/ss/ss-vampire-savior-1.jpg"
+    ],
+    "coverShot": false
+  },
+  {
+    "id": "ss-castlevania-sotn",
+    "title": "Castlevania: Symphony of the Night (Saturn)",
+    "titleZh": "恶魔城X 月下夜想曲（土星版）",
+    "titleJa": "悪魔城ドラキュラX 月下の夜想曲",
+    "year": 1998,
+    "developer": "Konami Computer Entertainment Nagoya",
+    "publisher": "Konami",
+    "genre": "动作RPG",
+    "tags": [
+      "像素",
+      "银河恶魔城",
+      "收集"
+    ],
+    "players": "1",
+    "tagline": "可操作玛丽亚的独家版本，月下迷必收",
+    "description": "《月下夜想曲》是“银河恶魔城”类型的奠基之作，无需多言。土星版的特别之处在于独占内容：玛丽亚可以作为操作角色登场，新增“被诅咒的牢狱”和“地下庭园”两块区域及新头目，阿鲁卡多还多了一个“第三只手”装备栏。\n\n当然，移植并非完美：读盘偏长，半透明效果被网点代替，画面有拉伸。但对于想体验月下全部内容的死忠玩家而言，这个版本依然独一无二。\n\n巨大的城堡、无数装备、反转城的震撼，以及山根美智留的哥特交响乐——经典就是经典。",
+    "highlights": [
+      "玛丽亚可操作，里希特开局可选",
+      "独占新区域与新头目",
+      "新增装备与“第三只手”栏位",
+      "银河恶魔城类型的里程碑"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "32/40",
+        "quote": "在PS版基础上加入大量新要素的移植版"
+      }
+    ],
+    "editorScore": 8.9,
+    "is2D": true,
+    "screenshots": [
+      "images/ss/ss-castlevania-sotn-1.jpg"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "ss-sakura-wars",
+    "title": "Sakura Wars",
+    "titleZh": "樱花大战",
+    "titleJa": "サクラ大戦",
+    "year": 1996,
+    "developer": "Red Company / Sega",
+    "publisher": "Sega",
+    "genre": "战棋+恋爱冒险",
+    "tags": [
+      "动画演出",
+      "战棋",
+      "恋爱养成"
+    ],
+    "players": "1",
+    "tagline": "太正浪漫！土星最畅销的国民级RPG",
+    "description": "“檄！帝国华击团！”——当这首主题曲响起，多少玩家的青春就此燃烧。《樱花大战》把恋爱冒险与战棋战斗融为一体，在架空的太正年间东京，身为队长的你既要和花组少女们培养感情，又要驾驶光武击退魔物。\n\n独创的LIPS限时选项系统让对话充满紧张感，你的每个回答都会影响少女们的信赖度，进而左右战斗中的能力。大量动画过场与全程语音在当年震撼无比，藤岛康介的人设更是圈粉无数。\n\n本作在日本销量突破三十万，横扫首届CESA大奖。它不只是游戏，更是一代人的文化记忆。",
+    "highlights": [
+      "LIPS限时选项系统，对话紧张有趣",
+      "恋爱好感度直接影响战斗表现",
+      "大量动画过场与全程语音",
+      "首届CESA游戏大奖大赏"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "33/40",
+        "quote": "美术与声优演出是最大魅力"
+      },
+      {
+        "source": "Sega Saturn Magazine (日)",
+        "score": "8.33/10",
+        "quote": "动画演出与角色魅力出众"
+      },
+      {
+        "source": "RPGFan",
+        "score": "97%",
+        "quote": "土星上最具魅力的作品之一"
+      }
+    ],
+    "editorScore": 8.9,
+    "is2D": true,
+    "screenshots": [
+      "images/ss/ss-sakura-wars-1.png",
+      "images/ss/ss-sakura-wars-2.png"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "ss-dnd-collection",
+    "title": "Dungeons & Dragons Collection",
+    "titleZh": "龙与地下城合集",
+    "titleJa": "ダンジョンズ＆ドラゴンズ コレクション",
+    "year": 1999,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genre": "动作清版",
+    "tags": [
+      "像素",
+      "合作",
+      "RPG要素",
+      "4MB扩展卡"
+    ],
+    "players": "1-2",
+    "tagline": "卡普空清版巅峰，街机厅的龙与地下城回忆",
+    "description": "街机厅里，四个人围着一台《龙与地下城》奋战到深夜——这是多少玩家的美好回忆！土星版将《毁灭之塔》与《秘影历代记》两款经典收录一盘，借助4MB扩展卡最大程度还原了街机的华丽动画。\n\n战士、法师、精灵、矮人……职业各有特色，魔法、道具、装备、分支路线、隐藏要素多得惊人，清版动作和RPG的乐趣在这里完美结合。\n\n读盘时间虽然有点长，家用版也改为最多两人同玩，但这是当年唯一的家用移植，在合集复刻之前，它就是玩家梦寐以求的珍宝。",
+    "highlights": [
+      "一次收录《毁灭之塔》与《秘影历代记》",
+      "多职业、魔法与装备系统",
+      "分支路线与大量隐藏要素",
+      "双人合作乐趣无穷"
+    ],
+    "reviews": [
+      {
+        "source": "Retro Gamer",
+        "score": "—",
+        "quote": "土星上最好的横版清版动作游戏，动画惊艳，只是读盘偏长"
+      },
+      {
+        "source": "IGN",
+        "score": "—",
+        "quote": "入选IGN十大合作游戏"
+      },
+      {
+        "source": "GameSpot",
+        "score": "—",
+        "quote": "批评其读盘时间过长，认为整体表现中规中矩"
+      }
+    ],
+    "editorScore": 8.8,
+    "is2D": true,
+    "screenshots": [
+      "images/ss/ss-dnd-collection-1.png"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "ss-legend-of-oasis",
+    "title": "The Legend of Oasis",
+    "titleZh": "托亚精灵王纪传",
+    "titleJa": "トア 精霊王紀伝",
+    "year": 1996,
+    "developer": "Ancient",
+    "publisher": "Sega",
+    "genre": "动作RPG",
+    "tags": [
+      "像素",
+      "俯视角",
+      "解谜"
+    ],
+    "players": "1",
+    "tagline": "古代祐三的俯视角ARPG，像素美术的教科书",
+    "description": "喜欢《塞尔达》式俯视角动作冒险的朋友，请一定记住这部作品！《托亚精灵王纪传》是MD名作《光明与黑暗的传说》（Story of Thor）的续作，由古代祐三率领的Ancient开发。\n\n王子手戴金臂环，可以召唤水、火、影、植物等精灵——用水灭火、用影子穿越、借植物攀爬，解谜与战斗都围绕精灵展开。主角的动作极其丰富，冲刺、连斩、跳跃攻击一应俱全，手感爽快。\n\n色彩明亮的大地图、细腻的角色动画和古代祐三的音乐，让本作堪称土星像素美术的教科书。",
+    "highlights": [
+      "召唤多种精灵，战斗与解谜紧密结合",
+      "主角动作丰富，连招手感爽快",
+      "色彩明亮细腻的像素美术",
+      "古代祐三亲自作曲"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "31/40",
+        "quote": "四位编辑给出8/8/7/8，画面与操作手感出众"
+      },
+      {
+        "source": "Sega Saturn Magazine",
+        "score": "89%",
+        "quote": "土星上一流的动作冒险游戏"
+      },
+      {
+        "source": "Game Informer",
+        "score": "8.75/10",
+        "quote": "兼具探索与战斗乐趣"
+      }
+    ],
+    "editorScore": 8.8,
+    "is2D": true,
+    "screenshots": [
+      "images/ss/ss-legend-of-oasis-1.jpg"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "ss-saturn-bomberman",
+    "title": "Saturn Bomberman",
+    "titleZh": "土星炸弹人",
+    "titleJa": "サターンボンバーマン",
+    "year": 1996,
+    "developer": "Hudson Soft",
+    "publisher": "Hudson Soft（海外：Sega）",
+    "genre": "动作",
+    "tags": [
+      "多人",
+      "派对",
+      "像素"
+    ],
+    "players": "1-10",
+    "tagline": "十人同屏混战，派对游戏之王",
+    "description": "别看画面朴实，这可是土星上最欢乐的游戏！《土星炸弹人》支持最多十人同时对战，当年接两个多分插、两台手柄排满一桌子，炸弹此起彼伏，尖叫声笑骂声不绝于耳，绝对是聚会必备。\n\n单人模式同样分量十足，坐骑袋鼠、丰富道具、各具特色的关卡与头目一应俱全。对战地图种类繁多，各种奇葩规则让每一局都充满变数。\n\nEGM当年将其评为年度土星游戏与年度多人游戏，可见其魅力。朋友聚会时搬出来，保证瞬间回到1996年。",
+    "highlights": [
+      "最多十人同屏对战",
+      "多种对战地图与规则",
+      "单人剧情模式内容充实",
+      "EGM年度土星游戏"
+    ],
+    "reviews": [
+      {
+        "source": "EGM",
+        "score": "37/40",
+        "quote": "四位编辑给出9/9.5/9.5/9，并评为年度土星游戏与年度多人游戏"
+      },
+      {
+        "source": "Sega Saturn Magazine",
+        "score": "90%",
+        "quote": "土星上最好的多人游戏"
+      },
+      {
+        "source": "Fami通",
+        "score": "27/40",
+        "quote": "系列一贯的乐趣，多人对战表现亮眼"
+      }
+    ],
+    "editorScore": 8.7,
+    "is2D": true,
+    "screenshots": [
+      "images/ss/ss-saturn-bomberman-1.png"
+    ],
+    "coverShot": false
+  },
+  {
+    "id": "ss-tengai-makyou-4",
+    "title": "Tengai Makyō: Daiyon no Mokushiroku",
+    "titleZh": "天外魔境：第四默示录",
+    "titleJa": "天外魔境 第四の黙示録",
+    "year": 1997,
+    "developer": "Hudson Soft / Red Company",
+    "publisher": "Hudson Soft",
+    "genre": "RPG",
+    "tags": [
+      "像素",
+      "剧情",
+      "日版独占"
+    ],
+    "players": "1",
+    "tagline": "西部荒野里的奇幻默示录，红公司狂想曲",
+    "description": "天外魔境系列一贯以“外国人眼中的奇怪日本”为卖点，而这次红公司反其道而行之，把舞台搬到了“日本人眼中的奇怪美国”——19世纪末的西部荒野、宗教与战争、恐怖与幽默交织在一起，荒诞又深刻。\n\n传统的回合制战斗配合精美的像素画面，大量动画过场与华沙爱乐乐团演奏的配乐，展现了土星的多媒体实力。剧情主题沉重，探讨信仰与战争，在同期RPG中独树一帜。\n\n本作仅在日本发售，但它是土星RPG里最有个性的作品之一，值得RPG老饕细细品味。",
+    "highlights": [
+      "独特的19世纪美国西部奇幻舞台",
+      "宗教与战争主题，剧情深刻",
+      "华沙爱乐乐团演奏配乐",
+      "大量动画过场演出"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "28/40",
+        "quote": "系列的大胆转型，演出与音乐出色"
+      },
+      {
+        "source": "Saturn Fan",
+        "score": "8.0/10",
+        "quote": "红公司风格浓厚的个性RPG"
+      }
+    ],
+    "editorScore": 8.6,
+    "is2D": true,
+    "screenshots": [
+      "images/ss/ss-tengai-makyou-4-1.jpg"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "ss-lunar-sssc",
+    "title": "Lunar: Silver Star Story Complete",
+    "titleZh": "露娜：银河之星完全版",
+    "titleJa": "ルナ シルバースターストーリー",
+    "year": 1996,
+    "developer": "Game Arts / Japan Art Media",
+    "publisher": "Kadokawa Shoten",
+    "genre": "RPG",
+    "tags": [
+      "像素",
+      "王道",
+      "动画演出"
+    ],
+    "players": "1",
+    "tagline": "永不褪色的王道童话，Game Arts经典重制",
+    "description": "MCD名作《露娜》在土星上迎来完全重制！少年亚雷斯梦想成为龙之勇者，与青梅竹马露娜一同踏上旅程——这是一个关于成长、爱与勇气的王道故事，朴素却让人热泪盈眶。\n\n土星版重绘了全部像素画面，加入大量动画过场和全新配音，主题曲在开场响起时简直鸡皮疙瘩。战斗节奏明快，角色个性鲜明，伙伴间的吐槽对话让人会心一笑。\n\n后来PS版经Working Designs推出英文版而名声大噪，但最早的“完全版”正是在土星上诞生的。",
+    "highlights": [
+      "MCD名作全面重制，画面焕然一新",
+      "大量动画过场与配音演出",
+      "温暖的王道冒险故事",
+      "明快的回合制战斗"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "25/40",
+        "quote": "对原作的忠实重制，演出更上一层楼"
+      },
+      {
+        "source": "周刊Sega Saturn Magazine",
+        "score": "—",
+        "quote": "被评为1997年最难忘的游戏体验之一"
+      }
+    ],
+    "editorScore": 8.5,
+    "is2D": true,
+    "screenshots": [
+      "images/ss/ss-lunar-sssc-1.jpg"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "ss-albert-odyssey",
+    "title": "Albert Odyssey: Legend of Eldean",
+    "titleZh": "阿尔伯特奥德赛外传",
+    "titleJa": "アルバートオデッセイ外伝 レジェンド オブ エルディーン",
+    "year": 1996,
+    "developer": "Sunsoft",
+    "publisher": "Sunsoft（北美：Working Designs）",
+    "genre": "RPG",
+    "tags": [
+      "像素",
+      "传统回合",
+      "王道"
+    ],
+    "players": "1",
+    "tagline": "手绘像素的传统RPG，温柔的冒险物语",
+    "description": "在3D浪潮汹涌的年代，《阿尔伯特奥德赛外传》坚持用精致的2D像素讲一个温暖的冒险故事：被半人马养大的少年皮克，为了拯救被石化的姐姐与师父，踏上了旅程。\n\n战斗是经典的回合制，遇敌率偏高，但精美的场景、丰富的魔法和充满人情味的城镇NPC，让人忍不住一路探索下去。北美版由Working Designs以其招牌的幽默风格本地化，对白妙趣横生。\n\n它也许不是最革新的RPG，但对于喜欢传统日式RPG与像素小镇氛围的玩家，它就像一杯暖茶。",
+    "highlights": [
+      "精致的2D像素场景与城镇",
+      "经典回合制战斗与丰富魔法",
+      "Working Designs风趣的英文本地化",
+      "温暖的王道冒险故事"
+    ],
+    "reviews": [
+      {
+        "source": "EGM",
+        "score": "33/40",
+        "quote": "获EGM编辑选择银奖，传统RPG爱好者的佳作"
+      },
+      {
+        "source": "GameSpot",
+        "score": "7.6/10",
+        "quote": "画面精致的传统RPG，遇敌率偏高"
+      },
+      {
+        "source": "RPGFan",
+        "score": "91%",
+        "quote": "土星上值得一玩的传统日式RPG"
+      }
+    ],
+    "editorScore": 8.4,
+    "is2D": true,
+    "screenshots": [
+      "images/ss/ss-albert-odyssey-1.png"
+    ],
+    "coverShot": false
+  },
+  {
+    "id": "ss-magic-knight-rayearth",
+    "title": "Magic Knight Rayearth",
+    "titleZh": "魔法骑士雷阿斯",
+    "titleJa": "魔法騎士レイアース",
+    "year": 1995,
+    "developer": "Sega",
+    "publisher": "Sega（北美：Working Designs）",
+    "genre": "动作RPG",
+    "tags": [
+      "像素",
+      "俯视角",
+      "动画改编"
+    ],
+    "players": "1",
+    "tagline": "三少女轮番上阵，土星末代北美RPG",
+    "description": "CLAMP名作改编！光、海、风三位少女被召唤到异世界赛菲罗，为拯救公主而战。本作是一款俯视角动作RPG，三人可随时切换，各有攻击方式与魔法，攻略迷宫时还需要善用不同角色的特长。\n\n明亮可爱的2D画面、大量动画过场与配音，充满90年代动画的味道。日版1995年即已发售，北美版则由Working Designs苦心本地化，直到1998年才问世，成为北美土星最后的官方游戏之一。\n\n评价褒贬不一，有人嫌画面过时，但对喜欢塞尔达式俯视角冒险与可爱像素风的玩家来说，它别有一番韵味。",
+    "highlights": [
+      "三位主角即时切换战斗",
+      "俯视角迷宫探索与解谜",
+      "动画过场与全程配音",
+      "北美土星最后的官方发行游戏之一"
+    ],
+    "reviews": [
+      {
+        "source": "Sega Saturn Magazine (日)",
+        "score": "8.3/10",
+        "quote": "忠实再现原作魅力的动作RPG"
+      },
+      {
+        "source": "Fami通",
+        "score": "26/40",
+        "quote": "中规中矩的改编作品"
+      },
+      {
+        "source": "GameSpot",
+        "score": "5.1/10",
+        "quote": "北美版来得太晚，画面已显过时"
+      }
+    ],
+    "editorScore": 8.3,
+    "is2D": true,
+    "screenshots": [
+      "images/ss/ss-magic-knight-rayearth-1.jpg"
+    ],
+    "coverShot": true
+  }
+]

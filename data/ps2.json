@@ -1,0 +1,847 @@
+[
+  {
+    "id": "ps2-odin-sphere",
+    "title": "Odin Sphere",
+    "titleZh": "奥丁领域",
+    "titleJa": "オーディンスフィア",
+    "year": 2007,
+    "developer": "Vanillaware",
+    "publisher": "Atlus",
+    "genre": "动作角色扮演",
+    "tags": [
+      "手绘",
+      "横版",
+      "群像剧"
+    ],
+    "players": "1",
+    "tagline": "会动的油画，PS2最后的2D绝唱",
+    "description": "在3D大行其道的PS2末期，香草社神谷盛治用一支画笔给所有2D玩家送上了一封情书。《奥丁领域》每一帧都像是手绘绘本里走出来的：角色的发丝、披风、植物的摇曳全部由手工原画驱动，放在今天的高清时代依然美得令人屏息。\n\n五位主角、五本绘本，故事彼此交织，最终汇入一场北欧神话式的诸神黄昏，莎翁悲剧般的群像叙事让不少编辑部同仁读到深夜。横版动作打击扎实，种植果实、烹饪料理的成长系统也别出心裁。虽然人多时偶有拖慢，但瑕不掩瑜——喜欢像素与手绘的你，这是必修课。",
+    "highlights": [
+      "全手绘2D美术，香草社招牌画风",
+      "五位主角交错叙事，结局震撼",
+      "种植+料理的独特成长系统",
+      "北欧神话式的宏大世界观"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "32/40",
+        "quote": "画面精美、操作直观，获银殿堂奖，但难度偏高、场景重复感略强"
+      },
+      {
+        "source": "IGN",
+        "score": "8.8/10",
+        "quote": "故事动人、美术惊艳，堪称2D动作RPG的杰作"
+      },
+      {
+        "source": "Metacritic",
+        "score": "83/100",
+        "quote": "2007年PS2平台评价最高的作品之一"
+      }
+    ],
+    "editorScore": 9.5,
+    "is2D": true,
+    "screenshots": [
+      "images/ps2/ps2-odin-sphere-1.jpg",
+      "images/ps2/ps2-odin-sphere-2.png"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "ps2-dragon-quest-viii",
+    "title": "Dragon Quest VIII: Journey of the Cursed King",
+    "titleZh": "勇者斗恶龙VIII 天空、碧海、大地与被诅咒的公主",
+    "titleJa": "ドラゴンクエストVIII 空と海と大地と呪われし姫君",
+    "year": 2004,
+    "developer": "Level-5",
+    "publisher": "Square Enix",
+    "genre": "角色扮演",
+    "tags": [
+      "王道JRPG",
+      "卡通渲染",
+      "鸟山明"
+    ],
+    "players": "1",
+    "tagline": "走进鸟山明画中的无缝大世界",
+    "description": "当年编辑部第一次跑出特罗德城、看到远处地平线上的风车与山峦时，整间屋子都安静了。日野晃博率领Level-5用卡通渲染把鸟山明的画稿原汁原味地立体化，史莱姆一蹦一跳的样子让人忍不住会心一笑。\n\n这是一部纯正到骨子里的王道RPG：被诅咒成马的公主、变成魔物的国王、口无遮拦的山贼扬格斯，冒险的温度从头暖到尾。炼金釜、技能点分配和最终的龙神试炼耐玩度十足。虽为3D，但那股「勇者斗恶龙」的复古味道，正是老玩家最熟悉的家的味道。",
+    "highlights": [
+      "卡通渲染完美还原鸟山明画风",
+      "无缝大地图，探索感极强",
+      "炼金釜与技能点系统耐玩",
+      "交响乐版椙山浩一配乐"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "39/40",
+        "quote": "接近满分的评价，系列3D化的完美答卷"
+      },
+      {
+        "source": "IGN",
+        "score": "9/10",
+        "quote": "迄今最美的勇者斗恶龙，经典而不失新意"
+      },
+      {
+        "source": "GameSpot",
+        "score": "9/10",
+        "quote": "魅力十足的冒险，回合制RPG的典范"
+      }
+    ],
+    "editorScore": 9.4,
+    "is2D": false,
+    "screenshots": [
+      "images/ps2/ps2-dragon-quest-viii-1.png",
+      "images/ps2/ps2-dragon-quest-viii-2.jpg"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "ps2-final-fantasy-x",
+    "title": "Final Fantasy X",
+    "titleZh": "最终幻想X",
+    "titleJa": "ファイナルファンタジーX",
+    "year": 2001,
+    "developer": "Square",
+    "publisher": "Square",
+    "genre": "角色扮演",
+    "tags": [
+      "全语音",
+      "CTB战斗",
+      "悲剧爱情"
+    ],
+    "players": "1",
+    "tagline": "斯皮拉的告别之旅，眼泪止不住",
+    "description": "2001年，《最终幻想X》让PS2真正坐稳了次世代霸主的宝座。首次全程语音、首次以真实表情演出的过场，让提达与尤娜的「召唤士之旅」变得前所未有地动人。\n\nCTB行动顺序制战斗把回合制打磨到了极致，随时换人的设计让每场战斗都像在下棋；球盘成长系统自由度满满，闪电球小游戏更是让人沉迷。植松伸夫的《ザナルカンドにて》响起时，相信每位玩家都会想起那个湖畔的夜晚。经典的线性叙事JRPG，今日重温依旧感人。",
+    "highlights": [
+      "系列首次全语音演出",
+      "CTB战斗系统策略性极佳",
+      "球盘成长自由度高",
+      "植松伸夫经典配乐"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "39/40",
+        "quote": "10/9/10/10的超高评价，次世代RPG标杆"
+      },
+      {
+        "source": "IGN",
+        "score": "9.5/10",
+        "quote": "画面与叙事都达到系列新高度"
+      },
+      {
+        "source": "Metacritic",
+        "score": "92/100",
+        "quote": "获得世界性赞誉"
+      }
+    ],
+    "editorScore": 9.3,
+    "is2D": false,
+    "screenshots": [
+      "images/ps2/ps2-final-fantasy-x-1.png",
+      "images/ps2/ps2-final-fantasy-x-2.jpg"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "ps2-disgaea",
+    "title": "Disgaea: Hour of Darkness",
+    "titleZh": "魔界战记",
+    "titleJa": "魔界戦記ディスガイア",
+    "year": 2003,
+    "developer": "Nippon Ichi Software",
+    "publisher": "Nippon Ichi Software / Atlus",
+    "genre": "策略角色扮演",
+    "tags": [
+      "像素点阵",
+      "战棋",
+      "刷刷刷"
+    ],
+    "players": "1",
+    "tagline": "等级上限9999，魔界王子的爆笑征途",
+    "description": "老魔王驾崩，睡了两年的王子拉哈尔醒来发现魔界大乱——于是带着拜金天使见习生芙蓉和一群企鹅「普利尼」开始了争夺王位的旅程。日本一软件用一部精致的像素战棋，把无厘头吐槽和深度养成完美融合。\n\n叠罗汉投掷、地形几何板、道具界无限迷宫、9999级的离谱上限……《魔界战记》的系统深不见底，刷上几百小时依然乐此不疲。Q版点阵人物活灵活现，必杀技演出华丽夸张。它开创了一个长青系列，至今仍是SRPG爱好者心中的圣经。",
+    "highlights": [
+      "Q版像素人物，演出夸张爆笑",
+      "几何板与投掷系统策略性极强",
+      "道具界与转生，养成深度无底洞",
+      "普利尼「哒～」成为系列吉祥物"
+    ],
+    "reviews": [
+      {
+        "source": "IGN",
+        "score": "9.4/10",
+        "quote": "系统深度惊人，堪称战略RPG爱好者的必玩之作"
+      },
+      {
+        "source": "GameSpot",
+        "score": "8.1/10",
+        "quote": "幽默剧本与近乎无限的可玩内容让人欲罢不能"
+      },
+      {
+        "source": "Metacritic",
+        "score": "84/100",
+        "quote": "获得普遍好评"
+      }
+    ],
+    "editorScore": 9.2,
+    "is2D": true,
+    "screenshots": [
+      "images/ps2/ps2-disgaea-1.jpg"
+    ],
+    "coverShot": false
+  },
+  {
+    "id": "ps2-okami",
+    "title": "Ōkami",
+    "titleZh": "大神",
+    "titleJa": "大神",
+    "year": 2006,
+    "developer": "Clover Studio",
+    "publisher": "Capcom",
+    "genre": "动作冒险",
+    "tags": [
+      "水墨画风",
+      "笔神技",
+      "日本神话"
+    ],
+    "players": "1",
+    "tagline": "以笔为剑，一幅会动的浮世绘",
+    "description": "四叶草工作室用水墨与和纸质感，把整个日本神话装进了一台PS2。玩家化身白狼天照大神，在神州平原上奔跑之处百花齐放——这种画面冲击力，在当年的杂志内页里只能用「艺术品」来形容。\n\n核心玩法「笔神」让你随时暂停画面、用毛笔在世界上作画：一笔斩断敌人，一圈让枯树开花，画个太阳让黑夜变白昼。神话传说、可爱的小不点伊苏恩、动人的终章，长达四五十小时的冒险毫无冷场。虽是3D作品，但浓郁的东方手绘美学同样适合热爱2D的你。",
+    "highlights": [
+      "水墨卷轴式的独特美术",
+      "笔神系统创意十足",
+      "取材日本神话，充满和风情趣",
+      "长篇冒险，终章极其感人"
+    ],
+    "reviews": [
+      {
+        "source": "IGN",
+        "score": "9.1/10",
+        "quote": "令人惊叹的艺术风格与塞尔达级的冒险深度"
+      },
+      {
+        "source": "GameSpot",
+        "score": "9/10",
+        "quote": "视觉设计瞬间惊艳，玩法同样扎实"
+      },
+      {
+        "source": "Metacritic",
+        "score": "93/100",
+        "quote": "PS2平台评价最高的作品之一"
+      }
+    ],
+    "editorScore": 9.2,
+    "is2D": false,
+    "screenshots": [
+      "images/ps2/ps2-okami-1.jpg",
+      "images/ps2/ps2-okami-2.jpg"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "ps2-shadow-of-the-colossus",
+    "title": "Shadow of the Colossus",
+    "titleZh": "汪达与巨像",
+    "titleJa": "ワンダと巨像",
+    "year": 2005,
+    "developer": "Team Ico",
+    "publisher": "Sony Computer Entertainment",
+    "genre": "动作冒险",
+    "tags": [
+      "巨像攀爬",
+      "极简叙事",
+      "艺术游戏"
+    ],
+    "players": "1",
+    "tagline": "十六座巨像，一场孤独的赎罪",
+    "description": "没有村庄、没有商店、没有杂兵——只有少年汪达、爱马阿格罗，以及十六座山岳般的巨像。上田文人用最极简的设计，讲出了PS2时代最震撼人心的故事。\n\n攀上巨像的毛发、在狂风中寻找弱点、刺下剑的那一刻却伴随着悲伤的旋律：你真的是英雄吗？每一场战斗都是一道巨型立体谜题，结局更是让无数玩家沉默良久。PS2机能被压榨到极限，偶有掉帧，但它的艺术价值无可替代。",
+    "highlights": [
+      "16场史诗级巨像Boss战",
+      "极简留白的叙事艺术",
+      "攀爬与解谜结合的独创玩法",
+      "大谷幸恢弘配乐"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "37/40",
+        "quote": "独一无二的游戏体验，获白金殿堂级好评"
+      },
+      {
+        "source": "IGN",
+        "score": "9.7/10",
+        "quote": "游戏作为艺术的有力证明"
+      },
+      {
+        "source": "Metacritic",
+        "score": "91/100",
+        "quote": "获得世界性赞誉"
+      }
+    ],
+    "editorScore": 9.1,
+    "is2D": false,
+    "screenshots": [
+      "images/ps2/ps2-shadow-of-the-colossus-1.jpg",
+      "images/ps2/ps2-shadow-of-the-colossus-2.jpg"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "ps2-persona-4",
+    "title": "Shin Megami Tensei: Persona 4",
+    "titleZh": "女神异闻录4",
+    "titleJa": "ペルソナ4",
+    "year": 2008,
+    "developer": "Atlus",
+    "publisher": "Atlus",
+    "genre": "角色扮演",
+    "tags": [
+      "校园日常",
+      "迷宫探索",
+      "推理"
+    ],
+    "players": "1",
+    "tagline": "雨夜午夜电视，小镇连环悬案",
+    "description": "转学到乡下小镇八十稻羽，雨夜的「午夜电视」里浮现出下一个受害者——《女神异闻录4》把高中生活和连环杀人案推理拧在一起，成了PS2谢幕之年最亮眼的JRPG。\n\n白天上学、打工、和伙伴们建立羁绊（社群），晚上潜入电视世界攻略迷宫，正视自己的「阴影」。目黑将司的流行风配乐、鲜黄的UI设计、伙伴们鲜活的个性，让这座小镇比任何奇幻大陆都更像「家」。回合制「1MORE」战斗紧凑爽快，至今仍是系列人气最高的一作。",
+    "highlights": [
+      "日常养成与迷宫RPG完美结合",
+      "连环悬案推理剧情紧扣人心",
+      "目黑将司流行风配乐",
+      "伙伴群像刻画深入人心"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "33/40",
+        "quote": "日常与迷宫交织的独特体验"
+      },
+      {
+        "source": "IGN",
+        "score": "9/10",
+        "quote": "PS2末期最出色的RPG之一"
+      },
+      {
+        "source": "GameSpot",
+        "score": "9/10",
+        "quote": "角色鲜活、剧情引人入胜"
+      }
+    ],
+    "editorScore": 9.1,
+    "is2D": false,
+    "screenshots": [
+      "images/ps2/ps2-persona-4-1.jpg"
+    ],
+    "coverShot": false
+  },
+  {
+    "id": "ps2-guilty-gear-xx",
+    "title": "Guilty Gear XX",
+    "titleZh": "罪恶装备XX",
+    "titleJa": "ギルティギア イグゼクス",
+    "year": 2002,
+    "developer": "Arc System Works",
+    "publisher": "Sammy",
+    "genre": "格斗",
+    "tags": [
+      "高清手绘",
+      "重金属",
+      "2D格斗"
+    ],
+    "players": "1-2",
+    "tagline": "摇滚与高速连段，2D格斗的狂飙",
+    "description": "在3D格斗当道的年代，石渡太辅率领的Arc System Works用一部《罪恶装备XX》证明了2D格斗的生命力。高解析度手绘精灵在当年堪称业界最细腻，索尔、凯、梅、蜜莉亚……每个角色都个性鲜明、造型张扬。\n\n浮空连段、Roman Cancel、Burst爆气，系统的速度感和自由度让高手对战如同疾风骤雨；石渡亲自操刀的重金属配乐更是一响就让人热血沸腾。后续的Accent Core版本持续打磨，至今仍有大量玩家活跃。",
+    "highlights": [
+      "业界顶尖的高清2D手绘精灵",
+      "高速连段与RC系统深度极高",
+      "石渡太辅重金属配乐",
+      "角色个性鲜明，造型张扬"
+    ],
+    "reviews": [
+      {
+        "source": "IGN",
+        "score": "9/10",
+        "quote": "画面与系统都处于2D格斗的顶峰"
+      },
+      {
+        "source": "GameSpot",
+        "score": "8/10",
+        "quote": "速度与深度兼备的出色格斗游戏"
+      },
+      {
+        "source": "Metacritic",
+        "score": "87/100",
+        "quote": "获得普遍好评"
+      }
+    ],
+    "editorScore": 8.8,
+    "is2D": true,
+    "screenshots": [
+      "images/ps2/ps2-guilty-gear-xx-1.jpg"
+    ],
+    "coverShot": false
+  },
+  {
+    "id": "ps2-grimgrimoire",
+    "title": "GrimGrimoire",
+    "titleZh": "格林魔书",
+    "titleJa": "グリムグリモア",
+    "year": 2007,
+    "developer": "Vanillaware",
+    "publisher": "Nippon Ichi Software",
+    "genre": "即时战略",
+    "tags": [
+      "手绘",
+      "魔法学园",
+      "时间轮回"
+    ],
+    "players": "1",
+    "tagline": "魔法学园的五日轮回，手绘RTS",
+    "description": "如果《哈利·波特》遇上《星际争霸》会怎样？香草社在《奥丁领域》前夕交出的这部作品给出了答案。见习魔女莉莱特入学魔法学校，却在第五天目睹学园覆灭，随后时间倒流回第一天……\n\n游戏是一款横截面视角的即时战略：在塔楼各层召唤精灵、哥布林、天使与恶魔，四大魔法系统相互克制。神谷盛治标志性的手绘角色与华丽动画让RTS也能如此唯美。手柄操作RTS略有门槛，但轮回推理剧情十分抓人。",
+    "highlights": [
+      "香草社招牌手绘画风",
+      "主机上少见的2D横截面RTS",
+      "时间轮回悬疑剧情",
+      "四系魔法相克，策略性强"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "28/40",
+        "quote": "画面出色，玩法独特但需要适应"
+      },
+      {
+        "source": "IGN",
+        "score": "8.4/10",
+        "quote": "迷人的美术与出人意料的策略深度"
+      },
+      {
+        "source": "GameSpot",
+        "score": "8.4/10",
+        "quote": "主机平台上难得的优秀即时战略"
+      }
+    ],
+    "editorScore": 8.6,
+    "is2D": true,
+    "screenshots": [
+      "images/ps2/ps2-grimgrimoire-1.png",
+      "images/ps2/ps2-grimgrimoire-2.jpg"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "ps2-phantom-brave",
+    "title": "Phantom Brave",
+    "titleZh": "幻想勇者",
+    "titleJa": "ファントム・ブレイブ",
+    "year": 2004,
+    "developer": "Nippon Ichi Software",
+    "publisher": "Nippon Ichi Software / NIS America",
+    "genre": "策略角色扮演",
+    "tags": [
+      "像素点阵",
+      "无格战棋",
+      "召唤"
+    ],
+    "players": "1",
+    "tagline": "孤岛少女与幽灵骑士的温柔战歌",
+    "description": "日本一在《魔界战记》大获成功后并没有原地踏步，而是大胆抛弃了方格——《幻想勇者》的战场采用自由移动的圆形范围，打破了SRPG的传统框架。\n\n13岁的少女玛洛娜与幽灵剑士阿修住在小岛上，她能把幽灵「附身」在花草、石头上召唤出来作战，但召唤有回合限制，如何配置成为策略核心。世人对玛洛娜的冷眼与她的善良形成鲜明对比，温柔的故事格外打动人心。精致的点阵人物与日本一一贯的超深养成系统一样不缺。",
+    "highlights": [
+      "无网格自由移动战斗",
+      "附身物品召唤的独特机制",
+      "温柔治愈的少女成长故事",
+      "日本一招牌深度养成"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "33/40",
+        "quote": "系统大胆创新，养成要素丰富"
+      },
+      {
+        "source": "IGN",
+        "score": "8.6/10",
+        "quote": "颠覆传统的战棋设计，深度十足"
+      },
+      {
+        "source": "Metacritic",
+        "score": "81/100",
+        "quote": "获得普遍好评"
+      }
+    ],
+    "editorScore": 8.6,
+    "is2D": true,
+    "screenshots": [
+      "images/ps2/ps2-phantom-brave-1.jpg",
+      "images/ps2/ps2-phantom-brave-2.jpg"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "ps2-tales-of-destiny",
+    "title": "Tales of Destiny",
+    "titleZh": "传说系列：宿命传说（PS2重制版）",
+    "titleJa": "テイルズ オブ デスティニー",
+    "year": 2006,
+    "developer": "Namco Tales Studio",
+    "publisher": "Namco Bandai Games",
+    "genre": "角色扮演",
+    "tags": [
+      "2D点阵",
+      "LMBS",
+      "重制"
+    ],
+    "players": "1",
+    "tagline": "会说话的剑与少年，经典完美重生",
+    "description": "1997年的《宿命传说》被完全重制！乡下青年斯坦偷偷搭上飞船，意外得到了会说话的剑「索迪安」迪姆洛斯，从此卷入改写天地的大冒险。PS2版保留了2D点阵角色，又以全新绘制的精灵和3D背景重构了世界。\n\n战斗系统改为「CC连击制」的线性动态战斗（AR-LMBS），连段自由度远超原作，爽快度在系列中名列前茅。重新绘制的过场与全面加强的剧本，让里昂的故事更加催泪。可惜一直没有官方英文版，但对2D JRPG爱好者来说绝对值得一试。",
+    "highlights": [
+      "全新绘制的高精度2D点阵角色",
+      "CC制连段战斗爽快度极高",
+      "会说话的剑「索迪安」设定",
+      "荣获日本游戏大赏2006未来部门"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "32/40",
+        "quote": "重制全面且到位，战斗系统大幅进化"
+      },
+      {
+        "source": "日本游戏大赏",
+        "score": "2006未来部门获奖",
+        "quote": "作为备受期待的作品获得CESA未来部门奖"
+      }
+    ],
+    "editorScore": 8.5,
+    "is2D": true,
+    "screenshots": [
+      "images/ps2/ps2-tales-of-destiny-1.jpg"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "ps2-la-pucelle-tactics",
+    "title": "La Pucelle: Tactics",
+    "titleZh": "光之圣女传说",
+    "titleJa": "ラ・ピュセル 光の聖女伝説",
+    "year": 2002,
+    "developer": "Nippon Ichi Software",
+    "publisher": "Nippon Ichi Software / Mastiff",
+    "genre": "策略角色扮演",
+    "tags": [
+      "像素点阵",
+      "战棋",
+      "净化"
+    ],
+    "players": "1",
+    "tagline": "《魔界战记》前夜的光之驱魔战棋",
+    "description": "在《魔界战记》一炮而红之前，日本一就已经用《光之圣女传说》打磨好了自己的战棋配方。教会驱魔部队的少女普莉耶与弟弟库罗瓦，在点阵风格的童话世界里净化恶魔、追寻「光之圣女」的传说。\n\n本作的特色是「净化」与「暗黑之流」：调整地面上魔力流动的方向，形成连锁大净化，策略性颇具巧思；被打败的怪物还能被说服成为伙伴。浓郁的童话绘本风与日本一特有的冷幽默，为它赢得了一批忠实拥趸。",
+    "highlights": [
+      "暗黑之流引导与净化连锁",
+      "可说服怪物成为伙伴",
+      "童话风格的精致点阵",
+      "日本一深度养成的雏形"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "33/40",
+        "quote": "系统富有新意，养成内容扎实"
+      },
+      {
+        "source": "IGN",
+        "score": "8.8/10",
+        "quote": "深度可观、个性十足的战略RPG"
+      },
+      {
+        "source": "GameSpot",
+        "score": "7.5/10",
+        "quote": "系统丰富但上手门槛略高"
+      }
+    ],
+    "editorScore": 8.4,
+    "is2D": true,
+    "screenshots": [
+      "images/ps2/ps2-la-pucelle-tactics-1.gif",
+      "images/ps2/ps2-la-pucelle-tactics-2.png"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "ps2-gradius-v",
+    "title": "Gradius V",
+    "titleZh": "宇宙巡航机V",
+    "titleJa": "グラディウスV",
+    "year": 2004,
+    "developer": "Treasure",
+    "publisher": "Konami",
+    "genre": "横版射击",
+    "tags": [
+      "2.5D",
+      "弹幕",
+      "Treasure"
+    ],
+    "players": "1-2",
+    "tagline": "Treasure操刀，宇宙巡航机的巅峰",
+    "description": "Konami把自家招牌交给了射击名门Treasure，于是诞生了系列最强之作。《宇宙巡航机V》虽然使用多边形画面，玩法却是原汁原味的2D横版射击，镜头偶尔旋转出的立体演出让人惊呼。\n\n可调整角度的「Option」子机、能量胶囊自选武装、高密度的Boss战与苛刻的地形关卡，让老射击迷大呼过瘾。双人同屏协力也十分热闹。熟悉的「Moai」与要塞核心依旧登场，系列粉丝必玩。",
+    "highlights": [
+      "射击名门Treasure开发",
+      "Option子机可控角度",
+      "立体演出+2D平面射击",
+      "支持双人协力"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "32/40",
+        "quote": "射击游戏的力作，演出充满魄力"
+      },
+      {
+        "source": "GameSpot",
+        "score": "8.2/10",
+        "quote": "华丽且富有挑战的经典横版射击"
+      },
+      {
+        "source": "Metacritic",
+        "score": "82/100",
+        "quote": "获得普遍好评"
+      }
+    ],
+    "editorScore": 8.4,
+    "is2D": true,
+    "screenshots": [
+      "images/ps2/ps2-gradius-v-1.jpg",
+      "images/ps2/ps2-gradius-v-2.jpg"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "ps2-metal-slug-anthology",
+    "title": "Metal Slug Anthology",
+    "titleZh": "合金弹头合集",
+    "titleJa": "メタルスラッグ コンプリート",
+    "year": 2007,
+    "developer": "SNK Playmore",
+    "publisher": "SNK Playmore",
+    "genre": "横版射击",
+    "tags": [
+      "像素点阵",
+      "合集",
+      "双人合作"
+    ],
+    "players": "1-2",
+    "tagline": "七部合金弹头，一张光盘打通关",
+    "description": "街机厅里那声「Heavy Machine Gun！」是多少人的童年？《合金弹头合集》把初代到《合金弹头6》共七部作品完整收录，堪称像素动画的教科书全集。\n\n坦克「合金弹头」的履带、士兵惊慌失措的逃跑动作、被炸飞的建筑碎片——每一帧都由SNK的点阵画师手工绘制，细节多到让人惊叹。双人合作一起冲关的乐趣依旧无可取代，加上无限续关，正好让当年投币打不到头的玩家一圆夙愿。",
+    "highlights": [
+      "收录1~6代加X共七部作品",
+      "SNK巅峰级点阵动画",
+      "支持双人合作通关",
+      "可无限续关，轻松圆梦"
+    ],
+    "reviews": [
+      {
+        "source": "Metacritic",
+        "score": "80/100",
+        "quote": "经典合集，物有所值"
+      },
+      {
+        "source": "GameSpot",
+        "score": "8.2/10",
+        "quote": "收录丰富，经典的像素射击依然好玩"
+      }
+    ],
+    "editorScore": 8.3,
+    "is2D": true,
+    "screenshots": [
+      "images/ps2/ps2-metal-slug-anthology-1.png",
+      "images/ps2/ps2-metal-slug-anthology-2.jpg"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "ps2-street-fighter-alpha-anthology",
+    "title": "Street Fighter Alpha Anthology",
+    "titleZh": "街头霸王ZERO合集",
+    "titleJa": "ストリートファイターZERO ファイターズジェネレーション",
+    "year": 2005,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genre": "格斗",
+    "tags": [
+      "像素点阵",
+      "合集",
+      "街机移植"
+    ],
+    "players": "1-2",
+    "tagline": "ZERO全系列，CPS2的华丽点阵",
+    "description": "Capcom把整个《街头霸王ZERO》系列打包上了PS2：ZERO、ZERO2、ZERO2 ALPHA、ZERO3，再加上《超级口袋战士》和隐藏的《ZERO3 Upper》，几乎是街机原样移植。\n\nZERO系列以更明亮的动画风点阵、Custom Combo和ZERO反击革新了街霸的手感，春丽、隆、肯在这里换上了年轻时的面貌，罗兹、卡琳等新角色也个性满满。对喜欢2D格斗的玩家来说，这张光盘就是一座CPS2时代的博物馆。",
+    "highlights": [
+      "收录ZERO系列全作及隐藏作品",
+      "CPS2动画风华丽点阵",
+      "Custom Combo等多种系统",
+      "支持多种对战规则"
+    ],
+    "reviews": [
+      {
+        "source": "Metacritic",
+        "score": "79/100",
+        "quote": "忠实的街机移植合集，格斗迷值得收藏"
+      },
+      {
+        "source": "MobyGames",
+        "score": "83%",
+        "quote": "媒体综合评价良好，赞赏街机级还原度"
+      }
+    ],
+    "editorScore": 8.0,
+    "is2D": true,
+    "screenshots": [
+      "images/ps2/ps2-street-fighter-alpha-anthology-1.png",
+      "images/ps2/ps2-street-fighter-alpha-anthology-2.jpg"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "ps2-atelier-iris",
+    "title": "Atelier Iris: Eternal Mana",
+    "titleZh": "伊利斯的工作室：永恒的魔力",
+    "titleJa": "イリスのアトリエ エターナルマナ",
+    "year": 2004,
+    "developer": "Gust",
+    "publisher": "Nippon Ichi Software (NA: NIS America)",
+    "genre": "角色扮演",
+    "tags": [
+      "像素点阵",
+      "炼金",
+      "治愈"
+    ],
+    "players": "1",
+    "tagline": "PS2上最温暖的2D点阵炼金冒险",
+    "description": "Gust把「工作室」系列带上了PS2，却出人意料地坚持全2D点阵——小镇的商店招牌、晾晒的衣物、圆滚滚的「马纳」精灵，每一处都透着手工的温度，简直就是老玩家梦中的像素小镇。\n\n炼金术士克莱因与马纳精灵签订契约，用「合成」创造道具、开辟道路，剧情走经典的王道冒险路线。战斗为横向回合制，节奏明快。系列一贯的治愈画风配上Gust Sound Team的优美旋律，非常适合在睡前慢慢品味。",
+    "highlights": [
+      "PS2少见的全2D点阵画面",
+      "与马纳精灵签约的合成系统",
+      "治愈系小镇与角色",
+      "Gust Sound Team优美配乐"
+    ],
+    "reviews": [
+      {
+        "source": "IGN",
+        "score": "8/10",
+        "quote": "迷人的2D美术与讨喜的炼金系统"
+      },
+      {
+        "source": "GameSpot",
+        "score": "7.2/10",
+        "quote": "画面精美，但战斗略显简单"
+      },
+      {
+        "source": "Metacritic",
+        "score": "74/100",
+        "quote": "评价中上"
+      }
+    ],
+    "editorScore": 8.0,
+    "is2D": true,
+    "screenshots": [
+      "images/ps2/ps2-atelier-iris-1.jpg",
+      "images/ps2/ps2-atelier-iris-2.jpg"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "ps2-mega-man-x-collection",
+    "title": "Mega Man X Collection",
+    "titleZh": "洛克人X合集",
+    "titleJa": "",
+    "year": 2006,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genre": "横版动作",
+    "tags": [
+      "像素点阵",
+      "合集",
+      "高难度"
+    ],
+    "players": "1",
+    "tagline": "X1到X6一网打尽，冲刺吧，艾克斯！",
+    "description": "红色的洛克人是童年，蓝色的艾克斯就是少年的热血。《洛克人X合集》收录了SFC上的X1~X3和PS上的X4~X6，再加上隐藏的赛车游戏《洛克人Battle & Chase》，一张盘就能体验整个X系列的兴衰。\n\n冲刺、蹬墙跳、隐藏胶囊和装甲收集，这套手感至今仍是横版动作的标杆；X4以杰洛的出场和动画演出成为很多人心中的系列巅峰。尽管X6之后品质参差，作为2D横版动作的合集依然超值。",
+    "highlights": [
+      "收录X1~X6六部正作",
+      "冲刺与蹬墙跳的经典手感",
+      "隐藏收录《Battle & Chase》",
+      "SFC与PS两代像素风格"
+    ],
+    "reviews": [
+      {
+        "source": "IGN",
+        "score": "7/10",
+        "quote": "经典作品集，但后期作品质量参差"
+      },
+      {
+        "source": "GameSpot",
+        "score": "7.2/10",
+        "quote": "X系列粉丝的方便合集"
+      },
+      {
+        "source": "Metacritic",
+        "score": "73/100",
+        "quote": "评价中上"
+      }
+    ],
+    "editorScore": 7.9,
+    "is2D": true,
+    "screenshots": [
+      "images/ps2/ps2-mega-man-x-collection-1.png",
+      "images/ps2/ps2-mega-man-x-collection-2.jpg"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "ps2-ar-tonelico",
+    "title": "Ar tonelico: Melody of Elemia",
+    "titleZh": "魔塔大陆：坠入世界尽头的诗歌",
+    "titleJa": "アルトネリコ 世界の終わりで詩い続ける少女",
+    "year": 2006,
+    "developer": "Gust",
+    "publisher": "Banpresto (NA: NIS America)",
+    "genre": "角色扮演",
+    "tags": [
+      "2D点阵",
+      "诗魔法",
+      "萌系"
+    ],
+    "players": "1",
+    "tagline": "高塔之上的诗魔法，歌声即力量",
+    "description": "大地已毁，人们居住在一座通天巨塔「阿尔托涅利可」之上。骑士莱纳与能以歌声施展「诗魔法」的少女们踏上旅程——Gust用独创的「Hymmnos」造语和大量原创歌曲，打造出一个既萌又科幻的独特世界。\n\n战斗中前排角色护卫，后排诗姬吟唱蓄力，一发诗魔法清场的快感令人上瘾；「潜入」少女内心世界的「精神潜行」系统更是剧情亮点。2D点阵角色娇小可爱，配乐质量堪称同期最高。",
+    "highlights": [
+      "独创造语Hymmnos歌曲系统",
+      "前卫后吟唱的诗魔法战斗",
+      "潜入少女内心的精神潜行",
+      "原创歌曲质量极高"
+    ],
+    "reviews": [
+      {
+        "source": "IGN",
+        "score": "7.2/10",
+        "quote": "音乐与世界观极具魅力"
+      },
+      {
+        "source": "GameSpot",
+        "score": "6.3/10",
+        "quote": "设定独特但战斗略显单调"
+      },
+      {
+        "source": "Metacritic",
+        "score": "71/100",
+        "quote": "评价中上"
+      }
+    ],
+    "editorScore": 7.8,
+    "is2D": true,
+    "screenshots": [
+      "images/ps2/ps2-ar-tonelico-1.jpg",
+      "images/ps2/ps2-ar-tonelico-2.jpg"
+    ],
+    "coverShot": true
+  }
+]

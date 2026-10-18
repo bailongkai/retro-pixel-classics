@@ -1,0 +1,878 @@
+[
+  {
+    "id": "md-phantasy-star-iv",
+    "title": "Phantasy Star IV: The End of the Millennium",
+    "titleZh": "梦幻之星IV 千年纪的终结",
+    "titleJa": "ファンタシースター 千年紀の終りに",
+    "year": 1993,
+    "developer": "Sega",
+    "publisher": "Sega",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "科幻",
+      "回合制"
+    ],
+    "players": "1",
+    "tagline": "MD角色扮演的最高杰作，千年轮回在此终结",
+    "description": "如果说MD上只能玩一款RPG，那答案毫无悬念——《梦幻之星IV》！24兆大容量卡带塞进了漫画分格式过场插图，阿尔高尔星系千年的恩怨在这里迎来终章，剧情之厚重让当年的玩家直呼“这才是科幻RPG”。\n\n战斗系统同样出彩：自动战斗的“宏”指令可以自由编排，角色之间还能触发华丽的连携技，打起来行云流水、毫不拖沓。城镇与迷宫的像素美术细腻扎实，配乐更是首首经典。\n\n今天重玩，你会惊讶于它的节奏之紧凑——没有冗长的练级，只有一路高潮。喜欢日式像素RPG的朋友，这是必修课！",
+    "highlights": [
+      "漫画分格式过场插图，演出感十足",
+      "连携技与可编排的“宏”战斗指令",
+      "为整个系列千年故事画上句号",
+      "节奏紧凑，通关体验酣畅淋漓"
+    ],
+    "reviews": [
+      {
+        "source": "Famitsu",
+        "score": "26/40",
+        "quote": "画面与系统完成度高，系列老玩家会非常满意"
+      },
+      {
+        "source": "EGM",
+        "score": "31/40",
+        "quote": "剧情丰富、战斗流畅，是MD上最出色的RPG之一"
+      },
+      {
+        "source": "Mean Machines Sega",
+        "score": "88%",
+        "quote": "大容量带来的演出与内容量令人折服"
+      }
+    ],
+    "editorScore": 9.5,
+    "is2D": true,
+    "screenshots": [
+      "images/md/md-phantasy-star-iv-1.png",
+      "images/md/md-phantasy-star-iv-2.png",
+      "images/md/md-phantasy-star-iv-3.png"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "md-shining-force-ii",
+    "title": "Shining Force II",
+    "titleZh": "光明力量II 古之封印",
+    "titleJa": "シャイニング・フォースII 古えの封印",
+    "year": 1993,
+    "developer": "Sonic! Software Planning",
+    "publisher": "Sega",
+    "genre": "战略角色扮演",
+    "tags": [
+      "像素",
+      "战棋",
+      "奇幻"
+    ],
+    "players": "1",
+    "tagline": "战棋入门的最佳教科书，越打越上瘾",
+    "description": "高桥兄弟操刀的《光明力量II》，是无数玩家的战棋启蒙。地图比前作更开阔，可自由回访的城镇与隐藏要素多得惊人，三十余名伙伴各有个性，转职系统让你为每个角色的成长纠结不已。\n\n最妙的是战斗演出：每次攻击都会切入横版特写画面，剑光一闪、魔法炸裂，像素动画饱满生动。难度曲线平缓，新手能轻松上手，老手又能在隐藏角色和特殊转职中找到乐趣。\n\n无论你是不是战棋迷，这款作品都值得一口气打通。",
+    "highlights": [
+      "攻击时切入横版战斗特写，演出生动",
+      "三十多名可招募伙伴，搭配自由",
+      "特殊道具转职与大量隐藏要素",
+      "开放式大地图，可自由探索回访"
+    ],
+    "reviews": [
+      {
+        "source": "EGM",
+        "score": "7/6/7/7/7",
+        "quote": "前作粉丝和RPG玩家一定会喜欢，地图更大、操作更友好"
+      },
+      {
+        "source": "GameRankings",
+        "score": "89%",
+        "quote": "综合评价极高，被视为系列巅峰"
+      },
+      {
+        "source": "Sega-16",
+        "score": "9/10",
+        "quote": "战棋入门与进阶两相宜的经典"
+      }
+    ],
+    "editorScore": 9.4,
+    "is2D": true,
+    "screenshots": [
+      "images/md/md-shining-force-ii-1.png",
+      "images/md/md-shining-force-ii-2.png",
+      "images/md/md-shining-force-ii-3.png"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "md-gunstar-heroes",
+    "title": "Gunstar Heroes",
+    "titleZh": "火枪英雄",
+    "titleJa": "ガンスターヒーローズ",
+    "year": 1993,
+    "developer": "Treasure",
+    "publisher": "Sega",
+    "genre": "动作射击",
+    "tags": [
+      "像素",
+      "双人",
+      "爆炸"
+    ],
+    "players": "1-2",
+    "tagline": "Treasure出道作，MD机能被榨到极限",
+    "description": "Treasure出道即巅峰！《火枪英雄》的画面充满爆炸、旋转与多关节巨型BOSS，屏幕上的元素多到让人怀疑这真的是16位主机。四种武器两两组合可衍生出十几种射法，追踪火焰枪、激光剑……每种都爽快至极。\n\n关卡设计花样百出：骰子迷宫、矿车追逐、“七变化”机器人轮番登场，每一关都是全新的惊喜。还能双人同屏合作，抓投、滑铲等近身动作让战斗更富层次。\n\n这是一款三十年后依然令人肾上腺素飙升的作品，动作游戏爱好者绝不能错过。",
+    "highlights": [
+      "四种武器自由组合出多种射击方式",
+      "多关节巨型BOSS“七变化”惊艳全场",
+      "骰子迷宫等关卡创意层出不穷",
+      "支持双人同屏合作"
+    ],
+    "reviews": [
+      {
+        "source": "EGM",
+        "score": "36/40",
+        "quote": "四位评测员一致给出9分，动作与画面全面出色"
+      },
+      {
+        "source": "Mean Machines Sega",
+        "score": "93%",
+        "quote": "MD上最激烈、最具创意的射击动作游戏之一"
+      },
+      {
+        "source": "CVG",
+        "score": "92%",
+        "quote": "爆炸效果与BOSS设计令人叹为观止"
+      }
+    ],
+    "editorScore": 9.4,
+    "is2D": true,
+    "screenshots": [
+      "images/md/md-gunstar-heroes-1.png",
+      "images/md/md-gunstar-heroes-2.png",
+      "images/md/md-gunstar-heroes-3.png"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "md-monster-world-iv",
+    "title": "Monster World IV",
+    "titleZh": "怪物世界IV",
+    "titleJa": "モンスターワールドIV",
+    "year": 1994,
+    "developer": "Westone",
+    "publisher": "Sega",
+    "genre": "动作冒险",
+    "tags": [
+      "像素",
+      "阿拉伯风",
+      "探索"
+    ],
+    "players": "1",
+    "tagline": "像素动画的极致，阿莎与蓝色小精灵的童话之旅",
+    "description": "《神奇男孩》系列在MD上的绝唱，主角换成了绿发少女阿莎。浓郁的阿拉伯风情、圆润可爱的角色造型、细腻到每一帧都在动的像素动画，让它成为MD上最“萌”的游戏之一。\n\n玩法以横版动作加迷宫探索为主，搭档“小蓝”（Pepelogoo）可以托举阿莎滑翔、灭火、触发机关，一人一宠的配合充满巧思。城镇里买装备、和村民聊天的气氛，正是那种温暖的日式像素小镇味道。\n\n当年只在日本发售，如今已有官方英文版与重制版，值得每一位2D爱好者细细品味。",
+    "highlights": [
+      "极其细腻流畅的角色像素动画",
+      "宠物“小蓝”参与解谜与动作",
+      "阿拉伯风情城镇与温暖剧情",
+      "迷宫探索与成长要素并重"
+    ],
+    "reviews": [
+      {
+        "source": "Sega-16",
+        "score": "10/10",
+        "quote": "像素美术与关卡设计都达到了系列最高水准"
+      },
+      {
+        "source": "Nintendo Life",
+        "score": "9/10",
+        "quote": "迟到多年的英文版证明它是MD上最迷人的动作冒险之一"
+      }
+    ],
+    "editorScore": 9.3,
+    "is2D": true,
+    "screenshots": [
+      "images/md/md-monster-world-iv-1.png",
+      "images/md/md-monster-world-iv-2.png",
+      "images/md/md-monster-world-iv-3.png"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "md-streets-of-rage-2",
+    "title": "Streets of Rage 2",
+    "titleZh": "怒之铁拳2",
+    "titleJa": "ベア・ナックルII 死闘への鎮魂歌",
+    "year": 1992,
+    "developer": "Sega / Ancient",
+    "publisher": "Sega",
+    "genre": "清版动作",
+    "tags": [
+      "像素",
+      "双人",
+      "古代祐三"
+    ],
+    "players": "1-2",
+    "tagline": "街机级清版巅峰，古代祐三电子乐响彻街头",
+    "description": "街机厅的清版游戏玩多了？《怒之铁拳2》告诉你家用机也能打得更好！角色大幅加大、动作丰富，必杀技、连续技、抓投一应俱全，四位主角风格各异，双人合作时更是热血沸腾。\n\n古代祐三的电子舞曲配乐堪称一代传奇，第一关酒吧街一响起，多少玩家瞬间回到了那个夏天。关卡场景从霓虹街道到游乐园、海盗船，变化丰富，敌人种类多样。\n\n三十年过去，它依然是清版动作类型的标杆，和朋友坐在沙发上来一局，快乐不减当年。",
+    "highlights": [
+      "四名风格迥异的可选角色",
+      "古代祐三的传奇电子乐配乐",
+      "双人合作热血爽快",
+      "大尺寸角色与丰富连招"
+    ],
+    "reviews": [
+      {
+        "source": "Beep! MegaDrive",
+        "score": "34/40",
+        "quote": "日本MD专门志给予高度评价，动作手感出色"
+      },
+      {
+        "source": "CVG",
+        "score": "95%",
+        "quote": "清版动作的新标杆，画面音乐都无可挑剔"
+      },
+      {
+        "source": "Mean Machines Sega",
+        "score": "90%",
+        "quote": "比街机还好玩的家用清版游戏"
+      }
+    ],
+    "editorScore": 9.3,
+    "is2D": true,
+    "screenshots": [
+      "images/md/md-streets-of-rage-2-1.png",
+      "images/md/md-streets-of-rage-2-2.png",
+      "images/md/md-streets-of-rage-2-3.png"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "md-sonic-3-and-knuckles",
+    "title": "Sonic 3 & Knuckles",
+    "titleZh": "刺猬索尼克3&纳克鲁斯",
+    "titleJa": "ソニック・ザ・ヘッジホッグ3 / ソニック&ナックルズ",
+    "year": 1994,
+    "developer": "Sonic Team / Sega Technical Institute",
+    "publisher": "Sega",
+    "genre": "平台动作",
+    "tags": [
+      "像素",
+      "高速",
+      "锁定卡带"
+    ],
+    "players": "1-2",
+    "tagline": "两盘卡带合体，索尼克的完全体登场",
+    "description": "《索尼克3》与《索尼克&纳克鲁斯》本是一个完整的大作，被拆成两盘发售——而“锁定卡带”技术把它们重新合体，构成了2D索尼克最宏大的冒险。\n\n关卡比前作大上数倍，多条路线交错，三种护盾各带特殊能力；索尼克、塔尔斯、纳克鲁斯三人路线不同，纳克鲁斯还能滑翔攀墙，发现截然不同的隐藏区域。存档功能的加入让这场漫长冒险更加友好。\n\n速度感、探索感与音乐的完美结合，是2D平台动作的不朽经典。",
+    "highlights": [
+      "锁定卡带技术合体为完整冒险",
+      "三名角色、三条截然不同的路线",
+      "三种属性护盾带来新动作",
+      "首次加入存档功能"
+    ],
+    "reviews": [
+      {
+        "source": "EGM（Sonic 3）",
+        "score": "38/40",
+        "quote": "画面、音乐、关卡设计全面进化"
+      },
+      {
+        "source": "EGM（Sonic & Knuckles）",
+        "score": "37/40",
+        "quote": "锁定技术令人惊喜，纳克鲁斯手感独特"
+      },
+      {
+        "source": "CVG（Sonic & Knuckles）",
+        "score": "97%",
+        "quote": "系列最完整、最出色的形态"
+      }
+    ],
+    "editorScore": 9.3,
+    "is2D": true,
+    "screenshots": [
+      "images/md/md-sonic-3-and-knuckles-1.png",
+      "images/md/md-sonic-3-and-knuckles-2.png"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "md-sonic-the-hedgehog-2",
+    "title": "Sonic the Hedgehog 2",
+    "titleZh": "刺猬索尼克2",
+    "titleJa": "ソニック・ザ・ヘッジホッグ2",
+    "year": 1992,
+    "developer": "Sonic Team / Sega Technical Institute",
+    "publisher": "Sega",
+    "genre": "平台动作",
+    "tags": [
+      "像素",
+      "高速",
+      "双人"
+    ],
+    "players": "1-2",
+    "tagline": "蓝色旋风再进化，MD最畅销的代表作",
+    "description": "“Sonic 2sday”的全球首发至今仍是游戏史上的佳话。《索尼克2》引入了蓄力冲刺Spin Dash，让速度感更上一层楼；新伙伴塔尔斯可由第二玩家操控，双人分屏对战也让朋友聚会多了乐子。\n\n化学工厂、赌场之夜、天空之城……一个个经典关卡配上中村正人的明快旋律，至今令人难忘。3D风格的特殊关卡收集七颗混沌翡翠，变身超级索尼克的那一刻无比震撼。\n\n简单上手、越玩越快，这就是MD精神的最佳象征。",
+    "highlights": [
+      "新增蓄力冲刺Spin Dash",
+      "塔尔斯登场，支持双人游戏",
+      "伪3D特殊关卡与超级索尼克变身",
+      "赌场之夜等经典关卡"
+    ],
+    "reviews": [
+      {
+        "source": "EGM",
+        "score": "35/40",
+        "quote": "速度更快、关卡更大，全面超越前作"
+      },
+      {
+        "source": "Famitsu",
+        "score": "30/40",
+        "quote": "动作爽快，画面表现出色"
+      },
+      {
+        "source": "Mean Machines Sega",
+        "score": "96%",
+        "quote": "MD上最出色的平台游戏之一"
+      }
+    ],
+    "editorScore": 9.2,
+    "is2D": true,
+    "screenshots": [
+      "images/md/md-sonic-the-hedgehog-2-1.png",
+      "images/md/md-sonic-the-hedgehog-2-2.png",
+      "images/md/md-sonic-the-hedgehog-2-3.png"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "md-landstalker",
+    "title": "Landstalker: The Treasure of King Nole",
+    "titleZh": "大地探险者 皇帝的财宝",
+    "titleJa": "ランドストーカー 〜皇帝の財宝〜",
+    "year": 1992,
+    "developer": "Climax Entertainment",
+    "publisher": "Sega",
+    "genre": "动作角色扮演",
+    "tags": [
+      "像素",
+      "斜45度",
+      "解谜"
+    ],
+    "players": "1",
+    "tagline": "斜视角动作RPG先驱，寻宝精灵的奇幻冒险",
+    "description": "尖耳朵的寻宝猎人尼尔斯与小妖精弗莱黛，为了传说中诺尔王的财宝踏上冒险。《大地探险者》采用当年罕见的斜45度等距视角，立体感十足的像素场景让人眼前一亮。\n\n游戏融合动作战斗、跳跃平台与大量机关解谜，迷宫设计相当烧脑；城镇里的商店、教堂和形形色色的村民又充满日式RPG的温馨幽默。正是Climax这份手艺，后来延续成了SFC上的《天地创造》。\n\n如果你钟爱像素城镇与冒险探索，这款等距视角的寻宝之旅一定会让你沉迷。",
+    "highlights": [
+      "罕见的斜45度等距视角像素画面",
+      "动作、跳跃与解谜的融合",
+      "幽默温馨的日式剧情与村民对话",
+      "Climax出品，《天地创造》精神前辈"
+    ],
+    "reviews": [
+      {
+        "source": "Famitsu",
+        "score": "33/40",
+        "quote": "等距视角表现新颖，解谜与动作结合得很好"
+      },
+      {
+        "source": "Mean Machines Sega",
+        "score": "94/100",
+        "quote": "画面立体感惊人，是一款有深度的冒险大作"
+      },
+      {
+        "source": "Sega-16",
+        "score": "9/10",
+        "quote": "MD动作RPG中不可错过的经典"
+      }
+    ],
+    "editorScore": 9.0,
+    "is2D": true,
+    "screenshots": [
+      "images/md/md-landstalker-1.png",
+      "images/md/md-landstalker-2.png",
+      "images/md/md-landstalker-3.png"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "md-beyond-oasis",
+    "title": "Beyond Oasis",
+    "titleZh": "光之继承者 托尔传说",
+    "titleJa": "ザ・ストーリー オブ トア 〜光を継ぐ者〜",
+    "year": 1994,
+    "developer": "Ancient",
+    "publisher": "Sega",
+    "genre": "动作角色扮演",
+    "tags": [
+      "像素",
+      "精灵召唤",
+      "古代祐三"
+    ],
+    "players": "1",
+    "tagline": "古代祐三团队打造，召唤四精灵的俯视角ARPG",
+    "description": "由古代祐三的Ancient工作室开发，《光之继承者》（日版名《托尔传说》）是MD末期画面最华丽的动作RPG之一。王子阿里手持金臂环，可召唤水、火、影、植四大精灵并肩作战，每位精灵都拥有独特能力，解谜与战斗都离不开它们。\n\n主角的动作极其丰富：连斩、跳劈、蓄力技、搓招必杀，手感接近格斗游戏。角色大尺寸像素动画流畅细腻，配乐同样出自古代祐三之手，气势恢宏。\n\n想在MD上找一款类似《塞尔达》却更重动作的作品？就是它了。",
+    "highlights": [
+      "召唤四大精灵协同战斗与解谜",
+      "搓招必杀，动作手感接近格斗游戏",
+      "大尺寸角色与精美像素动画",
+      "古代祐三配乐"
+    ],
+    "reviews": [
+      {
+        "source": "Beep! MegaDrive",
+        "score": "8/10",
+        "quote": "画面与动作表现出色的本格动作RPG"
+      },
+      {
+        "source": "EGM",
+        "score": "38/50",
+        "quote": "精灵系统新鲜有趣，动作流畅"
+      },
+      {
+        "source": "Mean Machines Sega",
+        "score": "93/100",
+        "quote": "MD上最漂亮的冒险游戏之一"
+      }
+    ],
+    "editorScore": 9.0,
+    "is2D": true,
+    "screenshots": [
+      "images/md/md-beyond-oasis-1.png",
+      "images/md/md-beyond-oasis-2.png",
+      "images/md/md-beyond-oasis-3.png"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "md-shining-force",
+    "title": "Shining Force: The Legacy of Great Intention",
+    "titleZh": "光明力量 神之遗产",
+    "titleJa": "シャイニング・フォース 神々の遺産",
+    "year": 1992,
+    "developer": "Climax Entertainment / Sonic! Software Planning",
+    "publisher": "Sega",
+    "genre": "战略角色扮演",
+    "tags": [
+      "像素",
+      "战棋",
+      "奇幻"
+    ],
+    "players": "1",
+    "tagline": "把战棋做得像RPG一样亲切的开山之作",
+    "description": "在《火焰纹章》之外，世嘉给出了自己的答案。《光明力量》把严谨的回合制战棋，包装成了一场轻松愉快的奇幻冒险：没有永久死亡的压力，伙伴倒下也能在教堂复活，城镇里可以自由行走、购物、对话。\n\n半人马骑士、鸟人、狼人……风格鲜明的伙伴逐一加入，战斗时切入横版特写的演出让每一次攻击都充满仪式感。玉置崇的人设与樱庭统的配乐，共同营造出浓厚的日式奇幻氛围。\n\n入门门槛低、乐趣不减，是体验战棋魅力的理想起点。",
+    "highlights": [
+      "战棋与日式RPG探索的完美结合",
+      "战斗切入横版特写演出",
+      "个性鲜明的种族伙伴",
+      "难度友好，适合入门"
+    ],
+    "reviews": [
+      {
+        "source": "Mega",
+        "score": "92%",
+        "quote": "深度与亲和力兼具的策略RPG"
+      },
+      {
+        "source": "Sega Pro",
+        "score": "93%",
+        "quote": "MD上最好的RPG体验之一"
+      },
+      {
+        "source": "Sega-16",
+        "score": "9/10",
+        "quote": "奠定系列基调的经典之作"
+      }
+    ],
+    "editorScore": 9.0,
+    "is2D": true,
+    "screenshots": [
+      "images/md/md-shining-force-1.png",
+      "images/md/md-shining-force-2.png",
+      "images/md/md-shining-force-3.png"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "md-castlevania-bloodlines",
+    "title": "Castlevania: Bloodlines",
+    "titleZh": "恶魔城 血之轮回",
+    "titleJa": "バンパイアキラー",
+    "year": 1994,
+    "developer": "Konami",
+    "publisher": "Konami",
+    "genre": "动作",
+    "tags": [
+      "像素",
+      "哥特",
+      "高难度"
+    ],
+    "players": "1",
+    "tagline": "MD唯一恶魔城，鞭子与长枪横扫欧洲",
+    "description": "MD玩家唯一的恶魔城，却毫不含糊！故事舞台从特兰西瓦尼亚扩展到一战前夕的整个欧洲，从希腊神殿、比萨斜塔到德国兵工厂，场景别出心裁。\n\n两位主角可选：约翰·莫里斯挥舞吸血鬼杀手之鞭，可以荡绳越过深渊；埃里克·莱卡德手持长枪，能撑竿高跳。双角色带来不同路线与玩法。画面上大量运用旋转、倒影、半透明等特效，充分展示了科乐美对MD机能的理解。\n\n难度不低，但正统恶魔城的鞭打快感一点不少，是系列粉丝的必玩之作。",
+    "highlights": [
+      "双主角双路线，玩法各异",
+      "游历欧洲各地的独特关卡",
+      "大量旋转与镜像特效",
+      "山根美智留的哥特风配乐"
+    ],
+    "reviews": [
+      {
+        "source": "EGM",
+        "score": "33/40",
+        "quote": "正统恶魔城在MD上大放异彩"
+      },
+      {
+        "source": "Famitsu",
+        "score": "28/40",
+        "quote": "动作扎实，场景设计富有新意"
+      },
+      {
+        "source": "Mean Machines Sega",
+        "score": "90/100",
+        "quote": "画面与音乐水准极高的动作大作"
+      }
+    ],
+    "editorScore": 8.9,
+    "is2D": true,
+    "screenshots": [
+      "images/md/md-castlevania-bloodlines-1.png",
+      "images/md/md-castlevania-bloodlines-2.png",
+      "images/md/md-castlevania-bloodlines-3.png"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "md-contra-hard-corps",
+    "title": "Contra: Hard Corps",
+    "titleZh": "魂斗罗 铁血兵团",
+    "titleJa": "魂斗羅 ザ・ハードコア",
+    "year": 1994,
+    "developer": "Konami",
+    "publisher": "Konami",
+    "genre": "动作射击",
+    "tags": [
+      "像素",
+      "双人",
+      "高难度"
+    ],
+    "players": "1-2",
+    "tagline": "枪林弹雨与分支剧情，最狂野的魂斗罗",
+    "description": "科乐美在MD上交出的《魂斗罗》，把“爽”与“难”都推到了极致。四名可选角色——包括一只狼人和一个机器人——各自拥有四种专属武器，搭配起来风格截然不同。\n\n本作首次加入剧情分支，关键时刻的选择会带你走向不同关卡与多个结局，重玩价值极高。BOSS战密度惊人，巨型机械、变形怪物接连登场，画面上的特效与爆炸毫不逊色于《火枪英雄》。\n\n如果你自认是动作游戏高手，就来接受这场地狱级考验吧！",
+    "highlights": [
+      "四名角色各有专属武器",
+      "剧情分支与多重结局",
+      "BOSS战密度极高、演出华丽",
+      "支持双人合作"
+    ],
+    "reviews": [
+      {
+        "source": "CVG",
+        "score": "92/100",
+        "quote": "节奏狂暴、BOSS连番登场的射击杰作"
+      },
+      {
+        "source": "GamesMaster",
+        "score": "93/100",
+        "quote": "系列在16位主机上的最佳作品之一"
+      },
+      {
+        "source": "Mean Machines Sega",
+        "score": "94/100",
+        "quote": "难度极高但令人欲罢不能"
+      }
+    ],
+    "editorScore": 8.9,
+    "is2D": true,
+    "screenshots": [
+      "images/md/md-contra-hard-corps-1.png",
+      "images/md/md-contra-hard-corps-2.png",
+      "images/md/md-contra-hard-corps-3.png"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "md-thunder-force-iv",
+    "title": "Thunder Force IV",
+    "titleZh": "雷霆力量IV",
+    "titleJa": "サンダーフォースIV",
+    "year": 1992,
+    "developer": "Technosoft",
+    "publisher": "Technosoft",
+    "genre": "横版射击",
+    "tags": [
+      "像素",
+      "STG",
+      "摇滚"
+    ],
+    "players": "1",
+    "tagline": "16位横版射击的巅峰，重金属配乐燃到爆",
+    "description": "提到MD射击游戏，《雷霆力量IV》的名字必然排在最前列。超宽的纵向卷轴关卡、多层视差背景、满屏的敌机与弹幕，画面魄力在当年几乎无人能及。\n\n武器系统延续系列传统，可随时切换多种武器，配合满级的“雷剑”打出毁天灭地的效果。而最令人热血沸腾的，是那一首首重金属摇滚配乐——每一关都像是一场演唱会。\n\n难度偏高，但只要你热爱射击游戏，这就是不可绕过的圣典。",
+    "highlights": [
+      "多层视差卷轴与宽广关卡",
+      "可随时切换的多样武器系统",
+      "传奇级重金属摇滚配乐",
+      "巨型BOSS压迫感十足"
+    ],
+    "reviews": [
+      {
+        "source": "CVG",
+        "score": "93%",
+        "quote": "画面与音效令人震撼的射击游戏"
+      },
+      {
+        "source": "Mean Machines",
+        "score": "87%",
+        "quote": "MD上最具魄力的射击游戏之一"
+      },
+      {
+        "source": "Sega-16",
+        "score": "10/10",
+        "quote": "16位横版射击的巅峰"
+      }
+    ],
+    "editorScore": 8.8,
+    "is2D": true,
+    "screenshots": [
+      "images/md/md-thunder-force-iv-1.png",
+      "images/md/md-thunder-force-iv-2.png",
+      "images/md/md-thunder-force-iv-3.png"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "md-rocket-knight-adventures",
+    "title": "Rocket Knight Adventures",
+    "titleZh": "火箭骑士",
+    "titleJa": "ロケットナイトアドベンチャーズ",
+    "year": 1993,
+    "developer": "Konami",
+    "publisher": "Konami",
+    "genre": "平台动作",
+    "tags": [
+      "像素",
+      "喷射背包",
+      "蒸汽朋克"
+    ],
+    "players": "1",
+    "tagline": "负鼠骑士喷射起飞，科乐美原创动作佳作",
+    "description": "一只背着火箭背包的负鼠骑士斯帕克斯特，为了拯救公主对抗邪恶的猪猪帝国。《火箭骑士》是科乐美专为MD打造的原创动作游戏，由《魂斗罗》团队成员执刀，品质有口皆碑。\n\n火箭背包可蓄力向八个方向冲刺，还能借墙反弹，关卡里有骑乘机甲、横版射击、镜面倒影等各式玩法轮番上阵，节奏紧凑毫不重复。巨型机器人BOSS战更是充满科乐美式的华丽演出。\n\n画风可爱却有一定挑战性，是MD上被低估的平台动作珍品。",
+    "highlights": [
+      "八方向火箭冲刺与墙面反弹",
+      "关卡玩法变化丰富多彩",
+      "巨型机器人BOSS演出华丽",
+      "可爱的蒸汽朋克画风"
+    ],
+    "reviews": [
+      {
+        "source": "EGM",
+        "score": "40/50",
+        "quote": "五位评测员均给出8分，创意与手感俱佳"
+      },
+      {
+        "source": "Mean Machines Sega",
+        "score": "91/100",
+        "quote": "节奏明快、点子不断的平台动作游戏"
+      },
+      {
+        "source": "GamesMaster",
+        "score": "92%",
+        "quote": "科乐美在MD上的又一力作"
+      }
+    ],
+    "editorScore": 8.7,
+    "is2D": true,
+    "screenshots": [
+      "images/md/md-rocket-knight-adventures-1.png",
+      "images/md/md-rocket-knight-adventures-2.png",
+      "images/md/md-rocket-knight-adventures-3.png"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "md-shinobi-iii",
+    "title": "Shinobi III: Return of the Ninja Master",
+    "titleZh": "超级忍II",
+    "titleJa": "ザ・スーパー忍II",
+    "year": 1993,
+    "developer": "Sega",
+    "publisher": "Sega",
+    "genre": "动作",
+    "tags": [
+      "像素",
+      "忍者",
+      "横版"
+    ],
+    "players": "1",
+    "tagline": "乔·武藏再出鞘，忍者动作的终极形态",
+    "description": "世嘉看家IP的巅峰之作！乔·武藏在本作中拥有冲刺、飞踢、蹬墙跳等丰富动作，手里剑八连射、忍术四种可选，操作手感行云流水。\n\n关卡设计极具想象力：骑马在公路上狂奔、踩冲浪板乘风破浪、在巨型生物体内穿行……每一关都带来新鲜体验。画面精致，配乐充满和风与电子乐融合的独特韵味。\n\n比初代更爽快、更流畅，是横版忍者动作类型的不二之选。",
+    "highlights": [
+      "冲刺、飞踢、蹬墙跳等丰富动作",
+      "骑马与冲浪等特色关卡",
+      "四种忍术策略运用",
+      "和风电子乐配乐"
+    ],
+    "reviews": [
+      {
+        "source": "MegaTech",
+        "score": "93%",
+        "quote": "动作与关卡设计均显著进化的续作"
+      },
+      {
+        "source": "CVG",
+        "score": "84%",
+        "quote": "节奏爽快、画面精美的忍者动作"
+      },
+      {
+        "source": "IGN",
+        "score": "8/10",
+        "quote": "至今仍是系列中最出色的一作"
+      }
+    ],
+    "editorScore": 8.7,
+    "is2D": true,
+    "screenshots": [
+      "images/md/md-shinobi-iii-1.png",
+      "images/md/md-shinobi-iii-2.png",
+      "images/md/md-shinobi-iii-3.png"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "md-ristar",
+    "title": "Ristar",
+    "titleZh": "星星小子",
+    "titleJa": "リスター",
+    "year": 1995,
+    "developer": "Sega",
+    "publisher": "Sega",
+    "genre": "平台动作",
+    "tags": [
+      "像素",
+      "可爱",
+      "伸缩手臂"
+    ],
+    "players": "1",
+    "tagline": "伸长手臂抓住一切，MD末期的彩色童话",
+    "description": "MD末期的遗珠之作！主角是一颗长着手臂的小星星，他不跑不跳踩头，而是伸长双臂抓住敌人用头槌撞击，或抓住杆子旋转弹射飞向高空——独特的操作让人耳目一新。\n\n七个星球各具特色：丛林、水世界、音乐星、冰雪星、机械星……画面色彩之鲜艳、像素动画之丰富，可以说是MD画面的巅峰表现之一。轻快的配乐与可爱的造型，让人玩着玩着就会心一笑。\n\n因发售时间接近次世代主机而被埋没，现在正是补课的好时机。",
+    "highlights": [
+      "伸缩手臂抓取的独特玩法",
+      "七颗主题迥异的星球",
+      "鲜艳色彩与丰富像素动画",
+      "音乐星关卡的创意设计"
+    ],
+    "reviews": [
+      {
+        "source": "EGM",
+        "score": "38/50",
+        "quote": "原创性十足的平台动作，画面优秀"
+      },
+      {
+        "source": "Mean Machines Sega",
+        "score": "84/100",
+        "quote": "可爱的外表下藏着扎实的游戏性"
+      },
+      {
+        "source": "Game Informer",
+        "score": "8.25/10",
+        "quote": "MD末期最值得一玩的平台游戏之一"
+      }
+    ],
+    "editorScore": 8.6,
+    "is2D": true,
+    "screenshots": [
+      "images/md/md-ristar-1.png",
+      "images/md/md-ristar-2.png",
+      "images/md/md-ristar-3.png"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "md-comix-zone",
+    "title": "Comix Zone",
+    "titleZh": "漫画地带",
+    "titleJa": "コミックスゾーン",
+    "year": 1995,
+    "developer": "Sega Technical Institute",
+    "publisher": "Sega",
+    "genre": "清版动作",
+    "tags": [
+      "像素",
+      "美漫",
+      "创意"
+    ],
+    "players": "1",
+    "tagline": "跳进漫画格子里开打，前所未有的美漫体验",
+    "description": "漫画家斯凯奇被自己笔下的反派吸进了漫画书里！《漫画地带》把每一关都做成真实的漫画页面，角色在分格之间跳跃穿梭，敌人由“作者之手”现场画出，对话以气泡框弹出，创意令人拍案叫绝。\n\n战斗是硬派的格斗清版，拳脚连招、道具运用都很讲究，而且攻击墙壁和道具会消耗生命，难度不低。宠物鼠“Roadkill”能帮你找出隐藏道具，摇滚配乐则充满90年代美式风情。\n\n它可能是MD上视觉风格最独特的游戏，值得每一位玩家亲身体验一次。",
+    "highlights": [
+      "每关都是真实漫画页面，分格穿梭",
+      "敌人由画笔现场绘制登场",
+      "硬派格斗清版玩法",
+      "90年代美式摇滚配乐"
+    ],
+    "reviews": [
+      {
+        "source": "EGM",
+        "score": "31.5/40",
+        "quote": "独一无二的漫画式呈现，令人印象深刻"
+      },
+      {
+        "source": "Famitsu",
+        "score": "30/40",
+        "quote": "创意出众，演出效果新颖"
+      },
+      {
+        "source": "AllGame",
+        "score": "4.5/5",
+        "quote": "MD上最具原创性的动作游戏之一"
+      }
+    ],
+    "editorScore": 8.5,
+    "is2D": true,
+    "screenshots": [
+      "images/md/md-comix-zone-1.png",
+      "images/md/md-comix-zone-2.png",
+      "images/md/md-comix-zone-3.png"
+    ],
+    "coverShot": true
+  },
+  {
+    "id": "md-light-crusader",
+    "title": "Light Crusader",
+    "titleZh": "光明十字军",
+    "titleJa": "ライトクルセイダー",
+    "year": 1995,
+    "developer": "Treasure",
+    "publisher": "Sega",
+    "genre": "动作角色扮演",
+    "tags": [
+      "像素",
+      "斜45度",
+      "地城"
+    ],
+    "players": "1",
+    "tagline": "Treasure出品的等距视角地城冒险",
+    "description": "以动作游戏闻名的Treasure，也曾尝试过一款动作RPG——《光明十字军》。骑士戴维受国王之托，深入城镇地下的神秘地城调查居民失踪之谜。\n\n游戏采用斜45度等距视角，重心在地城中的机关解谜：推箱子、压开关、限时通关……物理感十足的机关设计颇具Treasure风格。四元素组合的魔法系统可以搭配出多种法术，战斗手感扎实。\n\n篇幅不长但精巧耐玩，喜欢《大地探险者》那种等距视角冒险的玩家，不妨接着来这座地城探个究竟。",
+    "highlights": [
+      "斜45度等距视角地城探索",
+      "富有物理感的机关谜题",
+      "四元素自由组合魔法",
+      "Treasure特有的精致动画"
+    ],
+    "reviews": [
+      {
+        "source": "CVG",
+        "score": "85/100",
+        "quote": "谜题设计精巧，画面细致"
+      },
+      {
+        "source": "Famitsu",
+        "score": "27/40",
+        "quote": "Treasure风格的动作RPG，解谜比重较大"
+      },
+      {
+        "source": "Mean Machines Sega",
+        "score": "80/100",
+        "quote": "扎实的地城冒险，但篇幅略短"
+      }
+    ],
+    "editorScore": 8.3,
+    "is2D": true,
+    "screenshots": [
+      "images/md/md-light-crusader-1.png",
+      "images/md/md-light-crusader-2.png",
+      "images/md/md-light-crusader-3.png"
+    ],
+    "coverShot": true
+  }
+]
