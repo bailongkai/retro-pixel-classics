@@ -2,7 +2,7 @@
   "use strict";
 
   // bump on every content update so browsers don't pair new pages with stale cached data
-  const VERSION = "3";
+  const VERSION = "4";
 
   const MAKERS = [
     { key: "Nintendo", zh: "任天堂", en: "NINTENDO" },
@@ -52,12 +52,18 @@
   const app = document.getElementById("app");
 
   // ---------- helpers ----------
+  // called from <img onload>: show box art uncropped, and keep pixel art crisp when it is enlarged
+  window.fitImg = el => {
+    if (el.naturalHeight > el.naturalWidth) el.classList.add("portrait");
+    const shown = Math.max(el.clientWidth, el.clientHeight * el.naturalWidth / el.naturalHeight);
+    el.classList.toggle("px", !/-box\./.test(el.src) && el.naturalWidth < shown * (window.devicePixelRatio || 1));
+  };
   const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
   const pvars = p => `--pc:${p.color};--pc-ink:${p.ink}`;
   const fmtScore = n => (typeof n === "number" ? n.toFixed(1) : "—");
   const shot = g => (g.screenshots && g.screenshots[0]) || "";
   const img = (g, src, cls = "", alt = "") =>
-    src ? `<img src="${esc(src)}" class="${cls}" alt="${esc(alt || g.titleZh || g.title)}" loading="lazy" onload="if(this.naturalHeight>this.naturalWidth)this.classList.add('portrait')" onerror="this.outerHTML='<div class=&quot;noshot ${cls}&quot;>NO IMAGE</div>'">`
+    src ? `<img src="${esc(src)}" class="${cls}" alt="${esc(alt || g.titleZh || g.title)}" loading="lazy" onload="fitImg(this)" onerror="this.outerHTML='<div class=&quot;noshot ${cls}&quot;>NO IMAGE</div>'">`
         : `<div class="noshot ${cls}">${esc(PMAP[g.platform].abbr)}<br>NO IMAGE</div>`;
   const verdict = s => s >= 9.5 ? "殿堂级神作" : s >= 9 ? "白金推荐" : s >= 8.5 ? "金牌推荐" : s >= 8 ? "银牌推荐" : "值得一玩";
   const stampCls = s => (s >= 9.5 ? "score-stamp gold" : "score-stamp");
@@ -115,7 +121,7 @@
     const s = shot(g);
     return `<a class="rank-row" href="#/g/${esc(g.id)}" style="${pvars(p)}">
       <div class="rank-no">${String(i + 1).padStart(2, "0")}</div>
-      ${s ? `<img class="rank-thumb" src="${esc(s)}" alt="" loading="lazy" onload="if(this.naturalHeight>this.naturalWidth)this.classList.add('portrait')">` : `<div class="rank-thumb noshot" style="font-size:7px">${esc(p.abbr)}</div>`}
+      ${s ? `<img class="rank-thumb" src="${esc(s)}" alt="" loading="lazy" onload="fitImg(this)">` : `<div class="rank-thumb noshot" style="font-size:7px">${esc(p.abbr)}</div>`}
       <div class="rank-title">${esc(g.titleZh || g.title)}<small>${esc(p.abbr)} · ${esc(g.year || "")} · ${esc(g.developer || "")}</small></div>
       <div class="rank-score">${fmtScore(g.editorScore)}</div>
     </a>`;
@@ -154,7 +160,7 @@
 
     app.innerHTML = `
       <section class="cover">
-        ${coverGame && shot(coverGame) ? `<img class="cover-img" src="${esc(shot(coverGame))}" alt="">` : ""}
+        ${coverGame && shot(coverGame) ? `<img class="cover-img" src="${esc(shot(coverGame))}" alt="" onload="fitImg(this)">` : ""}
         <div class="cover-feature"><b>${state.games.length}</b><small>款名作<br>大公开</small></div>
         <div class="cover-inner">
           <span class="cover-kicker">超大特集 · ${PLATFORMS.length} 大平台完全收录</span>
@@ -328,6 +334,7 @@
   const lb = document.getElementById("lightbox");
   const lbImg = lb.querySelector("img");
   let lbList = [], lbIdx = 0;
+  lbImg.onload = () => fitImg(lbImg);
   function openLightbox(list, i) { lbList = list; lbIdx = i; lbImg.src = list[i]; lb.hidden = false; document.body.style.overflow = "hidden"; }
   function closeLightbox() { lb.hidden = true; document.body.style.overflow = ""; }
   function stepLightbox(d) { lbIdx = (lbIdx + d + lbList.length) % lbList.length; lbImg.src = lbList[lbIdx]; }

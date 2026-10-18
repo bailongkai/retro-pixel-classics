@@ -112,7 +112,6 @@ main { max-width: 1180px; margin: 0 auto; padding: 20px 16px 40px; outline: none
 .cover-img {
   position: absolute; inset: 0;
   width: 100%; height: 100%; object-fit: cover;
-  image-rendering: pixelated;
   opacity: .75;
 }
 .cover::after {
@@ -214,7 +213,7 @@ main { max-width: 1180px; margin: 0 auto; padding: 20px 16px 40px; outline: none
   position: relative; aspect-ratio: 4 / 3; background: var(--ink); overflow: hidden;
   border-bottom: 3px solid var(--ink);
 }
-.card-shot img { width: 100%; height: 100%; object-fit: cover; image-rendering: pixelated; }
+.card-shot img { width: 100%; height: 100%; object-fit: cover; }
 .noshot {
   width: 100%; height: 100%;
   display: flex; align-items: center; justify-content: center; text-align: center;
@@ -284,7 +283,7 @@ main { max-width: 1180px; margin: 0 auto; padding: 20px 16px 40px; outline: none
 .rank-row:hover { background: var(--paper); }
 .rank-no { font-family: var(--pixel); font-size: 18px; color: var(--red); text-align: center; }
 .rank-row:nth-child(-n+3) .rank-no { color: var(--ink); background: var(--yellow); padding: 6px 0; border: 2px solid var(--ink); }
-.rank-thumb { width: 72px; height: 54px; object-fit: cover; image-rendering: pixelated; border: 2px solid var(--ink); background: var(--ink); }
+.rank-thumb { width: 72px; height: 54px; object-fit: cover; border: 2px solid var(--ink); background: var(--ink); }
 .rank-title { font-weight: 900; line-height: 1.3; }
 .rank-title small { display: block; font-weight: 400; color: var(--muted); font-size: 12px; }
 .rank-score { font-family: var(--pixel); font-size: 14px; }
@@ -297,7 +296,7 @@ main { max-width: 1180px; margin: 0 auto; padding: 20px 16px 40px; outline: none
   box-shadow: 8px 8px 0 var(--pc, var(--red));
   overflow: hidden;
 }
-.detail-head .hero-img { width: 100%; max-height: 520px; object-fit: cover; image-rendering: pixelated; opacity: .9; }
+.detail-head .hero-img { width: 100%; max-height: 520px; object-fit: cover; opacity: .9; }
 .detail-head .hero-img.noshot { height: 220px; }
 .detail-title-box {
   position: relative; padding: 18px 20px 20px;
@@ -340,7 +339,7 @@ main { max-width: 1180px; margin: 0 auto; padding: 20px 16px 40px; outline: none
 
 .gallery { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 12px; margin-top: 8px; }
 .gallery button { padding: 0; border: 3px solid var(--ink); background: var(--ink); aspect-ratio: 4/3; overflow: hidden; }
-.gallery img { width: 100%; height: 100%; object-fit: cover; image-rendering: pixelated; transition: transform .2s; }
+.gallery img { width: 100%; height: 100%; object-fit: cover; transition: transform .2s; }
 .gallery button:hover img { transform: scale(1.05); }
 
 .side { display: flex; flex-direction: column; gap: 24px; }
@@ -371,7 +370,7 @@ main { max-width: 1180px; margin: 0 auto; padding: 20px 16px 40px; outline: none
   display: flex; align-items: center; justify-content: center;
 }
 .lightbox[hidden] { display: none; }
-.lightbox img { max-width: 94vw; max-height: 86vh; image-rendering: pixelated; border: 3px solid #fff; }
+.lightbox img { width: 94vw; height: 86vh; object-fit: contain; }
 .lightbox button { position: absolute; background: var(--yellow); border: 3px solid var(--ink); font-size: 26px; width: 46px; height: 46px; line-height: 1; font-weight: 900; }
 .lb-close { top: 16px; right: 16px; top: max(16px, env(safe-area-inset-top)); }
 .lb-prev { left: 10px; }
@@ -453,3 +452,11 @@ img.portrait { object-fit: contain !important; }
   .card-pics { font-size: 10px; padding: 2px 5px; }
 }
 .review-note { margin: -4px 0 4px; font-size: 11px; color: var(--muted); }
+
+/* pixel art: nearest-neighbour only when the image is being enlarged (set by fitImg in app.js);
+   downscaled images stay smooth to avoid aliasing. Fallback chain for Safari / older browsers. */
+img.px {
+  image-rendering: -webkit-optimize-contrast;
+  image-rendering: crisp-edges;
+  image-rendering: pixelated;
+}
