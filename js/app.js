@@ -2,7 +2,7 @@
   "use strict";
 
   // bump on every content update so browsers don't pair new pages with stale cached data
-  const VERSION = "6";
+  const VERSION = "7";
 
   const MAKERS = [
     { key: "Nintendo", zh: "任天堂", en: "NINTENDO" },
@@ -67,7 +67,7 @@
         : `<div class="noshot ${cls}">${esc(PMAP[g.platform].abbr)}<br>NO IMAGE</div>`;
   const STYLE = { 3: "同款", 2: "近似", 1: "沾边", 0: "不同" };
   const styleBadge = g => g.styleMatch === 3 ? `<span class="style-star" title="同款风格" aria-label="同款风格">★</span>`
-    : g.styleMatch === 2 ? `<span class="style-badge s2">${STYLE[2]}</span>` : "";
+    : g.styleMatch === 2 ? `<span class="style-star s2" title="近似风格" aria-label="近似风格">★</span>` : "";
   const verdict = s => s >= 9.5 ? "殿堂级神作" : s >= 9 ? "白金推荐" : s >= 8.5 ? "金牌推荐" : s >= 8 ? "银牌推荐" : "值得一玩";
   const stampCls = s => (s >= 9.5 ? "score-stamp gold" : "score-stamp");
 

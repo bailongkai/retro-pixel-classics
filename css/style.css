@@ -484,3 +484,4 @@ img.px {
   text-shadow: 2px 2px 0 var(--ink);
 }
 @media (max-width: 600px) { .style-star { font-size: 24px; bottom: 24px; left: 4px; } }
+.style-star.s2 { color: #d9d6cf; }
