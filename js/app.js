@@ -1,6 +1,9 @@
 (() => {
   "use strict";
 
+  // bump on every content update so browsers don't pair new pages with stale cached data
+  const VERSION = "3";
+
   const MAKERS = [
     { key: "Nintendo", zh: "任天堂", en: "NINTENDO" },
     { key: "SEGA", zh: "世嘉", en: "SEGA" },
@@ -62,7 +65,7 @@
   // ---------- data ----------
   async function load() {
     const results = await Promise.all(PLATFORMS.map(p =>
-      fetch(`data/${p.key}.json`).then(r => (r.ok ? r.json() : [])).catch(() => [])
+      fetch(`data/${p.key}.json?v=${VERSION}`, { cache: "no-cache" }).then(r => (r.ok ? r.json() : [])).catch(() => [])
     ));
     results.forEach((list, i) => {
       const key = PLATFORMS[i].key;
