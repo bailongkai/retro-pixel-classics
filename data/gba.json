@@ -50,7 +50,9 @@
       "images/gba/gba-mother-3-2.png",
       "images/gba/gba-mother-3-title.png"
     ],
-    "cover": "images/gba/gba-mother-3-box.jpg"
+    "cover": "images/gba/gba-mother-3-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG，可自由逛村庄与商店"
   },
   {
     "id": "gba-golden-sun",
@@ -102,7 +104,9 @@
       "images/gba/gba-golden-sun-2.png",
       "images/gba/gba-golden-sun-title.png"
     ],
-    "cover": "images/gba/gba-golden-sun-box.jpg"
+    "cover": "images/gba/gba-golden-sun-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素JRPG，城镇探索与迷宫解谜"
   },
   {
     "id": "gba-castlevania-aria-of-sorrow",
@@ -154,7 +158,9 @@
       "images/gba/gba-castlevania-aria-of-sorrow-1.jpg",
       "images/gba/gba-castlevania-aria-of-sorrow-title.png"
     ],
-    "cover": "images/gba/gba-castlevania-aria-of-sorrow-box.jpg"
+    "cover": "images/gba/gba-castlevania-aria-of-sorrow-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "横版恶魔城，城内有商店"
   },
   {
     "id": "gba-zelda-minish-cap",
@@ -204,7 +210,9 @@
       "images/gba/gba-zelda-minish-cap-1.png",
       "images/gba/gba-zelda-minish-cap-title.png"
     ],
-    "cover": "images/gba/gba-zelda-minish-cap-box.jpg"
+    "cover": "images/gba/gba-zelda-minish-cap-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素ARPG，城下町自由探索"
   },
   {
     "id": "gba-metroid-fusion",
@@ -255,7 +263,9 @@
       "images/gba/gba-metroid-fusion-2.png",
       "images/gba/gba-metroid-fusion-title.png"
     ],
-    "cover": "images/gba/gba-metroid-fusion-box.jpg"
+    "cover": "images/gba/gba-metroid-fusion-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版探索动作，无城镇"
   },
   {
     "id": "gba-final-fantasy-vi-advance",
@@ -306,7 +316,9 @@
       "images/gba/gba-final-fantasy-vi-advance-x2.jpg",
       "images/gba/gba-final-fantasy-vi-advance-title.png"
     ],
-    "cover": "images/gba/gba-final-fantasy-vi-advance-box.jpg"
+    "cover": "images/gba/gba-final-fantasy-vi-advance-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素JRPG，城镇商店齐全"
   },
   {
     "id": "gba-zelda-link-to-the-past-four-swords",
@@ -356,7 +368,9 @@
       "images/gba/gba-zelda-link-to-the-past-four-swords-x2.png",
       "images/gba/gba-zelda-link-to-the-past-four-swords-title.png"
     ],
-    "cover": "images/gba/gba-zelda-link-to-the-past-four-swords-box.jpg"
+    "cover": "images/gba/gba-zelda-link-to-the-past-four-swords-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素ARPG，村庄、原野与迷宫"
   },
   {
     "id": "gba-golden-sun-the-lost-age",
@@ -408,7 +422,9 @@
       "images/gba/gba-golden-sun-the-lost-age-2.png",
       "images/gba/gba-golden-sun-the-lost-age-title.png"
     ],
-    "cover": "images/gba/gba-golden-sun-the-lost-age-box.jpg"
+    "cover": "images/gba/gba-golden-sun-the-lost-age-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素JRPG，城镇、大地图与航海"
   },
   {
     "id": "gba-fire-emblem",
@@ -460,7 +476,9 @@
       "images/gba/gba-fire-emblem-1.png",
       "images/gba/gba-fire-emblem-title.png"
     ],
-    "cover": "images/gba/gba-fire-emblem-box.jpg"
+    "cover": "images/gba/gba-fire-emblem-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "像素战棋，无可自由行走的城镇"
   },
   {
     "id": "gba-mario-and-luigi-superstar-saga",
@@ -512,7 +530,9 @@
       "images/gba/gba-mario-and-luigi-superstar-saga-1.png",
       "images/gba/gba-mario-and-luigi-superstar-saga-title.png"
     ],
-    "cover": "images/gba/gba-mario-and-luigi-superstar-saga-box.jpg"
+    "cover": "images/gba/gba-mario-and-luigi-superstar-saga-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG，可逛城镇与商店"
   },
   {
     "id": "gba-advance-wars",
@@ -564,7 +584,9 @@
       "images/gba/gba-advance-wars-1.png",
       "images/gba/gba-advance-wars-title.png"
     ],
-    "cover": "images/gba/gba-advance-wars-box.jpg"
+    "cover": "images/gba/gba-advance-wars-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "像素兵棋策略，无城镇与角色扮演"
   },
   {
     "id": "gba-super-mario-advance-4",
@@ -614,7 +636,9 @@
       "images/gba/gba-super-mario-advance-4-x1.png",
       "images/gba/gba-super-mario-advance-4-title.png"
     ],
-    "cover": "images/gba/gba-super-mario-advance-4-box.jpg"
+    "cover": "images/gba/gba-super-mario-advance-4-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版像素平台跳跃"
   },
   {
     "id": "gba-metroid-zero-mission",
@@ -664,7 +688,52 @@
       "images/gba/gba-metroid-zero-mission-x1.png",
       "images/gba/gba-metroid-zero-mission-title.png"
     ],
-    "cover": "images/gba/gba-metroid-zero-mission-box.jpg"
+    "cover": "images/gba/gba-metroid-zero-mission-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版探索动作，无城镇"
+  },
+  {
+    "id": "gba-mother-1-2",
+    "title": "Mother 1+2",
+    "titleZh": "地球冒险1+2",
+    "titleJa": "MOTHER1+2",
+    "year": 2003,
+    "developer": "Pax Softnica / Ape",
+    "publisher": "Nintendo",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "现代美国风",
+      "合集",
+      "日版独占"
+    ],
+    "players": "1",
+    "tagline": "两部传奇一卡收，奈斯的夏天永不结束",
+    "description": "一张卡带装下了FC的《MOTHER》与SFC的《MOTHER2》，这份诚意在当年让日本玩家欢呼雀跃。没有剑与魔法，主角是戴棒球帽的普通少年，武器是球棒和溜溜球，敌人是疯狗、嬉皮士和外星人——这种另类的美国小镇冒险，在JRPG中独一无二。\n\n俯视角的小镇里有汉堡店、百货公司、医院和旅馆，到处都是可以搭话的古怪居民；战斗中滚动的HP计、为家人打电话存档等设计充满温情与巧思。\n\n本作只在日本发售，但民间汉化早已让它在中文圈广为流传。玩过《MOTHER3》的朋友，一定要回头看看奈斯的故事。",
+    "highlights": [
+      "FC与SFC两部名作合集",
+      "现代美国小镇风格的另类RPG",
+      "滚动HP计等独特系统",
+      "糸井重里的温情幽默文字"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "35/40",
+        "quote": "两部名作一次收录，荣登白金殿堂"
+      }
+    ],
+    "editorScore": 9.2,
+    "is2D": true,
+    "screenshots": [
+      "images/gba/gba-mother-1-2-s1.png",
+      "images/gba/gba-mother-1-2-x1.jpg",
+      "images/gba/gba-mother-1-2-x2.jpg",
+      "images/gba/gba-mother-1-2-title.png"
+    ],
+    "cover": "images/gba/gba-mother-1-2-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG，小镇商店医院俱全"
   },
   {
     "id": "gba-final-fantasy-tactics-advance",
@@ -716,7 +785,9 @@
       "images/gba/gba-final-fantasy-tactics-advance-1.png",
       "images/gba/gba-final-fantasy-tactics-advance-title.png"
     ],
-    "cover": "images/gba/gba-final-fantasy-tactics-advance-box.jpg"
+    "cover": "images/gba/gba-final-fantasy-tactics-advance-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "像素战棋RPG，城镇为菜单形式"
   },
   {
     "id": "gba-pokemon-ruby-sapphire",
@@ -767,7 +838,9 @@
       "images/gba/gba-pokemon-ruby-sapphire-s3.png",
       "images/gba/gba-pokemon-ruby-sapphire-title.png"
     ],
-    "cover": "images/gba/gba-pokemon-ruby-sapphire-box.jpg"
+    "cover": "images/gba/gba-pokemon-ruby-sapphire-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG，小镇、商店与原野"
   },
   {
     "id": "gba-final-fantasy-v-advance",
@@ -818,7 +891,9 @@
       "images/gba/gba-final-fantasy-v-advance-x2.jpg",
       "images/gba/gba-final-fantasy-v-advance-title.png"
     ],
-    "cover": "images/gba/gba-final-fantasy-v-advance-box.jpg"
+    "cover": "images/gba/gba-final-fantasy-v-advance-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素JRPG，城镇与大地图"
   },
   {
     "id": "gba-fire-emblem-sacred-stones",
@@ -869,7 +944,9 @@
       "images/gba/gba-fire-emblem-sacred-stones-s3.png",
       "images/gba/gba-fire-emblem-sacred-stones-title.png"
     ],
-    "cover": "images/gba/gba-fire-emblem-sacred-stones-box.jpg"
+    "cover": "images/gba/gba-fire-emblem-sacred-stones-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "像素战棋，大地图有商店据点"
   },
   {
     "id": "gba-tactics-ogre-knight-of-lodis",
@@ -919,7 +996,9 @@
       "images/gba/gba-tactics-ogre-knight-of-lodis-s2.png",
       "images/gba/gba-tactics-ogre-knight-of-lodis-title.png"
     ],
-    "cover": "images/gba/gba-tactics-ogre-knight-of-lodis-box.jpg"
+    "cover": "images/gba/gba-tactics-ogre-knight-of-lodis-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "斜视角像素战棋，城镇为菜单形式"
   },
   {
     "id": "gba-fire-emblem-binding-blade",
@@ -959,7 +1038,9 @@
       "images/gba/gba-fire-emblem-binding-blade-s2.png",
       "images/gba/gba-fire-emblem-binding-blade-title.png"
     ],
-    "cover": "images/gba/gba-fire-emblem-binding-blade-box.jpg"
+    "cover": "images/gba/gba-fire-emblem-binding-blade-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "像素战棋，无可自由行走的城镇"
   },
   {
     "id": "gba-final-fantasy-iv-advance",
@@ -1010,7 +1091,9 @@
       "images/gba/gba-final-fantasy-iv-advance-x2.jpg",
       "images/gba/gba-final-fantasy-iv-advance-title.png"
     ],
-    "cover": "images/gba/gba-final-fantasy-iv-advance-box.jpg"
+    "cover": "images/gba/gba-final-fantasy-iv-advance-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素JRPG，城镇与大地图"
   },
   {
     "id": "gba-castlevania-circle-of-the-moon",
@@ -1061,7 +1144,9 @@
       "images/gba/gba-castlevania-circle-of-the-moon-s3.png",
       "images/gba/gba-castlevania-circle-of-the-moon-title.png"
     ],
-    "cover": "images/gba/gba-castlevania-circle-of-the-moon-box.jpg"
+    "cover": "images/gba/gba-castlevania-circle-of-the-moon-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版恶魔城，无城镇商店"
   },
   {
     "id": "gba-wario-land-4",
@@ -1111,7 +1196,9 @@
       "images/gba/gba-wario-land-4-x1.png",
       "images/gba/gba-wario-land-4-title.png"
     ],
-    "cover": "images/gba/gba-wario-land-4-box.jpg"
+    "cover": "images/gba/gba-wario-land-4-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版像素平台跳跃"
   },
   {
     "id": "gba-rhythm-tengoku",
@@ -1151,7 +1238,9 @@
       "images/gba/gba-rhythm-tengoku-s2.png",
       "images/gba/gba-rhythm-tengoku-title.png"
     ],
-    "cover": "images/gba/gba-rhythm-tengoku-box.jpg"
+    "cover": "images/gba/gba-rhythm-tengoku-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "音乐节奏游戏"
   },
   {
     "id": "gba-astro-boy-omega-factor",
@@ -1203,7 +1292,9 @@
       "images/gba/gba-astro-boy-omega-factor-1.png",
       "images/gba/gba-astro-boy-omega-factor-title.png"
     ],
-    "cover": "images/gba/gba-astro-boy-omega-factor-box.jpg"
+    "cover": "images/gba/gba-astro-boy-omega-factor-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版像素动作射击"
   },
   {
     "id": "gba-castlevania-harmony-of-dissonance",
@@ -1254,7 +1345,9 @@
       "images/gba/gba-castlevania-harmony-of-dissonance-s3.png",
       "images/gba/gba-castlevania-harmony-of-dissonance-title.png"
     ],
-    "cover": "images/gba/gba-castlevania-harmony-of-dissonance-box.jpg"
+    "cover": "images/gba/gba-castlevania-harmony-of-dissonance-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "横版恶魔城，城内有商人"
   },
   {
     "id": "gba-mega-man-zero-2",
@@ -1304,7 +1397,51 @@
       "images/gba/gba-mega-man-zero-2-s2.png",
       "images/gba/gba-mega-man-zero-2-title.png"
     ],
-    "cover": "images/gba/gba-mega-man-zero-2-box.jpg"
+    "cover": "images/gba/gba-mega-man-zero-2-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版像素动作"
+  },
+  {
+    "id": "gba-magical-vacation",
+    "title": "Magical Vacation",
+    "titleZh": "魔法假期",
+    "titleJa": "マジカルバケーション",
+    "year": 2001,
+    "developer": "Brownie Brown",
+    "publisher": "Nintendo",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "魔法学院",
+      "日版独占",
+      "隐藏佳作"
+    ],
+    "players": "1-5",
+    "tagline": "魔法学院的林间教室，Brownie Brown处女作",
+    "description": "由前Square《圣剑传说》班底成立的Brownie Brown，第一部作品就是这款充满童话气息的《魔法假期》。魔法学校的学生们在林间教室活动中遭遇异界生物袭击，被困在神秘世界，必须一边寻找同学一边踏上回家之路。\n\n手绘感的像素画面温柔可爱，俯视角探索村镇与森林，回合制战斗基于多种魔法属性相克，可收集的“精灵”系统则让队伍培养更有深度。最多五人联机的玩法在当年也颇为新颖。\n\n本作从未在海外发售，是GBA早期最被埋没的日式RPG之一，喜欢圣剑系画风的玩家一定会爱上它。",
+    "highlights": [
+      "原《圣剑传说》班底的温暖画风",
+      "魔法属性相克的回合制战斗",
+      "大量同学角色可加入队伍",
+      "最多五人联机"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "35/40",
+        "quote": "温暖的画风与扎实的系统，童心满满的RPG"
+      }
+    ],
+    "editorScore": 8.8,
+    "is2D": true,
+    "screenshots": [
+      "images/gba/gba-magical-vacation-s1.png",
+      "images/gba/gba-magical-vacation-x1.png",
+      "images/gba/gba-magical-vacation-title.png"
+    ],
+    "cover": "images/gba/gba-magical-vacation-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG，村镇森林自由探索"
   },
   {
     "id": "gba-boktai",
@@ -1354,7 +1491,9 @@
       "images/gba/gba-boktai-s2.png",
       "images/gba/gba-boktai-title.png"
     ],
-    "cover": "images/gba/gba-boktai-box.jpg"
+    "cover": "images/gba/gba-boktai-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素ARPG，有太阳城小镇"
   },
   {
     "id": "gba-harvest-moon-friends-of-mineral-town",
@@ -1401,7 +1540,9 @@
       "images/gba/gba-harvest-moon-friends-of-mineral-town-1.png",
       "images/gba/gba-harvest-moon-friends-of-mineral-town-title.png"
     ],
-    "cover": "images/gba/gba-harvest-moon-friends-of-mineral-town-box.jpg"
+    "cover": "images/gba/gba-harvest-moon-friends-of-mineral-town-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素田园生活，小镇杂货店"
   },
   {
     "id": "gba-mega-man-zero",
@@ -1451,7 +1592,9 @@
       "images/gba/gba-mega-man-zero-s3.png",
       "images/gba/gba-mega-man-zero-title.png"
     ],
-    "cover": "images/gba/gba-mega-man-zero-box.jpg"
+    "cover": "images/gba/gba-mega-man-zero-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版像素动作"
   },
   {
     "id": "gba-gunstar-super-heroes",
@@ -1500,7 +1643,9 @@
       "images/gba/gba-gunstar-super-heroes-s1.png",
       "images/gba/gba-gunstar-super-heroes-title.png"
     ],
-    "cover": "images/gba/gba-gunstar-super-heroes-box.jpg"
+    "cover": "images/gba/gba-gunstar-super-heroes-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "横版射击，与参考图玩法不同"
   },
   {
     "id": "gba-pokemon-firered-leafgreen",
@@ -1551,7 +1696,9 @@
       "images/gba/gba-pokemon-firered-leafgreen-s3.png",
       "images/gba/gba-pokemon-firered-leafgreen-title.png"
     ],
-    "cover": "images/gba/gba-pokemon-firered-leafgreen-box.jpg"
+    "cover": "images/gba/gba-pokemon-firered-leafgreen-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG，小镇、商店与原野"
   },
   {
     "id": "gba-mega-man-zero-3",
@@ -1601,7 +1748,9 @@
       "images/gba/gba-mega-man-zero-3-s2.png",
       "images/gba/gba-mega-man-zero-3-title.png"
     ],
-    "cover": "images/gba/gba-mega-man-zero-3-box.jpg"
+    "cover": "images/gba/gba-mega-man-zero-3-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版像素动作"
   },
   {
     "id": "gba-kirby-amazing-mirror",
@@ -1652,7 +1801,9 @@
       "images/gba/gba-kirby-amazing-mirror-s3.png",
       "images/gba/gba-kirby-amazing-mirror-title.png"
     ],
-    "cover": "images/gba/gba-kirby-amazing-mirror-box.jpg"
+    "cover": "images/gba/gba-kirby-amazing-mirror-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版像素平台探索"
   },
   {
     "id": "gba-mega-man-battle-network-3",
@@ -1703,7 +1854,9 @@
       "images/gba/gba-mega-man-battle-network-3-s3.png",
       "images/gba/gba-mega-man-battle-network-3-title.png"
     ],
-    "cover": "images/gba/gba-mega-man-battle-network-3-box.jpg"
+    "cover": "images/gba/gba-mega-man-battle-network-3-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素小镇探索，战斗为格子制"
   },
   {
     "id": "gba-super-robot-taisen-og",
@@ -1744,7 +1897,9 @@
       "images/gba/gba-super-robot-taisen-og-s3.png",
       "images/gba/gba-super-robot-taisen-og-title.png"
     ],
-    "cover": "images/gba/gba-super-robot-taisen-og-box.jpg"
+    "cover": "images/gba/gba-super-robot-taisen-og-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "像素机战战棋，无城镇探索"
   },
   {
     "id": "gba-drill-dozer",
@@ -1794,7 +1949,9 @@
       "images/gba/gba-drill-dozer-s2.png",
       "images/gba/gba-drill-dozer-title.png"
     ],
-    "cover": "images/gba/gba-drill-dozer-box.jpg"
+    "cover": "images/gba/gba-drill-dozer-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版像素平台动作"
   },
   {
     "id": "gba-ninja-five-o",
@@ -1844,7 +2001,114 @@
       "images/gba/gba-ninja-five-o-s2.png",
       "images/gba/gba-ninja-five-o-title.png"
     ],
-    "cover": "images/gba/gba-ninja-five-o-box.jpg"
+    "cover": "images/gba/gba-ninja-five-o-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版像素动作"
+  },
+  {
+    "id": "gba-breath-of-fire-ii",
+    "title": "Breath of Fire II",
+    "titleZh": "龙战士2",
+    "titleJa": "ブレス オブ ファイアII 使命の子",
+    "year": 2001,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "回合制",
+      "建村",
+      "移植"
+    ],
+    "players": "1",
+    "tagline": "被遗忘的少年与龙之血，建一座属于你的村庄",
+    "description": "一觉醒来，没有人记得你——《龙战士2》以少年流的孤独开场，展开一段关于宗教与谎言的黑暗故事。卡普空在SFC时代打造的这部RPG，在GBA上完整移植并加入了小幅改良。\n\n最有特色的是“共同体”系统：在冒险中招募居民，建设属于自己的小镇，村子会随着成员增加而成长。伙伴们各有独特的地图能力，猎人、钓鱼等小游戏也让旅途充满乐趣。\n\n龙之变身的震撼、钓鱼的悠闲，俯视角像素JRPG的魅力在这里一应俱全。",
+    "highlights": [
+      "可建设自己村庄的共同体系统",
+      "黑暗深刻的宗教主题剧情",
+      "伙伴各具地图能力",
+      "钓鱼与狩猎小游戏"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "29/40",
+        "quote": "经典RPG的扎实移植"
+      },
+      {
+        "source": "IGN",
+        "score": "8.3/10",
+        "quote": "掌机上体验经典的好机会"
+      },
+      {
+        "source": "Metacritic",
+        "score": "81/100",
+        "quote": "获得媒体普遍好评"
+      }
+    ],
+    "editorScore": 8.5,
+    "is2D": true,
+    "screenshots": [
+      "images/gba/gba-breath-of-fire-ii-s1.png",
+      "images/gba/gba-breath-of-fire-ii-s2.png",
+      "images/gba/gba-breath-of-fire-ii-s3.png",
+      "images/gba/gba-breath-of-fire-ii-title.png"
+    ],
+    "cover": "images/gba/gba-breath-of-fire-ii-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素JRPG，城镇与自建村庄"
+  },
+  {
+    "id": "gba-pokemon-emerald",
+    "title": "Pokémon Emerald",
+    "titleZh": "精灵宝可梦 绿宝石",
+    "titleJa": "ポケットモンスター エメラルド",
+    "year": 2004,
+    "developer": "Game Freak",
+    "publisher": "Nintendo",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "收集",
+      "对战开拓区",
+      "加强版"
+    ],
+    "players": "1-4",
+    "tagline": "丰缘地区的终极版本，对战开拓区等你挑战",
+    "description": "《红宝石／蓝宝石》的加强版，故事改为熔岩队与海洋队同时作乱、超古代宝可梦裂空座出面平息，剧情张力更强。地图与道馆配置做了调整，队伍中的宝可梦也会在战斗时动起来。\n\n最受核心玩家推崇的是通关后的“对战开拓区”：七种规则各异的设施，从租借宝可梦到金字塔探险，挑战性极高，耐玩度几乎无限。\n\n如果只能选一款丰缘地区的宝可梦，绿宝石无疑是内容最完整的版本。",
+    "highlights": [
+      "熔岩队与海洋队双反派剧情",
+      "通关后的对战开拓区",
+      "战斗中宝可梦动态表现",
+      "丰缘地区最完整版本"
+    ],
+    "reviews": [
+      {
+        "source": "IGN",
+        "score": "8/10",
+        "quote": "内容更加丰富的丰缘之旅"
+      },
+      {
+        "source": "GameSpot",
+        "score": "7.5/10",
+        "quote": "加强版的追加内容足够吸引老玩家"
+      },
+      {
+        "source": "Metacritic",
+        "score": "76/100",
+        "quote": "获得媒体正面评价"
+      }
+    ],
+    "editorScore": 8.5,
+    "is2D": true,
+    "screenshots": [
+      "images/gba/gba-pokemon-emerald-s1.png",
+      "images/gba/gba-pokemon-emerald-s2.png",
+      "images/gba/gba-pokemon-emerald-title.png"
+    ],
+    "cover": "images/gba/gba-pokemon-emerald-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG，小镇、商店与原野"
   },
   {
     "id": "gba-riviera-the-promised-land",
@@ -1895,7 +2159,9 @@
       "images/gba/gba-riviera-the-promised-land-1.png",
       "images/gba/gba-riviera-the-promised-land-title.png"
     ],
-    "cover": "images/gba/gba-riviera-the-promised-land-box.jpg"
+    "cover": "images/gba/gba-riviera-the-promised-land-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "像素RPG，但探索为场景选单式"
   },
   {
     "id": "gba-mega-man-zero-4",
@@ -1945,7 +2211,9 @@
       "images/gba/gba-mega-man-zero-4-s2.png",
       "images/gba/gba-mega-man-zero-4-title.png"
     ],
-    "cover": "images/gba/gba-mega-man-zero-4-box.jpg"
+    "cover": "images/gba/gba-mega-man-zero-4-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版像素动作"
   },
   {
     "id": "gba-kuru-kuru-kururin",
@@ -1990,7 +2258,326 @@
       "images/gba/gba-kuru-kuru-kururin-s2.png",
       "images/gba/gba-kuru-kuru-kururin-title.png"
     ],
-    "cover": "images/gba/gba-kuru-kuru-kururin-box.jpg"
+    "cover": "images/gba/gba-kuru-kuru-kururin-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "解谜游戏"
+  },
+  {
+    "id": "gba-breath-of-fire",
+    "title": "Breath of Fire",
+    "titleZh": "龙战士",
+    "titleJa": "ブレス オブ ファイア 竜の戦士",
+    "year": 2001,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "回合制",
+      "龙族",
+      "移植"
+    ],
+    "players": "1",
+    "tagline": "龙之一族的起点，卡普空的王道JRPG",
+    "description": "卡普空RPG系列的开山之作，讲述龙族少年龙为对抗黑龙一族的野心踏上旅途。GBA版在SFC原作基础上加入了冲刺功能、降低了遇敌率，并支持存档点之外的随时存档，玩起来更加流畅。\n\n八位伙伴各有在大地图上使用的特殊能力：变身巨鱼渡海、开凿岩石等，“合体”系统更让伙伴之间产生奇妙组合。主角变身各种巨龙的演出至今仍让人热血沸腾。\n\n画面明亮、节奏轻快，是体会SFC时代王道JRPG的好选择。",
+    "highlights": [
+      "系列原点的王道冒险",
+      "可变身各种巨龙的主角",
+      "伙伴各具地图特殊能力",
+      "GBA版加入冲刺与降低遇敌"
+    ],
+    "reviews": [
+      {
+        "source": "Metacritic",
+        "score": "79/100",
+        "quote": "经典RPG的扎实移植"
+      },
+      {
+        "source": "GameSpot",
+        "score": "7.7/10",
+        "quote": "老派但依然有趣的JRPG"
+      },
+      {
+        "source": "IGN",
+        "score": "7.6/10",
+        "quote": "掌机上重温经典的好选择"
+      }
+    ],
+    "editorScore": 8.3,
+    "is2D": true,
+    "screenshots": [
+      "images/gba/gba-breath-of-fire-s1.png",
+      "images/gba/gba-breath-of-fire-s2.png",
+      "images/gba/gba-breath-of-fire-s3.png",
+      "images/gba/gba-breath-of-fire-s4.png",
+      "images/gba/gba-breath-of-fire-title.png"
+    ],
+    "cover": "images/gba/gba-breath-of-fire-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素JRPG，城镇与大地图"
+  },
+  {
+    "id": "gba-lunar-legend",
+    "title": "Lunar Legend",
+    "titleZh": "露娜传说",
+    "titleJa": "ルナ レジェンド",
+    "year": 2002,
+    "developer": "Japan Art Media",
+    "publisher": "Media Rings / Ubi Soft",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "回合制",
+      "王道冒险",
+      "移植"
+    ],
+    "players": "1",
+    "tagline": "追逐龙之大师梦想，银之星的掌上重生",
+    "description": "以MCD名作《Lunar: The Silver Star》为蓝本改编，少年亚雷斯怀抱成为“龙之大师”的梦想，与青梅竹马露娜一起踏上冒险。GBA版重新编排了剧情与战斗系统，节奏更轻快。\n\n俯视角像素画面明亮温暖，城镇里的居民个个有戏，战斗中角色站位与范围攻击讲究策略。虽然缺少原作的动画与语音，但那份青春冒险的纯真感依然完整。\n\n对没玩过MCD版的玩家来说，这是认识《露娜》系列的便利入口。",
+    "highlights": [
+      "MCD名作的掌机改编",
+      "青春王道的冒险剧情",
+      "站位讲究的回合制战斗",
+      "明亮温暖的像素城镇"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "30/40",
+        "quote": "名作的掌机改编，冒险气氛完整保留"
+      },
+      {
+        "source": "EGM",
+        "score": "8/10",
+        "quote": "传统但令人愉快的JRPG"
+      },
+      {
+        "source": "Metacritic",
+        "score": "79/100",
+        "quote": "获得媒体正面评价"
+      }
+    ],
+    "editorScore": 8.2,
+    "is2D": true,
+    "screenshots": [
+      "images/gba/gba-lunar-legend-s1.png",
+      "images/gba/gba-lunar-legend-s2.png",
+      "images/gba/gba-lunar-legend-title.png"
+    ],
+    "cover": "images/gba/gba-lunar-legend-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素JRPG，城镇居民生动"
+  },
+  {
+    "id": "gba-pokemon-mystery-dungeon-red",
+    "title": "Pokémon Mystery Dungeon: Red Rescue Team",
+    "titleZh": "宝可梦不可思议的迷宫 赤之救助队",
+    "titleJa": "ポケモン不思議のダンジョン 赤の救助隊",
+    "year": 2005,
+    "developer": "Chunsoft",
+    "publisher": "Nintendo",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "迷宫",
+      "肉鸽",
+      "宝可梦"
+    ],
+    "players": "1",
+    "tagline": "变成宝可梦闯迷宫，催泪救助队物语",
+    "description": "一觉醒来，你变成了一只宝可梦！由《风来的西林》开发商Chunsoft操刀，本作把“不可思议的迷宫”玩法与宝可梦世界结合：每次进入迷宫地图都随机生成，走一步敌人动一步，策略性十足。\n\n以宝可梦广场为据点，商店、银行、仓库一应俱全，接受委托、组建救助队，伙伴越来越多。主线剧情温情动人，不少玩家坦言在结局时哭得稀里哗啦。\n\n难度对新手友好，又有大量隐藏迷宫供老手挑战，是宝可梦衍生作中最有口碑的系列之一。",
+    "highlights": [
+      "随机生成的不可思议迷宫",
+      "以宝可梦广场为据点的救助队生活",
+      "感人至深的主线剧情",
+      "大量隐藏迷宫与招募要素"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "35/40",
+        "quote": "系列融合得恰到好处，新手也能乐在其中"
+      },
+      {
+        "source": "Eurogamer",
+        "score": "7/10",
+        "quote": "迷宫玩法上手容易，适合年轻玩家"
+      },
+      {
+        "source": "IGN",
+        "score": "6.5/10",
+        "quote": "有趣但重复度较高"
+      }
+    ],
+    "editorScore": 8.2,
+    "is2D": true,
+    "screenshots": [
+      "images/gba/gba-pokemon-mystery-dungeon-red-s1.png",
+      "images/gba/gba-pokemon-mystery-dungeon-red-s2.png",
+      "images/gba/gba-pokemon-mystery-dungeon-red-s3.png",
+      "images/gba/gba-pokemon-mystery-dungeon-red-title.png"
+    ],
+    "cover": "images/gba/gba-pokemon-mystery-dungeon-red-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素，广场小镇与迷宫探险"
+  },
+  {
+    "id": "gba-tales-of-phantasia",
+    "title": "Tales of Phantasia",
+    "titleZh": "幻想传说",
+    "titleJa": "テイルズ オブ ファンタジア",
+    "year": 2003,
+    "developer": "Namco",
+    "publisher": "Namco / Nintendo",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "即时战斗",
+      "时空穿越",
+      "移植"
+    ],
+    "players": "1",
+    "tagline": "传说系列的原点，跨越时空的剑与魔法",
+    "description": "“传说”系列的开山之作，SFC末期以超大容量与片头主题曲震惊玩家。少年克雷斯为复仇而穿越过去与未来，与弓箭手、召唤师、魔法师等伙伴对抗魔王达奥斯，剧情宏大又感人。\n\n俯视角像素探索城镇与大地图，战斗则切换为横版即时的“线性动作战斗系统”，按键挥剑、放技能，打击感十足。GBA版基于PS版移植，加入了更多技能与小游戏。\n\n虽然音质和画面有所妥协，但能把这部名作随身携带，仍是RPG迷的一大乐事。",
+    "highlights": [
+      "传说系列初代作品",
+      "横版即时动作战斗",
+      "穿越时空的宏大剧情",
+      "俯视角城镇与大地图探索"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "28/40",
+        "quote": "名作移植，但掌机上的妥协显而易见"
+      },
+      {
+        "source": "IGN",
+        "score": "7.5/10",
+        "quote": "经典依旧，值得一玩"
+      },
+      {
+        "source": "Metacritic",
+        "score": "76/100",
+        "quote": "获得媒体正面评价"
+      }
+    ],
+    "editorScore": 8.2,
+    "is2D": true,
+    "screenshots": [
+      "images/gba/gba-tales-of-phantasia-s1.png",
+      "images/gba/gba-tales-of-phantasia-s2.png",
+      "images/gba/gba-tales-of-phantasia-s3.png",
+      "images/gba/gba-tales-of-phantasia-title.png"
+    ],
+    "cover": "images/gba/gba-tales-of-phantasia-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素城镇探索，战斗为横版"
+  },
+  {
+    "id": "gba-shining-soul-ii",
+    "title": "Shining Soul II",
+    "titleZh": "光明之魂2",
+    "titleJa": "シャイニング・ソウルII",
+    "year": 2003,
+    "developer": "Grasshopper Manufacture",
+    "publisher": "Sega / Atlus",
+    "genre": "动作角色扮演",
+    "tags": [
+      "像素",
+      "刷宝",
+      "多人合作",
+      "俯视角"
+    ],
+    "players": "1-4",
+    "tagline": "掌上暗黑破坏神，四人联机刷装备",
+    "description": "《光明》系列的掌机ARPG外传，玩法明显借鉴了《暗黑破坏神》：选择职业、闯迷宫、打怪掉宝、刷装备，简单直接又令人停不下来。二代大幅扩充职业到八种，从剑士、弓手到驯兽师各有特色。\n\n以村庄为据点，可以在商店买卖装备、接受委托；迷宫中的俯视角动作战斗爽快流畅，最多四人联机共斗更是乐趣倍增。\n\n画面是明亮的像素风格，难度适中，适合想在掌机上体验刷宝乐趣的玩家。",
+    "highlights": [
+      "八种职业自由选择",
+      "刷装备的暗黑式玩法",
+      "村庄据点与委托系统",
+      "最多四人联机共斗"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "32/40",
+        "quote": "职业丰富，联机共斗乐趣十足"
+      },
+      {
+        "source": "IGN",
+        "score": "7.5/10",
+        "quote": "二代全面改进，刷宝很上瘾"
+      },
+      {
+        "source": "Metacritic",
+        "score": "74/100",
+        "quote": "获得媒体正面评价"
+      }
+    ],
+    "editorScore": 8.1,
+    "is2D": true,
+    "screenshots": [
+      "images/gba/gba-shining-soul-ii-s1.png",
+      "images/gba/gba-shining-soul-ii-s2.png",
+      "images/gba/gba-shining-soul-ii-s3.png",
+      "images/gba/gba-shining-soul-ii-title.png"
+    ],
+    "cover": "images/gba/gba-shining-soul-ii-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素ARPG，村庄据点与商店"
+  },
+  {
+    "id": "gba-summon-night-swordcraft-story",
+    "title": "Summon Night: Swordcraft Story",
+    "titleZh": "召唤之夜 锻剑物语",
+    "titleJa": "サモンナイト クラフトソード物語",
+    "year": 2003,
+    "developer": "Flight-Plan",
+    "publisher": "Banpresto / Atlus",
+    "genre": "动作角色扮演",
+    "tags": [
+      "像素",
+      "锻造",
+      "召唤兽",
+      "隐藏佳作"
+    ],
+    "players": "1",
+    "tagline": "打铁铸剑，少年锻冶师的成长物语",
+    "description": "在锻冶师之城瓦尔斯城，少年（或少女）锻冶师为了继承父亲的名号，参加锻造师大会并踏上冒险。《召唤之夜 锻剑物语》把“锻造”作为核心：在迷宫中收集素材，回到工坊打造各种武器，亲手做出的剑就是你的力量。\n\n城镇以俯视角像素画面呈现，可以与居民交流、经营人际关系；进入迷宫后战斗则切换为横版即时动作，打造的武器会在战斗中逐渐损耗，策略与手感兼备。\n\n角色立绘可爱、剧情温暖，是GBA上被低估的日式ARPG。",
+    "highlights": [
+      "收集素材自由锻造武器",
+      "可选男女主角与召唤兽搭档",
+      "横版即时动作战斗",
+      "温暖的成长剧情"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "32/40",
+        "quote": "锻造系统富有魅力，角色可爱"
+      },
+      {
+        "source": "IGN",
+        "score": "8/10",
+        "quote": "出人意料的优秀掌机RPG"
+      },
+      {
+        "source": "Metacritic",
+        "score": "77/100",
+        "quote": "获得媒体正面评价"
+      }
+    ],
+    "editorScore": 8.1,
+    "is2D": true,
+    "screenshots": [
+      "images/gba/gba-summon-night-swordcraft-story-s1.png",
+      "images/gba/gba-summon-night-swordcraft-story-s2.png",
+      "images/gba/gba-summon-night-swordcraft-story-title.png"
+    ],
+    "cover": "images/gba/gba-summon-night-swordcraft-story-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "俯视角像素城镇，迷宫战斗为横版"
   },
   {
     "id": "gba-sword-of-mana",
@@ -2040,6 +2627,107 @@
       "images/gba/gba-sword-of-mana-x1.jpg",
       "images/gba/gba-sword-of-mana-title.png"
     ],
-    "cover": "images/gba/gba-sword-of-mana-box.jpg"
+    "cover": "images/gba/gba-sword-of-mana-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素ARPG，童话村镇与原野"
+  },
+  {
+    "id": "gba-final-fantasy-i-ii-dawn-of-souls",
+    "title": "Final Fantasy I & II: Dawn of Souls",
+    "titleZh": "最终幻想1·2 Advance",
+    "titleJa": "ファイナルファンタジーI・II アドバンス",
+    "year": 2004,
+    "developer": "Tose",
+    "publisher": "Square Enix / Nintendo",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "回合制",
+      "合集",
+      "移植"
+    ],
+    "players": "1",
+    "tagline": "FF传奇的起点，两部初代一卡收",
+    "description": "把FC时代的《最终幻想》与《最终幻想2》合二为一，以接近SFC水准的画面重绘，这就是《最终幻想1·2 Advance》。光之战士寻回水晶光辉、反抗军对抗帕拉梅基亚帝国，系列的一切都从这里开始。\n\n本作大幅改善了原作的平衡性，加入随时存档、冲刺等便利功能，并追加了“灵魂之迷宫”“魂之迷宫”等全新内容，即使是老玩家也有新鲜感。\n\n俯视角的城镇、大地图、飞空艇……想追溯FF系列的根源，从这里出发最合适不过。",
+    "highlights": [
+      "FF初代两部合集",
+      "SFC级重绘画面",
+      "平衡性改良与便利功能",
+      "追加的全新迷宫"
+    ],
+    "reviews": [
+      {
+        "source": "Nintendo World Report",
+        "score": "9/10",
+        "quote": "两部经典的绝佳重制合集"
+      },
+      {
+        "source": "RPGFan",
+        "score": "80%",
+        "quote": "改良得当，体验FF根源的好选择"
+      }
+    ],
+    "editorScore": 8.0,
+    "is2D": true,
+    "screenshots": [
+      "images/gba/gba-final-fantasy-i-ii-dawn-of-souls-s1.png",
+      "images/gba/gba-final-fantasy-i-ii-dawn-of-souls-s2.png",
+      "images/gba/gba-final-fantasy-i-ii-dawn-of-souls-title.png"
+    ],
+    "cover": "images/gba/gba-final-fantasy-i-ii-dawn-of-souls-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素JRPG，城镇与大地图"
+  },
+  {
+    "id": "gba-lufia-ruins-of-lore",
+    "title": "Lufia: The Ruins of Lore",
+    "titleZh": "苏醒的遗迹 艾斯特波利斯外传",
+    "titleJa": "沈黙の遺跡 エストポリス外伝",
+    "year": 2002,
+    "developer": "Atelier Double",
+    "publisher": "Taito / Atlus",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "怪物收集",
+      "迷宫",
+      "职业系统"
+    ],
+    "players": "1",
+    "tagline": "艾斯特波利斯的掌上外传，迷宫与怪物伙伴",
+    "description": "《艾斯特波利斯战记》系列的GBA外传，讲述少年艾尔德为寻找父亲踏入古代遗迹的冒险。本作融合了系列特色的随机迷宫“古代洞窟”与怪物培养系统：击败的怪物可以成为伙伴，通过喂食“晶石”进化。\n\n俯视角像素画面的城镇与地下城中，角色可以使用钩索、炸弹等道具解谜，职业系统则让队伍成长更自由。\n\n虽然名气不及SFC本传，但这款外传节奏轻快、内容扎实，喜欢老派JRPG的玩家值得挖掘。",
+    "highlights": [
+      "怪物伙伴的收集与进化",
+      "道具解谜的俯视角迷宫",
+      "职业转换系统",
+      "系列经典的随机迷宫"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "29/40",
+        "quote": "系列风味浓厚的掌机外传"
+      },
+      {
+        "source": "EGM",
+        "score": "8/10",
+        "quote": "迷宫与收集要素令人满意"
+      },
+      {
+        "source": "Metacritic",
+        "score": "76/100",
+        "quote": "获得媒体正面评价"
+      }
+    ],
+    "editorScore": 7.9,
+    "is2D": true,
+    "screenshots": [
+      "images/gba/gba-lufia-ruins-of-lore-s1.png",
+      "images/gba/gba-lufia-ruins-of-lore-s2.png",
+      "images/gba/gba-lufia-ruins-of-lore-title.png"
+    ],
+    "cover": "images/gba/gba-lufia-ruins-of-lore-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素JRPG，城镇迷宫道具解谜"
   }
 ]

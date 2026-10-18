@@ -7,7 +7,7 @@ import sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 REQUIRED = ["id", "title", "titleZh", "year", "developer", "genre", "tagline", "description",
-            "highlights", "reviews", "editorScore", "is2D", "screenshots", "cover"]
+            "highlights", "reviews", "editorScore", "is2D", "screenshots", "cover", "styleMatch", "styleNote"]
 
 
 def check(path):

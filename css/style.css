@@ -460,3 +460,20 @@ img.px {
   image-rendering: crisp-edges;
   image-rendering: pixelated;
 }
+
+/* ---------- style match ---------- */
+.style-badge {
+  position: absolute; right: 0; top: 0;
+  font-size: 11px; font-weight: 900; padding: 3px 8px;
+  border-left: 3px solid var(--ink); border-bottom: 3px solid var(--ink);
+}
+.style-badge.s3 { background: var(--yellow); color: var(--ink); }
+.style-badge.s2 { background: #fff; color: var(--ink); }
+.card .score-stamp ~ .card-shot .style-badge { right: auto; left: 0; top: auto; bottom: 28px; border-left: none; border-right: 3px solid var(--ink); border-top: 3px solid var(--ink); border-bottom: none; }
+.style-panel .style-meter { display: flex; align-items: center; gap: 6px; }
+.style-panel .style-meter i { width: 26px; height: 14px; border: 2px solid var(--ink); background: #fff; }
+.style-panel .style-meter i.on { background: var(--red); }
+.style-panel .style-meter b { margin-left: 6px; font-size: 18px; }
+.style-panel.s3 { background: var(--yellow); }
+.style-panel p { margin: 10px 0 0; font-size: 14px; font-weight: 700; }
+.toolbar select[data-style] { background: var(--yellow); }

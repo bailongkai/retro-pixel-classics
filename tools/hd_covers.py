@@ -122,6 +122,10 @@ def download(plats):
                 continue
             rel = f"images/{p}/{g['id']}-box.jpg"
             dst = os.path.join(ROOT, rel)
+            if g.get("cover") == rel and os.path.exists(dst):
+                out = subprocess.run(["sips", "-g", "pixelWidth", "-g", "pixelHeight", dst], capture_output=True, text=True).stdout
+                if max(int(x) for x in re.findall(r"pixel(?:Width|Height): (\d+)", out)) > 520:
+                    continue  # already HD
             tmp = dst + ".src"
             try:
                 req = urllib.request.Request("https://images.launchbox-app.com/" + urllib.request.quote(m["file"]),

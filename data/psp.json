@@ -47,7 +47,9 @@
       "images/psp/psp-tactics-ogre-s2.png",
       "images/psp/psp-tactics-ogre-title.png"
     ],
-    "cover": "images/psp/psp-tactics-ogre-box.jpg"
+    "cover": "images/psp/psp-tactics-ogre-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "像素战棋，城镇仅以菜单场景呈现"
   },
   {
     "id": "psp-fft-war-of-the-lions",
@@ -97,7 +99,9 @@
       "images/psp/psp-fft-war-of-the-lions-x1.png",
       "images/psp/psp-fft-war-of-the-lions-title.png"
     ],
-    "cover": "images/psp/psp-fft-war-of-the-lions-box.jpg"
+    "cover": "images/psp/psp-fft-war-of-the-lions-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "像素小人战棋，无自由走动的村庄"
   },
   {
     "id": "psp-trails-in-the-sky-fc",
@@ -148,7 +152,9 @@
       "images/psp/psp-trails-in-the-sky-fc-x2.jpg",
       "images/psp/psp-trails-in-the-sky-fc-x3.jpg"
     ],
-    "cover": "images/psp/psp-trails-in-the-sky-fc-box.jpg"
+    "cover": "images/psp/psp-trails-in-the-sky-fc-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "斜俯视角像素小人自由逛城镇商店"
   },
   {
     "id": "psp-trails-in-the-sky-sc",
@@ -193,7 +199,9 @@
       "images/psp/psp-trails-in-the-sky-sc-x2.jpg",
       "images/psp/psp-trails-in-the-sky-sc-x3.jpg"
     ],
-    "cover": "images/psp/psp-trails-in-the-sky-sc-box.jpg"
+    "cover": "images/psp/psp-trails-in-the-sky-sc-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "斜俯视角像素角色，城镇探索丰富"
   },
   {
     "id": "psp-suikoden-1-2",
@@ -235,9 +243,13 @@
     "is2D": true,
     "screenshots": [
       "images/psp/psp-suikoden-1-2-s1.png",
+      "images/psp/psp-suikoden-1-2-x1.jpg",
+      "images/psp/psp-suikoden-1-2-x2.png",
       "images/psp/psp-suikoden-1-2-title.png"
     ],
-    "cover": "images/psp/psp-suikoden-1-2-box.jpg"
+    "cover": "images/psp/psp-suikoden-1-2-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角2D像素，城镇根据地自由探索"
   },
   {
     "id": "psp-valkyrie-profile-lenneth",
@@ -277,7 +289,9 @@
       "images/psp/psp-valkyrie-profile-lenneth-s2.png",
       "images/psp/psp-valkyrie-profile-lenneth-title.png"
     ],
-    "cover": "images/psp/psp-valkyrie-profile-lenneth-box.jpg"
+    "cover": "images/psp/psp-valkyrie-profile-lenneth-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "侧视角横版探索的像素RPG"
   },
   {
     "id": "psp-castlevania-dracula-x-chronicles",
@@ -327,7 +341,9 @@
       "images/psp/psp-castlevania-dracula-x-chronicles-s3.png",
       "images/psp/psp-castlevania-dracula-x-chronicles-title.png"
     ],
-    "cover": "images/psp/psp-castlevania-dracula-x-chronicles-box.jpg"
+    "cover": "images/psp/psp-castlevania-dracula-x-chronicles-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "主篇为3D，隐藏收录2D像素恶魔城"
   },
   {
     "id": "psp-zero-no-kiseki",
@@ -367,7 +383,9 @@
       "images/psp/psp-zero-no-kiseki-x1.jpg",
       "images/psp/psp-zero-no-kiseki-x2.jpg"
     ],
-    "cover": "images/psp/psp-zero-no-kiseki-box.jpg"
+    "cover": "images/psp/psp-zero-no-kiseki-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素角色漫步克洛斯贝尔街区"
   },
   {
     "id": "psp-ys-oath-in-felghana",
@@ -412,7 +430,9 @@
       "images/psp/psp-ys-oath-in-felghana-x1.png",
       "images/psp/psp-ys-oath-in-felghana-title.png"
     ],
-    "cover": "images/psp/psp-ys-oath-in-felghana-box.jpg"
+    "cover": "images/psp/psp-ys-oath-in-felghana-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素角色动作RPG，有村庄"
   },
   {
     "id": "psp-disgaea-afternoon-of-darkness",
@@ -462,7 +482,9 @@
       "images/psp/psp-disgaea-afternoon-of-darkness-x1.png",
       "images/psp/psp-disgaea-afternoon-of-darkness-title.png"
     ],
-    "cover": "images/psp/psp-disgaea-afternoon-of-darkness-box.jpg"
+    "cover": "images/psp/psp-disgaea-afternoon-of-darkness-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "像素战棋，据点城堡可走动"
   },
   {
     "id": "psp-patapon",
@@ -512,7 +534,9 @@
       "images/psp/psp-patapon-s2.png",
       "images/psp/psp-patapon-title.png"
     ],
-    "cover": "images/psp/psp-patapon-box.jpg"
+    "cover": "images/psp/psp-patapon-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "2D剪影节奏策略，风格完全不同"
   },
   {
     "id": "psp-lumines",
@@ -561,7 +585,9 @@
       "images/psp/psp-lumines-s1.png",
       "images/psp/psp-lumines-s2.png"
     ],
-    "cover": "images/psp/psp-lumines-box.jpg"
+    "cover": "images/psp/psp-lumines-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "音乐方块解谜"
   },
   {
     "id": "psp-persona-3-portable",
@@ -605,7 +631,9 @@
       "images/psp/psp-persona-3-portable-s1.png",
       "images/psp/psp-persona-3-portable-title.png"
     ],
-    "cover": "images/psp/psp-persona-3-portable-box.jpg"
+    "cover": "images/psp/psp-persona-3-portable-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "3D迷宫与点选式校园"
   },
   {
     "id": "psp-locoroco",
@@ -655,7 +683,9 @@
       "images/psp/psp-locoroco-s2.png",
       "images/psp/psp-locoroco-title.png"
     ],
-    "cover": "images/psp/psp-locoroco-box.jpg"
+    "cover": "images/psp/psp-locoroco-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "2D平涂风平台跳跃，非像素RPG"
   },
   {
     "id": "psp-ys-i-ii-chronicles",
@@ -696,7 +726,9 @@
       "images/psp/psp-ys-i-ii-chronicles-x2.jpg",
       "images/psp/psp-ys-i-ii-chronicles-title.png"
     ],
-    "cover": "images/psp/psp-ys-i-ii-chronicles-box.jpg"
+    "cover": "images/psp/psp-ys-i-ii-chronicles-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "经典俯视角像素ARPG，村庄商店齐全"
   },
   {
     "id": "psp-half-minute-hero",
@@ -746,7 +778,9 @@
       "images/psp/psp-half-minute-hero-x1.png",
       "images/psp/psp-half-minute-hero-title.png"
     ],
-    "cover": "images/psp/psp-half-minute-hero-box.jpg"
+    "cover": "images/psp/psp-half-minute-hero-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角8bit像素，大地图与城镇"
   },
   {
     "id": "psp-monster-hunter-p2g",
@@ -790,7 +824,9 @@
       "images/psp/psp-monster-hunter-p2g-s1.png",
       "images/psp/psp-monster-hunter-p2g-x1.png"
     ],
-    "cover": "images/psp/psp-monster-hunter-p2g-box.jpg"
+    "cover": "images/psp/psp-monster-hunter-p2g-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "3D动作狩猎"
   },
   {
     "id": "psp-kingdom-hearts-bbs",
@@ -839,7 +875,61 @@
       "images/psp/psp-kingdom-hearts-bbs-s1.png",
       "images/psp/psp-kingdom-hearts-bbs-title.png"
     ],
-    "cover": "images/psp/psp-kingdom-hearts-bbs-box.jpg"
+    "cover": "images/psp/psp-kingdom-hearts-bbs-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "3D动作RPG"
+  },
+  {
+    "id": "psp-tales-of-eternia",
+    "title": "Tales of Eternia",
+    "titleZh": "永恒传说",
+    "titleJa": "テイルズ オブ エターニア",
+    "year": 2005,
+    "developer": "Namco Tales Studio",
+    "publisher": "Namco",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "即时战斗",
+      "双子世界",
+      "传说系列"
+    ],
+    "players": "1-4",
+    "tagline": "双子星之间的像素传说",
+    "description": "猎人少年里德在海边救起了一位语言不通的神秘少女梅尔迪，从此与青梅竹马的法拉一起，卷入了两个面对面相望的世界——英弗里亚与塞雷斯泰利亚——即将相撞的危机。2000年PS版《永恒传说》被许多玩家视为2D传说系列的巅峰，PSP版则把它完整装进了掌机。\n\n俯视角的城镇与大地图上，高精度像素小人走街串巷，商店、旅馆、各种小游戏一应俱全；战斗切换到横版“线性动作战斗系统”，连击、秘奥义爽快无比。晶灵召唤、料理系统、语言学习等细节，让这个世界生动又温馨。\n\nPSP版读盘更快、画面适配宽屏，是重温这部经典最舒服的方式。猪口英明式的少年冒险，配上樱庭统的音乐，今天玩来依旧让人心潮澎湃。",
+    "highlights": [
+      "俯视角像素城镇与大地图",
+      "横版即时连击战斗",
+      "两个面对面世界的宏大设定",
+      "PSP版读盘更快、支持宽屏"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "33/40",
+        "quote": "PSP移植忠实完整，名作魅力不减"
+      },
+      {
+        "source": "Metacritic",
+        "score": "82/100",
+        "quote": "欧版PSP移植获得普遍好评"
+      },
+      {
+        "source": "PALGN",
+        "score": "9/10",
+        "quote": "2D日式RPG的典范之作"
+      }
+    ],
+    "editorScore": 8.8,
+    "is2D": true,
+    "screenshots": [
+      "images/psp/psp-tales-of-eternia-s1.png",
+      "images/psp/psp-tales-of-eternia-s2.png",
+      "images/psp/psp-tales-of-eternia-title.png"
+    ],
+    "cover": "images/psp/psp-tales-of-eternia-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素城镇与大地图，自由探索"
   },
   {
     "id": "psp-ff4-complete-collection",
@@ -884,7 +974,9 @@
       "images/psp/psp-ff4-complete-collection-s2.png",
       "images/psp/psp-ff4-complete-collection-title.png"
     ],
-    "cover": "images/psp/psp-ff4-complete-collection-box.jpg"
+    "cover": "images/psp/psp-ff4-complete-collection-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素JRPG，城镇村落经典"
   },
   {
     "id": "psp-jeanne-darc",
@@ -934,7 +1026,9 @@
       "images/psp/psp-jeanne-darc-s2.png",
       "images/psp/psp-jeanne-darc-title.png"
     ],
-    "cover": "images/psp/psp-jeanne-darc-box.jpg"
+    "cover": "images/psp/psp-jeanne-darc-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "3D战棋"
   },
   {
     "id": "psp-trails-in-the-sky-3rd",
@@ -980,7 +1074,9 @@
       "images/psp/psp-trails-in-the-sky-3rd-x2.jpg",
       "images/psp/psp-trails-in-the-sky-3rd-title.png"
     ],
-    "cover": "images/psp/psp-trails-in-the-sky-3rd-box.jpg"
+    "cover": "images/psp/psp-trails-in-the-sky-3rd-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "像素角色但以迷宫攻略为主，城镇少"
   },
   {
     "id": "psp-lunar-silver-star-harmony",
@@ -1027,9 +1123,13 @@
     "is2D": true,
     "screenshots": [
       "images/psp/psp-lunar-silver-star-harmony-s1.png",
+      "images/psp/psp-lunar-silver-star-harmony-x1.png",
+      "images/psp/psp-lunar-silver-star-harmony-x2.png",
       "images/psp/psp-lunar-silver-star-harmony-title.png"
     ],
-    "cover": "images/psp/psp-lunar-silver-star-harmony-box.jpg"
+    "cover": "images/psp/psp-lunar-silver-star-harmony-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角高精度像素，城镇自由探索"
   },
   {
     "id": "psp-sfa3-max",
@@ -1075,7 +1175,9 @@
       "images/psp/psp-sfa3-max-x2.png",
       "images/psp/psp-sfa3-max-x3.png"
     ],
-    "cover": "images/psp/psp-sfa3-max-box.jpg"
+    "cover": "images/psp/psp-sfa3-max-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "2D格斗"
   },
   {
     "id": "psp-gradius-collection",
@@ -1114,7 +1216,61 @@
       "images/psp/psp-gradius-collection-s1.png",
       "images/psp/psp-gradius-collection-x1.png"
     ],
-    "cover": "images/psp/psp-gradius-collection-box.jpg"
+    "cover": "images/psp/psp-gradius-collection-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "横版射击"
+  },
+  {
+    "id": "psp-star-ocean-second-evolution",
+    "title": "Star Ocean: Second Evolution",
+    "titleZh": "星之海洋2 Second Evolution",
+    "titleJa": "スターオーシャン2 Second Evolution",
+    "year": 2008,
+    "developer": "tri-Ace / TOSE",
+    "publisher": "Square Enix",
+    "genre": "角色扮演",
+    "tags": [
+      "像素角色",
+      "预渲染背景",
+      "私人行动",
+      "多结局"
+    ],
+    "players": "1",
+    "tagline": "八十余种结局的星海名作",
+    "description": "联邦军舰长之子克罗德意外被传送到未开化星球“艾克斯皮尔”，被当地少女蕾娜当成了传说中的“光之勇者”。1998年PS版《星之海洋2》是系列最受爱戴的作品，PSP版Second Evolution为它加上了新动画、重录语音与新角色。\n\n像素角色在精美的预渲染背景中穿梭，城镇里随处可以触发“私人行动”，与同伴培养感情，最终组合出多达八十余种结局。即时战斗爽快流畅，“专长”系统让炼金、料理、作曲甚至写书都成了乐趣；更有角色可以选择克罗德或蕾娜两种视角开局。\n\n刷技能、刷装备、挑战隐藏迷宫，这是一部可以玩上几百小时的老派JRPG。",
+    "highlights": [
+      "像素角色配预渲染城镇场景",
+      "“私人行动”触发八十余种结局",
+      "双主角视角开局",
+      "深度的专长与道具合成系统"
+    ],
+    "reviews": [
+      {
+        "source": "Metacritic",
+        "score": "75/100",
+        "quote": "PSP重制保留了原作魅力"
+      },
+      {
+        "source": "IGN",
+        "score": "8/10",
+        "quote": "原作精华完整呈现，新增动画锦上添花"
+      },
+      {
+        "source": "GameSpot",
+        "score": "7.5/10",
+        "quote": "依旧好玩的经典，但部分系统显得老旧"
+      }
+    ],
+    "editorScore": 8.5,
+    "is2D": true,
+    "screenshots": [
+      "images/psp/psp-star-ocean-second-evolution-s1.png",
+      "images/psp/psp-star-ocean-second-evolution-x1.jpg",
+      "images/psp/psp-star-ocean-second-evolution-x2.jpg"
+    ],
+    "cover": "images/psp/psp-star-ocean-second-evolution-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "像素角色在预渲染城镇中自由走动"
   },
   {
     "id": "psp-breath-of-fire-3",
@@ -1159,7 +1315,9 @@
       "images/psp/psp-breath-of-fire-3-s2.png",
       "images/psp/psp-breath-of-fire-3-title.png"
     ],
-    "cover": "images/psp/psp-breath-of-fire-3-box.jpg"
+    "cover": "images/psp/psp-breath-of-fire-3-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "斜俯视角像素小人，村庄城镇丰富"
   },
   {
     "id": "psp-darkstalkers-chronicle",
@@ -1208,7 +1366,56 @@
       "images/psp/psp-darkstalkers-chronicle-s1.png",
       "images/psp/psp-darkstalkers-chronicle-title.png"
     ],
-    "cover": "images/psp/psp-darkstalkers-chronicle-box.jpg"
+    "cover": "images/psp/psp-darkstalkers-chronicle-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "2D格斗"
+  },
+  {
+    "id": "psp-tales-of-phantasia-fve",
+    "title": "Tales of Phantasia: Full Voice Edition",
+    "titleZh": "幻想传说 全语音版",
+    "titleJa": "テイルズ オブ ファンタジア フルボイスエディション",
+    "year": 2006,
+    "developer": "Namco Tales Studio",
+    "publisher": "Namco",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "即时战斗",
+      "全语音",
+      "传说系列"
+    ],
+    "players": "1-4",
+    "tagline": "传说系列的原点，这次全员开口",
+    "description": "1995年SFC上的《幻想传说》开创了“传说”系列，也以开场主题曲与即时动作战斗震撼了当年的玩家。剑士克雷斯为了替被杀害的家人报仇，与伙伴们穿越时空，从过去到未来，追击魔王达奥斯。PSP版以1998年PS版为基础，最大的卖点是剧情对话实现了全语音。\n\n俯视角像素城镇与大地图充满了九十年代日式RPG的经典味道：商店、旅馆、隐藏道具、迷宫机关一应俱全。战斗切换为横版即时动作，组合技与魔法吟唱节奏明快；料理系统、称号收集与隐藏迷宫，都让旅途更加耐玩。\n\n藤岛康介的角色设计、樱庭统的配乐，加上如今的全语音演出，让这部经典在掌机上焕发了新的生命。",
+    "highlights": [
+      "俯视角像素城镇与大地图",
+      "横版即时动作战斗",
+      "剧情对话全语音化",
+      "跨越时空的经典王道剧本"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "29/40",
+        "quote": "PS版原作重制完成度高，PSP版以其为基础并新增全语音"
+      },
+      {
+        "source": "RPGFan",
+        "score": "90%",
+        "quote": "PS版被誉为最完整的幻想传说版本"
+      }
+    ],
+    "editorScore": 8.4,
+    "is2D": true,
+    "screenshots": [
+      "images/psp/psp-tales-of-phantasia-fve-s1.png",
+      "images/psp/psp-tales-of-phantasia-fve-x1.png",
+      "images/psp/psp-tales-of-phantasia-fve-title.png"
+    ],
+    "cover": "images/psp/psp-tales-of-phantasia-fve-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素城镇与大地图自由探索"
   },
   {
     "id": "psp-exit",
@@ -1259,7 +1466,9 @@
       "images/psp/psp-exit-x2.png",
       "images/psp/psp-exit-x3.png"
     ],
-    "cover": "images/psp/psp-exit-box.jpg"
+    "cover": "images/psp/psp-exit-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "2D动作解谜，非RPG"
   },
   {
     "id": "psp-metal-slug-anthology",
@@ -1304,7 +1513,9 @@
       "images/psp/psp-metal-slug-anthology-x1.png",
       "images/psp/psp-metal-slug-anthology-title.png"
     ],
-    "cover": "images/psp/psp-metal-slug-anthology-box.jpg"
+    "cover": "images/psp/psp-metal-slug-anthology-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "横版射击"
   },
   {
     "id": "psp-mega-man-maverick-hunter-x",
@@ -1354,7 +1565,51 @@
       "images/psp/psp-mega-man-maverick-hunter-x-s2.png",
       "images/psp/psp-mega-man-maverick-hunter-x-title.png"
     ],
-    "cover": "images/psp/psp-mega-man-maverick-hunter-x-box.jpg"
+    "cover": "images/psp/psp-mega-man-maverick-hunter-x-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "2.5D多边形横版动作"
+  },
+  {
+    "id": "psp-tengai-makyou-4",
+    "title": "Tengai Makyou: Daiyon no Mokushiroku",
+    "titleZh": "天外魔境 第四默示录",
+    "titleJa": "天外魔境 第四の黙示録",
+    "year": 2006,
+    "developer": "Hudson Soft / Red Company",
+    "publisher": "Hudson Soft",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "日版独占",
+      "美国舞台",
+      "广井王子"
+    ],
+    "players": "1",
+    "tagline": "把“伪美国”搬进天外魔境",
+    "description": "《天外魔境》系列一向以戏仿“伪日本”闻名，第四作却把舞台搬到了19世纪的“伪美国”——自由的国度“史达利亚”。少年英雄与伙伴们穿越西部荒野、大都会与奇异小镇，对抗来自地狱的“黙示录”大军。原作是1997年的世嘉土星作品，2006年移植到PSP。\n\n高精度的俯视角像素城镇色彩鲜艳，喷泉、花丛、木栅栏、长椅一应俱全，镇民们各具个性；回合制战斗配合华丽的必杀动画，广井王子式的夸张角色与幽默台词贯穿始终。\n\n本作从未推出官方中英文版，但它代表着土星时代2D像素RPG的高峰之一。PSP版画面适配宽屏，是体验这部冷门杰作的最佳方式。",
+    "highlights": [
+      "“伪美国”的奇想舞台",
+      "土星级高精度俯视角像素",
+      "广井王子式夸张角色与幽默",
+      "日版独占的冷门杰作"
+    ],
+    "reviews": [
+      {
+        "source": "Consoles+",
+        "score": "96%",
+        "quote": "1997年世嘉土星原版的声光表现获得极高赞誉"
+      }
+    ],
+    "editorScore": 8.3,
+    "is2D": true,
+    "screenshots": [
+      "images/psp/psp-tengai-makyou-4-s1.png",
+      "images/psp/psp-tengai-makyou-4-x1.png",
+      "images/psp/psp-tengai-makyou-4-title.png"
+    ],
+    "cover": "images/psp/psp-tengai-makyou-4-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角高精度像素城镇，自由漫游"
   },
   {
     "id": "psp-riviera",
@@ -1399,7 +1654,9 @@
       "images/psp/psp-riviera-s2.png",
       "images/psp/psp-riviera-title.png"
     ],
-    "cover": "images/psp/psp-riviera-box.jpg"
+    "cover": "images/psp/psp-riviera-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "像素手绘RPG，但菜单式移动无自由走动"
   },
   {
     "id": "psp-corpse-party",
@@ -1444,7 +1701,9 @@
       "images/psp/psp-corpse-party-x1.jpg",
       "images/psp/psp-corpse-party-title.png"
     ],
-    "cover": "images/psp/psp-corpse-party-box.jpg"
+    "cover": "images/psp/psp-corpse-party-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "俯视角像素探索，但为恐怖冒险无村庄"
   },
   {
     "id": "psp-star-ocean-first-departure",
@@ -1489,7 +1748,9 @@
       "images/psp/psp-star-ocean-first-departure-x1.png",
       "images/psp/psp-star-ocean-first-departure-x2.jpg"
     ],
-    "cover": "images/psp/psp-star-ocean-first-departure-box.jpg"
+    "cover": "images/psp/psp-star-ocean-first-departure-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "像素角色+预渲染背景，自由逛城镇"
   },
   {
     "id": "psp-prinny",
@@ -1539,6 +1800,184 @@
       "images/psp/psp-prinny-x1.png",
       "images/psp/psp-prinny-title.png"
     ],
-    "cover": "images/psp/psp-prinny-box.jpg"
+    "cover": "images/psp/psp-prinny-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "像素横版平台动作"
+  },
+  {
+    "id": "psp-popolocrois",
+    "title": "PoPoLoCrois",
+    "titleZh": "波波罗克洛伊斯物语",
+    "titleJa": "ポポロクロイス物語 ピエトロ王子の冒険",
+    "year": 2005,
+    "developer": "G-Artists / Sony Computer Entertainment",
+    "publisher": "Sony Computer Entertainment / Agetec",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "童话",
+      "绘本风",
+      "治愈"
+    ],
+    "players": "1",
+    "tagline": "绘本里走出来的童话王子冒险",
+    "description": "改编自田森庸介的同名绘本，《波波罗克洛伊斯物语》讲述了十岁的皮耶特罗王子在生日那天得知母亲沉睡于冰之世界，于是带着森之魔女娜西娅、白骑士等伙伴踏上冒险。PSP版将PS时代的前两作重新整合，是系列首部在海外推出的作品。\n\n斜俯视角的像素城镇与森林色彩明亮柔和，宛如一本会动的童话书；战斗采用小格子移动的回合制，兼具战棋的走位乐趣。伙伴间温柔幽默的对话、浓浓的亲情主题，让人看得心头一暖。\n\n它节奏轻快、难度友好，适合想在掌机上找一段治愈冒险的玩家。若你喜欢《圣剑传说》那种温暖的像素童话风，这部作品一定会打动你。",
+    "highlights": [
+      "绘本风高精度像素画面",
+      "格子移动的回合制战斗",
+      "亲情主题的温暖童话",
+      "系列首部海外发行作品"
+    ],
+    "reviews": [
+      {
+        "source": "RPGFan",
+        "score": "73%",
+        "quote": "温暖可爱的童话RPG，但系统略显简单"
+      }
+    ],
+    "editorScore": 8.0,
+    "is2D": true,
+    "screenshots": [
+      "images/psp/psp-popolocrois-s1.png",
+      "images/psp/psp-popolocrois-x1.png"
+    ],
+    "cover": "images/psp/psp-popolocrois-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "斜俯视角明亮像素城镇与森林"
+  },
+  {
+    "id": "psp-ff2-anniversary",
+    "title": "Final Fantasy II: 20th Anniversary Edition",
+    "titleZh": "最终幻想II 20周年纪念版",
+    "titleJa": "ファイナルファンタジーII",
+    "year": 2007,
+    "developer": "Square Enix",
+    "publisher": "Square Enix",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "熟练度成长",
+      "反抗军",
+      "复刻"
+    ],
+    "players": "1",
+    "tagline": "熟练度成长的异色FF",
+    "description": "帕拉美西亚帝国入侵，四名失去家园的年轻人加入了希尔达公主的反抗军——1988年的《最终幻想II》以“野蔷薇”口令、战友接连牺牲的悲剧叙事，为系列奠定了戏剧化的基调。PSP的20周年纪念版以GBA版为基础，全面重绘了高精度像素画面。\n\n本作没有经验值，角色能力随“用什么练什么”而成长：挥剑越多力量越高，挨打越多HP越高，这种实验性的熟练度系统至今仍被津津乐道。城镇、地下城、飞空艇等元素都在这一作首次登场。\n\nPSP版收录GBA版的追加剧情“灵魂再生”，以及天野喜孝插画画廊。像素城镇与大地图的经典俯视角结构，是体验FF起源的好选择。",
+    "highlights": [
+      "高精度重绘的俯视角像素画面",
+      "独特的熟练度成长系统",
+      "追加剧情“灵魂再生”",
+      "天野喜孝插画画廊"
+    ],
+    "reviews": [
+      {
+        "source": "Metacritic",
+        "score": "63/100",
+        "quote": "画面精美，但老派系统让部分媒体评价保守"
+      },
+      {
+        "source": "GameSpot",
+        "score": "6/10",
+        "quote": "画面出色，熟练度系统依旧争议"
+      }
+    ],
+    "editorScore": 7.8,
+    "is2D": true,
+    "screenshots": [
+      "images/psp/psp-ff2-anniversary-s1.png",
+      "images/psp/psp-ff2-anniversary-s2.png",
+      "images/psp/psp-ff2-anniversary-s3.png",
+      "images/psp/psp-ff2-anniversary-title.png"
+    ],
+    "cover": "images/psp/psp-ff2-anniversary-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角高精度像素，城镇与大地图"
+  },
+  {
+    "id": "psp-tales-of-phantasia-narikiri-x",
+    "title": "Tales of Phantasia: Narikiri Dungeon X",
+    "titleZh": "幻想传说 换装迷宫X",
+    "titleJa": "テイルズ オブ ファンタジア なりきりダンジョンX",
+    "year": 2010,
+    "developer": "Namco Tales Studio / Alfa System",
+    "publisher": "Namco Bandai Games",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "换装职业",
+      "日版独占",
+      "传说系列"
+    ],
+    "players": "1-4",
+    "tagline": "换装就能换职业的幻想传说外传",
+    "description": "原本是GBC上的外传作品，PSP版进行了全面重制。双胞胎迪欧与梅尔被卷入时空之旅，在《幻想传说》的世界中与克雷斯一行交错。招牌系统“换装”让角色穿上不同服装即可转职，剑士、魔导士、厨师、偶像……几十种服装对应着完全不同的技能与战斗风格。\n\n大地图与城镇以俯视角呈现，战斗则采用传说系列的横版即时动作系统，画面更加精致。最值得一提的是，本作同时收录了以新画面与新系统重制的《幻想传说 X版》（Cross Edition），一张UMD就能体验两部作品。\n\n本作从未推出海外版，但民间汉化让它在华语圈颇有名气。如果你已经玩遍了幻想传说本篇，这部外传是很好的延伸。",
+    "highlights": [
+      "换装即转职的“なりきり”系统",
+      "几十种服装职业搭配",
+      "同捆重制版《幻想传说 X版》",
+      "传说系列横版即时战斗"
+    ],
+    "reviews": [],
+    "editorScore": 7.8,
+    "is2D": true,
+    "screenshots": [
+      "images/psp/psp-tales-of-phantasia-narikiri-x-s1.png",
+      "images/psp/psp-tales-of-phantasia-narikiri-x-x1.jpg",
+      "images/psp/psp-tales-of-phantasia-narikiri-x-title.jpg"
+    ],
+    "cover": "images/psp/psp-tales-of-phantasia-narikiri-x-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角城镇与大地图，横版即时战斗"
+  },
+  {
+    "id": "psp-crimson-gem-saga",
+    "title": "Crimson Gem Saga",
+    "titleZh": "深红宝石传说",
+    "titleJa": "",
+    "year": 2008,
+    "developer": "IronNos / Sonnori",
+    "publisher": "Atlus / Mobius",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "回合制",
+      "韩国RPG",
+      "手绘"
+    ],
+    "players": "1",
+    "tagline": "韩国团队打造的高精度像素回合制RPG",
+    "description": "《深红宝石传说》是韩国经典《阿斯托尼西亚物语》的精神续作。刚从骑士学院毕业的少年基林，正准备迎接光明的骑士生涯，却在入职当天就被开除，只好和一群性格古怪的佣兵、盗贼与魔法师结伴，踏上追寻传说宝石的冒险。\n\n本作的高精度手绘像素十分亮眼：角色动作细腻、技能特效华丽，日式RPG风味浓厚。回合制战斗采用行动顺序条，配合可升级的技能树与武器专精，策略性不错；城镇间的探索、支线委托和幽默的英文本地化，也让人轻松愉快。\n\n遇敌偏多、难度曲线陡峭是它的缺点，但对于喜欢传统像素RPG、又想在PSP上找点冷门佳作的玩家，这颗“深红宝石”值得一挖。",
+    "highlights": [
+      "高精度手绘像素角色与特效",
+      "行动顺序条回合制战斗",
+      "技能树与武器专精养成",
+      "Atlus幽默英文本地化"
+    ],
+    "reviews": [
+      {
+        "source": "Metacritic",
+        "score": "78/100",
+        "quote": "扎实的老派像素RPG，画面获好评"
+      },
+      {
+        "source": "IGN",
+        "score": "8.4/10",
+        "quote": "美术出色、战斗有深度的传统RPG"
+      },
+      {
+        "source": "GameSpot",
+        "score": "5/10",
+        "quote": "过于传统，遇敌频繁令人疲惫"
+      }
+    ],
+    "editorScore": 7.6,
+    "is2D": true,
+    "screenshots": [
+      "images/psp/psp-crimson-gem-saga-s1.png",
+      "images/psp/psp-crimson-gem-saga-x1.jpg"
+    ],
+    "cover": "images/psp/psp-crimson-gem-saga-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "高精度像素RPG，但战斗为侧视角画面"
   }
 ]

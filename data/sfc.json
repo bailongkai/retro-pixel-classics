@@ -46,7 +46,9 @@
       "images/sfc/sfc-chrono-trigger-1.png",
       "images/sfc/sfc-chrono-trigger-title.png"
     ],
-    "cover": "images/sfc/sfc-chrono-trigger-box.jpg"
+    "cover": "images/sfc/sfc-chrono-trigger-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG，城镇村落自由漫步"
   },
   {
     "id": "sfc-final-fantasy-vi",
@@ -95,7 +97,9 @@
       "images/sfc/sfc-final-fantasy-vi-1.png",
       "images/sfc/sfc-final-fantasy-vi-title.png"
     ],
-    "cover": "images/sfc/sfc-final-fantasy-vi-box.jpg"
+    "cover": "images/sfc/sfc-final-fantasy-vi-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素城镇探索，侧视战斗"
   },
   {
     "id": "sfc-zelda-a-link-to-the-past",
@@ -144,7 +148,9 @@
       "images/sfc/sfc-zelda-a-link-to-the-past-1.png",
       "images/sfc/sfc-zelda-a-link-to-the-past-title.png"
     ],
-    "cover": "images/sfc/sfc-zelda-a-link-to-the-past-box.jpg"
+    "cover": "images/sfc/sfc-zelda-a-link-to-the-past-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角动作冒险，村庄与原野自由探索"
   },
   {
     "id": "sfc-super-metroid",
@@ -193,7 +199,9 @@
       "images/sfc/sfc-super-metroid-1.png",
       "images/sfc/sfc-super-metroid-title.png"
     ],
-    "cover": "images/sfc/sfc-super-metroid-box.jpg"
+    "cover": "images/sfc/sfc-super-metroid-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版探索动作，无城镇"
   },
   {
     "id": "sfc-seiken-densetsu-3",
@@ -242,7 +250,9 @@
       "images/sfc/sfc-seiken-densetsu-3-1.png",
       "images/sfc/sfc-seiken-densetsu-3-title.png"
     ],
-    "cover": "images/sfc/sfc-seiken-densetsu-3-box.jpg"
+    "cover": "images/sfc/sfc-seiken-densetsu-3-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素ARPG，城镇商店与原野"
   },
   {
     "id": "sfc-secret-of-mana",
@@ -291,7 +301,9 @@
       "images/sfc/sfc-secret-of-mana-1.png",
       "images/sfc/sfc-secret-of-mana-title.png"
     ],
-    "cover": "images/sfc/sfc-secret-of-mana-box.jpg"
+    "cover": "images/sfc/sfc-secret-of-mana-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素ARPG，与参考图同款气质"
   },
   {
     "id": "sfc-dragon-quest-v",
@@ -336,7 +348,9 @@
       "images/sfc/sfc-dragon-quest-v-2.png",
       "images/sfc/sfc-dragon-quest-v-title.png"
     ],
-    "cover": "images/sfc/sfc-dragon-quest-v-box.jpg"
+    "cover": "images/sfc/sfc-dragon-quest-v-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG，村庄城镇满地图"
   },
   {
     "id": "sfc-yoshis-island",
@@ -387,7 +401,9 @@
       "images/sfc/sfc-yoshis-island-1.png",
       "images/sfc/sfc-yoshis-island-title.png"
     ],
-    "cover": "images/sfc/sfc-yoshis-island-box.jpg"
+    "cover": "images/sfc/sfc-yoshis-island-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版平台跳跃，画风童趣"
   },
   {
     "id": "sfc-super-mario-world",
@@ -438,7 +454,9 @@
       "images/sfc/sfc-super-mario-world-1.png",
       "images/sfc/sfc-super-mario-world-title.png"
     ],
-    "cover": "images/sfc/sfc-super-mario-world-box.jpg"
+    "cover": "images/sfc/sfc-super-mario-world-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版平台跳跃，同代像素风"
   },
   {
     "id": "sfc-terranigma",
@@ -487,7 +505,9 @@
       "images/sfc/sfc-terranigma-1.png",
       "images/sfc/sfc-terranigma-title.png"
     ],
-    "cover": "images/sfc/sfc-terranigma-box.jpg"
+    "cover": "images/sfc/sfc-terranigma-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素ARPG，村庄成长与探索"
   },
   {
     "id": "sfc-tactics-ogre",
@@ -533,7 +553,9 @@
       "images/sfc/sfc-tactics-ogre-1.png",
       "images/sfc/sfc-tactics-ogre-title.png"
     ],
-    "cover": "images/sfc/sfc-tactics-ogre-box.jpg"
+    "cover": "images/sfc/sfc-tactics-ogre-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "斜45度战棋地图，无自由城镇漫步"
   },
   {
     "id": "sfc-earthbound",
@@ -582,7 +604,9 @@
       "images/sfc/sfc-earthbound-u-s1.png",
       "images/sfc/sfc-earthbound-title.png"
     ],
-    "cover": "images/sfc/sfc-earthbound-box.jpg"
+    "cover": "images/sfc/sfc-earthbound-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "斜俯视角像素RPG，现代小镇风格"
   },
   {
     "id": "sfc-final-fantasy-iv",
@@ -631,7 +655,9 @@
       "images/sfc/sfc-final-fantasy-iv-x1.png",
       "images/sfc/sfc-final-fantasy-iv-title.png"
     ],
-    "cover": "images/sfc/sfc-final-fantasy-iv-box.jpg"
+    "cover": "images/sfc/sfc-final-fantasy-iv-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素城镇与世界地图"
   },
   {
     "id": "sfc-fire-emblem-genealogy",
@@ -670,7 +696,9 @@
       "images/sfc/sfc-fire-emblem-genealogy-1.png",
       "images/sfc/sfc-fire-emblem-genealogy-title.png"
     ],
-    "cover": "images/sfc/sfc-fire-emblem-genealogy-box.jpg"
+    "cover": "images/sfc/sfc-fire-emblem-genealogy-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "俯视战棋地图，城池而非可逛村庄"
   },
   {
     "id": "sfc-final-fantasy-v",
@@ -709,7 +737,51 @@
       "images/sfc/sfc-final-fantasy-v-x1.png",
       "images/sfc/sfc-final-fantasy-v-title.png"
     ],
-    "cover": "images/sfc/sfc-final-fantasy-v-box.jpg"
+    "cover": "images/sfc/sfc-final-fantasy-v-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素城镇探索，职业RPG"
+  },
+  {
+    "id": "sfc-dragon-quest-iii",
+    "title": "Dragon Quest III: The Seeds of Salvation",
+    "titleZh": "勇者斗恶龙3（SFC重制版）",
+    "titleJa": "ドラゴンクエストIII そして伝説へ…",
+    "year": 1996,
+    "developer": "Heartbeat",
+    "publisher": "Enix",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "转职",
+      "重制"
+    ],
+    "players": "1",
+    "tagline": "传说之作的16位华丽重生",
+    "description": "日本RPG史上最具传奇色彩的作品之一，在SFC上完美重生！主人公是勇者奥尔特加之子，从阿里阿罕出发，在酒馆里召集战士、魔法使、僧侣等伙伴，踏上讨伐大魔王巴拉莫斯的征程。\n\nSFC版全面重绘了画面，城镇细节丰富，战斗中加入了怪物动画；新增“性格”系统影响能力成长，“盗贼”职业与“小徽章”收集、隐藏迷宫等内容让体量大大增加。昼夜系统与世界地图的探索依旧魅力十足。\n\n“勇者洛特传说”的终极谜底就在这里揭晓。经典中的经典，值得每一位RPG玩家亲身体验。",
+    "highlights": [
+      "转职与自由组队",
+      "新增性格系统与盗贼职业",
+      "昼夜变化的世界探索",
+      "洛特三部曲终章"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "36/40",
+        "quote": "SFC版获9、8、10、9，荣登白金殿堂"
+      }
+    ],
+    "editorScore": 9.2,
+    "is2D": true,
+    "screenshots": [
+      "images/sfc/sfc-dragon-quest-iii-s1.png",
+      "images/sfc/sfc-dragon-quest-iii-x1.jpg",
+      "images/sfc/sfc-dragon-quest-iii-x2.jpg",
+      "images/sfc/sfc-dragon-quest-iii-title.png"
+    ],
+    "cover": "images/sfc/sfc-dragon-quest-iii-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG，城镇与世界地图"
   },
   {
     "id": "sfc-live-a-live",
@@ -758,7 +830,9 @@
       "images/sfc/sfc-live-a-live-x1.png",
       "images/sfc/sfc-live-a-live-title.png"
     ],
-    "cover": "images/sfc/sfc-live-a-live-box.jpg"
+    "cover": "images/sfc/sfc-live-a-live-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG，多时代村镇场景"
   },
   {
     "id": "sfc-mega-man-x",
@@ -807,7 +881,9 @@
       "images/sfc/sfc-mega-man-x-1.png",
       "images/sfc/sfc-mega-man-x-title.png"
     ],
-    "cover": "images/sfc/sfc-mega-man-x-box.jpg"
+    "cover": "images/sfc/sfc-mega-man-x-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版动作射击，同代像素风"
   },
   {
     "id": "sfc-fire-emblem-thracia-776",
@@ -846,7 +922,9 @@
       "images/sfc/sfc-fire-emblem-thracia-776-s3.png",
       "images/sfc/sfc-fire-emblem-thracia-776-title.png"
     ],
-    "cover": "images/sfc/sfc-fire-emblem-thracia-776-box.jpg"
+    "cover": "images/sfc/sfc-fire-emblem-thracia-776-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "俯视战棋地图，以关卡战斗为主"
   },
   {
     "id": "sfc-donkey-kong-country",
@@ -895,7 +973,51 @@
       "images/sfc/sfc-donkey-kong-country-x1.png",
       "images/sfc/sfc-donkey-kong-country-title.png"
     ],
-    "cover": "images/sfc/sfc-donkey-kong-country-box.jpg"
+    "cover": "images/sfc/sfc-donkey-kong-country-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版平台，预渲染画面"
+  },
+  {
+    "id": "sfc-shiren-the-wanderer",
+    "title": "Mystery Dungeon 2: Shiren the Wanderer",
+    "titleZh": "风来的西林",
+    "titleJa": "不思議のダンジョン2 風来のシレン",
+    "year": 1995,
+    "developer": "Chunsoft",
+    "publisher": "Chunsoft",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "Roguelike",
+      "和风"
+    ],
+    "players": "1",
+    "tagline": "每一次冒险都是全新的和风迷宫",
+    "description": "头戴斗笠的流浪者西林与会说话的白鼬阔帕，为了寻找传说中的“黄金之城”，踏上了一条充满宿场町与随机迷宫的山路。这就是Fami通给出38分高分的《风来的西林》！\n\n每次进入，地形、道具和怪物都会随机生成，死亡则会失去全部装备从头再来。看似残酷，但道具之间千变万化的组合、旅途中村镇里的人情故事，让人一次次心甘情愿地重新出发。俯视角的和风像素画面朴素而有味道。\n\n这是日式Roguelike的巅峰之作，至今仍有大量玩家挑战“最终问题”迷宫。准备好饭团，出发吧！",
+    "highlights": [
+      "随机生成的迷宫与道具",
+      "死亡即从头再来的紧张感",
+      "沿途和风宿场町与人情故事",
+      "超高难度的隐藏迷宫"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "38/40",
+        "quote": "四位编辑给出9、9、10、10，获白金殿堂"
+      }
+    ],
+    "editorScore": 9.1,
+    "is2D": true,
+    "screenshots": [
+      "images/sfc/sfc-shiren-the-wanderer-s1.png",
+      "images/sfc/sfc-shiren-the-wanderer-s2.png",
+      "images/sfc/sfc-shiren-the-wanderer-s3.png",
+      "images/sfc/sfc-shiren-the-wanderer-title.png"
+    ],
+    "cover": "images/sfc/sfc-shiren-the-wanderer-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素和风RPG，途经村镇"
   },
   {
     "id": "sfc-romancing-saga-3",
@@ -935,7 +1057,9 @@
       "images/sfc/sfc-romancing-saga-3-1.jpg",
       "images/sfc/sfc-romancing-saga-3-title.png"
     ],
-    "cover": "images/sfc/sfc-romancing-saga-3-box.jpg"
+    "cover": "images/sfc/sfc-romancing-saga-3-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素城镇自由冒险"
   },
   {
     "id": "sfc-donkey-kong-country-2",
@@ -986,7 +1110,9 @@
       "images/sfc/sfc-donkey-kong-country-2-1.png",
       "images/sfc/sfc-donkey-kong-country-2-title.png"
     ],
-    "cover": "images/sfc/sfc-donkey-kong-country-2-box.jpg"
+    "cover": "images/sfc/sfc-donkey-kong-country-2-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版平台，预渲染画面"
   },
   {
     "id": "sfc-ogre-battle",
@@ -1037,7 +1163,9 @@
       "images/sfc/sfc-ogre-battle-u-s2.png",
       "images/sfc/sfc-ogre-battle-title.png"
     ],
-    "cover": "images/sfc/sfc-ogre-battle-box.jpg"
+    "cover": "images/sfc/sfc-ogre-battle-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "俯视大地图部队调度，非角色漫步"
   },
   {
     "id": "sfc-dragon-quest-vi",
@@ -1076,7 +1204,61 @@
       "images/sfc/sfc-dragon-quest-vi-x1.png",
       "images/sfc/sfc-dragon-quest-vi-title.png"
     ],
-    "cover": "images/sfc/sfc-dragon-quest-vi-box.jpg"
+    "cover": "images/sfc/sfc-dragon-quest-vi-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG，城镇村落丰富"
+  },
+  {
+    "id": "sfc-lufia-ii",
+    "title": "Lufia II: Rise of the Sinistrals",
+    "titleZh": "古大陆物语2",
+    "titleJa": "エストポリス伝記II",
+    "year": 1995,
+    "developer": "Neverland",
+    "publisher": "Taito",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "迷宫解谜",
+      "古代迷宫"
+    ],
+    "players": "1",
+    "tagline": "解谜迷宫与热血剧情的双重盛宴",
+    "description": "在国内，它有个响亮的名字——《古大陆物语2》！本作讲述百年前的英雄马克西姆与“四狂神”之间的宿命对决，是前作《古大陆物语》的前传。\n\n本作最大的特色是迷宫中的大量解谜：主角可以用弓箭、钩爪、炸弹等道具推动方块、点燃火炬、开启机关，几乎每个迷宫都像一座塞尔达式的谜题屋。此外还有一百层的“古代迷宫”随机地牢、可以捕获培养的“卡普怪物”，内容量惊人。\n\n俯视角的村庄与城镇色彩明快，人物生动，结局更是催人泪下。SFC RPG爱好者绝不能错过的佳作！",
+    "highlights": [
+      "塞尔达式道具解谜迷宫",
+      "百层随机“古代迷宫”",
+      "可培养的卡普怪物",
+      "感人至深的结局"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "30/40",
+        "quote": "编辑肯定其迷宫解谜的巧思"
+      },
+      {
+        "source": "GameRankings",
+        "score": "80%",
+        "quote": "综合媒体评分"
+      },
+      {
+        "source": "Nintendo Life",
+        "score": "9/10",
+        "quote": "称其为SNES上被低估的RPG佳作"
+      }
+    ],
+    "editorScore": 9.0,
+    "is2D": true,
+    "screenshots": [
+      "images/sfc/sfc-lufia-ii-s1.png",
+      "images/sfc/sfc-lufia-ii-x1.jpg",
+      "images/sfc/sfc-lufia-ii-x2.jpg",
+      "images/sfc/sfc-lufia-ii-title.png"
+    ],
+    "cover": "images/sfc/sfc-lufia-ii-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG，村镇与解谜迷宫"
   },
   {
     "id": "sfc-super-castlevania-iv",
@@ -1128,7 +1310,9 @@
       "images/sfc/sfc-super-castlevania-iv-1.png",
       "images/sfc/sfc-super-castlevania-iv-title.png"
     ],
-    "cover": "images/sfc/sfc-super-castlevania-iv-box.jpg"
+    "cover": "images/sfc/sfc-super-castlevania-iv-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版动作，哥特像素风"
   },
   {
     "id": "sfc-kirby-super-star",
@@ -1179,7 +1363,9 @@
       "images/sfc/sfc-kirby-super-star-u-s3.png",
       "images/sfc/sfc-kirby-super-star-title.png"
     ],
-    "cover": "images/sfc/sfc-kirby-super-star-box.jpg"
+    "cover": "images/sfc/sfc-kirby-super-star-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版平台动作，可爱像素风"
   },
   {
     "id": "sfc-super-mario-kart",
@@ -1229,7 +1415,9 @@
       "images/sfc/sfc-super-mario-kart-s3.png",
       "images/sfc/sfc-super-mario-kart-title.png"
     ],
-    "cover": "images/sfc/sfc-super-mario-kart-box.jpg"
+    "cover": "images/sfc/sfc-super-mario-kart-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "Mode 7伪3D赛车"
   },
   {
     "id": "sfc-contra-iii",
@@ -1273,7 +1461,9 @@
       "images/sfc/sfc-contra-iii-s2.png",
       "images/sfc/sfc-contra-iii-title.png"
     ],
-    "cover": "images/sfc/sfc-contra-iii-box.jpg"
+    "cover": "images/sfc/sfc-contra-iii-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "横版射击游戏，风格不同"
   },
   {
     "id": "sfc-street-fighter-ii-turbo",
@@ -1322,7 +1512,9 @@
       "images/sfc/sfc-street-fighter-ii-turbo-1.png",
       "images/sfc/sfc-street-fighter-ii-turbo-title.png"
     ],
-    "cover": "images/sfc/sfc-street-fighter-ii-turbo-box.jpg"
+    "cover": "images/sfc/sfc-street-fighter-ii-turbo-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "对战格斗游戏"
   },
   {
     "id": "sfc-romancing-saga-2",
@@ -1355,7 +1547,9 @@
       "images/sfc/sfc-romancing-saga-2-x1.jpg",
       "images/sfc/sfc-romancing-saga-2-title.png"
     ],
-    "cover": "images/sfc/sfc-romancing-saga-2-box.jpg"
+    "cover": "images/sfc/sfc-romancing-saga-2-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素城镇，帝国传承RPG"
   },
   {
     "id": "sfc-super-ghouls-n-ghosts",
@@ -1406,7 +1600,9 @@
       "images/sfc/sfc-super-ghouls-n-ghosts-u-s1.png",
       "images/sfc/sfc-super-ghouls-n-ghosts-title.png"
     ],
-    "cover": "images/sfc/sfc-super-ghouls-n-ghosts-box.jpg"
+    "cover": "images/sfc/sfc-super-ghouls-n-ghosts-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版动作，同代像素风"
   },
   {
     "id": "sfc-front-mission",
@@ -1447,9 +1643,13 @@
     "is2D": true,
     "screenshots": [
       "images/sfc/sfc-front-mission-s1.png",
+      "images/sfc/sfc-front-mission-x1.jpg",
+      "images/sfc/sfc-front-mission-x2.jpg",
       "images/sfc/sfc-front-mission-title.png"
     ],
-    "cover": "images/sfc/sfc-front-mission-box.jpg"
+    "cover": "images/sfc/sfc-front-mission-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "机甲战棋，城镇仅为菜单画面"
   },
   {
     "id": "sfc-demons-crest",
@@ -1500,7 +1700,156 @@
       "images/sfc/sfc-demons-crest-u-s1.png",
       "images/sfc/sfc-demons-crest-title.png"
     ],
-    "cover": "images/sfc/sfc-demons-crest-box.jpg"
+    "cover": "images/sfc/sfc-demons-crest-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版动作探索，无村庄商店"
+  },
+  {
+    "id": "sfc-soul-blazer",
+    "title": "Soul Blazer",
+    "titleZh": "灵魂之剑",
+    "titleJa": "ソウルブレイダー",
+    "year": 1992,
+    "developer": "Quintet",
+    "publisher": "Enix",
+    "genre": "动作角色扮演",
+    "tags": [
+      "像素",
+      "复苏世界",
+      "封印怪物"
+    ],
+    "players": "1",
+    "tagline": "每击败一群怪物，就唤醒一个生命",
+    "description": "Quintet“天地三部曲”的第一作！神派遣的战士降临到被魔王吞噬的大地，每消灭一处怪物巢穴，就能解放一个被封印的灵魂——可能是村民、动物，甚至一朵花或一张桌子。\n\n随着你不断战斗，荒芜的村庄逐渐重新热闹起来，村民们会给你提示与道具，这种“亲手复兴世界”的成就感独一无二。俯视角的动作战斗简洁爽快，与会说话的花草动物交流也充满童话趣味。\n\n喜欢《盖亚幻想纪》《天地创造》的朋友，一定要回来看看这部充满温情的开山之作。",
+    "highlights": [
+      "消灭怪物巢穴解放灵魂",
+      "村庄随进度逐步复苏",
+      "与动植物对话的童话趣味",
+      "Quintet三部曲开篇"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "32/40",
+        "quote": "编辑给出8、9、9、6，称赞其独特的复苏系统"
+      },
+      {
+        "source": "EGM",
+        "score": "33/40",
+        "quote": "评测组肯定其爽快的动作玩法"
+      },
+      {
+        "source": "GameRankings",
+        "score": "86%",
+        "quote": "综合媒体评分"
+      }
+    ],
+    "editorScore": 8.8,
+    "is2D": true,
+    "screenshots": [
+      "images/sfc/sfc-soul-blazer-s1.png",
+      "images/sfc/sfc-soul-blazer-u-s1.png",
+      "images/sfc/sfc-soul-blazer-u-s2.png",
+      "images/sfc/sfc-soul-blazer-u-s3.png",
+      "images/sfc/sfc-soul-blazer-title.png"
+    ],
+    "cover": "images/sfc/sfc-soul-blazer-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角ARPG，村庄随剧情复苏"
+  },
+  {
+    "id": "sfc-harvest-moon",
+    "title": "Harvest Moon",
+    "titleZh": "牧场物语",
+    "titleJa": "牧場物語",
+    "year": 1996,
+    "developer": "Amccus",
+    "publisher": "Pack-In-Video",
+    "genre": "模拟经营",
+    "tags": [
+      "像素",
+      "种田",
+      "恋爱"
+    ],
+    "players": "1",
+    "tagline": "种田养牛娶媳妇的田园牧歌",
+    "description": "告别厮杀与冒险，来一场慢生活吧！《牧场物语》的初代作品让你继承一片荒芜的牧场，在两年半的时间里开垦土地、种植作物、饲养牛羊鸡，把它打理成远近闻名的好牧场。\n\n春夏秋冬四季轮换，每个季节适合的作物不同；镇上的居民各有作息，节日活动热闹非凡；送礼物、参加祭典，还能追求五位女孩之一并结婚生子。俯视角的像素小镇亲切温馨，正是参考图里那种“杂货铺”小村的感觉。\n\n它开创了整个“种田游戏”类型，《星露谷物语》的灵感之源就在这里！",
+    "highlights": [
+      "开创种田模拟类型",
+      "四季轮换的农耕畜牧",
+      "温馨小镇与节日活动",
+      "恋爱结婚的人生体验"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "34/40",
+        "quote": "编辑给出7、9、9、9，赞赏其新颖的田园玩法"
+      },
+      {
+        "source": "EGM",
+        "score": "32.5/40",
+        "quote": "评测组称其为独一无二的体验"
+      }
+    ],
+    "editorScore": 8.8,
+    "is2D": true,
+    "screenshots": [
+      "images/sfc/sfc-harvest-moon-s1.png",
+      "images/sfc/sfc-harvest-moon-s2.png",
+      "images/sfc/sfc-harvest-moon-u-s1.png",
+      "images/sfc/sfc-harvest-moon-u-s2.png",
+      "images/sfc/sfc-harvest-moon-title.png"
+    ],
+    "cover": "images/sfc/sfc-harvest-moon-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素小镇生活，与参考图神似"
+  },
+  {
+    "id": "sfc-treasure-of-the-rudras",
+    "title": "Treasure of the Rudras",
+    "titleZh": "鲁多拉的秘宝",
+    "titleJa": "ルドラの秘宝",
+    "year": 1996,
+    "developer": "Square",
+    "publisher": "Square",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "言灵魔法",
+      "多主角"
+    ],
+    "players": "1",
+    "tagline": "用文字创造魔法的末日物语",
+    "description": "距离世界毁灭只剩16天！SFC末期史克威尔的这部隐藏名作，让三位主角在同一段时间里分头行动，最终汇聚成一个关于“世界轮回”的宏大故事。\n\n本作最惊艳的是“言灵”系统：玩家可以自由输入文字组合成魔法，不同的词根代表不同属性与效果，研究“最强咒语”的乐趣无穷。画面是SFC末期的顶级水准，俯视角的城镇与迷宫细致精美。\n\n它从未在海外发售，却靠玩家汉化积累了大批粉丝。想见识史克威尔黄金时代的创意，一定不能错过。",
+    "highlights": [
+      "自由输入文字组合魔法",
+      "三主角视角交织叙事",
+      "16天倒计时的末日设定",
+      "SFC末期顶级像素画面"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "31/40",
+        "quote": "编辑肯定其言灵系统的创意"
+      },
+      {
+        "source": "Consoles+",
+        "score": "92%",
+        "quote": "法国杂志对其进口版给予高度评价"
+      }
+    ],
+    "editorScore": 8.8,
+    "is2D": true,
+    "screenshots": [
+      "images/sfc/sfc-treasure-of-the-rudras-s1.png",
+      "images/sfc/sfc-treasure-of-the-rudras-x1.png",
+      "images/sfc/sfc-treasure-of-the-rudras-title.png"
+    ],
+    "cover": "images/sfc/sfc-treasure-of-the-rudras-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG，城镇迷宫精致"
   },
   {
     "id": "sfc-tengai-makyou-zero",
@@ -1539,7 +1888,9 @@
       "images/sfc/sfc-tengai-makyou-zero-s2.png",
       "images/sfc/sfc-tengai-makyou-zero-title.png"
     ],
-    "cover": "images/sfc/sfc-tengai-makyou-zero-box.jpg"
+    "cover": "images/sfc/sfc-tengai-makyou-zero-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素和风RPG，城镇丰富"
   },
   {
     "id": "sfc-illusion-of-gaia",
@@ -1588,7 +1939,9 @@
       "images/sfc/sfc-illusion-of-gaia-u-s1.png",
       "images/sfc/sfc-illusion-of-gaia-title.png"
     ],
-    "cover": "images/sfc/sfc-illusion-of-gaia-box.jpg"
+    "cover": "images/sfc/sfc-illusion-of-gaia-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素ARPG，环游各地村镇"
   },
   {
     "id": "sfc-bahamut-lagoon",
@@ -1633,7 +1986,9 @@
       "images/sfc/sfc-bahamut-lagoon-s3.png",
       "images/sfc/sfc-bahamut-lagoon-title.png"
     ],
-    "cover": "images/sfc/sfc-bahamut-lagoon-box.jpg"
+    "cover": "images/sfc/sfc-bahamut-lagoon-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "俯视战棋+可走动的飞空艇据点"
   },
   {
     "id": "sfc-romancing-saga",
@@ -1673,7 +2028,9 @@
       "images/sfc/sfc-romancing-saga-s3.png",
       "images/sfc/sfc-romancing-saga-title.png"
     ],
-    "cover": "images/sfc/sfc-romancing-saga-box.jpg"
+    "cover": "images/sfc/sfc-romancing-saga-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素城镇，自由剧本RPG"
   },
   {
     "id": "sfc-star-ocean",
@@ -1717,7 +2074,9 @@
       "images/sfc/sfc-star-ocean-x1.jpg",
       "images/sfc/sfc-star-ocean-title.png"
     ],
-    "cover": "images/sfc/sfc-star-ocean-box.jpg"
+    "cover": "images/sfc/sfc-star-ocean-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG，村镇探索即时战斗"
   },
   {
     "id": "sfc-turtles-in-time",
@@ -1768,7 +2127,62 @@
       "images/sfc/sfc-turtles-in-time-u-s3.png",
       "images/sfc/sfc-turtles-in-time-title.png"
     ],
-    "cover": "images/sfc/sfc-turtles-in-time-box.jpg"
+    "cover": "images/sfc/sfc-turtles-in-time-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版清版动作"
+  },
+  {
+    "id": "sfc-breath-of-fire-ii",
+    "title": "Breath of Fire II",
+    "titleZh": "龙战士2",
+    "titleJa": "ブレス オブ ファイアII 使命の子",
+    "year": 1994,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "建村",
+      "宗教阴谋"
+    ],
+    "players": "1",
+    "tagline": "在废墟上建起属于你的小镇",
+    "description": "失去亲人的少年琉，在被世人遗忘后踏上了寻找真相的旅程，而背后隐藏的竟是一个邪恶宗教的庞大阴谋——《龙战士2》的剧情比前作更加深沉。\n\n本作最让人上瘾的是“共同体”系统：你可以招募各地的居民搬到自己建立的小镇定居，看着小镇从荒地慢慢热闹起来，成就感满满。伙伴们能与“妖精”或“修蓬”合体变身，钓鱼与狩猎等小游戏也大幅扩充。\n\n俯视角的城镇与森林色彩鲜明，充满卡普空式的生动细节。喜欢日式像素RPG的朋友，值得一试！",
+    "highlights": [
+      "招募居民建设自己的小镇",
+      "合体变身系统",
+      "钓鱼与狩猎小游戏",
+      "黑暗深沉的剧情"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "28/40",
+        "quote": "编辑给出7、6、7、8"
+      },
+      {
+        "source": "IGN",
+        "score": "8/10",
+        "quote": "称其为系列中值得一玩的经典"
+      },
+      {
+        "source": "Nintendo Life",
+        "score": "8/10",
+        "quote": "肯定其丰富内容与可爱画风"
+      }
+    ],
+    "editorScore": 8.6,
+    "is2D": true,
+    "screenshots": [
+      "images/sfc/sfc-breath-of-fire-ii-s1.png",
+      "images/sfc/sfc-breath-of-fire-ii-s2.png",
+      "images/sfc/sfc-breath-of-fire-ii-s3.png",
+      "images/sfc/sfc-breath-of-fire-ii-u-s1.png",
+      "images/sfc/sfc-breath-of-fire-ii-title.png"
+    ],
+    "cover": "images/sfc/sfc-breath-of-fire-ii-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG，可经营自己的村庄"
   },
   {
     "id": "sfc-axelay",
@@ -1813,7 +2227,9 @@
       "images/sfc/sfc-axelay-s3.png",
       "images/sfc/sfc-axelay-title.png"
     ],
-    "cover": "images/sfc/sfc-axelay-box.jpg"
+    "cover": "images/sfc/sfc-axelay-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "纵横版射击游戏"
   },
   {
     "id": "sfc-panel-de-pon",
@@ -1859,6 +2275,416 @@
       "images/sfc/sfc-panel-de-pon-u-s2.png",
       "images/sfc/sfc-panel-de-pon-title.png"
     ],
-    "cover": "images/sfc/sfc-panel-de-pon-box.jpg"
+    "cover": "images/sfc/sfc-panel-de-pon-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "消除益智游戏"
+  },
+  {
+    "id": "sfc-breath-of-fire",
+    "title": "Breath of Fire",
+    "titleZh": "龙战士",
+    "titleJa": "ブレス オブ ファイア 竜の戦士",
+    "year": 1993,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "龙变身",
+      "钓鱼"
+    ],
+    "players": "1",
+    "tagline": "卡普空RPG的龙之起点",
+    "description": "动作游戏大厂卡普空的第一部正统RPG，就是这部《龙战士》！少年龙战士琉为了寻找被夺走的姐姐，踏上对抗黑龙族的旅途。\n\n本作的伙伴们各有地图技能：鸟人妮娜能飞、狼人能闯入森林、鱼人能载着队伍潜水……在俯视角的大地图和村镇中切换伙伴解决难题，颇有新鲜感。主角还能变身为巨龙作战，钓鱼小游戏更成了系列的传统。\n\n画面由卡普空美术团队精心绘制，角色动画灵动可爱。想追溯龙战士系列的源头？从这里开始吧！",
+    "highlights": [
+      "伙伴各具地图特技",
+      "主角化身巨龙作战",
+      "系列传统钓鱼小游戏",
+      "卡普空风格的精致像素"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "28/40",
+        "quote": "编辑认可其扎实的RPG素质"
+      },
+      {
+        "source": "EGM",
+        "score": "40/50",
+        "quote": "五位评测员给出8、8、7、8、9"
+      }
+    ],
+    "editorScore": 8.5,
+    "is2D": true,
+    "screenshots": [
+      "images/sfc/sfc-breath-of-fire-s1.png",
+      "images/sfc/sfc-breath-of-fire-s2.png",
+      "images/sfc/sfc-breath-of-fire-s3.png",
+      "images/sfc/sfc-breath-of-fire-u-s1.png",
+      "images/sfc/sfc-breath-of-fire-title.png"
+    ],
+    "cover": "images/sfc/sfc-breath-of-fire-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG，村镇与世界地图"
+  },
+  {
+    "id": "sfc-treasure-hunter-g",
+    "title": "Treasure Hunter G",
+    "titleZh": "宝藏猎人G",
+    "titleJa": "トレジャーハンターG",
+    "year": 1996,
+    "developer": "Sting",
+    "publisher": "Square",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "预渲染",
+      "网格战斗"
+    ],
+    "players": "1",
+    "tagline": "预渲染画风的寻宝冒险",
+    "description": "SFC的最后一部史克威尔游戏！兄弟雷德与布鲁为了寻找失踪的父亲与传说中的宝藏，踏上了冒险之旅。Sting打造的本作采用预渲染风格的画面，人物与场景圆润立体，在当年相当抢眼。\n\n探索部分是俯视角的村镇与迷宫，战斗则采用网格式战术系统，需要考虑走位、范围和行动点数，颇有战棋味道。轻松幽默的剧情与可爱的人物设计，让整趟冒险充满童话般的欢乐。\n\n本作仅在日本发售，是SFC末期一颗被埋没的明珠。",
+    "highlights": [
+      "SFC末期的预渲染画面",
+      "网格战术战斗",
+      "轻松幽默的寻宝故事",
+      "史克威尔SFC谢幕作"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "31/40",
+        "quote": "编辑赞赏其画面与战斗系统"
+      },
+      {
+        "source": "Consoles+",
+        "score": "92%",
+        "quote": "法国杂志进口版评测给予高分"
+      }
+    ],
+    "editorScore": 8.4,
+    "is2D": true,
+    "screenshots": [
+      "images/sfc/sfc-treasure-hunter-g-s1.png",
+      "images/sfc/sfc-treasure-hunter-g-s2.png",
+      "images/sfc/sfc-treasure-hunter-g-title.png"
+    ],
+    "cover": "images/sfc/sfc-treasure-hunter-g-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角村镇探索，预渲染像素风"
+  },
+  {
+    "id": "sfc-secret-of-evermore",
+    "title": "Secret of Evermore",
+    "titleZh": "永恒的秘密",
+    "titleJa": "",
+    "year": 1995,
+    "developer": "Square Soft",
+    "publisher": "Square Soft",
+    "genre": "动作角色扮演",
+    "tags": [
+      "像素",
+      "炼金术",
+      "B级片风"
+    ],
+    "players": "1",
+    "tagline": "美式脑洞的圣剑风ARPG",
+    "description": "史克威尔美国团队唯一的原创作品！一个热爱B级电影的美国少年和他的狗，意外被传送到名为“Evermore”的奇异世界，从史前丛林、古罗马式城邦到哥特城堡与未来实验室，一路冒险。\n\n系统借鉴了《圣剑传说2》的环状菜单与蓄力攻击，又加入独特的“炼金术”：收集材料调配出各种法术。狗狗会随着时代变换造型，还能帮你嗅出隐藏的材料。俯视角城镇充满美式幽默与电影梗。\n\n它常被拿来和圣剑传说比较，但其独特的美式风味自有魅力。",
+    "highlights": [
+      "环状菜单与蓄力战斗",
+      "收集材料调配炼金术",
+      "会变身的狗狗伙伴",
+      "跨越时代的多样世界"
+    ],
+    "reviews": [
+      {
+        "source": "EGM",
+        "score": "33.5/40",
+        "quote": "评测组赞其画面与氛围"
+      },
+      {
+        "source": "GameRankings",
+        "score": "81%",
+        "quote": "综合媒体评分"
+      },
+      {
+        "source": "Nintendo Life",
+        "score": "8/10",
+        "quote": "称其值得圣剑系列粉丝一试"
+      }
+    ],
+    "editorScore": 8.4,
+    "is2D": true,
+    "screenshots": [
+      "images/sfc/sfc-secret-of-evermore-s1.png",
+      "images/sfc/sfc-secret-of-evermore-x1.png",
+      "images/sfc/sfc-secret-of-evermore-title.png"
+    ],
+    "cover": "images/sfc/sfc-secret-of-evermore-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素ARPG，圣剑式城镇探索"
+  },
+  {
+    "id": "sfc-ys-v",
+    "title": "Ys V: Lost Kefin, Kingdom of Sand",
+    "titleZh": "伊苏5：失落的沙之都凯芬",
+    "titleJa": "イースV 失われた砂の都ケフィン",
+    "year": 1995,
+    "developer": "Nihon Falcom",
+    "publisher": "Nihon Falcom",
+    "genre": "动作角色扮演",
+    "tags": [
+      "像素",
+      "沙漠",
+      "炼金"
+    ],
+    "players": "1",
+    "tagline": "亚特鲁的沙漠炼金冒险",
+    "description": "红发冒险家亚特鲁的第五次冒险，这次他来到了沙漠王国，寻找传说中消失的沙之都“凯芬”。Falcom亲自操刀，为伊苏系列带来了全新的玩法变革。\n\n本作告别了系列经典的“撞击战斗”，改为按键挥剑与跳跃，并加入了“炼金术”系统：收集元素石合成魔法，攻防更加多变。俯视角的沙漠城镇充满异域风情，Falcom音乐队的配乐依旧动人心弦。\n\n虽然系统改动引起过争议，但浓厚的冒险氛围仍是伊苏的味道。系列粉丝不可错过。",
+    "highlights": [
+      "改为按键挥剑的战斗",
+      "元素石炼金魔法",
+      "异域风情的沙漠王国",
+      "Falcom音乐队经典配乐"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "26/40",
+        "quote": "编辑认可其新系统但意见不一"
+      }
+    ],
+    "editorScore": 8.2,
+    "is2D": true,
+    "screenshots": [
+      "images/sfc/sfc-ys-v-s1.png",
+      "images/sfc/sfc-ys-v-e-s1.png",
+      "images/sfc/sfc-ys-v-title.png"
+    ],
+    "cover": "images/sfc/sfc-ys-v-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素ARPG，城镇与原野"
+  },
+  {
+    "id": "sfc-mystic-ark",
+    "title": "Mystic Ark",
+    "titleZh": "神秘方舟",
+    "titleJa": "ミスティックアーク",
+    "year": 1995,
+    "developer": "Produce!",
+    "publisher": "Enix",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "解谜",
+      "异世界"
+    ],
+    "players": "1",
+    "tagline": "被变成雕像的勇者们",
+    "description": "醒来时，你发现自己身处一座神秘的岛屿，而同伴们都被变成了小小的雕像……《神秘方舟》是《第七传说》的精神续作，由Produce!开发、艾尼克斯发行。\n\n游戏以“方舟岛”为中心，通过放置在神殿中的雕像传送到七个风格迥异的异世界，每个世界都有独立的故事与谜题。解谜要素十分丰富，需要仔细观察、反复思考，氛围神秘又带一丝诡异。\n\n这是一部偏向冒险解谜的独特RPG，喜欢探索与谜题的玩家会非常享受。",
+    "highlights": [
+      "七个独立的异世界",
+      "大量冒险解谜要素",
+      "神秘诡异的氛围",
+      "《第七传说》精神续作"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "31/40",
+        "quote": "编辑给出7、8、8、8，肯定其解谜冒险的乐趣"
+      }
+    ],
+    "editorScore": 8.2,
+    "is2D": true,
+    "screenshots": [
+      "images/sfc/sfc-mystic-ark-s1.png",
+      "images/sfc/sfc-mystic-ark-x1.png",
+      "images/sfc/sfc-mystic-ark-x2.png",
+      "images/sfc/sfc-mystic-ark-title.png"
+    ],
+    "cover": "images/sfc/sfc-mystic-ark-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG，多世界村镇探索"
+  },
+  {
+    "id": "sfc-lufia",
+    "title": "Lufia & the Fortress of Doom",
+    "titleZh": "古大陆物语",
+    "titleJa": "エストポリス伝記",
+    "year": 1993,
+    "developer": "Neverland",
+    "publisher": "Taito",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "四狂神",
+      "宿命"
+    ],
+    "players": "1",
+    "tagline": "四狂神传说的序章",
+    "description": "故事以百年前英雄们与“四狂神”的决战开场，随后回到现代：四狂神再度复活，少年主角与神秘少女露菲亚踏上了新的征程。这就是Neverland打造的《古大陆物语》系列首作。\n\n本作是一部扎实的传统回合制RPG，俯视角的城镇与迷宫规整明快，剧情环环相扣，主角与露菲亚之间的感情线令人动容；结局的伏笔更在续作中得到呼应。\n\n若你玩过《古大陆物语2》，回头体验初代的故事，会对那段宿命有更深的感受。",
+    "highlights": [
+      "百年前后两代英雄的宿命",
+      "经典回合制RPG",
+      "感人的主角与露菲亚感情线",
+      "与续作前后呼应"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "28/40",
+        "quote": "编辑认可其扎实的RPG素质"
+      },
+      {
+        "source": "GamePro",
+        "score": "4.5/5",
+        "quote": "北美版评测赞赏其剧情与系统"
+      }
+    ],
+    "editorScore": 8.1,
+    "is2D": true,
+    "screenshots": [
+      "images/sfc/sfc-lufia-s1.png",
+      "images/sfc/sfc-lufia-u-s1.png",
+      "images/sfc/sfc-lufia-title.png"
+    ],
+    "cover": "images/sfc/sfc-lufia-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG，城镇与迷宫"
+  },
+  {
+    "id": "sfc-robotrek",
+    "title": "Robotrek",
+    "titleZh": "机器人大冒险",
+    "titleJa": "スラップスティック",
+    "year": 1994,
+    "developer": "Quintet / Ancient",
+    "publisher": "Enix",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "造机器人",
+      "发明"
+    ],
+    "players": "1",
+    "tagline": "小发明家与他的机器人军团",
+    "description": "Quintet与古代祐三的Ancient联手打造的另类RPG！主人公是天才发明家的儿子，不亲自战斗，而是亲手组装机器人代替自己上阵。\n\n在发明室里，你可以用捡来的零件合成武器、装甲与推进器，自由搭配机器人的配置，还能编排连续技指令。俯视角的小镇充满科幻童趣，各种奇怪的发明与搞笑的反派让旅途轻松愉快。\n\n这是一部充满创意的小众作品，喜欢“养成与组装”的玩家一定会乐在其中。",
+    "highlights": [
+      "亲手组装与改造机器人",
+      "零件合成发明系统",
+      "编排机器人连续技",
+      "科幻童趣的小镇冒险"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "30/40",
+        "quote": "编辑肯定其机器人组装的创意"
+      },
+      {
+        "source": "EGM",
+        "score": "37/50",
+        "quote": "五位评测员给出8、8、7、7、7"
+      }
+    ],
+    "editorScore": 8.0,
+    "is2D": true,
+    "screenshots": [
+      "images/sfc/sfc-robotrek-s1.png",
+      "images/sfc/sfc-robotrek-u-s1.png",
+      "images/sfc/sfc-robotrek-title.png"
+    ],
+    "cover": "images/sfc/sfc-robotrek-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG，童趣小镇探索"
+  },
+  {
+    "id": "sfc-brain-lord",
+    "title": "Brain Lord",
+    "titleZh": "脑之王",
+    "titleJa": "ブレインロード",
+    "year": 1994,
+    "developer": "Produce!",
+    "publisher": "Enix",
+    "genre": "动作角色扮演",
+    "tags": [
+      "像素",
+      "迷宫解谜",
+      "宝石精灵"
+    ],
+    "players": "1",
+    "tagline": "满是机关谜题的地下城冒险",
+    "description": "身为龙战士后裔的少年雷米乌斯，为了寻找失踪的父亲，深入危机四伏的古代遗迹。《脑之王》正如其名，是一款“动脑”多于“动手”的动作RPG。\n\n游戏的重心在迷宫：踏板、移动方块、限时机关、隐藏通道……解谜设计密度极高。可以收集培养的“宝石精灵”会跟在身边协同作战，不同精灵有不同能力。俯视角的画面朴实，以迷宫探索为主，城镇则作为补给据点。\n\n喜欢塞尔达式迷宫解谜的朋友，这部冷门作品值得挖掘。",
+    "highlights": [
+      "高密度迷宫机关谜题",
+      "收集培养宝石精灵",
+      "俯视角即时战斗",
+      "冷门的解谜ARPG"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "30/40",
+        "quote": "编辑给出8、7、8、7"
+      },
+      {
+        "source": "EGM",
+        "score": "37/50",
+        "quote": "五位评测员肯定其迷宫设计"
+      }
+    ],
+    "editorScore": 8.0,
+    "is2D": true,
+    "screenshots": [
+      "images/sfc/sfc-brain-lord-s1.png",
+      "images/sfc/sfc-brain-lord-s2.png",
+      "images/sfc/sfc-brain-lord-title.png"
+    ],
+    "cover": "images/sfc/sfc-brain-lord-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素ARPG，以迷宫为主"
+  },
+  {
+    "id": "sfc-ys-iv",
+    "title": "Ys IV: Mask of the Sun",
+    "titleZh": "伊苏4：太阳的假面",
+    "titleJa": "イースIV MASK OF THE SUN",
+    "year": 1993,
+    "developer": "Tonkin House",
+    "publisher": "Tonkin House",
+    "genre": "动作角色扮演",
+    "tags": [
+      "像素",
+      "撞击战斗",
+      "塞尔塞塔"
+    ],
+    "players": "1",
+    "tagline": "撞击战斗的塞尔塔之旅",
+    "description": "伊苏系列中最特别的一作：它由Falcom提供企划，再由不同厂商各自开发，SFC版由东京书籍（Tonkin House）制作。故事讲述亚特鲁来到塞尔塞塔大陆，揭开“太阳假面”背后的古代文明之谜。\n\n本作回归了系列招牌的“撞击战斗”——只需偏离敌人正面冲撞即可攻击，简单直接又爽快。俯视角的村庄、森林与遗迹色彩明亮，节奏轻快，非常适合想体验经典伊苏味道的玩家。\n\n后来Falcom在《伊苏：塞尔塞塔的树海》中重新诠释了这段故事，回头看看SFC原版也别有一番乐趣。",
+    "highlights": [
+      "经典撞击战斗回归",
+      "塞尔塞塔大陆的冒险",
+      "明亮的俯视角画面",
+      "《塞尔塞塔的树海》原点"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "24/40",
+        "quote": "编辑对SFC版评价中规中矩"
+      }
+    ],
+    "editorScore": 7.8,
+    "is2D": true,
+    "screenshots": [
+      "images/sfc/sfc-ys-iv-s1.png",
+      "images/sfc/sfc-ys-iv-x1.png",
+      "images/sfc/sfc-ys-iv-x2.png",
+      "images/sfc/sfc-ys-iv-title.png"
+    ],
+    "cover": "images/sfc/sfc-ys-iv-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素ARPG，村庄森林遗迹"
   }
 ]

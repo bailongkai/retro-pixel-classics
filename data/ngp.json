@@ -46,7 +46,9 @@
       "images/ngp/ngp-match-of-the-millennium-x1.jpg",
       "images/ngp/ngp-match-of-the-millennium-title.png"
     ],
-    "cover": "images/ngp/ngp-match-of-the-millennium-box.jpg"
+    "cover": "images/ngp/ngp-match-of-the-millennium-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "Q版格斗游戏，与RPG村庄风格无关"
   },
   {
     "id": "ngp-card-fighters-clash",
@@ -96,7 +98,9 @@
       "images/ngp/ngp-card-fighters-clash-x2.png",
       "images/ngp/ngp-card-fighters-clash-title.png"
     ],
-    "cover": "images/ngp/ngp-card-fighters-clash-box.jpg"
+    "cover": "images/ngp/ngp-card-fighters-clash-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "卡牌对战游戏，玩法与参考图不同"
   },
   {
     "id": "ngp-card-fighters-2",
@@ -130,7 +134,9 @@
       "images/ngp/ngp-card-fighters-2-x2.jpg",
       "images/ngp/ngp-card-fighters-2-title.png"
     ],
-    "cover": "images/ngp/ngp-card-fighters-2-box.jpg"
+    "cover": "images/ngp/ngp-card-fighters-2-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "卡牌对战游戏，玩法与参考图不同"
   },
   {
     "id": "ngp-sonic-pocket-adventure",
@@ -180,7 +186,9 @@
       "images/ngp/ngp-sonic-pocket-adventure-x2.jpg",
       "images/ngp/ngp-sonic-pocket-adventure-title.png"
     ],
-    "cover": "images/ngp/ngp-sonic-pocket-adventure-box.jpg"
+    "cover": "images/ngp/ngp-sonic-pocket-adventure-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版像素平台跳跃，仅画风相近"
   },
   {
     "id": "ngp-metal-slug-2nd-mission",
@@ -214,7 +222,9 @@
       "images/ngp/ngp-metal-slug-2nd-mission-x2.jpg",
       "images/ngp/ngp-metal-slug-2nd-mission-title.png"
     ],
-    "cover": "images/ngp/ngp-metal-slug-2nd-mission-box.jpg"
+    "cover": "images/ngp/ngp-metal-slug-2nd-mission-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版像素射击，仅年代画风相近"
   },
   {
     "id": "ngp-kof-r2",
@@ -259,7 +269,9 @@
       "images/ngp/ngp-kof-r2-x2.jpg",
       "images/ngp/ngp-kof-r2-title.png"
     ],
-    "cover": "images/ngp/ngp-kof-r2-box.jpg"
+    "cover": "images/ngp/ngp-kof-r2-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "Q版格斗游戏，与RPG村庄风格无关"
   },
   {
     "id": "ngp-metal-slug-1st-mission",
@@ -299,7 +311,9 @@
       "images/ngp/ngp-metal-slug-1st-mission-x2.jpg",
       "images/ngp/ngp-metal-slug-1st-mission-title.png"
     ],
-    "cover": "images/ngp/ngp-metal-slug-1st-mission-box.jpg"
+    "cover": "images/ngp/ngp-metal-slug-1st-mission-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版像素射击，仅年代画风相近"
   },
   {
     "id": "ngp-faselei",
@@ -343,7 +357,9 @@
       "images/ngp/ngp-faselei-s2.png",
       "images/ngp/ngp-faselei-title.png"
     ],
-    "cover": "images/ngp/ngp-faselei-box.jpg"
+    "cover": "images/ngp/ngp-faselei-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "像素战棋RPG，战场地图而非村庄探索"
   },
   {
     "id": "ngp-ogre-battle-gaiden",
@@ -383,7 +399,9 @@
       "images/ngp/ngp-ogre-battle-gaiden-x2.jpg",
       "images/ngp/ngp-ogre-battle-gaiden-title.png"
     ],
-    "cover": "images/ngp/ngp-ogre-battle-gaiden-box.jpg"
+    "cover": "images/ngp/ngp-ogre-battle-gaiden-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "即时行军战略RPG，大地图占领城镇"
   },
   {
     "id": "ngp-puyo-pop",
@@ -427,7 +445,9 @@
       "images/ngp/ngp-puyo-pop-s2.png",
       "images/ngp/ngp-puyo-pop-title.png"
     ],
-    "cover": "images/ngp/ngp-puyo-pop-box.jpg"
+    "cover": "images/ngp/ngp-puyo-pop-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "益智消除游戏，与参考图类型不同"
   },
   {
     "id": "ngp-last-blade",
@@ -472,7 +492,9 @@
       "images/ngp/ngp-last-blade-x2.jpg",
       "images/ngp/ngp-last-blade-title.png"
     ],
-    "cover": "images/ngp/ngp-last-blade-box.jpg"
+    "cover": "images/ngp/ngp-last-blade-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "Q版格斗游戏，与RPG村庄风格无关"
   },
   {
     "id": "ngp-biomotor-unitron",
@@ -516,7 +538,9 @@
       "images/ngp/ngp-biomotor-unitron-s2.png",
       "images/ngp/ngp-biomotor-unitron-title.png"
     ],
-    "cover": "images/ngp/ngp-biomotor-unitron-box.jpg"
+    "cover": "images/ngp/ngp-biomotor-unitron-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "像素RPG，城镇为菜单式，俯视角迷宫"
   },
   {
     "id": "ngp-samurai-shodown-2",
@@ -561,7 +585,9 @@
       "images/ngp/ngp-samurai-shodown-2-x2.jpg",
       "images/ngp/ngp-samurai-shodown-2-title.png"
     ],
-    "cover": "images/ngp/ngp-samurai-shodown-2-box.jpg"
+    "cover": "images/ngp/ngp-samurai-shodown-2-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "Q版格斗游戏，与RPG村庄风格无关"
   },
   {
     "id": "ngp-snk-gals-fighters",
@@ -605,7 +631,45 @@
       "images/ngp/ngp-snk-gals-fighters-s2.png",
       "images/ngp/ngp-snk-gals-fighters-title.png"
     ],
-    "cover": "images/ngp/ngp-snk-gals-fighters-box.jpg"
+    "cover": "images/ngp/ngp-snk-gals-fighters-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "Q版格斗游戏，与RPG村庄风格无关"
+  },
+  {
+    "id": "ngp-kikou-seiki-unitron",
+    "title": "Kikou Seiki Unitron",
+    "titleZh": "机甲世纪 尤尼特隆",
+    "titleJa": "機甲世紀ユニトロン その序。光り生まれる地より。",
+    "year": 2000,
+    "developer": "Yumekobo",
+    "publisher": "SNK",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "机甲",
+      "迷宫探索",
+      "日版限定"
+    ],
+    "players": "1-2",
+    "tagline": "《生化机甲》四百年后的续篇，日版限定的机甲RPG",
+    "description": "还记得NGPC首款RPG《生化机甲 尤尼特隆》吗？夢工房在2000年初又为日本玩家端上了它的续作——《机甲世纪 尤尼特隆》。故事发生在前作四百年之后，新一代驾驶员再次登上人形机甲“尤尼特隆”，向危机四伏的地下迷宫进发。\n\n玩法延续前作的精髓：在俯视角迷宫中一步步探索，遭遇敌人后进入菜单式回合制战斗；从迷宫带回的武器和配件可以装到机体上，打造独一无二的专属机甲。城镇中的商店、对话依旧以精美的人物立绘呈现，日式动画风十足。还能用连接线让两台尤尼特隆正面对决。\n\n由于SNK当时陷入经营危机，本作没能在海外发行，知名度远不及前作。但对于喜欢装备收集和刷迷宫的掌机RPG玩家来说，它是NGPC上不可多得的一盘隐藏佳作。",
+    "highlights": [
+      "《生化机甲 尤尼特隆》的正统续作",
+      "俯视角迷宫探索与回合制战斗",
+      "武器配件自由组装的机甲养成",
+      "仅在日本发售的NGPC稀有RPG"
+    ],
+    "reviews": [],
+    "editorScore": 7.9,
+    "is2D": true,
+    "screenshots": [
+      "images/ngp/ngp-kikou-seiki-unitron-s1.png",
+      "images/ngp/ngp-kikou-seiki-unitron-x2.jpg",
+      "images/ngp/ngp-kikou-seiki-unitron-title.png"
+    ],
+    "cover": "images/ngp/ngp-kikou-seiki-unitron-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "像素RPG，城镇为菜单式，俯视角迷宫"
   },
   {
     "id": "ngp-dark-arms",
@@ -655,7 +719,9 @@
       "images/ngp/ngp-dark-arms-x2.jpg",
       "images/ngp/ngp-dark-arms-title.png"
     ],
-    "cover": "images/ngp/ngp-dark-arms-box.jpg"
+    "cover": "images/ngp/ngp-dark-arms-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素ARPG，带血条HUD自由探索"
   },
   {
     "id": "ngp-magical-drop-pocket",
@@ -688,7 +754,9 @@
       "images/ngp/ngp-magical-drop-pocket-s2.png",
       "images/ngp/ngp-magical-drop-pocket-title.png"
     ],
-    "cover": "images/ngp/ngp-magical-drop-pocket-box.jpg"
+    "cover": "images/ngp/ngp-magical-drop-pocket-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "益智消除游戏，与参考图类型不同"
   },
   {
     "id": "ngp-puzzle-bobble-mini",
@@ -727,7 +795,9 @@
       "images/ngp/ngp-puzzle-bobble-mini-s2.png",
       "images/ngp/ngp-puzzle-bobble-mini-title.png"
     ],
-    "cover": "images/ngp/ngp-puzzle-bobble-mini-box.jpg"
+    "cover": "images/ngp/ngp-puzzle-bobble-mini-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "益智消除游戏，与参考图类型不同"
   },
   {
     "id": "ngp-fatal-fury-first-contact",
@@ -772,7 +842,9 @@
       "images/ngp/ngp-fatal-fury-first-contact-x2.jpg",
       "images/ngp/ngp-fatal-fury-first-contact-title.png"
     ],
-    "cover": "images/ngp/ngp-fatal-fury-first-contact-box.jpg"
+    "cover": "images/ngp/ngp-fatal-fury-first-contact-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "Q版格斗游戏，与RPG村庄风格无关"
   },
   {
     "id": "ngp-neo-turf-masters",
@@ -812,7 +884,9 @@
       "images/ngp/ngp-neo-turf-masters-x2.jpg",
       "images/ngp/ngp-neo-turf-masters-title.png"
     ],
-    "cover": "images/ngp/ngp-neo-turf-masters-box.jpg"
+    "cover": "images/ngp/ngp-neo-turf-masters-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "高尔夫体育游戏，类型完全不同"
   },
   {
     "id": "ngp-evolution",
@@ -842,9 +916,12 @@
     "is2D": true,
     "screenshots": [
       "images/ngp/ngp-evolution-s1.png",
+      "images/ngp/ngp-evolution-x1.jpg",
       "images/ngp/ngp-evolution-title.png"
     ],
-    "cover": "images/ngp/ngp-evolution-box.jpg"
+    "cover": "images/ngp/ngp-evolution-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "像素RPG，俯视角随机迷宫，无城镇漫步"
   },
   {
     "id": "ngp-rockman-battle-fighters",
@@ -884,7 +961,9 @@
       "images/ngp/ngp-rockman-battle-fighters-x2.jpg",
       "images/ngp/ngp-rockman-battle-fighters-title.png"
     ],
-    "cover": "images/ngp/ngp-rockman-battle-fighters-box.jpg"
+    "cover": "images/ngp/ngp-rockman-battle-fighters-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版像素Boss连战动作，仅画风相近"
   },
   {
     "id": "ngp-pac-man",
@@ -924,6 +1003,8 @@
       "images/ngp/ngp-pac-man-x2.jpg",
       "images/ngp/ngp-pac-man-title.png"
     ],
-    "cover": "images/ngp/ngp-pac-man-box.jpg"
+    "cover": "images/ngp/ngp-pac-man-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "街机迷宫游戏，类型完全不同"
   }
 ]

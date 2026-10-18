@@ -42,7 +42,9 @@
       "images/gg/gg-shinobi-2-s2.png",
       "images/gg/gg-shinobi-2-title.png"
     ],
-    "cover": "images/gg/gg-shinobi-2-box.jpg"
+    "cover": "images/gg/gg-shinobi-2-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版动作平台，非俯视角RPG"
   },
   {
     "id": "gg-shining-force-sword-of-hajya",
@@ -88,7 +90,9 @@
       "images/gg/gg-shining-force-sword-of-hajya-s3.png",
       "images/gg/gg-shining-force-sword-of-hajya-title.png"
     ],
-    "cover": "images/gg/gg-shining-force-sword-of-hajya-box.jpg"
+    "cover": "images/gg/gg-shining-force-sword-of-hajya-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "像素战棋RPG，含俯视角城镇探索"
   },
   {
     "id": "gg-wonder-boy-dragons-trap",
@@ -133,7 +137,9 @@
       "images/gg/gg-wonder-boy-dragons-trap-s2.png",
       "images/gg/gg-wonder-boy-dragons-trap-title.png"
     ],
-    "cover": "images/gg/gg-wonder-boy-dragons-trap-box.jpg"
+    "cover": "images/gg/gg-wonder-boy-dragons-trap-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "横版类银河城，有城镇商店"
   },
   {
     "id": "gg-shining-force-final-conflict",
@@ -179,7 +185,9 @@
       "images/gg/gg-shining-force-final-conflict-x1.png",
       "images/gg/gg-shining-force-final-conflict-title.png"
     ],
-    "cover": "images/gg/gg-shining-force-final-conflict-box.jpg"
+    "cover": "images/gg/gg-shining-force-final-conflict-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "像素战棋RPG，城镇场景有限"
   },
   {
     "id": "gg-sonic-triple-trouble",
@@ -225,7 +233,9 @@
       "images/gg/gg-sonic-triple-trouble-x2.png",
       "images/gg/gg-sonic-triple-trouble-title.png"
     ],
-    "cover": "images/gg/gg-sonic-triple-trouble-box.jpg"
+    "cover": "images/gg/gg-sonic-triple-trouble-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "高速横版平台跳跃"
   },
   {
     "id": "gg-the-gg-shinobi",
@@ -271,7 +281,9 @@
       "images/gg/gg-the-gg-shinobi-s3.png",
       "images/gg/gg-the-gg-shinobi-title.png"
     ],
-    "cover": "images/gg/gg-the-gg-shinobi-box.jpg"
+    "cover": "images/gg/gg-the-gg-shinobi-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版忍者动作"
   },
   {
     "id": "gg-sylvan-tale",
@@ -316,7 +328,9 @@
       "images/gg/gg-sylvan-tale-s2.png",
       "images/gg/gg-sylvan-tale-title.png"
     ],
-    "cover": "images/gg/gg-sylvan-tale-box.jpg"
+    "cover": "images/gg/gg-sylvan-tale-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角塞尔达式ARPG，有村庄可探索"
   },
   {
     "id": "gg-land-of-illusion",
@@ -361,7 +375,9 @@
       "images/gg/gg-land-of-illusion-s2.png",
       "images/gg/gg-land-of-illusion-title.png"
     ],
-    "cover": "images/gg/gg-land-of-illusion-box.jpg"
+    "cover": "images/gg/gg-land-of-illusion-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版平台跳跃，童话像素风"
   },
   {
     "id": "gg-defenders-of-oasis",
@@ -411,7 +427,9 @@
       "images/gg/gg-defenders-of-oasis-s2.png",
       "images/gg/gg-defenders-of-oasis-title.png"
     ],
-    "cover": "images/gg/gg-defenders-of-oasis-box.jpg"
+    "cover": "images/gg/gg-defenders-of-oasis-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角城镇与大地图，回合制RPG"
   },
   {
     "id": "gg-sonic-chaos",
@@ -456,7 +474,9 @@
       "images/gg/gg-sonic-chaos-x1.png",
       "images/gg/gg-sonic-chaos-title.png"
     ],
-    "cover": "images/gg/gg-sonic-chaos-box.jpg"
+    "cover": "images/gg/gg-sonic-chaos-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "高速横版平台跳跃"
   },
   {
     "id": "gg-puyo-puyo-tsuu",
@@ -496,7 +516,9 @@
       "images/gg/gg-puyo-puyo-tsuu-s2.png",
       "images/gg/gg-puyo-puyo-tsuu-title.png"
     ],
-    "cover": "images/gg/gg-puyo-puyo-tsuu-box.jpg"
+    "cover": "images/gg/gg-puyo-puyo-tsuu-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "消除益智游戏"
   },
   {
     "id": "gg-lunar-sanposuru-gakuen",
@@ -527,9 +549,13 @@
     "is2D": true,
     "screenshots": [
       "images/gg/gg-lunar-sanposuru-gakuen-s1.png",
+      "images/gg/gg-lunar-sanposuru-gakuen-x1.jpg",
+      "images/gg/gg-lunar-sanposuru-gakuen-x2.png",
       "images/gg/gg-lunar-sanposuru-gakuen-title.png"
     ],
-    "cover": "images/gg/gg-lunar-sanposuru-gakuen-box.jpg"
+    "cover": "images/gg/gg-lunar-sanposuru-gakuen-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角学园与城镇，日式RPG"
   },
   {
     "id": "gg-power-strike-2",
@@ -580,7 +606,9 @@
       "images/gg/gg-power-strike-2-x2.png",
       "images/gg/gg-power-strike-2-title.png"
     ],
-    "cover": "images/gg/gg-power-strike-2-box.jpg"
+    "cover": "images/gg/gg-power-strike-2-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "纵版射击游戏"
   },
   {
     "id": "gg-castle-of-illusion",
@@ -626,7 +654,9 @@
       "images/gg/gg-castle-of-illusion-s3.png",
       "images/gg/gg-castle-of-illusion-title.png"
     ],
-    "cover": "images/gg/gg-castle-of-illusion-box.jpg"
+    "cover": "images/gg/gg-castle-of-illusion-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版平台跳跃"
   },
   {
     "id": "gg-sonic-2",
@@ -677,7 +707,9 @@
       "images/gg/gg-sonic-2-x2.png",
       "images/gg/gg-sonic-2-title.png"
     ],
-    "cover": "images/gg/gg-sonic-2-box.jpg"
+    "cover": "images/gg/gg-sonic-2-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版平台跳跃"
   },
   {
     "id": "gg-ristar",
@@ -728,7 +760,9 @@
       "images/gg/gg-ristar-x2.png",
       "images/gg/gg-ristar-title.png"
     ],
-    "cover": "images/gg/gg-ristar-box.jpg"
+    "cover": "images/gg/gg-ristar-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版平台跳跃"
   },
   {
     "id": "gg-tails-adventure",
@@ -779,7 +813,9 @@
       "images/gg/gg-tails-adventure-x1.png",
       "images/gg/gg-tails-adventure-title.png"
     ],
-    "cover": "images/gg/gg-tails-adventure-box.jpg"
+    "cover": "images/gg/gg-tails-adventure-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版道具探索动作，无城镇"
   },
   {
     "id": "gg-gunstar-heroes",
@@ -825,7 +861,105 @@
       "images/gg/gg-gunstar-heroes-x2.png",
       "images/gg/gg-gunstar-heroes-title.png"
     ],
-    "cover": "images/gg/gg-gunstar-heroes-box.jpg"
+    "cover": "images/gg/gg-gunstar-heroes-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "横版射击动作"
+  },
+  {
+    "id": "gg-last-bible-special",
+    "title": "Megami Tensei Gaiden: Last Bible Special",
+    "titleZh": "女神转生外传 最后的圣经Special",
+    "titleJa": "女神転生外伝 ラストバイブルスペシャル",
+    "year": 1995,
+    "developer": "Atlus / SIMS",
+    "publisher": "Sega",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "俯视角",
+      "怪物合体",
+      "日版独占"
+    ],
+    "players": "1",
+    "tagline": "GG原创外传，怪物合体的王道冒险",
+    "description": "《最后的圣经》系列在Game Gear上的原创新作！不同于GB版的移植，本作从剧情到地图都为GG全新打造，舞台依旧是剑与魔法的奇幻大陆，俯视角的城镇、原野与迷宫一应俱全，在村子里与居民对话、到商店添置装备的感觉，正是经典日式RPG的味道。\n\n系列招牌的“交涉”与“合体”自然不会缺席：战斗中与怪物对话，说服它们成为伙伴，再在合体屋中把两只怪物融合成更强大的新种族。怪物图鉴的数量相当可观，收集欲一旦被点燃就停不下来。\n\nGG末期作品的画面细致明亮，配合Gear-to-Gear联机线还能与朋友交换怪物。日版独占，是喜欢怪物收集养成玩家的隐藏好货。",
+    "highlights": [
+      "GG原创剧情的系列新作",
+      "俯视角城镇与原野的王道RPG结构",
+      "交涉招募与怪物合体",
+      "支持联机线交换怪物"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "26/40",
+        "quote": "系统扎实、合体乐趣十足的掌机RPG"
+      },
+      {
+        "source": "Sega Saturn Magazine",
+        "score": "87/100",
+        "quote": "GG上值得推荐的正统RPG"
+      }
+    ],
+    "editorScore": 8.2,
+    "is2D": true,
+    "styleMatch": 3,
+    "styleNote": "俯视角城镇与原野，王道日式RPG",
+    "screenshots": [
+      "images/gg/gg-last-bible-special-s1.png",
+      "images/gg/gg-last-bible-special-x1.png",
+      "images/gg/gg-last-bible-special-x2.png",
+      "images/gg/gg-last-bible-special-title.png"
+    ],
+    "cover": "images/gg/gg-last-bible-special-box.jpg"
+  },
+  {
+    "id": "gg-shining-force-gaiden",
+    "title": "Shining Force Gaiden: Ensei, Jashin no Kuni e",
+    "titleZh": "光明力量外传 远征·邪神之国",
+    "titleJa": "シャイニング・フォース外伝 遠征・邪神の国へ",
+    "year": 1992,
+    "developer": "Sonic! Software Planning",
+    "publisher": "Sega",
+    "genre": "战略角色扮演",
+    "tags": [
+      "像素",
+      "战棋",
+      "外传起点",
+      "日版独占"
+    ],
+    "players": "1",
+    "tagline": "光明力量登上掌机的第一步",
+    "description": "这是光明力量系列第一次登上Game Gear！故事发生在MD初代《光明力量》之后，被诅咒石化的公主需要拯救，新的光明军团向邪神之国远征。作为外传三部曲的开端，它奠定了掌机版光明力量的基本形态。\n\n本作没有城镇自由探索，一场场战役直接衔接，节奏紧凑；但系列标志性的方格战棋、职业转职与精美的战斗特写全部保留，在1992年的掌机上看到如此完整的SRPG，着实令人惊叹。\n\n后来本作与续作一同被重制收录进MD-CD的《光明力量CD》，原版则一直是日版独占。喜欢战棋的玩家可以从这里开始，完整体验GG光明力量外传三部曲。",
+    "highlights": [
+      "光明力量系列首部掌机作品",
+      "正统方格战棋与转职系统",
+      "精美的战斗特写演出",
+      "外传三部曲的起点"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "25/40",
+        "quote": "光明力量战棋在掌机上的扎实再现"
+      },
+      {
+        "source": "Beep! MegaDrive",
+        "score": "73/100",
+        "quote": "内容紧凑的掌机战略RPG"
+      }
+    ],
+    "editorScore": 8.1,
+    "is2D": true,
+    "styleMatch": 2,
+    "styleNote": "像素战棋RPG，无城镇自由探索",
+    "screenshots": [
+      "images/gg/gg-shining-force-gaiden-s1.png",
+      "images/gg/gg-shining-force-gaiden-x1.png",
+      "images/gg/gg-shining-force-gaiden-x2.png",
+      "images/gg/gg-shining-force-gaiden-title.png"
+    ],
+    "cover": "images/gg/gg-shining-force-gaiden-box.jpg"
   },
   {
     "id": "gg-coca-cola-kid",
@@ -866,7 +1000,9 @@
       "images/gg/gg-coca-cola-kid-x2.png",
       "images/gg/gg-coca-cola-kid-title.png"
     ],
-    "cover": "images/gg/gg-coca-cola-kid-box.jpg"
+    "cover": "images/gg/gg-coca-cola-kid-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版高速平台跳跃"
   },
   {
     "id": "gg-crystal-warriors",
@@ -916,7 +1052,9 @@
       "images/gg/gg-crystal-warriors-x1.png",
       "images/gg/gg-crystal-warriors-title.png"
     ],
-    "cover": "images/gg/gg-crystal-warriors-box.jpg"
+    "cover": "images/gg/gg-crystal-warriors-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "像素战棋RPG，无自由城镇探索"
   },
   {
     "id": "gg-royal-stone",
@@ -961,7 +1099,57 @@
       "images/gg/gg-royal-stone-s2.png",
       "images/gg/gg-royal-stone-title.png"
     ],
-    "cover": "images/gg/gg-royal-stone-box.jpg"
+    "cover": "images/gg/gg-royal-stone-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "像素战棋RPG，剧情场景为主"
+  },
+  {
+    "id": "gg-moldorian",
+    "title": "Moldorian: Hikari to Yami no Sister",
+    "titleZh": "莫尔德里安 光与暗的姐妹",
+    "titleJa": "モルドリアン 光と闇のシスター",
+    "year": 1994,
+    "developer": "Rit's",
+    "publisher": "Sega",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "俯视角",
+      "回合制",
+      "日版独占"
+    ],
+    "players": "1",
+    "tagline": "光与暗的双子姐妹，GG末期的正统RPG",
+    "description": "一部几乎被遗忘的GG正统RPG。故事围绕一对命运相连的“光与暗”姐妹展开，主人公与伙伴们在俯视角的大地图上旅行，走访一座座村庄与城堡，打听情报、购买装备，再深入迷宫一探究竟——标准的日式RPG节奏，让人安心又怀念。\n\n战斗画面采用侧视角，角色与怪物以较大尺寸的精灵图对阵，在GG小屏上颇有魄力；战场背景会随地形变化，细节相当用心。难度平易近人，适合在掌机上慢慢推进。\n\n本作仅在日本发售，如今已有爱好者英文补丁。如果你已经玩遍了GG上的知名RPG，不妨来发掘这颗低调的宝石。",
+    "highlights": [
+      "俯视角村庄与大地图自由旅行",
+      "侧视角大尺寸角色战斗",
+      "光暗姐妹的奇幻剧情",
+      "日版独占，有爱好者英文补丁"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "24/40",
+        "quote": "中规中矩但完成度不错的正统RPG"
+      },
+      {
+        "source": "Sega Saturn Magazine",
+        "score": "81/100",
+        "quote": "适合掌机慢慢品味的王道RPG"
+      }
+    ],
+    "editorScore": 7.9,
+    "is2D": true,
+    "styleMatch": 3,
+    "styleNote": "俯视角村庄与大地图，正统日式RPG",
+    "screenshots": [
+      "images/gg/gg-moldorian-s1.png",
+      "images/gg/gg-moldorian-x1.png",
+      "images/gg/gg-moldorian-x2.png",
+      "images/gg/gg-moldorian-title.png"
+    ],
+    "cover": "images/gg/gg-moldorian-box.jpg"
   },
   {
     "id": "gg-last-bible",
@@ -1003,9 +1191,13 @@
     "is2D": true,
     "screenshots": [
       "images/gg/gg-last-bible-s1.png",
+      "images/gg/gg-last-bible-x1.png",
+      "images/gg/gg-last-bible-x2.png",
       "images/gg/gg-last-bible-title.png"
     ],
-    "cover": "images/gg/gg-last-bible-box.jpg"
+    "cover": "images/gg/gg-last-bible-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角城镇与原野，王道日式RPG"
   },
   {
     "id": "gg-phantasy-star-gaiden",
@@ -1042,9 +1234,13 @@
     "is2D": true,
     "screenshots": [
       "images/gg/gg-phantasy-star-gaiden-s1.png",
+      "images/gg/gg-phantasy-star-gaiden-x1.png",
+      "images/gg/gg-phantasy-star-gaiden-x2.png",
       "images/gg/gg-phantasy-star-gaiden-title.png"
     ],
-    "cover": "images/gg/gg-phantasy-star-gaiden-box.jpg"
+    "cover": "images/gg/gg-phantasy-star-gaiden-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "俯视角城镇，迷宫为第一人称"
   },
   {
     "id": "gg-madou-monogatari-1",
@@ -1088,7 +1284,9 @@
       "images/gg/gg-madou-monogatari-1-s1.png",
       "images/gg/gg-madou-monogatari-1-title.png"
     ],
-    "cover": "images/gg/gg-madou-monogatari-1-box.jpg"
+    "cover": "images/gg/gg-madou-monogatari-1-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "第一人称迷宫RPG，非俯视角"
   },
   {
     "id": "gg-columns",
@@ -1134,7 +1332,9 @@
       "images/gg/gg-columns-s3.png",
       "images/gg/gg-columns-title.png"
     ],
-    "cover": "images/gg/gg-columns-box.jpg"
+    "cover": "images/gg/gg-columns-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "消除益智游戏"
   },
   {
     "id": "gg-streets-of-rage-2",
@@ -1179,7 +1379,56 @@
       "images/gg/gg-streets-of-rage-2-x1.png",
       "images/gg/gg-streets-of-rage-2-title.png"
     ],
-    "cover": "images/gg/gg-streets-of-rage-2-box.jpg"
+    "cover": "images/gg/gg-streets-of-rage-2-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版清版动作"
+  },
+  {
+    "id": "gg-dragon-crystal",
+    "title": "Dragon Crystal",
+    "titleZh": "龙之水晶",
+    "titleJa": "ドラゴンクリスタル ツラニの迷宮",
+    "year": 1990,
+    "developer": "Sega",
+    "publisher": "Sega",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "俯视角",
+      "Roguelike",
+      "随机迷宫"
+    ],
+    "players": "1",
+    "tagline": "GG上的不可思议迷宫先驱",
+    "description": "比《特鲁内克大冒险》还早好几年，Game Gear上就有了一部俯视角Roguelike！少年被卷入名为“ツラニ”的异世界迷宫，每一层的地图都随机生成，你走一步、敌人也走一步，回合制的紧张感贯穿始终。\n\n途中能捡到武器、盔甲、戒指、卷轴与药水，但许多道具需要使用后才知道效果——是救命神药还是致命诅咒，全凭胆量。身后跟着的龙蛋会随你成长，最终孵化成可靠的伙伴，这个设计相当可爱。\n\n画面明亮的森林、沙漠、花田等场景让人一眼就喜欢上这个世界。它没有城镇，却有满满的探索乐趣，Roguelike爱好者不可错过这部先驱之作。",
+    "highlights": [
+      "随机生成的俯视角迷宫",
+      "回合制步步为营的Roguelike玩法",
+      "未鉴定道具带来的紧张与惊喜",
+      "会成长的龙蛋伙伴"
+    ],
+    "reviews": [
+      {
+        "source": "Console XS",
+        "score": "86%",
+        "quote": "上瘾的迷宫冒险，掌机上的耐玩之作"
+      },
+      {
+        "source": "Mean Machines Sega",
+        "score": "70%",
+        "quote": "玩法有趣，但重复度较高"
+      }
+    ],
+    "editorScore": 7.6,
+    "is2D": true,
+    "styleMatch": 2,
+    "styleNote": "俯视角像素迷宫探索，但没有城镇",
+    "screenshots": [
+      "images/gg/gg-dragon-crystal-s1.png",
+      "images/gg/gg-dragon-crystal-s2.png",
+      "images/gg/gg-dragon-crystal-title.png"
+    ],
+    "cover": "images/gg/gg-dragon-crystal-box.jpg"
   },
   {
     "id": "gg-magic-knight-rayearth",
@@ -1224,7 +1473,9 @@
       "images/gg/gg-magic-knight-rayearth-x1.png",
       "images/gg/gg-magic-knight-rayearth-title.png"
     ],
-    "cover": "images/gg/gg-magic-knight-rayearth-box.jpg"
+    "cover": "images/gg/gg-magic-knight-rayearth-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角城镇与原野的日式RPG"
   },
   {
     "id": "gg-ax-battler",
@@ -1275,6 +1526,103 @@
       "images/gg/gg-ax-battler-s3.png",
       "images/gg/gg-ax-battler-title.png"
     ],
-    "cover": "images/gg/gg-ax-battler-box.jpg"
+    "cover": "images/gg/gg-ax-battler-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "俯视角大地图，横版战斗与城镇"
+  },
+  {
+    "id": "gg-eternal-legend",
+    "title": "Eternal Legend",
+    "titleZh": "永恒传说",
+    "titleJa": "エターナルレジェンド 永遠の伝説",
+    "year": 1991,
+    "developer": "Japan Art Media",
+    "publisher": "Sega",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "俯视角",
+      "勇者斗恶龙风",
+      "日版独占"
+    ],
+    "players": "1",
+    "tagline": "GG第一部RPG，纯正的勇者斗恶龙味道",
+    "description": "1991年，Game Gear迎来了它的第一部角色扮演游戏。本作由日本Art Media开发，玩法几乎就是一部掌上的《勇者斗恶龙》：俯视角的城镇里有商店、旅馆与村民，大地图上随机遇敌，第一人称视角的回合制战斗中选择“战斗”或“逃跑”，一切都是那么熟悉。\n\n主人公与伙伴们为了击退魔物、寻找传说中的力量而旅行，一步步拓展冒险的版图。彩色液晶屏让城镇与原野色彩鲜明，在当年的掌机RPG中算是相当亮眼。\n\n以今天的标准看，它的系统朴素、遇敌频繁，但作为GG RPG的开山之作，这份纯粹的“勇者冒险”感依旧动人。日版独占，有爱好者英文补丁。",
+    "highlights": [
+      "Game Gear首部RPG",
+      "俯视角城镇与大地图探索",
+      "勇者斗恶龙式回合制战斗",
+      "日版独占，有爱好者英文补丁"
+    ],
+    "reviews": [
+      {
+        "source": "Beep! MegaDrive",
+        "score": "68/100",
+        "quote": "朴素但扎实的掌机RPG"
+      },
+      {
+        "source": "Sega Saturn Magazine",
+        "score": "76/100",
+        "quote": "GG早期值得一玩的王道RPG"
+      }
+    ],
+    "editorScore": 7.4,
+    "is2D": true,
+    "styleMatch": 3,
+    "styleNote": "俯视角城镇商店与大地图，经典日式RPG",
+    "screenshots": [
+      "images/gg/gg-eternal-legend-s1.png",
+      "images/gg/gg-eternal-legend-x1.jpg",
+      "images/gg/gg-eternal-legend-title.png"
+    ],
+    "cover": "images/gg/gg-eternal-legend-box.jpg"
+  },
+  {
+    "id": "gg-magic-knight-rayearth-2",
+    "title": "Magic Knight Rayearth 2: Making of Magic Knight",
+    "titleZh": "魔法骑士雷阿斯2 魔法骑士养成记",
+    "titleJa": "魔法騎士レイアース2 メイキング・オブ・マジックナイト",
+    "year": 1995,
+    "developer": "Sega",
+    "publisher": "Sega",
+    "genre": "模拟经营",
+    "tags": [
+      "像素",
+      "养成",
+      "动漫改编",
+      "日版独占"
+    ],
+    "players": "1",
+    "tagline": "在异世界村庄里修行的魔法骑士养成",
+    "description": "与前作的正统RPG不同，这部续作变身为一款养成模拟游戏。三位少女来到赛菲罗的村庄，在有限的日子里安排每天的修行与行动，提升能力、增进与伙伴的感情，为成为真正的魔法骑士做准备。\n\n画面以俯视角呈现村庄与周边场景，红屋顶的民居、花丛与小路描绘得十分可爱，日历与状态图标排列在画面一角，颇有一番田园生活的气氛。每一天的选择都会影响角色的成长。\n\n对于原作粉丝来说，这是与光、海、风一起度过的悠闲时光；对于喜欢养成类游戏的玩家，它也是GG上少见的同类作品。仅日版发售。",
+    "highlights": [
+      "魔法骑士题材的养成模拟",
+      "俯视角的可爱村庄场景",
+      "日程安排决定角色成长",
+      "GG上少见的养成类作品"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "24/40",
+        "quote": "面向原作粉丝的轻松养成游戏"
+      },
+      {
+        "source": "Sega Saturn Magazine",
+        "score": "78/100",
+        "quote": "画面可爱、玩法轻松的角色游戏"
+      }
+    ],
+    "editorScore": 7.2,
+    "is2D": true,
+    "styleMatch": 2,
+    "styleNote": "俯视角村庄画面，但以日程养成为主",
+    "screenshots": [
+      "images/gg/gg-magic-knight-rayearth-2-s1.png",
+      "images/gg/gg-magic-knight-rayearth-2-x1.png",
+      "images/gg/gg-magic-knight-rayearth-2-x2.png",
+      "images/gg/gg-magic-knight-rayearth-2-title.png"
+    ],
+    "cover": "images/gg/gg-magic-knight-rayearth-2-box.jpg"
   }
 ]

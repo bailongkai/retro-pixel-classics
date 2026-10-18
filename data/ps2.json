@@ -46,7 +46,9 @@
       "images/ps2/ps2-odin-sphere-x1.jpg",
       "images/ps2/ps2-odin-sphere-title.png"
     ],
-    "cover": "images/ps2/ps2-odin-sphere-box.jpg"
+    "cover": "images/ps2/ps2-odin-sphere-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "横版视角手绘ARPG，有城镇但非俯视"
   },
   {
     "id": "ps2-dragon-quest-viii",
@@ -95,7 +97,9 @@
       "images/ps2/ps2-dragon-quest-viii-x1.png",
       "images/ps2/ps2-dragon-quest-viii-title.png"
     ],
-    "cover": "images/ps2/ps2-dragon-quest-viii-box.jpg"
+    "cover": "images/ps2/ps2-dragon-quest-viii-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "全3D卡通渲染，非2D像素"
   },
   {
     "id": "ps2-final-fantasy-x",
@@ -144,7 +148,9 @@
       "images/ps2/ps2-final-fantasy-x-x1.png",
       "images/ps2/ps2-final-fantasy-x-title.png"
     ],
-    "cover": "images/ps2/ps2-final-fantasy-x-box.jpg"
+    "cover": "images/ps2/ps2-final-fantasy-x-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "全3D画面，线性流程"
   },
   {
     "id": "ps2-disgaea",
@@ -190,9 +196,13 @@
     "is2D": true,
     "screenshots": [
       "images/ps2/ps2-disgaea-s1.png",
+      "images/ps2/ps2-disgaea-x1.jpg",
+      "images/ps2/ps2-disgaea-x2.jpg",
       "images/ps2/ps2-disgaea-title.png"
     ],
-    "cover": "images/ps2/ps2-disgaea-box.jpg"
+    "cover": "images/ps2/ps2-disgaea-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "像素战棋，城镇为据点场景"
   },
   {
     "id": "ps2-okami",
@@ -241,7 +251,9 @@
       "images/ps2/ps2-okami-x1.jpg",
       "images/ps2/ps2-okami-title.png"
     ],
-    "cover": "images/ps2/ps2-okami-box.jpg"
+    "cover": "images/ps2/ps2-okami-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "3D水墨风动作冒险"
   },
   {
     "id": "ps2-shadow-of-the-colossus",
@@ -291,7 +303,9 @@
       "images/ps2/ps2-shadow-of-the-colossus-x2.jpg",
       "images/ps2/ps2-shadow-of-the-colossus-title.png"
     ],
-    "cover": "images/ps2/ps2-shadow-of-the-colossus-box.jpg"
+    "cover": "images/ps2/ps2-shadow-of-the-colossus-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "全3D动作冒险，无城镇"
   },
   {
     "id": "ps2-persona-4",
@@ -341,7 +355,9 @@
       "images/ps2/ps2-persona-4-x2.jpg",
       "images/ps2/ps2-persona-4-title.png"
     ],
-    "cover": "images/ps2/ps2-persona-4-box.jpg"
+    "cover": "images/ps2/ps2-persona-4-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "3D校园与迷宫"
   },
   {
     "id": "ps2-dragon-quest-v",
@@ -381,7 +397,9 @@
       "images/ps2/ps2-dragon-quest-v-x2.png",
       "images/ps2/ps2-dragon-quest-v-title.png"
     ],
-    "cover": "images/ps2/ps2-dragon-quest-v-box.jpg"
+    "cover": "images/ps2/ps2-dragon-quest-v-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "3D重制版，非像素画面"
   },
   {
     "id": "ps2-final-fantasy-xii",
@@ -432,7 +450,9 @@
       "images/ps2/ps2-final-fantasy-xii-x3.png",
       "images/ps2/ps2-final-fantasy-xii-title.png"
     ],
-    "cover": "images/ps2/ps2-final-fantasy-xii-box.jpg"
+    "cover": "images/ps2/ps2-final-fantasy-xii-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "全3D无缝世界"
   },
   {
     "id": "ps2-disgaea-2",
@@ -482,7 +502,9 @@
       "images/ps2/ps2-disgaea-2-x2.jpg",
       "images/ps2/ps2-disgaea-2-title.png"
     ],
-    "cover": "images/ps2/ps2-disgaea-2-box.jpg"
+    "cover": "images/ps2/ps2-disgaea-2-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "像素战棋，城镇为据点场景"
   },
   {
     "id": "ps2-kingdom-hearts-ii",
@@ -532,7 +554,9 @@
       "images/ps2/ps2-kingdom-hearts-ii-x2.png",
       "images/ps2/ps2-kingdom-hearts-ii-title.png"
     ],
-    "cover": "images/ps2/ps2-kingdom-hearts-ii-box.jpg"
+    "cover": "images/ps2/ps2-kingdom-hearts-ii-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "3D动作RPG"
   },
   {
     "id": "ps2-persona-3",
@@ -581,7 +605,9 @@
       "images/ps2/ps2-persona-3-x1.png",
       "images/ps2/ps2-persona-3-title.png"
     ],
-    "cover": "images/ps2/ps2-persona-3-box.jpg"
+    "cover": "images/ps2/ps2-persona-3-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "3D校园与迷宫"
   },
   {
     "id": "ps2-guilty-gear-xx",
@@ -630,7 +656,9 @@
       "images/ps2/ps2-guilty-gear-xx-x1.jpg",
       "images/ps2/ps2-guilty-gear-xx-title.png"
     ],
-    "cover": "images/ps2/ps2-guilty-gear-xx-box.jpg"
+    "cover": "images/ps2/ps2-guilty-gear-xx-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "2D格斗游戏"
   },
   {
     "id": "ps2-kingdom-hearts",
@@ -679,7 +707,9 @@
       "images/ps2/ps2-kingdom-hearts-x1.png",
       "images/ps2/ps2-kingdom-hearts-title.png"
     ],
-    "cover": "images/ps2/ps2-kingdom-hearts-box.jpg"
+    "cover": "images/ps2/ps2-kingdom-hearts-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "3D动作RPG"
   },
   {
     "id": "ps2-tales-of-the-abyss",
@@ -728,7 +758,9 @@
       "images/ps2/ps2-tales-of-the-abyss-x1.jpg",
       "images/ps2/ps2-tales-of-the-abyss-title.png"
     ],
-    "cover": "images/ps2/ps2-tales-of-the-abyss-box.jpg"
+    "cover": "images/ps2/ps2-tales-of-the-abyss-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "3D传说，非像素画面"
   },
   {
     "id": "ps2-grimgrimoire",
@@ -777,7 +809,9 @@
       "images/ps2/ps2-grimgrimoire-x1.png",
       "images/ps2/ps2-grimgrimoire-title.png"
     ],
-    "cover": "images/ps2/ps2-grimgrimoire-box.jpg"
+    "cover": "images/ps2/ps2-grimgrimoire-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "手绘2D即时战略，无探索"
   },
   {
     "id": "ps2-phantom-brave",
@@ -827,7 +861,9 @@
       "images/ps2/ps2-phantom-brave-x2.jpg",
       "images/ps2/ps2-phantom-brave-title.png"
     ],
-    "cover": "images/ps2/ps2-phantom-brave-box.jpg"
+    "cover": "images/ps2/ps2-phantom-brave-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "像素战棋，小岛据点可走动"
   },
   {
     "id": "ps2-street-fighter-anniversary-collection",
@@ -871,7 +907,9 @@
       "images/ps2/ps2-street-fighter-anniversary-collection-s2.png",
       "images/ps2/ps2-street-fighter-anniversary-collection-title.png"
     ],
-    "cover": "images/ps2/ps2-street-fighter-anniversary-collection-box.jpg"
+    "cover": "images/ps2/ps2-street-fighter-anniversary-collection-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "2D格斗合集"
   },
   {
     "id": "ps2-tales-of-destiny",
@@ -910,7 +948,9 @@
       "images/ps2/ps2-tales-of-destiny-x2.jpg",
       "images/ps2/ps2-tales-of-destiny-x3.jpg"
     ],
-    "cover": "images/ps2/ps2-tales-of-destiny-box.jpg"
+    "cover": "images/ps2/ps2-tales-of-destiny-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角2D点阵角色，自由逛城镇"
   },
   {
     "id": "ps2-suikoden-v",
@@ -960,7 +1000,9 @@
       "images/ps2/ps2-suikoden-v-x2.jpg",
       "images/ps2/ps2-suikoden-v-title.png"
     ],
-    "cover": "images/ps2/ps2-suikoden-v-box.jpg"
+    "cover": "images/ps2/ps2-suikoden-v-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "3D画面的JRPG"
   },
   {
     "id": "ps2-la-pucelle-tactics",
@@ -1009,7 +1051,9 @@
       "images/ps2/ps2-la-pucelle-tactics-x1.png",
       "images/ps2/ps2-la-pucelle-tactics-title.png"
     ],
-    "cover": "images/ps2/ps2-la-pucelle-tactics-box.jpg"
+    "cover": "images/ps2/ps2-la-pucelle-tactics-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "像素战棋，城镇为据点场景"
   },
   {
     "id": "ps2-gradius-v",
@@ -1060,7 +1104,9 @@
       "images/ps2/ps2-gradius-v-x1.jpg",
       "images/ps2/ps2-gradius-v-title.png"
     ],
-    "cover": "images/ps2/ps2-gradius-v-box.jpg"
+    "cover": "images/ps2/ps2-gradius-v-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "横版射击游戏"
   },
   {
     "id": "ps2-tales-of-destiny-2",
@@ -1099,7 +1145,45 @@
       "images/ps2/ps2-tales-of-destiny-2-x1.jpg",
       "images/ps2/ps2-tales-of-destiny-2-x2.jpg"
     ],
-    "cover": "images/ps2/ps2-tales-of-destiny-2-box.jpg"
+    "cover": "images/ps2/ps2-tales-of-destiny-2-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "2D点阵角色俯视逛城镇与原野"
+  },
+  {
+    "id": "ps2-ys-i-ii-eternal-story",
+    "title": "Ys I & II Eternal Story",
+    "titleZh": "伊苏I·II 永恒故事",
+    "titleJa": "イースI・II エターナルストーリー",
+    "year": 2003,
+    "developer": "Nihon Falcom（原作）/ Taito",
+    "publisher": "Taito",
+    "genre": "动作角色扮演",
+    "tags": [
+      "像素",
+      "俯视角",
+      "撞击战斗"
+    ],
+    "players": "1",
+    "tagline": "红发亚特鲁的原点，撞出来的冒险",
+    "description": "红发剑士亚特鲁·克利斯汀的传奇，从这里开始。《伊苏I·II 永恒故事》把Falcom在PC上重制的《伊苏I·II 永恒版》移植到PS2，俯视角的像素小镇、酒馆、教会、矿山与神殿，正是那种老派日式ARPG最纯粹的味道。\n\n系列招牌的「撞击战斗」不用按攻击键，偏开敌人正面撞上去就能造成伤害，节奏轻快到停不下来；Falcom Sound Team jdk的经典旋律更是百听不厌。PS2版在原版模式之外追加了「永恒故事」模式，新增角色与装备切换系统。想体验最正宗的俯视角像素ARPG，这里就是起点。",
+    "highlights": [
+      "经典俯视角像素ARPG",
+      "独特的「撞击」战斗系统",
+      "Falcom名曲重编",
+      "PS2版追加永恒故事模式"
+    ],
+    "reviews": [],
+    "editorScore": 8.4,
+    "is2D": true,
+    "screenshots": [
+      "images/ps2/ps2-ys-i-ii-eternal-story-s1.png",
+      "images/ps2/ps2-ys-i-ii-eternal-story-x1.png",
+      "images/ps2/ps2-ys-i-ii-eternal-story-x2.jpg",
+      "images/ps2/ps2-ys-i-ii-eternal-story-title.png"
+    ],
+    "cover": "images/ps2/ps2-ys-i-ii-eternal-story-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素ARPG，可逛村镇与商店"
   },
   {
     "id": "ps2-metal-slug-anthology",
@@ -1143,7 +1227,9 @@
       "images/ps2/ps2-metal-slug-anthology-x1.png",
       "images/ps2/ps2-metal-slug-anthology-title.png"
     ],
-    "cover": "images/ps2/ps2-metal-slug-anthology-box.jpg"
+    "cover": "images/ps2/ps2-metal-slug-anthology-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "像素横版射击清版"
   },
   {
     "id": "ps2-tales-of-rebirth",
@@ -1183,7 +1269,9 @@
       "images/ps2/ps2-tales-of-rebirth-x3.jpg",
       "images/ps2/ps2-tales-of-rebirth-x4.jpg"
     ],
-    "cover": "images/ps2/ps2-tales-of-rebirth-box.jpg"
+    "cover": "images/ps2/ps2-tales-of-rebirth-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "2D点阵角色俯视逛城镇与原野"
   },
   {
     "id": "ps2-growlanser-generations",
@@ -1222,7 +1310,9 @@
       "images/ps2/ps2-growlanser-generations-s2.png",
       "images/ps2/ps2-growlanser-generations-title.png"
     ],
-    "cover": "images/ps2/ps2-growlanser-generations-box.jpg"
+    "cover": "images/ps2/ps2-growlanser-generations-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "像素角色俯视城镇，战斗为战术"
   },
   {
     "id": "ps2-summon-night-3",
@@ -1255,7 +1345,9 @@
       "images/ps2/ps2-summon-night-3-x2.jpg",
       "images/ps2/ps2-summon-night-3-x3.jpg"
     ],
-    "cover": "images/ps2/ps2-summon-night-3-box.jpg"
+    "cover": "images/ps2/ps2-summon-night-3-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "像素战棋，孤岛据点可走动"
   },
   {
     "id": "ps2-mega-man-anniversary-collection",
@@ -1303,7 +1395,44 @@
       "images/ps2/ps2-mega-man-anniversary-collection-s1.png",
       "images/ps2/ps2-mega-man-anniversary-collection-title.png"
     ],
-    "cover": "images/ps2/ps2-mega-man-anniversary-collection-box.jpg"
+    "cover": "images/ps2/ps2-mega-man-anniversary-collection-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "像素横版动作，无城镇"
+  },
+  {
+    "id": "ps2-growlanser-iv",
+    "title": "Growlanser IV: Wayfarer of the Time",
+    "titleZh": "梦幻骑士IV 时之旅人",
+    "titleJa": "グローランサーIV Wayfarer of the time",
+    "year": 2003,
+    "developer": "Career Soft",
+    "publisher": "Atlus",
+    "genre": "战略角色扮演",
+    "tags": [
+      "2D点阵",
+      "即时战术",
+      "多结局"
+    ],
+    "players": "1",
+    "tagline": "斩断预言的佣兵，漆原智志的华丽画卷",
+    "description": "「天使」将在不久后降临，毁灭被判定为罪人的人类——佣兵团出身的少年雷姆斯为了改变这个预言踏上了旅途。《梦幻骑士IV》是系列口碑最高的一作，它把即时战术战斗与丰富的支线、好感度和多结局结合得恰到好处。\n\n城镇与原野以2D点阵角色呈现，可以自由走动与居民对话；战斗中给每个角色下达指令后即时推进，魔法吟唱与走位都需要精打细算。漆原智志的人设一如既往地华丽，「任务失败也不会Game Over」的设计让分支剧情更有张力。",
+    "highlights": [
+      "系列口碑最高作",
+      "即时指令战术战斗",
+      "大量分支与多结局",
+      "漆原智志人设"
+    ],
+    "reviews": [],
+    "editorScore": 8.2,
+    "is2D": true,
+    "screenshots": [
+      "images/ps2/ps2-growlanser-iv-s1.png",
+      "images/ps2/ps2-growlanser-iv-x1.png",
+      "images/ps2/ps2-growlanser-iv-title.png"
+    ],
+    "cover": "images/ps2/ps2-growlanser-iv-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "像素角色走城镇，战斗为即时战术"
   },
   {
     "id": "ps2-kof-98-ultimate-match",
@@ -1342,7 +1471,9 @@
       "images/ps2/ps2-kof-98-ultimate-match-x1.png",
       "images/ps2/ps2-kof-98-ultimate-match-title.png"
     ],
-    "cover": "images/ps2/ps2-kof-98-ultimate-match-box.jpg"
+    "cover": "images/ps2/ps2-kof-98-ultimate-match-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "2D格斗游戏"
   },
   {
     "id": "ps2-street-fighter-alpha-anthology",
@@ -1386,7 +1517,9 @@
       "images/ps2/ps2-street-fighter-alpha-anthology-x1.png",
       "images/ps2/ps2-street-fighter-alpha-anthology-title.png"
     ],
-    "cover": "images/ps2/ps2-street-fighter-alpha-anthology-box.jpg"
+    "cover": "images/ps2/ps2-street-fighter-alpha-anthology-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "2D格斗合集"
   },
   {
     "id": "ps2-atelier-iris",
@@ -1435,7 +1568,9 @@
       "images/ps2/ps2-atelier-iris-x1.jpg",
       "images/ps2/ps2-atelier-iris-title.png"
     ],
-    "cover": "images/ps2/ps2-atelier-iris-box.jpg"
+    "cover": "images/ps2/ps2-atelier-iris-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "2D像素小镇自由探索与商店"
   },
   {
     "id": "ps2-makai-kingdom",
@@ -1475,7 +1610,9 @@
       "images/ps2/ps2-makai-kingdom-x2.jpg",
       "images/ps2/ps2-makai-kingdom-title.png"
     ],
-    "cover": "images/ps2/ps2-makai-kingdom-box.jpg"
+    "cover": "images/ps2/ps2-makai-kingdom-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "像素战棋，无城镇探索"
   },
   {
     "id": "ps2-samurai-shodown-anthology",
@@ -1513,7 +1650,43 @@
       "images/ps2/ps2-samurai-shodown-anthology-s1.png",
       "images/ps2/ps2-samurai-shodown-anthology-title.png"
     ],
-    "cover": "images/ps2/ps2-samurai-shodown-anthology-box.jpg"
+    "cover": "images/ps2/ps2-samurai-shodown-anthology-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "2D格斗合集"
+  },
+  {
+    "id": "ps2-lilie-no-atelier",
+    "title": "Atelier Lilie: The Alchemist of Salburg 3",
+    "titleZh": "莉莉的工作室",
+    "titleJa": "リリーのアトリエ 〜ザールブルグの錬金術士3〜",
+    "year": 2001,
+    "developer": "Gust",
+    "publisher": "Gust",
+    "genre": "角色扮演",
+    "tags": [
+      "2D点阵",
+      "炼金",
+      "经营养成"
+    ],
+    "players": "1",
+    "tagline": "斜45度的炼金小镇，开店过日子",
+    "description": "「工作室」系列在PS2上的第一作，时间设定在初代《玛莉的工作室》之前：年轻的炼金术士莉莉带着两个小徒弟来到萨尔布鲁格，要在这里开设炼金学院。\n\n本作是一款以「过日子」为核心的RPG：斜45度视角的2D点阵小镇里，酒馆接委托、商店买素材、外出采集、回到工作室调合道具，日历一天天翻过，结局随你的经营方式而变化。精致的手绘点阵房屋与Q版人物，正是那种让人想在小镇里慢慢逛下去的温馨感。可惜只在日本发售。",
+    "highlights": [
+      "2D点阵斜视角小镇",
+      "接委托、采集、调合的经营循环",
+      "多结局养成",
+      "系列PS2首作"
+    ],
+    "reviews": [],
+    "editorScore": 8.0,
+    "is2D": true,
+    "screenshots": [
+      "images/ps2/ps2-lilie-no-atelier-s1.png",
+      "images/ps2/ps2-lilie-no-atelier-x1.jpg"
+    ],
+    "cover": "images/ps2/ps2-lilie-no-atelier-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "斜视角2D点阵小镇，可自由逛店"
   },
   {
     "id": "ps2-mega-man-x-collection",
@@ -1562,7 +1735,9 @@
       "images/ps2/ps2-mega-man-x-collection-x1.png",
       "images/ps2/ps2-mega-man-x-collection-title.png"
     ],
-    "cover": "images/ps2/ps2-mega-man-x-collection-box.jpg"
+    "cover": "images/ps2/ps2-mega-man-x-collection-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "像素横版动作，无城镇"
   },
   {
     "id": "ps2-soul-nomad",
@@ -1608,9 +1783,13 @@
     "is2D": true,
     "screenshots": [
       "images/ps2/ps2-soul-nomad-s1.png",
+      "images/ps2/ps2-soul-nomad-x1.jpg",
+      "images/ps2/ps2-soul-nomad-x2.jpg",
       "images/ps2/ps2-soul-nomad-title.png"
     ],
-    "cover": "images/ps2/ps2-soul-nomad-box.jpg"
+    "cover": "images/ps2/ps2-soul-nomad-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "像素战棋，城镇为菜单场景"
   },
   {
     "id": "ps2-ar-tonelico",
@@ -1659,7 +1838,9 @@
       "images/ps2/ps2-ar-tonelico-x1.jpg",
       "images/ps2/ps2-ar-tonelico-title.png"
     ],
-    "cover": "images/ps2/ps2-ar-tonelico-box.jpg"
+    "cover": "images/ps2/ps2-ar-tonelico-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "2D角色在3D场景中探索城镇"
   },
   {
     "id": "ps2-mana-khemia",
@@ -1708,7 +1889,9 @@
       "images/ps2/ps2-mana-khemia-x1.png",
       "images/ps2/ps2-mana-khemia-title.png"
     ],
-    "cover": "images/ps2/ps2-mana-khemia-box.jpg"
+    "cover": "images/ps2/ps2-mana-khemia-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "2D角色在3D校园中探索"
   },
   {
     "id": "ps2-ar-tonelico-2",
@@ -1753,7 +1936,9 @@
       "images/ps2/ps2-ar-tonelico-2-x2.jpg",
       "images/ps2/ps2-ar-tonelico-2-title.png"
     ],
-    "cover": "images/ps2/ps2-ar-tonelico-2-box.jpg"
+    "cover": "images/ps2/ps2-ar-tonelico-2-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "2D角色在3D场景中探索城镇"
   },
   {
     "id": "ps2-arcana-heart",
@@ -1792,7 +1977,9 @@
       "images/ps2/ps2-arcana-heart-x1.jpg",
       "images/ps2/ps2-arcana-heart-title.png"
     ],
-    "cover": "images/ps2/ps2-arcana-heart-box.jpg"
+    "cover": "images/ps2/ps2-arcana-heart-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "2D格斗游戏"
   },
   {
     "id": "ps2-atelier-iris-2",
@@ -1838,8 +2025,166 @@
     "is2D": true,
     "screenshots": [
       "images/ps2/ps2-atelier-iris-2-s1.png",
+      "images/ps2/ps2-atelier-iris-2-x1.jpg",
+      "images/ps2/ps2-atelier-iris-2-x2.jpg",
       "images/ps2/ps2-atelier-iris-2-title.png"
     ],
-    "cover": "images/ps2/ps2-atelier-iris-2-box.jpg"
+    "cover": "images/ps2/ps2-atelier-iris-2-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "2D像素城镇自由探索与商店"
+  },
+  {
+    "id": "ps2-mana-khemia-2",
+    "title": "Mana Khemia 2: Fall of Alchemy",
+    "titleZh": "玛娜炼金学园2",
+    "titleJa": "マナケミア2 ～おちた学園と錬金術士たち～",
+    "year": 2008,
+    "developer": "Gust",
+    "publisher": "Gust (NA: NIS America)",
+    "genre": "角色扮演",
+    "tags": [
+      "2D点阵",
+      "魔法学院",
+      "双主角"
+    ],
+    "players": "1",
+    "tagline": "衰落学院的双主角青春物语",
+    "description": "昔日辉煌的阿尔·雷比斯学园如今经营惨淡、学生流失。少年罗乌拉和少女乌尔丽卡两位主角，各自带着伙伴面对学院的危机，两条故事线视角各异。\n\n延续前作的学院生活玩法：上课、做作业、在校园里四处走动接委托，用炼金合成道具与装备。战斗加入了更讲究配合的「联合攻击」系统，节奏更紧凑。2D点阵角色在3D校园场景中活泼可爱，是系列粉丝的温馨续篇。",
+    "highlights": [
+      "双主角双路线剧情",
+      "学院生活与炼金合成",
+      "强化的联合攻击战斗",
+      "2D点阵角色"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "32/40",
+        "quote": "双主角设计带来新鲜感"
+      },
+      {
+        "source": "IGN",
+        "score": "8/10",
+        "quote": "比前作更加精致的续作"
+      },
+      {
+        "source": "Metacritic",
+        "score": "70/100",
+        "quote": "评价中上"
+      }
+    ],
+    "editorScore": 7.5,
+    "is2D": true,
+    "screenshots": [
+      "images/ps2/ps2-mana-khemia-2-s1.png",
+      "images/ps2/ps2-mana-khemia-2-x1.jpg",
+      "images/ps2/ps2-mana-khemia-2-title.png"
+    ],
+    "cover": "images/ps2/ps2-mana-khemia-2-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "2D角色在3D校园中探索"
+  },
+  {
+    "id": "ps2-atelier-iris-3",
+    "title": "Atelier Iris 3: Grand Phantasm",
+    "titleZh": "伊利斯的工作室3",
+    "titleJa": "イリスのアトリエ グランファンタズム",
+    "year": 2006,
+    "developer": "Gust",
+    "publisher": "Gust (NA: NIS America)",
+    "genre": "角色扮演",
+    "tags": [
+      "2D点阵",
+      "炼金",
+      "迷宫探索"
+    ],
+    "players": "1",
+    "tagline": "闯进魔法书里的2D点阵冒险",
+    "description": "「伊利斯」三部曲的完结篇，依然坚持全2D点阵画面。冒险者少女伊莉丝与搭档埃德加为了实现愿望，要收集散落在魔法书「Alterra」中的宝石，每次进入书中世界都有时间限制。\n\n本作更偏重迷宫探索与战斗，以接受酒馆委托、限时探索的节奏推进，炼金合成系统更加简化易上手。场景与角色点阵依旧精致可爱，Gust Sound Team的配乐也很有水准。虽然媒体评价不及前两作，但对喜欢2D像素RPG的玩家来说，仍是一部值得一玩的作品。",
+    "highlights": [
+      "全2D点阵画面",
+      "限时进入书中世界的探索",
+      "委托驱动的轻快节奏",
+      "系列三部曲完结篇"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "32/40",
+        "quote": "2D画面精美，节奏明快"
+      },
+      {
+        "source": "IGN",
+        "score": "6/10",
+        "quote": "画面讨喜但内容偏单薄"
+      },
+      {
+        "source": "Metacritic",
+        "score": "63/100",
+        "quote": "评价褒贬不一"
+      }
+    ],
+    "editorScore": 7.3,
+    "is2D": true,
+    "screenshots": [
+      "images/ps2/ps2-atelier-iris-3-s1.png",
+      "images/ps2/ps2-atelier-iris-3-x1.jpg",
+      "images/ps2/ps2-atelier-iris-3-x2.jpg",
+      "images/ps2/ps2-atelier-iris-3-title.png"
+    ],
+    "cover": "images/ps2/ps2-atelier-iris-3-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "2D像素场景，可走动城镇与原野"
+  },
+  {
+    "id": "ps2-shining-tears",
+    "title": "Shining Tears",
+    "titleZh": "光明之泪",
+    "titleJa": "シャイニング・ティアーズ",
+    "year": 2004,
+    "developer": "Nextech",
+    "publisher": "Sega",
+    "genre": "动作角色扮演",
+    "tags": [
+      "2D点阵",
+      "俯视角",
+      "双人合作"
+    ],
+    "players": "1-2",
+    "tagline": "Tony Taka笔下的俯视角双剑ARPG",
+    "description": "世嘉「光明」系列在PS2上的转型之作。失忆少年西翁被神秘少女救起，手上戴着能与伙伴共鸣的「双子之戒」——于是一段关于记忆与命运的冒险展开。\n\n游戏采用俯视角动作战斗：2D点阵角色在立体地图中奔跑砍杀，左右手分别控制主角和搭档，还可以双人合作。Tony Taka的美型人设一时话题十足，原野、城镇与迷宫一应俱全。战斗略显重复、媒体评价一般，但对喜欢俯视角ARPG的玩家，它是PS2上少有的同类作品。",
+    "highlights": [
+      "俯视角2D角色动作战斗",
+      "主角与搭档双人操控",
+      "Tony Taka人设",
+      "支持双人合作"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "31/40",
+        "quote": "画面华丽，动作爽快"
+      },
+      {
+        "source": "IGN",
+        "score": "6.1/10",
+        "quote": "人设出色但战斗重复"
+      },
+      {
+        "source": "Metacritic",
+        "score": "61/100",
+        "quote": "评价褒贬不一"
+      }
+    ],
+    "editorScore": 7.0,
+    "is2D": true,
+    "screenshots": [
+      "images/ps2/ps2-shining-tears-s1.png",
+      "images/ps2/ps2-shining-tears-x1.jpg",
+      "images/ps2/ps2-shining-tears-x2.jpg"
+    ],
+    "cover": "images/ps2/ps2-shining-tears-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角2D角色ARPG，有城镇探索"
   }
 ]

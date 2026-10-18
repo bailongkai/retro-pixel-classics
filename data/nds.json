@@ -43,9 +43,13 @@
     "is2D": true,
     "screenshots": [
       "images/nds/nds-chrono-trigger-s1.png",
+      "images/nds/nds-chrono-trigger-x1.png",
+      "images/nds/nds-chrono-trigger-x2.png",
       "images/nds/nds-chrono-trigger-title.png"
     ],
-    "cover": "images/nds/nds-chrono-trigger-box.jpg"
+    "cover": "images/nds/nds-chrono-trigger-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG，城镇村庄自由探索"
   },
   {
     "id": "nds-dragon-quest-v",
@@ -94,7 +98,9 @@
       "images/nds/nds-dragon-quest-v-s2.png",
       "images/nds/nds-dragon-quest-v-title.png"
     ],
-    "cover": "images/nds/nds-dragon-quest-v-box.jpg"
+    "cover": "images/nds/nds-dragon-quest-v-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "像素小人走3D城镇，经典俯视王道RPG"
   },
   {
     "id": "nds-castlevania-dawn-of-sorrow",
@@ -142,7 +148,9 @@
       "images/nds/nds-castlevania-dawn-of-sorrow-s1.png",
       "images/nds/nds-castlevania-dawn-of-sorrow-title.png"
     ],
-    "cover": "images/nds/nds-castlevania-dawn-of-sorrow-box.jpg"
+    "cover": "images/nds/nds-castlevania-dawn-of-sorrow-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版银河恶魔城，几乎没有城镇"
   },
   {
     "id": "nds-the-world-ends-with-you",
@@ -188,9 +196,12 @@
     "is2D": true,
     "screenshots": [
       "images/nds/nds-the-world-ends-with-you-s1.png",
+      "images/nds/nds-the-world-ends-with-you-x1.png",
       "images/nds/nds-the-world-ends-with-you-title.png"
     ],
-    "cover": "images/nds/nds-the-world-ends-with-you-box.jpg"
+    "cover": "images/nds/nds-the-world-ends-with-you-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "俯视2D涩谷街区，都市而非村庄"
   },
   {
     "id": "nds-mario-luigi-bowsers-inside-story",
@@ -236,9 +247,13 @@
     "is2D": true,
     "screenshots": [
       "images/nds/nds-mario-luigi-bowsers-inside-story-s1.png",
+      "images/nds/nds-mario-luigi-bowsers-inside-story-x1.png",
+      "images/nds/nds-mario-luigi-bowsers-inside-story-x2.png",
       "images/nds/nds-mario-luigi-bowsers-inside-story-title.png"
     ],
-    "cover": "images/nds/nds-mario-luigi-bowsers-inside-story-box.jpg"
+    "cover": "images/nds/nds-mario-luigi-bowsers-inside-story-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "斜45度像素RPG，可逛蘑菇城镇"
   },
   {
     "id": "nds-pokemon-heartgold-soulsilver",
@@ -287,7 +302,9 @@
       "images/nds/nds-pokemon-heartgold-soulsilver-s2.png",
       "images/nds/nds-pokemon-heartgold-soulsilver-title.png"
     ],
-    "cover": "images/nds/nds-pokemon-heartgold-soulsilver-box.jpg"
+    "cover": "images/nds/nds-pokemon-heartgold-soulsilver-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视像素RPG，城镇道馆自由探索"
   },
   {
     "id": "nds-castlevania-order-of-ecclesia",
@@ -333,9 +350,13 @@
     "is2D": true,
     "screenshots": [
       "images/nds/nds-castlevania-order-of-ecclesia-s1.png",
+      "images/nds/nds-castlevania-order-of-ecclesia-x1.png",
+      "images/nds/nds-castlevania-order-of-ecclesia-x2.png",
       "images/nds/nds-castlevania-order-of-ecclesia-title.png"
     ],
-    "cover": "images/nds/nds-castlevania-order-of-ecclesia-box.jpg"
+    "cover": "images/nds/nds-castlevania-order-of-ecclesia-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "横版恶魔城，有村庄与商店据点"
   },
   {
     "id": "nds-dragon-quest-ix",
@@ -384,7 +405,9 @@
       "images/nds/nds-dragon-quest-ix-s2.png",
       "images/nds/nds-dragon-quest-ix-title.png"
     ],
-    "cover": "images/nds/nds-dragon-quest-ix-box.jpg"
+    "cover": "images/nds/nds-dragon-quest-ix-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "全3D建模，非像素画面"
   },
   {
     "id": "nds-radiant-historia",
@@ -430,9 +453,13 @@
     "is2D": true,
     "screenshots": [
       "images/nds/nds-radiant-historia-s1.png",
+      "images/nds/nds-radiant-historia-x1.jpg",
+      "images/nds/nds-radiant-historia-x2.jpg",
       "images/nds/nds-radiant-historia-title.png"
     ],
-    "cover": "images/nds/nds-radiant-historia-box.jpg"
+    "cover": "images/nds/nds-radiant-historia-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视像素RPG，城镇与原野自由探索"
   },
   {
     "id": "nds-castlevania-portrait-of-ruin",
@@ -480,7 +507,9 @@
       "images/nds/nds-castlevania-portrait-of-ruin-s1.png",
       "images/nds/nds-castlevania-portrait-of-ruin-title.png"
     ],
-    "cover": "images/nds/nds-castlevania-portrait-of-ruin-box.jpg"
+    "cover": "images/nds/nds-castlevania-portrait-of-ruin-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版银河恶魔城，无城镇"
   },
   {
     "id": "nds-osu-tatakae-ouendan",
@@ -519,7 +548,112 @@
       "images/nds/nds-osu-tatakae-ouendan-s2.png",
       "images/nds/nds-osu-tatakae-ouendan-title.png"
     ],
-    "cover": "images/nds/nds-osu-tatakae-ouendan-box.jpg"
+    "cover": "images/nds/nds-osu-tatakae-ouendan-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "触屏节奏音乐游戏"
+  },
+  {
+    "id": "nds-pokemon-platinum",
+    "title": "Pokémon Platinum",
+    "titleZh": "精灵宝可梦 白金",
+    "titleJa": "ポケットモンスター プラチナ",
+    "year": 2008,
+    "developer": "Game Freak",
+    "publisher": "Nintendo / The Pokémon Company",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "收集",
+      "神奥地区"
+    ],
+    "players": "1-2",
+    "tagline": "钻石珍珠的完全版，神奥之旅最佳选择",
+    "description": "《白金》是第四世代《钻石·珍珠》的“完全版”，也是在神奥地区冒险的最佳选择。冰雪覆盖的天冠山、繁华的祝庆市、宁静的双叶镇——俯视角的像素小人在城镇间穿行，熟悉的道馆挑战、草丛遇敌、收集图鉴，一切都是宝可梦最纯粹的乐趣。\n\n本作针对原版的不足做了大量调整：图鉴新增大量宝可梦，前期可捕获的种类更丰富，道馆配置与剧情也有改动。新增的“毁坏的世界”是一个重力颠倒的异空间，在里面与骑拉帝纳对决的场面令人印象深刻。“对战开拓区”则为对战玩家提供了海量的后期挑战。\n\n画面在2D像素风格中融入了部分立体建筑，城镇比前作更有生气。想重温第四世代，直接选白金就对了。",
+    "highlights": [
+      "钻石珍珠的强化完全版",
+      "重力颠倒的“毁坏的世界”",
+      "对战开拓区海量后期内容",
+      "图鉴扩充，前期可捕获种类更丰富"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "36/40",
+        "quote": "在原作基础上全面强化，诚意十足"
+      },
+      {
+        "source": "Metacritic",
+        "score": "84/100",
+        "quote": "第四世代的最终形态"
+      },
+      {
+        "source": "IGN",
+        "score": "8.8/10",
+        "quote": "DS上最好的RPG之一"
+      }
+    ],
+    "editorScore": 9.0,
+    "is2D": true,
+    "screenshots": [
+      "images/nds/nds-pokemon-platinum-s1.png",
+      "images/nds/nds-pokemon-platinum-s2.png",
+      "images/nds/nds-pokemon-platinum-title.png"
+    ],
+    "cover": "images/nds/nds-pokemon-platinum-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视像素RPG，城镇道馆自由探索"
+  },
+  {
+    "id": "nds-pokemon-black-white",
+    "title": "Pokémon Black & White",
+    "titleZh": "精灵宝可梦 黑·白",
+    "titleJa": "ポケットモンスター ブラック・ホワイト",
+    "year": 2010,
+    "developer": "Game Freak",
+    "publisher": "Nintendo / The Pokémon Company",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "收集",
+      "合众地区"
+    ],
+    "players": "1-2",
+    "tagline": "Fami通满分，宝可梦的大胆新生",
+    "description": "第五世代的《黑·白》是一次大胆的“重新出发”：故事舞台搬到了以纽约为原型的合众地区，通关前只能遇到156只全新宝可梦，老玩家仿佛回到了第一次踏上冒险的那天。\n\n像素小人依旧在俯视角的城镇中奔走，但镜头会在大桥、都市中灵活推拉，飞云市的摩天楼、跨海大桥的景色在DS上颇为壮观。战斗中宝可梦的像素动画首次全程动态，三打三对战、轮盘对战让战术更丰富。剧情也是系列最具深度的一作：等离子团提出“解放宝可梦”，神秘青年N的身世，引发了关于人与宝可梦关系的思考。\n\nFami通给出系列最高的40分满分，它是很多玩家心中剧情最好的宝可梦。",
+    "highlights": [
+      "Fami通40分满分",
+      "通关前只出现全新宝可梦",
+      "全程动态的像素战斗动画",
+      "围绕N与等离子团的深刻剧情"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "40/40",
+        "quote": "宝可梦系列在Fami通获得的最高分"
+      },
+      {
+        "source": "Metacritic",
+        "score": "87/100",
+        "quote": "为系列重新注入活力"
+      },
+      {
+        "source": "IGN",
+        "score": "9/10",
+        "quote": "大胆又充满新鲜感"
+      }
+    ],
+    "editorScore": 9.0,
+    "is2D": true,
+    "screenshots": [
+      "images/nds/nds-pokemon-black-white-s1.png",
+      "images/nds/nds-pokemon-black-white-x1.jpg",
+      "images/nds/nds-pokemon-black-white-x2.jpg",
+      "images/nds/nds-pokemon-black-white-title.png"
+    ],
+    "cover": "images/nds/nds-pokemon-black-white-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "像素角色俯视探索城镇，部分立体镜头"
   },
   {
     "id": "nds-final-fantasy-iv",
@@ -567,7 +701,9 @@
       "images/nds/nds-final-fantasy-iv-s1.png",
       "images/nds/nds-final-fantasy-iv-title.png"
     ],
-    "cover": "images/nds/nds-final-fantasy-iv-box.jpg"
+    "cover": "images/nds/nds-final-fantasy-iv-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "全3D重制，非像素画面"
   },
   {
     "id": "nds-dragon-quest-iv",
@@ -616,7 +752,9 @@
       "images/nds/nds-dragon-quest-iv-s2.png",
       "images/nds/nds-dragon-quest-iv-title.png"
     ],
-    "cover": "images/nds/nds-dragon-quest-iv-box.jpg"
+    "cover": "images/nds/nds-dragon-quest-iv-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "像素小人走3D城镇，俯视王道RPG"
   },
   {
     "id": "nds-dragon-quest-vi",
@@ -662,9 +800,13 @@
     "is2D": true,
     "screenshots": [
       "images/nds/nds-dragon-quest-vi-s1.png",
+      "images/nds/nds-dragon-quest-vi-x1.png",
+      "images/nds/nds-dragon-quest-vi-x2.png",
       "images/nds/nds-dragon-quest-vi-title.png"
     ],
-    "cover": "images/nds/nds-dragon-quest-vi-box.jpg"
+    "cover": "images/nds/nds-dragon-quest-vi-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "像素小人走3D城镇，俯视王道RPG"
   },
   {
     "id": "nds-zelda-phantom-hourglass",
@@ -713,7 +855,9 @@
       "images/nds/nds-zelda-phantom-hourglass-s2.png",
       "images/nds/nds-zelda-phantom-hourglass-title.png"
     ],
-    "cover": "images/nds/nds-zelda-phantom-hourglass-box.jpg"
+    "cover": "images/nds/nds-zelda-phantom-hourglass-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "3D卡通渲染画面"
   },
   {
     "id": "nds-kirby-super-star-ultra",
@@ -761,7 +905,61 @@
       "images/nds/nds-kirby-super-star-ultra-s1.png",
       "images/nds/nds-kirby-super-star-ultra-title.png"
     ],
-    "cover": "images/nds/nds-kirby-super-star-ultra-box.jpg"
+    "cover": "images/nds/nds-kirby-super-star-ultra-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "像素横版平台动作"
+  },
+  {
+    "id": "nds-mario-luigi-partners-in-time",
+    "title": "Mario & Luigi: Partners in Time",
+    "titleZh": "马里奥与路易RPG2",
+    "titleJa": "マリオ&ルイージRPG2×2",
+    "year": 2005,
+    "developer": "AlphaDream",
+    "publisher": "Nintendo",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "时空穿越",
+      "四人小队"
+    ],
+    "players": "1",
+    "tagline": "大人小孩四兄弟，穿越时空的爆笑冒险",
+    "description": "蘑菇王国遭到外星种族“格林巴”入侵，马里奥兄弟穿越时空回到过去，竟与婴儿时期的自己相遇！于是一支由“大马里奥、大路易、小马里奥、小路易”组成的四人小队诞生了。\n\n大人组与婴儿组可以分开或叠在一起行动：婴儿能钻进狭窄的管道，大人负责蹦跳与锤击，双屏同时显示两组人马的位置，谜题设计非常巧妙。战斗沿用系列招牌的动作指令，四个按键分别对应四名角色，龟壳、锤子等“兄弟道具”需要精准的时机操作。像素画面明快鲜艳，城堡与森林场景充满任天堂式的童趣。\n\n幽默感一如既往地出色，是DS上不可错过的经典RPG。",
+    "highlights": [
+      "大人与婴儿四人同行",
+      "分组行动的双屏谜题",
+      "四键对应四人的动作指令战斗",
+      "时空穿越的爆笑剧情"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "35/40",
+        "quote": "四人合作的系统很有新意"
+      },
+      {
+        "source": "Metacritic",
+        "score": "86/100",
+        "quote": "充满魅力与幽默的RPG"
+      },
+      {
+        "source": "IGN",
+        "score": "9/10",
+        "quote": "古怪又出色的幽默感令人着迷"
+      }
+    ],
+    "editorScore": 8.8,
+    "is2D": true,
+    "screenshots": [
+      "images/nds/nds-mario-luigi-partners-in-time-s1.png",
+      "images/nds/nds-mario-luigi-partners-in-time-x1.jpg",
+      "images/nds/nds-mario-luigi-partners-in-time-x2.jpg",
+      "images/nds/nds-mario-luigi-partners-in-time-title.png"
+    ],
+    "cover": "images/nds/nds-mario-luigi-partners-in-time-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "斜45度像素RPG，城镇城堡自由探索"
   },
   {
     "id": "nds-new-super-mario-bros",
@@ -810,7 +1008,9 @@
       "images/nds/nds-new-super-mario-bros-s2.png",
       "images/nds/nds-new-super-mario-bros-title.png"
     ],
-    "cover": "images/nds/nds-new-super-mario-bros-box.jpg"
+    "cover": "images/nds/nds-new-super-mario-bros-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "3D建模的横版平台游戏"
   },
   {
     "id": "nds-phoenix-wright-ace-attorney",
@@ -858,7 +1058,9 @@
       "images/nds/nds-phoenix-wright-ace-attorney-s1.png",
       "images/nds/nds-phoenix-wright-ace-attorney-title.png"
     ],
-    "cover": "images/nds/nds-phoenix-wright-ace-attorney-box.jpg"
+    "cover": "images/nds/nds-phoenix-wright-ace-attorney-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "像素文字推理冒险，无探索"
   },
   {
     "id": "nds-professor-layton-curious-village",
@@ -906,7 +1108,9 @@
       "images/nds/nds-professor-layton-curious-village-s1.png",
       "images/nds/nds-professor-layton-curious-village-title.png"
     ],
-    "cover": "images/nds/nds-professor-layton-curious-village-box.jpg"
+    "cover": "images/nds/nds-professor-layton-curious-village-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "手绘点击式解谜冒险"
   },
   {
     "id": "nds-devil-survivor",
@@ -952,9 +1156,13 @@
     "is2D": true,
     "screenshots": [
       "images/nds/nds-devil-survivor-s1.png",
+      "images/nds/nds-devil-survivor-x1.jpg",
+      "images/nds/nds-devil-survivor-x2.jpg",
       "images/nds/nds-devil-survivor-title.png"
     ],
-    "cover": "images/nds/nds-devil-survivor-box.jpg"
+    "cover": "images/nds/nds-devil-survivor-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "像素战棋RPG，城镇以菜单呈现"
   },
   {
     "id": "nds-fire-emblem-shin-monshou-no-nazo",
@@ -998,7 +1206,50 @@
       "images/nds/nds-fire-emblem-shin-monshou-no-nazo-s2.png",
       "images/nds/nds-fire-emblem-shin-monshou-no-nazo-title.png"
     ],
-    "cover": "images/nds/nds-fire-emblem-shin-monshou-no-nazo-box.jpg"
+    "cover": "images/nds/nds-fire-emblem-shin-monshou-no-nazo-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "像素战棋RPG，无自由行走城镇"
+  },
+  {
+    "id": "nds-dragon-quest-heroes-rocket-slime",
+    "title": "Dragon Quest Heroes: Rocket Slime",
+    "titleZh": "史莱姆大冒险 勇者斗恶龙2",
+    "titleJa": "スライムもりもりドラゴンクエスト2 大戦車としっぽ団",
+    "year": 2005,
+    "developer": "Tose",
+    "publisher": "Square Enix",
+    "genre": "动作冒险",
+    "tags": [
+      "像素",
+      "史莱姆",
+      "坦克大战"
+    ],
+    "players": "1-4",
+    "tagline": "弹射史莱姆救全村，最萌的DQ外传",
+    "description": "主角是一只史莱姆！小史莱姆“史拉伊”的故乡史莱姆村被“尾巴团”洗劫，一百只史莱姆同伴被抓走——于是它凭借独门绝技“史莱姆弹射”，踏上营救乡亲、重建家园的冒险。\n\n这是一款俯视角的像素动作冒险：蓄力弹射撞飞敌人，把宝箱、道具顶在头上带回村里，被救回的史莱姆会让村子越来越热闹。最大的亮点是“坦克大战”：驾驶巨型史莱姆坦克与敌方坦克对轰，你要在坦克内部奔走，把弹药搬进炮口发射，紧张又搞笑，还支持多人联机对战。\n\n满屏的谐音梗、鸟山明的可爱魔物与明快的像素画面，让它成为DS上最被低估的佳作之一。",
+    "highlights": [
+      "俯视像素动作冒险",
+      "营救史莱姆重建村庄",
+      "独创的坦克大战玩法",
+      "多人联机坦克对战"
+    ],
+    "reviews": [
+      {
+        "source": "Metacritic",
+        "score": "83/100",
+        "quote": "令人满足的冒险，大人小孩都会喜欢"
+      }
+    ],
+    "editorScore": 8.6,
+    "is2D": true,
+    "screenshots": [
+      "images/nds/nds-dragon-quest-heroes-rocket-slime-s1.png",
+      "images/nds/nds-dragon-quest-heroes-rocket-slime-s2.png",
+      "images/nds/nds-dragon-quest-heroes-rocket-slime-title.png"
+    ],
+    "cover": "images/nds/nds-dragon-quest-heroes-rocket-slime-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视像素ARPG，史莱姆村庄自由探索"
   },
   {
     "id": "nds-kirby-canvas-curse",
@@ -1046,7 +1297,9 @@
       "images/nds/nds-kirby-canvas-curse-s1.png",
       "images/nds/nds-kirby-canvas-curse-title.png"
     ],
-    "cover": "images/nds/nds-kirby-canvas-curse-box.jpg"
+    "cover": "images/nds/nds-kirby-canvas-curse-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "触屏画线平台动作"
   },
   {
     "id": "nds-contra-4",
@@ -1094,7 +1347,61 @@
       "images/nds/nds-contra-4-s1.png",
       "images/nds/nds-contra-4-title.png"
     ],
-    "cover": "images/nds/nds-contra-4-box.jpg"
+    "cover": "images/nds/nds-contra-4-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "横版射击游戏"
+  },
+  {
+    "id": "nds-pokemon-mystery-dungeon-explorers-of-sky",
+    "title": "Pokémon Mystery Dungeon: Explorers of Sky",
+    "titleZh": "宝可梦不可思议的迷宫 空之探险队",
+    "titleJa": "ポケモン不思議のダンジョン 空の探検隊",
+    "year": 2009,
+    "developer": "Chunsoft",
+    "publisher": "Nintendo / The Pokémon Company",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "迷宫探索",
+      "催泪"
+    ],
+    "players": "1",
+    "tagline": "变成宝可梦的催泪物语",
+    "description": "一觉醒来，你发现自己变成了一只宝可梦，并且失去了做人类时的记忆。在海边小镇“宝藏镇”，你与搭档加入探险队，接受委托、深入不可思议的迷宫——这是Chunsoft把“不可思议的迷宫”玩法与宝可梦世界结合的作品。\n\n迷宫每次进入都会随机生成，回合制的移动与战斗讲究走位与道具使用；宝藏镇里有商店、银行、仓库与咖啡馆，俯视角的像素画面温馨可爱。《空之探险队》是《时·暗之探险队》的加强版，新增了特别篇章、更多可选搭档与迷宫。\n\n当年媒体评价平平，但它的剧情却被无数玩家奉为系列最催泪的故事，如今已是公认的“隐藏名作”。",
+    "highlights": [
+      "随机生成的不可思议迷宫",
+      "宝藏镇的村落生活",
+      "系列最催泪的剧情",
+      "新增特别篇章与更多搭档"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "35/40",
+        "quote": "迷宫玩法与宝可梦结合得很好"
+      },
+      {
+        "source": "Metacritic",
+        "score": "54/100",
+        "quote": "媒体评价一般，玩家口碑远超分数"
+      },
+      {
+        "source": "Nintendo Power",
+        "score": "8/10",
+        "quote": "内容丰富的迷宫冒险"
+      }
+    ],
+    "editorScore": 8.5,
+    "is2D": true,
+    "screenshots": [
+      "images/nds/nds-pokemon-mystery-dungeon-explorers-of-sky-s1.png",
+      "images/nds/nds-pokemon-mystery-dungeon-explorers-of-sky-x1.png",
+      "images/nds/nds-pokemon-mystery-dungeon-explorers-of-sky-x2.jpg",
+      "images/nds/nds-pokemon-mystery-dungeon-explorers-of-sky-title.png"
+    ],
+    "cover": "images/nds/nds-pokemon-mystery-dungeon-explorers-of-sky-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视像素画面，宝藏镇与迷宫探索"
   },
   {
     "id": "nds-mega-man-zx",
@@ -1142,7 +1449,9 @@
       "images/nds/nds-mega-man-zx-s1.png",
       "images/nds/nds-mega-man-zx-title.png"
     ],
-    "cover": "images/nds/nds-mega-man-zx-box.jpg"
+    "cover": "images/nds/nds-mega-man-zx-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "像素横版动作，含少量据点"
   },
   {
     "id": "nds-smt-strange-journey",
@@ -1191,7 +1500,9 @@
       "images/nds/nds-smt-strange-journey-x1.png",
       "images/nds/nds-smt-strange-journey-x2.jpg"
     ],
-    "cover": "images/nds/nds-smt-strange-journey-box.jpg"
+    "cover": "images/nds/nds-smt-strange-journey-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "第一人称3D迷宫"
   },
   {
     "id": "nds-mega-man-zx-advent",
@@ -1239,7 +1550,9 @@
       "images/nds/nds-mega-man-zx-advent-s1.png",
       "images/nds/nds-mega-man-zx-advent-title.png"
     ],
-    "cover": "images/nds/nds-mega-man-zx-advent-box.jpg"
+    "cover": "images/nds/nds-mega-man-zx-advent-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "像素横版动作，含少量据点"
   },
   {
     "id": "nds-disgaea-ds",
@@ -1285,9 +1598,114 @@
     "is2D": true,
     "screenshots": [
       "images/nds/nds-disgaea-ds-s1.png",
+      "images/nds/nds-disgaea-ds-x1.png",
       "images/nds/nds-disgaea-ds-title.png"
     ],
-    "cover": "images/nds/nds-disgaea-ds-box.jpg"
+    "cover": "images/nds/nds-disgaea-ds-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "像素战棋，可在魔王城据点走动"
+  },
+  {
+    "id": "nds-rune-factory-3",
+    "title": "Rune Factory 3",
+    "titleZh": "符文工房3",
+    "titleJa": "ルーンファクトリー3",
+    "year": 2009,
+    "developer": "Neverland",
+    "publisher": "Marvelous Interactive",
+    "genre": "动作角色扮演",
+    "tags": [
+      "像素",
+      "种田",
+      "恋爱"
+    ],
+    "players": "1",
+    "tagline": "半人半兽的种田冒险，系列DS巅峰",
+    "description": "失去记忆的少年被一棵大树收留，而他竟能变身为毛茸茸的“羊”形态——《符文工房3》的故事围绕人类与兽人两个种族的和解展开。村庄“希亚诺村”位于大树脚下，是你耕种、生活、恋爱的家园。\n\n白天开垦农田、种植作物、在村里商店买卖，傍晚走进周围的森林与洞窟用剑与魔法打怪，收服的怪物还能帮忙下田。本作首次把迷宫入口和种田区域结合，节奏更加流畅。可攻略的对象多达十余人，与村民的好感度培养、事件剧情都十分丰富。俯视角的2D像素画面细腻可爱，四季变换的村落风景让人流连。\n\n它是“种田+ARPG”这一独特类型在DS上最成熟的作品。",
+    "highlights": [
+      "种田、战斗、恋爱三合一",
+      "人类与兽人的变身设定",
+      "收服怪物帮忙耕作",
+      "四季变换的像素村庄"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "33/40",
+        "quote": "系统更加完善，玩法丰富"
+      },
+      {
+        "source": "Metacritic",
+        "score": "77/100",
+        "quote": "种田与战斗结合得更好"
+      },
+      {
+        "source": "Nintendo Power",
+        "score": "8.5/10",
+        "quote": "系列最出色的一作"
+      }
+    ],
+    "editorScore": 8.3,
+    "is2D": true,
+    "screenshots": [
+      "images/nds/nds-rune-factory-3-s1.png",
+      "images/nds/nds-rune-factory-3-s2.png"
+    ],
+    "cover": "images/nds/nds-rune-factory-3-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视像素种田ARPG，村庄自由生活"
+  },
+  {
+    "id": "nds-lunar-knights",
+    "title": "Lunar Knights",
+    "titleZh": "我们的太阳 姜戈与萨巴塔",
+    "titleJa": "ボクらの太陽 Django&Sabata",
+    "year": 2006,
+    "developer": "Kojima Productions",
+    "publisher": "Konami",
+    "genre": "动作角色扮演",
+    "tags": [
+      "像素",
+      "太阳能",
+      "吸血鬼"
+    ],
+    "players": "1",
+    "tagline": "小岛工作室的太阳枪ARPG",
+    "description": "GBA《我们的太阳》系列登陆DS后的新篇章。在被吸血鬼统治、终年不见阳光的世界里，手持暗之剑的吸血鬼猎人卢西安，与使用太阳枪的少年亚伦携手作战。少了GBA版的光感应器，本作改为昼夜变化与天气系统，但“用阳光净化吸血鬼”的核心乐趣依然保留。\n\n俯视斜角的像素画面延续系列风格，城镇“圣米格尔”中有商店、锻冶屋、居民，迷宫则充满解谜机关。两名主角可随时切换，剑与枪、近战与远程配合作战；Boss战后要把吸血鬼拖到“太阳炮”进行净化，还加入了射击小游戏式的太空战。\n\n小岛秀夫监制，Kojima Productions出品，是一部风格独特的DS动作RPG。",
+    "highlights": [
+      "剑与太阳枪双主角切换",
+      "圣米格尔城镇与迷宫解谜",
+      "太阳炮净化吸血鬼",
+      "昼夜与天气系统"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "32/40",
+        "quote": "双主角系统扎实耐玩"
+      },
+      {
+        "source": "Metacritic",
+        "score": "82/100",
+        "quote": "充满创意的动作RPG"
+      },
+      {
+        "source": "GameSpot",
+        "score": "8.4/10",
+        "quote": "有趣的战斗与独特世界观"
+      }
+    ],
+    "editorScore": 8.3,
+    "is2D": true,
+    "screenshots": [
+      "images/nds/nds-lunar-knights-s1.png",
+      "images/nds/nds-lunar-knights-x1.png",
+      "images/nds/nds-lunar-knights-x2.jpg",
+      "images/nds/nds-lunar-knights-title.png"
+    ],
+    "cover": "images/nds/nds-lunar-knights-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "斜俯视像素ARPG，有城镇与商店"
   },
   {
     "id": "nds-final-fantasy-iii",
@@ -1335,7 +1753,9 @@
       "images/nds/nds-final-fantasy-iii-s1.png",
       "images/nds/nds-final-fantasy-iii-title.png"
     ],
-    "cover": "images/nds/nds-final-fantasy-iii-box.jpg"
+    "cover": "images/nds/nds-final-fantasy-iii-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "全3D重制，非像素画面"
   },
   {
     "id": "nds-etrian-odyssey",
@@ -1383,7 +1803,111 @@
       "images/nds/nds-etrian-odyssey-s1.png",
       "images/nds/nds-etrian-odyssey-title.png"
     ],
-    "cover": "images/nds/nds-etrian-odyssey-box.jpg"
+    "cover": "images/nds/nds-etrian-odyssey-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "第一人称3D迷宫"
+  },
+  {
+    "id": "nds-rune-factory",
+    "title": "Rune Factory: A Fantasy Harvest Moon",
+    "titleZh": "符文工房 新牧场物语",
+    "titleJa": "ルーンファクトリー -新牧場物語-",
+    "year": 2006,
+    "developer": "Neverland",
+    "publisher": "Marvelous Interactive",
+    "genre": "动作角色扮演",
+    "tags": [
+      "像素",
+      "种田",
+      "恋爱"
+    ],
+    "players": "1",
+    "tagline": "牧场物语遇上动作RPG的开山之作",
+    "description": "失忆的少年拉古纳倒在小镇卡德洛克郊外，好心的少女敏特把一片荒废的农场交给了他——于是他一边耕种，一边探索四周的地下洞窟，揭开这片土地的秘密。《符文工房》正是《牧场物语》与动作RPG的首次结合。\n\n播种、浇水、收获，再拿着作物去镇上卖钱；钓鱼、采矿、锻造、料理样样俱全。洞窟中则要用剑和魔法击败怪物，收服的怪物可以在牧场帮忙。所有行动都会消耗“符文点数”，规划好每天的行程是关键。村里的姑娘们个性鲜明，好感度达标还能求婚成家。\n\n俯视角的像素小镇、温柔的音乐与舒缓的节奏，构成了一种独特的“慢生活冒险”，也开启了一个长寿系列。",
+    "highlights": [
+      "种田与地下迷宫战斗结合",
+      "钓鱼、锻造、料理多样生活",
+      "收服怪物协助牧场",
+      "可与村中女孩结婚"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "33/40",
+        "quote": "牧场与冒险的结合令人新鲜"
+      },
+      {
+        "source": "Metacritic",
+        "score": "78/100",
+        "quote": "种田与RPG的愉快融合"
+      },
+      {
+        "source": "IGN",
+        "score": "8.4/10",
+        "quote": "IGN编辑推荐，令人沉迷的混合玩法"
+      }
+    ],
+    "editorScore": 8.2,
+    "is2D": true,
+    "screenshots": [
+      "images/nds/nds-rune-factory-s1.png",
+      "images/nds/nds-rune-factory-s2.png",
+      "images/nds/nds-rune-factory-title.png"
+    ],
+    "cover": "images/nds/nds-rune-factory-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视像素种田ARPG，小镇自由探索"
+  },
+  {
+    "id": "nds-shiren-the-wanderer",
+    "title": "Mystery Dungeon: Shiren the Wanderer",
+    "titleZh": "风来的西林DS",
+    "titleJa": "不思議のダンジョン 風来のシレンDS",
+    "year": 2008,
+    "developer": "Chunsoft",
+    "publisher": "Sega",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "Roguelike",
+      "高难度"
+    ],
+    "players": "1",
+    "tagline": "每次都从零开始的硬派迷宫之旅",
+    "description": "SFC名作《风来的西林》的DS移植版。斗笠浪人西林带着会说话的白鼬科帕，向传说中的“黄金之城”所在的高峰进发。沿途经过的宿场町有饭馆、商店、仓库，俯视角的像素画面保留了SFC原作的和风韵味。\n\n这是一款正统的Roguelike：迷宫每次随机生成，每走一步敌人也走一步，倒下就会失去所有道具和等级，从头开始。正因如此，每一次判断都至关重要——什么时候读卷轴、什么时候投掷壶、怎样利用通路与敌人周旋。存放在仓库里的道具与积累的经验，才是你真正的“成长”。通关后的“饼神的试练”等高难度迷宫更是让核心玩家着迷多年。\n\n难度极高，却也是“不可思议的迷宫”系列公认的原点与巅峰。",
+    "highlights": [
+      "正统Roguelike随机迷宫",
+      "和风宿场町与村落",
+      "死亡即失去一切的硬派规则",
+      "大量通关后高难度迷宫"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "35/40",
+        "quote": "名作移植，依然耐玩"
+      },
+      {
+        "source": "Metacritic",
+        "score": "71/100",
+        "quote": "硬核难度令评价两极"
+      },
+      {
+        "source": "IGN",
+        "score": "7/10",
+        "quote": "适合愿意接受挑战的玩家"
+      }
+    ],
+    "editorScore": 8.2,
+    "is2D": true,
+    "screenshots": [
+      "images/nds/nds-shiren-the-wanderer-s1.png",
+      "images/nds/nds-shiren-the-wanderer-x1.png",
+      "images/nds/nds-shiren-the-wanderer-title.png"
+    ],
+    "cover": "images/nds/nds-shiren-the-wanderer-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视像素画面，和风城镇与迷宫"
   },
   {
     "id": "nds-hotel-dusk",
@@ -1432,7 +1956,9 @@
       "images/nds/nds-hotel-dusk-s2.png",
       "images/nds/nds-hotel-dusk-title.png"
     ],
-    "cover": "images/nds/nds-hotel-dusk-box.jpg"
+    "cover": "images/nds/nds-hotel-dusk-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "3D场景的推理文字冒险"
   },
   {
     "id": "nds-golden-sun-dark-dawn",
@@ -1481,7 +2007,9 @@
       "images/nds/nds-golden-sun-dark-dawn-s2.png",
       "images/nds/nds-golden-sun-dark-dawn-title.png"
     ],
-    "cover": "images/nds/nds-golden-sun-dark-dawn-box.jpg"
+    "cover": "images/nds/nds-golden-sun-dark-dawn-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "3D建模画面，虽为俯视RPG"
   },
   {
     "id": "nds-infinite-space",
@@ -1530,7 +2058,9 @@
       "images/nds/nds-infinite-space-x1.png",
       "images/nds/nds-infinite-space-x2.jpg"
     ],
-    "cover": "images/nds/nds-infinite-space-box.jpg"
+    "cover": "images/nds/nds-infinite-space-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "3D太空舰队战"
   },
   {
     "id": "nds-four-heroes-of-light",
@@ -1578,7 +2108,9 @@
       "images/nds/nds-four-heroes-of-light-s1.png",
       "images/nds/nds-four-heroes-of-light-title.png"
     ],
-    "cover": "images/nds/nds-four-heroes-of-light-box.jpg"
+    "cover": "images/nds/nds-four-heroes-of-light-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "3D绘本风画面"
   },
   {
     "id": "nds-summon-night-twin-age",
@@ -1628,7 +2160,9 @@
       "images/nds/nds-summon-night-twin-age-x2.jpg",
       "images/nds/nds-summon-night-twin-age-x3.jpg"
     ],
-    "cover": "images/nds/nds-summon-night-twin-age-box.jpg"
+    "cover": "images/nds/nds-summon-night-twin-age-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视像素ARPG，岛上村庄自由探索"
   },
   {
     "id": "nds-glory-of-heracles",
@@ -1673,7 +2207,60 @@
       "images/nds/nds-glory-of-heracles-x2.jpg",
       "images/nds/nds-glory-of-heracles-x3.jpg"
     ],
-    "cover": "images/nds/nds-glory-of-heracles-box.jpg"
+    "cover": "images/nds/nds-glory-of-heracles-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视像素RPG，希腊风城镇探索"
+  },
+  {
+    "id": "nds-children-of-mana",
+    "title": "Children of Mana",
+    "titleZh": "圣剑传说DS 玛娜之子",
+    "titleJa": "聖剣伝説DS CHILDREN of MANA",
+    "year": 2006,
+    "developer": "Square Enix / Nex Entertainment",
+    "publisher": "Square Enix",
+    "genre": "动作角色扮演",
+    "tags": [
+      "像素",
+      "圣剑传说",
+      "多人合作"
+    ],
+    "players": "1-4",
+    "tagline": "手绘画风的圣剑迷宫ARPG",
+    "description": "《圣剑传说》系列首次登陆DS。故事发生在玛娜之树守护的小岛“伊尔西亚”，四名主角可选，在村庄接受委托后，传送到火山、雪原、森林等各地的迷宫中闯关。\n\n战斗是爽快的俯视角动作：剑、斧、弓、链锤四种武器各有特性，可装备的“精灵”能提供魔法支援，把敌人弹飞撞墙还能触发连锁。宝石框系统让你组合各种被动能力。美术延续了《圣剑传说 玛娜传奇》的手绘绘本风格，色彩柔和梦幻；最多四人联机合作闯迷宫也是一大亮点。\n\n不过结构基本是“村庄—迷宫”的反复，探索感不足让不少评论家失望。但如果你喜欢圣剑的画风和爽快的动作，它依然值得一玩。",
+    "highlights": [
+      "四名主角与四种武器",
+      "手绘绘本风美术",
+      "精灵魔法与宝石框系统",
+      "最多四人联机合作"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "36/40",
+        "quote": "画面美丽，动作爽快"
+      },
+      {
+        "source": "Metacritic",
+        "score": "65/100",
+        "quote": "画风迷人但流程重复"
+      },
+      {
+        "source": "IGN",
+        "score": "8/10",
+        "quote": "适合喜欢动作RPG的玩家"
+      }
+    ],
+    "editorScore": 7.6,
+    "is2D": true,
+    "screenshots": [
+      "images/nds/nds-children-of-mana-s1.png",
+      "images/nds/nds-children-of-mana-x1.jpg",
+      "images/nds/nds-children-of-mana-title.png"
+    ],
+    "cover": "images/nds/nds-children-of-mana-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视像素ARPG，伊尔西亚村庄据点"
   },
   {
     "id": "nds-sands-of-destruction",
@@ -1722,6 +2309,8 @@
       "images/nds/nds-sands-of-destruction-s2.png",
       "images/nds/nds-sands-of-destruction-title.png"
     ],
-    "cover": "images/nds/nds-sands-of-destruction-box.jpg"
+    "cover": "images/nds/nds-sands-of-destruction-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "像素角色配3D场景，城镇可探索"
   }
 ]

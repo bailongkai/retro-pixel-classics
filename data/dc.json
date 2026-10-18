@@ -45,7 +45,9 @@
       "images/dc/dc-street-fighter-3-3rd-strike-s1.png",
       "images/dc/dc-street-fighter-3-3rd-strike-title.png"
     ],
-    "cover": "images/dc/dc-street-fighter-3-3rd-strike-box.jpg"
+    "cover": "images/dc/dc-street-fighter-3-3rd-strike-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "2D像素格斗，类型不同"
   },
   {
     "id": "dc-soulcalibur",
@@ -95,7 +97,9 @@
       "images/dc/dc-soulcalibur-x2.jpg",
       "images/dc/dc-soulcalibur-title.png"
     ],
-    "cover": "images/dc/dc-soulcalibur-box.jpg"
+    "cover": "images/dc/dc-soulcalibur-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "3D格斗游戏"
   },
   {
     "id": "dc-ikaruga",
@@ -145,7 +149,9 @@
       "images/dc/dc-ikaruga-x2.jpg",
       "images/dc/dc-ikaruga-title.png"
     ],
-    "cover": "images/dc/dc-ikaruga-box.jpg"
+    "cover": "images/dc/dc-ikaruga-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "射击游戏，类型不同"
   },
   {
     "id": "dc-skies-of-arcadia",
@@ -195,7 +201,9 @@
       "images/dc/dc-skies-of-arcadia-x1.png",
       "images/dc/dc-skies-of-arcadia-title.png"
     ],
-    "cover": "images/dc/dc-skies-of-arcadia-box.jpg"
+    "cover": "images/dc/dc-skies-of-arcadia-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "王道JRPG有城镇，但为全3D画面"
   },
   {
     "id": "dc-shenmue",
@@ -246,7 +254,9 @@
       "images/dc/dc-shenmue-x2.jpg",
       "images/dc/dc-shenmue-title.png"
     ],
-    "cover": "images/dc/dc-shenmue-box.jpg"
+    "cover": "images/dc/dc-shenmue-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "可逛小镇商店，但为写实3D"
   },
   {
     "id": "dc-marvel-vs-capcom-2",
@@ -294,7 +304,9 @@
       "images/dc/dc-marvel-vs-capcom-2-s1.png",
       "images/dc/dc-marvel-vs-capcom-2-title.png"
     ],
-    "cover": "images/dc/dc-marvel-vs-capcom-2-box.jpg"
+    "cover": "images/dc/dc-marvel-vs-capcom-2-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "2D像素格斗，类型不同"
   },
   {
     "id": "dc-grandia-2",
@@ -344,7 +356,9 @@
       "images/dc/dc-grandia-2-x2.jpg",
       "images/dc/dc-grandia-2-title.png"
     ],
-    "cover": "images/dc/dc-grandia-2-box.jpg"
+    "cover": "images/dc/dc-grandia-2-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "日式RPG有城镇探索，但为全3D画面"
   },
   {
     "id": "dc-garou-mark-of-the-wolves",
@@ -394,7 +408,9 @@
       "images/dc/dc-garou-mark-of-the-wolves-x2.jpg",
       "images/dc/dc-garou-mark-of-the-wolves-title.png"
     ],
-    "cover": "images/dc/dc-garou-mark-of-the-wolves-box.jpg"
+    "cover": "images/dc/dc-garou-mark-of-the-wolves-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "2D像素格斗，类型不同"
   },
   {
     "id": "dc-phantasy-star-online",
@@ -442,7 +458,9 @@
       "images/dc/dc-phantasy-star-online-s1.png",
       "images/dc/dc-phantasy-star-online-title.png"
     ],
-    "cover": "images/dc/dc-phantasy-star-online-box.jpg"
+    "cover": "images/dc/dc-phantasy-star-online-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "3D动作网游，风格不同"
   },
   {
     "id": "dc-capcom-vs-snk-2",
@@ -486,7 +504,9 @@
       "images/dc/dc-capcom-vs-snk-2-x1.png",
       "images/dc/dc-capcom-vs-snk-2-title.png"
     ],
-    "cover": "images/dc/dc-capcom-vs-snk-2-box.jpg"
+    "cover": "images/dc/dc-capcom-vs-snk-2-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "2D像素格斗，类型不同"
   },
   {
     "id": "dc-jet-set-radio",
@@ -536,7 +556,9 @@
       "images/dc/dc-jet-set-radio-x2.png",
       "images/dc/dc-jet-set-radio-title.png"
     ],
-    "cover": "images/dc/dc-jet-set-radio-box.jpg"
+    "cover": "images/dc/dc-jet-set-radio-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "3D卡通渲染动作游戏"
   },
   {
     "id": "dc-guilty-gear-x",
@@ -581,7 +603,9 @@
       "images/dc/dc-guilty-gear-x-x2.jpg",
       "images/dc/dc-guilty-gear-x-title.png"
     ],
-    "cover": "images/dc/dc-guilty-gear-x-box.jpg"
+    "cover": "images/dc/dc-guilty-gear-x-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "2D像素格斗，类型不同"
   },
   {
     "id": "dc-street-fighter-alpha-3",
@@ -630,7 +654,9 @@
       "images/dc/dc-street-fighter-alpha-3-x2.png",
       "images/dc/dc-street-fighter-alpha-3-title.png"
     ],
-    "cover": "images/dc/dc-street-fighter-alpha-3-box.jpg"
+    "cover": "images/dc/dc-street-fighter-alpha-3-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "2D像素格斗，类型不同"
   },
   {
     "id": "dc-last-blade-2",
@@ -679,7 +705,9 @@
       "images/dc/dc-last-blade-2-x1.png",
       "images/dc/dc-last-blade-2-title.png"
     ],
-    "cover": "images/dc/dc-last-blade-2-box.jpg"
+    "cover": "images/dc/dc-last-blade-2-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "2D像素格斗，类型不同"
   },
   {
     "id": "dc-sonic-adventure",
@@ -728,7 +756,9 @@
       "images/dc/dc-sonic-adventure-x1.png",
       "images/dc/dc-sonic-adventure-title.png"
     ],
-    "cover": "images/dc/dc-sonic-adventure-box.jpg"
+    "cover": "images/dc/dc-sonic-adventure-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "3D高速动作游戏"
   },
   {
     "id": "dc-rez",
@@ -776,7 +806,9 @@
       "images/dc/dc-rez-s1.png",
       "images/dc/dc-rez-title.png"
     ],
-    "cover": "images/dc/dc-rez-box.jpg"
+    "cover": "images/dc/dc-rez-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "3D音乐轨道射击"
   },
   {
     "id": "dc-chuchu-rocket",
@@ -824,7 +856,9 @@
       "images/dc/dc-chuchu-rocket-s1.png",
       "images/dc/dc-chuchu-rocket-title.png"
     ],
-    "cover": "images/dc/dc-chuchu-rocket-box.jpg"
+    "cover": "images/dc/dc-chuchu-rocket-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "网格解谜派对游戏"
   },
   {
     "id": "dc-vampire-chronicle",
@@ -858,7 +892,9 @@
       "images/dc/dc-vampire-chronicle-x2.jpg",
       "images/dc/dc-vampire-chronicle-title.png"
     ],
-    "cover": "images/dc/dc-vampire-chronicle-box.jpg"
+    "cover": "images/dc/dc-vampire-chronicle-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "2D像素格斗，类型不同"
   },
   {
     "id": "dc-sakura-taisen-3",
@@ -901,7 +937,9 @@
       "images/dc/dc-sakura-taisen-3-s1.png",
       "images/dc/dc-sakura-taisen-3-title.png"
     ],
-    "cover": "images/dc/dc-sakura-taisen-3-box.jpg"
+    "cover": "images/dc/dc-sakura-taisen-3-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "3D战棋加冒险，画面风格不同"
   },
   {
     "id": "dc-bangai-o",
@@ -951,7 +989,9 @@
       "images/dc/dc-bangai-o-x2.jpg",
       "images/dc/dc-bangai-o-title.png"
     ],
-    "cover": "images/dc/dc-bangai-o-box.jpg"
+    "cover": "images/dc/dc-bangai-o-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "2D像素射击游戏"
   },
   {
     "id": "dc-jojo",
@@ -999,7 +1039,9 @@
       "images/dc/dc-jojo-s1.png",
       "images/dc/dc-jojo-title.png"
     ],
-    "cover": "images/dc/dc-jojo-box.jpg"
+    "cover": "images/dc/dc-jojo-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "2D像素格斗，类型不同"
   },
   {
     "id": "dc-border-down",
@@ -1049,7 +1091,9 @@
       "images/dc/dc-border-down-x2.jpg",
       "images/dc/dc-border-down-title.png"
     ],
-    "cover": "images/dc/dc-border-down-box.jpg"
+    "cover": "images/dc/dc-border-down-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "射击游戏，类型不同"
   },
   {
     "id": "dc-street-fighter-3-double-impact",
@@ -1087,7 +1131,9 @@
       "images/dc/dc-street-fighter-3-double-impact-s1.png",
       "images/dc/dc-street-fighter-3-double-impact-title.png"
     ],
-    "cover": "images/dc/dc-street-fighter-3-double-impact-box.jpg"
+    "cover": "images/dc/dc-street-fighter-3-double-impact-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "2D像素格斗，类型不同"
   },
   {
     "id": "dc-kof-2002",
@@ -1126,7 +1172,9 @@
       "images/dc/dc-kof-2002-x1.png",
       "images/dc/dc-kof-2002-title.png"
     ],
-    "cover": "images/dc/dc-kof-2002-box.jpg"
+    "cover": "images/dc/dc-kof-2002-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "2D像素格斗，类型不同"
   },
   {
     "id": "dc-record-of-lodoss-war",
@@ -1175,7 +1223,9 @@
       "images/dc/dc-record-of-lodoss-war-s1.png",
       "images/dc/dc-record-of-lodoss-war-title.png"
     ],
-    "cover": "images/dc/dc-record-of-lodoss-war-box.jpg"
+    "cover": "images/dc/dc-record-of-lodoss-war-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "俯视角ARPG有城镇，但为3D多边形"
   },
   {
     "id": "dc-mr-driller",
@@ -1223,7 +1273,52 @@
       "images/dc/dc-mr-driller-s1.png",
       "images/dc/dc-mr-driller-title.png"
     ],
-    "cover": "images/dc/dc-mr-driller-box.jpg"
+    "cover": "images/dc/dc-mr-driller-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "2D像素方块解谜，非RPG"
+  },
+  {
+    "id": "dc-eldorado-gate",
+    "title": "El Dorado Gate",
+    "titleZh": "黄金之门",
+    "titleJa": "エルドラドゲート",
+    "year": 2000,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "天野喜孝",
+      "日版独占",
+      "连载式"
+    ],
+    "players": "1",
+    "tagline": "天野喜孝绘卷，DC上最纯正的2D像素RPG",
+    "description": "当所有人都在追逐3D多边形时，卡普空却在DC上悄悄做了一件“逆潮流”的事：《黄金之门》以全手绘2D像素描绘斜俯视角的城镇与原野，石板路、木栈桥、热闹的集市与形形色色的居民，一眼望去就是SFC黄金时代的延续。\n\n本作以“连载”形式发行，从2000年10月到2001年10月，每两个月推出一卷，共7卷。人物与怪物设计由天野喜孝操刀，每卷聚焦不同主角的故事，最终交织成一部宏大的群像剧。战斗采用传统回合制，节奏明快。\n\n它长期只有日文版，在国内鲜为人知；但若你钟爱那种可以自由走街串巷、和村民聊天的像素RPG，它就是DC上最接近你心中那幅画面的作品。",
+    "highlights": [
+      "全手绘2D斜俯视角像素画面",
+      "天野喜孝担纲人物与怪物设计",
+      "双月刊连载式发行，全7卷",
+      "多主角群像剧逐卷交织"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通DC",
+        "score": "21/30",
+        "quote": "（第5卷）三位编辑各给7分，认可其扎实的传统RPG手感"
+      }
+    ],
+    "editorScore": 8.4,
+    "is2D": true,
+    "styleMatch": 3,
+    "styleNote": "斜俯视角手绘像素城镇，可自由探索",
+    "screenshots": [
+      "images/dc/dc-eldorado-gate-s1.png",
+      "images/dc/dc-eldorado-gate-x1.png",
+      "images/dc/dc-eldorado-gate-x2.png",
+      "images/dc/dc-eldorado-gate-title.png"
+    ],
+    "cover": "images/dc/dc-eldorado-gate-box.jpg"
   },
   {
     "id": "dc-elemental-gimmick-gear",
@@ -1270,9 +1365,13 @@
     "is2D": true,
     "screenshots": [
       "images/dc/dc-elemental-gimmick-gear-s1.png",
+      "images/dc/dc-elemental-gimmick-gear-x1.png",
+      "images/dc/dc-elemental-gimmick-gear-x2.jpg",
       "images/dc/dc-elemental-gimmick-gear-title.png"
     ],
-    "cover": "images/dc/dc-elemental-gimmick-gear-box.jpg"
+    "cover": "images/dc/dc-elemental-gimmick-gear-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角手绘像素，可探索城镇与迷宫"
   },
   {
     "id": "dc-kof-99-evolution",
@@ -1315,7 +1414,45 @@
       "images/dc/dc-kof-99-evolution-s1.png",
       "images/dc/dc-kof-99-evolution-title.png"
     ],
-    "cover": "images/dc/dc-kof-99-evolution-box.jpg"
+    "cover": "images/dc/dc-kof-99-evolution-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "2D像素格斗，类型不同"
+  },
+  {
+    "id": "dc-sakura-taisen",
+    "title": "Sakura Wars",
+    "titleZh": "樱花大战",
+    "titleJa": "サクラ大戦",
+    "year": 2000,
+    "developer": "Red Company / Sega",
+    "publisher": "Sega",
+    "genre": "战略角色扮演",
+    "tags": [
+      "战棋",
+      "恋爱冒险",
+      "蒸汽朋克",
+      "大正浪漫"
+    ],
+    "players": "1",
+    "tagline": "大正浪漫开幕！初代樱战DC高清重现",
+    "description": "太正十二年的帝都东京，蒸汽机械与和风建筑交相辉映，海军少尉大神一郎被派往“大帝国剧场”，没想到等待他的却是一群身兼歌剧演员与“帝国华击团”战士的少女——《樱花大战》就此拉开大幕。\n\n本作的冒险部分以动画风对话与“LIPS”限时选项为核心，每一个选择都会影响少女们对你的信赖；战斗部分则是斜俯视角的战棋地图，在樱花纷飞的街巷中指挥光武迎击降魔。DC版以更高的解析度重现了世嘉土星上的经典原作。\n\n战斗地图的街道与神社颇有几分像素RPG的韵味，加上田中公平的名曲《檄！帝国华击团》，这是每位日式游戏爱好者都应体验一次的经典。",
+    "highlights": [
+      "LIPS限时选项的恋爱冒险",
+      "斜俯视角战棋战斗",
+      "DC版高解析度重现土星名作",
+      "田中公平的经典主题曲"
+    ],
+    "reviews": [],
+    "editorScore": 8.3,
+    "is2D": true,
+    "styleMatch": 2,
+    "styleNote": "斜俯视角战棋地图，有城镇剧情但不能自由走",
+    "screenshots": [
+      "images/dc/dc-sakura-taisen-s1.png",
+      "images/dc/dc-sakura-taisen-x1.png",
+      "images/dc/dc-sakura-taisen-title.png"
+    ],
+    "cover": "images/dc/dc-sakura-taisen-box.jpg"
   },
   {
     "id": "dc-mars-matrix",
@@ -1363,7 +1500,9 @@
       "images/dc/dc-mars-matrix-s1.png",
       "images/dc/dc-mars-matrix-title.png"
     ],
-    "cover": "images/dc/dc-mars-matrix-box.jpg"
+    "cover": "images/dc/dc-mars-matrix-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "射击游戏，类型不同"
   },
   {
     "id": "dc-under-defeat",
@@ -1407,7 +1546,9 @@
       "images/dc/dc-under-defeat-x1.png",
       "images/dc/dc-under-defeat-title.png"
     ],
-    "cover": "images/dc/dc-under-defeat-box.jpg"
+    "cover": "images/dc/dc-under-defeat-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "射击游戏，类型不同"
   },
   {
     "id": "dc-super-robot-taisen-alpha",
@@ -1450,7 +1591,9 @@
       "images/dc/dc-super-robot-taisen-alpha-s1.png",
       "images/dc/dc-super-robot-taisen-alpha-title.png"
     ],
-    "cover": "images/dc/dc-super-robot-taisen-alpha-box.jpg"
+    "cover": "images/dc/dc-super-robot-taisen-alpha-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "2D地图战棋，无城镇探索，战斗3D"
   },
   {
     "id": "dc-zero-gunner-2",
@@ -1489,7 +1632,9 @@
       "images/dc/dc-zero-gunner-2-x2.jpg",
       "images/dc/dc-zero-gunner-2-title.png"
     ],
-    "cover": "images/dc/dc-zero-gunner-2-box.jpg"
+    "cover": "images/dc/dc-zero-gunner-2-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "射击游戏，类型不同"
   },
   {
     "id": "dc-gunbird-2",
@@ -1537,7 +1682,9 @@
       "images/dc/dc-gunbird-2-s1.png",
       "images/dc/dc-gunbird-2-title.png"
     ],
-    "cover": "images/dc/dc-gunbird-2-box.jpg"
+    "cover": "images/dc/dc-gunbird-2-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "射击游戏，类型不同"
   },
   {
     "id": "dc-psyvariar-2",
@@ -1575,7 +1722,9 @@
       "images/dc/dc-psyvariar-2-s1.png",
       "images/dc/dc-psyvariar-2-title.png"
     ],
-    "cover": "images/dc/dc-psyvariar-2-box.jpg"
+    "cover": "images/dc/dc-psyvariar-2-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "射击游戏，类型不同"
   },
   {
     "id": "dc-giga-wing",
@@ -1623,6 +1772,61 @@
       "images/dc/dc-giga-wing-s1.png",
       "images/dc/dc-giga-wing-title.png"
     ],
-    "cover": "images/dc/dc-giga-wing-box.jpg"
+    "cover": "images/dc/dc-giga-wing-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "射击游戏，类型不同"
+  },
+  {
+    "id": "dc-silver",
+    "title": "Silver",
+    "titleZh": "银色杀机",
+    "titleJa": "",
+    "year": 2000,
+    "developer": "Spiral House / Infogrames",
+    "publisher": "Infogrames",
+    "genre": "动作角色扮演",
+    "tags": [
+      "ARPG",
+      "预渲染背景",
+      "奇幻",
+      "即时战斗"
+    ],
+    "players": "1",
+    "tagline": "预渲染手绘世界里的欧式奇幻ARPG",
+    "description": "邪恶的魔法师“银”掳走了全国的女子，青年大卫的妻子也在其中——为了救回爱人，他踏上了穿越整个大陆的冒险。《Silver》是一款来自欧洲的动作RPG，当年被媒体称为“西方的《最终幻想》”。\n\n游戏采用精美的预渲染背景搭配3D角色，从固定的俯视视角呈现城镇、码头、森林与城堡；玩家可在城镇里与居民交谈、购物，再带着最多三人的小队用即时动作战斗闯关。独特的鼠标式手势攻击操作在DC手柄上也被很好地还原。\n\n它的画面更偏写实欧风，并非像素日式风格，但那种俯视角逛城镇、接任务、冒险的感觉，依然能唤起喜欢ARPG的玩家的共鸣。",
+    "highlights": [
+      "精美的预渲染手绘背景",
+      "俯视角城镇探索与小队即时战斗",
+      "西方奇幻大冒险剧情",
+      "DC上少见的欧美ARPG"
+    ],
+    "reviews": [
+      {
+        "source": "IGN",
+        "score": "7.9/10",
+        "quote": "背景画面精致，是DC上值得一试的动作RPG"
+      },
+      {
+        "source": "GameSpot",
+        "score": "5.8/10",
+        "quote": "世界观不错，但战斗与移植表现平平"
+      },
+      {
+        "source": "GameRankings",
+        "score": "67%",
+        "quote": "媒体评价中规中矩"
+      }
+    ],
+    "editorScore": 7.5,
+    "is2D": false,
+    "styleMatch": 2,
+    "styleNote": "俯视角预渲染城镇可自由探索，角色为3D",
+    "screenshots": [
+      "images/dc/dc-silver-s1.png",
+      "images/dc/dc-silver-x1.jpg",
+      "images/dc/dc-silver-x2.jpg",
+      "images/dc/dc-silver-title.png"
+    ],
+    "cover": "images/dc/dc-silver-box.jpg"
   }
 ]

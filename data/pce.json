@@ -47,7 +47,9 @@
       "images/pce/pce-dracula-x-rondo-of-blood-x3.jpg",
       "images/pce/pce-dracula-x-rondo-of-blood-title.png"
     ],
-    "cover": "images/pce/pce-dracula-x-rondo-of-blood-box.jpg"
+    "cover": "images/pce/pce-dracula-x-rondo-of-blood-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版动作关卡，无城镇自由探索"
   },
   {
     "id": "pce-tengai-makyou-ii-manjimaru",
@@ -87,7 +89,9 @@
       "images/pce/pce-tengai-makyou-ii-manjimaru-x1.png",
       "images/pce/pce-tengai-makyou-ii-manjimaru-title.png"
     ],
-    "cover": "images/pce/pce-tengai-makyou-ii-manjimaru-box.jpg"
+    "cover": "images/pce/pce-tengai-makyou-ii-manjimaru-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素城镇，可自由走访村落商店"
   },
   {
     "id": "pce-ys-i-ii",
@@ -131,7 +135,9 @@
       "images/pce/pce-ys-i-ii-x2.png",
       "images/pce/pce-ys-i-ii-title.png"
     ],
-    "cover": "images/pce/pce-ys-i-ii-box.jpg"
+    "cover": "images/pce/pce-ys-i-ii-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角撞击式ARPG，城镇原野自由探索"
   },
   {
     "id": "pce-lords-of-thunder",
@@ -175,7 +181,9 @@
       "images/pce/pce-lords-of-thunder-x1.png",
       "images/pce/pce-lords-of-thunder-title.png"
     ],
-    "cover": "images/pce/pce-lords-of-thunder-box.jpg"
+    "cover": "images/pce/pce-lords-of-thunder-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "横版射击游戏"
   },
   {
     "id": "pce-gate-of-thunder",
@@ -219,7 +227,45 @@
       "images/pce/pce-gate-of-thunder-x2.png",
       "images/pce/pce-gate-of-thunder-title.png"
     ],
-    "cover": "images/pce/pce-gate-of-thunder-box.jpg"
+    "cover": "images/pce/pce-gate-of-thunder-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "横版射击游戏"
+  },
+  {
+    "id": "pce-kaze-no-densetsu-xanadu",
+    "title": "The Legend of Xanadu",
+    "titleZh": "风之传说 迷城",
+    "titleJa": "風の伝説ザナドゥ",
+    "year": 1994,
+    "developer": "Nihon Falcom",
+    "publisher": "NEC Home Electronics",
+    "genre": "动作角色扮演",
+    "tags": [
+      "像素",
+      "俯视角",
+      "Falcom",
+      "SUPER CD-ROM²"
+    ],
+    "players": "1",
+    "tagline": "Falcom为PCE献上的俯视角ARPG瑰宝",
+    "description": "Falcom亲自操刀、专为PC Engine打造的《风之传说 迷城》，是许多日本玩家心中PCE最好的动作RPG。少年阿雷奥斯生活在一座宁静的小镇，一场突如其来的灾难让他踏上守护王国的旅途——俯视角的城镇里，NPC各自忙碌，商店、教会、酒馆一应俱全，走在石板路上就能感受到浓浓的生活气息。\n\n战斗采用类似《伊苏》的即时动作，在原野和迷宫中挥剑砍杀；到了Boss战则切换为横版对决，演出魄力十足。SUPER CD-ROM²的大容量带来了动画过场与全语音，Falcom音乐队的配乐更是一绝。\n\n明亮饱和的像素色彩、精心布置的村庄与森林，几乎就是“经典日式俯视角ARPG”的标准画像。它从未出过海外版，但绝对值得每一位像素RPG爱好者去探访。",
+    "highlights": [
+      "Falcom为PCE原创的俯视角ARPG",
+      "生活气息浓厚的城镇与NPC",
+      "横版Boss战的独特演出",
+      "全语音与CD音源配乐"
+    ],
+    "reviews": [],
+    "editorScore": 9.0,
+    "is2D": true,
+    "screenshots": [
+      "images/pce/pce-kaze-no-densetsu-xanadu-x1.png",
+      "images/pce/pce-kaze-no-densetsu-xanadu-s1.png",
+      "images/pce/pce-kaze-no-densetsu-xanadu-title.png"
+    ],
+    "cover": "images/pce/pce-kaze-no-densetsu-xanadu-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素城镇，ARPG自由探索村庄"
   },
   {
     "id": "pce-spriggan",
@@ -264,7 +310,9 @@
       "images/pce/pce-spriggan-x2.jpg",
       "images/pce/pce-spriggan-title.png"
     ],
-    "cover": "images/pce/pce-spriggan-box.jpg"
+    "cover": "images/pce/pce-spriggan-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "纵版射击游戏"
   },
   {
     "id": "pce-soldier-blade",
@@ -314,7 +362,9 @@
       "images/pce/pce-soldier-blade-s3.png",
       "images/pce/pce-soldier-blade-title.png"
     ],
-    "cover": "images/pce/pce-soldier-blade-box.jpg"
+    "cover": "images/pce/pce-soldier-blade-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "纵版射击游戏"
   },
   {
     "id": "pce-bomberman-94",
@@ -353,7 +403,45 @@
       "images/pce/pce-bomberman-94-s2.png",
       "images/pce/pce-bomberman-94-title.png"
     ],
-    "cover": "images/pce/pce-bomberman-94-box.jpg"
+    "cover": "images/pce/pce-bomberman-94-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "俯视角像素动作，但无城镇探索"
+  },
+  {
+    "id": "pce-kaze-no-densetsu-xanadu-ii",
+    "title": "The Legend of Xanadu II",
+    "titleZh": "风之传说 迷城II",
+    "titleJa": "風の伝説ザナドゥII",
+    "year": 1995,
+    "developer": "Nihon Falcom",
+    "publisher": "Nihon Falcom",
+    "genre": "动作角色扮演",
+    "tags": [
+      "像素",
+      "俯视角",
+      "Falcom",
+      "SUPER CD-ROM²"
+    ],
+    "players": "1",
+    "tagline": "PCE末期的Falcom绝唱，八章跌宕的冒险",
+    "description": "前作的成功让Falcom在1995年推出了续作，这次连发行也由Falcom亲自负责。全八章的故事一波三折，主角阿雷奥斯与伙伴们在战火纷飞的大陆上奔走，每一章都有新的城镇与谜团等着你。\n\n俯视角的城镇和迷宫比前作更加精致，木船甲板、酒馆、民居内部的家具摆设都描绘得细致入微。Boss战取消了横版移动段落，改为直接对决，并加入类似格斗游戏的必杀技指令，角色各有专属招式。\n\n这是PCE生命末期最耀眼的RPG之一，像素功力几乎达到了主机极限。可惜发行量不大、只有日文版，但对于热爱俯视角像素冒险的玩家，它就是那颗被埋没的明珠。",
+    "highlights": [
+      "全八章跌宕起伏的剧情",
+      "极度精致的俯视角城镇与室内",
+      "Boss战加入必杀技指令",
+      "PCE末期像素美术的巅峰"
+    ],
+    "reviews": [],
+    "editorScore": 8.8,
+    "is2D": true,
+    "screenshots": [
+      "images/pce/pce-kaze-no-densetsu-xanadu-ii-s1.png",
+      "images/pce/pce-kaze-no-densetsu-xanadu-ii-x1.png",
+      "images/pce/pce-kaze-no-densetsu-xanadu-ii-title.png"
+    ],
+    "cover": "images/pce/pce-kaze-no-densetsu-xanadu-ii-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素城镇与室内，自由探索"
   },
   {
     "id": "pce-neutopia",
@@ -398,7 +486,9 @@
       "images/pce/pce-neutopia-s3.png",
       "images/pce/pce-neutopia-title.png"
     ],
-    "cover": "images/pce/pce-neutopia-box.jpg"
+    "cover": "images/pce/pce-neutopia-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角塞尔达式ARPG，有村庄与商店"
   },
   {
     "id": "pce-neutopia-ii",
@@ -443,7 +533,9 @@
       "images/pce/pce-neutopia-ii-s3.png",
       "images/pce/pce-neutopia-ii-title.png"
     ],
-    "cover": "images/pce/pce-neutopia-ii-box.jpg"
+    "cover": "images/pce/pce-neutopia-ii-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角塞尔达式ARPG，城镇更丰富"
   },
   {
     "id": "pce-ys-iv",
@@ -482,7 +574,9 @@
       "images/pce/pce-ys-iv-s2.png",
       "images/pce/pce-ys-iv-title.png"
     ],
-    "cover": "images/pce/pce-ys-iv-box.jpg"
+    "cover": "images/pce/pce-ys-iv-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角撞击式ARPG，城镇原野自由探索"
   },
   {
     "id": "pce-tengai-makyou-kabuki",
@@ -523,9 +617,13 @@
     "is2D": true,
     "screenshots": [
       "images/pce/pce-tengai-makyou-kabuki-s1.png",
+      "images/pce/pce-tengai-makyou-kabuki-x1.png",
+      "images/pce/pce-tengai-makyou-kabuki-x2.png",
       "images/pce/pce-tengai-makyou-kabuki-title.png"
     ],
-    "cover": "images/pce/pce-tengai-makyou-kabuki-box.jpg"
+    "cover": "images/pce/pce-tengai-makyou-kabuki-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素城镇，走访村落与商店"
   },
   {
     "id": "pce-tengai-makyou-ziria",
@@ -569,7 +667,9 @@
       "images/pce/pce-tengai-makyou-ziria-x1.png",
       "images/pce/pce-tengai-makyou-ziria-title.png"
     ],
-    "cover": "images/pce/pce-tengai-makyou-ziria-box.jpg"
+    "cover": "images/pce/pce-tengai-makyou-ziria-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素和风城镇与原野"
   },
   {
     "id": "pce-devils-crush",
@@ -608,7 +708,9 @@
       "images/pce/pce-devils-crush-s2.png",
       "images/pce/pce-devils-crush-title.png"
     ],
-    "cover": "images/pce/pce-devils-crush-box.jpg"
+    "cover": "images/pce/pce-devils-crush-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "弹珠台游戏"
   },
   {
     "id": "pce-r-type",
@@ -649,7 +751,57 @@
       "images/pce/pce-r-type-x3.png",
       "images/pce/pce-r-type-title.png"
     ],
-    "cover": "images/pce/pce-r-type-box.jpg"
+    "cover": "images/pce/pce-r-type-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "横版射击游戏"
+  },
+  {
+    "id": "pce-linda-cube",
+    "title": "Linda Cube",
+    "titleZh": "琳达立方",
+    "titleJa": "リンダキューブ",
+    "year": 1995,
+    "developer": "Alfa System",
+    "publisher": "NEC Home Electronics",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "俯视角",
+      "狩猎收集",
+      "桝田省治"
+    ],
+    "players": "1",
+    "tagline": "桝田省治的末日方舟，八年狩猎倒计时",
+    "description": "小行星将在八年后撞上星球，人类必须把每种动物雌雄各一只送上“方舟”——这就是《琳达立方》的疯狂设定。《天外魔境II》编剧桝田省治担纲游戏设计，主角肯与青梅竹马琳达在俯视角的城镇与荒野间奔走，捕猎形形色色的怪异生物。\n\n游戏中的时间随四季流转：季节变化会改变地形、水位和动物分布，城镇里能买卖道具、接受委托，野外则是一场场狩猎冒险。俯视角像素画面朴实清晰，村庄、田野、河流一应俱全，自由度极高。\n\n剧情黑色幽默又不乏感人之处，后来被移植到PS与SS并更受好评，但一切始于这张PCE光盘。想要一款“不一样”的俯视角RPG，琳达立方会让你大开眼界。",
+    "highlights": [
+      "桝田省治设计的独特方舟设定",
+      "四季变化影响地形与生物分布",
+      "捕猎收集数百种怪异生物",
+      "俯视角城镇与荒野自由探索"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "28/40",
+        "quote": "设定独特、收集要素丰富"
+      },
+      {
+        "source": "PC Engine FAN",
+        "score": "22.8/30",
+        "quote": "读者评价良好的个性RPG"
+      }
+    ],
+    "editorScore": 8.5,
+    "is2D": true,
+    "screenshots": [
+      "images/pce/pce-linda-cube-s1.png",
+      "images/pce/pce-linda-cube-x1.png",
+      "images/pce/pce-linda-cube-x2.jpg",
+      "images/pce/pce-linda-cube-title.png"
+    ],
+    "cover": "images/pce/pce-linda-cube-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素城镇与原野，自由狩猎探索"
   },
   {
     "id": "pce-blazing-lazers",
@@ -699,7 +851,9 @@
       "images/pce/pce-blazing-lazers-x2.png",
       "images/pce/pce-blazing-lazers-title.png"
     ],
-    "cover": "images/pce/pce-blazing-lazers-box.jpg"
+    "cover": "images/pce/pce-blazing-lazers-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "纵版射击游戏"
   },
   {
     "id": "pce-nectaris",
@@ -743,7 +897,9 @@
       "images/pce/pce-nectaris-x1.png",
       "images/pce/pce-nectaris-title.png"
     ],
-    "cover": "images/pce/pce-nectaris-box.jpg"
+    "cover": "images/pce/pce-nectaris-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "六角格战棋，无城镇与角色探索"
   },
   {
     "id": "pce-snatcher",
@@ -782,7 +938,9 @@
       "images/pce/pce-snatcher-x1.jpg",
       "images/pce/pce-snatcher-title.png"
     ],
-    "cover": "images/pce/pce-snatcher-box.jpg"
+    "cover": "images/pce/pce-snatcher-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "指令式文字冒险，非自由行走"
   },
   {
     "id": "pce-dungeon-explorer",
@@ -831,7 +989,9 @@
       "images/pce/pce-dungeon-explorer-s2.png",
       "images/pce/pce-dungeon-explorer-title.png"
     ],
-    "cover": "images/pce/pce-dungeon-explorer-box.jpg"
+    "cover": "images/pce/pce-dungeon-explorer-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "俯视角像素ARPG，以地牢为主城镇少"
   },
   {
     "id": "pce-pc-genjin",
@@ -876,7 +1036,9 @@
       "images/pce/pce-pc-genjin-s3.png",
       "images/pce/pce-pc-genjin-title.png"
     ],
-    "cover": "images/pce/pce-pc-genjin-box.jpg"
+    "cover": "images/pce/pce-pc-genjin-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版平台跳跃"
   },
   {
     "id": "pce-gradius-ii",
@@ -914,7 +1076,9 @@
       "images/pce/pce-gradius-ii-s1.png",
       "images/pce/pce-gradius-ii-title.png"
     ],
-    "cover": "images/pce/pce-gradius-ii-box.jpg"
+    "cover": "images/pce/pce-gradius-ii-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "横版射击游戏"
   },
   {
     "id": "pce-ys-iii",
@@ -955,9 +1119,13 @@
     "is2D": true,
     "screenshots": [
       "images/pce/pce-ys-iii-x1.png",
+      "images/pce/pce-ys-iii-x2.jpg",
+      "images/pce/pce-ys-iii-x3.jpg",
       "images/pce/pce-ys-iii-title.png"
     ],
-    "cover": "images/pce/pce-ys-iii-box.jpg"
+    "cover": "images/pce/pce-ys-iii-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "横版视角ARPG，有城镇但非俯视角"
   },
   {
     "id": "pce-air-zonk",
@@ -1001,7 +1169,9 @@
       "images/pce/pce-air-zonk-s2.png",
       "images/pce/pce-air-zonk-title.png"
     ],
-    "cover": "images/pce/pce-air-zonk-box.jpg"
+    "cover": "images/pce/pce-air-zonk-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "横版射击游戏"
   },
   {
     "id": "pce-emerald-dragon",
@@ -1040,7 +1210,9 @@
       "images/pce/pce-emerald-dragon-s2.png",
       "images/pce/pce-emerald-dragon-title.png"
     ],
-    "cover": "images/pce/pce-emerald-dragon-box.jpg"
+    "cover": "images/pce/pce-emerald-dragon-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG，城镇村落自由探索"
   },
   {
     "id": "pce-ninja-spirit",
@@ -1079,7 +1251,46 @@
       "images/pce/pce-ninja-spirit-s2.png",
       "images/pce/pce-ninja-spirit-title.png"
     ],
-    "cover": "images/pce/pce-ninja-spirit-box.jpg"
+    "cover": "images/pce/pce-ninja-spirit-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版动作关卡"
+  },
+  {
+    "id": "pce-tenshi-no-uta",
+    "title": "Tenshi no Uta",
+    "titleZh": "天使之诗",
+    "titleJa": "天使の詩",
+    "year": 1991,
+    "developer": "Riot / Telenet Japan",
+    "publisher": "Telenet Japan",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "俯视角",
+      "凯尔特神话",
+      "SUPER CD-ROM²"
+    ],
+    "players": "1",
+    "tagline": "凯尔特风情的隐藏名作，旋律令人落泪",
+    "description": "日本Telenet旗下Riot制作的《天使之诗》，以凯尔特神话为舞台，讲述少年凯亚鲁与失忆少女克蕾娅的旅程。俯视角的世界里，茅草屋顶的村落、森林间的小路、河流与草原交织成一片质朴的田园风光。\n\n战斗是传统的回合制，难度适中；真正打动人心的是剧情与音乐——伙伴的离去、使命的抉择，配合优美的CD音源旋律，让许多玩家至今念念不忘。\n\n它在当年并不算畅销，却在玩家口中被称为“隐藏的名作”，近年还在Switch上推出了合集重新发售。如果你喜欢安静温柔的像素RPG，这首“天使之诗”值得静心聆听。",
+    "highlights": [
+      "凯尔特神话风格的世界观",
+      "田园风光的俯视角村落",
+      "感人的剧情与优美配乐",
+      "近年于Switch合集复刻"
+    ],
+    "reviews": [],
+    "editorScore": 8.2,
+    "is2D": true,
+    "screenshots": [
+      "images/pce/pce-tenshi-no-uta-s1.png",
+      "images/pce/pce-tenshi-no-uta-x1.png",
+      "images/pce/pce-tenshi-no-uta-x2.png",
+      "images/pce/pce-tenshi-no-uta-title.png"
+    ],
+    "cover": "images/pce/pce-tenshi-no-uta-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素村落与森林，自由行走"
   },
   {
     "id": "pce-splatterhouse",
@@ -1124,7 +1335,9 @@
       "images/pce/pce-splatterhouse-s3.png",
       "images/pce/pce-splatterhouse-title.png"
     ],
-    "cover": "images/pce/pce-splatterhouse-box.jpg"
+    "cover": "images/pce/pce-splatterhouse-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版清版动作"
   },
   {
     "id": "pce-parasol-stars",
@@ -1163,7 +1376,9 @@
       "images/pce/pce-parasol-stars-s2.png",
       "images/pce/pce-parasol-stars-title.png"
     ],
-    "cover": "images/pce/pce-parasol-stars-box.jpg"
+    "cover": "images/pce/pce-parasol-stars-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "固定画面平台动作"
   },
   {
     "id": "pce-magical-chase",
@@ -1207,7 +1422,9 @@
       "images/pce/pce-magical-chase-s2.png",
       "images/pce/pce-magical-chase-title.png"
     ],
-    "cover": "images/pce/pce-magical-chase-box.jpg"
+    "cover": "images/pce/pce-magical-chase-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "横版射击游戏"
   },
   {
     "id": "pce-super-darius",
@@ -1245,7 +1462,45 @@
       "images/pce/pce-super-darius-s1.png",
       "images/pce/pce-super-darius-title.png"
     ],
-    "cover": "images/pce/pce-super-darius-box.jpg"
+    "cover": "images/pce/pce-super-darius-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "横版射击游戏"
+  },
+  {
+    "id": "pce-legend-of-heroes-ii",
+    "title": "Dragon Slayer: The Legend of Heroes II",
+    "titleZh": "屠龙剑 英雄传说II",
+    "titleJa": "ドラゴンスレイヤー英雄伝説II",
+    "year": 1992,
+    "developer": "Nihon Falcom / Hudson Soft",
+    "publisher": "Hudson Soft",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "俯视角",
+      "王道",
+      "SUPER CD-ROM²"
+    ],
+    "players": "1",
+    "tagline": "父子两代的英雄传说，系列温情续篇",
+    "description": "前作主角赛利奥斯的儿子阿特拉斯成长为15岁的少年，在王国教育下生活在小镇埃尔阿斯塔——直到一场阴谋把他卷入新的冒险。《英雄传说II》延续了初代王道温暖的风格，父子两代的羁绊贯穿始终。\n\n俯视角的城镇与原野描绘细致，NPC对话充满生活感；战斗依旧是可自动进行的回合制，节奏明快。PCE版加入语音与CD音源编曲，Falcom的名曲在光盘音质下格外悠扬。\n\n它是“英雄传说”系列从“屠龙剑”迈向“卡卡布三部曲”与“轨迹”的重要一步。喜欢轻松王道冒险的玩家，可以和一代连着一起体验。",
+    "highlights": [
+      "前作主角之子的续篇冒险",
+      "俯视角城镇与原野探索",
+      "支持自动战斗，节奏轻快",
+      "Falcom名曲的CD音源演绎"
+    ],
+    "reviews": [],
+    "editorScore": 8.0,
+    "is2D": true,
+    "screenshots": [
+      "images/pce/pce-legend-of-heroes-ii-s1.png",
+      "images/pce/pce-legend-of-heroes-ii-x1.png",
+      "images/pce/pce-legend-of-heroes-ii-title.png"
+    ],
+    "cover": "images/pce/pce-legend-of-heroes-ii-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素城镇与原野，王道RPG"
   },
   {
     "id": "pce-cosmic-fantasy-2",
@@ -1289,7 +1544,9 @@
       "images/pce/pce-cosmic-fantasy-2-x1.png",
       "images/pce/pce-cosmic-fantasy-2-title.png"
     ],
-    "cover": "images/pce/pce-cosmic-fantasy-2-box.jpg"
+    "cover": "images/pce/pce-cosmic-fantasy-2-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG，城镇与原野行走"
   },
   {
     "id": "pce-legend-of-heroes",
@@ -1328,7 +1585,9 @@
       "images/pce/pce-legend-of-heroes-s2.png",
       "images/pce/pce-legend-of-heroes-title.png"
     ],
-    "cover": "images/pce/pce-legend-of-heroes-box.jpg"
+    "cover": "images/pce/pce-legend-of-heroes-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG，可走访城镇商店"
   },
   {
     "id": "pce-tokimeki-memorial",
@@ -1361,7 +1620,45 @@
       "images/pce/pce-tokimeki-memorial-s2.png",
       "images/pce/pce-tokimeki-memorial-title.png"
     ],
-    "cover": "images/pce/pce-tokimeki-memorial-box.jpg"
+    "cover": "images/pce/pce-tokimeki-memorial-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "日程养成恋爱模拟，非地图探索"
+  },
+  {
+    "id": "pce-lodoss-war",
+    "title": "Record of Lodoss War",
+    "titleZh": "罗德岛战记",
+    "titleJa": "ロードス島戦記",
+    "year": 1992,
+    "developer": "Hudson Soft",
+    "publisher": "Hudson Soft",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "俯视角",
+      "奇幻",
+      "SUPER CD-ROM²"
+    ],
+    "players": "1",
+    "tagline": "经典奇幻小说改编，PCE上的罗德岛之旅",
+    "description": "水野良的《罗德岛战记》是日式奇幻的奠基之作，而哈德森的PCE版让玩家亲自踏上这座“被诅咒的岛屿”。帕恩、蒂德莉特、艾特、斯雷因……熟悉的伙伴们一一登场，从扎克森村出发，追寻灰色魔女的阴谋。\n\n俯视角的原野上河流蜿蜒、森林茂密，木桥与山洞点缀其间，画面颇有TRPG地图的味道；城镇里可以购物、打听情报，战斗为传统回合制。SUPER CD-ROM²带来了动画过场与语音，原作粉丝会倍感亲切。\n\n它的系统略显传统，但浓厚的西式奇幻氛围在PCE的日式RPG中别具一格，也是了解“罗德岛”世界的好入口。",
+    "highlights": [
+      "改编自水野良的经典奇幻小说",
+      "原作人气角色悉数登场",
+      "河流木桥的俯视角原野",
+      "动画过场与语音演出"
+    ],
+    "reviews": [],
+    "editorScore": 7.8,
+    "is2D": true,
+    "screenshots": [
+      "images/pce/pce-lodoss-war-s1.png",
+      "images/pce/pce-lodoss-war-x1.png",
+      "images/pce/pce-lodoss-war-title.png"
+    ],
+    "cover": "images/pce/pce-lodoss-war-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角原野河流木桥，城镇可购物"
   },
   {
     "id": "pce-gulliver-boy",
@@ -1390,10 +1687,13 @@
     "editorScore": 7.6,
     "is2D": true,
     "screenshots": [
-      "images/pce/pce-gulliver-boy-s1.png",
+      "images/pce/pce-gulliver-boy-x1.png",
+      "images/pce/pce-gulliver-boy-x2.png",
       "images/pce/pce-gulliver-boy-title.png"
     ],
-    "cover": "images/pce/pce-gulliver-boy-box.jpg"
+    "cover": "images/pce/pce-gulliver-boy-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG，城镇自由探索"
   },
   {
     "id": "pce-popful-mail",
@@ -1429,8 +1729,100 @@
     "is2D": true,
     "screenshots": [
       "images/pce/pce-popful-mail-x1.png",
+      "images/pce/pce-popful-mail-x2.png",
+      "images/pce/pce-popful-mail-x3.png",
       "images/pce/pce-popful-mail-title.png"
     ],
-    "cover": "images/pce/pce-popful-mail-box.jpg"
+    "cover": "images/pce/pce-popful-mail-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "横版ARPG，有城镇商店但非俯视角"
+  },
+  {
+    "id": "pce-cosmic-fantasy-3",
+    "title": "Cosmic Fantasy 3",
+    "titleZh": "宇宙幻想3",
+    "titleJa": "コズミック・ファンタジー3 冒険少年レイ",
+    "year": 1992,
+    "developer": "Telenet Japan (Laser Soft)",
+    "publisher": "Telenet Japan",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "俯视角",
+      "动画风",
+      "SUPER CD-ROM²"
+    ],
+    "players": "1",
+    "tagline": "动画演出更华丽的宇宙幻想续篇",
+    "description": "《宇宙幻想》系列第三作，主角换成了少年雷，故事依旧是热血又带点搞笑的太空奇幻冒险。SUPER CD-ROM²的大容量让动画过场数量与质量进一步提升，在当年颇具话题性。\n\n俯视角的城镇与原野延续了系列风格，色彩明快，角色造型充满90年代动画味。战斗为传统回合制，遇敌频率偏高，玩起来略显老派。\n\n客观地说，它的游戏性并不出众，但作为CD动画RPG黄金年代的产物，它记录了那个时代的独特审美。系列粉丝与动画风爱好者可以一试。",
+    "highlights": [
+      "系列第三作，新主角雷登场",
+      "大量动画过场演出",
+      "明快的俯视角城镇画面",
+      "浓郁的90年代动画风格"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "23/40",
+        "quote": "动画演出丰富，但游戏系统较为平庸"
+      }
+    ],
+    "editorScore": 7.2,
+    "is2D": true,
+    "screenshots": [
+      "images/pce/pce-cosmic-fantasy-3-s1.png",
+      "images/pce/pce-cosmic-fantasy-3-x1.png",
+      "images/pce/pce-cosmic-fantasy-3-title.png"
+    ],
+    "cover": "images/pce/pce-cosmic-fantasy-3-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素城镇与原野，传统RPG"
+  },
+  {
+    "id": "pce-dungeon-explorer-ii",
+    "title": "Dungeon Explorer II",
+    "titleZh": "迷宫探险者II",
+    "titleJa": "ダンジョンエクスプローラーII",
+    "year": 1993,
+    "developer": "Hudson Soft",
+    "publisher": "Hudson Soft",
+    "genre": "动作角色扮演",
+    "tags": [
+      "像素",
+      "俯视角",
+      "多人合作"
+    ],
+    "players": "1-5",
+    "tagline": "加入城镇探索的五人合作ARPG",
+    "description": "前作的五人合作地牢冒险迎来续篇！《迷宫探险者II》设定在初代百年之后，八名主角为夺回神秘的奥拉石重新集结。与前作相比，本作加入了城镇与原野探索，可以与村民交谈、在商店购买道具，冒险感大大增强。\n\n俯视角的ARPG战斗依旧是重头戏，多人同屏合作时怪物蜂拥而至，混乱又欢乐；职业系统更丰富，还能转职提升能力。SUPER CD-ROM²的音乐也比前作更有气势。\n\nFami通评价不高，但北美媒体普遍给出好评。凑齐朋友一起玩，它依旧是PCE上最热闹的合作ARPG之一。",
+    "highlights": [
+      "最多5人同时合作冒险",
+      "新增城镇与原野探索",
+      "职业转职系统",
+      "俯视角清版式ARPG战斗"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "19/40",
+        "quote": "系统较为单调，评价平平"
+      },
+      {
+        "source": "GameFan",
+        "score": "340/400",
+        "quote": "多人合作乐趣十足的续作"
+      }
+    ],
+    "editorScore": 7.2,
+    "is2D": true,
+    "screenshots": [
+      "images/pce/pce-dungeon-explorer-ii-s1.png",
+      "images/pce/pce-dungeon-explorer-ii-s2.png",
+      "images/pce/pce-dungeon-explorer-ii-title.png"
+    ],
+    "cover": "images/pce/pce-dungeon-explorer-ii-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角ARPG，有城镇村民与商店"
   }
 ]

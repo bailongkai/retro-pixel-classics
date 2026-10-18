@@ -49,7 +49,9 @@
       "images/ps/ps-symphony-of-the-night-x1.jpg",
       "images/ps/ps-symphony-of-the-night-title.png"
     ],
-    "cover": "images/ps/ps-symphony-of-the-night-box.jpg"
+    "cover": "images/ps/ps-symphony-of-the-night-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "像素银河城，有商店但为横版"
   },
   {
     "id": "ps-chrono-cross",
@@ -99,7 +101,9 @@
       "images/ps/ps-chrono-cross-x2.png",
       "images/ps/ps-chrono-cross-title.png"
     ],
-    "cover": "images/ps/ps-chrono-cross-box.jpg"
+    "cover": "images/ps/ps-chrono-cross-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "3D角色+预渲染背景，非像素"
   },
   {
     "id": "ps-suikoden-ii",
@@ -150,7 +154,9 @@
       "images/ps/ps-suikoden-ii-x1.jpg",
       "images/ps/ps-suikoden-ii-title.png"
     ],
-    "cover": "images/ps/ps-suikoden-ii-box.jpg"
+    "cover": "images/ps/ps-suikoden-ii-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素城镇，与参考图气质最近"
   },
   {
     "id": "ps-final-fantasy-tactics",
@@ -202,7 +208,61 @@
       "images/ps/ps-final-fantasy-tactics-x2.jpg",
       "images/ps/ps-final-fantasy-tactics-title.png"
     ],
-    "cover": "images/ps/ps-final-fantasy-tactics-box.jpg"
+    "cover": "images/ps/ps-final-fantasy-tactics-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "像素战棋，城镇仅为菜单"
+  },
+  {
+    "id": "ps-chrono-trigger",
+    "title": "Chrono Trigger",
+    "titleZh": "时空之轮",
+    "titleJa": "クロノ・トリガー",
+    "year": 1999,
+    "developer": "Square / TOSE",
+    "publisher": "Square",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "时空穿越",
+      "多结局"
+    ],
+    "players": "1",
+    "tagline": "梦幻团队的时空杰作，PS版加入动画重温经典",
+    "description": "坂口博信、堀井雄二、鸟山明——\"梦幻团队\"联手打造的不朽名作，1999年移植PS！少年克罗诺在千年祭上邂逅少女玛璐，一次意外让他们坠入时空裂缝，从此穿梭于原始时代、中世纪与末日未来，只为改变星球毁灭的命运。\n\n俯视角像素画面色彩鲜艳，角色在城镇、森林与城堡间自由行走，战斗直接在地图上展开，\"连携技\"组合更是乐趣无穷。PS版最大的卖点是新增的鸟山明风格动画过场，由东映动画制作，令人感动。\n\n多达十余种结局、\"强くてニューゲーム\"继承周目，这部作品值得每一位RPG玩家反复游玩。光田康典的配乐，更是一听就停不下来。",
+    "highlights": [
+      "鸟山明人设的俯视角像素世界",
+      "跨越多个时代的时空冒险",
+      "地图上直接战斗与连携技",
+      "PS版新增东映动画过场"
+    ],
+    "reviews": [
+      {
+        "source": "IGN",
+        "score": "9.4/10",
+        "quote": "收录于《Final Fantasy Chronicles》，经典RPG的忠实移植"
+      },
+      {
+        "source": "GameSpot",
+        "score": "8.5/10",
+        "quote": "合集版评测：时隔多年依旧出色，但有读盘问题"
+      },
+      {
+        "source": "Metacritic",
+        "score": "89/100",
+        "quote": "《Final Fantasy Chronicles》合集综合评价"
+      }
+    ],
+    "editorScore": 9.5,
+    "is2D": true,
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG，城镇村庄自由探索",
+    "screenshots": [
+      "images/ps/ps-chrono-trigger-s1.png",
+      "images/ps/ps-chrono-trigger-x1.jpg",
+      "images/ps/ps-chrono-trigger-x2.jpg",
+      "images/ps/ps-chrono-trigger-title.png"
+    ],
+    "cover": "images/ps/ps-chrono-trigger-box.jpg"
   },
   {
     "id": "ps-final-fantasy-ix",
@@ -252,7 +312,9 @@
       "images/ps/ps-final-fantasy-ix-s3.png",
       "images/ps/ps-final-fantasy-ix-title.png"
     ],
-    "cover": "images/ps/ps-final-fantasy-ix-box.jpg"
+    "cover": "images/ps/ps-final-fantasy-ix-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "3D角色+预渲染背景，非像素"
   },
   {
     "id": "ps-valkyrie-profile",
@@ -304,7 +366,9 @@
       "images/ps/ps-valkyrie-profile-x2.jpg",
       "images/ps/ps-valkyrie-profile-title.png"
     ],
-    "cover": "images/ps/ps-valkyrie-profile-box.jpg"
+    "cover": "images/ps/ps-valkyrie-profile-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "像素RPG但为横版视角探索"
   },
   {
     "id": "ps-xenogears",
@@ -354,7 +418,9 @@
       "images/ps/ps-xenogears-x1.jpg",
       "images/ps/ps-xenogears-title.png"
     ],
-    "cover": "images/ps/ps-xenogears-box.jpg"
+    "cover": "images/ps/ps-xenogears-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "像素角色但城镇为3D多边形"
   },
   {
     "id": "ps-legend-of-mana",
@@ -405,7 +471,9 @@
       "images/ps/ps-legend-of-mana-x2.png",
       "images/ps/ps-legend-of-mana-title.png"
     ],
-    "cover": "images/ps/ps-legend-of-mana-box.jpg"
+    "cover": "images/ps/ps-legend-of-mana-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "手绘2D俯视角，城镇商店一应俱全"
   },
   {
     "id": "ps-alundra",
@@ -456,7 +524,9 @@
       "images/ps/ps-alundra-x2.jpg",
       "images/ps/ps-alundra-title.png"
     ],
-    "cover": "images/ps/ps-alundra-box.jpg"
+    "cover": "images/ps/ps-alundra-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素ARPG，村庄自由探索"
   },
   {
     "id": "ps-klonoa",
@@ -506,7 +576,9 @@
       "images/ps/ps-klonoa-x1.png",
       "images/ps/ps-klonoa-title.png"
     ],
-    "cover": "images/ps/ps-klonoa-box.jpg"
+    "cover": "images/ps/ps-klonoa-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "2.5D横版平台，无城镇"
   },
   {
     "id": "ps-grandia",
@@ -556,7 +628,9 @@
       "images/ps/ps-grandia-s3.png",
       "images/ps/ps-grandia-title.png"
     ],
-    "cover": "images/ps/ps-grandia-box.jpg"
+    "cover": "images/ps/ps-grandia-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "像素角色但场景为3D多边形"
   },
   {
     "id": "ps-star-ocean-the-second-story",
@@ -605,7 +679,149 @@
       "images/ps/ps-star-ocean-the-second-story-x1.jpg",
       "images/ps/ps-star-ocean-the-second-story-title.png"
     ],
-    "cover": "images/ps/ps-star-ocean-the-second-story-box.jpg"
+    "cover": "images/ps/ps-star-ocean-the-second-story-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "像素角色+预渲染城镇，俯视角"
+  },
+  {
+    "id": "ps-popolocrois",
+    "title": "PoPoLoCrois Monogatari",
+    "titleZh": "波波罗克罗伊斯物语",
+    "titleJa": "ポポロクロイス物語",
+    "year": 1996,
+    "developer": "G-Artists / Sugar & Rockets",
+    "publisher": "Sony Computer Entertainment",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "童话",
+      "日版独占"
+    ],
+    "players": "1",
+    "tagline": "会动的绘本童话，母子之爱的温暖旅程",
+    "description": "改编自田森庸介的同名漫画，SCE在PS初期推出的童话风RPG！波波罗克罗伊斯王国的小王子皮耶特罗在十岁生日那天得知，一直以为早已去世的母亲，灵魂竟被冰之魔王囚禁在冥界。于是，小王子踏上了寻找母亲的旅程。\n\n全部采用2D像素绘制的斜俯视角画面温暖可爱，城堡、村庄、森林细节满满；战斗在地图上以格子形式展开，简单易懂。最令人难忘的是大量动画过场，一部数分钟的动画所用的赛璐珞片比60分钟电视动画还多！\n\n故事主题围绕\"母与子之爱\"，结局令无数玩家落泪。这部日版独占的名作，是最贴近参考图风格的PS游戏之一。",
+    "highlights": [
+      "全2D像素绘制的斜俯视角童话世界",
+      "大量高品质动画过场",
+      "\"母与子之爱\"的催泪主题",
+      "简单易懂的格子战斗"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "金殿堂",
+        "quote": "获得Fami通交叉评测金殿堂认证，童话风RPG佳作"
+      }
+    ],
+    "editorScore": 9.0,
+    "is2D": true,
+    "styleMatch": 3,
+    "styleNote": "斜俯视角像素城镇，与参考图非常接近",
+    "screenshots": [
+      "images/ps/ps-popolocrois-s1.png",
+      "images/ps/ps-popolocrois-x1.png",
+      "images/ps/ps-popolocrois-x2.png",
+      "images/ps/ps-popolocrois-title.png"
+    ],
+    "cover": "images/ps/ps-popolocrois-box.jpg"
+  },
+  {
+    "id": "ps-dragon-quest-vii",
+    "title": "Dragon Quest VII",
+    "titleZh": "勇者斗恶龙VII",
+    "titleJa": "ドラゴンクエストVII エデンの戦士たち",
+    "year": 2000,
+    "developer": "Heartbeat",
+    "publisher": "Enix",
+    "genre": "角色扮演",
+    "tags": [
+      "石板",
+      "职业",
+      "超长篇"
+    ],
+    "players": "1",
+    "tagline": "拼起世界的石板碎片，百小时的勇者史诗",
+    "description": "日本国民RPG，PS上销量超过四百万套的怪物级作品！故事始于一座孤零零的小岛，渔夫之子主角与王子基法、青梅竹马玛莉贝尔，通过神秘遗迹中的\"石板碎片\"穿越到过去，逐一解救被封印的大陆，让世界地图一点点重现。\n\n每一块大陆都是一个独立的短篇故事，有温馨也有悲剧，堀井雄二的剧本功力展露无遗。Q版的2D像素角色走在可旋转的3D城镇中，熟悉的DQ式村庄、商店、教会、水井一应俱全。转职系统深度惊人，怪物职业更是收集控的福音。\n\n通关时间动辄百小时，是一部需要静下心来慢慢品味的大作。",
+    "highlights": [
+      "石板碎片拼起世界地图的独特设计",
+      "每块大陆都是独立的动人短篇",
+      "丰富的转职与怪物职业系统",
+      "超百小时的超大容量"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "38/40",
+        "quote": "系列正统续作，容量与完成度都十分惊人"
+      },
+      {
+        "source": "IGN",
+        "score": "8.7/10",
+        "quote": "内容极其丰富的传统RPG"
+      },
+      {
+        "source": "GameSpot",
+        "score": "7.7/10",
+        "quote": "内容庞大，但画面略显过时"
+      }
+    ],
+    "editorScore": 9.0,
+    "is2D": true,
+    "styleMatch": 3,
+    "styleNote": "像素Q版角色漫步DQ式城镇，3D场景",
+    "screenshots": [
+      "images/ps/ps-dragon-quest-vii-s1.png",
+      "images/ps/ps-dragon-quest-vii-s2.png",
+      "images/ps/ps-dragon-quest-vii-s3.png",
+      "images/ps/ps-dragon-quest-vii-title.png"
+    ],
+    "cover": "images/ps/ps-dragon-quest-vii-box.jpg"
+  },
+  {
+    "id": "ps-tactics-ogre",
+    "title": "Tactics Ogre: Let Us Cling Together",
+    "titleZh": "皇家骑士团2",
+    "titleJa": "タクティクスオウガ",
+    "year": 1997,
+    "developer": "Quest",
+    "publisher": "Artdink / Atlus",
+    "genre": "战略角色扮演",
+    "tags": [
+      "像素",
+      "战棋",
+      "多路线"
+    ],
+    "players": "1",
+    "tagline": "秩序还是混沌？战棋RPG的永恒圣经",
+    "description": "松野泰己的战棋神作从超任移植PS！瓦雷利亚岛上，三个民族的内战烽火连天，少年德尼姆与姐姐卡琪娅、挚友维斯被卷入战争漩涡。玩家的选择将导向\"秩序\"\"中立\"\"混沌\"不同路线，决定截然不同的命运。\n\n斜视角的战场以细腻像素绘制，地形高低差、风向、属性相克等要素让战术深度无比惊人。招募、培养、转职，打造属于自己的军团。剧情探讨民族、正义与牺牲，成熟程度在当年游戏中极为罕见。\n\nPS版追加了战斗中快速存档等便利功能。想挑战真正的战棋巅峰，非此莫属。",
+    "highlights": [
+      "秩序、中立、混沌多路线剧情",
+      "高低差、风向等深度战术要素",
+      "成熟厚重的政治群像剧",
+      "细腻的斜视角像素战场"
+    ],
+    "reviews": [
+      {
+        "source": "EGM",
+        "score": "33/40",
+        "quote": "深度惊人的战棋游戏，剧情出色"
+      },
+      {
+        "source": "GameSpot",
+        "score": "7.9/10",
+        "quote": "经典战棋作品的扎实移植"
+      }
+    ],
+    "editorScore": 9.0,
+    "is2D": true,
+    "styleMatch": 2,
+    "styleNote": "像素战棋，城镇为菜单不可漫步",
+    "screenshots": [
+      "images/ps/ps-tactics-ogre-s1.png",
+      "images/ps/ps-tactics-ogre-x1.jpg",
+      "images/ps/ps-tactics-ogre-title.png"
+    ],
+    "cover": "images/ps/ps-tactics-ogre-box.jpg"
   },
   {
     "id": "ps-breath-of-fire-iii",
@@ -654,7 +870,9 @@
       "images/ps/ps-breath-of-fire-iii-x1.png",
       "images/ps/ps-breath-of-fire-iii-title.png"
     ],
-    "cover": "images/ps/ps-breath-of-fire-iii-box.jpg"
+    "cover": "images/ps/ps-breath-of-fire-iii-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "像素角色漫步城镇村落，俯视角"
   },
   {
     "id": "ps-saga-frontier-2",
@@ -703,7 +921,9 @@
       "images/ps/ps-saga-frontier-2-s2.png",
       "images/ps/ps-saga-frontier-2-title.png"
     ],
-    "cover": "images/ps/ps-saga-frontier-2-box.jpg"
+    "cover": "images/ps/ps-saga-frontier-2-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "水彩2D但多为横向视角场景"
   },
   {
     "id": "ps-tales-of-eternia",
@@ -753,7 +973,9 @@
       "images/ps/ps-tales-of-eternia-s3.png",
       "images/ps/ps-tales-of-eternia-title.png"
     ],
-    "cover": "images/ps/ps-tales-of-eternia-box.jpg"
+    "cover": "images/ps/ps-tales-of-eternia-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素城镇，战斗为横版"
   },
   {
     "id": "ps-lunar-silver-star-story-complete",
@@ -803,7 +1025,9 @@
       "images/ps/ps-lunar-silver-star-story-complete-s3.png",
       "images/ps/ps-lunar-silver-star-story-complete-title.png"
     ],
-    "cover": "images/ps/ps-lunar-silver-star-story-complete-box.jpg"
+    "cover": "images/ps/ps-lunar-silver-star-story-complete-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG，村庄商店自由逛"
   },
   {
     "id": "ps-einhander",
@@ -852,7 +1076,9 @@
       "images/ps/ps-einhander-s2.png",
       "images/ps/ps-einhander-title.png"
     ],
-    "cover": "images/ps/ps-einhander-box.jpg"
+    "cover": "images/ps/ps-einhander-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "3D横版射击，类型不同"
   },
   {
     "id": "ps-suikoden",
@@ -903,7 +1129,9 @@
       "images/ps/ps-suikoden-x1.jpg",
       "images/ps/ps-suikoden-title.png"
     ],
-    "cover": "images/ps/ps-suikoden-box.jpg"
+    "cover": "images/ps/ps-suikoden-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG，城镇与大本营探索"
   },
   {
     "id": "ps-street-fighter-alpha-3",
@@ -952,7 +1180,9 @@
       "images/ps/ps-street-fighter-alpha-3-x1.png",
       "images/ps/ps-street-fighter-alpha-3-title.png"
     ],
-    "cover": "images/ps/ps-street-fighter-alpha-3-box.jpg"
+    "cover": "images/ps/ps-street-fighter-alpha-3-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "格斗游戏，类型不同"
   },
   {
     "id": "ps-breath-of-fire-iv",
@@ -1001,7 +1231,9 @@
       "images/ps/ps-breath-of-fire-iv-x1.png",
       "images/ps/ps-breath-of-fire-iv-title.png"
     ],
-    "cover": "images/ps/ps-breath-of-fire-iv-box.jpg"
+    "cover": "images/ps/ps-breath-of-fire-iv-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "精致像素角色，俯视角城镇探索"
   },
   {
     "id": "ps-tomba",
@@ -1050,7 +1282,9 @@
       "images/ps/ps-tomba-s2.png",
       "images/ps/ps-tomba-title.png"
     ],
-    "cover": "images/ps/ps-tomba-box.jpg"
+    "cover": "images/ps/ps-tomba-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版平台冒险，像素风同代"
   },
   {
     "id": "ps-metal-slug-x",
@@ -1089,7 +1323,9 @@
       "images/ps/ps-metal-slug-x-x1.png",
       "images/ps/ps-metal-slug-x-title.png"
     ],
-    "cover": "images/ps/ps-metal-slug-x-box.jpg"
+    "cover": "images/ps/ps-metal-slug-x-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "横版射击，类型不同"
   },
   {
     "id": "ps-lunar-2-eternal-blue-complete",
@@ -1138,7 +1374,9 @@
       "images/ps/ps-lunar-2-eternal-blue-complete-s2.png",
       "images/ps/ps-lunar-2-eternal-blue-complete-title.png"
     ],
-    "cover": "images/ps/ps-lunar-2-eternal-blue-complete-box.jpg"
+    "cover": "images/ps/ps-lunar-2-eternal-blue-complete-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG，村庄商店自由逛"
   },
   {
     "id": "ps-gradius-gaiden",
@@ -1178,7 +1416,50 @@
       "images/ps/ps-gradius-gaiden-x2.png",
       "images/ps/ps-gradius-gaiden-title.png"
     ],
-    "cover": "images/ps/ps-gradius-gaiden-box.jpg"
+    "cover": "images/ps/ps-gradius-gaiden-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "横版射击，类型不同"
+  },
+  {
+    "id": "ps-dragon-quest-iv",
+    "title": "Dragon Quest IV",
+    "titleZh": "勇者斗恶龙IV 被引导的人们",
+    "titleJa": "ドラゴンクエストIV 導かれし者たち",
+    "year": 2001,
+    "developer": "Heartbeat / ArtePiazza",
+    "publisher": "Enix",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "章节式",
+      "重制"
+    ],
+    "players": "1",
+    "tagline": "五章群像的引导之旅，经典DQ的PS重制",
+    "description": "FC时代的经典名作，在PS上以全新面貌重生！故事分为五个章节：王宫战士莱安、公主阿丽娜、武器商人特鲁内克、舞女与占卜师姐妹……每个人都有自己的冒险，最终在第五章与勇者汇合，共同对抗魔族之王。\n\nQ版的2D像素角色走在可旋转的3D城镇中，DQ招牌的村庄、武器店、教会与水井，与参考图的氛围极为相近。重制版新增了第六章与\"同伴对话\"系统，伙伴们会对每个场景发表感想，让旅途更加生动。\n\n章节式群像剧的结构即使放到今天也毫不过时。想体验最正统的日式RPG，这里就是起点。",
+    "highlights": [
+      "五个章节的群像式叙事",
+      "新增第六章与同伴对话系统",
+      "像素角色+可旋转3D城镇",
+      "经典DQ式村庄与商店"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "32/40",
+        "quote": "经典名作的用心重制，新要素丰富"
+      }
+    ],
+    "editorScore": 8.8,
+    "is2D": true,
+    "styleMatch": 3,
+    "styleNote": "像素Q版角色漫步DQ式城镇，3D场景",
+    "screenshots": [
+      "images/ps/ps-dragon-quest-iv-s1.png",
+      "images/ps/ps-dragon-quest-iv-x1.jpg",
+      "images/ps/ps-dragon-quest-iv-title.png"
+    ],
+    "cover": "images/ps/ps-dragon-quest-iv-box.jpg"
   },
   {
     "id": "ps-harvest-moon-back-to-nature",
@@ -1227,7 +1508,56 @@
       "images/ps/ps-harvest-moon-back-to-nature-s2.png",
       "images/ps/ps-harvest-moon-back-to-nature-title.png"
     ],
-    "cover": "images/ps/ps-harvest-moon-back-to-nature-box.jpg"
+    "cover": "images/ps/ps-harvest-moon-back-to-nature-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角田园小镇生活，Q版角色"
+  },
+  {
+    "id": "ps-arc-the-lad-ii",
+    "title": "Arc the Lad II",
+    "titleZh": "圣战士传说II",
+    "titleJa": "アークザラッドII",
+    "year": 1996,
+    "developer": "G-Craft",
+    "publisher": "Sony Computer Entertainment",
+    "genre": "战略角色扮演",
+    "tags": [
+      "像素",
+      "战棋",
+      "猎人公会"
+    ],
+    "players": "1",
+    "tagline": "猎人公会的委托接不完，PS初期的战棋RPG巨作",
+    "description": "PS早期的招牌RPG续作，规模远超前作！少年猎人艾尔克在公会接受各种委托，一步步卷入与\"安德鲁\"的世界级阴谋。故事中段与前作主角亚克一行人汇合，两代主角共同对抗黑暗。\n\n城镇以斜俯视角像素描绘，可以自由行走、与居民交谈、接取公会任务；战斗则在地图上以战棋方式展开，角色动作流畅。前作存档继承、大量支线委托、竞技场与怪物收集，玩起来非常耐玩。\n\n剧情走向沉重悲壮，结局在当年引起巨大反响。喜欢像素战棋与城镇探索结合的玩家，不容错过。",
+    "highlights": [
+      "猎人公会委托的丰富支线",
+      "城镇自由探索+战棋战斗",
+      "可继承前作存档",
+      "沉重悲壮的史诗剧情"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "29/40",
+        "quote": "规模大幅提升的续作，内容丰富"
+      },
+      {
+        "source": "IGN",
+        "score": "8.8/10",
+        "quote": "收录于《Arc the Lad Collection》，优秀的战棋RPG"
+      }
+    ],
+    "editorScore": 8.7,
+    "is2D": true,
+    "styleMatch": 2,
+    "styleNote": "像素城镇可漫步，但战斗为战棋",
+    "screenshots": [
+      "images/ps/ps-arc-the-lad-ii-s1.png",
+      "images/ps/ps-arc-the-lad-ii-x1.jpg",
+      "images/ps/ps-arc-the-lad-ii-x2.jpg",
+      "images/ps/ps-arc-the-lad-ii-title.png"
+    ],
+    "cover": "images/ps/ps-arc-the-lad-ii-box.jpg"
   },
   {
     "id": "ps-wild-arms",
@@ -1278,7 +1608,9 @@
       "images/ps/ps-wild-arms-x2.png",
       "images/ps/ps-wild-arms-title.png"
     ],
-    "cover": "images/ps/ps-wild-arms-box.jpg"
+    "cover": "images/ps/ps-wild-arms-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角2D城镇与迷宫，战斗为3D"
   },
   {
     "id": "ps-tales-of-phantasia",
@@ -1317,7 +1649,9 @@
       "images/ps/ps-tales-of-phantasia-s2.png",
       "images/ps/ps-tales-of-phantasia-title.png"
     ],
-    "cover": "images/ps/ps-tales-of-phantasia-box.jpg"
+    "cover": "images/ps/ps-tales-of-phantasia-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素城镇，战斗为横版"
   },
   {
     "id": "ps-silhouette-mirage",
@@ -1366,7 +1700,97 @@
       "images/ps/ps-silhouette-mirage-s2.png",
       "images/ps/ps-silhouette-mirage-title.png"
     ],
-    "cover": "images/ps/ps-silhouette-mirage-box.jpg"
+    "cover": "images/ps/ps-silhouette-mirage-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版像素动作，无城镇"
+  },
+  {
+    "id": "ps-final-fantasy-origins",
+    "title": "Final Fantasy Origins",
+    "titleZh": "最终幻想 起源",
+    "titleJa": "ファイナルファンタジー／ファイナルファンタジーII",
+    "year": 2002,
+    "developer": "Square",
+    "publisher": "Square",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "重制",
+      "合集"
+    ],
+    "players": "1",
+    "tagline": "光之战士的原点，FF I与II的完美重制",
+    "description": "一切从这里开始！SQUARE将FC上的《最终幻想》与《最终幻想II》以16位风格全面重绘，移植到PS。四位光之战士拯救水晶的冒险、反抗帝国的义军故事，两部作品风格截然不同。\n\n俯视角像素画面焕然一新，城镇、城堡、洞窟都色彩缤纷；音乐由植松伸夫重新编曲。一代讲究职业搭配，二代则采用\"使用即成长\"的独特熟练度系统，至今仍颇有话题性。新增的简易模式与随时存档功能，大大降低了上手门槛。\n\n还附带天野喜孝的画廊与怪物图鉴。想了解FF的根源，这是最好的入口。",
+    "highlights": [
+      "FF I、II两部作品合集",
+      "16位风格的全新像素画面",
+      "植松伸夫重新编曲的音乐",
+      "简易模式与便捷存档"
+    ],
+    "reviews": [
+      {
+        "source": "IGN",
+        "score": "9/10",
+        "quote": "经典作品的出色重制合集"
+      },
+      {
+        "source": "GameSpot",
+        "score": "7/10",
+        "quote": "画面音乐全面提升，但玩法较为古老"
+      },
+      {
+        "source": "Metacritic",
+        "score": "79/100",
+        "quote": "综合评价良好"
+      }
+    ],
+    "editorScore": 8.6,
+    "is2D": true,
+    "styleMatch": 3,
+    "styleNote": "俯视角像素城镇与原野，经典FF风格",
+    "screenshots": [
+      "images/ps/ps-final-fantasy-origins-s1.png",
+      "images/ps/ps-final-fantasy-origins-s2.png",
+      "images/ps/ps-final-fantasy-origins-s3.png",
+      "images/ps/ps-final-fantasy-origins-title.png"
+    ],
+    "cover": "images/ps/ps-final-fantasy-origins-box.jpg"
+  },
+  {
+    "id": "ps-popolocrois-ii",
+    "title": "PoPoLoCrois Monogatari II",
+    "titleZh": "波波罗克罗伊斯物语II",
+    "titleJa": "ポポロクロイス物語II",
+    "year": 2000,
+    "developer": "G-Artists",
+    "publisher": "Sony Computer Entertainment",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "童话",
+      "日版独占"
+    ],
+    "players": "1",
+    "tagline": "小王子长大了，童话王国的第二段旅程",
+    "description": "《波波罗克罗伊斯物语》的正统续作！数年后，长大的皮耶特罗王子接受王位继承的试炼，与森林魔女娜鲁西亚、白骑士等伙伴再度踏上旅途，却发现王国背后潜藏着更大的阴谋。\n\n本作延续前作的全2D像素斜俯视角画面，并在细节上大幅进化：城镇更加热闹，NPC的生活感十足；三张光盘的大容量，塞满了丰富的支线事件与动画过场。战斗依旧简单易上手，适合全年龄层。\n\n温暖的画风、天真又感人的故事，是PS末期最值得珍藏的日式童话RPG之一。",
+    "highlights": [
+      "全2D像素斜俯视角画面全面进化",
+      "三张光盘的大容量冒险",
+      "大量动画过场与支线事件",
+      "温暖感人的童话故事"
+    ],
+    "reviews": [],
+    "editorScore": 8.6,
+    "is2D": true,
+    "styleMatch": 3,
+    "styleNote": "斜俯视角像素城镇，与参考图非常接近",
+    "screenshots": [
+      "images/ps/ps-popolocrois-ii-s1.png",
+      "images/ps/ps-popolocrois-ii-x1.png",
+      "images/ps/ps-popolocrois-ii-x2.png",
+      "images/ps/ps-popolocrois-ii-title.png"
+    ],
+    "cover": "images/ps/ps-popolocrois-ii-box.jpg"
   },
   {
     "id": "ps-tales-of-destiny",
@@ -1416,7 +1840,9 @@
       "images/ps/ps-tales-of-destiny-x1.jpg",
       "images/ps/ps-tales-of-destiny-title.png"
     ],
-    "cover": "images/ps/ps-tales-of-destiny-box.jpg"
+    "cover": "images/ps/ps-tales-of-destiny-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素城镇，战斗为横版"
   },
   {
     "id": "ps-saga-frontier",
@@ -1465,7 +1891,9 @@
       "images/ps/ps-saga-frontier-s2.png",
       "images/ps/ps-saga-frontier-title.png"
     ],
-    "cover": "images/ps/ps-saga-frontier-box.jpg"
+    "cover": "images/ps/ps-saga-frontier-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "像素角色+预渲染城镇，自由行走"
   },
   {
     "id": "ps-vandal-hearts",
@@ -1509,7 +1937,9 @@
       "images/ps/ps-vandal-hearts-s2.png",
       "images/ps/ps-vandal-hearts-title.png"
     ],
-    "cover": "images/ps/ps-vandal-hearts-box.jpg"
+    "cover": "images/ps/ps-vandal-hearts-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "像素战棋，无自由探索城镇"
   },
   {
     "id": "ps-darkstalkers-3",
@@ -1553,7 +1983,60 @@
       "images/ps/ps-darkstalkers-3-s2.png",
       "images/ps/ps-darkstalkers-3-title.png"
     ],
-    "cover": "images/ps/ps-darkstalkers-3-box.jpg"
+    "cover": "images/ps/ps-darkstalkers-3-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "格斗游戏，类型不同"
+  },
+  {
+    "id": "ps-torneko-the-last-hope",
+    "title": "Torneko: The Last Hope",
+    "titleZh": "特鲁内克大冒险2 不可思议的迷宫",
+    "titleJa": "トルネコの大冒険2 不思議のダンジョン",
+    "year": 1999,
+    "developer": "Chunsoft / Matrix Software",
+    "publisher": "Enix",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "肉鸽",
+      "迷宫"
+    ],
+    "players": "1",
+    "tagline": "每次进洞都是新冒险，肉鸽RPG的启蒙名作",
+    "description": "《勇者斗恶龙IV》的胖商人特鲁内克又回来了！为了让自己的店铺生意兴隆，他一次又一次闯入每次进入都会随机变化的\"不可思议迷宫\"。\n\n俯视角像素画面可爱明快，村庄里有商店、仓库与银行，从这里出发探险。迷宫里每走一步敌人也走一步，饥饿值、道具鉴定、陷阱、怪物屋……每一个决定都可能决定生死。一旦倒下，所带道具全部丢失，紧张感拉满。本作新增战士、魔法师等职业，大幅提升了重玩价值。\n\n\"再来一次\"的魔力让人停不下来，是许多日本玩家心中的肉鸽启蒙之作。",
+    "highlights": [
+      "每次进入都会变化的随机迷宫",
+      "俯视角像素村庄与可爱画风",
+      "新增战士、魔法师等职业系统",
+      "\"再来一次\"的高重玩价值"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "37/40",
+        "quote": "中毒性极强的迷宫RPG，完成度很高"
+      },
+      {
+        "source": "GameSpot",
+        "score": "6.9/10",
+        "quote": "有深度的地牢探索，但新手门槛高"
+      },
+      {
+        "source": "IGN",
+        "score": "6/10",
+        "quote": "玩法有趣但画面较为朴素"
+      }
+    ],
+    "editorScore": 8.5,
+    "is2D": true,
+    "styleMatch": 3,
+    "styleNote": "俯视角像素村庄+随机迷宫",
+    "screenshots": [
+      "images/ps/ps-torneko-the-last-hope-s1.png",
+      "images/ps/ps-torneko-the-last-hope-s2.png",
+      "images/ps/ps-torneko-the-last-hope-title.png"
+    ],
+    "cover": "images/ps/ps-torneko-the-last-hope-box.jpg"
   },
   {
     "id": "ps-mega-man-x4",
@@ -1602,7 +2085,9 @@
       "images/ps/ps-mega-man-x4-x1.jpg",
       "images/ps/ps-mega-man-x4-title.png"
     ],
-    "cover": "images/ps/ps-mega-man-x4-box.jpg"
+    "cover": "images/ps/ps-mega-man-x4-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版像素动作，无城镇"
   },
   {
     "id": "ps-rayman",
@@ -1647,7 +2132,9 @@
       "images/ps/ps-rayman-x1.png",
       "images/ps/ps-rayman-title.png"
     ],
-    "cover": "images/ps/ps-rayman-box.jpg"
+    "cover": "images/ps/ps-rayman-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "手绘横版平台，无城镇"
   },
   {
     "id": "ps-mr-driller",
@@ -1691,7 +2178,9 @@
       "images/ps/ps-mr-driller-x1.png",
       "images/ps/ps-mr-driller-title.png"
     ],
-    "cover": "images/ps/ps-mr-driller-box.jpg"
+    "cover": "images/ps/ps-mr-driller-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "方块解谜，类型不同"
   },
   {
     "id": "ps-wild-arms-2",
@@ -1741,7 +2230,60 @@
       "images/ps/ps-wild-arms-2-s3.png",
       "images/ps/ps-wild-arms-2-title.png"
     ],
-    "cover": "images/ps/ps-wild-arms-2-box.jpg"
+    "cover": "images/ps/ps-wild-arms-2-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "像素角色俯视角探索，战斗为3D"
+  },
+  {
+    "id": "ps-azure-dreams",
+    "title": "Azure Dreams",
+    "titleZh": "青色梦想",
+    "titleJa": "アザーライフ アザードリームス",
+    "year": 1997,
+    "developer": "Konami Computer Entertainment Tokyo",
+    "publisher": "Konami",
+    "genre": "角色扮演",
+    "tags": [
+      "养成",
+      "迷宫",
+      "恋爱"
+    ],
+    "players": "1",
+    "tagline": "攀登怪物之塔，在小镇经营人生",
+    "description": "KONAMI一款独特的迷宫RPG！少年科赫在15岁生日那天，像父亲一样踏入沙漠小镇蒙斯拜亚旁的\"怪物之塔\"。塔内楼层每次进入都会变化，带回怪物蛋孵化成伙伴，与它们一起攀登更高的楼层。\n\n回到小镇后，可以用赚来的钱投资建设：医院、剧场、赌场、游泳池……小镇会因你而逐渐繁荣。镇上还有七位性格各异的女孩可以约会、交往，生活要素出乎意料地丰富。\n\n迷宫冒险+小镇经营+恋爱模拟的奇妙组合，在当年独树一帜。如今看来，依旧是一款让人沉迷的冷门佳作。",
+    "highlights": [
+      "随机生成的怪物之塔",
+      "孵化怪物蛋培养伙伴",
+      "投资建设小镇的经营要素",
+      "与镇上女孩的恋爱互动"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "29/40",
+        "quote": "迷宫与小镇生活结合得颇具新意"
+      },
+      {
+        "source": "GameSpot",
+        "score": "7.3/10",
+        "quote": "独特而耐玩的迷宫RPG"
+      },
+      {
+        "source": "IGN",
+        "score": "7/10",
+        "quote": "系统有趣，适合喜欢迷宫探索的玩家"
+      }
+    ],
+    "editorScore": 8.4,
+    "is2D": true,
+    "styleMatch": 3,
+    "styleNote": "俯视角小镇漫步+迷宫，像素角色",
+    "screenshots": [
+      "images/ps/ps-azure-dreams-s1.png",
+      "images/ps/ps-azure-dreams-s2.png",
+      "images/ps/ps-azure-dreams-title.png"
+    ],
+    "cover": "images/ps/ps-azure-dreams-box.jpg"
   },
   {
     "id": "ps-abes-oddysee",
@@ -1793,7 +2335,9 @@
       "images/ps/ps-abes-oddysee-x2.jpg",
       "images/ps/ps-abes-oddysee-title.png"
     ],
-    "cover": "images/ps/ps-abes-oddysee-box.jpg"
+    "cover": "images/ps/ps-abes-oddysee-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "预渲染横版解谜平台"
   },
   {
     "id": "ps-mega-man-x5",
@@ -1842,7 +2386,9 @@
       "images/ps/ps-mega-man-x5-s2.png",
       "images/ps/ps-mega-man-x5-title.png"
     ],
-    "cover": "images/ps/ps-mega-man-x5-box.jpg"
+    "cover": "images/ps/ps-mega-man-x5-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版像素动作，无城镇"
   },
   {
     "id": "ps-mega-man-8",
@@ -1891,6 +2437,199 @@
       "images/ps/ps-mega-man-8-s2.png",
       "images/ps/ps-mega-man-8-title.png"
     ],
-    "cover": "images/ps/ps-mega-man-8-box.jpg"
+    "cover": "images/ps/ps-mega-man-8-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版像素动作，无城镇"
+  },
+  {
+    "id": "ps-thousand-arms",
+    "title": "Thousand Arms",
+    "titleZh": "千臂勇者",
+    "titleJa": "サウザンドアームズ",
+    "year": 1998,
+    "developer": "Red Company / TOSE",
+    "publisher": "Atlus",
+    "genre": "角色扮演",
+    "tags": [
+      "恋爱",
+      "锻造",
+      "喜剧"
+    ],
+    "players": "1",
+    "tagline": "把恋爱变成武器！搞笑满分的约会RPG",
+    "description": "一款脑洞大开的RPG：主角梅斯是没落的铁匠之子，又是个风流的花花公子。在这个世界里，铁匠需要借助\"灵力\"来锻造武器，而灵力的来源，正是与女孩们约会提升的好感度！\n\n约会小游戏中要回答问题、送礼物、玩迷你游戏，好感度越高，锻造出的武器就越强。全程充满搞笑桥段，人设由动画师操刀，过场动画精美。2D像素角色在3D场景中行走，城镇探索与战斗则采用传统回合制。\n\n轻松诙谐、不落俗套，是PS上风格最独特的RPG之一。",
+    "highlights": [
+      "约会提升好感来锻造武器",
+      "大量搞笑桥段与轻松剧情",
+      "精美的动画过场",
+      "2D角色+3D场景"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "28/40",
+        "quote": "恋爱与RPG结合的创意作品"
+      },
+      {
+        "source": "IGN",
+        "score": "8.5/10",
+        "quote": "风趣幽默、充满个性的RPG"
+      },
+      {
+        "source": "GameSpot",
+        "score": "7.6/10",
+        "quote": "独特的约会系统令人印象深刻"
+      }
+    ],
+    "editorScore": 8.0,
+    "is2D": true,
+    "styleMatch": 2,
+    "styleNote": "像素角色但城镇为3D多边形",
+    "screenshots": [
+      "images/ps/ps-thousand-arms-s1.png",
+      "images/ps/ps-thousand-arms-s2.png",
+      "images/ps/ps-thousand-arms-s3.png",
+      "images/ps/ps-thousand-arms-title.png"
+    ],
+    "cover": "images/ps/ps-thousand-arms-box.jpg"
+  },
+  {
+    "id": "ps-rhapsody",
+    "title": "Rhapsody: A Musical Adventure",
+    "titleZh": "玛尔王国的人偶公主",
+    "titleJa": "マール王国の人形姫",
+    "year": 1998,
+    "developer": "Nippon Ichi Software",
+    "publisher": "Nippon Ichi Software / Atlus",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "音乐剧",
+      "人偶"
+    ],
+    "players": "1",
+    "tagline": "会唱歌的RPG，日本一的童话音乐剧",
+    "description": "《魔界战记》制作组日本一的早期作品，一部\"会唱歌的RPG\"！善良的少女柯尔奈特能与人偶交谈，当她暗恋的王子费迪南德被魔女变成石像后，她带着人偶伙伴们踏上了营救之旅。\n\n游戏中穿插多首原创歌曲，角色们会在剧情中放声歌唱，宛如一部迪士尼风格的音乐剧。斜俯视角的像素画面明亮可爱，战斗采用简单的战棋形式，难度很低，非常适合轻松游玩。\n\n这是一个纯真又甜蜜的恋爱童话，喜欢可爱画风的玩家会被它深深吸引。",
+    "highlights": [
+      "剧情中穿插原创歌曲的音乐剧演出",
+      "明亮可爱的斜俯视角像素画面",
+      "简单易上手的战棋战斗",
+      "纯真甜蜜的少女童话"
+    ],
+    "reviews": [
+      {
+        "source": "IGN",
+        "score": "7.3/10",
+        "quote": "可爱的音乐剧风RPG，难度偏低"
+      },
+      {
+        "source": "GameSpot",
+        "score": "5.9/10",
+        "quote": "风格独特，但战斗过于简单"
+      }
+    ],
+    "editorScore": 7.9,
+    "is2D": true,
+    "styleMatch": 2,
+    "styleNote": "像素城镇可漫步，战斗为战棋",
+    "screenshots": [
+      "images/ps/ps-rhapsody-s1.png",
+      "images/ps/ps-rhapsody-s2.png",
+      "images/ps/ps-rhapsody-title.png"
+    ],
+    "cover": "images/ps/ps-rhapsody-box.jpg"
+  },
+  {
+    "id": "ps-brave-prove",
+    "title": "Brave Prove",
+    "titleZh": "勇气证明",
+    "titleJa": "ブレイブプローヴ",
+    "year": 1998,
+    "developer": "Data West",
+    "publisher": "Data West",
+    "genre": "动作角色扮演",
+    "tags": [
+      "像素",
+      "俯视角",
+      "日版独占"
+    ],
+    "players": "1",
+    "tagline": "PS上少见的俯视角像素ARPG",
+    "description": "在3D大行其道的1998年，Data West推出了这款坚持传统的俯视角2D动作RPG。少年剑士踏上冒险，挥剑砍杀之间，充满了超任时代ARPG的熟悉味道。\n\n画面采用纯2D像素绘制，村庄、森林、地下城全部以俯视角呈现，即时战斗节奏明快，可以使用魔法与道具。整体风格神似《伊苏》《圣剑传说》一类作品，正是参考图那种\"在像素小镇里自由行走\"的感觉。\n\n虽然当年评价平平，系统也相当朴素，但作为PS上为数不多的俯视角像素ARPG，喜欢这种风格的玩家值得一探。",
+    "highlights": [
+      "纯2D俯视角像素画面",
+      "即时动作战斗",
+      "超任风格的传统ARPG",
+      "PS上稀有的同类作品"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "20/40",
+        "quote": "系统朴素，整体完成度一般"
+      }
+    ],
+    "editorScore": 7.8,
+    "is2D": true,
+    "styleMatch": 3,
+    "styleNote": "纯2D俯视角像素ARPG，城镇自由探索",
+    "screenshots": [
+      "images/ps/ps-brave-prove-s1.png",
+      "images/ps/ps-brave-prove-x1.jpg",
+      "images/ps/ps-brave-prove-x2.jpg",
+      "images/ps/ps-brave-prove-title.png"
+    ],
+    "cover": "images/ps/ps-brave-prove-box.jpg"
+  },
+  {
+    "id": "ps-beyond-the-beyond",
+    "title": "Beyond the Beyond",
+    "titleZh": "遥远的迦南",
+    "titleJa": "ビヨンド ザ ビヨンド 遥かなるカナーンへ",
+    "year": 1995,
+    "developer": "Camelot Software Planning",
+    "publisher": "Sony Computer Entertainment",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "传统",
+      "Camelot"
+    ],
+    "players": "1",
+    "tagline": "黄金太阳之前的Camelot，PS初期的正统RPG",
+    "description": "《黄金太阳》《马里奥高尔夫》开发商Camelot的PS处女作，也是PS初期少数的日式RPG之一！少年芬恩与伙伴们为了阻止邪恶帝国，寻找传说中的\"迦南\"之地。\n\n冒险部分采用俯视角2D像素画面，村庄、城堡与原野的风格十分传统，战斗则切换为3D多边形演出。\"主动战斗\"系统需要按键把握时机来强化攻击，桜庭统担纲的配乐也颇有气势。\n\n平心而论，本作节奏偏慢、遇敌频繁，当年评价两极。但若你想看看Camelot的RPG原点，以及《黄金太阳》的雏形，它很有收藏意义。",
+    "highlights": [
+      "Camelot的RPG处女作",
+      "俯视角像素城镇与原野",
+      "按键时机强化的战斗系统",
+      "桜庭统的配乐"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "28/40",
+        "quote": "传统风格的RPG，内容扎实"
+      },
+      {
+        "source": "GameSpot",
+        "score": "5.5/10",
+        "quote": "节奏缓慢、玩法老套"
+      },
+      {
+        "source": "IGN",
+        "score": "4/10",
+        "quote": "PS初期的平庸RPG"
+      }
+    ],
+    "editorScore": 7.6,
+    "is2D": true,
+    "styleMatch": 3,
+    "styleNote": "俯视角像素城镇原野，战斗为3D",
+    "screenshots": [
+      "images/ps/ps-beyond-the-beyond-s1.png",
+      "images/ps/ps-beyond-the-beyond-s2.png",
+      "images/ps/ps-beyond-the-beyond-title.png"
+    ],
+    "cover": "images/ps/ps-beyond-the-beyond-box.jpg"
   }
 ]

@@ -48,7 +48,9 @@
       "images/fc/fc-super-mario-bros-3-x2.png",
       "images/fc/fc-super-mario-bros-3-title.png"
     ],
-    "cover": "images/fc/fc-super-mario-bros-3-box.jpg"
+    "cover": "images/fc/fc-super-mario-bros-3-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版跳跃，像素风相近但无村庄"
   },
   {
     "id": "fc-dragon-quest-iii",
@@ -93,7 +95,9 @@
       "images/fc/fc-dragon-quest-iii-s2.png",
       "images/fc/fc-dragon-quest-iii-title.png"
     ],
-    "cover": "images/fc/fc-dragon-quest-iii-box.jpg"
+    "cover": "images/fc/fc-dragon-quest-iii-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG，自由逛城镇与商店"
   },
   {
     "id": "fc-legend-of-zelda",
@@ -138,7 +142,9 @@
       "images/fc/fc-legend-of-zelda-s3.png",
       "images/fc/fc-legend-of-zelda-title.png"
     ],
-    "cover": "images/fc/fc-legend-of-zelda-box.jpg"
+    "cover": "images/fc/fc-legend-of-zelda-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "俯视角动作冒险，但几乎没有村庄"
   },
   {
     "id": "fc-final-fantasy-iii",
@@ -184,7 +190,9 @@
       "images/fc/fc-final-fantasy-iii-s3.png",
       "images/fc/fc-final-fantasy-iii-title.png"
     ],
-    "cover": "images/fc/fc-final-fantasy-iii-box.jpg"
+    "cover": "images/fc/fc-final-fantasy-iii-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG，城镇村落可自由探索"
   },
   {
     "id": "fc-mother",
@@ -229,7 +237,9 @@
       "images/fc/fc-mother-s2.png",
       "images/fc/fc-mother-title.png"
     ],
-    "cover": "images/fc/fc-mother-box.jpg"
+    "cover": "images/fc/fc-mother-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG，小镇商店自由漫步"
   },
   {
     "id": "fc-mega-man-2",
@@ -279,7 +289,9 @@
       "images/fc/fc-mega-man-2-s2.png",
       "images/fc/fc-mega-man-2-title.png"
     ],
-    "cover": "images/fc/fc-mega-man-2-box.jpg"
+    "cover": "images/fc/fc-mega-man-2-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版动作，仅时代像素风相近"
   },
   {
     "id": "fc-castlevania-iii",
@@ -324,7 +336,9 @@
       "images/fc/fc-castlevania-iii-s2.png",
       "images/fc/fc-castlevania-iii-title.png"
     ],
-    "cover": "images/fc/fc-castlevania-iii-box.jpg"
+    "cover": "images/fc/fc-castlevania-iii-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版动作，无城镇探索"
   },
   {
     "id": "fc-contra",
@@ -370,7 +384,9 @@
       "images/fc/fc-contra-s3.png",
       "images/fc/fc-contra-title.png"
     ],
-    "cover": "images/fc/fc-contra-box.jpg"
+    "cover": "images/fc/fc-contra-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "横版射击游戏"
   },
   {
     "id": "fc-super-mario-bros",
@@ -416,7 +432,9 @@
       "images/fc/fc-super-mario-bros-s3.png",
       "images/fc/fc-super-mario-bros-title.png"
     ],
-    "cover": "images/fc/fc-super-mario-bros-box.jpg"
+    "cover": "images/fc/fc-super-mario-bros-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版跳跃，仅像素风相近"
   },
   {
     "id": "fc-dragon-quest-iv",
@@ -456,7 +474,9 @@
       "images/fc/fc-dragon-quest-iv-s2.png",
       "images/fc/fc-dragon-quest-iv-title.png"
     ],
-    "cover": "images/fc/fc-dragon-quest-iv-box.jpg"
+    "cover": "images/fc/fc-dragon-quest-iv-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG，城镇村庄自由探索"
   },
   {
     "id": "fc-metal-max",
@@ -498,9 +518,13 @@
     "is2D": true,
     "screenshots": [
       "images/fc/fc-metal-max-s1.png",
+      "images/fc/fc-metal-max-x1.png",
+      "images/fc/fc-metal-max-x2.png",
       "images/fc/fc-metal-max-title.png"
     ],
-    "cover": "images/fc/fc-metal-max-box.jpg"
+    "cover": "images/fc/fc-metal-max-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG，可逛城镇与商店"
   },
   {
     "id": "fc-kirbys-adventure",
@@ -550,7 +574,9 @@
       "images/fc/fc-kirbys-adventure-s2.png",
       "images/fc/fc-kirbys-adventure-title.png"
     ],
-    "cover": "images/fc/fc-kirbys-adventure-box.jpg"
+    "cover": "images/fc/fc-kirbys-adventure-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版跳跃，色彩明快但无村庄"
   },
   {
     "id": "fc-ninja-gaiden",
@@ -595,7 +621,9 @@
       "images/fc/fc-ninja-gaiden-x1.png",
       "images/fc/fc-ninja-gaiden-title.png"
     ],
-    "cover": "images/fc/fc-ninja-gaiden-box.jpg"
+    "cover": "images/fc/fc-ninja-gaiden-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版动作，无城镇探索"
   },
   {
     "id": "fc-fire-emblem",
@@ -640,7 +668,9 @@
       "images/fc/fc-fire-emblem-x1.png",
       "images/fc/fc-fire-emblem-title.png"
     ],
-    "cover": "images/fc/fc-fire-emblem-box.jpg"
+    "cover": "images/fc/fc-fire-emblem-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "战棋RPG，地图俯视但无法逛村"
   },
   {
     "id": "fc-gimmick",
@@ -685,7 +715,9 @@
       "images/fc/fc-gimmick-s2.png",
       "images/fc/fc-gimmick-title.png"
     ],
-    "cover": "images/fc/fc-gimmick-box.jpg"
+    "cover": "images/fc/fc-gimmick-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版跳跃，仅像素风相近"
   },
   {
     "id": "fc-river-city-ransom",
@@ -731,7 +763,9 @@
       "images/fc/fc-river-city-ransom-s3.png",
       "images/fc/fc-river-city-ransom-title.png"
     ],
-    "cover": "images/fc/fc-river-city-ransom-box.jpg"
+    "cover": "images/fc/fc-river-city-ransom-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版清版，虽有商店但非俯视"
   },
   {
     "id": "fc-metroid",
@@ -777,7 +811,9 @@
       "images/fc/fc-metroid-s3.png",
       "images/fc/fc-metroid-title.png"
     ],
-    "cover": "images/fc/fc-metroid-box.jpg"
+    "cover": "images/fc/fc-metroid-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版探索，无城镇"
   },
   {
     "id": "fc-super-contra",
@@ -827,7 +863,9 @@
       "images/fc/fc-super-contra-s2.png",
       "images/fc/fc-super-contra-title.png"
     ],
-    "cover": "images/fc/fc-super-contra-box.jpg"
+    "cover": "images/fc/fc-super-contra-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "射击游戏"
   },
   {
     "id": "fc-dragon-quest-ii",
@@ -872,7 +910,9 @@
       "images/fc/fc-dragon-quest-ii-x1.png",
       "images/fc/fc-dragon-quest-ii-title.png"
     ],
-    "cover": "images/fc/fc-dragon-quest-ii-box.jpg"
+    "cover": "images/fc/fc-dragon-quest-ii-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG，城镇商店齐全"
   },
   {
     "id": "fc-mega-man-3",
@@ -922,7 +962,9 @@
       "images/fc/fc-mega-man-3-x1.png",
       "images/fc/fc-mega-man-3-title.png"
     ],
-    "cover": "images/fc/fc-mega-man-3-box.jpg"
+    "cover": "images/fc/fc-mega-man-3-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版动作，仅像素风相近"
   },
   {
     "id": "fc-castlevania",
@@ -968,7 +1010,9 @@
       "images/fc/fc-castlevania-s3.png",
       "images/fc/fc-castlevania-title.png"
     ],
-    "cover": "images/fc/fc-castlevania-box.jpg"
+    "cover": "images/fc/fc-castlevania-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版动作，无城镇"
   },
   {
     "id": "fc-megami-tensei-ii",
@@ -1008,7 +1052,9 @@
       "images/fc/fc-megami-tensei-ii-s2.png",
       "images/fc/fc-megami-tensei-ii-title.png"
     ],
-    "cover": "images/fc/fc-megami-tensei-ii-box.jpg"
+    "cover": "images/fc/fc-megami-tensei-ii-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "俯视大地图加第一人称迷宫"
   },
   {
     "id": "fc-tenchi-wo-kurau-ii",
@@ -1053,7 +1099,9 @@
       "images/fc/fc-tenchi-wo-kurau-ii-s2.png",
       "images/fc/fc-tenchi-wo-kurau-ii-title.png"
     ],
-    "cover": "images/fc/fc-tenchi-wo-kurau-ii-box.jpg"
+    "cover": "images/fc/fc-tenchi-wo-kurau-ii-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG，城镇自由探索"
   },
   {
     "id": "fc-blaster-master",
@@ -1103,7 +1151,9 @@
       "images/fc/fc-blaster-master-s2.png",
       "images/fc/fc-blaster-master-title.png"
     ],
-    "cover": "images/fc/fc-blaster-master-box.jpg"
+    "cover": "images/fc/fc-blaster-master-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版为主的战车动作冒险"
   },
   {
     "id": "fc-chip-n-dale",
@@ -1153,7 +1203,9 @@
       "images/fc/fc-chip-n-dale-s2.png",
       "images/fc/fc-chip-n-dale-title.png"
     ],
-    "cover": "images/fc/fc-chip-n-dale-box.jpg"
+    "cover": "images/fc/fc-chip-n-dale-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版跳跃，仅像素风相近"
   },
   {
     "id": "fc-ducktales",
@@ -1204,7 +1256,9 @@
       "images/fc/fc-ducktales-s3.png",
       "images/fc/fc-ducktales-title.png"
     ],
-    "cover": "images/fc/fc-ducktales-box.jpg"
+    "cover": "images/fc/fc-ducktales-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版跳跃，仅像素风相近"
   },
   {
     "id": "fc-zelda-ii",
@@ -1250,7 +1304,9 @@
       "images/fc/fc-zelda-ii-s3.png",
       "images/fc/fc-zelda-ii-title.png"
     ],
-    "cover": "images/fc/fc-zelda-ii-box.jpg"
+    "cover": "images/fc/fc-zelda-ii-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "俯视地图有村庄，但战斗为横版"
   },
   {
     "id": "fc-crystalis",
@@ -1295,7 +1351,110 @@
       "images/fc/fc-crystalis-s2.png",
       "images/fc/fc-crystalis-title.png"
     ],
-    "cover": "images/fc/fc-crystalis-box.jpg"
+    "cover": "images/fc/fc-crystalis-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角ARPG，村庄与商店齐全"
+  },
+  {
+    "id": "fc-dragon-quest",
+    "title": "Dragon Quest",
+    "titleZh": "勇者斗恶龙",
+    "titleJa": "ドラゴンクエスト",
+    "year": 1986,
+    "developer": "Chunsoft",
+    "publisher": "Enix",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "日式RPG",
+      "开山之作",
+      "单人冒险"
+    ],
+    "players": "1",
+    "tagline": "日式RPG的原点，一人一剑救公主",
+    "description": "“勇者啊，去打倒龙王吧！”——1986年，堀井雄二、鸟山明与杉山晃一联手，把电脑上的欧美RPG翻译成了每个孩子都能读懂的语言。《勇者斗恶龙》就此诞生，也开启了日式RPG的整个时代。\n\n勇者洛特的后裔独自从拉达特姆城出发，在俯视角的阿雷夫加尔德大陆上行走，进入城镇购买铜剑、皮甲，向村民打听情报，在洞窟里用火把照亮前路。战斗是一对一的回合制，史莱姆的笑脸从此成为游戏界最著名的怪物。\n\n今天看来系统简单，但城堡、城镇、洞窟、龙王城构成的这片小小世界，依旧充满纯粹的冒险气息。",
+    "highlights": [
+      "日式RPG类型的奠基之作",
+      "鸟山明设计的可爱怪物",
+      "俯视角城镇与大陆自由探索",
+      "“要不要与我分享世界”的经典抉择"
+    ],
+    "reviews": [
+      {
+        "source": "Famicom必胜本",
+        "score": "4/5",
+        "quote": "简单易懂又令人沉迷的全新RPG体验"
+      },
+      {
+        "source": "Nintendo Power",
+        "score": "3/5",
+        "quote": "美版评价：入门级RPG的出色范例"
+      }
+    ],
+    "editorScore": 8.6,
+    "is2D": true,
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG，城镇与大地图自由探索",
+    "screenshots": [
+      "images/fc/fc-dragon-quest-s1.png",
+      "images/fc/fc-dragon-quest-s2.png",
+      "images/fc/fc-dragon-quest-x1.png",
+      "images/fc/fc-dragon-quest-x2.png",
+      "images/fc/fc-dragon-quest-title.png"
+    ],
+    "cover": "images/fc/fc-dragon-quest-box.jpg"
+  },
+  {
+    "id": "fc-final-fantasy-ii",
+    "title": "Final Fantasy II",
+    "titleZh": "最终幻想II",
+    "titleJa": "ファイナルファンタジーII",
+    "year": 1988,
+    "developer": "Square",
+    "publisher": "Square",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "熟练度成长",
+      "日式RPG",
+      "反抗军"
+    ],
+    "players": "1",
+    "tagline": "反抗帝国的悲壮史诗，熟练度成长系统",
+    "description": "帕拉美基亚帝国召唤魔物侵略世界，弗利欧尼尔等四名年轻人在逃亡中加入反抗军——《最终幻想II》比前作更注重剧情，同伴的牺牲、背叛与重逢，让FC玩家第一次在RPG里感受到沉重的悲剧氛围。\n\n本作取消了等级制度，改为“用什么练什么”的熟练度系统：常挥剑剑技提升，挨打多了HP上涨，常用魔法魔法升级。还有“关键词”对话系统，记住重要词汇后向NPC询问可以推进剧情。陆行鸟首次登场，也是系列的重要里程碑。\n\n系统颇具实验性，但城镇、飞空艇、反抗军基地组成的冒险依旧魅力十足。",
+    "highlights": [
+      "无等级的熟练度成长系统",
+      "关键词记忆对话系统",
+      "陆行鸟与希德首次登场",
+      "反抗帝国的悲壮剧情"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "35/40",
+        "quote": "剧情深刻，成长系统新颖但需要花时间"
+      },
+      {
+        "source": "Famicom Magazine",
+        "score": "26.49/30",
+        "quote": "读者高度评价其剧情与音乐"
+      },
+      {
+        "source": "AllGame",
+        "score": "4.5/5",
+        "quote": "FC上大胆实验的经典RPG"
+      }
+    ],
+    "editorScore": 8.6,
+    "is2D": true,
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG，城镇村落自由探索",
+    "screenshots": [
+      "images/fc/fc-final-fantasy-ii-s1.png",
+      "images/fc/fc-final-fantasy-ii-s2.png",
+      "images/fc/fc-final-fantasy-ii-title.png"
+    ],
+    "cover": "images/fc/fc-final-fantasy-ii-box.jpg"
   },
   {
     "id": "fc-final-fantasy",
@@ -1335,7 +1494,9 @@
       "images/fc/fc-final-fantasy-s2.png",
       "images/fc/fc-final-fantasy-title.png"
     ],
-    "cover": "images/fc/fc-final-fantasy-box.jpg"
+    "cover": "images/fc/fc-final-fantasy-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG，城镇自由探索"
   },
   {
     "id": "fc-double-dragon-ii",
@@ -1375,7 +1536,9 @@
       "images/fc/fc-double-dragon-ii-s2.png",
       "images/fc/fc-double-dragon-ii-title.png"
     ],
-    "cover": "images/fc/fc-double-dragon-ii-box.jpg"
+    "cover": "images/fc/fc-double-dragon-ii-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版清版动作"
   },
   {
     "id": "fc-salamander",
@@ -1420,7 +1583,108 @@
       "images/fc/fc-salamander-s2.png",
       "images/fc/fc-salamander-title.png"
     ],
-    "cover": "images/fc/fc-salamander-box.jpg"
+    "cover": "images/fc/fc-salamander-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "射击游戏"
+  },
+  {
+    "id": "fc-ys",
+    "title": "Ys: Ancient Ys Vanished",
+    "titleZh": "伊苏",
+    "titleJa": "イース",
+    "year": 1988,
+    "developer": "Advance Communication",
+    "publisher": "Victor Musical Industries",
+    "genre": "动作角色扮演",
+    "tags": [
+      "像素",
+      "俯视角",
+      "撞击战斗",
+      "红发冒险家"
+    ],
+    "players": "1",
+    "tagline": "红发亚特鲁的冒险，从这里起航",
+    "description": "红发冒险家亚特鲁漂流到艾斯特利亚岛，被卷入寻找六本“伊苏之书”的旅程——Falcom的招牌ARPG《伊苏》在FC上也有自己的移植版本。\n\n本作的“撞击式”战斗独具一格：不用按攻击键，只要从敌人的侧面斜着撞过去就能造成伤害，正面硬冲则会吃亏。俯视角的城镇里可以与村民交谈、购买装备，在草原、矿山与达姆之塔之间来回探索，节奏轻快。FC版对地图与剧情做了不少改编，并重新编曲了古代祐三、石川三惠子的名曲。\n\n虽然不及PC与PCE版本华丽，但对于想体验早期伊苏的玩家来说，FC版是一份别有风味的选择。",
+    "highlights": [
+      "独特的撞击式战斗系统",
+      "俯视角城镇与原野探索",
+      "Falcom名曲的FC改编版",
+      "达姆之塔等经典迷宫"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "30/40",
+        "quote": "移植表现中规中矩，撞击战斗依然爽快"
+      },
+      {
+        "source": "Famicom必胜本",
+        "score": "3.5/5",
+        "quote": "节奏轻快的动作RPG"
+      }
+    ],
+    "editorScore": 8.4,
+    "is2D": true,
+    "styleMatch": 3,
+    "styleNote": "俯视角ARPG，城镇村民与商店齐全",
+    "screenshots": [
+      "images/fc/fc-ys-s1.png",
+      "images/fc/fc-ys-s2.png",
+      "images/fc/fc-ys-title.png"
+    ],
+    "cover": "images/fc/fc-ys-box.jpg"
+  },
+  {
+    "id": "fc-startropics",
+    "title": "StarTropics",
+    "titleZh": "南海岛大冒险",
+    "titleJa": "",
+    "year": 1990,
+    "developer": "Nintendo R&D3 / Locomotive",
+    "publisher": "Nintendo",
+    "genre": "动作冒险",
+    "tags": [
+      "像素",
+      "俯视角",
+      "南洋群岛",
+      "溜溜球"
+    ],
+    "players": "1",
+    "tagline": "任天堂美国专供的南洋热带冒险",
+    "description": "棒球少年麦克前往南太平洋的C岛探望考古学家叔叔，却发现叔叔被外星人绑架了！《StarTropics》是任天堂专为欧美市场打造的俯视角动作冒险，从未在日本发售。\n\n在大地图上，麦克可以驾驶潜水艇穿梭于热带岛屿之间，进入村庄与岛民、酋长交谈，打听线索；进入洞窟则切换为网格式的动作迷宫，用“星星溜溜球”战斗，踩机关、跳石块、解开谜题。南国风情的明亮色彩、幽默的对话与外星人的离奇剧情相得益彰。\n\n游戏中还有一道必须用实体包装中的信纸才能解开的谜题，成为当年的经典话题。",
+    "highlights": [
+      "俯视角南洋群岛冒险",
+      "村庄交谈与迷宫解谜结合",
+      "溜溜球等独特武器",
+      "需要实体信纸的著名谜题"
+    ],
+    "reviews": [
+      {
+        "source": "Nintendo Power",
+        "score": "15.7/20",
+        "quote": "节奏明快、谜题巧妙的冒险游戏"
+      },
+      {
+        "source": "AllGame",
+        "score": "4.5/5",
+        "quote": "NES上最被低估的冒险游戏之一"
+      },
+      {
+        "source": "IGN",
+        "score": "8.5/10",
+        "quote": "Wii VC版评测：依旧充满魅力"
+      }
+    ],
+    "editorScore": 8.4,
+    "is2D": true,
+    "styleMatch": 3,
+    "styleNote": "俯视角冒险，热带村庄可自由交谈",
+    "screenshots": [
+      "images/fc/fc-startropics-s1.png",
+      "images/fc/fc-startropics-x1.png",
+      "images/fc/fc-startropics-title.png"
+    ],
+    "cover": "images/fc/fc-startropics-box.jpg"
   },
   {
     "id": "fc-jackal",
@@ -1460,7 +1724,105 @@
       "images/fc/fc-jackal-s2.png",
       "images/fc/fc-jackal-title.png"
     ],
-    "cover": "images/fc/fc-jackal-box.jpg"
+    "cover": "images/fc/fc-jackal-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "俯视角射击游戏"
+  },
+  {
+    "id": "fc-tenchi-wo-kurau",
+    "title": "Destiny of an Emperor",
+    "titleZh": "吞食天地",
+    "titleJa": "天地を喰らう",
+    "year": 1989,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "三国",
+      "武将收集",
+      "兵力战斗"
+    ],
+    "players": "1",
+    "tagline": "刘关张桃园起兵，小霸王的三国初体验",
+    "description": "黄巾之乱爆发，刘备、关羽、张飞在桃园结义，率军讨伐乱党——《吞食天地》是卡普空根据本宫宏志漫画改编的三国题材RPG，也是续作《诸葛孔明传》的前身。\n\n俯视角的大地图上，刘备军一路行军，走进城池可以招募兵马、购买粮草、与百姓交谈，打听下一座城的情报。战斗中武将的兵力就是生命，五名武将上阵、军师施展策略，越到后期麾下名将越多。游戏剧情从黄巾之乱讲起，一直打到统一天下，与史实相比别有一番“刘备圆梦”的趣味。\n\n对许多中国玩家来说，这是最早认识三国英雄的启蒙游戏之一。",
+    "highlights": [
+      "三国题材的回合制RPG",
+      "城池招募武将与兵马",
+      "以兵力为生命的战斗",
+      "刘备一统天下的爽快剧情"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "28/40",
+        "quote": "三国题材结合RPG，招募武将的乐趣十足"
+      },
+      {
+        "source": "Famicom Magazine",
+        "score": "24.47/30",
+        "quote": "读者高度评价其题材与易上手程度"
+      }
+    ],
+    "editorScore": 8.3,
+    "is2D": true,
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG，可逛城池与商店",
+    "screenshots": [
+      "images/fc/fc-tenchi-wo-kurau-s1.png",
+      "images/fc/fc-tenchi-wo-kurau-s2.png",
+      "images/fc/fc-tenchi-wo-kurau-x1.png",
+      "images/fc/fc-tenchi-wo-kurau-x2.png",
+      "images/fc/fc-tenchi-wo-kurau-title.png"
+    ],
+    "cover": "images/fc/fc-tenchi-wo-kurau-box.jpg"
+  },
+  {
+    "id": "fc-lagrange-point",
+    "title": "Lagrange Point",
+    "titleZh": "拉格朗日点",
+    "titleJa": "ラグランジュポイント",
+    "year": 1991,
+    "developer": "Konami",
+    "publisher": "Konami",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "科幻",
+      "VRC7音源",
+      "日式RPG"
+    ],
+    "players": "1",
+    "tagline": "科乐美唯一的FC原创RPG，音乐神作",
+    "description": "在遥远的未来，人类在拉格朗日点建造了太空殖民地，却因生物灾害陷入混乱——《拉格朗日点》是科乐美在FC上唯一的原创RPG，以科幻题材和惊人的音乐闻名。\n\n卡带中内置了VRC7扩展音源芯片，可以发出类似FM合成器的音色，配乐的表现力远超普通FC游戏，被许多玩家誉为“FC最强音乐”。游戏以俯视角在殖民地的城市、基地与荒野间探索，与居民交谈、购买装备，战斗采用回合制，同伴中还有可升级改造的机器人。\n\n仅在日本发售，近年英文补丁推出后才被海外玩家重新发现，是一颗值得挖掘的科幻遗珠。",
+    "highlights": [
+      "VRC7芯片带来FM音源级配乐",
+      "太空殖民地科幻世界观",
+      "可改造升级的机器人同伴",
+      "科乐美唯一的FC原创RPG"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "27/40",
+        "quote": "故事扎实，音乐出色到不像FC"
+      },
+      {
+        "source": "Famicom Magazine",
+        "score": "24.1/30",
+        "quote": "获1991年度读者评选FC部门第一名"
+      }
+    ],
+    "editorScore": 8.3,
+    "is2D": true,
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG，殖民地城镇自由探索",
+    "screenshots": [
+      "images/fc/fc-lagrange-point-s1.png",
+      "images/fc/fc-lagrange-point-x1.jpg",
+      "images/fc/fc-lagrange-point-title.png"
+    ],
+    "cover": "images/fc/fc-lagrange-point-box.jpg"
   },
   {
     "id": "fc-adventure-island",
@@ -1505,7 +1867,9 @@
       "images/fc/fc-adventure-island-s2.png",
       "images/fc/fc-adventure-island-title.png"
     ],
-    "cover": "images/fc/fc-adventure-island-box.jpg"
+    "cover": "images/fc/fc-adventure-island-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版跳跃，仅像素风相近"
   },
   {
     "id": "fc-battle-city",
@@ -1539,7 +1903,99 @@
       "images/fc/fc-battle-city-s2.png",
       "images/fc/fc-battle-city-title.png"
     ],
-    "cover": "images/fc/fc-battle-city-box.jpg"
+    "cover": "images/fc/fc-battle-city-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "坦克射击游戏"
+  },
+  {
+    "id": "fc-ys-ii",
+    "title": "Ys II: Ancient Ys Vanished – The Final Chapter",
+    "titleZh": "伊苏II",
+    "titleJa": "イースII",
+    "year": 1990,
+    "developer": "Victor Musical Industries",
+    "publisher": "Victor Musical Industries",
+    "genre": "动作角色扮演",
+    "tags": [
+      "像素",
+      "俯视角",
+      "变身魔法",
+      "天空之城"
+    ],
+    "players": "1",
+    "tagline": "飞向天空的伊苏大地，完结篇的感动",
+    "description": "上一作结尾，亚特鲁被一道光柱带往天空，降落在漂浮于云上的古代国度“伊苏”。《伊苏II》讲述了这片大地被魔物侵袭的真相，与菲娜、蕾雅两位女神的命运紧密相连。\n\n本作新增魔法系统：火焰魔法可以远程攻击，而最有趣的“变身魔法”能让亚特鲁化作魔物模样，与怪物对话获取秘密情报。撞击式战斗依旧爽快，城镇、神殿、矿坑、熔岩地带的俯视角场景更加丰富，故事收尾也相当动人。\n\nFC版虽然画面受限，但完整讲述了伊苏前两作的故事，是FC上少见的正统日式ARPG。",
+    "highlights": [
+      "新增火焰与变身魔法",
+      "变身魔物与怪物对话",
+      "飘浮天空的伊苏大地",
+      "伊苏I/II故事的完结"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "27/40",
+        "quote": "两部曲的完结篇，魔法系统增添变化"
+      }
+    ],
+    "editorScore": 8.2,
+    "is2D": true,
+    "styleMatch": 3,
+    "styleNote": "俯视角ARPG，可逛村庄与商店",
+    "screenshots": [
+      "images/fc/fc-ys-ii-s1.png",
+      "images/fc/fc-ys-ii-s2.png",
+      "images/fc/fc-ys-ii-title.png"
+    ],
+    "cover": "images/fc/fc-ys-ii-box.jpg"
+  },
+  {
+    "id": "fc-willow",
+    "title": "Willow",
+    "titleZh": "魔法师威洛",
+    "titleJa": "ウィロー",
+    "year": 1989,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genre": "动作角色扮演",
+    "tags": [
+      "像素",
+      "俯视角",
+      "电影改编",
+      "剑与魔法"
+    ],
+    "players": "1",
+    "tagline": "卡普空的塞尔达式电影改编ARPG",
+    "description": "改编自卢卡斯影业的奇幻电影《风云际会》（Willow），卡普空却没有偷懒，而是打造了一部扎实的俯视角动作RPG。矮人族的威洛为了守护被预言的婴儿艾洛拉，踏上对抗邪恶女王的旅程。\n\n游戏的结构与《塞尔达传说》相似：在开阔的地上世界与森林、洞窟之间探索，进入村庄与居民对话、购买道具，再用剑与魔法击败敌人。不同之处在于本作有经验值与等级成长，学到的魔法也可以用来解开谜题，例如让石化的人恢复原状。\n\n画面清爽、音乐优美，是FC上被低估的俯视角ARPG佳作。",
+    "highlights": [
+      "俯视角大地图与村庄探索",
+      "经验值等级与多种魔法",
+      "改编自卢卡斯奇幻电影",
+      "卡普空出品的扎实手感"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "26/40",
+        "quote": "电影改编作品中的佳作，动作与成长兼备"
+      },
+      {
+        "source": "Famicom Magazine",
+        "score": "21.05/30",
+        "quote": "读者对画面与操作评价良好"
+      }
+    ],
+    "editorScore": 8.2,
+    "is2D": true,
+    "styleMatch": 3,
+    "styleNote": "俯视角ARPG，村庄商店自由探索",
+    "screenshots": [
+      "images/fc/fc-willow-s1.png",
+      "images/fc/fc-willow-s2.png",
+      "images/fc/fc-willow-s3.png",
+      "images/fc/fc-willow-title.png"
+    ],
+    "cover": "images/fc/fc-willow-box.jpg"
   },
   {
     "id": "fc-bomberman",
@@ -1573,6 +2029,245 @@
       "images/fc/fc-bomberman-s3.png",
       "images/fc/fc-bomberman-title.png"
     ],
-    "cover": "images/fc/fc-bomberman-box.jpg"
+    "cover": "images/fc/fc-bomberman-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "俯视迷宫动作，无村庄"
+  },
+  {
+    "id": "fc-ultima-exodus",
+    "title": "Ultima: Exodus",
+    "titleZh": "创世纪 恐怖的艾克索德斯",
+    "titleJa": "ウルティマ 恐怖のエクソダス",
+    "year": 1987,
+    "developer": "Pony Canyon",
+    "publisher": "Pony Canyon",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "俯视角",
+      "欧美RPG",
+      "四人队伍"
+    ],
+    "players": "1",
+    "tagline": "欧美RPG鼻祖的FC和风改编",
+    "description": "《创世纪》（Ultima）是与《巫术》齐名的欧美RPG始祖，第三作《Exodus》在FC上经过日方重新改编，人物改由日式卡通风格绘制，音乐也全面重写。\n\n玩家从多个种族与职业中组建四人小队，在俯视角的索沙利亚大陆上自由旅行：进入城镇向居民打听秘密、购买装备，搭船出海，寻找神秘的“月之门”。战斗在俯视角的战场画面中进行，每名角色可以独立移动、攻击与施法，颇有战术味道。高自由度的世界、需要玩家自己做笔记的谜题，都充满古典RPG的韵味。\n\n它让日本玩家见识了欧美RPG的深度，也是一部值得考古的重要作品。",
+    "highlights": [
+      "自由组建种族与职业的四人队",
+      "俯视角城镇与大陆探索",
+      "战术感的俯视角战斗",
+      "神秘的月之门与高自由度"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "32/40",
+        "quote": "欧美名作的出色改编，自由度极高"
+      },
+      {
+        "source": "AllGame",
+        "score": "4/5",
+        "quote": "深度十足的经典RPG"
+      }
+    ],
+    "editorScore": 8.0,
+    "is2D": true,
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG，城镇与大陆自由探索",
+    "screenshots": [
+      "images/fc/fc-ultima-exodus-s1.png",
+      "images/fc/fc-ultima-exodus-x1.png",
+      "images/fc/fc-ultima-exodus-x2.png",
+      "images/fc/fc-ultima-exodus-title.png"
+    ],
+    "cover": "images/fc/fc-ultima-exodus-box.jpg"
+  },
+  {
+    "id": "fc-faxanadu",
+    "title": "Faxanadu",
+    "titleZh": "法萨纳度",
+    "titleJa": "ファザナドゥ",
+    "year": 1987,
+    "developer": "Hudson Soft",
+    "publisher": "Hudson Soft",
+    "genre": "动作角色扮演",
+    "tags": [
+      "像素",
+      "横版",
+      "世界树",
+      "暗黑奇幻"
+    ],
+    "players": "1",
+    "tagline": "攀登世界树的暗黑风横版ARPG",
+    "description": "精灵之城的世界树枯萎，泉水干涸，一名流浪的战士回到故乡，决心找出原因——《法萨纳度》是Falcom《屠龙剑》系列的外传，由哈德森在FC上独立制作。\n\n本作采用横版视角，主角在巨大的世界树上攀爬探索：树根、树干、树枝、高塔，每个区域都有可进入的城镇，可以买装备、学魔法，找“导师”存档。随着获得新钥匙与道具，更多区域逐渐开启，颇具“银河恶魔城”的探索感。灰暗沉郁的配色与神秘的音乐营造出独特的暗黑童话氛围。\n\n虽然不是俯视角，但城镇与成长要素齐全，喜欢ARPG的玩家值得一试。",
+    "highlights": [
+      "横版的世界树探索结构",
+      "城镇购物与魔法系统",
+      "钥匙解锁的渐进式地图",
+      "阴郁神秘的暗黑童话风格"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "29/40",
+        "quote": "动作与RPG融合得不错，世界观独特"
+      },
+      {
+        "source": "IGN",
+        "score": "8.5/10",
+        "quote": "Wii VC版评测：被低估的经典"
+      }
+    ],
+    "editorScore": 8.0,
+    "is2D": true,
+    "styleMatch": 2,
+    "styleNote": "有城镇的横版ARPG，非俯视角",
+    "screenshots": [
+      "images/fc/fc-faxanadu-s1.png",
+      "images/fc/fc-faxanadu-s2.png",
+      "images/fc/fc-faxanadu-s3.png",
+      "images/fc/fc-faxanadu-title.png"
+    ],
+    "cover": "images/fc/fc-faxanadu-box.jpg"
+  },
+  {
+    "id": "fc-goemon-gaiden",
+    "title": "Ganbare Goemon Gaiden: Kieta Ōgon Kiseru",
+    "titleZh": "大盗五右卫门外传 消失的黄金烟管",
+    "titleJa": "がんばれゴエモン外伝 きえた黄金キセル",
+    "year": 1990,
+    "developer": "Konami",
+    "publisher": "Konami",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "江户和风",
+      "搞笑",
+      "日式RPG"
+    ],
+    "players": "1",
+    "tagline": "江户风搞笑RPG，五右卫门找烟管",
+    "description": "义贼五右卫门的宝贝黄金烟管被偷了！为了找回它，五右卫门与搭档海老泉踏上了游历日本的旅程——《大盗五右卫门外传》把科乐美的人气动作系列改编成了一部充满江户风情的RPG。\n\n游戏在俯视角的日本列岛上展开，城下町里有茶屋、旅馆、当铺与赌场，与形形色色的町人交谈处处充满笑点；战斗是回合制，但敌人造型与招式都充满恶搞精神。剧情从关西到北海道再到奇异之地，和风音乐轻快可爱，节奏比王道RPG轻松许多。\n\n仅在日本发售，却是体验“和风像素RPG”的绝佳选择。",
+    "highlights": [
+      "俯视角江户和风城镇",
+      "科乐美式的搞笑剧情",
+      "茶屋旅馆当铺等风物",
+      "轻快的和风配乐"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "24/40",
+        "quote": "搞笑风格的RPG，轻松易上手"
+      },
+      {
+        "source": "Famicom Magazine",
+        "score": "22.63/30",
+        "quote": "读者认为氛围有趣，适合系列粉丝"
+      }
+    ],
+    "editorScore": 7.9,
+    "is2D": true,
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG，江户城镇自由漫步",
+    "screenshots": [
+      "images/fc/fc-goemon-gaiden-s1.png",
+      "images/fc/fc-goemon-gaiden-s2.png",
+      "images/fc/fc-goemon-gaiden-title.png"
+    ],
+    "cover": "images/fc/fc-goemon-gaiden-box.jpg"
+  },
+  {
+    "id": "fc-little-ninja-brothers",
+    "title": "Little Ninja Brothers",
+    "titleZh": "超级中华英雄2 龙之子",
+    "titleJa": "スーパーチャイニーズ2 ドラゴンキッド",
+    "year": 1989,
+    "developer": "Culture Brain",
+    "publisher": "Culture Brain",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "俯视角",
+      "功夫",
+      "双人"
+    ],
+    "players": "1-2",
+    "tagline": "双人功夫RPG，杰克与李的中华冒险",
+    "description": "功夫兄弟杰克和李再度出马！《超级中华英雄2》把前作的动作玩法变成了一部俯视角RPG：在中华风格的大地图上行走，进入城镇购物、住店、与居民交谈，遇敌后则切换为可以亲手出拳踢腿的即时战斗画面。\n\n最大的特色是支持双人同时游戏——兄弟俩一起闯荡世界，在RPG里实属少见。战斗中可以使用旋风脚、飞刀等功夫与道具，升级后还能学到更强的招式。画面色彩鲜艳、人物Q版可爱，整体氛围轻松幽默。\n\nFami通评价一般，但它在欧美与中国都颇有人气，是FC上独特的“功夫RPG”。",
+    "highlights": [
+      "俯视角城镇与中华风大地图",
+      "支持双人同时游玩的RPG",
+      "可操作的即时功夫战斗",
+      "Q版可爱的人物造型"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "21/40",
+        "quote": "RPG与动作结合的尝试，内容略显单薄"
+      },
+      {
+        "source": "Famicom Magazine",
+        "score": "21.01/30",
+        "quote": "双人RPG的点子受到读者肯定"
+      }
+    ],
+    "editorScore": 7.8,
+    "is2D": true,
+    "styleMatch": 3,
+    "styleNote": "俯视角RPG，城镇商店齐全且可双人",
+    "screenshots": [
+      "images/fc/fc-little-ninja-brothers-s1.png",
+      "images/fc/fc-little-ninja-brothers-s2.png",
+      "images/fc/fc-little-ninja-brothers-title.png"
+    ],
+    "cover": "images/fc/fc-little-ninja-brothers-box.jpg"
+  },
+  {
+    "id": "fc-magic-of-scheherazade",
+    "title": "The Magic of Scheherazade",
+    "titleZh": "天方夜谭 魔法师",
+    "titleJa": "アラビアンドリーム シェラザード",
+    "year": 1987,
+    "developer": "Culture Brain",
+    "publisher": "Culture Brain",
+    "genre": "动作角色扮演",
+    "tags": [
+      "像素",
+      "俯视角",
+      "天方夜谭",
+      "时空旅行"
+    ],
+    "players": "1",
+    "tagline": "穿越时空的天方夜谭俯视角ARPG",
+    "description": "魔法师被恶魔夺走记忆，公主雪赫拉莎德被掳——为了救出她，主角穿越时空，在阿拉伯风格的五个世界间展开冒险。《天方夜谭 魔法师》（日版《阿拉伯之梦 雪赫拉莎德》）是文化之脑的野心之作。\n\n俯视角的动作探索中，可以用剑或魔杖攻击敌人，在城镇里购物、住店，在“时空门”之间往返；还能招募伙伴，在遭遇大批敌军时进入回合制战斗。动作与RPG两套系统并存，加上传送、合体魔法等要素，内容相当丰富。阿拉伯风的画面与音乐别具异国情调。\n\n系统略显繁杂，但这份独特的“一千零一夜”氛围在FC上独此一家。",
+    "highlights": [
+      "俯视角动作与回合制双系统",
+      "阿拉伯风情的五大世界",
+      "招募伙伴与合体魔法",
+      "穿越时空的冒险剧情"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "27/40",
+        "quote": "系统丰富有趣，异国风情浓厚"
+      },
+      {
+        "source": "EGM",
+        "score": "22/40",
+        "quote": "美版评价：内容多但略显杂乱"
+      }
+    ],
+    "editorScore": 7.8,
+    "is2D": true,
+    "styleMatch": 3,
+    "styleNote": "俯视角ARPG，阿拉伯风城镇可探索",
+    "screenshots": [
+      "images/fc/fc-magic-of-scheherazade-s1.png",
+      "images/fc/fc-magic-of-scheherazade-s2.png",
+      "images/fc/fc-magic-of-scheherazade-title.png"
+    ],
+    "cover": "images/fc/fc-magic-of-scheherazade-box.jpg"
   }
 ]

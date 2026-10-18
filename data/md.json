@@ -48,7 +48,9 @@
       "images/md/md-phantasy-star-iv-s1.png",
       "images/md/md-phantasy-star-iv-title.png"
     ],
-    "cover": "images/md/md-phantasy-star-iv-box.jpg"
+    "cover": "images/md/md-phantasy-star-iv-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素城镇与大地图，可自由探索商店"
   },
   {
     "id": "md-shining-force-ii",
@@ -100,7 +102,9 @@
       "images/md/md-shining-force-ii-s2.png",
       "images/md/md-shining-force-ii-title.png"
     ],
-    "cover": "images/md/md-shining-force-ii-box.jpg"
+    "cover": "images/md/md-shining-force-ii-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "战棋为主，城镇与大地图可俯视角漫游"
   },
   {
     "id": "md-gunstar-heroes",
@@ -151,7 +155,9 @@
       "images/md/md-gunstar-heroes-s1.png",
       "images/md/md-gunstar-heroes-title.png"
     ],
-    "cover": "images/md/md-gunstar-heroes-box.jpg"
+    "cover": "images/md/md-gunstar-heroes-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版像素动作射击，仅画风年代相近"
   },
   {
     "id": "md-monster-world-iv",
@@ -202,7 +208,9 @@
       "images/md/md-monster-world-iv-s1.png",
       "images/md/md-monster-world-iv-title.png"
     ],
-    "cover": "images/md/md-monster-world-iv-box.jpg"
+    "cover": "images/md/md-monster-world-iv-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "横版动作RPG，有村庄商店但为侧视角"
   },
   {
     "id": "md-streets-of-rage-2",
@@ -253,7 +261,9 @@
       "images/md/md-streets-of-rage-2-s1.png",
       "images/md/md-streets-of-rage-2-title.png"
     ],
-    "cover": "images/md/md-streets-of-rage-2-box.jpg"
+    "cover": "images/md/md-streets-of-rage-2-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版像素清版动作，无探索要素"
   },
   {
     "id": "md-sonic-3-and-knuckles",
@@ -301,7 +311,9 @@
       "images/md/md-sonic-3-and-knuckles-x1.png",
       "images/md/md-sonic-3-and-knuckles-x2.png"
     ],
-    "cover": "images/md/md-sonic-3-and-knuckles-box.jpg"
+    "cover": "images/md/md-sonic-3-and-knuckles-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版高速平台跳跃，仅像素画风相近"
   },
   {
     "id": "md-sonic-the-hedgehog-2",
@@ -352,7 +364,9 @@
       "images/md/md-sonic-the-hedgehog-2-s1.png",
       "images/md/md-sonic-the-hedgehog-2-title.png"
     ],
-    "cover": "images/md/md-sonic-the-hedgehog-2-box.jpg"
+    "cover": "images/md/md-sonic-the-hedgehog-2-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版高速平台跳跃，仅像素画风相近"
   },
   {
     "id": "md-landstalker",
@@ -404,7 +418,9 @@
       "images/md/md-landstalker-s2.png",
       "images/md/md-landstalker-title.png"
     ],
-    "cover": "images/md/md-landstalker-box.jpg"
+    "cover": "images/md/md-landstalker-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "斜45度像素村庄自由探索，动作RPG"
   },
   {
     "id": "md-beyond-oasis",
@@ -455,7 +471,9 @@
       "images/md/md-beyond-oasis-s1.png",
       "images/md/md-beyond-oasis-title.png"
     ],
-    "cover": "images/md/md-beyond-oasis-box.jpg"
+    "cover": "images/md/md-beyond-oasis-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素动作RPG，与参考图气质接近"
   },
   {
     "id": "md-shining-force",
@@ -506,7 +524,9 @@
       "images/md/md-shining-force-s1.png",
       "images/md/md-shining-force-title.png"
     ],
-    "cover": "images/md/md-shining-force-box.jpg"
+    "cover": "images/md/md-shining-force-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "战棋地图为主，城镇可俯视角自由走动"
   },
   {
     "id": "md-langrisser-ii",
@@ -548,7 +568,9 @@
       "images/md/md-langrisser-ii-s2.png",
       "images/md/md-langrisser-ii-title.png"
     ],
-    "cover": "images/md/md-langrisser-ii-box.jpg"
+    "cover": "images/md/md-langrisser-ii-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "日式像素战棋，无自由探索城镇"
   },
   {
     "id": "md-castlevania-bloodlines",
@@ -600,7 +622,9 @@
       "images/md/md-castlevania-bloodlines-s2.png",
       "images/md/md-castlevania-bloodlines-title.png"
     ],
-    "cover": "images/md/md-castlevania-bloodlines-box.jpg"
+    "cover": "images/md/md-castlevania-bloodlines-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版像素动作，哥特画风"
   },
   {
     "id": "md-contra-hard-corps",
@@ -652,7 +676,9 @@
       "images/md/md-contra-hard-corps-s2.png",
       "images/md/md-contra-hard-corps-title.png"
     ],
-    "cover": "images/md/md-contra-hard-corps-box.jpg"
+    "cover": "images/md/md-contra-hard-corps-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版像素动作射击，仅画风年代相近"
   },
   {
     "id": "md-phantasy-star-ii",
@@ -704,7 +730,9 @@
       "images/md/md-phantasy-star-ii-s2.png",
       "images/md/md-phantasy-star-ii-title.png"
     ],
-    "cover": "images/md/md-phantasy-star-ii-box.jpg"
+    "cover": "images/md/md-phantasy-star-ii-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素城镇与野外，经典日式RPG"
   },
   {
     "id": "md-revenge-of-shinobi",
@@ -756,7 +784,9 @@
       "images/md/md-revenge-of-shinobi-s2.png",
       "images/md/md-revenge-of-shinobi-title.png"
     ],
-    "cover": "images/md/md-revenge-of-shinobi-box.jpg"
+    "cover": "images/md/md-revenge-of-shinobi-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版像素动作，无城镇探索"
   },
   {
     "id": "md-thunder-force-iv",
@@ -807,7 +837,9 @@
       "images/md/md-thunder-force-iv-s1.png",
       "images/md/md-thunder-force-iv-title.png"
     ],
-    "cover": "images/md/md-thunder-force-iv-box.jpg"
+    "cover": "images/md/md-thunder-force-iv-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "横版射击游戏，与参考图无关"
   },
   {
     "id": "md-yu-yu-hakusho",
@@ -858,7 +890,9 @@
       "images/md/md-yu-yu-hakusho-s1.png",
       "images/md/md-yu-yu-hakusho-title.png"
     ],
-    "cover": "images/md/md-yu-yu-hakusho-box.jpg"
+    "cover": "images/md/md-yu-yu-hakusho-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "对战格斗游戏，与参考图无关"
   },
   {
     "id": "md-aladdin",
@@ -910,7 +944,9 @@
       "images/md/md-aladdin-s2.png",
       "images/md/md-aladdin-title.png"
     ],
-    "cover": "images/md/md-aladdin-box.jpg"
+    "cover": "images/md/md-aladdin-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版平台跳跃，迪士尼动画画风"
   },
   {
     "id": "md-strider",
@@ -962,7 +998,9 @@
       "images/md/md-strider-s2.png",
       "images/md/md-strider-title.png"
     ],
-    "cover": "images/md/md-strider-box.jpg"
+    "cover": "images/md/md-strider-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版像素动作，无城镇探索"
   },
   {
     "id": "md-rocket-knight-adventures",
@@ -1013,7 +1051,9 @@
       "images/md/md-rocket-knight-adventures-s1.png",
       "images/md/md-rocket-knight-adventures-title.png"
     ],
-    "cover": "images/md/md-rocket-knight-adventures-box.jpg"
+    "cover": "images/md/md-rocket-knight-adventures-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版像素平台动作"
   },
   {
     "id": "md-shinobi-iii",
@@ -1065,7 +1105,9 @@
       "images/md/md-shinobi-iii-s2.png",
       "images/md/md-shinobi-iii-title.png"
     ],
-    "cover": "images/md/md-shinobi-iii-box.jpg"
+    "cover": "images/md/md-shinobi-iii-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版像素动作，无城镇探索"
   },
   {
     "id": "md-puyo-puyo-2",
@@ -1107,7 +1149,9 @@
       "images/md/md-puyo-puyo-2-s2.png",
       "images/md/md-puyo-puyo-2-title.png"
     ],
-    "cover": "images/md/md-puyo-puyo-2-box.jpg"
+    "cover": "images/md/md-puyo-puyo-2-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "对战益智方块，与参考图无关"
   },
   {
     "id": "md-castle-of-illusion",
@@ -1155,7 +1199,9 @@
       "images/md/md-castle-of-illusion-s1.png",
       "images/md/md-castle-of-illusion-title.png"
     ],
-    "cover": "images/md/md-castle-of-illusion-box.jpg"
+    "cover": "images/md/md-castle-of-illusion-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版像素平台跳跃，童话画风"
   },
   {
     "id": "md-ristar",
@@ -1206,7 +1252,9 @@
       "images/md/md-ristar-s1.png",
       "images/md/md-ristar-title.png"
     ],
-    "cover": "images/md/md-ristar-box.jpg"
+    "cover": "images/md/md-ristar-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版像素平台跳跃，色彩鲜艳"
   },
   {
     "id": "md-crusader-of-centy",
@@ -1257,7 +1305,9 @@
       "images/md/md-crusader-of-centy-s1.png",
       "images/md/md-crusader-of-centy-title.png"
     ],
-    "cover": "images/md/md-crusader-of-centy-box.jpg"
+    "cover": "images/md/md-crusader-of-centy-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角塞尔达式冒险，村庄商店齐全"
   },
   {
     "id": "md-dynamite-headdy",
@@ -1309,7 +1359,9 @@
       "images/md/md-dynamite-headdy-s2.png",
       "images/md/md-dynamite-headdy-title.png"
     ],
-    "cover": "images/md/md-dynamite-headdy-box.jpg"
+    "cover": "images/md/md-dynamite-headdy-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版像素平台跳跃"
   },
   {
     "id": "md-streets-of-rage-3",
@@ -1361,7 +1413,9 @@
       "images/md/md-streets-of-rage-3-s2.png",
       "images/md/md-streets-of-rage-3-title.png"
     ],
-    "cover": "images/md/md-streets-of-rage-3-box.jpg"
+    "cover": "images/md/md-streets-of-rage-3-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版像素清版动作，无探索要素"
   },
   {
     "id": "md-earthworm-jim",
@@ -1413,7 +1467,9 @@
       "images/md/md-earthworm-jim-s2.png",
       "images/md/md-earthworm-jim-title.png"
     ],
-    "cover": "images/md/md-earthworm-jim-box.jpg"
+    "cover": "images/md/md-earthworm-jim-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版平台跳跃，美式卡通画风"
   },
   {
     "id": "md-thunder-force-iii",
@@ -1464,7 +1520,9 @@
       "images/md/md-thunder-force-iii-s1.png",
       "images/md/md-thunder-force-iii-title.png"
     ],
-    "cover": "images/md/md-thunder-force-iii-box.jpg"
+    "cover": "images/md/md-thunder-force-iii-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "横版射击游戏，与参考图无关"
   },
   {
     "id": "md-comix-zone",
@@ -1516,7 +1574,9 @@
       "images/md/md-comix-zone-s2.png",
       "images/md/md-comix-zone-title.png"
     ],
-    "cover": "images/md/md-comix-zone-box.jpg"
+    "cover": "images/md/md-comix-zone-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版像素清版动作，美漫画风"
   },
   {
     "id": "md-alien-soldier",
@@ -1567,7 +1627,9 @@
       "images/md/md-alien-soldier-s1.png",
       "images/md/md-alien-soldier-title.png"
     ],
-    "cover": "images/md/md-alien-soldier-box.jpg"
+    "cover": "images/md/md-alien-soldier-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版像素BOSS连战，仅画风相近"
   },
   {
     "id": "md-ecco-the-dolphin",
@@ -1619,7 +1681,9 @@
       "images/md/md-ecco-the-dolphin-s2.png",
       "images/md/md-ecco-the-dolphin-title.png"
     ],
-    "cover": "images/md/md-ecco-the-dolphin-box.jpg"
+    "cover": "images/md/md-ecco-the-dolphin-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版海洋探索冒险，无城镇"
   },
   {
     "id": "md-wonder-boy-in-monster-world",
@@ -1670,7 +1734,9 @@
       "images/md/md-wonder-boy-in-monster-world-s1.png",
       "images/md/md-wonder-boy-in-monster-world-title.png"
     ],
-    "cover": "images/md/md-wonder-boy-in-monster-world-box.jpg"
+    "cover": "images/md/md-wonder-boy-in-monster-world-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "横版动作RPG，有村庄商店但为侧视角"
   },
   {
     "id": "md-light-crusader",
@@ -1722,7 +1788,9 @@
       "images/md/md-light-crusader-s2.png",
       "images/md/md-light-crusader-title.png"
     ],
-    "cover": "images/md/md-light-crusader-box.jpg"
+    "cover": "images/md/md-light-crusader-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "斜视角像素城镇与地城，动作RPG"
   },
   {
     "id": "md-musha",
@@ -1771,7 +1839,9 @@
       "images/md/md-musha-s2.png",
       "images/md/md-musha-title.png"
     ],
-    "cover": "images/md/md-musha-box.jpg"
+    "cover": "images/md/md-musha-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "纵版射击游戏，与参考图无关"
   },
   {
     "id": "md-shining-in-the-darkness",
@@ -1823,7 +1893,9 @@
       "images/md/md-shining-in-the-darkness-s2.png",
       "images/md/md-shining-in-the-darkness-title.png"
     ],
-    "cover": "images/md/md-shining-in-the-darkness-box.jpg"
+    "cover": "images/md/md-shining-in-the-darkness-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "像素城镇+第一人称迷宫，视角不同"
   },
   {
     "id": "md-phantasy-star-iii",
@@ -1875,7 +1947,9 @@
       "images/md/md-phantasy-star-iii-s2.png",
       "images/md/md-phantasy-star-iii-title.png"
     ],
-    "cover": "images/md/md-phantasy-star-iii-box.jpg"
+    "cover": "images/md/md-phantasy-star-iii-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角城镇自由探索，战斗为侧视角"
   },
   {
     "id": "md-warsong",
@@ -1916,7 +1990,9 @@
       "images/md/md-warsong-s1.png",
       "images/md/md-warsong-title.png"
     ],
-    "cover": "images/md/md-warsong-box.jpg"
+    "cover": "images/md/md-warsong-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "日式像素战棋，无自由探索城镇"
   },
   {
     "id": "md-quackshot",
@@ -1967,7 +2043,304 @@
       "images/md/md-quackshot-s1.png",
       "images/md/md-quackshot-title.png"
     ],
-    "cover": "images/md/md-quackshot-box.jpg"
+    "cover": "images/md/md-quackshot-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版像素平台跳跃，含寻宝要素"
+  },
+  {
+    "id": "md-king-colossus",
+    "title": "Tougi Ou: King Colossus",
+    "titleZh": "斗技王 国王巨像",
+    "titleJa": "闘技王キングコロッサス",
+    "year": 1992,
+    "developer": "Sega",
+    "publisher": "Sega",
+    "genre": "动作角色扮演",
+    "tags": [
+      "像素",
+      "俯视角",
+      "日版限定"
+    ],
+    "players": "1",
+    "tagline": "俯视角即时战斗的世嘉原创ARPG",
+    "description": "世嘉在1992年推出的日版限定动作RPG《斗技王 国王巨像》，是一款不折不扣的“俯视角塞尔达式”作品。少年主角从斗技场起步，在冒险中逐步成长为王国的英雄。\n\n游戏采用俯视角即时战斗，挥剑、使用魔法、收集道具，城镇里有商店和形形色色的村民，迷宫中则有机关与BOSS等待挑战。像素画面明快清爽，节奏紧凑，几个小时就能体验一段完整的冒险。\n\n它从未在日本以外发售，却是MD上与参考画面气质最接近的作品之一，爱好者英文补丁让它重新被更多人看到。",
+    "highlights": [
+      "俯视角即时战斗动作RPG",
+      "城镇、商店与迷宫一应俱全",
+      "斗技场出身的王道成长剧情",
+      "日版限定的世嘉原创作品"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "26/40",
+        "quote": "节奏明快的动作RPG，适合轻度玩家"
+      },
+      {
+        "source": "Sega-16",
+        "score": "8/10",
+        "quote": "MD上被埋没的优秀塞尔达式ARPG"
+      }
+    ],
+    "editorScore": 8.0,
+    "is2D": true,
+    "screenshots": [
+      "images/md/md-king-colossus-x1.png",
+      "images/md/md-king-colossus-x2.png",
+      "images/md/md-king-colossus-s1.png",
+      "images/md/md-king-colossus-title.png"
+    ],
+    "cover": "images/md/md-king-colossus-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素ARPG，有城镇与商店"
+  },
+  {
+    "id": "md-shadowrun",
+    "title": "Shadowrun",
+    "titleZh": "暗影狂奔",
+    "titleJa": "",
+    "year": 1994,
+    "developer": "BlueSky Software",
+    "publisher": "Sega",
+    "genre": "动作角色扮演",
+    "tags": [
+      "像素",
+      "俯视角",
+      "赛博朋克"
+    ],
+    "players": "1",
+    "tagline": "赛博朋克暗巷里的佣兵生涯，自由度极高",
+    "description": "与SFC版完全不同的MD原创版《暗影狂奔》，舞台是2050年魔法与科技交织的西雅图。主角乔舒亚为追查兄弟之死来到这座城市，以“影子佣兵”身份接取任务、雇佣队友、积累声望。\n\n俯视角的城市街区可以自由漫游，酒吧里打听情报、商店里购置枪械与魔法，任务自由度非常高；潜入矩阵（网络空间）的骇客玩法也独具特色。画面色调偏暗，但城市生活感十足。\n\n它是16位时代最具开放感的欧美RPG之一，热爱自由探索的玩家不可错过。",
+    "highlights": [
+      "俯视角赛博朋克城市自由漫游",
+      "自由接取任务与雇佣队友",
+      "独特的矩阵骇客玩法",
+      "魔法与科技交织的世界观"
+    ],
+    "reviews": [
+      {
+        "source": "EGM",
+        "score": "40/50",
+        "quote": "深度与自由度出色的RPG"
+      },
+      {
+        "source": "GameRankings",
+        "score": "76%",
+        "quote": "综合评价良好"
+      },
+      {
+        "source": "Sega-16",
+        "score": "7/10",
+        "quote": "内容丰富的赛博朋克冒险"
+      }
+    ],
+    "editorScore": 8.0,
+    "is2D": true,
+    "screenshots": [
+      "images/md/md-shadowrun-x1.png",
+      "images/md/md-shadowrun-s1.png",
+      "images/md/md-shadowrun-s2.png",
+      "images/md/md-shadowrun-title.png"
+    ],
+    "cover": "images/md/md-shadowrun-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角城市街区自由漫游，有商店酒吧"
+  },
+  {
+    "id": "md-pier-solar",
+    "title": "Pier Solar and the Great Architects",
+    "titleZh": "皮尔索拉与伟大建筑师",
+    "titleJa": "",
+    "year": 2010,
+    "developer": "WaterMelon",
+    "publisher": "WaterMelon",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "俯视角",
+      "新作卡带"
+    ],
+    "players": "1",
+    "tagline": "2010年的MD新作卡带，致敬黄金时代的日式RPG",
+    "description": "谁说MD已经退休？2010年，爱好者团队WaterMelon推出了实体卡带RPG《皮尔索拉》，容量达64兆，是史上最大的MD游戏。故事讲述三位少年为了寻找治愈父亲的草药踏上冒险，渐渐卷入古代文明的谜团。\n\n画面是彻头彻尾的16位日式RPG风格：俯视角的海边小镇、色彩丰富的森林与洞窟，人物在城镇中自由行走、与村民对话、在商店补给。回合制战斗加入了“蓄力”系统，配乐也颇有水准。\n\n它是写给《梦幻之星》《光明力量》时代的情书，与参考画面高度契合。",
+    "highlights": [
+      "2010年发售的64兆实体新作卡带",
+      "俯视角像素城镇与日式RPG玩法",
+      "回合制战斗加入蓄力系统",
+      "致敬16位黄金时代的情怀之作"
+    ],
+    "reviews": [
+      {
+        "source": "Sega-16",
+        "score": "9/10",
+        "quote": "对16位RPG黄金时代的出色致敬"
+      }
+    ],
+    "editorScore": 8.0,
+    "is2D": true,
+    "screenshots": [
+      "images/md/md-pier-solar-x1.png",
+      "images/md/md-pier-solar-x2.png",
+      "images/md/md-pier-solar-x3.png"
+    ],
+    "cover": "images/md/md-pier-solar-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素城镇，正统16位日式RPG"
+  },
+  {
+    "id": "md-surging-aura",
+    "title": "Surging Aura",
+    "titleZh": "涌动灵气",
+    "titleJa": "サージングオーラ",
+    "year": 1995,
+    "developer": "Japan Media Programming",
+    "publisher": "Sega",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "俯视角",
+      "日版限定"
+    ],
+    "players": "1",
+    "tagline": "猪股睦实人设，MD末期的正统日式RPG",
+    "description": "MD末期才登场的日版限定RPG《涌动灵气》，由《传说》系列人设而闻名的猪股睦实担任人物设计。故事讲述了少年在精灵与人类纷争中觉醒力量的冒险，标准的王道日式奇幻。\n\n画面是熟悉的俯视角像素风格：色彩鲜明的城镇里可以自由走动，与村民对话、在道具屋采购，然后踏上野外冒险。战斗采用回合制，并加入了根据位置与时机变化的“灵气”系统，让战斗更有策略感。\n\n虽然当年因发售时机较晚而被埋没，但对于喜欢俯视角像素城镇的玩家来说，这是一颗值得发掘的遗珠，现在已有爱好者英文汉化可以体验。",
+    "highlights": [
+      "猪股睦实负责人物设计",
+      "俯视角像素城镇自由探索",
+      "王道日式奇幻剧情",
+      "MD末期日版限定的遗珠"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "25/40",
+        "quote": "中规中矩的正统RPG"
+      },
+      {
+        "source": "Mega Drive FAN",
+        "score": "19.8/30",
+        "quote": "读者评分一般，适合RPG爱好者"
+      },
+      {
+        "source": "Sega-16",
+        "score": "9/10",
+        "quote": "被低估的MD日式RPG佳作"
+      }
+    ],
+    "editorScore": 7.8,
+    "is2D": true,
+    "screenshots": [
+      "images/md/md-surging-aura-x1.png",
+      "images/md/md-surging-aura-x2.png",
+      "images/md/md-surging-aura-s1.png",
+      "images/md/md-surging-aura-title.png"
+    ],
+    "cover": "images/md/md-surging-aura-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素城镇与野外，正统日式RPG"
+  },
+  {
+    "id": "md-ys-iii",
+    "title": "Ys III: Wanderers from Ys",
+    "titleZh": "伊苏III 来自伊苏的流浪者",
+    "titleJa": "イースIII ワンダラーズフロムイース",
+    "year": 1991,
+    "developer": "Nihon Falcom",
+    "publisher": "Renovation",
+    "genre": "动作角色扮演",
+    "tags": [
+      "像素",
+      "横版",
+      "Falcom"
+    ],
+    "players": "1",
+    "tagline": "红发亚特鲁的横版冒险，Falcom名曲响彻MD",
+    "description": "红发剑士亚特鲁与搭档多基来到多基的故乡费尔加纳，卷入古代封印之谜。《伊苏III》是系列中唯一采用横版视角的作品，MD版移植画面细腻，被许多玩家视为16位最佳的版本之一。\n\n城镇与大地图以俯视角移动，进入关卡后则是横版动作：跳跃、挥剑、上下刺击，BOSS战压迫感十足。Falcom音乐队的配乐更是一绝，MD音源下的“Valestein城”等名曲听来热血沸腾。\n\n虽然玩法与参考画面有所不同，但城镇里的商店与村民、浓郁的日式ARPG氛围依旧熟悉。",
+    "highlights": [
+      "系列唯一的横版动作伊苏",
+      "城镇与商店的日式ARPG氛围",
+      "Falcom经典配乐的MD音源版",
+      "压迫感十足的BOSS战"
+    ],
+    "reviews": [
+      {
+        "source": "VideoGames & Computer Entertainment",
+        "score": "7/10",
+        "quote": "动作爽快、音乐出色"
+      },
+      {
+        "source": "VideoGames",
+        "score": "68%",
+        "quote": "移植扎实但难度曲线不均"
+      },
+      {
+        "source": "Sega-16",
+        "score": "8/10",
+        "quote": "MD上值得一玩的伊苏"
+      }
+    ],
+    "editorScore": 7.8,
+    "is2D": true,
+    "screenshots": [
+      "images/md/md-ys-iii-x1.png",
+      "images/md/md-ys-iii-x2.png",
+      "images/md/md-ys-iii-s1.png",
+      "images/md/md-ys-iii-title.png"
+    ],
+    "cover": "images/md/md-ys-iii-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "有城镇商店，但冒险为横版动作"
+  },
+  {
+    "id": "md-rent-a-hero",
+    "title": "Rent-A-Hero",
+    "titleZh": "出租英雄",
+    "titleJa": "レンタヒーロー",
+    "year": 1991,
+    "developer": "Sega",
+    "publisher": "Sega",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "俯视角",
+      "搞笑"
+    ],
+    "players": "1",
+    "tagline": "穿上战斗服打工的少年，世嘉的搞笑都市RPG",
+    "description": "普通高中生大地太郎误收到一套战斗装甲，从此成为“出租英雄”——接受委托、按次收费，还得为电池费发愁！《出租英雄》是世嘉别出心裁的搞笑RPG，处处都是对英雄题材的吐槽。\n\n城镇以俯视角呈现，可以在街道、住宅、商店之间自由走动，接取形形色色的委托；遭遇战斗时则切换为横版格斗式的即时战斗。日常生活感浓厚的小镇与幽默的对话，让人会心一笑。\n\n后来在Dreamcast上有复刻版，但MD原版的像素小镇别有一番韵味。",
+    "highlights": [
+      "俯视角像素小镇自由漫游",
+      "接委托赚钱的“打工英雄”设定",
+      "横版格斗式即时战斗",
+      "充满吐槽的幽默剧情"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "29/40",
+        "quote": "设定有趣、幽默感十足"
+      },
+      {
+        "source": "Mega Drive FAN",
+        "score": "23.18/30",
+        "quote": "读者评价良好"
+      },
+      {
+        "source": "Sega-16",
+        "score": "6/10",
+        "quote": "创意出色但系统略显单薄"
+      }
+    ],
+    "editorScore": 7.7,
+    "is2D": true,
+    "screenshots": [
+      "images/md/md-rent-a-hero-x1.png",
+      "images/md/md-rent-a-hero-x2.png",
+      "images/md/md-rent-a-hero-title.png"
+    ],
+    "cover": "images/md/md-rent-a-hero-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素小镇自由漫游，战斗为横版"
   },
   {
     "id": "md-sword-of-vermilion",
@@ -2018,6 +2391,179 @@
       "images/md/md-sword-of-vermilion-s1.png",
       "images/md/md-sword-of-vermilion-title.png"
     ],
-    "cover": "images/md/md-sword-of-vermilion-box.jpg"
+    "cover": "images/md/md-sword-of-vermilion-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素城镇，野外切换第一人称"
+  },
+  {
+    "id": "md-faery-tale-adventure",
+    "title": "The Faery Tale Adventure",
+    "titleZh": "童话冒险",
+    "titleJa": "",
+    "year": 1991,
+    "developer": "New World Computing",
+    "publisher": "Electronic Arts",
+    "genre": "动作角色扮演",
+    "tags": [
+      "像素",
+      "俯视角",
+      "开放世界"
+    ],
+    "players": "1",
+    "tagline": "三兄弟轮流冒险，超大开放世界的欧美ARPG",
+    "description": "源自Amiga的欧美经典，《童话冒险》在MD上重获新生。故事发生在被死灵法师威胁的霍尔姆王国，三兄弟朱利安、菲利普、凯文依次踏上冒险——当一位倒下，下一位兄弟便接过使命。\n\n游戏的世界大得惊人，俯视角的城镇、森林、沙漠、海洋无缝连接，可以骑马、乘龟、甚至骑巨鸟飞行，在1991年就实现了真正的“开放世界”。战斗为即时动作，昼夜交替、饥饿与睡眠系统也颇具特色。\n\n画风偏欧美，但自由探索的乐趣与参考画面一脉相承，适合喜欢慢慢漫游的玩家。",
+    "highlights": [
+      "三兄弟接力冒险的独特设定",
+      "无缝连接的超大开放世界",
+      "骑马、乘龟、骑鸟多种移动方式",
+      "昼夜与饥饿睡眠系统"
+    ],
+    "reviews": [
+      {
+        "source": "Sega-16",
+        "score": "9/10",
+        "quote": "规模宏大、自由度极高的冒险"
+      }
+    ],
+    "editorScore": 7.6,
+    "is2D": true,
+    "screenshots": [
+      "images/md/md-faery-tale-adventure-x1.png",
+      "images/md/md-faery-tale-adventure-x2.png",
+      "images/md/md-faery-tale-adventure-s1.png",
+      "images/md/md-faery-tale-adventure-title.png"
+    ],
+    "cover": "images/md/md-faery-tale-adventure-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角开放世界，城镇村庄自由探索"
+  },
+  {
+    "id": "md-arcus-odyssey",
+    "title": "Arcus Odyssey",
+    "titleZh": "阿卡斯奥德赛",
+    "titleJa": "アークス・オデッセイ",
+    "year": 1991,
+    "developer": "Wolf Team",
+    "publisher": "Wolf Team (JP) / Renovation (NA)",
+    "genre": "动作角色扮演",
+    "tags": [
+      "像素",
+      "斜视角",
+      "双人"
+    ],
+    "players": "1-2",
+    "tagline": "斜视角双人合作的魔法动作冒险",
+    "description": "Wolf Team出品的《阿卡斯奥德赛》，是一款斜45度视角的动作RPG。四名风格各异的英雄——剑士、女战士、精灵弓手、魔法师——为封印复活的魔女卡斯托里亚踏上旅程，支持双人同时游戏。\n\n每位角色都可蓄力释放魔法，迷宫中机关、陷阱与成群敌人交错，双人合作时乐趣倍增。斜视角的像素场景颇有立体感，配乐也颇具Wolf Team的华丽风格。\n\n它没有可以自由漫步的城镇，更偏向关卡制的地城动作，但俯视角像素冒险的手感依旧亲切。",
+    "highlights": [
+      "斜45度视角的动作冒险",
+      "四名可选英雄各有魔法",
+      "支持双人同时游戏",
+      "迷宫机关与成群敌人"
+    ],
+    "reviews": [
+      {
+        "source": "Sega-16",
+        "score": "7/10",
+        "quote": "双人合作乐趣十足的动作RPG"
+      }
+    ],
+    "editorScore": 7.4,
+    "is2D": true,
+    "screenshots": [
+      "images/md/md-arcus-odyssey-s1.png",
+      "images/md/md-arcus-odyssey-s2.png",
+      "images/md/md-arcus-odyssey-title.png"
+    ],
+    "cover": "images/md/md-arcus-odyssey-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "斜视角像素动作冒险，但没有城镇"
+  },
+  {
+    "id": "md-sorcerers-kingdom",
+    "title": "Sorcerer's Kingdom",
+    "titleZh": "魔法王国",
+    "titleJa": "ソーサルキングダム",
+    "year": 1992,
+    "developer": "Technical Wave",
+    "publisher": "Masaya (JP) / Treco (NA)",
+    "genre": "战略角色扮演",
+    "tags": [
+      "像素",
+      "战棋",
+      "城镇探索"
+    ],
+    "players": "1",
+    "tagline": "可自由探索城镇的战棋RPG",
+    "description": "《魔法王国》是一款将战棋战斗与传统RPG探索结合的作品。年轻的魔法师在王国中旅行，俯视角的城镇与野外可以自由走动，与村民交谈、购买装备，遭遇敌人后切换到网格战场展开回合制战斗。\n\n与一般战棋不同，主角在大地图上自由移动，探索的比重相当高，更像一款“战斗用战棋表现的RPG”。画面朴素但清爽，系统简单易上手。\n\n它不是大作，却是MD上少见的“战棋+自由探索”混合体，适合喜欢慢节奏冒险的玩家。",
+    "highlights": [
+      "俯视角城镇与野外自由探索",
+      "网格回合制战棋战斗",
+      "探索比重高的混合型RPG",
+      "简单易上手"
+    ],
+    "reviews": [
+      {
+        "source": "Sega-16",
+        "score": "6/10",
+        "quote": "有趣的混合尝试，但整体略显平淡"
+      }
+    ],
+    "editorScore": 6.9,
+    "is2D": true,
+    "screenshots": [
+      "images/md/md-sorcerers-kingdom-s1.png",
+      "images/md/md-sorcerers-kingdom-s2.png",
+      "images/md/md-sorcerers-kingdom-title.png"
+    ],
+    "cover": "images/md/md-sorcerers-kingdom-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "城镇可俯视角探索，战斗为战棋"
+  },
+  {
+    "id": "md-super-hydlide",
+    "title": "Super Hydlide",
+    "titleZh": "超级海德莱德",
+    "titleJa": "スーパーハイドライド",
+    "year": 1989,
+    "developer": "T&E Soft",
+    "publisher": "Asmik (JP) / Seismic (NA)",
+    "genre": "动作角色扮演",
+    "tags": [
+      "像素",
+      "俯视角",
+      "老派"
+    ],
+    "players": "1",
+    "tagline": "日本ARPG鼻祖的MD版，硬核老派冒险",
+    "description": "《海德莱德》是与《屠龙剑》齐名的日本动作RPG鼻祖，《超级海德莱德》则是其第三作在MD上的强化移植。勇者在费利安大陆上自由冒险，俯视角地图上城镇、森林、迷宫相连。\n\n本作加入了昼夜、时间、负重、饮食与道德值等繁复系统，背包里装备的重量会影响行动，杀死善良生物还会降低道德。老派而硬核，需要耐心与笔记本。\n\n以今天的眼光看系统较为生涩，评价也两极分化，但对于想追溯日式ARPG源头的玩家而言，它有着不可替代的历史意义。",
+    "highlights": [
+      "日式ARPG鼻祖系列的MD版",
+      "俯视角城镇与野外自由冒险",
+      "昼夜、负重与道德值系统",
+      "硬核老派的探索体验"
+    ],
+    "reviews": [
+      {
+        "source": "EGM",
+        "score": "20/40",
+        "quote": "系统老旧、画面普通"
+      },
+      {
+        "source": "Sega-16",
+        "score": "7/10",
+        "quote": "有历史意义的老派ARPG"
+      }
+    ],
+    "editorScore": 6.8,
+    "is2D": true,
+    "screenshots": [
+      "images/md/md-super-hydlide-s1.png",
+      "images/md/md-super-hydlide-s2.png",
+      "images/md/md-super-hydlide-s3.png",
+      "images/md/md-super-hydlide-title.png"
+    ],
+    "cover": "images/md/md-super-hydlide-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素城镇与野外，老派ARPG"
   }
 ]

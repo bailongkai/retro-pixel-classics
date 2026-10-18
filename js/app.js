@@ -2,7 +2,7 @@
   "use strict";
 
   // bump on every content update so browsers don't pair new pages with stale cached data
-  const VERSION = "4";
+  const VERSION = "5";
 
   const MAKERS = [
     { key: "Nintendo", zh: "任天堂", en: "NINTENDO" },
@@ -65,6 +65,8 @@
   const img = (g, src, cls = "", alt = "") =>
     src ? `<img src="${esc(src)}" class="${cls}" alt="${esc(alt || g.titleZh || g.title)}" loading="lazy" onload="fitImg(this)" onerror="this.outerHTML='<div class=&quot;noshot ${cls}&quot;>NO IMAGE</div>'">`
         : `<div class="noshot ${cls}">${esc(PMAP[g.platform].abbr)}<br>NO IMAGE</div>`;
+  const STYLE = { 3: "同款", 2: "近似", 1: "沾边", 0: "不同" };
+  const styleBadge = g => g.styleMatch >= 2 ? `<span class="style-badge s${g.styleMatch}">${STYLE[g.styleMatch]}</span>` : "";
   const verdict = s => s >= 9.5 ? "殿堂级神作" : s >= 9 ? "白金推荐" : s >= 8.5 ? "金牌推荐" : s >= 8 ? "银牌推荐" : "值得一玩";
   const stampCls = s => (s >= 9.5 ? "score-stamp gold" : "score-stamp");
 
@@ -100,6 +102,7 @@
         ${img(g, shot(g))}
         ${showPlat ? `<span class="card-plat">${esc(p.abbr)}</span>` : ""}
         <span class="card-rank">No.${g.rank}</span>
+        ${styleBadge(g)}
         ${(g.screenshots || []).length > 1 ? `<span class="card-pics">▣ ${g.screenshots.length}</span>` : ""}
       </div>
       <div class="card-body">
@@ -140,6 +143,9 @@
     const all = [...state.games].sort((a, b) => (b.editorScore || 0) - (a.editorScore || 0));
     const withShot = all.filter(g => g.coverShot ?? /-s1\.png$/.test(shot(g))).slice(0, 24);
     const coverGame = withShot[Math.floor(Math.random() * withShot.length)] || all[0];
+    const styled = all.filter(g => g.styleMatch === 3);
+    const styleCount = styled.length;
+    const stylePicks = styled.slice(0, 12);
     const coverPlats = [...PLATFORMS].sort(() => Math.random() - 0.5).slice(0, 8);
     const coverLines = coverPlats.map(p => {
       const top = gamesOf(p.key)[0];
@@ -170,6 +176,9 @@
         </div>
       </section>
 
+      ${stylePicks.length ? sectionHead("和你的截图同款", "STYLE PICKS", `俯视角 2D 像素画面、能在村庄里自由走动的日式 RPG / ARPG —— 全部 ${styleCount} 款同款风格中评分最高的 12 款。`, null, "#/style") +
+        `<div class="grid">${stylePicks.map(g => card(g)).join("")}</div>` : ""}
+
       ${sectionHead("平台导航", "SELECT PLATFORM", `${PLATFORMS.length} 台主机，${state.games.length} 款名作。选择你的主机，开启时光机。`, null, "#/all")}
       ${tiles}
 
@@ -180,7 +189,7 @@
     `;
   }
 
-  const pageState = { genre: "全部", only2D: false, sort: "score", plat: "全部", limit: 60 };
+  const pageState = { genre: "全部", only2D: false, style: 0, sort: "score", plat: "全部", limit: 60 };
   const PAGE = 60;
 
   function viewList(key) {
@@ -193,8 +202,9 @@
     const genres = ["全部", ...Object.keys(genreCount).sort((a, b) => genreCount[b] - genreCount[a])];
     if (!genres.includes(pageState.genre)) pageState.genre = "全部";
 
-    let shown = scoped.filter(g => (pageState.genre === "全部" || g.genre === pageState.genre) && (!pageState.only2D || g.is2D !== false));
+    let shown = scoped.filter(g => (pageState.genre === "全部" || g.genre === pageState.genre) && (!pageState.only2D || g.is2D !== false) && (g.styleMatch ?? 0) >= pageState.style);
     if (pageState.sort === "year") shown = [...shown].sort((a, b) => (a.year || 0) - (b.year || 0));
+    if (pageState.sort === "style") shown = [...shown].sort((a, b) => (b.styleMatch ?? 0) - (a.styleMatch ?? 0) || (b.editorScore || 0) - (a.editorScore || 0));
     if (pageState.sort === "title") shown = [...shown].sort((a, b) => (a.titleZh || a.title).localeCompare(b.titleZh || b.title, "zh"));
     const visible = shown.slice(0, pageState.limit);
 
@@ -223,11 +233,17 @@
       <div class="toolbar">
         ${genres.map(g => `<button class="chip ${g === pageState.genre ? "on" : ""}" data-genre="${esc(g)}">${esc(g)}${g !== "全部" ? `<small> ${genreCount[g]}</small>` : ""}</button>`).join("")}
         <span class="spacer"></span>
+        <select data-style aria-label="风格">
+          <option value="0" ${pageState.style === 0 ? "selected" : ""}>风格：全部</option>
+          <option value="3" ${pageState.style === 3 ? "selected" : ""}>风格：同款</option>
+          <option value="2" ${pageState.style === 2 ? "selected" : ""}>风格：同款+近似</option>
+        </select>
         <button class="chip ${pageState.only2D ? "on" : ""}" data-2d>只看 2D</button>
         <select data-sort aria-label="排序">
           <option value="score" ${pageState.sort === "score" ? "selected" : ""}>按评分</option>
           <option value="year" ${pageState.sort === "year" ? "selected" : ""}>按年份</option>
           <option value="title" ${pageState.sort === "title" ? "selected" : ""}>按名称</option>
+          <option value="style" ${pageState.sort === "style" ? "selected" : ""}>按风格相似</option>
         </select>
       </div>
       <p class="result-count">共 ${shown.length} 款</p>
@@ -238,6 +254,7 @@
     const rerender = () => { pageState.limit = PAGE; viewList(key); };
     app.querySelectorAll("[data-genre]").forEach(b => b.onclick = () => { pageState.genre = b.dataset.genre; rerender(); });
     app.querySelectorAll("[data-plat]").forEach(b => b.onclick = () => { pageState.plat = b.dataset.plat; rerender(); });
+    app.querySelector("[data-style]").onchange = e => { pageState.style = +e.target.value; rerender(); };
     app.querySelector("[data-2d]").onclick = () => { pageState.only2D = !pageState.only2D; rerender(); };
     app.querySelector("[data-sort]").onchange = e => { pageState.sort = e.target.value; rerender(); };
     const more = app.querySelector("[data-more]");
@@ -280,6 +297,11 @@
         </div>
 
         <aside class="side">
+          ${g.styleMatch != null ? `<div class="panel style-panel s${g.styleMatch}">
+            <h3>风格匹配</h3>
+            <div class="style-meter">${[1, 2, 3].map(i => `<i class="${i <= g.styleMatch ? "on" : ""}"></i>`).join("")}<b>${STYLE[g.styleMatch]}</b></div>
+            ${g.styleNote ? `<p>${esc(g.styleNote)}</p>` : ""}
+          </div>` : ""}
           <div class="panel editor-score">
             <h3>编辑部评分</h3>
             <div class="big">${fmtScore(g.editorScore)}</div>
@@ -395,6 +417,7 @@
     if (!kind) viewHome();
     else if (kind === "p") viewList(arg);
     else if (kind === "all") viewList(null);
+    else if (kind === "style") { Object.assign(pageState, { style: 3, plat: "全部", genre: "全部" }); location.replace("#/all"); return; }
     else if (kind === "g") viewGame(decodeURIComponent(arg || ""));
     else if (kind === "search") viewSearch(decodeURIComponent(arg || ""));
     else viewNotFound();

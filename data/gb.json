@@ -48,7 +48,9 @@
       "images/gb/gb-links-awakening-dx-s3.png",
       "images/gb/gb-links-awakening-dx-title.png"
     ],
-    "cover": "images/gb/gb-links-awakening-dx-box.jpg"
+    "cover": "images/gb/gb-links-awakening-dx-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素ARPG，村庄商店自由探索"
   },
   {
     "id": "gb-pokemon-gold-silver",
@@ -98,7 +100,9 @@
       "images/gb/gb-pokemon-gold-silver-x1.png",
       "images/gb/gb-pokemon-gold-silver-title.png"
     ],
-    "cover": "images/gb/gb-pokemon-gold-silver-box.jpg"
+    "cover": "images/gb/gb-pokemon-gold-silver-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG，城镇商店四处可逛"
   },
   {
     "id": "gb-pokemon-crystal",
@@ -147,7 +151,9 @@
       "images/gb/gb-pokemon-crystal-s2.png",
       "images/gb/gb-pokemon-crystal-title.png"
     ],
-    "cover": "images/gb/gb-pokemon-crystal-box.jpg"
+    "cover": "images/gb/gb-pokemon-crystal-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG，城镇与野外自由行走"
   },
   {
     "id": "gb-zelda-oracle",
@@ -197,7 +203,9 @@
       "images/gb/gb-zelda-oracle-x1.png",
       "images/gb/gb-zelda-oracle-title.png"
     ],
-    "cover": "images/gb/gb-zelda-oracle-box.jpg"
+    "cover": "images/gb/gb-zelda-oracle-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素ARPG，有村庄商店与迷宫"
   },
   {
     "id": "gb-pokemon-red-green",
@@ -248,7 +256,9 @@
       "images/gb/gb-pokemon-red-green-x1.png",
       "images/gb/gb-pokemon-red-green-title.png"
     ],
-    "cover": "images/gb/gb-pokemon-red-green-box.jpg"
+    "cover": "images/gb/gb-pokemon-red-green-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG，城镇商店自由探索"
   },
   {
     "id": "gb-tetris",
@@ -298,7 +308,9 @@
       "images/gb/gb-tetris-x1.png",
       "images/gb/gb-tetris-title.png"
     ],
-    "cover": "images/gb/gb-tetris-box.jpg"
+    "cover": "images/gb/gb-tetris-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "方块益智游戏，与参考图无关"
   },
   {
     "id": "gb-final-fantasy-adventure",
@@ -348,7 +360,9 @@
       "images/gb/gb-final-fantasy-adventure-s2.png",
       "images/gb/gb-final-fantasy-adventure-title.png"
     ],
-    "cover": "images/gb/gb-final-fantasy-adventure-box.jpg"
+    "cover": "images/gb/gb-final-fantasy-adventure-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角日式ARPG，村庄商店齐全"
   },
   {
     "id": "gb-wario-land-3",
@@ -397,7 +411,9 @@
       "images/gb/gb-wario-land-3-x1.png",
       "images/gb/gb-wario-land-3-title.png"
     ],
-    "cover": "images/gb/gb-wario-land-3-box.jpg"
+    "cover": "images/gb/gb-wario-land-3-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版平台动作，仅像素风相近"
   },
   {
     "id": "gb-pokemon-yellow",
@@ -446,7 +462,9 @@
       "images/gb/gb-pokemon-yellow-s2.png",
       "images/gb/gb-pokemon-yellow-title.png"
     ],
-    "cover": "images/gb/gb-pokemon-yellow-box.jpg"
+    "cover": "images/gb/gb-pokemon-yellow-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG，城镇商店自由探索"
   },
   {
     "id": "gb-gargoyles-quest",
@@ -492,9 +510,12 @@
     "is2D": true,
     "screenshots": [
       "images/gb/gb-gargoyles-quest-s1.png",
+      "images/gb/gb-gargoyles-quest-x1.jpg",
       "images/gb/gb-gargoyles-quest-title.png"
     ],
-    "cover": "images/gb/gb-gargoyles-quest-box.jpg"
+    "cover": "images/gb/gb-gargoyles-quest-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "俯视大地图有村落，战斗为横版动作"
   },
   {
     "id": "gb-dragon-warrior-3",
@@ -544,7 +565,9 @@
       "images/gb/gb-dragon-warrior-3-x1.png",
       "images/gb/gb-dragon-warrior-3-title.png"
     ],
-    "cover": "images/gb/gb-dragon-warrior-3-box.jpg"
+    "cover": "images/gb/gb-dragon-warrior-3-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角日式RPG，城镇商店自由行走"
   },
   {
     "id": "gb-metal-gear-ghost-babel",
@@ -594,7 +617,9 @@
       "images/gb/gb-metal-gear-ghost-babel-s3.png",
       "images/gb/gb-metal-gear-ghost-babel-title.png"
     ],
-    "cover": "images/gb/gb-metal-gear-ghost-babel-box.jpg"
+    "cover": "images/gb/gb-metal-gear-ghost-babel-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "俯视角潜入动作，无村庄城镇"
   },
   {
     "id": "gb-super-mario-land-2",
@@ -643,7 +668,9 @@
       "images/gb/gb-super-mario-land-2-s2.png",
       "images/gb/gb-super-mario-land-2-title.png"
     ],
-    "cover": "images/gb/gb-super-mario-land-2-box.jpg"
+    "cover": "images/gb/gb-super-mario-land-2-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版平台跳跃，仅像素风相近"
   },
   {
     "id": "gb-dragon-warrior-1-2",
@@ -689,9 +716,13 @@
     "is2D": true,
     "screenshots": [
       "images/gb/gb-dragon-warrior-1-2-s1.png",
+      "images/gb/gb-dragon-warrior-1-2-x1.png",
+      "images/gb/gb-dragon-warrior-1-2-x2.png",
       "images/gb/gb-dragon-warrior-1-2-title.png"
     ],
-    "cover": "images/gb/gb-dragon-warrior-1-2-box.jpg"
+    "cover": "images/gb/gb-dragon-warrior-1-2-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角日式RPG，城镇商店自由行走"
   },
   {
     "id": "gb-donkey-kong-94",
@@ -740,7 +771,9 @@
       "images/gb/gb-donkey-kong-94-s2.png",
       "images/gb/gb-donkey-kong-94-title.png"
     ],
-    "cover": "images/gb/gb-donkey-kong-94-box.jpg"
+    "cover": "images/gb/gb-donkey-kong-94-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版动作解谜，仅像素风相近"
   },
   {
     "id": "gb-kaeru-no-tame",
@@ -786,7 +819,9 @@
       "images/gb/gb-kaeru-no-tame-x2.png",
       "images/gb/gb-kaeru-no-tame-title.png"
     ],
-    "cover": "images/gb/gb-kaeru-no-tame-box.jpg"
+    "cover": "images/gb/gb-kaeru-no-tame-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素ARPG，村庄城镇自由探索"
   },
   {
     "id": "gb-dragon-warrior-monsters",
@@ -836,7 +871,9 @@
       "images/gb/gb-dragon-warrior-monsters-x2.png",
       "images/gb/gb-dragon-warrior-monsters-title.png"
     ],
-    "cover": "images/gb/gb-dragon-warrior-monsters-box.jpg"
+    "cover": "images/gb/gb-dragon-warrior-monsters-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG，城镇商店可自由逛"
   },
   {
     "id": "gb-mario-golf",
@@ -885,7 +922,9 @@
       "images/gb/gb-mario-golf-s2.png",
       "images/gb/gb-mario-golf-title.png"
     ],
-    "cover": "images/gb/gb-mario-golf-box.jpg"
+    "cover": "images/gb/gb-mario-golf-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "运动游戏，仅俯视角会所行走沾边"
   },
   {
     "id": "gb-wario-land-2",
@@ -934,7 +973,9 @@
       "images/gb/gb-wario-land-2-s2.png",
       "images/gb/gb-wario-land-2-title.png"
     ],
-    "cover": "images/gb/gb-wario-land-2-box.jpg"
+    "cover": "images/gb/gb-wario-land-2-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版平台动作，仅像素风相近"
   },
   {
     "id": "gb-kirbys-dream-land-2",
@@ -982,7 +1023,9 @@
       "images/gb/gb-kirbys-dream-land-2-s1.png",
       "images/gb/gb-kirbys-dream-land-2-title.png"
     ],
-    "cover": "images/gb/gb-kirbys-dream-land-2-box.jpg"
+    "cover": "images/gb/gb-kirbys-dream-land-2-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版平台跳跃，仅像素风相近"
   },
   {
     "id": "gb-castlevania-2-belmonts-revenge",
@@ -1030,7 +1073,9 @@
       "images/gb/gb-castlevania-2-belmonts-revenge-s1.png",
       "images/gb/gb-castlevania-2-belmonts-revenge-title.png"
     ],
-    "cover": "images/gb/gb-castlevania-2-belmonts-revenge-box.jpg"
+    "cover": "images/gb/gb-castlevania-2-belmonts-revenge-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版动作，仅像素风相近"
   },
   {
     "id": "gb-dragon-warrior-monsters-2",
@@ -1080,7 +1125,9 @@
       "images/gb/gb-dragon-warrior-monsters-2-x2.png",
       "images/gb/gb-dragon-warrior-monsters-2-title.png"
     ],
-    "cover": "images/gb/gb-dragon-warrior-monsters-2-box.jpg"
+    "cover": "images/gb/gb-dragon-warrior-monsters-2-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG，城镇商店可自由逛"
   },
   {
     "id": "gb-mario-tennis",
@@ -1129,7 +1176,9 @@
       "images/gb/gb-mario-tennis-s2.png",
       "images/gb/gb-mario-tennis-title.png"
     ],
-    "cover": "images/gb/gb-mario-tennis-box.jpg"
+    "cover": "images/gb/gb-mario-tennis-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "运动游戏，仅俯视角学院行走沾边"
   },
   {
     "id": "gb-metroid-2",
@@ -1179,7 +1228,9 @@
       "images/gb/gb-metroid-2-x2.png",
       "images/gb/gb-metroid-2-title.png"
     ],
-    "cover": "images/gb/gb-metroid-2-box.jpg"
+    "cover": "images/gb/gb-metroid-2-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版探索动作，无城镇商店"
   },
   {
     "id": "gb-final-fantasy-legend-2",
@@ -1225,9 +1276,13 @@
     "is2D": true,
     "screenshots": [
       "images/gb/gb-final-fantasy-legend-2-s1.png",
+      "images/gb/gb-final-fantasy-legend-2-x1.jpg",
+      "images/gb/gb-final-fantasy-legend-2-x2.jpg",
       "images/gb/gb-final-fantasy-legend-2-title.png"
     ],
-    "cover": "images/gb/gb-final-fantasy-legend-2-box.jpg"
+    "cover": "images/gb/gb-final-fantasy-legend-2-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG，城镇商店自由探索"
   },
   {
     "id": "gb-mega-man-5",
@@ -1275,7 +1330,9 @@
       "images/gb/gb-mega-man-5-s1.png",
       "images/gb/gb-mega-man-5-title.png"
     ],
-    "cover": "images/gb/gb-mega-man-5-box.jpg"
+    "cover": "images/gb/gb-mega-man-5-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版动作，仅像素风相近"
   },
   {
     "id": "gb-operation-c",
@@ -1323,7 +1380,9 @@
       "images/gb/gb-operation-c-s1.png",
       "images/gb/gb-operation-c-title.png"
     ],
-    "cover": "images/gb/gb-operation-c-box.jpg"
+    "cover": "images/gb/gb-operation-c-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "射击游戏，与参考图无关"
   },
   {
     "id": "gb-super-mario-land",
@@ -1372,7 +1431,9 @@
       "images/gb/gb-super-mario-land-s2.png",
       "images/gb/gb-super-mario-land-title.png"
     ],
-    "cover": "images/gb/gb-super-mario-land-box.jpg"
+    "cover": "images/gb/gb-super-mario-land-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版平台跳跃，仅像素风相近"
   },
   {
     "id": "gb-pokemon-puzzle-challenge",
@@ -1422,7 +1483,55 @@
       "images/gb/gb-pokemon-puzzle-challenge-x1.png",
       "images/gb/gb-pokemon-puzzle-challenge-title.png"
     ],
-    "cover": "images/gb/gb-pokemon-puzzle-challenge-box.jpg"
+    "cover": "images/gb/gb-pokemon-puzzle-challenge-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "消除益智游戏，与参考图无关"
+  },
+  {
+    "id": "gb-star-ocean-blue-sphere",
+    "title": "Star Ocean: Blue Sphere",
+    "titleZh": "星之海洋 蓝色天体",
+    "titleJa": "スターオーシャン ブルースフィア",
+    "year": 2001,
+    "developer": "tri-Ace",
+    "publisher": "Enix",
+    "genre": "角色扮演",
+    "tags": [
+      "日版独占",
+      "俯视角",
+      "私人行动"
+    ],
+    "players": "1-2",
+    "tagline": "《星海2》正统续篇，GBC上的tri-Ace野心作",
+    "description": "《星之海洋 第二次故事》两年后，克劳德、蕾娜、阿修顿等熟悉的伙伴再度集结，为了调查神秘行星“艾迪法尔”上的异变而展开冒险。谁也没想到，tri-Ace居然把这部系列正统续作做在了小小的GBC上！\n\n俯视角像素画面细致明亮，城镇里可以自由闲逛、与居民对话，系列招牌的“私人行动”也完整保留，角色之间的好感度会影响结局。战斗采用即时制，配合技能与道具创造系统，玩法相当丰富。樱庭统的配乐在GBC音源下依旧热血沸腾。\n\n这款日版独占作品从未推出官方英文版，却是GBC末期最有分量的RPG之一，星海粉丝千万别错过。",
+    "highlights": [
+      "《星之海洋2》的正统后日谈",
+      "私人行动与好感度多结局",
+      "即时战斗与道具创造系统",
+      "樱庭统作曲"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "31/40",
+        "quote": "把系列精髓带上掌机，内容扎实"
+      },
+      {
+        "source": "RPGamer",
+        "score": "4/5",
+        "quote": "GBC上少见的高水准RPG"
+      }
+    ],
+    "editorScore": 8.4,
+    "is2D": true,
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG，城镇自由闲逛",
+    "screenshots": [
+      "images/gb/gb-star-ocean-blue-sphere-s1.png",
+      "images/gb/gb-star-ocean-blue-sphere-x1.png",
+      "images/gb/gb-star-ocean-blue-sphere-title.png"
+    ],
+    "cover": "images/gb/gb-star-ocean-blue-sphere-box.jpg"
   },
   {
     "id": "gb-shantae",
@@ -1469,9 +1578,13 @@
     "is2D": true,
     "screenshots": [
       "images/gb/gb-shantae-s1.png",
+      "images/gb/gb-shantae-x1.jpg",
+      "images/gb/gb-shantae-x2.jpg",
       "images/gb/gb-shantae-title.png"
     ],
-    "cover": "images/gb/gb-shantae-box.jpg"
+    "cover": "images/gb/gb-shantae-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "横版探索，有城镇商店可逛"
   },
   {
     "id": "gb-final-fantasy-legend",
@@ -1520,7 +1633,9 @@
       "images/gb/gb-final-fantasy-legend-s2.png",
       "images/gb/gb-final-fantasy-legend-title.png"
     ],
-    "cover": "images/gb/gb-final-fantasy-legend-box.jpg"
+    "cover": "images/gb/gb-final-fantasy-legend-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG，城镇商店自由探索"
   },
   {
     "id": "gb-survival-kids",
@@ -1570,7 +1685,9 @@
       "images/gb/gb-survival-kids-x1.png",
       "images/gb/gb-survival-kids-title.png"
     ],
-    "cover": "images/gb/gb-survival-kids-box.jpg"
+    "cover": "images/gb/gb-survival-kids-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "俯视角像素冒险，但无村庄商店"
   },
   {
     "id": "gb-kirbys-dream-land",
@@ -1618,7 +1735,9 @@
       "images/gb/gb-kirbys-dream-land-s1.png",
       "images/gb/gb-kirbys-dream-land-title.png"
     ],
-    "cover": "images/gb/gb-kirbys-dream-land-box.jpg"
+    "cover": "images/gb/gb-kirbys-dream-land-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版平台跳跃，仅像素风相近"
   },
   {
     "id": "gb-donkey-kong-land",
@@ -1667,7 +1786,9 @@
       "images/gb/gb-donkey-kong-land-x1.png",
       "images/gb/gb-donkey-kong-land-title.png"
     ],
-    "cover": "images/gb/gb-donkey-kong-land-box.jpg"
+    "cover": "images/gb/gb-donkey-kong-land-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版平台跳跃，仅像素风相近"
   },
   {
     "id": "gb-pokemon-tcg",
@@ -1717,7 +1838,9 @@
       "images/gb/gb-pokemon-tcg-s3.png",
       "images/gb/gb-pokemon-tcg-title.png"
     ],
-    "cover": "images/gb/gb-pokemon-tcg-box.jpg"
+    "cover": "images/gb/gb-pokemon-tcg-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "俯视角走动俱乐部，对战为卡牌"
   },
   {
     "id": "gb-pokemon-pinball",
@@ -1762,7 +1885,9 @@
       "images/gb/gb-pokemon-pinball-s3.png",
       "images/gb/gb-pokemon-pinball-title.png"
     ],
-    "cover": "images/gb/gb-pokemon-pinball-box.jpg"
+    "cover": "images/gb/gb-pokemon-pinball-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "弹珠台游戏，与参考图无关"
   },
   {
     "id": "gb-final-fantasy-legend-3",
@@ -1811,7 +1936,60 @@
       "images/gb/gb-final-fantasy-legend-3-x1.png",
       "images/gb/gb-final-fantasy-legend-3-title.png"
     ],
-    "cover": "images/gb/gb-final-fantasy-legend-3-box.jpg"
+    "cover": "images/gb/gb-final-fantasy-legend-3-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG，城镇商店自由探索"
+  },
+  {
+    "id": "gb-magi-nation",
+    "title": "Magi Nation",
+    "titleZh": "魔法国度",
+    "titleJa": "",
+    "year": 2001,
+    "developer": "Interactive Imagination",
+    "publisher": "Interactive Imagination",
+    "genre": "角色扮演",
+    "tags": [
+      "美式日系RPG",
+      "召唤",
+      "遗珠"
+    ],
+    "players": "1",
+    "tagline": "美国人做的日式RPG，GBC末期的意外之喜",
+    "description": "普通少年托尼·琼斯掉进一个神秘洞穴，醒来时已身处“月之国度”——一个由多个风格迥异的地域组成的奇幻世界。这款由美国团队打造、改编自同名集换卡牌的RPG，却有着地道的日式RPG手感。\n\n托尼可以召唤“梦之生物”参战，收集与培养它们是冒险的一大乐趣；俯视角像素画面色彩鲜艳，村庄、洞窟、森林等场景细致耐看，城镇中可以自由与居民交谈、购买道具。剧情幽默轻松，难度适中。\n\n它在当年几乎无人问津，如今却被许多欧美玩家视为GBC上被埋没的RPG遗珠。",
+    "highlights": [
+      "改编自同名集换卡牌游戏",
+      "召唤并培养“梦之生物”",
+      "鲜艳细致的俯视角像素画面",
+      "GameRankings 86%的高评价"
+    ],
+    "reviews": [
+      {
+        "source": "Game Informer",
+        "score": "8.75/10",
+        "quote": "出人意料的优秀掌机RPG"
+      },
+      {
+        "source": "EGM",
+        "score": "8/10",
+        "quote": "有着日式风味的扎实冒险"
+      },
+      {
+        "source": "Nintendo Power",
+        "score": "4/5",
+        "quote": "画面与系统都令人满意"
+      }
+    ],
+    "editorScore": 8.0,
+    "is2D": true,
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG，村庄城镇自由探索",
+    "screenshots": [
+      "images/gb/gb-magi-nation-s1.png",
+      "images/gb/gb-magi-nation-x1.png",
+      "images/gb/gb-magi-nation-title.png"
+    ],
+    "cover": "images/gb/gb-magi-nation-box.jpg"
   },
   {
     "id": "gb-harvest-moon-gb",
@@ -1861,7 +2039,9 @@
       "images/gb/gb-harvest-moon-gb-s3.png",
       "images/gb/gb-harvest-moon-gb-title.png"
     ],
-    "cover": "images/gb/gb-harvest-moon-gb-box.jpg"
+    "cover": "images/gb/gb-harvest-moon-gb-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素牧场生活，村镇自由行走"
   },
   {
     "id": "gb-mole-mania",
@@ -1911,7 +2091,50 @@
       "images/gb/gb-mole-mania-x1.png",
       "images/gb/gb-mole-mania-title.png"
     ],
-    "cover": "images/gb/gb-mole-mania-box.jpg"
+    "cover": "images/gb/gb-mole-mania-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "俯视角解谜游戏，无城镇探索"
+  },
+  {
+    "id": "gb-devil-children",
+    "title": "Shin Megami Tensei: Devil Children Black Book / Red Book",
+    "titleZh": "真·女神转生 恶魔之子 黑之书／赤之书",
+    "titleJa": "真・女神転生デビルチルドレン 黒の書・赤の書",
+    "year": 2000,
+    "developer": "Multimedia Intelligence Transfer",
+    "publisher": "Atlus",
+    "genre": "角色扮演",
+    "tags": [
+      "日版独占",
+      "恶魔合体",
+      "双版本"
+    ],
+    "players": "1-2",
+    "tagline": "女神转生的少年版，恶魔合体也能萌",
+    "description": "少年刹那（黑之书）与未来（赤之书）意外得知自己是“恶魔之子”，带着搭档恶魔踏入魔界，卷入天使与恶魔的纷争。Atlus把硬派的女神转生世界观换成了少年漫画风格，正面迎战当年的宝可梦热潮。\n\n系列招牌的“恶魔合体”是本作最大的乐趣：把两只恶魔合体诞生新恶魔，继承技能、培养最强阵容，深度一点不输本家。俯视角像素地图上有城镇、商店与迷宫，节奏轻快，两个版本还能连线交换与对战。\n\n日本人气之高，衍生出动画与漫画。想体验“少年版女神转生”，这对双子卡带不容错过。",
+    "highlights": [
+      "恶魔合体系统深度十足",
+      "黑之书与赤之书双版本",
+      "少年漫画风格的女神转生",
+      "衍生动画与漫画的人气作"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "28/40",
+        "quote": "恶魔合体非常有趣，是本作最大的魅力"
+      }
+    ],
+    "editorScore": 7.9,
+    "is2D": true,
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG，有城镇商店迷宫",
+    "screenshots": [
+      "images/gb/gb-devil-children-s1.png",
+      "images/gb/gb-devil-children-x1.png",
+      "images/gb/gb-devil-children-title.png"
+    ],
+    "cover": "images/gb/gb-devil-children-box.jpg"
   },
   {
     "id": "gb-kid-dracula",
@@ -1961,6 +2184,353 @@
       "images/gb/gb-kid-dracula-x1.png",
       "images/gb/gb-kid-dracula-title.png"
     ],
-    "cover": "images/gb/gb-kid-dracula-box.jpg"
+    "cover": "images/gb/gb-kid-dracula-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版平台动作，仅像素风相近"
+  },
+  {
+    "id": "gb-harvest-moon-2-gbc",
+    "title": "Harvest Moon 2 GBC",
+    "titleZh": "牧场物语GB2",
+    "titleJa": "牧場物語GB2",
+    "year": 1999,
+    "developer": "Victor Interactive Software",
+    "publisher": "Victor Interactive Software（日）／Natsume（美）",
+    "genre": "模拟经营",
+    "tags": [
+      "种田",
+      "四季",
+      "慢生活"
+    ],
+    "players": "1",
+    "tagline": "守护牧场不被乐园吞并，彩色版牧场生活",
+    "description": "这一次，牧场所在的土地面临被开发成游乐园的危机！主角必须在三年内把荒废的牧场经营得有声有色，才能守住这片乡土。GBC的全彩画面让四季风景更加生动：春天的嫩芽、夏天的烈日、秋天的落叶与冬天的白雪。\n\n可以选择男主角或女主角，开垦、播种、浇水、收获，养牛养羊养鸡，镇上还有各种居民与节日活动。工具升级、牧场扩建、家畜品评会……每一天都有事可做，又从不催促你。\n\n比起前作，本作内容更丰富、节奏更舒服，是GBC上最值得玩的牧场物语。",
+    "highlights": [
+      "守护牧场的三年目标",
+      "可选男女主角",
+      "全彩四季风景",
+      "畜牧品评会与节日活动"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "30/40",
+        "quote": "内容比前作更丰富，令人沉迷"
+      },
+      {
+        "source": "Nintendo Power",
+        "score": "7.6/10",
+        "quote": "悠闲又耐玩的掌机牧场"
+      },
+      {
+        "source": "IGN",
+        "score": "7/10",
+        "quote": "系列粉丝会喜欢的续作"
+      }
+    ],
+    "editorScore": 7.8,
+    "is2D": true,
+    "styleMatch": 3,
+    "styleNote": "俯视角像素牧场生活，村镇自由行走",
+    "screenshots": [
+      "images/gb/gb-harvest-moon-2-gbc-s1.png",
+      "images/gb/gb-harvest-moon-2-gbc-s2.png",
+      "images/gb/gb-harvest-moon-2-gbc-title.png"
+    ],
+    "cover": "images/gb/gb-harvest-moon-2-gbc-box.jpg"
+  },
+  {
+    "id": "gb-revelations-demon-slayer",
+    "title": "Revelations: The Demon Slayer",
+    "titleZh": "女神转生外传 最后的圣经",
+    "titleJa": "女神転生外伝 ラストバイブル",
+    "year": 1992,
+    "developer": "Multimedia Intelligence Transfer",
+    "publisher": "Atlus",
+    "genre": "角色扮演",
+    "tags": [
+      "魔兽交涉",
+      "合体",
+      "女神转生外传"
+    ],
+    "players": "1",
+    "tagline": "剑与魔法版女神转生，GB上的魔兽合体RPG",
+    "description": "不同于本家的现代都市，《最后的圣经》把舞台搬到了剑与魔法的奇幻世界：少年艾尔在魔法学校修行，最终卷入席卷大陆的魔兽之乱。系列核心的“魔兽交涉”与“合体”系统完整保留，与敌人对话说服其成为伙伴，再合成更强的魔兽。\n\n俯视角像素地图上，城镇、商店与迷宫一应俱全，第一人称的回合制战斗充满老派日式RPG风味。1999年，它以GBC彩色版的形式登陆北美，改名《Revelations: The Demon Slayer》，成为不少欧美玩家接触女神转生的起点。\n\n想用另一种视角认识Atlus的恶魔系列？这部掌机外传值得一试。",
+    "highlights": [
+      "魔兽交涉与合体系统",
+      "剑与魔法风格的女神转生外传",
+      "城镇、商店与迷宫的经典RPG结构",
+      "1999年GBC彩色版登陆北美"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "25/40",
+        "quote": "系列系统移植到奇幻世界，颇具新意"
+      },
+      {
+        "source": "GameSpot",
+        "score": "7.2/10",
+        "quote": "（GBC版）扎实的老派RPG"
+      }
+    ],
+    "editorScore": 7.6,
+    "is2D": true,
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG，城镇商店齐全",
+    "screenshots": [
+      "images/gb/gb-revelations-demon-slayer-s1.png",
+      "images/gb/gb-revelations-demon-slayer-x1.png",
+      "images/gb/gb-revelations-demon-slayer-title.png"
+    ],
+    "cover": "images/gb/gb-revelations-demon-slayer-box.jpg"
+  },
+  {
+    "id": "gb-hamtaro-ham-hams-unite",
+    "title": "Hamtaro: Ham-Hams Unite!",
+    "titleZh": "哈姆太郎 集合吧！哈姆仔们",
+    "titleJa": "とっとこハム太郎2 ハムちゃんず大集合でちゅ",
+    "year": 2001,
+    "developer": "Pax Softnica",
+    "publisher": "Nintendo",
+    "genre": "冒险",
+    "tags": [
+      "俯视角",
+      "收集词汇",
+      "治愈"
+    ],
+    "players": "1",
+    "tagline": "仓鼠视角的小镇冒险，治愈系满分",
+    "description": "动画《哈姆太郎》的小仓鼠们要在小镇里找回失散的伙伴！玩家操作哈姆太郎，在俯视角的小镇、公园、学校间穿梭，通过与居民对话收集多达86个“哈姆语”，再用这些词汇解决谜题、推进剧情。\n\n“哈姆语”系统非常有趣，比如“鞠躬”“挖洞”“跳舞”等动作都能在特定场合派上用场。画面色彩明亮可爱，每个角落都有小惊喜，还有舞蹈与时装等小游戏。本作由宫本茂担任监制。\n\n它看似面向小朋友，实际上是一款结构完整的俯视角冒险游戏，喜欢悠闲探索的大朋友也会被它治愈。",
+    "highlights": [
+      "收集86个哈姆语解决谜题",
+      "俯视角小镇自由探索",
+      "宫本茂担任监制",
+      "舞蹈、时装等小游戏"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "28/40",
+        "quote": "可爱又有趣的冒险游戏"
+      },
+      {
+        "source": "IGN",
+        "score": "8/10",
+        "quote": "适合全年龄的优秀冒险游戏"
+      },
+      {
+        "source": "GamePro",
+        "score": "4/5",
+        "quote": "可爱而有内涵"
+      }
+    ],
+    "editorScore": 7.6,
+    "is2D": true,
+    "styleMatch": 3,
+    "styleNote": "俯视角像素小镇冒险，可与居民交谈",
+    "screenshots": [
+      "images/gb/gb-hamtaro-ham-hams-unite-s1.png",
+      "images/gb/gb-hamtaro-ham-hams-unite-s2.png",
+      "images/gb/gb-hamtaro-ham-hams-unite-title.png"
+    ],
+    "cover": "images/gb/gb-hamtaro-ham-hams-unite-box.jpg"
+  },
+  {
+    "id": "gb-bomberman-quest",
+    "title": "Bomberman Quest",
+    "titleZh": "炸弹人任务",
+    "titleJa": "ボンバーマンクエスト",
+    "year": 1998,
+    "developer": "Eleven",
+    "publisher": "Hudson Soft",
+    "genre": "动作角色扮演",
+    "tags": [
+      "俯视角",
+      "ARPG",
+      "炸弹",
+      "遗珠"
+    ],
+    "players": "1-2",
+    "tagline": "炸弹人变身ARPG，像素版塞尔达式冒险",
+    "description": "炸弹人驾驶的飞船坠毁在神秘星球，零件散落各地——这一次，他不再闯关卡，而是在一个开放的世界中展开塞尔达式的冒险！从和平镇出发，穿越原野、森林、海滩、沙漠等区域，向居民打听情报、寻找丢失的零件。\n\n炸弹依旧是主要武器，但可以装备不同的炸弹零件改变效果；击败怪物还能学会新能力，强化移动与战斗。俯视角像素画面明快可爱，城镇与野外的探索节奏很像《织梦岛》。另有支持连线的对战模式。\n\n评价虽然中规中矩，但它是炸弹人系列中最具RPG味道的一作，喜欢俯视角ARPG的玩家值得一试。",
+    "highlights": [
+      "开放式俯视角ARPG冒险",
+      "炸弹零件与能力成长",
+      "和平镇等多个区域探索",
+      "连线对战模式"
+    ],
+    "reviews": [
+      {
+        "source": "RPGFan",
+        "score": "66%",
+        "quote": "将炸弹人与ARPG结合的有趣尝试"
+      }
+    ],
+    "editorScore": 7.4,
+    "is2D": true,
+    "styleMatch": 3,
+    "styleNote": "俯视角像素ARPG，有城镇与野外探索",
+    "screenshots": [
+      "images/gb/gb-bomberman-quest-s1.png",
+      "images/gb/gb-bomberman-quest-s2.png",
+      "images/gb/gb-bomberman-quest-s3.png",
+      "images/gb/gb-bomberman-quest-title.png"
+    ],
+    "cover": "images/gb/gb-bomberman-quest-box.jpg"
+  },
+  {
+    "id": "gb-lufia-legend-returns",
+    "title": "Lufia: The Legend Returns",
+    "titleZh": "四狂神战记 复苏的传说",
+    "titleJa": "エストポリス伝記 よみがえる伝説",
+    "year": 2001,
+    "developer": "Neverland",
+    "publisher": "Taito（日）／Natsume（美）",
+    "genre": "角色扮演",
+    "tags": [
+      "随机迷宫",
+      "九人编队",
+      "系列外传"
+    ],
+    "players": "1",
+    "tagline": "四狂神战记的掌机续篇，九人阵型大乱斗",
+    "description": "SFC名作《四狂神战记》的掌机续篇！故事发生在前作百年之后，少年维恩发现自己与传说中的英雄马克西姆有着不解之缘，于是踏上了对抗再度复苏的四狂神之旅。\n\n本作最大的特色是3×3的九人编队战斗：九名伙伴排成阵型，每一列可同时行动，攻击敌人的不同位置，策略性十足。迷宫采用随机生成，每次进入都不一样，系列招牌的“古代洞窟”也以新形态回归。城镇与世界地图则是经典的俯视角像素风格。\n\n媒体评价虽然褒贬不一，但对于喜欢挑战与刷迷宫的RPG玩家，它仍是值得一试的系列外传。",
+    "highlights": [
+      "3×3九人编队战斗",
+      "随机生成的迷宫",
+      "《四狂神战记》百年后的故事",
+      "古代洞窟回归"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "26/40",
+        "quote": "阵型战斗有新意，迷宫随机生成耐玩"
+      },
+      {
+        "source": "Nintendo Power",
+        "score": "3/5",
+        "quote": "系统独特但节奏稍慢"
+      },
+      {
+        "source": "Nintendojo",
+        "score": "6.8/10",
+        "quote": "有亮点也有不足的系列外传"
+      }
+    ],
+    "editorScore": 7.3,
+    "is2D": true,
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG，城镇与迷宫自由探索",
+    "screenshots": [
+      "images/gb/gb-lufia-legend-returns-s1.png",
+      "images/gb/gb-lufia-legend-returns-s2.png",
+      "images/gb/gb-lufia-legend-returns-title.png"
+    ],
+    "cover": "images/gb/gb-lufia-legend-returns-box.jpg"
+  },
+  {
+    "id": "gb-robopon-sun",
+    "title": "Robopon Sun Version",
+    "titleZh": "机器人碰扣兹 太阳版",
+    "titleJa": "ロボットポンコッツ 太陽バージョン",
+    "year": 1998,
+    "developer": "Hudson Soft / Red Company",
+    "publisher": "Hudson Soft（日）／Atlus（美）",
+    "genre": "角色扮演",
+    "tags": [
+      "机器人收集",
+      "养成",
+      "通信对战"
+    ],
+    "players": "1-2",
+    "tagline": "哈德森版“宝可梦”，收集组装机器人",
+    "description": "宝可梦大热之后，哈德森与Red Company联手推出了这款以机器人为主角的收集养成RPG。主角要收集、培养被称为“Robopon”的小机器人，在各地挑战对手，并为失踪的爷爷寻找线索。\n\n机器人可以通过装备零件与软件改变能力和技能，组装玩法颇有特色；俯视角的城镇与原野可自由探索，商店、研究所一应俱全。日版分为太阳、星星、月亮多个版本，可通过连线交换与对战。\n\n虽然评价不及宝可梦，但它独特的机械风格与幽默对白，仍让它成为GBC上一款有趣的怪物收集RPG。",
+    "highlights": [
+      "收集与培养小机器人",
+      "零件与软件改造能力",
+      "多版本连线交换对战",
+      "哈德森与Red Company联手打造"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "28/40",
+        "quote": "机器人收集与改造颇具特色"
+      },
+      {
+        "source": "EGM",
+        "score": "7.5/10",
+        "quote": "有趣的宝可梦式收集RPG"
+      },
+      {
+        "source": "IGN",
+        "score": "7/10",
+        "quote": "扎实但缺乏惊喜"
+      }
+    ],
+    "editorScore": 7.2,
+    "is2D": true,
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG，城镇商店自由探索",
+    "screenshots": [
+      "images/gb/gb-robopon-sun-s1.png",
+      "images/gb/gb-robopon-sun-x1.png",
+      "images/gb/gb-robopon-sun-title.png"
+    ],
+    "cover": "images/gb/gb-robopon-sun-box.jpg"
+  },
+  {
+    "id": "gb-legend-of-the-river-king",
+    "title": "Legend of the River King",
+    "titleZh": "川之主钓り3（GB版）",
+    "titleJa": "川のぬし釣り3",
+    "year": 1997,
+    "developer": "Tose",
+    "publisher": "Pack-In-Video（日）／Natsume（美）",
+    "genre": "角色扮演",
+    "tags": [
+      "钓鱼RPG",
+      "俯视角",
+      "慢生活"
+    ],
+    "players": "1",
+    "tagline": "钓鱼也能练级，寻找传说之鱼的乡间冒险",
+    "description": "少年的妹妹身染怪病，唯一的解药据说藏在传说中的“川之主”身上——于是他拿起鱼竿，走遍乡间的河川湖泊。这是一款独特的“钓鱼RPG”：钓到的鱼就是经验值，等级提升后体力与技巧随之成长。\n\n俯视角的乡村、城镇与山林可以自由探索，路上还会遇到野兽战斗；商店里能买鱼饵与道具，钓到的鱼也可以卖钱。不同地点、季节与鱼饵对应不同鱼种，收集图鉴的乐趣不输任何RPG。\n\n画面朴素而宁静，日式田园风情浓厚。想在像素世界里享受一段悠闲时光？带上鱼竿出发吧。",
+    "highlights": [
+      "钓鱼即练级的独特RPG系统",
+      "俯视角乡间自由探索",
+      "丰富的鱼种收集",
+      "日式田园风情"
+    ],
+    "reviews": [
+      {
+        "source": "Nintendo Power",
+        "score": "7.4/10",
+        "quote": "独特而耐玩的钓鱼冒险"
+      },
+      {
+        "source": "IGN",
+        "score": "7/10",
+        "quote": "钓鱼与RPG的有趣结合"
+      },
+      {
+        "source": "Fami通",
+        "score": "23/40",
+        "quote": "题材独特，但节奏偏慢"
+      }
+    ],
+    "editorScore": 7.1,
+    "is2D": true,
+    "styleMatch": 3,
+    "styleNote": "俯视角像素乡村，城镇商店自由探索",
+    "screenshots": [
+      "images/gb/gb-legend-of-the-river-king-s1.png",
+      "images/gb/gb-legend-of-the-river-king-s2.png",
+      "images/gb/gb-legend-of-the-river-king-s3.png",
+      "images/gb/gb-legend-of-the-river-king-title.png"
+    ],
+    "cover": "images/gb/gb-legend-of-the-river-king-box.jpg"
   }
 ]

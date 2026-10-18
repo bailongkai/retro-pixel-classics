@@ -1,10 +1,11 @@
 # 像素宝典 PIXEL CLASSICS
 
-怀旧游戏推荐特辑 —— 以 90 年代游戏杂志风格，收录 FC / SFC / GB / GBA / NDS / MD / MCD / GG / SS / DC / PS / PS2 / PSP / PCE / NEO·GEO / NGP / WS 共 17 个平台、近 600 款 2D 名作的推荐、介绍、媒体评价、游戏截图与包装。
+怀旧游戏推荐特辑 —— 以 90 年代游戏杂志风格，收录 FC / SFC / GB / GBA / NDS / MD / MCD / GG / SS / DC / PS / PS2 / PSP / PCE / NEO·GEO / NGP / WS 共 17 个平台、700 余款 2D 名作的推荐、介绍、媒体评价、游戏截图与包装。
 
 - 纯静态站点（HTML + CSS + 原生 JS），无需构建，直接部署到 GitHub Pages
 - 适配手机与桌面
 - 支持平台筛选、类型筛选、只看 2D、排序、全局搜索、截图大图浏览
+- 「风格匹配」评级（styleMatch 0–3）：以俯视角 2D 像素日式 RPG/ARPG 村庄画面为基准，标出「同款」「近似」游戏，评级标准见 `tools/STYLE_SPEC.md`
 
 ## 目录结构
 
@@ -31,6 +32,7 @@ python3 tools/thumbs.py <平台> --list "游戏名"            # 在 libretro-th
 python3 tools/thumbs.py <平台> <id> "精确名称 (Japan)"     # 下载游戏画面/标题画面/包装
 python3 tools/validate.py [平台]                         # 校验数据与图片
 python3 tools/dedupe.py [--apply] [平台]                  # 去除重复截图（需要 Pillow）
+python3 tools/hd_covers.py --match | --download [平台]     # 从 LaunchBox 获取高清包装
 ```
 
 ## 添加游戏

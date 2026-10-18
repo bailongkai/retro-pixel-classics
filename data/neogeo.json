@@ -47,7 +47,9 @@
       "images/neogeo/neogeo-metal-slug-x1.png",
       "images/neogeo/neogeo-metal-slug-title.png"
     ],
-    "cover": "images/neogeo/neogeo-metal-slug-box.jpg"
+    "cover": "images/neogeo/neogeo-metal-slug-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "横版跑射射击，非俯视角RPG"
   },
   {
     "id": "neogeo-metal-slug-x",
@@ -97,7 +99,9 @@
       "images/neogeo/neogeo-metal-slug-x-s2.png",
       "images/neogeo/neogeo-metal-slug-x-title.png"
     ],
-    "cover": "images/neogeo/neogeo-metal-slug-x-box.jpg"
+    "cover": "images/neogeo/neogeo-metal-slug-x-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "横版跑射射击，无城镇探索"
   },
   {
     "id": "neogeo-metal-slug-3",
@@ -148,7 +152,9 @@
       "images/neogeo/neogeo-metal-slug-3-s3.png",
       "images/neogeo/neogeo-metal-slug-3-title.png"
     ],
-    "cover": "images/neogeo/neogeo-metal-slug-3-box.jpg"
+    "cover": "images/neogeo/neogeo-metal-slug-3-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "横版跑射射击，无城镇探索"
   },
   {
     "id": "neogeo-kof-98",
@@ -199,7 +205,9 @@
       "images/neogeo/neogeo-kof-98-s3.png",
       "images/neogeo/neogeo-kof-98-title.png"
     ],
-    "cover": "images/neogeo/neogeo-kof-98-box.jpg"
+    "cover": "images/neogeo/neogeo-kof-98-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "2D格斗游戏，玩法完全不同"
   },
   {
     "id": "neogeo-garou-motw",
@@ -245,7 +253,9 @@
       "images/neogeo/neogeo-garou-motw-s3.png",
       "images/neogeo/neogeo-garou-motw-title.png"
     ],
-    "cover": "images/neogeo/neogeo-garou-motw-box.jpg"
+    "cover": "images/neogeo/neogeo-garou-motw-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "2D格斗游戏，玩法完全不同"
   },
   {
     "id": "neogeo-samurai-shodown-2",
@@ -294,7 +304,9 @@
       "images/neogeo/neogeo-samurai-shodown-2-s1.png",
       "images/neogeo/neogeo-samurai-shodown-2-title.png"
     ],
-    "cover": "images/neogeo/neogeo-samurai-shodown-2-box.jpg"
+    "cover": "images/neogeo/neogeo-samurai-shodown-2-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "武器格斗游戏，无探索要素"
   },
   {
     "id": "neogeo-last-blade-2",
@@ -344,7 +356,9 @@
       "images/neogeo/neogeo-last-blade-2-s2.png",
       "images/neogeo/neogeo-last-blade-2-title.png"
     ],
-    "cover": "images/neogeo/neogeo-last-blade-2-box.jpg"
+    "cover": "images/neogeo/neogeo-last-blade-2-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "武器格斗游戏，无探索要素"
   },
   {
     "id": "neogeo-blazing-star",
@@ -393,7 +407,9 @@
       "images/neogeo/neogeo-blazing-star-s1.png",
       "images/neogeo/neogeo-blazing-star-title.png"
     ],
-    "cover": "images/neogeo/neogeo-blazing-star-box.jpg"
+    "cover": "images/neogeo/neogeo-blazing-star-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "横版射击，预渲染画风"
   },
   {
     "id": "neogeo-last-blade",
@@ -444,7 +460,9 @@
       "images/neogeo/neogeo-last-blade-s3.png",
       "images/neogeo/neogeo-last-blade-title.png"
     ],
-    "cover": "images/neogeo/neogeo-last-blade-box.jpg"
+    "cover": "images/neogeo/neogeo-last-blade-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "武器格斗游戏，无探索要素"
   },
   {
     "id": "neogeo-kof-97",
@@ -490,7 +508,9 @@
       "images/neogeo/neogeo-kof-97-s3.png",
       "images/neogeo/neogeo-kof-97-title.png"
     ],
-    "cover": "images/neogeo/neogeo-kof-97-box.jpg"
+    "cover": "images/neogeo/neogeo-kof-97-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "2D格斗游戏，玩法完全不同"
   },
   {
     "id": "neogeo-samurai-shodown",
@@ -536,7 +556,9 @@
       "images/neogeo/neogeo-samurai-shodown-s3.png",
       "images/neogeo/neogeo-samurai-shodown-title.png"
     ],
-    "cover": "images/neogeo/neogeo-samurai-shodown-box.jpg"
+    "cover": "images/neogeo/neogeo-samurai-shodown-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "武器格斗游戏，无探索要素"
   },
   {
     "id": "neogeo-fatal-fury-special",
@@ -587,7 +609,9 @@
       "images/neogeo/neogeo-fatal-fury-special-s3.png",
       "images/neogeo/neogeo-fatal-fury-special-title.png"
     ],
-    "cover": "images/neogeo/neogeo-fatal-fury-special-box.jpg"
+    "cover": "images/neogeo/neogeo-fatal-fury-special-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "2D格斗游戏，玩法完全不同"
   },
   {
     "id": "neogeo-twinkle-star-sprites",
@@ -632,7 +656,9 @@
       "images/neogeo/neogeo-twinkle-star-sprites-x1.png",
       "images/neogeo/neogeo-twinkle-star-sprites-title.png"
     ],
-    "cover": "images/neogeo/neogeo-twinkle-star-sprites-box.jpg"
+    "cover": "images/neogeo/neogeo-twinkle-star-sprites-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "对战射击，画风可爱但非RPG"
   },
   {
     "id": "neogeo-aero-fighters-2",
@@ -676,7 +702,9 @@
       "images/neogeo/neogeo-aero-fighters-2-s1.png",
       "images/neogeo/neogeo-aero-fighters-2-title.png"
     ],
-    "cover": "images/neogeo/neogeo-aero-fighters-2-box.jpg"
+    "cover": "images/neogeo/neogeo-aero-fighters-2-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "纵版射击，无探索要素"
   },
   {
     "id": "neogeo-shock-troopers",
@@ -716,7 +744,9 @@
       "images/neogeo/neogeo-shock-troopers-s2.png",
       "images/neogeo/neogeo-shock-troopers-title.png"
     ],
-    "cover": "images/neogeo/neogeo-shock-troopers-box.jpg"
+    "cover": "images/neogeo/neogeo-shock-troopers-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "俯视角射击，但无城镇与RPG要素"
   },
   {
     "id": "neogeo-windjammers",
@@ -766,7 +796,9 @@
       "images/neogeo/neogeo-windjammers-x1.png",
       "images/neogeo/neogeo-windjammers-title.png"
     ],
-    "cover": "images/neogeo/neogeo-windjammers-box.jpg"
+    "cover": "images/neogeo/neogeo-windjammers-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "飞盘体育对战"
   },
   {
     "id": "neogeo-sengoku-3",
@@ -812,7 +844,9 @@
       "images/neogeo/neogeo-sengoku-3-s3.png",
       "images/neogeo/neogeo-sengoku-3-title.png"
     ],
-    "cover": "images/neogeo/neogeo-sengoku-3-box.jpg"
+    "cover": "images/neogeo/neogeo-sengoku-3-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "像素清版动作，仅时代画风相近"
   },
   {
     "id": "neogeo-waku-waku-7",
@@ -857,7 +891,9 @@
       "images/neogeo/neogeo-waku-waku-7-x1.png",
       "images/neogeo/neogeo-waku-waku-7-title.png"
     ],
-    "cover": "images/neogeo/neogeo-waku-waku-7-box.jpg"
+    "cover": "images/neogeo/neogeo-waku-waku-7-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "2D格斗游戏，玩法完全不同"
   },
   {
     "id": "neogeo-neo-turf-masters",
@@ -897,7 +933,9 @@
       "images/neogeo/neogeo-neo-turf-masters-x1.png",
       "images/neogeo/neogeo-neo-turf-masters-title.png"
     ],
-    "cover": "images/neogeo/neogeo-neo-turf-masters-box.jpg"
+    "cover": "images/neogeo/neogeo-neo-turf-masters-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "高尔夫体育游戏"
   },
   {
     "id": "neogeo-super-sidekicks-3",
@@ -942,7 +980,9 @@
       "images/neogeo/neogeo-super-sidekicks-3-x1.png",
       "images/neogeo/neogeo-super-sidekicks-3-title.png"
     ],
-    "cover": "images/neogeo/neogeo-super-sidekicks-3-box.jpg"
+    "cover": "images/neogeo/neogeo-super-sidekicks-3-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "足球体育游戏"
   },
   {
     "id": "neogeo-pulstar",
@@ -987,7 +1027,9 @@
       "images/neogeo/neogeo-pulstar-x1.png",
       "images/neogeo/neogeo-pulstar-title.png"
     ],
-    "cover": "images/neogeo/neogeo-pulstar-box.jpg"
+    "cover": "images/neogeo/neogeo-pulstar-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "横版射击，预渲染画风"
   },
   {
     "id": "neogeo-magical-drop-3",
@@ -1032,7 +1074,9 @@
       "images/neogeo/neogeo-magical-drop-3-x1.png",
       "images/neogeo/neogeo-magical-drop-3-title.png"
     ],
-    "cover": "images/neogeo/neogeo-magical-drop-3-box.jpg"
+    "cover": "images/neogeo/neogeo-magical-drop-3-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "消除益智游戏"
   },
   {
     "id": "neogeo-kof-2002",
@@ -1072,7 +1116,9 @@
       "images/neogeo/neogeo-kof-2002-s2.png",
       "images/neogeo/neogeo-kof-2002-title.png"
     ],
-    "cover": "images/neogeo/neogeo-kof-2002-box.jpg"
+    "cover": "images/neogeo/neogeo-kof-2002-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "2D格斗游戏，玩法完全不同"
   },
   {
     "id": "neogeo-art-of-fighting-2",
@@ -1117,7 +1163,9 @@
       "images/neogeo/neogeo-art-of-fighting-2-s2.png",
       "images/neogeo/neogeo-art-of-fighting-2-title.png"
     ],
-    "cover": "images/neogeo/neogeo-art-of-fighting-2-box.jpg"
+    "cover": "images/neogeo/neogeo-art-of-fighting-2-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "2D格斗游戏，玩法完全不同"
   },
   {
     "id": "neogeo-kizuna-encounter",
@@ -1157,7 +1205,9 @@
       "images/neogeo/neogeo-kizuna-encounter-x1.png",
       "images/neogeo/neogeo-kizuna-encounter-title.png"
     ],
-    "cover": "images/neogeo/neogeo-kizuna-encounter-box.jpg"
+    "cover": "images/neogeo/neogeo-kizuna-encounter-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "2D格斗游戏，玩法完全不同"
   },
   {
     "id": "neogeo-top-hunter",
@@ -1207,7 +1257,9 @@
       "images/neogeo/neogeo-top-hunter-s2.png",
       "images/neogeo/neogeo-top-hunter-title.png"
     ],
-    "cover": "images/neogeo/neogeo-top-hunter-box.jpg"
+    "cover": "images/neogeo/neogeo-top-hunter-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版像素动作，无城镇探索"
   },
   {
     "id": "neogeo-ninja-masters",
@@ -1252,7 +1304,9 @@
       "images/neogeo/neogeo-ninja-masters-x1.png",
       "images/neogeo/neogeo-ninja-masters-title.png"
     ],
-    "cover": "images/neogeo/neogeo-ninja-masters-box.jpg"
+    "cover": "images/neogeo/neogeo-ninja-masters-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "武器格斗游戏，无探索要素"
   },
   {
     "id": "neogeo-puzzle-bobble",
@@ -1296,7 +1350,9 @@
       "images/neogeo/neogeo-puzzle-bobble-s1.png",
       "images/neogeo/neogeo-puzzle-bobble-title.png"
     ],
-    "cover": "images/neogeo/neogeo-puzzle-bobble-box.jpg"
+    "cover": "images/neogeo/neogeo-puzzle-bobble-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "泡泡消除益智游戏"
   },
   {
     "id": "neogeo-world-heroes-perfect",
@@ -1341,7 +1397,52 @@
       "images/neogeo/neogeo-world-heroes-perfect-x1.png",
       "images/neogeo/neogeo-world-heroes-perfect-title.png"
     ],
-    "cover": "images/neogeo/neogeo-world-heroes-perfect-box.jpg"
+    "cover": "images/neogeo/neogeo-world-heroes-perfect-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "2D格斗游戏，玩法完全不同"
+  },
+  {
+    "id": "neogeo-shinsetsu-samurai-spirits-rpg",
+    "title": "Shinsetsu Samurai Spirits: Bushidō Retsuden",
+    "titleZh": "真说侍魂 武士道烈传",
+    "titleJa": "真説サムライスピリッツ 武士道烈伝",
+    "year": 1997,
+    "developer": "SNK",
+    "publisher": "SNK",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "日式RPG",
+      "和风",
+      "Neo Geo CD"
+    ],
+    "players": "1",
+    "tagline": "霸王丸走进了勇者斗恶龙的世界",
+    "description": "谁能想到，以刀光剑影闻名的《侍魂》会变成一部正统日式RPG？《真说侍魂 武士道烈传》是SNK在Neo Geo CD上推出的野心之作，以《侍魂》初代与《真侍魂》的故事为蓝本，玩家可从霸王丸、娜可露露、橘右京、牙神幻十郎、查姆查姆、加尔福特六人中选择主角，从各自的视角重走那段江户末年的妖魔之乱。\n\n游戏结构就像《勇者斗恶龙》《最终幻想》：在俯视角的大地图上翻山过桥，进入村庄与城下町和百姓交谈、买装备、找铁匠锻刀附加属性，再深入迷宫讨伐妖魔。像素绘制的和风村落细腻得惊人，木屋、水井、古树、石灯笼一应俱全；战斗切换到侧视画面，甚至可以像街机一样搓招放必杀。\n\n读盘时间漫长是它当年最受诟病之处，而且从未推出日本以外的版本，语言门槛不低。但如果你热爱《侍魂》的角色，又想要一部俯视角和风像素RPG，这部Neo Geo上几乎绝无仅有的RPG值得你耐心品味。",
+    "highlights": [
+      "六名主角可选，各有专属剧情",
+      "俯视角和风村庄与大地图探索",
+      "搓招输入必杀技的回合制战斗",
+      "铁匠锻刀与属性附加系统"
+    ],
+    "reviews": [
+      {
+        "source": "电击PlayStation（PS版）",
+        "score": "55/100、85/100",
+        "quote": "两位评测者意见分歧：画面与角色演出出色，但读盘与节奏令人不满"
+      }
+    ],
+    "editorScore": 7.6,
+    "is2D": true,
+    "screenshots": [
+      "images/neogeo/neogeo-shinsetsu-samurai-spirits-rpg-x1.png",
+      "images/neogeo/neogeo-shinsetsu-samurai-spirits-rpg-x2.png",
+      "images/neogeo/neogeo-shinsetsu-samurai-spirits-rpg-s1.png",
+      "images/neogeo/neogeo-shinsetsu-samurai-spirits-rpg-title.png"
+    ],
+    "cover": "images/neogeo/neogeo-shinsetsu-samurai-spirits-rpg-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角和风像素村庄，自由探索城镇"
   },
   {
     "id": "neogeo-burning-fight",
@@ -1387,7 +1488,9 @@
       "images/neogeo/neogeo-burning-fight-s3.png",
       "images/neogeo/neogeo-burning-fight-title.png"
     ],
-    "cover": "images/neogeo/neogeo-burning-fight-box.jpg"
+    "cover": "images/neogeo/neogeo-burning-fight-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "像素清版动作，仅时代画风相近"
   },
   {
     "id": "neogeo-matrimelee",
@@ -1426,7 +1529,9 @@
       "images/neogeo/neogeo-matrimelee-s1.png",
       "images/neogeo/neogeo-matrimelee-title.png"
     ],
-    "cover": "images/neogeo/neogeo-matrimelee-box.jpg"
+    "cover": "images/neogeo/neogeo-matrimelee-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "2D格斗游戏，玩法完全不同"
   },
   {
     "id": "neogeo-robo-army",
@@ -1476,7 +1581,9 @@
       "images/neogeo/neogeo-robo-army-x1.png",
       "images/neogeo/neogeo-robo-army-title.png"
     ],
-    "cover": "images/neogeo/neogeo-robo-army-box.jpg"
+    "cover": "images/neogeo/neogeo-robo-army-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "像素清版动作，仅时代画风相近"
   },
   {
     "id": "neogeo-breakers-revenge",
@@ -1516,7 +1623,9 @@
       "images/neogeo/neogeo-breakers-revenge-x1.png",
       "images/neogeo/neogeo-breakers-revenge-title.png"
     ],
-    "cover": "images/neogeo/neogeo-breakers-revenge-box.jpg"
+    "cover": "images/neogeo/neogeo-breakers-revenge-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "2D格斗游戏，玩法完全不同"
   },
   {
     "id": "neogeo-nightmare-in-the-dark",
@@ -1555,6 +1664,8 @@
       "images/neogeo/neogeo-nightmare-in-the-dark-s1.png",
       "images/neogeo/neogeo-nightmare-in-the-dark-title.png"
     ],
-    "cover": "images/neogeo/neogeo-nightmare-in-the-dark-box.jpg"
+    "cover": "images/neogeo/neogeo-nightmare-in-the-dark-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "固定画面像素平台动作"
   }
 ]

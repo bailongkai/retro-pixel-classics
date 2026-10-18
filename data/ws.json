@@ -31,7 +31,9 @@
       "images/ws/ws-final-fantasy-iv-s1.png",
       "images/ws/ws-final-fantasy-iv-title.png"
     ],
-    "cover": "images/ws/ws-final-fantasy-iv-box.jpg"
+    "cover": "images/ws/ws-final-fantasy-iv-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素城镇与大地图，自由探索"
   },
   {
     "id": "ws-riviera",
@@ -71,7 +73,9 @@
       "images/ws/ws-riviera-s2.png",
       "images/ws/ws-riviera-title.png"
     ],
-    "cover": "images/ws/ws-riviera-box.jpg"
+    "cover": "images/ws/ws-riviera-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "像素RPG但以触发点探索，无自由行走"
   },
   {
     "id": "ws-front-mission",
@@ -111,7 +115,9 @@
       "images/ws/ws-front-mission-x1.png",
       "images/ws/ws-front-mission-title.png"
     ],
-    "cover": "images/ws/ws-front-mission-box.jpg"
+    "cover": "images/ws/ws-front-mission-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "机甲战棋，城镇仅为菜单画面"
   },
   {
     "id": "ws-romancing-saga",
@@ -151,7 +157,9 @@
       "images/ws/ws-romancing-saga-x1.png",
       "images/ws/ws-romancing-saga-title.png"
     ],
-    "cover": "images/ws/ws-romancing-saga-box.jpg"
+    "cover": "images/ws/ws-romancing-saga-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素城镇自由漫游，NPC众多"
   },
   {
     "id": "ws-gunpey",
@@ -191,7 +199,9 @@
       "images/ws/ws-gunpey-s1.png",
       "images/ws/ws-gunpey-title.png"
     ],
-    "cover": "images/ws/ws-gunpey-box.jpg"
+    "cover": "images/ws/ws-gunpey-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "益智连线游戏，与参考图无关"
   },
   {
     "id": "ws-klonoa-moonlight-museum",
@@ -231,7 +241,9 @@
       "images/ws/ws-klonoa-moonlight-museum-x1.jpg",
       "images/ws/ws-klonoa-moonlight-museum-title.png"
     ],
-    "cover": "images/ws/ws-klonoa-moonlight-museum-box.jpg"
+    "cover": "images/ws/ws-klonoa-moonlight-museum-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "黑白横版平台跳跃，仅像素风相近"
   },
   {
     "id": "ws-final-fantasy",
@@ -273,9 +285,12 @@
     "is2D": true,
     "screenshots": [
       "images/ws/ws-final-fantasy-s1.png",
+      "images/ws/ws-final-fantasy-x1.png",
       "images/ws/ws-final-fantasy-title.png"
     ],
-    "cover": "images/ws/ws-final-fantasy-box.jpg"
+    "cover": "images/ws/ws-final-fantasy-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "经典俯视角城镇、商店与大地图"
   },
   {
     "id": "ws-judgement-silversword",
@@ -316,7 +331,9 @@
       "images/ws/ws-judgement-silversword-s3.png",
       "images/ws/ws-judgement-silversword-title.png"
     ],
-    "cover": "images/ws/ws-judgement-silversword-box.jpg"
+    "cover": "images/ws/ws-judgement-silversword-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "纵版射击游戏"
   },
   {
     "id": "ws-final-fantasy-ii",
@@ -356,7 +373,45 @@
       "images/ws/ws-final-fantasy-ii-x1.png",
       "images/ws/ws-final-fantasy-ii-title.png"
     ],
-    "cover": "images/ws/ws-final-fantasy-ii-box.jpg"
+    "cover": "images/ws/ws-final-fantasy-ii-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素城镇与原野自由探索"
+  },
+  {
+    "id": "ws-star-hearts",
+    "title": "Star Hearts: Hoshi to Daichi no Shisha",
+    "titleZh": "星之心 星与大地的使者",
+    "titleJa": "スターハーツ 〜星と大地の使者〜",
+    "year": 2001,
+    "developer": "Bandai",
+    "publisher": "Bandai",
+    "genre": "动作角色扮演",
+    "tags": [
+      "俯视角",
+      "像素",
+      "精灵魔法",
+      "原创"
+    ],
+    "players": "1",
+    "tagline": "浮空岛上的WSC原创ARPG，像素满分",
+    "description": "WonderSwan Color上难得的原创俯视角动作RPG！玩家可以选择少年丹达或少女塔玛作为主角，带着一只小宠物踏上漂浮在天空中的群岛。宠物不只是吉祥物，解谜、躲避机关都少不了它帮忙。\n\n冒险的目标是寻找十二位元素精灵，学会从火、冰、雷、土到“心”与“空间”等奇特属性的魔法。旅途中能遇见多达160种妖精，有的提供情报，有的传授能力或为你疗伤；武器防具超过300种，打怪升级、换上新装备的成长感十足。\n\n翠绿的森林、圆顶小屋、木栅栏围起的牧场，再加上画面下方的HP槽——这正是“掌机版圣剑传说”式的味道。万代自家出品、名气不大，却是天鹅机上最接近经典俯视角ARPG的一款，值得像素ARPG爱好者专门找来玩。",
+    "highlights": [
+      "俯视角即时战斗＋村庄自由探索",
+      "男女主角可选，宠物协助解谜",
+      "收集十二元素精灵魔法",
+      "160种妖精、300种以上装备"
+    ],
+    "reviews": [],
+    "editorScore": 8.4,
+    "is2D": true,
+    "screenshots": [
+      "images/ws/ws-star-hearts-s1.png",
+      "images/ws/ws-star-hearts-x1.png",
+      "images/ws/ws-star-hearts-title.png"
+    ],
+    "cover": "images/ws/ws-star-hearts-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素村庄、HP槽，几乎同款"
   },
   {
     "id": "ws-dicing-knight",
@@ -390,7 +445,51 @@
       "images/ws/ws-dicing-knight-x1.png",
       "images/ws/ws-dicing-knight-title.png"
     ],
-    "cover": "images/ws/ws-dicing-knight-box.jpg"
+    "cover": "images/ws/ws-dicing-knight-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "俯视角即时ARPG，但只有迷宫无村庄"
+  },
+  {
+    "id": "ws-makai-toushi-saga",
+    "title": "Makai Toushi SaGa",
+    "titleZh": "魔界塔士 沙加",
+    "titleJa": "魔界塔士 Sa・Ga",
+    "year": 2002,
+    "developer": "Square",
+    "publisher": "Square",
+    "genre": "角色扮演",
+    "tags": [
+      "沙加",
+      "重制",
+      "俯视角",
+      "像素"
+    ],
+    "players": "1",
+    "tagline": "登上通天塔，用电锯砍倒神明",
+    "description": "1989年Game Boy上的沙加系列开山作，也是史克威尔第一部百万销量作品，2002年3月20日以“スクウェア・マスターピース”之名登陆WonderSwan Color。WSC版不但彩色化并改良了演出与操作，还同时收录几乎原样的GB版复刻，一卡两吃。\n\n玩家从人类、异能者与怪物中组建队伍，攀登连接各个世界的巨塔。人类靠装备与药水成长，异能者随机习得能力，怪物则靠吃掉敌人的肉来变身——三种截然不同的成长方式，让组队充满策略性。旅途中会穿过草原、海底与天空等风格迥异的世界，每层都有小镇和形形色色的NPC。\n\n干燥冷冽的后末日气氛、可以用电锯击倒神明的“朋克”结局，都让它至今令人难忘。WSC版去掉了GB版必须雇满三人的限制，甚至可以一人独闯巨塔。",
+    "highlights": [
+      "沙加系列原点的彩色重制",
+      "同时收录GB版复刻",
+      "人类/异能者/怪物三种成长方式",
+      "传说中的“电锯砍神”结局"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "27/40",
+        "quote": "经典作品的重制，系统独特依旧"
+      }
+    ],
+    "editorScore": 8.3,
+    "is2D": true,
+    "screenshots": [
+      "images/ws/ws-makai-toushi-saga-s1.png",
+      "images/ws/ws-makai-toushi-saga-x1.png",
+      "images/ws/ws-makai-toushi-saga-title.png"
+    ],
+    "cover": "images/ws/ws-makai-toushi-saga-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素城镇与世界地图自由探索"
   },
   {
     "id": "ws-makaimura",
@@ -424,7 +523,9 @@
       "images/ws/ws-makaimura-x1.jpg",
       "images/ws/ws-makaimura-title.png"
     ],
-    "cover": "images/ws/ws-makaimura-box.jpg"
+    "cover": "images/ws/ws-makaimura-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版高难度动作，仅年代美术相近"
   },
   {
     "id": "ws-chocobo-dungeon",
@@ -464,7 +565,9 @@
       "images/ws/ws-chocobo-dungeon-s2.png",
       "images/ws/ws-chocobo-dungeon-title.png"
     ],
-    "cover": "images/ws/ws-chocobo-dungeon-box.jpg"
+    "cover": "images/ws/ws-chocobo-dungeon-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "俯视角随机迷宫，村庄要素很少"
   },
   {
     "id": "ws-wild-card",
@@ -504,7 +607,9 @@
       "images/ws/ws-wild-card-x1.png",
       "images/ws/ws-wild-card-title.png"
     ],
-    "cover": "images/ws/ws-wild-card-box.jpg"
+    "cover": "images/ws/ws-wild-card-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "RPG但全以卡牌和静态插画呈现"
   },
   {
     "id": "ws-srt-compact-3",
@@ -538,7 +643,45 @@
       "images/ws/ws-srt-compact-3-s2.png",
       "images/ws/ws-srt-compact-3-title.png"
     ],
-    "cover": "images/ws/ws-srt-compact-3-box.jpg"
+    "cover": "images/ws/ws-srt-compact-3-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "机战战棋地图，无城镇探索"
+  },
+  {
+    "id": "ws-medarot-perfect-kabuto",
+    "title": "Medarot Perfect Edition (Kabuto Version)",
+    "titleZh": "徽章战士 完美版（独角仙版）",
+    "titleJa": "メダロット パーフェクトエディション カブトバージョン",
+    "year": 1999,
+    "developer": "Natsume",
+    "publisher": "Imagineer",
+    "genre": "角色扮演",
+    "tags": [
+      "机器人",
+      "俯视角",
+      "收集",
+      "黑白"
+    ],
+    "players": "1",
+    "tagline": "掌中“机器人对战”，城镇里结交对手",
+    "description": "Game Boy人气作《徽章战士》（Medarot）的WonderSwan重制版，1999年5月4日与“锹形虫版”同时发售。主角天领一辉得到了独角仙型机器人“金属甲虫”，在小镇里四处与人展开“机器人对战”（ロボトル），一步步卷入更大的阴谋。\n\n探索部分与《精灵宝可梦》式的掌机RPG如出一辙：俯视角在家、学校和街道之间自由走动，与NPC对话、接受挑战。战斗中头部、左右手与腿部各自有装甲值，打坏头部就算胜利；赢下对战还能夺取对方的零件，换装组合出自己的最强机体。\n\n单色画面朴素却清晰，零件收集的乐趣让人停不下来，是WonderSwan早期最具“宝可梦味”的作品。",
+    "highlights": [
+      "GB名作《徽章战士》的WS重制",
+      "俯视角城镇自由探索",
+      "部位破坏式机器人对战",
+      "赢得零件、自由组装机体"
+    ],
+    "reviews": [],
+    "editorScore": 7.9,
+    "is2D": true,
+    "screenshots": [
+      "images/ws/ws-medarot-perfect-kabuto-s1.png",
+      "images/ws/ws-medarot-perfect-kabuto-x1.png",
+      "images/ws/ws-medarot-perfect-kabuto-title.png"
+    ],
+    "cover": "images/ws/ws-medarot-perfect-kabuto-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素小镇自由行走，宝可梦式"
   },
   {
     "id": "ws-blue-wing-blitz",
@@ -572,7 +715,9 @@
       "images/ws/ws-blue-wing-blitz-x1.png",
       "images/ws/ws-blue-wing-blitz-title.png"
     ],
-    "cover": "images/ws/ws-blue-wing-blitz-box.jpg"
+    "cover": "images/ws/ws-blue-wing-blitz-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "空战战棋，没有城镇行走"
   },
   {
     "id": "ws-rhyme-rider-kerorican",
@@ -606,7 +751,45 @@
       "images/ws/ws-rhyme-rider-kerorican-x1.png",
       "images/ws/ws-rhyme-rider-kerorican-title.png"
     ],
-    "cover": "images/ws/ws-rhyme-rider-kerorican-box.jpg"
+    "cover": "images/ws/ws-rhyme-rider-kerorican-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "音乐节奏游戏"
+  },
+  {
+    "id": "ws-arc-the-lad-kishin-fukkatsu",
+    "title": "Arc the Lad: Kishin Fukkatsu",
+    "titleZh": "烈火之剑 机神复活",
+    "titleJa": "アークザラッド 機神復活",
+    "year": 2002,
+    "developer": "Sony Computer Entertainment",
+    "publisher": "Bandai",
+    "genre": "战略角色扮演",
+    "tags": [
+      "战棋",
+      "烈火之剑",
+      "俯视角",
+      "像素"
+    ],
+    "players": "1",
+    "tagline": "艾尔克再出击，掌机上的烈火之剑",
+    "description": "PS名作《烈火之剑》（Arc the Lad）系列的第四作，竟然由索尼制作、万代发行在WonderSwan Color上推出。主角是《烈火之剑II》的艾尔克——如今已成长为公会顶级的“传说猎人”，他在讨伐强盗时遇见了来自500年后的少女菲尼娅。在那个未来，地表已被机械兵占领，人类只能在地下苟活，而菲尼娅正是为改写历史而穿越时空。\n\n城镇中可以俯视角自由走动、到公会接委托，战斗则是系列传统的网格战棋：最多三人出战，受伤累积满槽后进入“RUSH模式”，一段时间内无视行动范围连续攻击，也能把角色交给AI托管。委托任务多为短时间即可完成的内容，非常适合掌机。\n\n对系列粉丝而言，这是一段不可错过的艾尔克后日谈。",
+    "highlights": [
+      "《烈火之剑II》主角艾尔克再登场",
+      "城镇俯视角探索＋公会委托",
+      "RUSH模式与AI托管的战棋战斗",
+      "来自未来的少女与机械兵之谜"
+    ],
+    "reviews": [],
+    "editorScore": 7.7,
+    "is2D": true,
+    "screenshots": [
+      "images/ws/ws-arc-the-lad-kishin-fukkatsu-s1.png",
+      "images/ws/ws-arc-the-lad-kishin-fukkatsu-x1.png",
+      "images/ws/ws-arc-the-lad-kishin-fukkatsu-title.png"
+    ],
+    "cover": "images/ws/ws-arc-the-lad-kishin-fukkatsu-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "城镇可俯视角行走，战斗为战棋"
   },
   {
     "id": "ws-guilty-gear-petit-2",
@@ -640,7 +823,45 @@
       "images/ws/ws-guilty-gear-petit-2-x1.jpg",
       "images/ws/ws-guilty-gear-petit-2-title.png"
     ],
-    "cover": "images/ws/ws-guilty-gear-petit-2-box.jpg"
+    "cover": "images/ws/ws-guilty-gear-petit-2-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "Q版格斗游戏"
+  },
+  {
+    "id": "ws-dark-eyes",
+    "title": "Dark Eyes: BattleGate",
+    "titleZh": "黑暗之眼 战斗之门",
+    "titleJa": "ダークアイズ バトルゲート",
+    "year": 2001,
+    "developer": "NexTech",
+    "publisher": "Bandai",
+    "genre": "战略角色扮演",
+    "tags": [
+      "斜45度",
+      "战棋",
+      "像素",
+      "奇幻"
+    ],
+    "players": "1",
+    "tagline": "斜视角像素小镇，皇家骑士团的味道",
+    "description": "由PC角色扮演游戏移植而来的WonderSwan Color战略RPG，2001年3月15日由万代发行。故事围绕奥尔加尔族与因凡斯族两大种族展开，玩法与《皇家骑士团》（Tactics Ogre）同类，采用斜45度的等角视角。\n\n石板路、木栈桥、红瓦屋顶——在小小的彩色屏幕上，开发组用细致的等角像素描绘出层次分明的城镇与战场，角色在高低错落的地形间移动，地形高度与站位都会左右战局。\n\n它的名气远不如同期史克威尔的大作，但那份浓厚的90年代日式奇幻像素美术，足以让喜欢《皇家骑士团》风格的玩家眼前一亮。",
+    "highlights": [
+      "斜45度等角视角像素画面",
+      "两大种族对立的奇幻剧情",
+      "高低差地形影响战斗",
+      "PC角色扮演游戏移植作品"
+    ],
+    "reviews": [],
+    "editorScore": 7.6,
+    "is2D": true,
+    "screenshots": [
+      "images/ws/ws-dark-eyes-s1.png",
+      "images/ws/ws-dark-eyes-x1.png",
+      "images/ws/ws-dark-eyes-title.png"
+    ],
+    "cover": "images/ws/ws-dark-eyes-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "斜视角像素城镇，但核心是战棋"
   },
   {
     "id": "ws-digimon-anode-tamer",
@@ -674,6 +895,8 @@
       "images/ws/ws-digimon-anode-tamer-x1.jpg",
       "images/ws/ws-digimon-anode-tamer-title.png"
     ],
-    "cover": "images/ws/ws-digimon-anode-tamer-box.jpg"
+    "cover": "images/ws/ws-digimon-anode-tamer-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "俯视角迷宫探索＋战术战斗"
   }
 ]

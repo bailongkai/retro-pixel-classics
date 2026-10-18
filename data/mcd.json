@@ -47,7 +47,9 @@
       "images/mcd/mcd-lunar-eternal-blue-s2.png",
       "images/mcd/mcd-lunar-eternal-blue-title.png"
     ],
-    "cover": "images/mcd/mcd-lunar-eternal-blue-box.jpg"
+    "cover": "images/mcd/mcd-lunar-eternal-blue-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素城镇与原野，可自由探索"
   },
   {
     "id": "mcd-lunar-the-silver-star",
@@ -97,7 +99,9 @@
       "images/mcd/mcd-lunar-the-silver-star-s2.png",
       "images/mcd/mcd-lunar-the-silver-star-title.png"
     ],
-    "cover": "images/mcd/mcd-lunar-the-silver-star-box.jpg"
+    "cover": "images/mcd/mcd-lunar-the-silver-star-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "经典俯视角JRPG，村庄商店一应俱全"
   },
   {
     "id": "mcd-snatcher",
@@ -146,7 +150,9 @@
       "images/mcd/mcd-snatcher-s1.png",
       "images/mcd/mcd-snatcher-title.png"
     ],
-    "cover": "images/mcd/mcd-snatcher-box.jpg"
+    "cover": "images/mcd/mcd-snatcher-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "指令式文字冒险，像素风格相近"
   },
   {
     "id": "mcd-sonic-cd",
@@ -197,7 +203,9 @@
       "images/mcd/mcd-sonic-cd-s3.png",
       "images/mcd/mcd-sonic-cd-title.png"
     ],
-    "cover": "images/mcd/mcd-sonic-cd-box.jpg"
+    "cover": "images/mcd/mcd-sonic-cd-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版平台跳跃，仅同时代像素风"
   },
   {
     "id": "mcd-popful-mail",
@@ -247,7 +255,9 @@
       "images/mcd/mcd-popful-mail-s2.png",
       "images/mcd/mcd-popful-mail-title.png"
     ],
-    "cover": "images/mcd/mcd-popful-mail-box.jpg"
+    "cover": "images/mcd/mcd-popful-mail-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "有城镇商店的ARPG，但为横版视角"
   },
   {
     "id": "mcd-shining-force-cd",
@@ -293,7 +303,9 @@
       "images/mcd/mcd-shining-force-cd-s3.png",
       "images/mcd/mcd-shining-force-cd-title.png"
     ],
-    "cover": "images/mcd/mcd-shining-force-cd-box.jpg"
+    "cover": "images/mcd/mcd-shining-force-cd-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "像素战棋RPG，几乎没有自由城镇探索"
   },
   {
     "id": "mcd-earthworm-jim-special-edition",
@@ -339,7 +351,9 @@
       "images/mcd/mcd-earthworm-jim-special-edition-s3.png",
       "images/mcd/mcd-earthworm-jim-special-edition-title.png"
     ],
-    "cover": "images/mcd/mcd-earthworm-jim-special-edition-box.jpg"
+    "cover": "images/mcd/mcd-earthworm-jim-special-edition-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版平台跳跃，手绘动画风"
   },
   {
     "id": "mcd-final-fight-cd",
@@ -389,7 +403,9 @@
       "images/mcd/mcd-final-fight-cd-s2.png",
       "images/mcd/mcd-final-fight-cd-title.png"
     ],
-    "cover": "images/mcd/mcd-final-fight-cd-box.jpg"
+    "cover": "images/mcd/mcd-final-fight-cd-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版清版动作，无探索要素"
   },
   {
     "id": "mcd-robo-aleste",
@@ -439,7 +455,9 @@
       "images/mcd/mcd-robo-aleste-s2.png",
       "images/mcd/mcd-robo-aleste-title.png"
     ],
-    "cover": "images/mcd/mcd-robo-aleste-box.jpg"
+    "cover": "images/mcd/mcd-robo-aleste-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "纵版射击游戏"
   },
   {
     "id": "mcd-ecco-the-dolphin-cd",
@@ -490,7 +508,9 @@
       "images/mcd/mcd-ecco-the-dolphin-cd-s3.png",
       "images/mcd/mcd-ecco-the-dolphin-cd-title.png"
     ],
-    "cover": "images/mcd/mcd-ecco-the-dolphin-cd-box.jpg"
+    "cover": "images/mcd/mcd-ecco-the-dolphin-cd-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版水下动作冒险，无城镇"
   },
   {
     "id": "mcd-keio-flying-squadron",
@@ -540,7 +560,9 @@
       "images/mcd/mcd-keio-flying-squadron-s2.png",
       "images/mcd/mcd-keio-flying-squadron-title.png"
     ],
-    "cover": "images/mcd/mcd-keio-flying-squadron-box.jpg"
+    "cover": "images/mcd/mcd-keio-flying-squadron-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "横版射击游戏"
   },
   {
     "id": "mcd-shin-megami-tensei",
@@ -581,7 +603,9 @@
       "images/mcd/mcd-shin-megami-tensei-x2.png",
       "images/mcd/mcd-shin-megami-tensei-title.png"
     ],
-    "cover": "images/mcd/mcd-shin-megami-tensei-box.jpg"
+    "cover": "images/mcd/mcd-shin-megami-tensei-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "第一人称迷宫为主，配俯视大地图"
   },
   {
     "id": "mcd-silpheed",
@@ -632,7 +656,9 @@
       "images/mcd/mcd-silpheed-s3.png",
       "images/mcd/mcd-silpheed-title.png"
     ],
-    "cover": "images/mcd/mcd-silpheed-box.jpg"
+    "cover": "images/mcd/mcd-silpheed-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "多边形纵版射击"
   },
   {
     "id": "mcd-lords-of-thunder",
@@ -677,7 +703,9 @@
       "images/mcd/mcd-lords-of-thunder-s2.png",
       "images/mcd/mcd-lords-of-thunder-title.png"
     ],
-    "cover": "images/mcd/mcd-lords-of-thunder-box.jpg"
+    "cover": "images/mcd/mcd-lords-of-thunder-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "横版射击游戏"
   },
   {
     "id": "mcd-vay",
@@ -717,7 +745,9 @@
       "images/mcd/mcd-vay-x1.png",
       "images/mcd/mcd-vay-title.png"
     ],
-    "cover": "images/mcd/mcd-vay-box.jpg"
+    "cover": "images/mcd/mcd-vay-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素村庄，标准日式RPG探索"
   },
   {
     "id": "mcd-illusion-city",
@@ -757,7 +787,9 @@
       "images/mcd/mcd-illusion-city-x1.png",
       "images/mcd/mcd-illusion-city-title.png"
     ],
-    "cover": "images/mcd/mcd-illusion-city-box.jpg"
+    "cover": "images/mcd/mcd-illusion-city-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角城市街景，可自由行走与对话"
   },
   {
     "id": "mcd-dark-wizard",
@@ -807,7 +839,9 @@
       "images/mcd/mcd-dark-wizard-x1.png",
       "images/mcd/mcd-dark-wizard-title.png"
     ],
-    "cover": "images/mcd/mcd-dark-wizard-box.jpg"
+    "cover": "images/mcd/mcd-dark-wizard-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "六角格战略RPG，城镇以占领为主"
   },
   {
     "id": "mcd-heart-of-the-alien",
@@ -847,7 +881,9 @@
       "images/mcd/mcd-heart-of-the-alien-s2.png",
       "images/mcd/mcd-heart-of-the-alien-title.png"
     ],
-    "cover": "images/mcd/mcd-heart-of-the-alien-box.jpg"
+    "cover": "images/mcd/mcd-heart-of-the-alien-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "电影式横版动作，矢量画面"
   },
   {
     "id": "mcd-yumimi-mix",
@@ -888,7 +924,9 @@
       "images/mcd/mcd-yumimi-mix-x2.png",
       "images/mcd/mcd-yumimi-mix-title.png"
     ],
-    "cover": "images/mcd/mcd-yumimi-mix-box.jpg"
+    "cover": "images/mcd/mcd-yumimi-mix-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "互动动画冒险，无自由探索"
   },
   {
     "id": "mcd-sol-feace",
@@ -934,7 +972,9 @@
       "images/mcd/mcd-sol-feace-s3.png",
       "images/mcd/mcd-sol-feace-title.png"
     ],
-    "cover": "images/mcd/mcd-sol-feace-box.jpg"
+    "cover": "images/mcd/mcd-sol-feace-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "横版射击游戏"
   },
   {
     "id": "mcd-time-gal",
@@ -985,7 +1025,51 @@
       "images/mcd/mcd-time-gal-s3.png",
       "images/mcd/mcd-time-gal-title.png"
     ],
-    "cover": "images/mcd/mcd-time-gal-box.jpg"
+    "cover": "images/mcd/mcd-time-gal-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "动画QTE游戏，仅同时代画风"
+  },
+  {
+    "id": "mcd-arcus-i-ii-iii",
+    "title": "Arcus I-II-III",
+    "titleZh": "阿库斯 I・II・III",
+    "titleJa": "アークス I・II・III",
+    "year": 1993,
+    "developer": "Wolf Team",
+    "publisher": "Telenet Japan",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "迷宫探索",
+      "合集",
+      "动画过场"
+    ],
+    "players": "1",
+    "tagline": "狼组RPG三部曲合集，一张光盘数十小时",
+    "description": "《阿库斯》是狼组在日本电脑上起家的RPG系列，这张Mega-CD光盘把前三部作品一网打尽，并全面重绘画面、加入新的动画开场。三部曲讲述跨越世代的英雄传说，每作约十五到二十小时，加起来分量惊人。\n\n玩法以第一人称3D迷宫探索为主，类似《光明与黑暗》：在多层迷宫中摸索前进、遭遇随机敌人，在三排站位的回合制战斗中排兵布阵；回到城镇则以对话画面呈现酒馆、商店与剧情事件，角色立绘精美，带着浓浓的90年代动画风。自动地图功能和短暂的读盘时间也让探索更舒适。\n\n它不是俯视角的村庄冒险，但对于喜欢老派日式迷宫RPG的玩家来说，这是Mega-CD上性价比最高的一张光盘。",
+    "highlights": [
+      "一次收录狼组《阿库斯》前三部作品",
+      "画面全面重绘，新增动画开场",
+      "第一人称迷宫探索与三排站位战斗",
+      "自动地图功能，探索更方便"
+    ],
+    "reviews": [
+      {
+        "source": "Sega-16",
+        "score": "9/10",
+        "quote": "结合了《光明与黑暗》式的玩法与精美过场，分量十足"
+      }
+    ],
+    "editorScore": 7.3,
+    "is2D": true,
+    "screenshots": [
+      "images/mcd/mcd-arcus-i-ii-iii-s1.png",
+      "images/mcd/mcd-arcus-i-ii-iii-x1.png",
+      "images/mcd/mcd-arcus-i-ii-iii-title.png"
+    ],
+    "cover": "images/mcd/mcd-arcus-i-ii-iii-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "第一人称迷宫RPG，城镇为对话画面"
   },
   {
     "id": "mcd-annet-futatabi",
@@ -1025,6 +1109,180 @@
       "images/mcd/mcd-annet-futatabi-x1.jpg",
       "images/mcd/mcd-annet-futatabi-title.png"
     ],
-    "cover": "images/mcd/mcd-annet-futatabi-box.jpg"
+    "cover": "images/mcd/mcd-annet-futatabi-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版清版动作，像素风格相近"
+  },
+  {
+    "id": "mcd-burai",
+    "title": "Burai: Hachigyoku no Yuushi Densetsu",
+    "titleZh": "布莱：八玉勇士传说",
+    "titleJa": "ブライ 八玉の勇士伝説",
+    "year": 1992,
+    "developer": "Sega / Riverhill Soft",
+    "publisher": "Sega",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "JRPG",
+      "群像剧",
+      "八犬传"
+    ],
+    "players": "1",
+    "tagline": "八颗宝玉八位勇士，群像剧JRPG的先驱",
+    "description": "以《南总里见八犬传》为灵感，八颗灵玉选中了八位性格迥异的勇士：少女、武士、机器人、甚至一只会说话的狮子……《布莱》在PC上首创的“多主角群像剧”结构，后来影响了不少日式RPG。Mega-CD版由世嘉亲自移植，重绘了画面并改良了操作界面。\n\n游戏前半段让玩家分别操作各位勇士，各自走完一段独立的冒险，最后再在命运的指引下汇合，对抗复活的暗黑神。俯视视角的城镇、村庄与原野地图都重新绘制，色彩明快、细节讨喜，四处与村民对话、逛商店、探洞窟的过程充满老派RPG的味道。\n\n战斗改为侧视角，风格强烈的敌人造型见仁见智，节奏也略显拖沓。但若你喜欢在像素村庄里慢慢闲逛，感受80年代末日式RPG的浪漫，《布莱》是Mega-CD上值得一探的经典。",
+    "highlights": [
+      "八位勇士各自登场的群像剧结构",
+      "重绘的俯视视角城镇与原野",
+      "荒木伸吾等名家参与的角色设计",
+      "Mega-CD版改良界面，提升易用性"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "23/40",
+        "quote": "画面重绘、界面改良，但战斗节奏偏慢且敌人造型挑人"
+      }
+    ],
+    "editorScore": 7.0,
+    "is2D": true,
+    "screenshots": [
+      "images/mcd/mcd-burai-s1.png",
+      "images/mcd/mcd-burai-x1.png",
+      "images/mcd/mcd-burai-title.png"
+    ],
+    "cover": "images/mcd/mcd-burai-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素村庄与原野，可自由探索"
+  },
+  {
+    "id": "mcd-dungeon-explorer",
+    "title": "Dungeon Explorer",
+    "titleZh": "迷宫探险者",
+    "titleJa": "",
+    "year": 1995,
+    "developer": "Hudson Soft / Westone",
+    "publisher": "Sega / Hudson Soft",
+    "genre": "动作角色扮演",
+    "tags": [
+      "像素",
+      "俯视角",
+      "多人合作",
+      "地牢"
+    ],
+    "players": "1-4",
+    "tagline": "俯视角四人合作砍杀，Westone操刀的地牢ARPG",
+    "description": "由Hudson与《神奇男孩》系列的Westone联手打造，这款Sega CD版《迷宫探险者》与PC Engine上的同名前作截然不同，玩法更接近《圣铠传说》（Gauntlet）：俯视视角下，你与伙伴一路砍翻成群的怪物，深入六座迷宫去拯救能实现愿望的女神。\n\n角色以像素精灵呈现，攻击、魔法、搜刮宝箱的节奏紧凑爽快。迷宫中收集的金币可以带回城里购买武器与防具，逐步把角色打造得更强。最大的亮点是支持多分插，最多四人同屏合作，热闹程度在当年的家用机上相当少见；CD音质配乐也为冒险增色不少。\n\n道具掉落随机、平衡性有些小毛病，评价也两极分化。但如果你喜欢俯视角ARPG的砍杀乐趣，又有朋友一起玩，它会带来不少欢乐。",
+    "highlights": [
+      "俯视视角的地牢砍杀ARPG",
+      "支持最多四人同屏合作",
+      "金币回城购买装备的成长要素",
+      "Westone制作，CD音质配乐"
+    ],
+    "reviews": [
+      {
+        "source": "GamePro",
+        "score": "13.5/20",
+        "quote": "多人合作有趣，但玩法较为单调"
+      },
+      {
+        "source": "Next Generation",
+        "score": "3/5",
+        "quote": "中规中矩的地牢砍杀动作游戏"
+      },
+      {
+        "source": "Sega-16",
+        "score": "8/10",
+        "quote": "值得购买的动作RPG，多人模式尤其出色"
+      }
+    ],
+    "editorScore": 7.0,
+    "is2D": true,
+    "screenshots": [
+      "images/mcd/mcd-dungeon-explorer-s1.png",
+      "images/mcd/mcd-dungeon-explorer-s2.png",
+      "images/mcd/mcd-dungeon-explorer-title.png"
+    ],
+    "cover": "images/mcd/mcd-dungeon-explorer-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "俯视角动作RPG，城镇仅为商店菜单"
+  },
+  {
+    "id": "mcd-cosmic-fantasy-stories",
+    "title": "Cosmic Fantasy Stories",
+    "titleZh": "宇宙幻想物语",
+    "titleJa": "コズミック・ファンタジー・ストーリーズ",
+    "year": 1992,
+    "developer": "Telenet Japan",
+    "publisher": "Telenet Japan (RIOT)",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "JRPG",
+      "科幻奇幻",
+      "合集"
+    ],
+    "players": "1",
+    "tagline": "PCE人气RPG一二代合体，Mega-CD的唯一一作",
+    "description": "《宇宙幻想》原本是PC Engine CD-ROM²上的人气RPG系列，以“宇宙猎人少年”的科幻奇幻冒险和大量动画演出闻名。这张《Stories》是系列在Mega-CD上的唯一作品，将前两代的故事整合到一张光盘中，主角是宇宙猎人少年悠与搭档猫型生物“Monmo”。\n\n画面是标准的俯视视角JRPG：郁郁葱葱的林间村庄、木屋与小路，角色可以四处走动和村民交谈，买装备、接情报，再踏上原野进入回合制战斗。色彩鲜亮的像素城镇，与参考截图的气质颇为接近。\n\n必须坦白：本作当年口碑不佳，原版的大量动画场景被删减，游戏平衡也变差，曾是读者评分榜上的“常客”。但若你只是想在Mega-CD上找一款画面温馨、可以悠闲逛村庄的老派RPG，它仍有一定的收藏价值。",
+    "highlights": [
+      "整合PCE版一、二代剧情",
+      "温馨的俯视视角像素村庄",
+      "宇宙猎人题材的科幻奇幻世界观",
+      "系列唯一的Mega-CD作品"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "22/40",
+        "quote": "移植删减了大量动画，游戏平衡也不如原版"
+      }
+    ],
+    "editorScore": 6.5,
+    "is2D": true,
+    "screenshots": [
+      "images/mcd/mcd-cosmic-fantasy-stories-s1.png",
+      "images/mcd/mcd-cosmic-fantasy-stories-x1.png",
+      "images/mcd/mcd-cosmic-fantasy-stories-title.png"
+    ],
+    "cover": "images/mcd/mcd-cosmic-fantasy-stories-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素村庄，可与村民交谈购物"
+  },
+  {
+    "id": "mcd-fhey-area",
+    "title": "Seirei Shinseiki: Fhey Area",
+    "titleZh": "精灵神世纪：菲亚地域",
+    "titleJa": "精霊神世紀フェイエリア",
+    "year": 1992,
+    "developer": "Wolf Team",
+    "publisher": "Wolf Team",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "JRPG",
+      "樱庭统",
+      "隐藏作"
+    ],
+    "players": "1",
+    "tagline": "樱庭统早期名曲相伴，狼组的首款主机RPG",
+    "description": "狼组（Wolf Team）在Mega-CD上推出的首款家用机RPG，也是后来《传说》系列作曲家樱庭统的早期代表作。少年剑士雷菲尔在母亲的呼唤中醒来，从小小的家乡出发，卷入精灵与魔物之间的古老纷争。\n\n地图与城镇采用俯视视角，木屋、床铺、桌椅都画得细致温暖，走出村子便是广阔的原野与迷宫；战斗则切换为左右对峙的大头像画面，攻击可以选择斩、刺、挥等方式，命中与伤害各不相同。整体流程不长，一个下午就能通关。\n\n坦白说，它在系统上相当朴素，读盘与升级节奏也偏慢，Hardcore Gaming 101甚至调侃“不如当专辑来听”。但正因如此，它成了樱庭统粉丝和狼组考古爱好者的珍藏——那一首首充满前卫摇滚味道的CD配乐，值得一听再听。",
+    "highlights": [
+      "樱庭统早期CD配乐，前卫摇滚风味十足",
+      "俯视视角的温暖像素村庄",
+      "斩、刺、挥等多种攻击方式",
+      "狼组首款家用机RPG，具有考古价值"
+    ],
+    "reviews": [],
+    "editorScore": 6.4,
+    "is2D": true,
+    "screenshots": [
+      "images/mcd/mcd-fhey-area-s1.png",
+      "images/mcd/mcd-fhey-area-x1.png",
+      "images/mcd/mcd-fhey-area-title.png"
+    ],
+    "cover": "images/mcd/mcd-fhey-area-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素村庄与房屋内景"
   }
 ]

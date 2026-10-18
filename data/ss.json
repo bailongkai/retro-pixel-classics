@@ -48,7 +48,9 @@
       "images/ss/ss-radiant-silvergun-x2.jpg",
       "images/ss/ss-radiant-silvergun-title.png"
     ],
-    "cover": "images/ss/ss-radiant-silvergun-box.jpg"
+    "cover": "images/ss/ss-radiant-silvergun-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "纵版射击游戏"
   },
   {
     "id": "ss-guardian-heroes",
@@ -97,7 +99,9 @@
       "images/ss/ss-guardian-heroes-s1.png",
       "images/ss/ss-guardian-heroes-title.png"
     ],
-    "cover": "images/ss/ss-guardian-heroes-box.jpg"
+    "cover": "images/ss/ss-guardian-heroes-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "像素清版动作，同时代美术风格"
   },
   {
     "id": "ss-panzer-dragoon-saga",
@@ -146,7 +150,9 @@
       "images/ss/ss-panzer-dragoon-saga-s3.png",
       "images/ss/ss-panzer-dragoon-saga-title.png"
     ],
-    "cover": "images/ss/ss-panzer-dragoon-saga-box.jpg"
+    "cover": "images/ss/ss-panzer-dragoon-saga-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "全3D画面的飞龙RPG"
   },
   {
     "id": "ss-shining-force-3",
@@ -196,7 +202,9 @@
       "images/ss/ss-shining-force-3-x2.jpg",
       "images/ss/ss-shining-force-3-title.png"
     ],
-    "cover": "images/ss/ss-shining-force-3-box.jpg"
+    "cover": "images/ss/ss-shining-force-3-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "有城镇的战棋RPG，但为3D多边形"
   },
   {
     "id": "ss-grandia",
@@ -246,7 +254,9 @@
       "images/ss/ss-grandia-x2.png",
       "images/ss/ss-grandia-title.png"
     ],
-    "cover": "images/ss/ss-grandia-box.jpg"
+    "cover": "images/ss/ss-grandia-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "有城镇冒险，但场景为可旋转3D"
   },
   {
     "id": "ss-dragon-force",
@@ -295,7 +305,61 @@
       "images/ss/ss-dragon-force-s2.png",
       "images/ss/ss-dragon-force-title.png"
     ],
-    "cover": "images/ss/ss-dragon-force-box.jpg"
+    "cover": "images/ss/ss-dragon-force-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "像素战略RPG，城堡内政代替城镇"
+  },
+  {
+    "id": "ss-lunar-2-eternal-blue",
+    "title": "Lunar 2: Eternal Blue",
+    "titleZh": "露娜2：永恒之蓝",
+    "titleJa": "ルナ2 エターナルブルー",
+    "year": 1998,
+    "developer": "Game Arts / Japan Art Media",
+    "publisher": "Kadokawa Shoten",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "王道",
+      "动画演出"
+    ],
+    "players": "1",
+    "tagline": "蓝色星球上的少年与少女，王道RPG的最高峰",
+    "description": "千年之后的露娜世界，热爱考古的少年希恩在“蓝色尖塔”遇见了神秘少女璐西娅——一段跨越星辰的冒险就此展开。《露娜2》被许多老玩家视为系列最高杰作，土星版更是在MCD原作基础上全面重制，像素画面焕然一新。\n\n城镇里人声鼎沸，和每个NPC聊天都会有令人会心一笑的对话；战斗中角色在场上移动攻击，节奏明快。大量全新动画与配音让剧情更加动人，伙伴们的羁绊、希恩与璐西娅的感情线，到结局时足以让人眼眶湿润。\n\n喜欢俯视角像素JRPG的你，这就是土星上最值得一玩的那一款。",
+    "highlights": [
+      "MCD名作全面重制，像素画面全新绘制",
+      "大量新增动画过场与配音",
+      "王道又感人的冒险故事",
+      "战斗中角色可移动的明快系统"
+    ],
+    "reviews": [
+      {
+        "source": "Sega Saturn Magazine (日)",
+        "score": "26/30",
+        "quote": "重制版内容充实，演出更上一层楼"
+      },
+      {
+        "source": "RPGFan",
+        "score": "91%",
+        "quote": "土星上最出色的RPG之一"
+      },
+      {
+        "source": "Consoles +",
+        "score": "89%",
+        "quote": "动人的王道RPG"
+      }
+    ],
+    "editorScore": 9.2,
+    "is2D": true,
+    "screenshots": [
+      "images/ss/ss-lunar-2-eternal-blue-s1.png",
+      "images/ss/ss-lunar-2-eternal-blue-x1.jpg",
+      "images/ss/ss-lunar-2-eternal-blue-x2.jpg",
+      "images/ss/ss-lunar-2-eternal-blue-title.png"
+    ],
+    "cover": "images/ss/ss-lunar-2-eternal-blue-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG，城镇冒险正宗同款"
   },
   {
     "id": "ss-princess-crown",
@@ -339,7 +403,9 @@
       "images/ss/ss-princess-crown-x1.png",
       "images/ss/ss-princess-crown-title.png"
     ],
-    "cover": "images/ss/ss-princess-crown-box.jpg"
+    "cover": "images/ss/ss-princess-crown-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "横版视角的像素ARPG，有城镇"
   },
   {
     "id": "ss-vampire-savior",
@@ -379,7 +445,9 @@
       "images/ss/ss-vampire-savior-x2.jpg",
       "images/ss/ss-vampire-savior-title.png"
     ],
-    "cover": "images/ss/ss-vampire-savior-box.jpg"
+    "cover": "images/ss/ss-vampire-savior-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "2D格斗游戏"
   },
   {
     "id": "ss-tactics-ogre",
@@ -423,7 +491,9 @@
       "images/ss/ss-tactics-ogre-x1.png",
       "images/ss/ss-tactics-ogre-title.png"
     ],
-    "cover": "images/ss/ss-tactics-ogre-box.jpg"
+    "cover": "images/ss/ss-tactics-ogre-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "像素战棋RPG，斜视角战场无城镇漫步"
   },
   {
     "id": "ss-sakura-wars-2",
@@ -463,7 +533,9 @@
       "images/ss/ss-sakura-wars-2-x2.jpg",
       "images/ss/ss-sakura-wars-2-title.png"
     ],
-    "cover": "images/ss/ss-sakura-wars-2-box.jpg"
+    "cover": "images/ss/ss-sakura-wars-2-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "恋爱冒险+战棋，非自由探索"
   },
   {
     "id": "ss-sf-zero-3",
@@ -508,7 +580,9 @@
       "images/ss/ss-sf-zero-3-x2.png",
       "images/ss/ss-sf-zero-3-title.png"
     ],
-    "cover": "images/ss/ss-sf-zero-3-box.jpg"
+    "cover": "images/ss/ss-sf-zero-3-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "2D格斗游戏"
   },
   {
     "id": "ss-nights",
@@ -556,7 +630,9 @@
       "images/ss/ss-nights-s1.png",
       "images/ss/ss-nights-title.png"
     ],
-    "cover": "images/ss/ss-nights-box.jpg"
+    "cover": "images/ss/ss-nights-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "3D场景的飞行动作"
   },
   {
     "id": "ss-castlevania-sotn",
@@ -592,9 +668,13 @@
     "is2D": true,
     "screenshots": [
       "images/ss/ss-castlevania-sotn-s1.png",
+      "images/ss/ss-castlevania-sotn-x1.png",
+      "images/ss/ss-castlevania-sotn-x2.png",
       "images/ss/ss-castlevania-sotn-title.png"
     ],
-    "cover": "images/ss/ss-castlevania-sotn-box.jpg"
+    "cover": "images/ss/ss-castlevania-sotn-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "带商店的银河恶魔城，横版视角"
   },
   {
     "id": "ss-sakura-wars",
@@ -643,7 +723,9 @@
       "images/ss/ss-sakura-wars-x1.png",
       "images/ss/ss-sakura-wars-title.png"
     ],
-    "cover": "images/ss/ss-sakura-wars-box.jpg"
+    "cover": "images/ss/ss-sakura-wars-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "恋爱冒险+战棋，非自由探索"
   },
   {
     "id": "ss-xmen-vs-sf",
@@ -692,7 +774,9 @@
       "images/ss/ss-xmen-vs-sf-s2.png",
       "images/ss/ss-xmen-vs-sf-title.png"
     ],
-    "cover": "images/ss/ss-xmen-vs-sf-box.jpg"
+    "cover": "images/ss/ss-xmen-vs-sf-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "2D格斗游戏"
   },
   {
     "id": "ss-dnd-collection",
@@ -726,7 +810,9 @@
       "images/ss/ss-dnd-collection-x1.png",
       "images/ss/ss-dnd-collection-title.png"
     ],
-    "cover": "images/ss/ss-dnd-collection-box.jpg"
+    "cover": "images/ss/ss-dnd-collection-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "像素清版动作，带RPG要素"
   },
   {
     "id": "ss-legend-of-oasis",
@@ -776,7 +862,9 @@
       "images/ss/ss-legend-of-oasis-x2.jpg",
       "images/ss/ss-legend-of-oasis-title.png"
     ],
-    "cover": "images/ss/ss-legend-of-oasis-box.jpg"
+    "cover": "images/ss/ss-legend-of-oasis-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素ARPG，城镇与原野自由探索"
   },
   {
     "id": "ss-dodonpachi",
@@ -821,7 +909,9 @@
       "images/ss/ss-dodonpachi-x2.png",
       "images/ss/ss-dodonpachi-title.png"
     ],
-    "cover": "images/ss/ss-dodonpachi-box.jpg"
+    "cover": "images/ss/ss-dodonpachi-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "纵版弹幕射击"
   },
   {
     "id": "ss-silhouette-mirage",
@@ -869,7 +959,9 @@
       "images/ss/ss-silhouette-mirage-s1.png",
       "images/ss/ss-silhouette-mirage-title.png"
     ],
-    "cover": "images/ss/ss-silhouette-mirage-box.jpg"
+    "cover": "images/ss/ss-silhouette-mirage-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版像素动作游戏"
   },
   {
     "id": "ss-saturn-bomberman",
@@ -918,7 +1010,9 @@
       "images/ss/ss-saturn-bomberman-s2.png",
       "images/ss/ss-saturn-bomberman-title.png"
     ],
-    "cover": "images/ss/ss-saturn-bomberman-box.jpg"
+    "cover": "images/ss/ss-saturn-bomberman-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "俯视角像素动作，但无探索"
   },
   {
     "id": "ss-devil-summoner",
@@ -962,7 +1056,45 @@
       "images/ss/ss-devil-summoner-x1.png",
       "images/ss/ss-devil-summoner-title.png"
     ],
-    "cover": "images/ss/ss-devil-summoner-box.jpg"
+    "cover": "images/ss/ss-devil-summoner-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "第一人称迷宫RPG，城市地图俯视"
+  },
+  {
+    "id": "ss-phantasy-star-collection",
+    "title": "Sega Ages: Phantasy Star Collection",
+    "titleZh": "梦幻之星合集",
+    "titleJa": "セガエイジス ファンタシースターコレクション",
+    "year": 1998,
+    "developer": "Sega",
+    "publisher": "Sega",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "合集",
+      "科幻"
+    ],
+    "players": "1",
+    "tagline": "四代梦幻之星一盘收录，世嘉RPG的传家宝",
+    "description": "世嘉自家RPG的金字招牌《梦幻之星》，在土星上推出了收录一至四代的豪华合集！从SMS上第一位女主角艾莉丝的复仇之旅，到MD上恢弘的科幻史诗《梦幻之星IV》，一张光盘就能横跨整个阿尔格尔星系的千年历史。\n\n俯视角的城镇与原野、科幻与魔法交织的世界观、漫画分格式的剧情演出（四代）……每一部都是当年的标杆。特别是《梦幻之星IV》，至今仍被誉为16位时代最好的RPG之一。\n\n本作仅在日本发售，但内容基本为原版移植，对于想补完系列的玩家来说是极佳选择。",
+    "highlights": [
+      "一次收录梦幻之星I-IV",
+      "科幻与魔法交织的独特世界观",
+      "《梦幻之星IV》漫画分格演出",
+      "俯视角城镇与原野探索"
+    ],
+    "reviews": [],
+    "editorScore": 8.7,
+    "is2D": true,
+    "screenshots": [
+      "images/ss/ss-phantasy-star-collection-s1.png",
+      "images/ss/ss-phantasy-star-collection-x1.png",
+      "images/ss/ss-phantasy-star-collection-x2.png",
+      "images/ss/ss-phantasy-star-collection-title.png"
+    ],
+    "cover": "images/ss/ss-phantasy-star-collection-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG合集，城镇探索经典"
   },
   {
     "id": "ss-tengai-makyou-4",
@@ -1006,7 +1138,9 @@
       "images/ss/ss-tengai-makyou-4-x1.png",
       "images/ss/ss-tengai-makyou-4-title.png"
     ],
-    "cover": "images/ss/ss-tengai-makyou-4-box.jpg"
+    "cover": "images/ss/ss-tengai-makyou-4-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG，可逛城镇与原野"
   },
   {
     "id": "ss-darius-gaiden",
@@ -1055,7 +1189,9 @@
       "images/ss/ss-darius-gaiden-s2.png",
       "images/ss/ss-darius-gaiden-title.png"
     ],
-    "cover": "images/ss/ss-darius-gaiden-box.jpg"
+    "cover": "images/ss/ss-darius-gaiden-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "横版射击游戏"
   },
   {
     "id": "ss-super-robot-wars-f",
@@ -1088,7 +1224,9 @@
       "images/ss/ss-super-robot-wars-f-x1.png",
       "images/ss/ss-super-robot-wars-f-title.png"
     ],
-    "cover": "images/ss/ss-super-robot-wars-f-box.jpg"
+    "cover": "images/ss/ss-super-robot-wars-f-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "像素战棋，无城镇探索"
   },
   {
     "id": "ss-thunder-force-5",
@@ -1132,7 +1270,9 @@
       "images/ss/ss-thunder-force-5-x1.png",
       "images/ss/ss-thunder-force-5-title.png"
     ],
-    "cover": "images/ss/ss-thunder-force-5-box.jpg"
+    "cover": "images/ss/ss-thunder-force-5-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "横版射击游戏"
   },
   {
     "id": "ss-metal-slug",
@@ -1176,7 +1316,9 @@
       "images/ss/ss-metal-slug-x1.png",
       "images/ss/ss-metal-slug-title.png"
     ],
-    "cover": "images/ss/ss-metal-slug-box.jpg"
+    "cover": "images/ss/ss-metal-slug-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版像素射击动作"
   },
   {
     "id": "ss-lunar-sssc",
@@ -1216,7 +1358,9 @@
       "images/ss/ss-lunar-sssc-x2.jpg",
       "images/ss/ss-lunar-sssc-title.png"
     ],
-    "cover": "images/ss/ss-lunar-sssc-box.jpg"
+    "cover": "images/ss/ss-lunar-sssc-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG，城镇村庄自由漫步"
   },
   {
     "id": "ss-kof-97",
@@ -1261,7 +1405,51 @@
       "images/ss/ss-kof-97-x2.png",
       "images/ss/ss-kof-97-title.png"
     ],
-    "cover": "images/ss/ss-kof-97-box.jpg"
+    "cover": "images/ss/ss-kof-97-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "2D格斗游戏"
+  },
+  {
+    "id": "ss-falcom-classics-2",
+    "title": "Falcom Classics II",
+    "titleZh": "Falcom经典合集II",
+    "titleJa": "ファルコムクラシックスII",
+    "year": 1998,
+    "developer": "Exe-Create（原作：Nihon Falcom）",
+    "publisher": "Victor Interactive Software",
+    "genre": "动作角色扮演",
+    "tags": [
+      "像素",
+      "伊苏",
+      "合集"
+    ],
+    "players": "1",
+    "tagline": "土星版伊苏II，碰撞战斗的永恒魅力",
+    "description": "红发冒险家亚特鲁·克里斯汀的传说在土星上再度上演！《Falcom经典合集II》收录了《伊苏II》与《太阳神殿 阿兹特克II》，并为土星重新强化了画面与音乐，也可切换回原版模式。\n\n《伊苏II》是俯视角ARPG的经典：直接用身体撞向敌人的“碰撞战斗”简单爽快，飞升到天空之岛伊苏后，城镇、神殿、矿坑等场景自由探索，还能变身魔物与敌人对话，剧情感人至深。\n\n虽然另一款《阿兹特克II》略显陈旧，但光是土星版《伊苏II》就值回票价。",
+    "highlights": [
+      "收录强化版《伊苏II》",
+      "经典碰撞战斗系统",
+      "可切换原版/强化版模式",
+      "附赠《太阳神殿 阿兹特克II》"
+    ],
+    "reviews": [
+      {
+        "source": "RPGFan",
+        "score": "85%",
+        "quote": "伊苏II的移植非常值得，只是音乐不及PCE版"
+      }
+    ],
+    "editorScore": 8.5,
+    "is2D": true,
+    "screenshots": [
+      "images/ss/ss-falcom-classics-2-s1.png",
+      "images/ss/ss-falcom-classics-2-x1.png",
+      "images/ss/ss-falcom-classics-2-x2.png",
+      "images/ss/ss-falcom-classics-2-title.png"
+    ],
+    "cover": "images/ss/ss-falcom-classics-2-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "伊苏II俯视角像素ARPG，城镇齐全"
   },
   {
     "id": "ss-albert-odyssey",
@@ -1311,7 +1499,9 @@
       "images/ss/ss-albert-odyssey-x2.jpg",
       "images/ss/ss-albert-odyssey-title.png"
     ],
-    "cover": "images/ss/ss-albert-odyssey-box.jpg"
+    "cover": "images/ss/ss-albert-odyssey-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG，城镇商店一应俱全"
   },
   {
     "id": "ss-soukyugurentai",
@@ -1350,7 +1540,9 @@
       "images/ss/ss-soukyugurentai-s2.png",
       "images/ss/ss-soukyugurentai-title.png"
     ],
-    "cover": "images/ss/ss-soukyugurentai-box.jpg"
+    "cover": "images/ss/ss-soukyugurentai-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "纵版射击游戏"
   },
   {
     "id": "ss-puyo-puyo-sun",
@@ -1382,7 +1574,45 @@
       "images/ss/ss-puyo-puyo-sun-s1.png",
       "images/ss/ss-puyo-puyo-sun-title.png"
     ],
-    "cover": "images/ss/ss-puyo-puyo-sun-box.jpg"
+    "cover": "images/ss/ss-puyo-puyo-sun-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "对战消除解谜游戏"
+  },
+  {
+    "id": "ss-langrisser-4",
+    "title": "Langrisser IV",
+    "titleZh": "梦幻模拟战IV",
+    "titleJa": "ラングリッサーIV",
+    "year": 1997,
+    "developer": "Career Soft",
+    "publisher": "Masaya",
+    "genre": "战略角色扮演",
+    "tags": [
+      "战棋",
+      "多路线",
+      "像素"
+    ],
+    "players": "1",
+    "tagline": "光明、混沌、独立三线分歧的战棋名作",
+    "description": "回归回合制战棋的《梦幻模拟战IV》，被许多粉丝视为系列的又一高峰。指挥官率领佣兵在格子地图上展开大规模会战，兵种相克、指挥范围加成，策略味道十足。\n\n剧情分为光明、混沌、独立三条路线，你的选择会改变伙伴的去留和敌我阵营，重玩价值极高。漆原智志的华丽人设、全程日语配音，加上精美的像素战斗动画，土星的表现力展现无遗。\n\n系列粉丝不可错过，新玩家也可以从这一作感受梦幻模拟战的独特魅力。",
+    "highlights": [
+      "光明·混沌·独立三条路线",
+      "指挥官+佣兵的大规模会战",
+      "漆原智志人设与全程配音",
+      "精致的像素战斗动画"
+    ],
+    "reviews": [],
+    "editorScore": 8.4,
+    "is2D": true,
+    "screenshots": [
+      "images/ss/ss-langrisser-4-s1.png",
+      "images/ss/ss-langrisser-4-x1.jpg",
+      "images/ss/ss-langrisser-4-x2.jpg",
+      "images/ss/ss-langrisser-4-title.png"
+    ],
+    "cover": "images/ss/ss-langrisser-4-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "像素战棋RPG，以战场为主"
   },
   {
     "id": "ss-magic-knight-rayearth",
@@ -1431,7 +1661,9 @@
       "images/ss/ss-magic-knight-rayearth-x1.jpg",
       "images/ss/ss-magic-knight-rayearth-title.png"
     ],
-    "cover": "images/ss/ss-magic-knight-rayearth-box.jpg"
+    "cover": "images/ss/ss-magic-knight-rayearth-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素ARPG，可逛城镇与迷宫"
   },
   {
     "id": "ss-leynos-2",
@@ -1479,7 +1711,9 @@
       "images/ss/ss-leynos-2-s1.png",
       "images/ss/ss-leynos-2-title.png"
     ],
-    "cover": "images/ss/ss-leynos-2-box.jpg"
+    "cover": "images/ss/ss-leynos-2-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版像素机甲动作"
   },
   {
     "id": "ss-layer-section",
@@ -1524,7 +1758,9 @@
       "images/ss/ss-layer-section-x2.png",
       "images/ss/ss-layer-section-title.png"
     ],
-    "cover": "images/ss/ss-layer-section-box.jpg"
+    "cover": "images/ss/ss-layer-section-box.jpg",
+    "styleMatch": 0,
+    "styleNote": "纵版射击游戏"
   },
   {
     "id": "ss-mega-man-8",
@@ -1568,7 +1804,92 @@
       "images/ss/ss-mega-man-8-x1.png",
       "images/ss/ss-mega-man-8-title.png"
     ],
-    "cover": "images/ss/ss-mega-man-8-box.jpg"
+    "cover": "images/ss/ss-mega-man-8-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "横版像素平台动作"
+  },
+  {
+    "id": "ss-falcom-classics",
+    "title": "Falcom Classics",
+    "titleZh": "Falcom经典合集",
+    "titleJa": "ファルコムクラシックス",
+    "year": 1997,
+    "developer": "Nihon Falcom（原作）",
+    "publisher": "Victor Interactive Software",
+    "genre": "动作角色扮演",
+    "tags": [
+      "像素",
+      "伊苏",
+      "合集"
+    ],
+    "players": "1",
+    "tagline": "伊苏、屠龙者、魔城传说，Falcom元祖三连发",
+    "description": "想知道日式ARPG的源头在哪里？《Falcom经典合集》为你收录了Falcom早期的三部奠基之作：《屠龙者》、《魔城传说》（Xanadu）以及《伊苏I》，并为土星重新绘制了画面，原版模式也可选择。\n\n其中最值得一玩的当然是《伊苏I》：俯视角的艾斯塔利亚大陆上，城镇、原野、神殿与达姆之塔串联成一场紧凑的冒险，碰撞战斗爽快又上手。《魔城传说》则是带有横版视角的硬派ARPG，深度惊人。\n\n这些作品在1997年已显古老，但它们奠定了整个日式ARPG的基础，是一份珍贵的游戏史教材。",
+    "highlights": [
+      "收录强化版《伊苏I》",
+      "Falcom元祖ARPG三部曲",
+      "强化版与原版可切换",
+      "附赠特典光盘"
+    ],
+    "reviews": [],
+    "editorScore": 8.3,
+    "is2D": true,
+    "screenshots": [
+      "images/ss/ss-falcom-classics-s1.png",
+      "images/ss/ss-falcom-classics-x1.png",
+      "images/ss/ss-falcom-classics-x2.png",
+      "images/ss/ss-falcom-classics-title.png"
+    ],
+    "cover": "images/ss/ss-falcom-classics-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "伊苏I俯视角像素ARPG，有城镇"
+  },
+  {
+    "id": "ss-ogre-battle",
+    "title": "Ogre Battle: The March of the Black Queen",
+    "titleZh": "皇家骑士团",
+    "titleJa": "伝説のオウガバトル",
+    "year": 1996,
+    "developer": "Riverhillsoft（原作：Quest）",
+    "publisher": "Riverhillsoft",
+    "genre": "战略角色扮演",
+    "tags": [
+      "像素",
+      "即时战略",
+      "多结局"
+    ],
+    "players": "1",
+    "tagline": "解放城镇、塔罗占卜，皇家骑士团的起点",
+    "description": "松野泰己的成名作《传说的奥伽战争》（国内俗称《皇家骑士团》）在土星上重新登场！你率领反抗军在大地图上即时调动部队，解放一座座城镇与神殿，在战斗中观察部队自动交战，策略全在编队与调度之中。\n\n声望值系统决定了你是光明的英雄还是冷酷的征服者，塔罗牌占卜、隐藏角色、十余种结局，耐玩度极高。土星版强化了画面并加入少量语音，读盘也经过精心优化。\n\n它与《皇家骑士团2》一起构成了奥伽战争传奇，喜欢策略RPG的玩家务必一试。",
+    "highlights": [
+      "大地图即时调度部队",
+      "解放城镇的声望系统",
+      "塔罗牌占卜与隐藏角色",
+      "多结局设计"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "28/40",
+        "quote": "四位编辑给出7/6/8/7，移植稳当"
+      },
+      {
+        "source": "Sega Saturn Magazine (日)",
+        "score": "7.33/10",
+        "quote": "画面强化，读盘优化到位"
+      }
+    ],
+    "editorScore": 8.3,
+    "is2D": true,
+    "screenshots": [
+      "images/ss/ss-ogre-battle-s1.png",
+      "images/ss/ss-ogre-battle-x1.png",
+      "images/ss/ss-ogre-battle-x2.png",
+      "images/ss/ss-ogre-battle-title.png"
+    ],
+    "cover": "images/ss/ss-ogre-battle-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "俯视大地图解放城镇，战斗自动进行"
   },
   {
     "id": "ss-astal",
@@ -1612,7 +1933,9 @@
       "images/ss/ss-astal-s2.png",
       "images/ss/ss-astal-title.png"
     ],
-    "cover": "images/ss/ss-astal-box.jpg"
+    "cover": "images/ss/ss-astal-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "手绘横版平台动作"
   },
   {
     "id": "ss-rayman",
@@ -1655,7 +1978,51 @@
       "images/ss/ss-rayman-s1.png",
       "images/ss/ss-rayman-title.png"
     ],
-    "cover": "images/ss/ss-rayman-box.jpg"
+    "cover": "images/ss/ss-rayman-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "手绘横版平台动作"
+  },
+  {
+    "id": "ss-dragon-force-2",
+    "title": "Dragon Force II",
+    "titleZh": "龙之力2",
+    "titleJa": "ドラゴンフォースII 神去りし大地に",
+    "year": 1998,
+    "developer": "Sega",
+    "publisher": "Sega",
+    "genre": "战略角色扮演",
+    "tags": [
+      "战略",
+      "百人大战",
+      "日版独占"
+    ],
+    "players": "1",
+    "tagline": "百人大战再临，研究所系统更添深度",
+    "description": "《龙之力》的正统续作，仅在日本发售。神明离去的大陆上群雄并起，你依旧要招揽将领、攻城略地，在战场上指挥上百名士兵对冲厮杀。\n\n本作加入了“研究所”系统，可以研发新能力；每支部队还能混编两种兵种，地面与空中部队协同作战，战略选择更加丰富。田中公平与根岸贵幸操刀的配乐气势磅礴，全程语音也让剧情更有代入感。\n\n画面表现略逊前作，但玩法更为成熟，喜欢前作的玩家值得找来一试。",
+    "highlights": [
+      "研究所系统研发新能力",
+      "部队可混编两种兵种",
+      "田中公平参与作曲",
+      "上百士兵同屏即时战斗"
+    ],
+    "reviews": [
+      {
+        "source": "GameSpot",
+        "score": "7.9/10",
+        "quote": "与前作极为相似，玩法更好但演出稍逊，前作粉丝值得进口"
+      }
+    ],
+    "editorScore": 8.2,
+    "is2D": true,
+    "screenshots": [
+      "images/ss/ss-dragon-force-2-s1.png",
+      "images/ss/ss-dragon-force-2-x1.jpg",
+      "images/ss/ss-dragon-force-2-x2.jpg",
+      "images/ss/ss-dragon-force-2-title.png"
+    ],
+    "cover": "images/ss/ss-dragon-force-2-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "像素战略RPG，以大地图与战场为主"
   },
   {
     "id": "ss-shining-wisdom",
@@ -1701,9 +2068,13 @@
     "is2D": true,
     "screenshots": [
       "images/ss/ss-shining-wisdom-s1.png",
+      "images/ss/ss-shining-wisdom-x1.png",
+      "images/ss/ss-shining-wisdom-x2.png",
       "images/ss/ss-shining-wisdom-title.png"
     ],
-    "cover": "images/ss/ss-shining-wisdom-box.jpg"
+    "cover": "images/ss/ss-shining-wisdom-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "塞尔达式俯视角ARPG，有城镇与商店"
   },
   {
     "id": "ss-langrisser-3",
@@ -1733,9 +2104,13 @@
     "is2D": true,
     "screenshots": [
       "images/ss/ss-langrisser-3-s1.png",
+      "images/ss/ss-langrisser-3-x1.jpg",
+      "images/ss/ss-langrisser-3-x2.jpg",
       "images/ss/ss-langrisser-3-title.png"
     ],
-    "cover": "images/ss/ss-langrisser-3-box.jpg"
+    "cover": "images/ss/ss-langrisser-3-box.jpg",
+    "styleMatch": 2,
+    "styleNote": "像素战棋RPG，以战场为主"
   },
   {
     "id": "ss-clockwork-knight",
@@ -1784,6 +2159,89 @@
       "images/ss/ss-clockwork-knight-x2.png",
       "images/ss/ss-clockwork-knight-title.png"
     ],
-    "cover": "images/ss/ss-clockwork-knight-box.jpg"
+    "cover": "images/ss/ss-clockwork-knight-box.jpg",
+    "styleMatch": 1,
+    "styleNote": "2.5D横版平台动作"
+  },
+  {
+    "id": "ss-linkle-liver-story",
+    "title": "Linkle Liver Story",
+    "titleZh": "林克尔利佛物语",
+    "titleJa": "リンクル・リバー・ストーリー",
+    "year": 1996,
+    "developer": "Nextech",
+    "publisher": "Sega",
+    "genre": "动作角色扮演",
+    "tags": [
+      "像素",
+      "俯视角",
+      "可爱"
+    ],
+    "players": "1",
+    "tagline": "狐狸少女的种子冒险，土星冷门俯视角ARPG",
+    "description": "可爱的狐耳少女基奇，为了拯救被黑暗侵蚀的大地踏上旅程！《林克尔利佛物语》是一款不折不扣的俯视角像素ARPG：明亮的森林、村庄、河流与洞窟，画风与你心中的“村庄冒险”完美吻合。\n\n独特之处在于“种子”系统——在各地寻找种子并种下，就能长出新的武器，最多可获得八种，剑、锤、回旋镖各有用途。村庄里有商店与居民，迷宫中则有谜题与头目等着你。\n\n当年评价平平、销量稀少，如今却是土星ARPG爱好者口中的隐藏佳作。",
+    "highlights": [
+      "种下种子获得八种武器",
+      "明亮可爱的俯视角像素画面",
+      "村庄、森林、洞窟自由探索",
+      "土星少见的纯正俯视角ARPG"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "26/40",
+        "quote": "中规中矩的动作RPG"
+      },
+      {
+        "source": "Sega Saturn Magazine (日)",
+        "score": "6.66/10",
+        "quote": "画面可爱但缺乏新意"
+      }
+    ],
+    "editorScore": 7.9,
+    "is2D": true,
+    "screenshots": [
+      "images/ss/ss-linkle-liver-story-s1.png",
+      "images/ss/ss-linkle-liver-story-x1.png",
+      "images/ss/ss-linkle-liver-story-title.png"
+    ],
+    "cover": "images/ss/ss-linkle-liver-story-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素ARPG，村庄森林自由探索"
+  },
+  {
+    "id": "ss-mahou-gakuen-lunar",
+    "title": "Mahou Gakuen Lunar!",
+    "titleZh": "魔法学园露娜！",
+    "titleJa": "魔法学園ルナ！",
+    "year": 1997,
+    "developer": "Game Arts / Studio Alex",
+    "publisher": "ESP / Kadokawa Shoten",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "校园",
+      "动画演出"
+    ],
+    "players": "1",
+    "tagline": "露娜外传的魔法学园日常，轻松可爱",
+    "description": "露娜系列的番外篇来到了魔法学园！本作是GG版《露娜 漫步学园》的土星强化重制，讲述露娜世界千年前，少女艾莉在魔法学校中修行、与伙伴们一起解开学园谜团的故事。\n\n画面全面升级，色彩丰富的像素学园与城镇充满生活气息；战斗改为露娜系列招牌的系统，角色在战场上移动攻击，还加入了多人合体技。大量动画过场与配音，让轻松幽默的学园日常更显生动。\n\n它没有正传那样的史诗感，却像一部温暖的校园动画，适合在悠闲的午后慢慢品味。",
+    "highlights": [
+      "GG版外传的土星强化重制",
+      "露娜系列招牌战斗与合体技",
+      "新增动画过场与配音",
+      "轻松幽默的魔法学园故事"
+    ],
+    "reviews": [],
+    "editorScore": 7.8,
+    "is2D": true,
+    "screenshots": [
+      "images/ss/ss-mahou-gakuen-lunar-s1.png",
+      "images/ss/ss-mahou-gakuen-lunar-x1.jpg",
+      "images/ss/ss-mahou-gakuen-lunar-title.png"
+    ],
+    "cover": "images/ss/ss-mahou-gakuen-lunar-box.jpg",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG，学园与城镇漫步"
   }
 ]
