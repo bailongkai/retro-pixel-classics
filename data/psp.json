@@ -1,0 +1,1544 @@
+[
+  {
+    "id": "psp-tactics-ogre",
+    "title": "Tactics Ogre: Let Us Cling Together",
+    "titleZh": "皇家骑士团 命运之轮",
+    "titleJa": "タクティクスオウガ 運命の輪",
+    "year": 2010,
+    "developer": "Square Enix",
+    "publisher": "Square Enix",
+    "genre": "战略角色扮演",
+    "tags": [
+      "像素",
+      "战棋",
+      "多结局",
+      "神作重制"
+    ],
+    "players": "1",
+    "tagline": "松野泰己亲手重铸的战棋圣典",
+    "description": "1995年SFC上的《皇家骑士团2》是无数战棋玩家的启蒙，十五年后，松野泰己、吉田明彦、崎元仁这套原班人马在PSP上把它彻底重铸。瓦雷利亚岛的民族仇杀、少年迪尼姆在“法”与“混沌”之间的抉择，依然是游戏史上最沉重也最动人的政治群像剧。\n\n本作在保留原版手绘像素角色的同时，加入了时间轴回溯系统“命运之轮”，可以随时倒带重来，甚至回到剧情分歧点走另一条路线；职业改为全队共享等级，养成节奏更紧凑，新增的支线与“死者宫殿”更让通关后的内容深不见底。\n\n如果你只想在PSP上玩一款战棋，那就是它。像素小人的每一次挥剑、每一句“我们不是任何人的棋子”，都在提醒你什么叫做经典。",
+    "highlights": [
+      "松野泰己剧本，法/中立/混沌三线分歧",
+      "“命运之轮”时间回溯系统",
+      "吉田明彦像素立绘与崎元仁重编曲",
+      "死者宫殿等海量通关后内容"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "36/40",
+        "quote": "原作精髓完整保留，新系统让重玩与探索都更加顺畅"
+      },
+      {
+        "source": "Metacritic",
+        "score": "87/100",
+        "quote": "媒体普遍盛赞其为掌机战棋的顶点之作"
+      },
+      {
+        "source": "GameSpot",
+        "score": "9/10",
+        "quote": "剧情深沉、战术丰富，是一部值得反复游玩的杰作"
+      }
+    ],
+    "editorScore": 9.6,
+    "is2D": true,
+    "screenshots": [
+      "images/psp/psp-tactics-ogre-s1.png",
+      "images/psp/psp-tactics-ogre-s2.png",
+      "images/psp/psp-tactics-ogre-title.png"
+    ],
+    "cover": "images/psp/psp-tactics-ogre-box.jpg"
+  },
+  {
+    "id": "psp-fft-war-of-the-lions",
+    "title": "Final Fantasy Tactics: The War of the Lions",
+    "titleZh": "最终幻想战略版 狮子战争",
+    "titleJa": "ファイナルファンタジータクティクス 獅子戦争",
+    "year": 2007,
+    "developer": "Square Enix",
+    "publisher": "Square Enix",
+    "genre": "战略角色扮演",
+    "tags": [
+      "像素",
+      "战棋",
+      "职业系统",
+      "宫廷阴谋"
+    ],
+    "players": "1-2",
+    "tagline": "伊瓦利斯的狮子战争，在掌心重燃",
+    "description": "1997年PS版《最终幻想战略版》以复杂的职业系统与莎翁式的宫廷权谋征服了一代人，PSP版《狮子战争》则是它的决定版。拉姆萨·贝欧武夫与好友迪利塔从同窗走向殊途，一个追寻真相、一个攀上王座，结局至今仍让人反复咀嚼。\n\n本作全面重译剧本，文字更加古雅；新增手绘风格过场动画，由《浪漫沙加》系列美术打造，宛如会动的油画。新职业“暗黑骑士”“洋葱骑士”，新角色《FF12》的巴尔弗雷亚与卢索加盟，联机对战与合作关卡也一并加入。\n\n骑士、黑魔、忍者、算术士……二十余种职业自由搭配，像素小人在立体地图上跑位施法，策略深度至今难有对手。唯一的遗憾是部分技能动画有拖慢，但这无损它作为PSP必玩之作的地位。",
+    "highlights": [
+      "二十余种职业与技能混搭系统",
+      "全新手绘过场动画与重译剧本",
+      "新增暗黑骑士、洋葱骑士职业",
+      "支持联机合作与对战"
+    ],
+    "reviews": [
+      {
+        "source": "Metacritic",
+        "score": "88/100",
+        "quote": "经典重现，新增内容令老玩家也有重温的理由"
+      },
+      {
+        "source": "IGN",
+        "score": "9/10",
+        "quote": "史上最好的战略RPG之一，如今可以随身携带"
+      },
+      {
+        "source": "Game Informer",
+        "score": "9.5/10",
+        "quote": "剧情与系统深度依然令人惊叹"
+      }
+    ],
+    "editorScore": 9.5,
+    "is2D": true,
+    "screenshots": [
+      "images/psp/psp-fft-war-of-the-lions-s1.png",
+      "images/psp/psp-fft-war-of-the-lions-x1.png",
+      "images/psp/psp-fft-war-of-the-lions-title.png"
+    ],
+    "cover": "images/psp/psp-fft-war-of-the-lions-box.jpg"
+  },
+  {
+    "id": "psp-trails-in-the-sky-fc",
+    "title": "The Legend of Heroes: Trails in the Sky",
+    "titleZh": "英雄传说 空之轨迹FC",
+    "titleJa": "英雄伝説 空の軌跡FC",
+    "year": 2006,
+    "developer": "Nihon Falcom",
+    "publisher": "Nihon Falcom / XSEED Games",
+    "genre": "角色扮演",
+    "tags": [
+      "像素角色",
+      "回合制",
+      "剧情向",
+      "轨迹系列"
+    ],
+    "players": "1",
+    "tagline": "游击士少女艾丝蒂尔的旅程起点",
+    "description": "《空之轨迹》是Falcom“轨迹”系列的原点，2004年PC版之后在PSP上获得了更多玩家。故事讲述见习游击士艾丝蒂尔与养子约修亚环游利贝尔王国各地，从帮村民找猫、护送商队这些小委托开始，一点点卷入王国政变的阴谋中。\n\n3D场景搭配Q版像素角色，导力器“结晶回路”配置决定魔法组合，回合制战斗加入行动顺序条与“S战技”插队，策略感十足。最让人称道的是NPC对话会随剧情推进不断变化，每个城镇都是活生生的世界。\n\n节奏偏慢、开头平淡，是它常被提起的缺点；但只要撑过第一章，你就会被这个温暖又细腻的世界牢牢抓住——而FC结尾那一幕，更是让无数玩家立刻冲去买续作。",
+    "highlights": [
+      "Q版像素角色+3D场景的Falcom式美学",
+      "结晶回路自由组合魔法",
+      "NPC对话随剧情不断更新",
+      "细水长流的成长与恋爱故事"
+    ],
+    "reviews": [
+      {
+        "source": "Metacritic",
+        "score": "79/100",
+        "quote": "PSP英文版获得普遍好评，剧本质量尤其受称赞"
+      },
+      {
+        "source": "GameSpot",
+        "score": "8/10",
+        "quote": "节奏虽慢，但角色与世界观极具魅力"
+      },
+      {
+        "source": "IGN",
+        "score": "8/10",
+        "quote": "传统而扎实的日式RPG，值得耐心品味"
+      }
+    ],
+    "editorScore": 9.3,
+    "is2D": true,
+    "screenshots": [
+      "images/psp/psp-trails-in-the-sky-fc-s1.png",
+      "images/psp/psp-trails-in-the-sky-fc-x1.jpg",
+      "images/psp/psp-trails-in-the-sky-fc-x2.jpg",
+      "images/psp/psp-trails-in-the-sky-fc-x3.jpg"
+    ],
+    "cover": "images/psp/psp-trails-in-the-sky-fc-box.jpg"
+  },
+  {
+    "id": "psp-trails-in-the-sky-sc",
+    "title": "The Legend of Heroes: Trails in the Sky SC",
+    "titleZh": "英雄传说 空之轨迹SC",
+    "titleJa": "英雄伝説 空の軌跡SC",
+    "year": 2007,
+    "developer": "Nihon Falcom",
+    "publisher": "Nihon Falcom / XSEED Games",
+    "genre": "角色扮演",
+    "tags": [
+      "像素角色",
+      "回合制",
+      "剧情向",
+      "轨迹系列"
+    ],
+    "players": "1",
+    "tagline": "约修亚离去之后，艾丝蒂尔的成长篇",
+    "description": "FC结尾约修亚的不辞而别，是空轨玩家心中永远的伤口。SC直接接续前作，艾丝蒂尔收起眼泪，重新踏上游击士之路，一边追寻约修亚的足迹，一边与神秘结社“身喰らう蛇”的执行者们正面交锋。\n\n本作体量几乎是前作的两倍，PSP版甚至需要双UMD。战斗系统加入了强力的“S Break”与连携攻击，结晶回路更加丰富，前作埋下的伏笔在这里一一引爆，众多配角也都迎来了属于自己的高光时刻。\n\n如果说FC是铺垫，SC就是真正的爆发。终章的群像大战与那首《星之所在》，是许多人心中轨迹系列的最高点。不玩SC，等于只看了空轨故事的一半。",
+    "highlights": [
+      "直接承接FC的完整后篇",
+      "“身喰らう蛇”执行者群像登场",
+      "S Break与连携战斗更加爽快",
+      "双UMD的超大容量剧情"
+    ],
+    "reviews": [
+      {
+        "source": "Metacritic",
+        "score": "76/100",
+        "quote": "PSP英文版延续前作口碑，剧情厚度大幅提升"
+      },
+      {
+        "source": "RPGFan",
+        "score": "82%",
+        "quote": "对系列粉丝而言是必玩的高质量续篇"
+      }
+    ],
+    "editorScore": 9.2,
+    "is2D": true,
+    "screenshots": [
+      "images/psp/psp-trails-in-the-sky-sc-x1.jpg",
+      "images/psp/psp-trails-in-the-sky-sc-x2.jpg",
+      "images/psp/psp-trails-in-the-sky-sc-x3.jpg"
+    ],
+    "cover": "images/psp/psp-trails-in-the-sky-sc-box.jpg"
+  },
+  {
+    "id": "psp-suikoden-1-2",
+    "title": "Genso Suikoden I & II",
+    "titleZh": "幻想水浒传I&II",
+    "titleJa": "幻想水滸伝I&II",
+    "year": 2006,
+    "developer": "Konami",
+    "publisher": "Konami",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "108星",
+      "战争",
+      "日版独占"
+    ],
+    "players": "1",
+    "tagline": "一百零八星齐聚，两部神作合一卡",
+    "description": "以《水浒传》“一百零八星”为灵感，《幻想水浒传》让玩家亲手建立一座属于自己的根据地，从各地招揽天罡地煞，看着城堡一天天热闹起来。PSP版把PS时代的前两作收录于一张UMD，是掌机上重温这对经典最方便的方式。\n\n一代讲述帝国将军之子提尔反抗赤月帝国的故事；二代则以都市同盟与王国军的战火为背景，主角与挚友乔伊斯的对立被誉为JRPG史上最痛的友情之一。六人回合制战斗、军团战、一对一决斗三种玩法交织，节奏张弛有度。\n\n二代的像素表现与剧本至今被视为系列巅峰。PSP版画面支持宽屏，虽有少许读盘拖慢，但这依然是一份必须珍藏的JRPG遗产。",
+    "highlights": [
+      "招募108名伙伴建立根据地",
+      "回合战、军团战、单挑三种战斗",
+      "二代剧本被誉为系列巅峰",
+      "两部经典一卡收录"
+    ],
+    "reviews": [
+      {
+        "source": "IGN",
+        "score": "9/10",
+        "quote": "PS原版初代以独特的招募系统与扎实剧情备受赞誉"
+      },
+      {
+        "source": "Metacritic",
+        "score": "82/100",
+        "quote": "PS原版二代被誉为最出色的日式RPG之一"
+      }
+    ],
+    "editorScore": 9.2,
+    "is2D": true,
+    "screenshots": [
+      "images/psp/psp-suikoden-1-2-s1.png",
+      "images/psp/psp-suikoden-1-2-title.png"
+    ],
+    "cover": "images/psp/psp-suikoden-1-2-box.jpg"
+  },
+  {
+    "id": "psp-valkyrie-profile-lenneth",
+    "title": "Valkyrie Profile: Lenneth",
+    "titleZh": "女神侧身像 雷娜斯",
+    "titleJa": "ヴァルキリープロファイル -レナス-",
+    "year": 2006,
+    "developer": "tri-Ace",
+    "publisher": "Square Enix",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "北欧神话",
+      "多结局",
+      "连击战斗"
+    ],
+    "players": "1",
+    "tagline": "女武神收割英灵，悲歌响彻米德加尔德",
+    "description": "女武神雷娜斯奉主神奥丁之命降临人间，寻找即将死去的勇者之魂，送往英灵殿备战诸神黄昏。每一位英灵加入前都有一段独立的死亡故事——被迫自尽的剑士、为爱殉情的法师——这种“先看他们怎么死”的叙事方式，至今仍极具冲击力。\n\n战斗系统是本作最大的魅力：四名队员分别对应四个按键，按下时机不同即可打出连击，蓄满能量后发动华丽的“必杀技”。迷宫则采用横向卷轴，配合冰晶射击、跳跃等动作解谜，像素动画精细得令人叹为观止。\n\nPSP版移植自1999年PS原作，加入了全新CG动画。樱庭统的激昂配乐、隐藏的A结局，都值得你一再挑战。",
+    "highlights": [
+      "四键对应四人的连击战斗",
+      "每位英灵独立的悲剧短篇",
+      "横版卷轴动作迷宫",
+      "樱庭统激昂配乐与A结局"
+    ],
+    "reviews": [
+      {
+        "source": "Metacritic",
+        "score": "80/100",
+        "quote": "近十年前的经典依然保有独特魅力，值得新玩家补课"
+      }
+    ],
+    "editorScore": 9.1,
+    "is2D": true,
+    "screenshots": [
+      "images/psp/psp-valkyrie-profile-lenneth-s1.png",
+      "images/psp/psp-valkyrie-profile-lenneth-s2.png",
+      "images/psp/psp-valkyrie-profile-lenneth-title.png"
+    ],
+    "cover": "images/psp/psp-valkyrie-profile-lenneth-box.jpg"
+  },
+  {
+    "id": "psp-castlevania-dracula-x-chronicles",
+    "title": "Castlevania: The Dracula X Chronicles",
+    "titleZh": "恶魔城 X 年代记",
+    "titleJa": "悪魔城ドラキュラXクロニクル",
+    "year": 2007,
+    "developer": "Konami",
+    "publisher": "Konami",
+    "genre": "动作",
+    "tags": [
+      "2.5D重制",
+      "横版动作",
+      "收录月下",
+      "哥特"
+    ],
+    "players": "1",
+    "tagline": "血之轮回重制，内藏月下夜想曲",
+    "description": "这张UMD里藏着恶魔城历史上最重要的两部作品。主篇是PC Engine名作《恶魔城X 血之轮回》的2.5D重制版：里希特·贝尔蒙特为救出被掳走的恋人安妮特，一路杀入德古拉城，多分支路线与隐藏救援角色的设计至今精妙。\n\n更大的惊喜在于隐藏内容：完整收录了PCE原版《血之轮回》，以及大幅修正翻译、新增玛丽亚可操作角色的《月下夜想曲》。前者是古典恶魔城的巅峰，后者是“银河恶魔城”的开山鼻祖——两者都是原汁原味的2D像素作品。\n\n重制版采用多边形建模，虽然美术见仁见智，但关卡设计与Boss战依旧经典。一卡三作，PSP玩家没有理由错过。",
+    "highlights": [
+      "《血之轮回》2.5D重制",
+      "隐藏收录PCE原版《血之轮回》",
+      "隐藏收录新译《月下夜想曲》",
+      "多分支路线与隐藏角色"
+    ],
+    "reviews": [
+      {
+        "source": "Metacritic",
+        "score": "80/100",
+        "quote": "一卡收录三部作品，内容极其丰厚"
+      },
+      {
+        "source": "IGN",
+        "score": "8/10",
+        "quote": "重制版扎实，附赠的两部经典更是无价之宝"
+      },
+      {
+        "source": "GameSpot",
+        "score": "8/10",
+        "quote": "恶魔城粉丝的必备合集"
+      }
+    ],
+    "editorScore": 9.1,
+    "is2D": false,
+    "screenshots": [
+      "images/psp/psp-castlevania-dracula-x-chronicles-s1.png",
+      "images/psp/psp-castlevania-dracula-x-chronicles-s3.png",
+      "images/psp/psp-castlevania-dracula-x-chronicles-title.png"
+    ],
+    "cover": "images/psp/psp-castlevania-dracula-x-chronicles-box.jpg"
+  },
+  {
+    "id": "psp-zero-no-kiseki",
+    "title": "The Legend of Heroes: Zero no Kiseki",
+    "titleZh": "英雄传说 零之轨迹",
+    "titleJa": "英雄伝説 零の軌跡",
+    "year": 2010,
+    "developer": "Nihon Falcom",
+    "publisher": "Nihon Falcom",
+    "genre": "角色扮演",
+    "tags": [
+      "像素角色",
+      "回合制",
+      "都市警察",
+      "轨迹系列"
+    ],
+    "players": "1",
+    "tagline": "魔都克洛斯贝尔的警察故事",
+    "description": "离开利贝尔，舞台转到夹在两大强国之间的自治州克洛斯贝尔。新人搜查官罗伊德与同伴们组成“特务支援科”，在这座黑帮、财阀与政客交织的“魔都”里，从琐碎的市民委托做起，一步步揭开城市深处的黑暗。\n\n本作改进了战斗系统，加入“组队攻击”与地图上的先制攻击判定，战斗节奏明显加快；单一城市的高密度舞台设计，让街区、店铺和居民都显得格外立体。剧情则延续了Falcom擅长的群像描写，配角塑造尤为出色。\n\n《零之轨迹》在中文玩家圈中口碑极高，被许多人视为轨迹系列叙事最紧凑的一作。PSP末期，它与续篇《碧之轨迹》一起，为这台掌机的日式RPG画上了漂亮的句点。",
+    "highlights": [
+      "克洛斯贝尔单城高密度舞台",
+      "特务支援科的警察办案式剧情",
+      "组队攻击与先制系统加快节奏",
+      "零·碧双部曲的开篇"
+    ],
+    "reviews": [
+      {
+        "source": "Metacritic",
+        "score": "90/100",
+        "quote": "2022年PC版《零之轨迹：改》英文化后获媒体一致盛赞"
+      }
+    ],
+    "editorScore": 9.0,
+    "is2D": true,
+    "screenshots": [
+      "images/psp/psp-zero-no-kiseki-s1.png",
+      "images/psp/psp-zero-no-kiseki-x1.jpg",
+      "images/psp/psp-zero-no-kiseki-x2.jpg"
+    ],
+    "cover": "images/psp/psp-zero-no-kiseki-box.jpg"
+  },
+  {
+    "id": "psp-ys-oath-in-felghana",
+    "title": "Ys: The Oath in Felghana",
+    "titleZh": "伊苏 菲尔迦纳之誓约",
+    "titleJa": "イース -フェルガナの誓い-",
+    "year": 2010,
+    "developer": "Nihon Falcom",
+    "publisher": "Nihon Falcom / XSEED Games",
+    "genre": "动作角色扮演",
+    "tags": [
+      "像素角色",
+      "高速战斗",
+      "Boss战",
+      "名曲"
+    ],
+    "players": "1",
+    "tagline": "红发亚特鲁最爽快的一次冒险",
+    "description": "本作是1989年《伊苏III》的彻底重制，2005年先登陆PC，2010年移植PSP。亚特鲁随好友多奇来到故乡菲尔迦纳，却发现这片土地被怪物与阴谋笼罩，于是剑士再次踏上征程。\n\n原作的横版玩法被改成了伊苏招牌的俯视角高速动作：跳跃、冲刺、三种魔法手环切换，节奏快得惊人。真正让人上瘾的是Boss战——每个Boss都需要你熟记招式、精准闪避，难度高却极其公平，通关后还有时间攻击模式等你挑战。\n\nFalcom音乐队重编的配乐堪称系列巅峰，《Valestein城》一响起，热血立刻沸腾。PSP版还加入了原版音乐切换和新的挑战内容，是体验Falcom动作功力的最佳入口。",
+    "highlights": [
+      "俯视角高速剑戟动作",
+      "高难度又公平的Boss战",
+      "系列巅峰级重编配乐",
+      "可切换PC88原版音乐"
+    ],
+    "reviews": [
+      {
+        "source": "Metacritic",
+        "score": "80/100",
+        "quote": "爽快的动作与出色Boss战获得普遍好评"
+      },
+      {
+        "source": "GameSpot",
+        "score": "7.5/10",
+        "quote": "节奏极快、挑战性十足的经典动作RPG"
+      }
+    ],
+    "editorScore": 9.0,
+    "is2D": true,
+    "screenshots": [
+      "images/psp/psp-ys-oath-in-felghana-s1.png",
+      "images/psp/psp-ys-oath-in-felghana-x1.png",
+      "images/psp/psp-ys-oath-in-felghana-title.png"
+    ],
+    "cover": "images/psp/psp-ys-oath-in-felghana-box.jpg"
+  },
+  {
+    "id": "psp-disgaea-afternoon-of-darkness",
+    "title": "Disgaea: Afternoon of Darkness",
+    "titleZh": "魔界战记 Portable",
+    "titleJa": "魔界戦記ディスガイア PORTABLE",
+    "year": 2006,
+    "developer": "Nippon Ichi Software",
+    "publisher": "Nippon Ichi Software / NIS America",
+    "genre": "战略角色扮演",
+    "tags": [
+      "像素",
+      "战棋",
+      "搞笑",
+      "刷刷刷"
+    ],
+    "players": "1-2",
+    "tagline": "等级上限9999的魔界狂想曲",
+    "description": "魔王之子拉哈尔睡了两年醒来，发现父王驾崩、魔界大乱，于是带着坏心眼的家臣艾特娜和一群Prinny企鹅，开始了夺回魔王宝座的荒诞征程。日本一的无厘头幽默与夸张演出，让这部战棋游戏充满了恶搞喜剧的味道。\n\n系统上它几乎是“无底洞”：等级上限9999、伤害数字动辄上亿，道具里还藏着可以无限深入的“道具界”；角色之间可以互相投掷、叠罗汉，地形“地理效应”又能形成连锁消除。想研究多深都可以。\n\nPSP版移植自PS2原作，额外加入了以艾特娜为主角的“艾特娜模式”与联机对战。可爱精致的像素角色、毫无下限的刷练乐趣，是掌机上最耐玩的战棋之一。",
+    "highlights": [
+      "等级上限9999的极致养成",
+      "可无限深入的“道具界”",
+      "投掷与叠罗汉等独特战术",
+      "新增“艾特娜模式”"
+    ],
+    "reviews": [
+      {
+        "source": "Metacritic",
+        "score": "87/100",
+        "quote": "移植完整且内容更丰富，是战棋爱好者的必备"
+      },
+      {
+        "source": "IGN",
+        "score": "9/10",
+        "quote": "深不见底的系统与爆笑剧情完美适配掌机"
+      },
+      {
+        "source": "GameRankings",
+        "score": "88%",
+        "quote": "PSP版整体口碑优于PS2原版"
+      }
+    ],
+    "editorScore": 9.0,
+    "is2D": true,
+    "screenshots": [
+      "images/psp/psp-disgaea-afternoon-of-darkness-s1.png",
+      "images/psp/psp-disgaea-afternoon-of-darkness-x1.png",
+      "images/psp/psp-disgaea-afternoon-of-darkness-title.png"
+    ],
+    "cover": "images/psp/psp-disgaea-afternoon-of-darkness-box.jpg"
+  },
+  {
+    "id": "psp-patapon",
+    "title": "Patapon",
+    "titleZh": "啪嗒砰",
+    "titleJa": "パタポン",
+    "year": 2007,
+    "developer": "Pyramid / SCE Japan Studio",
+    "publisher": "Sony Computer Entertainment",
+    "genre": "音乐",
+    "tags": [
+      "2D剪影",
+      "节奏",
+      "策略",
+      "原创IP"
+    ],
+    "players": "1",
+    "tagline": "敲响战鼓，指挥眼球小兵进军",
+    "description": "“啪嗒啪嗒啪嗒砰！”——你是啪嗒砰族的神明，用四个按键对应的四面战鼓，按节拍敲出口令，指挥小小的眼球战士前进、攻击、防御。简单的四拍子，组合出了一款前所未有的节奏策略游戏。\n\n节拍越准，小兵越亢奋，进入“FEVER”状态后战斗力大幅提升。在节奏之外，还要组建长矛兵、弓兵、骑兵等不同兵种，收集素材进化队伍，与巨型Boss展开史诗级对决。\n\n法国画师Rolito设计的黑色剪影风格极具辨识度，配上部落风的魔性音乐，让人玩完后脑中仍回响着“Pata Pata Pata Pon”。它是PSP最具原创性的作品之一，至今无可替代。",
+    "highlights": [
+      "四鼓节奏指挥军队",
+      "FEVER状态的节拍爽快感",
+      "多兵种编成与养成",
+      "Rolito剪影美术风格"
+    ],
+    "reviews": [
+      {
+        "source": "Metacritic",
+        "score": "86/100",
+        "quote": "节奏与策略的绝妙融合，充满原创性"
+      },
+      {
+        "source": "IGN",
+        "score": "9.2/10",
+        "quote": "PSP上最具新意与魅力的游戏之一"
+      },
+      {
+        "source": "GameSpot",
+        "score": "9/10",
+        "quote": "魔性音乐与独特画风让人欲罢不能"
+      }
+    ],
+    "editorScore": 9.0,
+    "is2D": true,
+    "screenshots": [
+      "images/psp/psp-patapon-s1.png",
+      "images/psp/psp-patapon-s2.png",
+      "images/psp/psp-patapon-title.png"
+    ],
+    "cover": "images/psp/psp-patapon-box.jpg"
+  },
+  {
+    "id": "psp-lumines",
+    "title": "Lumines",
+    "titleZh": "音乐方块",
+    "titleJa": "ルミネス",
+    "year": 2004,
+    "developer": "Q Entertainment",
+    "publisher": "Bandai / Ubisoft",
+    "genre": "解谜",
+    "tags": [
+      "2D",
+      "音乐",
+      "方块",
+      "首发神作"
+    ],
+    "players": "1-2",
+    "tagline": "水口哲也的声光方块盛宴",
+    "description": "PSP首发阵容里最耀眼的明星，出自《Rez》制作人水口哲也之手。规则简单到一分钟就能学会：把2×2的双色方块落下，凑成同色正方形，等待随音乐节拍横扫屏幕的“时间线”把它们消除。\n\n真正让人沉迷的是声光的融合：每一张“皮肤”都有不同的背景视觉与曲目，方块的落下、旋转、消除都会生成音效，与音乐融为一体。随着关卡推进，节拍越来越快，玩家仿佛在亲手演奏一场电子乐演出。\n\n它是那种“再来一局”就停不下来的游戏。在PSP的宽屏上，戴上耳机，沉浸在声光交织的方块世界里——这就是掌机游戏的完美形态。",
+    "highlights": [
+      "2×2方块配合时间线消除",
+      "声光一体的“皮肤”系统",
+      "节拍随关卡加速的沉浸体验",
+      "PSP首发代表作"
+    ],
+    "reviews": [
+      {
+        "source": "Metacritic",
+        "score": "89/100",
+        "quote": "PSP首发阵容中最出色的作品"
+      },
+      {
+        "source": "GameSpot",
+        "score": "9/10",
+        "quote": "简单易懂又深具策略，令人沉迷"
+      },
+      {
+        "source": "IGN",
+        "score": "8.6/10",
+        "quote": "声光体验极佳的解谜佳作"
+      }
+    ],
+    "editorScore": 9.0,
+    "is2D": true,
+    "screenshots": [
+      "images/psp/psp-lumines-s1.png",
+      "images/psp/psp-lumines-s2.png"
+    ],
+    "cover": "images/psp/psp-lumines-box.jpg"
+  },
+  {
+    "id": "psp-persona-3-portable",
+    "title": "Persona 3 Portable",
+    "titleZh": "女神异闻录3 携带版",
+    "titleJa": "ペルソナ3 ポータブル",
+    "year": 2009,
+    "developer": "Atlus",
+    "publisher": "Atlus",
+    "genre": "角色扮演",
+    "tags": [
+      "3D",
+      "校园",
+      "社群",
+      "女主角路线"
+    ],
+    "players": "1",
+    "tagline": "影时间里的校园与死亡",
+    "description": "每天午夜零点，会出现一个常人察觉不到的“影时间”，校舍会变成名为“塔尔塔罗斯”的巨塔，暗影在其中游荡。转学生主角加入特别课外活动部，以手枪对准自己的头部召唤Persona——这个惊人的设定让P3成为JRPG的另类经典。\n\n白天上课、打工、与朋友培养“社群”羁绊，晚上攀登巨塔战斗，日常与非日常的交错是系列的核心魅力。PSP版将3D城镇改为点选式移动，并新增可选的女主角路线，带来全新的社群剧情与音乐风格；战斗中也加入了直接指挥队友的功能。\n\n关于死亡与生命意义的沉重主题，加上目黑将司时髦的配乐，让本作至今仍被众多玩家视为系列最佳。",
+    "highlights": [
+      "“影时间”与塔尔塔罗斯设定",
+      "日常社群与夜间探索交错",
+      "新增女主角路线",
+      "可直接指挥队友战斗"
+    ],
+    "reviews": [
+      {
+        "source": "Metacritic",
+        "score": "89/100",
+        "quote": "内容丰富的移植版，新增女主角路线极具价值"
+      },
+      {
+        "source": "Fami通",
+        "score": "32/40",
+        "quote": "掌机上也能尽情享受的经典RPG"
+      }
+    ],
+    "editorScore": 9.0,
+    "is2D": false,
+    "screenshots": [
+      "images/psp/psp-persona-3-portable-s1.png",
+      "images/psp/psp-persona-3-portable-title.png"
+    ],
+    "cover": "images/psp/psp-persona-3-portable-box.jpg"
+  },
+  {
+    "id": "psp-locoroco",
+    "title": "LocoRoco",
+    "titleZh": "乐克乐克",
+    "titleJa": "ロコロコ",
+    "year": 2006,
+    "developer": "SCE Japan Studio",
+    "publisher": "Sony Computer Entertainment",
+    "genre": "平台跳跃",
+    "tags": [
+      "2D",
+      "倾斜世界",
+      "治愈",
+      "原创IP"
+    ],
+    "players": "1",
+    "tagline": "倾斜世界，跟着软糯小团子一起唱",
+    "description": "你不能直接控制主角，只能用L、R键倾斜整个世界，让软绵绵的乐克乐克滚动、弹跳。吃下果实它会变大，按下双键可以分裂成二十个小团子穿过狭窄缝隙，再合体为一——这种奇妙的操作方式，简单却充满乐趣。\n\n关卡里藏着大量隐藏通道与收集要素，为了找齐每一只乐克乐克和“咪咪”，你会反复探索每一处角落。由小团子们用自创语言合唱的主题曲，可爱到让人上瘾，相信每个玩过的人都能哼上两句。\n\n明亮的平涂2D画风、无暴力的温柔世界，让它成为PSP上最治愈的作品。无论大人还是孩子，都能在这里找到纯粹的快乐。",
+    "highlights": [
+      "倾斜世界的独特操作",
+      "分裂与合体的团子机制",
+      "魔性可爱的原创语合唱",
+      "平涂2D治愈画风"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "34/40",
+        "quote": "操作新奇又直观，世界观充满温暖"
+      },
+      {
+        "source": "Metacritic",
+        "score": "83/100",
+        "quote": "PSP上最有原创性的平台游戏之一"
+      },
+      {
+        "source": "IGN",
+        "score": "9/10",
+        "quote": "可爱、新鲜、令人上瘾"
+      }
+    ],
+    "editorScore": 8.9,
+    "is2D": true,
+    "screenshots": [
+      "images/psp/psp-locoroco-s1.png",
+      "images/psp/psp-locoroco-s2.png",
+      "images/psp/psp-locoroco-title.png"
+    ],
+    "cover": "images/psp/psp-locoroco-box.jpg"
+  },
+  {
+    "id": "psp-ys-i-ii-chronicles",
+    "title": "Ys I & II Chronicles",
+    "titleZh": "伊苏I·II 编年史",
+    "titleJa": "イースI&IIクロニクルズ",
+    "year": 2009,
+    "developer": "Nihon Falcom",
+    "publisher": "Nihon Falcom / XSEED Games",
+    "genre": "动作角色扮演",
+    "tags": [
+      "像素",
+      "撞击战斗",
+      "复刻",
+      "名曲"
+    ],
+    "players": "1",
+    "tagline": "伊苏传说的起点，像素重绘的决定版",
+    "description": "1987年诞生的《伊苏》奠定了Falcom的地位，《伊苏I·II编年史》是这对双作的决定版复刻。红发少年亚特鲁漂流到埃斯塔利亚，寻找六本伊苏之书，进而飞上传说中的天空之国伊苏——一气呵成的完整神话，至今读来依然动人。\n\n标志性的“撞击战斗”保留原味：不需要按攻击键，只要偏开角度撞向敌人即可。看似简单，却讲究走位与角度，节奏飞快、爽快感十足。本作全面重绘了高精度的像素地图与角色立绘，并收录新编曲、PC88原版与“完全版”三套音乐随意切换。\n\n这是了解伊苏系列必修的一课，也是2D动作RPG教科书级的范本。短小精悍、毫无冗余，一个周末就能体验一段完整的传奇。",
+    "highlights": [
+      "经典“撞击”战斗系统",
+      "高精度重绘像素画面",
+      "三套配乐自由切换",
+      "I、II两作一气呵成"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "35/40",
+        "quote": "1989年PC Engine版《伊苏I·II》即获高度评价，奠定了本作的经典地位"
+      }
+    ],
+    "editorScore": 8.8,
+    "is2D": true,
+    "screenshots": [
+      "images/psp/psp-ys-i-ii-chronicles-s1.png",
+      "images/psp/psp-ys-i-ii-chronicles-x1.jpg",
+      "images/psp/psp-ys-i-ii-chronicles-x2.jpg",
+      "images/psp/psp-ys-i-ii-chronicles-title.png"
+    ],
+    "cover": "images/psp/psp-ys-i-ii-chronicles-box.jpg"
+  },
+  {
+    "id": "psp-half-minute-hero",
+    "title": "Half-Minute Hero",
+    "titleZh": "勇者30秒",
+    "titleJa": "勇者30",
+    "year": 2009,
+    "developer": "Opus",
+    "publisher": "Marvelous Entertainment / XSEED Games",
+    "genre": "角色扮演",
+    "tags": [
+      "8bit像素",
+      "限时",
+      "恶搞",
+      "快节奏"
+    ],
+    "players": "1",
+    "tagline": "30秒拯救世界，RPG浓缩成闪电",
+    "description": "魔王在30秒后就要发动毁灭咒语，而你，只有30秒去练级、买装备、打倒魔王！《勇者30》把JRPG的全部流程压缩成30秒的极限挑战，这个点子本身就让人拍案叫绝。\n\n地图上自动遇敌、自动战斗，玩家要做的是规划路线、取舍事件、合理使用金钱向“时间女神”购买时间回溯。除了RPG的“勇者30”，还有即时战略的“魔王30”、护送公主射击的“公主30”、骑士护卫的“骑士30”，每种模式都风格迥异。\n\n满屏8bit复古像素和热血摇滚配乐，搭配大量恶搞RPG套路的剧本，节奏快得让人停不下来。这是PSP上最具创意的小品之一，适合碎片时间狂刷。",
+    "highlights": [
+      "30秒限时RPG的天才设计",
+      "勇者/魔王/公主/骑士四种模式",
+      "8bit复古像素与摇滚配乐",
+      "大量RPG套路恶搞"
+    ],
+    "reviews": [
+      {
+        "source": "Metacritic",
+        "score": "84/100",
+        "quote": "创意十足的掌机佳作，玩法新鲜令人上瘾"
+      },
+      {
+        "source": "IGN",
+        "score": "8.8/10",
+        "quote": "把RPG压缩到极致的天才之作"
+      },
+      {
+        "source": "Destructoid",
+        "score": "9/10",
+        "quote": "复古、幽默又充满诚意的小品"
+      }
+    ],
+    "editorScore": 8.8,
+    "is2D": true,
+    "screenshots": [
+      "images/psp/psp-half-minute-hero-s1.png",
+      "images/psp/psp-half-minute-hero-x1.png",
+      "images/psp/psp-half-minute-hero-title.png"
+    ],
+    "cover": "images/psp/psp-half-minute-hero-box.jpg"
+  },
+  {
+    "id": "psp-monster-hunter-p2g",
+    "title": "Monster Hunter Portable 2nd G",
+    "titleZh": "怪物猎人 携带版2G",
+    "titleJa": "モンスターハンターポータブル 2nd G",
+    "year": 2008,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genre": "动作",
+    "tags": [
+      "3D",
+      "共斗",
+      "狩猎",
+      "国民级"
+    ],
+    "players": "1-4",
+    "tagline": "让日本掀起联机狩猎狂潮的国民游戏",
+    "description": "如果要选一款代表PSP在日本成功的游戏，那一定是《怪物猎人P2G》。在雪山脚下的波凯村，玩家作为猎人接受委托，从采集与小型怪物开始，一步步挑战雄火龙、轰龙、迅龙等巨型怪物。\n\n本作没有等级，成长全靠用素材打造的武器与防具。大剑、太刀、双刀、狩猎笛等十一种武器手感各异，每一只怪物都有独特的攻击模式，需要观察破绽、反复练习。而与朋友面对面连线、四人围猎的“共斗”乐趣，更是无可替代。\n\nP2G作为P2的强化版加入了G级任务与大量新怪物，内容量庞大到可以玩上数百小时。它让PSP在日本卖到断货，也改变了掌机游戏的社交方式。",
+    "highlights": [
+      "十一种手感各异的武器",
+      "素材打造装备的成长系统",
+      "四人面联“共斗”狩猎",
+      "G级任务与海量新怪物"
+    ],
+    "reviews": [
+      {
+        "source": "Metacritic",
+        "score": "81/100",
+        "quote": "欧美版《怪物猎人 携带版2G》（MHFU）内容庞大，获得好评"
+      },
+      {
+        "source": "IGN",
+        "score": "8/10",
+        "quote": "深度惊人的狩猎体验，联机乐趣无可替代"
+      }
+    ],
+    "editorScore": 8.8,
+    "is2D": false,
+    "screenshots": [
+      "images/psp/psp-monster-hunter-p2g-s1.png",
+      "images/psp/psp-monster-hunter-p2g-x1.png"
+    ],
+    "cover": "images/psp/psp-monster-hunter-p2g-box.jpg"
+  },
+  {
+    "id": "psp-kingdom-hearts-bbs",
+    "title": "Kingdom Hearts Birth by Sleep",
+    "titleZh": "王国之心 梦中降生",
+    "titleJa": "キングダム ハーツ バース バイ スリープ",
+    "year": 2010,
+    "developer": "Square Enix",
+    "publisher": "Square Enix",
+    "genre": "动作角色扮演",
+    "tags": [
+      "3D",
+      "迪士尼",
+      "三主角",
+      "指令牌"
+    ],
+    "players": "1-3",
+    "tagline": "十年前的前传，三位钥刃使的宿命",
+    "description": "故事发生在初代的十年前，三位钥刃使——泰拉、阿库娅、凡妮塔斯——在大师艾拉奎斯门下修行，却因黑暗的阴谋各自踏上旅途。三条独立路线交织出完整的剧情拼图，揭开索拉故事的起点。\n\n战斗采用“指令牌”系统，自由配置攻击与魔法；“D-Link”可以借用迪士尼角色的力量，“指令风格”会在连击中自动变化。白雪公主、灰姑娘、睡美人等经典世界一一登场，PSP的机能被压榨到极限。\n\n它是PSP画面表现力最强的游戏之一，也是王国之心系列剧情中不可或缺的一环。如果你曾被索拉的故事打动，这三位前辈的命运同样值得你亲自见证。",
+    "highlights": [
+      "泰拉、阿库娅、凡妮塔斯三线剧情",
+      "自由配置的指令牌战斗",
+      "D-Link与指令风格系统",
+      "PSP顶级画面表现"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "37/40",
+        "quote": "画面与战斗系统都达到了掌机顶尖水准"
+      },
+      {
+        "source": "Metacritic",
+        "score": "82/100",
+        "quote": "系列在掌机上的最佳作品之一"
+      },
+      {
+        "source": "IGN",
+        "score": "8.5/10",
+        "quote": "动作爽快、剧情感人的前传"
+      }
+    ],
+    "editorScore": 8.8,
+    "is2D": false,
+    "screenshots": [
+      "images/psp/psp-kingdom-hearts-bbs-s1.png",
+      "images/psp/psp-kingdom-hearts-bbs-title.png"
+    ],
+    "cover": "images/psp/psp-kingdom-hearts-bbs-box.jpg"
+  },
+  {
+    "id": "psp-ff4-complete-collection",
+    "title": "Final Fantasy IV: The Complete Collection",
+    "titleZh": "最终幻想IV 完全版",
+    "titleJa": "ファイナルファンタジーIV コンプリートコレクション",
+    "year": 2011,
+    "developer": "Square Enix",
+    "publisher": "Square Enix",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "ATB",
+      "合集",
+      "王道"
+    ],
+    "players": "1",
+    "tagline": "塞西尔的赎罪之旅，三部曲一网打尽",
+    "description": "暗黑骑士塞西尔奉命掠夺水晶，却在一次次屠戮中觉醒良知，最终在试炼之山成为圣骑士——1991年的《最终幻想IV》以这场“赎罪之旅”开创了FF的戏剧化叙事，也首次引入了让战斗充满紧张感的ATB系统。\n\nPSP完全版收录了以GBA版为基础、全面重绘高精度像素的本篇，外加十七年后的续作《The After Years》，以及新创作的连接篇《Interlude》。画面上的角色像素与背景细节都经过精心打磨，植松伸夫的配乐也全数重编。\n\n一张UMD涵盖了月之民的完整传奇。对于想深入体验FF4的玩家来说，这就是最完整、最漂亮的2D版本。",
+    "highlights": [
+      "高精度重绘像素画面",
+      "收录本篇、Interlude与The After Years",
+      "经典ATB战斗系统",
+      "植松伸夫名曲全面重编"
+    ],
+    "reviews": [
+      {
+        "source": "Metacritic",
+        "score": "77/100",
+        "quote": "内容丰富的终极合集，但续篇评价褒贬不一"
+      },
+      {
+        "source": "IGN",
+        "score": "9/10",
+        "quote": "本篇依旧精彩，像素重绘令人赏心悦目"
+      }
+    ],
+    "editorScore": 8.7,
+    "is2D": true,
+    "screenshots": [
+      "images/psp/psp-ff4-complete-collection-s1.png",
+      "images/psp/psp-ff4-complete-collection-s2.png",
+      "images/psp/psp-ff4-complete-collection-title.png"
+    ],
+    "cover": "images/psp/psp-ff4-complete-collection-box.jpg"
+  },
+  {
+    "id": "psp-jeanne-darc",
+    "title": "Jeanne d'Arc",
+    "titleZh": "圣女贞德",
+    "titleJa": "ジャンヌ・ダルク",
+    "year": 2006,
+    "developer": "Level-5",
+    "publisher": "Sony Computer Entertainment",
+    "genre": "战略角色扮演",
+    "tags": [
+      "3D",
+      "战棋",
+      "历史奇幻",
+      "手绘动画"
+    ],
+    "players": "1",
+    "tagline": "Level-5笔下的奇幻百年战争",
+    "description": "以英法百年战争为背景，Level-5将圣女贞德的史实加入了魔物与神秘手镯的奇幻元素。农家少女贞德在神秘力量指引下成为救国英雄，与伙伴们一同抵抗英格兰与魔族的入侵。\n\n战棋系统易上手又有深度：“燃烧光环”让站在攻击者后方的同伴获得加成，“技能石”可以自由搭配；贞德在关键时刻还能“变身”为强力形态。章节间穿插的手绘动画过场与精美的3D战场，展现了Level-5一贯的品质。\n\n难度适中、节奏紧凑，是PSP上最适合战棋新手入门的作品之一，同时也有足够的挑战让老手满意。",
+    "highlights": [
+      "百年战争与奇幻元素的结合",
+      "“燃烧光环”站位策略",
+      "技能石自由配置",
+      "手绘动画过场"
+    ],
+    "reviews": [
+      {
+        "source": "Metacritic",
+        "score": "87/100",
+        "quote": "精致易上手的掌机战棋佳作"
+      },
+      {
+        "source": "Fami通",
+        "score": "33/40",
+        "quote": "系统平衡良好，演出出色"
+      },
+      {
+        "source": "IGN",
+        "score": "9/10",
+        "quote": "PSP上最好的战略RPG之一"
+      }
+    ],
+    "editorScore": 8.7,
+    "is2D": false,
+    "screenshots": [
+      "images/psp/psp-jeanne-darc-s1.png",
+      "images/psp/psp-jeanne-darc-s2.png",
+      "images/psp/psp-jeanne-darc-title.png"
+    ],
+    "cover": "images/psp/psp-jeanne-darc-box.jpg"
+  },
+  {
+    "id": "psp-trails-in-the-sky-3rd",
+    "title": "The Legend of Heroes: Trails in the Sky the 3rd",
+    "titleZh": "英雄传说 空之轨迹 the 3rd",
+    "titleJa": "英雄伝説 空の軌跡 the 3rd",
+    "year": 2008,
+    "developer": "Nihon Falcom",
+    "publisher": "Nihon Falcom",
+    "genre": "角色扮演",
+    "tags": [
+      "像素角色",
+      "迷宫探索",
+      "剧情向",
+      "轨迹系列"
+    ],
+    "players": "1",
+    "tagline": "空轨三部曲的灵魂终章",
+    "description": "第三部的主角换成了神父凯文·格拉汉姆，他与公主科洛丝一同被卷入名为“影之国”的异空间。这是一部以迷宫攻略为主轴的作品，玩家要在层层“庭园”中收集伙伴、解锁“月之扉”——每扇门背后都是一段角色的往事或番外故事。\n\n战斗系统沿用SC并进一步强化，可操作角色多达十六人，前两作的熟面孔几乎全员到齐，组队搭配的乐趣大增。而凯文自身沉重的过去与“圣痕”之谜，让故事基调比前两作更加阴郁深刻，也为后来的“零·碧”与“闪”系列埋下了大量伏笔。\n\n它更像是一封写给老玩家的长信：如果你走完了FC和SC，那么这扇月之扉，一定要亲手推开。",
+    "highlights": [
+      "影之国迷宫探索结构",
+      "“月之扉”角色番外剧情",
+      "十六名可操作角色自由组队",
+      "为后续轨迹系列埋下大量伏笔"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "30/40",
+        "quote": "粉丝向内容丰富，迷宫与番外剧情令人满足"
+      },
+      {
+        "source": "Metacritic",
+        "score": "83/100",
+        "quote": "后来的PC英文版同样获得媒体好评"
+      }
+    ],
+    "editorScore": 8.6,
+    "is2D": true,
+    "screenshots": [
+      "images/psp/psp-trails-in-the-sky-3rd-s1.png",
+      "images/psp/psp-trails-in-the-sky-3rd-x1.jpg",
+      "images/psp/psp-trails-in-the-sky-3rd-x2.jpg",
+      "images/psp/psp-trails-in-the-sky-3rd-title.png"
+    ],
+    "cover": "images/psp/psp-trails-in-the-sky-3rd-box.jpg"
+  },
+  {
+    "id": "psp-lunar-silver-star-harmony",
+    "title": "Lunar: Silver Star Harmony",
+    "titleZh": "露娜 银色之星 和声",
+    "titleJa": "ルナ ハーモニー オブ シルバースター",
+    "year": 2009,
+    "developer": "Game Arts / Japan Art Media",
+    "publisher": "Kadokawa Shoten / XSEED Games",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "回合制",
+      "动画过场",
+      "王道冒险"
+    ],
+    "players": "1",
+    "tagline": "银星传说的第三次重生",
+    "description": "1992年MCD上的《露娜 银色之星》是CD-ROM时代RPG的里程碑，PSP版《银色之星和声》则是它最新也最完整的版本。少年亚雷斯梦想成为传说中的龙之勇者，与青梅竹马的歌姬露娜一同踏上旅途——最王道也最温暖的冒险故事。\n\n本作全面重绘了高精度像素场景与角色，加入大量新绘制的动画过场；战斗沿用系列特色的“位置移动”回合制，角色会在战场上走位，攻击范围与站位都影响战局。新增的序章补完了白龙的往事，让世界观更加完整。\n\n露娜的歌声、亚雷斯的成长、还有那只会飞的小猫纳尔，让这部作品充满了上世纪90年代RPG的纯真与浪漫。",
+    "highlights": [
+      "高精度重绘像素与新动画过场",
+      "带走位的战场回合制战斗",
+      "新增白龙往事序章",
+      "王道少年冒险与歌姬故事"
+    ],
+    "reviews": [
+      {
+        "source": "Metacritic",
+        "score": "80/100",
+        "quote": "经典故事以精美新画面重现，老玩家倍感亲切"
+      },
+      {
+        "source": "IGN",
+        "score": "8.2/10",
+        "quote": "画面翻新到位，是体验露娜系列的好入口"
+      },
+      {
+        "source": "GameSpot",
+        "score": "8/10",
+        "quote": "节奏轻快、气氛温馨的老派RPG"
+      }
+    ],
+    "editorScore": 8.6,
+    "is2D": true,
+    "screenshots": [
+      "images/psp/psp-lunar-silver-star-harmony-s1.png",
+      "images/psp/psp-lunar-silver-star-harmony-title.png"
+    ],
+    "cover": "images/psp/psp-lunar-silver-star-harmony-box.jpg"
+  },
+  {
+    "id": "psp-sfa3-max",
+    "title": "Street Fighter Alpha 3 MAX",
+    "titleZh": "街头霸王ZERO3 MAX",
+    "titleJa": "ストリートファイターZERO3 ダブルアッパー",
+    "year": 2006,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genre": "格斗",
+    "tags": [
+      "像素",
+      "2D格斗",
+      "街机移植",
+      "全角色"
+    ],
+    "players": "1-2",
+    "tagline": "ZERO系列的最终完全版",
+    "description": "《街头霸王ZERO3》是卡普空在CPS2基板上的格斗巅峰之作，PSP版“MAX”收录了家用版所有隐藏角色，并新增因格丽德、罗伦特、尤莉、尤妮、Eagle、Maki等角色，总数超过三十人，堪称系列最完整版本。\n\n本作的核心是“ISM”系统：X-ISM单段大必杀、Z-ISM多段超必杀、V-ISM自定义连击，三种风格让同一个角色也有截然不同的打法。“世界巡回”模式可以培养自己的角色，单人内容同样丰富。\n\n像素动画流畅细腻，宽屏显示效果出色，加上Ad-Hoc联机，让这款经典在掌上依然热血沸腾。",
+    "highlights": [
+      "X/Z/V三种ISM格斗风格",
+      "三十余名角色超大阵容",
+      "世界巡回养成模式",
+      "完整街机像素移植"
+    ],
+    "reviews": [
+      {
+        "source": "Metacritic",
+        "score": "80/100",
+        "quote": "完整而扎实的经典格斗移植"
+      },
+      {
+        "source": "Game Informer",
+        "score": "7.75/10",
+        "quote": "完美的街机移植，会让街霸粉丝满意"
+      }
+    ],
+    "editorScore": 8.6,
+    "is2D": true,
+    "screenshots": [
+      "images/psp/psp-sfa3-max-s1.png",
+      "images/psp/psp-sfa3-max-x1.png",
+      "images/psp/psp-sfa3-max-x2.png",
+      "images/psp/psp-sfa3-max-x3.png"
+    ],
+    "cover": "images/psp/psp-sfa3-max-box.jpg"
+  },
+  {
+    "id": "psp-gradius-collection",
+    "title": "Gradius Collection",
+    "titleZh": "宇宙巡航机 合集",
+    "titleJa": "グラディウス ポータブル",
+    "year": 2006,
+    "developer": "Konami",
+    "publisher": "Konami",
+    "genre": "射击",
+    "tags": [
+      "像素",
+      "横版射击",
+      "合集",
+      "街机移植"
+    ],
+    "players": "1",
+    "tagline": "胜利之舞的五部曲合集",
+    "description": "宇宙巡航机是横版射击的代名词，PSP版合集收录了《宇宙巡航机》《宇宙巡航机II》《宇宙巡航机III》《宇宙巡航机IV》以及从未出过日本的《宇宙巡航机外传》，以街机版为基准忠实移植，横版射击爱好者的必收之作。\n\n标志性的“能量胶囊”系统让你自由选择加速、导弹、双发、激光、子机与护盾，打造自己的火力配置。从火山、摩艾石像到细胞要塞，每一关都是经典；而著名的“上上下下左右左右BA”秘籍，当然也能使用。\n\n收录的PS版《外传》画面华丽、系统丰富，是不少玩家心中系列最佳。支持宽屏全屏显示、存档读档，难度友好度大增，非常适合掌机上随时来一局。",
+    "highlights": [
+      "收录五部宇宙巡航机作品",
+      "首度海外发行的《外传》",
+      "经典能量胶囊升级系统",
+      "支持宽屏与随时存档"
+    ],
+    "reviews": [
+      {
+        "source": "Pocket Gamer",
+        "score": "4/5",
+        "quote": "无论老粉还是新手，都能迅速爱上这份射击快感"
+      }
+    ],
+    "editorScore": 8.5,
+    "is2D": true,
+    "screenshots": [
+      "images/psp/psp-gradius-collection-s1.png",
+      "images/psp/psp-gradius-collection-x1.png"
+    ],
+    "cover": "images/psp/psp-gradius-collection-box.jpg"
+  },
+  {
+    "id": "psp-breath-of-fire-3",
+    "title": "Breath of Fire III",
+    "titleZh": "龙战士3",
+    "titleJa": "ブレス オブ ファイアIII",
+    "year": 2005,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "龙族",
+      "师父系统",
+      "钓鱼"
+    ],
+    "players": "1",
+    "tagline": "龙之少年与世界的真相",
+    "description": "龙族最后的少年留，在矿山被发现时还只是一头小龙。他与盗贼雷伊、虎人少年泰帕结伴，从孩提时代一路成长为青年，最终揭开“神”与龙族灭绝的真相。时间跨度极大的成长故事，让本作在系列中格外特别。\n\n卡普空精湛的像素功力在这里展现得淋漓尽致：Q版小人在斜视角3D场景里活灵活现，表情动作丰富。“基因”融合变身系统可以组合出数十种龙形态；拜师学艺的“师父系统”、钓鱼小游戏、仙女村经营，让旅途充满乐趣。\n\nPSP版移植自1997年PS原作，加入了Ad-Hoc连线与新的钓鱼要素。如果你喜欢卡普空的老派RPG，这部作品不能错过。",
+    "highlights": [
+      "数十种基因组合龙变身",
+      "拜师学艺的“师父系统”",
+      "卡普空精湛的像素动画",
+      "钓鱼与仙女村经营小游戏"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "29/40",
+        "quote": "PSP移植忠实于原作，新增要素丰富"
+      },
+      {
+        "source": "Eurogamer",
+        "score": "6/10",
+        "quote": "依然有魅力，但移植在节奏与读盘上略显老旧"
+      }
+    ],
+    "editorScore": 8.4,
+    "is2D": true,
+    "screenshots": [
+      "images/psp/psp-breath-of-fire-3-s1.png",
+      "images/psp/psp-breath-of-fire-3-s2.png",
+      "images/psp/psp-breath-of-fire-3-title.png"
+    ],
+    "cover": "images/psp/psp-breath-of-fire-3-box.jpg"
+  },
+  {
+    "id": "psp-darkstalkers-chronicle",
+    "title": "Darkstalkers Chronicle: The Chaos Tower",
+    "titleZh": "恶魔战士 编年史 混沌之塔",
+    "titleJa": "ヴァンパイア クロニクル フォー マッチングサービス",
+    "year": 2005,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genre": "格斗",
+    "tags": [
+      "像素",
+      "2D格斗",
+      "街机移植",
+      "哥特"
+    ],
+    "players": "1-2",
+    "tagline": "妖魔鬼怪的像素格斗狂宴",
+    "description": "卡普空最具艺术气息的格斗系列，在PSP上迎来了集大成之作。本作源自DC版《恶魔战士 编年史》，把系列三代所有角色及其各代不同的系统规则（如“恶魔战士3”的暗黑力量、“救世主”的防御方式）全数收录，你可以自由选择喜欢的版本参战。\n\n莫莉卡、菲莉西亚、狼人塔瓦、木乃伊安娜卡里斯……卡普空巅峰时期的像素动画在这里流畅得令人惊叹，每个角色的夸张变形与华丽必杀至今都难以超越。新增的“混沌之塔”模式要求在特定条件下挑战连战，大幅增加了单人游玩价值。\n\n手感偏快、连段华丽，再加上Ad-Hoc联机对战，是PSP上最好的2D格斗之一。",
+    "highlights": [
+      "全角色、全系统版本自由选择",
+      "卡普空巅峰期像素动画",
+      "新增“混沌之塔”挑战模式",
+      "支持联机对战"
+    ],
+    "reviews": [
+      {
+        "source": "Metacritic",
+        "score": "74/100",
+        "quote": "移植扎实，内容丰富"
+      },
+      {
+        "source": "GameSpot",
+        "score": "8.1/10",
+        "quote": "华丽的像素格斗完美登陆掌机"
+      },
+      {
+        "source": "IGN",
+        "score": "7/10",
+        "quote": "画面出色，但PSP十字键操作略受影响"
+      }
+    ],
+    "editorScore": 8.4,
+    "is2D": true,
+    "screenshots": [
+      "images/psp/psp-darkstalkers-chronicle-s1.png",
+      "images/psp/psp-darkstalkers-chronicle-title.png"
+    ],
+    "cover": "images/psp/psp-darkstalkers-chronicle-box.jpg"
+  },
+  {
+    "id": "psp-exit",
+    "title": "Exit",
+    "titleZh": "出口",
+    "titleJa": "EXIT",
+    "year": 2005,
+    "developer": "Taito",
+    "publisher": "Taito / Ubisoft",
+    "genre": "解谜",
+    "tags": [
+      "2D",
+      "救援",
+      "动作解谜",
+      "艺术风格"
+    ],
+    "players": "1",
+    "tagline": "职业逃生专家的灾难救援",
+    "description": "主角Mr. ESC是一名职业逃生专家，每一关都要闯入火灾、水灾或地震的现场，把被困的人们带到出口。被困者有大人、小孩、伤员、壮汉，能力各不相同：小孩爬不上高台，伤员需要搀扶，壮汉却可以推动重物。\n\n每一关都是一道精巧的谜题，你需要规划路线、利用箱子与灭火器、指挥不同的人分工合作，在限时内全员脱出。100关主线难度循序渐进，后期的连环机关相当烧脑。\n\n本作美术风格独树一帜：日式漫画般的粗线条剪影与流畅动画，加上爵士风格配乐，营造出一种都市感十足的气氛。它是PSP早期最被低估的原创解谜佳作。",
+    "highlights": [
+      "职业逃生专家的救援设定",
+      "不同能力的被困者分工合作",
+      "100关精巧谜题",
+      "粗线条漫画风美术"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "34/40",
+        "quote": "设计巧妙、画面独特的高质量解谜游戏"
+      },
+      {
+        "source": "Metacritic",
+        "score": "77/100",
+        "quote": "富有创意的谜题与艺术风格获得好评"
+      },
+      {
+        "source": "GameSpot",
+        "score": "8/10",
+        "quote": "风格出众、关卡设计精巧"
+      }
+    ],
+    "editorScore": 8.3,
+    "is2D": true,
+    "screenshots": [
+      "images/psp/psp-exit-s1.png",
+      "images/psp/psp-exit-x1.jpg",
+      "images/psp/psp-exit-x2.png",
+      "images/psp/psp-exit-x3.png"
+    ],
+    "cover": "images/psp/psp-exit-box.jpg"
+  },
+  {
+    "id": "psp-metal-slug-anthology",
+    "title": "Metal Slug Anthology",
+    "titleZh": "合金弹头 合集",
+    "titleJa": "メタルスラッグ コンプリート",
+    "year": 2006,
+    "developer": "SNK Playmore",
+    "publisher": "SNK Playmore",
+    "genre": "射击",
+    "tags": [
+      "像素",
+      "横版射击",
+      "合集",
+      "街机移植"
+    ],
+    "players": "1-2",
+    "tagline": "七部合金弹头，像素爆炸美学大全",
+    "description": "合金弹头是NEOGEO像素美术的巅峰代表：每一颗子弹、每一架坦克、每一个惊慌失措的敌兵都有着夸张流畅的动画。PSP版合集收录了《合金弹头》1、2、X、3、4、5、6共七部作品，是掌上最完整的“弹头”体验。\n\n跑、跳、射，再加上手雷与“SV-001”坦克，规则简单却爽快无比。解救俘虏获得道具、变成木乃伊或胖子的恶搞状态、满屏敌人与Boss的狂轰滥炸，每一关都像一部动作喜剧。\n\n尽管部分作品在掌机上存在轻微的读盘与操作调整，但这份合集仍是横版射击迷的宝库。随时掏出来打一关，爽快感丝毫不减。",
+    "highlights": [
+      "收录七部合金弹头作品",
+      "NEOGEO巅峰像素动画",
+      "解救俘虏与载具系统",
+      "支持双人联机"
+    ],
+    "reviews": [
+      {
+        "source": "Metacritic",
+        "score": "78/100",
+        "quote": "内容丰富的合集，像素美术依旧惊艳"
+      },
+      {
+        "source": "GameRankings",
+        "score": "78%",
+        "quote": "射击迷的必收合集"
+      }
+    ],
+    "editorScore": 8.3,
+    "is2D": true,
+    "screenshots": [
+      "images/psp/psp-metal-slug-anthology-s1.png",
+      "images/psp/psp-metal-slug-anthology-x1.png",
+      "images/psp/psp-metal-slug-anthology-title.png"
+    ],
+    "cover": "images/psp/psp-metal-slug-anthology-box.jpg"
+  },
+  {
+    "id": "psp-mega-man-maverick-hunter-x",
+    "title": "Mega Man Maverick Hunter X",
+    "titleZh": "洛克人X 猎人X",
+    "titleJa": "イレギュラーハンターX",
+    "year": 2005,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genre": "动作",
+    "tags": [
+      "2.5D重制",
+      "横版动作",
+      "Boss选关",
+      "Vile模式"
+    ],
+    "players": "1",
+    "tagline": "洛克人X初代的华丽重制",
+    "description": "1993年SFC《洛克人X》是横版动作的不朽名作，PSP版《猎人X》以2.5D多边形画面对它进行了全面重制。艾克斯为阻止叛变的西格玛，从八名反乱机器人中自由选关挑战，击败Boss后获得其武器，不断强化自身。\n\n关卡结构忠实还原原作，但加入了全新动画过场与配音剧情；更大的亮点是新增的“维尔模式”，可以操纵宿敌维尔，以他的视角体验另一段故事，并使用完全不同的武器组合。\n\n重制版的音乐与画面风格见仁见智，但扎实的手感与经典关卡依然无可挑剔，是了解X系列起源的最好方式。",
+    "highlights": [
+      "初代洛克人X全面2.5D重制",
+      "八大Boss自由选关",
+      "新增维尔可操作模式",
+      "动画过场补完剧情"
+    ],
+    "reviews": [
+      {
+        "source": "Metacritic",
+        "score": "79/100",
+        "quote": "忠实又新鲜的经典重制"
+      },
+      {
+        "source": "IGN",
+        "score": "8/10",
+        "quote": "洛克人X的出色重制，新增模式令人惊喜"
+      },
+      {
+        "source": "GameSpot",
+        "score": "8.1/10",
+        "quote": "经典关卡依旧精彩"
+      }
+    ],
+    "editorScore": 8.3,
+    "is2D": false,
+    "screenshots": [
+      "images/psp/psp-mega-man-maverick-hunter-x-s1.png",
+      "images/psp/psp-mega-man-maverick-hunter-x-s2.png",
+      "images/psp/psp-mega-man-maverick-hunter-x-title.png"
+    ],
+    "cover": "images/psp/psp-mega-man-maverick-hunter-x-box.jpg"
+  },
+  {
+    "id": "psp-riviera",
+    "title": "Riviera: The Promised Land",
+    "titleZh": "里维埃拉 约束之地",
+    "titleJa": "リヴィエラ ～約束の地リヴィエラ～",
+    "year": 2008,
+    "developer": "Sting",
+    "publisher": "Atlus / Sting",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "手绘",
+      "冒险",
+      "恋爱"
+    ],
+    "players": "1",
+    "tagline": "Sting手绘幻想，天使与少女的约定",
+    "description": "神界派出“魔天使”伊恩，奉命摧毁天上乐园里维埃拉，却在那里遇见了一群少女，并在一次次选择中动摇了自己的使命。本作原是2002年WonderSwan Color作品，经GBA移植后，于PSP上推出了画面与音乐全面升级的版本。\n\n玩法非常独特：采用菜单式的移动与“触发”探索，没有自由走动，而是像冒险游戏一样调查场景；战斗时道具即武器，使用次数有限，熟练后才能解锁“极限技”。与少女们的好感度会影响结局，让人忍不住多周目。\n\n高精度手绘像素背景与角色立绘是本作最大的亮点，柔和的童话色彩配合Sting独有的奇幻世界观，是一部风格鲜明的小众佳作。",
+    "highlights": [
+      "菜单式探索与“触发”调查",
+      "道具即武器的独特战斗",
+      "好感度影响的多结局",
+      "精美手绘像素画面"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "30/40",
+        "quote": "画面与音乐全面升级，是值得重温的作品"
+      },
+      {
+        "source": "Metacritic",
+        "score": "68/100",
+        "quote": "风格独特但系统略显受限，评价两极"
+      }
+    ],
+    "editorScore": 8.2,
+    "is2D": true,
+    "screenshots": [
+      "images/psp/psp-riviera-s1.png",
+      "images/psp/psp-riviera-s2.png",
+      "images/psp/psp-riviera-title.png"
+    ],
+    "cover": "images/psp/psp-riviera-box.jpg"
+  },
+  {
+    "id": "psp-corpse-party",
+    "title": "Corpse Party: Blood Covered Repeated Fear",
+    "titleZh": "尸体派对 Blood Covered",
+    "titleJa": "コープスパーティー ブラッドカバー リピーティッドフィアー",
+    "year": 2011,
+    "developer": "Team GrisGris / 5pb.",
+    "publisher": "5pb. / XSEED Games",
+    "genre": "冒险",
+    "tags": [
+      "像素",
+      "恐怖",
+      "多结局",
+      "校园"
+    ],
+    "players": "1",
+    "tagline": "像素小人带来的极致校园恐怖",
+    "description": "如月学园的九名学生在放学后进行了一个据说能让友谊长存的“幸子护身符”仪式，却被拖入一所早已被拆除、满是冤魂的“天神小学”。原作是同人RPG制作软件作品，经过多次重制，PSP版加入了全语音与立绘，成为最为人熟知的版本。\n\n游戏以俯视角像素小人探索校舍，解谜与收集“名牌”推进剧情，每一章都有多条“错误结局”在等待——而它们往往比真结局更令人毛骨悚然。配音演出搭配立体音效，强烈建议戴耳机游玩。\n\n别被Q版画风骗了，这是一部对血腥与心理恐怖毫不手软的作品。它证明了：像素画面同样能制造真正的恐惧。",
+    "highlights": [
+      "俯视角像素探索与解谜",
+      "全语音与双耳立体音效",
+      "多条惊悚的“错误结局”",
+      "日式校园怪谈氛围"
+    ],
+    "reviews": [
+      {
+        "source": "Metacritic",
+        "score": "71/100",
+        "quote": "氛围与音效出色，但玩法略显单调"
+      },
+      {
+        "source": "GameRankings",
+        "score": "73%",
+        "quote": "恐怖冒险爱好者值得一试"
+      }
+    ],
+    "editorScore": 8.2,
+    "is2D": true,
+    "screenshots": [
+      "images/psp/psp-corpse-party-s1.png",
+      "images/psp/psp-corpse-party-x1.jpg",
+      "images/psp/psp-corpse-party-title.png"
+    ],
+    "cover": "images/psp/psp-corpse-party-box.jpg"
+  },
+  {
+    "id": "psp-star-ocean-first-departure",
+    "title": "Star Ocean: First Departure",
+    "titleZh": "星之海洋 First Departure",
+    "titleJa": "スターオーシャン1 First Departure",
+    "year": 2007,
+    "developer": "tri-Ace / TOSE",
+    "publisher": "Square Enix",
+    "genre": "角色扮演",
+    "tags": [
+      "像素角色",
+      "即时战斗",
+      "私人行动",
+      "科幻"
+    ],
+    "players": "1",
+    "tagline": "星海系列的原点，以全新姿态重启",
+    "description": "1996年SFC上的《星之海洋》以48M超大容量和语音演出震惊玩家，PSP版是它的完全重制。罗克谢村的少年罗迪为了拯救感染石化病的同伴，与来自外星的联邦舰员相遇，并穿越到三百年前寻找病毒源头。\n\n战斗采用即时动作制，自由选择角色操作；“私人行动”系统可以在城镇中触发队员之间的小剧情，影响好感度与多达数十种结局。技能系统“专长”与“超专长”让道具合成、料理、作曲等生活技能大放异彩。\n\nPSP版采用2D像素角色搭配精细的背景，并新增Production I.G制作的动画过场与全新角色。作为系列入门之作，它轻巧又充满老派RPG的探索乐趣。",
+    "highlights": [
+      "即时动作战斗系统",
+      "“私人行动”触发队员剧情",
+      "专长合成玩法自由度高",
+      "Production I.G动画过场"
+    ],
+    "reviews": [
+      {
+        "source": "Metacritic",
+        "score": "74/100",
+        "quote": "忠实重制带来怀旧乐趣，但部分设计显得老旧"
+      },
+      {
+        "source": "IGN",
+        "score": "7.4/10",
+        "quote": "系列粉丝会喜欢的经典重制"
+      }
+    ],
+    "editorScore": 8.0,
+    "is2D": true,
+    "screenshots": [
+      "images/psp/psp-star-ocean-first-departure-s1.png",
+      "images/psp/psp-star-ocean-first-departure-x1.png",
+      "images/psp/psp-star-ocean-first-departure-x2.jpg"
+    ],
+    "cover": "images/psp/psp-star-ocean-first-departure-box.jpg"
+  },
+  {
+    "id": "psp-prinny",
+    "title": "Prinny: Can I Really Be the Hero?",
+    "titleZh": "企鹅君 我真的可以当主角吗？",
+    "titleJa": "プリニー ～オレが主人公でイイんスか？～",
+    "year": 2008,
+    "developer": "Nippon Ichi Software",
+    "publisher": "Nippon Ichi Software / NIS America",
+    "genre": "平台跳跃",
+    "tags": [
+      "像素",
+      "高难度",
+      "魔界战记",
+      "搞笑"
+    ],
+    "players": "1",
+    "tagline": "一千只企鹅，前赴后继的地狱跳跃",
+    "description": "魔王艾特娜的甜点被偷了！她派出一千只Prinny企鹅在一夜之间找回“究极甜点”——而你，就要操纵这些一碰就爆的可怜家伙闯关。这是《魔界战记》系列外传，也是日本一献给硬派横版动作的一封情书。\n\n本作难度极高：跳跃后无法空中转向，几下就会阵亡，但好在你有一千条命。“臀部重击”可以让敌人眩晕，配合双刀连斩与空中冲刺，熟练后的操作感相当流畅。关卡顺序可以自选，越晚挑战的关卡难度越高。\n\n精致的像素动画、满屏的“dood!”口癖，再加上日本一一贯的恶搞剧情，让人在一次次阵亡中仍然笑着继续。喜欢《恶魔城》《魂斗罗》式硬派挑战的玩家，绝不能错过。",
+    "highlights": [
+      "一千条命的硬派横版动作",
+      "臀部重击眩晕敌人",
+      "自选关卡顺序改变难度",
+      "魔界战记式爆笑剧情"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "28/40",
+        "quote": "难度偏高但手感扎实，系列粉丝会会心一笑"
+      },
+      {
+        "source": "IGN",
+        "score": "8.3/10",
+        "quote": "可爱外表下藏着硬派动作的挑战乐趣"
+      },
+      {
+        "source": "Metacritic",
+        "score": "72/100",
+        "quote": "难度令部分玩家却步，评价褒贬不一"
+      }
+    ],
+    "editorScore": 8.0,
+    "is2D": true,
+    "screenshots": [
+      "images/psp/psp-prinny-s1.png",
+      "images/psp/psp-prinny-x1.png",
+      "images/psp/psp-prinny-title.png"
+    ],
+    "cover": "images/psp/psp-prinny-box.jpg"
+  }
+]

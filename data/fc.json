@@ -1,0 +1,1578 @@
+[
+  {
+    "id": "fc-super-mario-bros-3",
+    "title": "Super Mario Bros. 3",
+    "titleZh": "超级马里奥兄弟3",
+    "titleJa": "スーパーマリオブラザーズ3",
+    "year": 1988,
+    "developer": "Nintendo EAD",
+    "publisher": "Nintendo",
+    "genre": "平台跳跃",
+    "tags": [
+      "像素",
+      "横版",
+      "变身",
+      "大地图"
+    ],
+    "players": "1-2",
+    "tagline": "FC机能榨干之作，平台跳跃的教科书",
+    "description": "如果说初代马里奥定义了横版跳跃，那么《超级马里奥兄弟3》就是把这门手艺打磨到极致的毕业作品！八个风格迥异的世界，从沙漠、巨人国到冰雪与管道迷宫，每一张大地图都像一张可以自由探索的棋盘，小游戏、蘑菇屋、飞行战舰点缀其间。\n\n狸猫装让马里奥第一次飞上天空，青蛙装、铁锤兄弟装、库巴的七个孩子……新点子多得仿佛宫本茂把整个创意本都倒了出来。隐藏的笛子能让你一口气跳关，当年谁没在同学家里研究过它的位置？\n\n关卡设计之精妙，即使放到今天也毫不过时。这是每一位玩家都应该通关一次的FC至宝。",
+    "highlights": [
+      "狸猫装飞行与多种变身套装",
+      "可自由选择路线的世界大地图",
+      "隐藏笛子与大量秘密要素",
+      "八大主题世界，关卡创意密度惊人"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "35/40",
+        "quote": "关卡与道具创意层出不穷，马里奥系列的集大成之作"
+      },
+      {
+        "source": "EGM",
+        "score": "36/40",
+        "quote": "四位编辑一致给出9分，堪称NES上最好的动作游戏"
+      },
+      {
+        "source": "CVG",
+        "score": "98%",
+        "quote": "几近完美的平台游戏，乐趣无穷"
+      }
+    ],
+    "editorScore": 9.8,
+    "is2D": true,
+    "screenshots": [
+      "images/fc/fc-super-mario-bros-3-s1.png",
+      "images/fc/fc-super-mario-bros-3-x1.png",
+      "images/fc/fc-super-mario-bros-3-x2.png",
+      "images/fc/fc-super-mario-bros-3-title.png"
+    ],
+    "cover": "images/fc/fc-super-mario-bros-3-box.jpg"
+  },
+  {
+    "id": "fc-dragon-quest-iii",
+    "title": "Dragon Quest III: The Seeds of Salvation",
+    "titleZh": "勇者斗恶龙III 于是走向传说",
+    "titleJa": "ドラゴンクエストIII そして伝説へ…",
+    "year": 1988,
+    "developer": "Chunsoft",
+    "publisher": "Enix",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "转职",
+      "日式RPG",
+      "国民游戏"
+    ],
+    "players": "1",
+    "tagline": "引发日本排队狂潮的国民RPG",
+    "description": "1988年2月10日，日本街头排起长龙，学生翘课、社会新闻纷纷报道——这就是《勇者斗恶龙III》的威力！本作允许玩家在路易达酒馆自由组建四人队伍，战士、武斗家、魔法使、僧侣……还能在达玛神殿转职，培养出“贤者”这样的梦幻职业。\n\n世界地图以真实地球为蓝本，日本风的吉潘古、欧洲风的罗马利亚，处处充满异国风情；昼夜交替系统更让城镇在夜晚展现另一副面孔。而当玩家打倒大魔王后，才惊觉一个更大的秘密就藏在脚下——结局与初代的接续让无数人起鸡皮疙瘩。\n\n“洛特传说”三部曲的完美收官，也是日式RPG的范本。",
+    "highlights": [
+      "自由编组队伍与转职系统",
+      "以真实世界为蓝本的大地图",
+      "昼夜交替与隐藏地下世界",
+      "与初代相连的震撼结局"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "38/40",
+        "quote": "日式RPG的集大成之作，自由度与故事性兼备"
+      },
+      {
+        "source": "Famicom必胜本",
+        "score": "4/5",
+        "quote": "转职与组队系统让冒险充满变化"
+      }
+    ],
+    "editorScore": 9.7,
+    "is2D": true,
+    "screenshots": [
+      "images/fc/fc-dragon-quest-iii-s1.png",
+      "images/fc/fc-dragon-quest-iii-s2.png",
+      "images/fc/fc-dragon-quest-iii-title.png"
+    ],
+    "cover": "images/fc/fc-dragon-quest-iii-box.jpg"
+  },
+  {
+    "id": "fc-legend-of-zelda",
+    "title": "The Legend of Zelda",
+    "titleZh": "塞尔达传说",
+    "titleJa": "ゼルダの伝説",
+    "year": 1986,
+    "developer": "Nintendo",
+    "publisher": "Nintendo",
+    "genre": "动作冒险",
+    "tags": [
+      "像素",
+      "俯视角",
+      "探索",
+      "迷宫"
+    ],
+    "players": "1",
+    "tagline": "开放世界的始祖，一把木剑走天涯",
+    "description": "游戏一开始，林克就站在一片空旷的原野上，没有任何提示——走进旁边的山洞，老人对你说：“一个人去太危险了，带上这个吧。”从这一刻起，海拉鲁大陆就任你闯荡！\n\n本作以俯视角呈现广阔的地上世界与九座地下迷宫，炸弹炸墙、蜡烛烧树、回旋镖击晕敌人，每样道具都是打开新区域的钥匙。迷宫的顺序几乎完全交由玩家决定，这种“自己发现一切”的乐趣在当年堪称革命。磁碟机版本首次支持存档，让长篇冒险成为可能。\n\n通关后还有难度更高的“第二周目”在等着你。三十多年后的《旷野之息》仍在向它致敬，这就是传奇的起点。",
+    "highlights": [
+      "高自由度的开放式地上世界",
+      "九座风格各异的地下迷宫",
+      "道具解谜与隐藏秘密遍布地图",
+      "第二周目里世界挑战"
+    ],
+    "reviews": [
+      {
+        "source": "CVG",
+        "score": "9/10",
+        "quote": "极其庞大且耐玩的冒险游戏，令人欲罢不能"
+      },
+      {
+        "source": "Famicom必胜本",
+        "score": "5/5",
+        "quote": "全新的动作冒险体验，探索乐趣无与伦比"
+      }
+    ],
+    "editorScore": 9.5,
+    "is2D": true,
+    "screenshots": [
+      "images/fc/fc-legend-of-zelda-s1.png",
+      "images/fc/fc-legend-of-zelda-s3.png",
+      "images/fc/fc-legend-of-zelda-title.png"
+    ],
+    "cover": "images/fc/fc-legend-of-zelda-box.jpg"
+  },
+  {
+    "id": "fc-final-fantasy-iii",
+    "title": "Final Fantasy III",
+    "titleZh": "最终幻想III",
+    "titleJa": "ファイナルファンタジーIII",
+    "year": 1990,
+    "developer": "Square",
+    "publisher": "Square",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "职业系统",
+      "日式RPG",
+      "召唤兽"
+    ],
+    "players": "1",
+    "tagline": "职业系统登场，FC上最华丽的幻想",
+    "description": "四个从小在乌尔村长大的孤儿，因一场地震误入地底洞窟，获得了风之水晶的指引——《最终幻想III》的冒险由此展开。本作首次引入完整的“职业系统”，从洋葱剑士开始，骑士、黑魔导士、龙骑士、召唤士、忍者、贤者等二十多种职业可随时切换，搭配组合之多令人沉迷。\n\n植松伸夫的配乐在FC音源下仍然动人心弦，而浮游大陆下方隐藏的广阔世界、飞空艇“诺第留斯”潜入海底的震撼，都是那个年代玩家最美的回忆。\n\n最终迷宫“水晶之塔”漫长而严苛，中途无法存档，当年不知让多少人咬牙坚持。FC上最具规模的RPG之一，绝对值得一玩。",
+    "highlights": [
+      "二十余种职业可自由转换",
+      "召唤兽与龙骑士跳跃等经典要素登场",
+      "浮游大陆揭开后的广阔世界",
+      "植松伸夫的FC名曲"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "36/40",
+        "quote": "职业系统带来极高的策略性，FC上屈指可数的大作"
+      },
+      {
+        "source": "Famicom Magazine",
+        "score": "26.6/30",
+        "quote": "读者评分极高，画面与音乐均为一流"
+      }
+    ],
+    "editorScore": 9.5,
+    "is2D": true,
+    "screenshots": [
+      "images/fc/fc-final-fantasy-iii-s1.png",
+      "images/fc/fc-final-fantasy-iii-s2.png",
+      "images/fc/fc-final-fantasy-iii-s3.png",
+      "images/fc/fc-final-fantasy-iii-title.png"
+    ],
+    "cover": "images/fc/fc-final-fantasy-iii-box.jpg"
+  },
+  {
+    "id": "fc-mother",
+    "title": "Mother",
+    "titleZh": "地球冒险",
+    "titleJa": "MOTHER",
+    "year": 1989,
+    "developer": "Ape / Pax Softnica",
+    "publisher": "Nintendo",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "现代美国",
+      "超能力",
+      "剧情"
+    ],
+    "players": "1-4",
+    "tagline": "糸井重里笔下的温柔与诡异",
+    "description": "当别的RPG还在剑与魔法的世界里打转时，《MOTHER》把舞台搬到了20世纪80年代的美国小镇！主角奈特拿着球棒、背着背包，用超能力“PSI”对抗被外星人操控的嬉皮士、野狗与发了疯的汽车——这份荒诞又温暖的气质，正是作家糸井重里的独门风格。\n\n游戏中的地方都是真实生活的延伸：打电话给爸爸存档、在百货商店购物、坐火车去下一座城市。而贯穿全篇的“八段旋律”，在最终决战中化为一首歌，以歌声而非武器面对敌人，那一刻的感动至今难以言表。\n\n后来续作《地球冒险2》闻名海外，但一切故事都从这里开始。",
+    "highlights": [
+      "现代美国小镇背景的另类RPG",
+      "超能力PSI战斗与生活化道具",
+      "收集八段旋律的动人主线",
+      "糸井重里的独特幽默与诗意"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "31/40",
+        "quote": "平衡性略有争议，但这份独特世界观值得每个人体验"
+      },
+      {
+        "source": "Nintendo Life",
+        "score": "8/10",
+        "quote": "充满魅力的原点之作，奠定了系列的灵魂"
+      }
+    ],
+    "editorScore": 9.4,
+    "is2D": true,
+    "screenshots": [
+      "images/fc/fc-mother-s1.png",
+      "images/fc/fc-mother-s2.png",
+      "images/fc/fc-mother-title.png"
+    ],
+    "cover": "images/fc/fc-mother-box.jpg"
+  },
+  {
+    "id": "fc-mega-man-2",
+    "title": "Mega Man 2",
+    "titleZh": "洛克人2 威利博士之谜",
+    "titleJa": "ロックマン2 Dr.ワイリーの謎",
+    "year": 1988,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genre": "动作",
+    "tags": [
+      "像素",
+      "横版",
+      "选关",
+      "BOSS战"
+    ],
+    "players": "1",
+    "tagline": "最热血的BGM，最经典的洛克人",
+    "description": "八大机器人头目任你挑选挑战顺序，击败后夺取他们的武器——这套“石头剪刀布”式的克制关系，在《洛克人2》中被打磨得淋漓尽致。金属刃一出，几乎所向披靡；泡泡人、木叶人、闪光人……每个头目都个性鲜明。\n\n本作加入了“E罐”回复和密码续关，难度比初代亲切许多，但威利城堡连续六大关依旧能让人手心冒汗。最让人难忘的还是音乐：开场的高楼远景配上激昂的旋律、威利城堡第一关那首传世名曲，被无数玩家与乐队翻唱至今。\n\n如果你只玩一部FC洛克人，选这部绝不会错。",
+    "highlights": [
+      "八大头目自由选关、夺取武器",
+      "E罐与密码系统降低门槛",
+      "威利城堡多段连续关卡",
+      "系列最受欢迎的经典配乐"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "28/40",
+        "quote": "武器克制关系巧妙，动作手感出色"
+      },
+      {
+        "source": "EGM",
+        "score": "32/40",
+        "quote": "四位评测一致认为是NES上最出色的动作游戏之一"
+      },
+      {
+        "source": "IGN",
+        "score": "9.5/10",
+        "quote": "系列巅峰之一，关卡与音乐都无懈可击"
+      }
+    ],
+    "editorScore": 9.4,
+    "is2D": true,
+    "screenshots": [
+      "images/fc/fc-mega-man-2-s1.png",
+      "images/fc/fc-mega-man-2-s2.png",
+      "images/fc/fc-mega-man-2-title.png"
+    ],
+    "cover": "images/fc/fc-mega-man-2-box.jpg"
+  },
+  {
+    "id": "fc-castlevania-iii",
+    "title": "Castlevania III: Dracula's Curse",
+    "titleZh": "恶魔城传说",
+    "titleJa": "悪魔城伝説",
+    "year": 1989,
+    "developer": "Konami",
+    "publisher": "Konami",
+    "genre": "动作",
+    "tags": [
+      "像素",
+      "横版",
+      "哥特",
+      "分支路线"
+    ],
+    "players": "1",
+    "tagline": "四位伙伴，多条路线的哥特史诗",
+    "description": "故事回到初代的两百年前，贝尔蒙特家族的拉尔夫肩负起讨伐德古拉的使命。与前作不同，本作的地图出现了分岔路线，不同的选择会遇到不同的伙伴：攀墙的海盗格兰特、操纵魔法的赛法、化身蝙蝠的阿鲁卡多——没错，就是后来《月下夜想曲》的主角！\n\n日版卡带内置VRC6扩展音源芯片，音乐层次比美版丰富得多，《Beginning》一响，热血立刻涌上心头。画面上的多层卷轴、崩塌的钟楼、水下城镇，都展示了KONAMI在FC末期的顶尖技术。\n\n难度一如既往地硬派，但这正是古典恶魔城的醍醐味。日版强烈推荐！",
+    "highlights": [
+      "可选择的分支路线与多重结局",
+      "四名可切换角色各有绝技",
+      "日版VRC6芯片带来增强音乐",
+      "阿鲁卡多首次登场"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "30/40",
+        "quote": "关卡丰富、画面精致，难度依然很高"
+      },
+      {
+        "source": "AllGame",
+        "score": "4.5/5",
+        "quote": "NES上最出色的动作游戏之一"
+      }
+    ],
+    "editorScore": 9.3,
+    "is2D": true,
+    "screenshots": [
+      "images/fc/fc-castlevania-iii-s1.png",
+      "images/fc/fc-castlevania-iii-s2.png",
+      "images/fc/fc-castlevania-iii-title.png"
+    ],
+    "cover": "images/fc/fc-castlevania-iii-box.jpg"
+  },
+  {
+    "id": "fc-contra",
+    "title": "Contra",
+    "titleZh": "魂斗罗",
+    "titleJa": "魂斗羅",
+    "year": 1988,
+    "developer": "Konami",
+    "publisher": "Konami",
+    "genre": "射击",
+    "tags": [
+      "像素",
+      "横版",
+      "双人合作",
+      "上上下下"
+    ],
+    "players": "1-2",
+    "tagline": "上上下下左右左右BA，三十条命的童年",
+    "description": "“上上下下左右左右BABA”——这串秘籍，几乎是每个80、90后FC玩家都背得滚瓜烂熟的咒语！输入之后，三十条命让比尔和兰斯两位肌肉猛男在异形巢穴中尽情扫射。\n\n《魂斗罗》节奏紧凑，S弹（散弹）一出天下无敌，L激光、F火焰、M机枪各有拥趸。从丛林、瀑布到3D视角的基地，再到充满异形血肉的最终关，八个关卡变化多端；双人合作时，一人跳得太快把另一人“拖死”的抱怨声也是当年客厅里的必备BGM。\n\n日版拥有过场动画与更丰富的背景演出，是FC动作射击无可替代的代表作。",
+    "highlights": [
+      "经典的双人合作射击体验",
+      "S弹等多种武器各具特色",
+      "3D视角基地关卡别出心裁",
+      "科乐美秘籍“三十条命”"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "27/40",
+        "quote": "节奏爽快的射击动作，双人同乐尤其有趣"
+      },
+      {
+        "source": "Famicom必胜本",
+        "score": "3.5/5",
+        "quote": "街机移植表现良好，关卡变化丰富"
+      }
+    ],
+    "editorScore": 9.3,
+    "is2D": true,
+    "screenshots": [
+      "images/fc/fc-contra-s1.png",
+      "images/fc/fc-contra-s2.png",
+      "images/fc/fc-contra-s3.png",
+      "images/fc/fc-contra-title.png"
+    ],
+    "cover": "images/fc/fc-contra-box.jpg"
+  },
+  {
+    "id": "fc-super-mario-bros",
+    "title": "Super Mario Bros.",
+    "titleZh": "超级马里奥兄弟",
+    "titleJa": "スーパーマリオブラザーズ",
+    "year": 1985,
+    "developer": "Nintendo",
+    "publisher": "Nintendo",
+    "genre": "平台跳跃",
+    "tags": [
+      "像素",
+      "横版",
+      "开山之作",
+      "隐藏要素"
+    ],
+    "players": "1-2",
+    "tagline": "一切从1-1开始，改变游戏史的跳跃",
+    "description": "向右走，跳起来顶一下问号砖块，一颗蘑菇冒了出来——短短几秒，《超级马里奥兄弟》就教会了全世界如何玩游戏。“超级玛丽”这个名字，在中国几乎等同于“红白机”本身。\n\n八个世界、三十二个关卡，每一关都隐藏着惊喜：能爬上云端的藤蔓、通往地下奖励关的水管、可以直接跳关的“传送区”，还有那个传说中的“负一关”。马里奥的惯性手感、跳跃的抛物线，都经过宫本茂团队的反复推敲。\n\n这是销量破四千万的传奇，也是横版平台游戏的原点。今天重温，你依然会惊叹于它简单规则下的无穷深度。",
+    "highlights": [
+      "横版平台跳跃的开山鼻祖",
+      "传送水管与隐藏砖块遍布",
+      "精准而有惯性的操作手感",
+      "近藤浩治的经典主题曲"
+    ],
+    "reviews": [
+      {
+        "source": "CVG",
+        "score": "95%",
+        "quote": "无比上瘾的平台游戏，节奏与设计都堪称完美"
+      },
+      {
+        "source": "ACE",
+        "score": "955/1000",
+        "quote": "家用机游戏的新标杆"
+      }
+    ],
+    "editorScore": 9.3,
+    "is2D": true,
+    "screenshots": [
+      "images/fc/fc-super-mario-bros-s1.png",
+      "images/fc/fc-super-mario-bros-s2.png",
+      "images/fc/fc-super-mario-bros-s3.png",
+      "images/fc/fc-super-mario-bros-title.png"
+    ],
+    "cover": "images/fc/fc-super-mario-bros-box.jpg"
+  },
+  {
+    "id": "fc-dragon-quest-iv",
+    "title": "Dragon Quest IV: Chapters of the Chosen",
+    "titleZh": "勇者斗恶龙IV 被引导的人们",
+    "titleJa": "ドラゴンクエストIV 導かれし者たち",
+    "year": 1990,
+    "developer": "Chunsoft",
+    "publisher": "Enix",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "章节式",
+      "日式RPG",
+      "AI战斗"
+    ],
+    "players": "1",
+    "tagline": "五章群像剧，导向勇者的命运",
+    "description": "《勇者斗恶龙IV》大胆采用“章节制”叙事：第一章的王宫战士莱安、第二章的公主阿莉娜、第三章梦想开店的武器商人特鲁内克、第四章为父报仇的舞娘与占卜师姐妹……每个人都有自己的故事，最后在第五章与勇者汇合，共同对抗魔族之王。\n\n特鲁内克一章最受欢迎——买低卖高、开店赚钱，RPG里居然能做生意！本作还加入了马车与AI战斗指令，让同伴依作战方针自动行动。而最终BOSS毕萨罗的悲剧动机，更让玩家第一次对“魔王”产生同情。\n\n群像剧的手法影响深远，至今仍是系列人气最高的作品之一。",
+    "highlights": [
+      "五章群像剧式的叙事结构",
+      "武器商人特鲁内克经营玩法",
+      "马车与AI作战系统",
+      "令人唏嘘的魔王背景故事"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "37/40",
+        "quote": "章节式结构新颖，故事演出更上一层楼"
+      }
+    ],
+    "editorScore": 9.3,
+    "is2D": true,
+    "screenshots": [
+      "images/fc/fc-dragon-quest-iv-s1.png",
+      "images/fc/fc-dragon-quest-iv-s2.png",
+      "images/fc/fc-dragon-quest-iv-title.png"
+    ],
+    "cover": "images/fc/fc-dragon-quest-iv-box.jpg"
+  },
+  {
+    "id": "fc-metal-max",
+    "title": "Metal Max",
+    "titleZh": "重装机兵",
+    "titleJa": "メタルマックス",
+    "year": 1991,
+    "developer": "Crea-Tech",
+    "publisher": "Data East",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "战车",
+      "末日废土",
+      "高自由度"
+    ],
+    "players": "1",
+    "tagline": "“打倒龙的RPG已经腻了”",
+    "description": "“竜退治はもうあきた！”（打倒恶龙已经腻了！）——《重装机兵》用这句广告语向王道RPG宣战。在核战后的荒野上，你是一名想成为赏金猎人的青年，开着战车四处讨伐通缉怪物，主线？那只是选项之一。\n\n本作最迷人的就是战车改造系统：更换主炮、副炮、引擎和底盘，涂装颜色，甚至在沙漠里寻找被遗弃的废车。游戏没有强制结局，你可以随时回家继承修车厂，也可以一路打下去。对许多中国玩家而言，《重装机兵》的末日废土风格与自由气质，是小霸王时代最独特的RPG记忆。\n\n系列从此成为日本另类RPG的代表。",
+    "highlights": [
+      "战车改装与收集系统",
+      "非线性的赏金猎人玩法",
+      "核战后废土世界观",
+      "随时可结束的自由结局"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "29/40",
+        "quote": "战车改造带来新鲜感，自由度高"
+      },
+      {
+        "source": "Famicom Magazine",
+        "score": "22.4/30",
+        "quote": "读者认为世界观与系统别具一格"
+      }
+    ],
+    "editorScore": 9.2,
+    "is2D": true,
+    "screenshots": [
+      "images/fc/fc-metal-max-s1.png",
+      "images/fc/fc-metal-max-title.png"
+    ],
+    "cover": "images/fc/fc-metal-max-box.jpg"
+  },
+  {
+    "id": "fc-kirbys-adventure",
+    "title": "Kirby's Adventure",
+    "titleZh": "星之卡比 梦之泉物语",
+    "titleJa": "星のカービィ 夢の泉の物語",
+    "year": 1993,
+    "developer": "HAL Laboratory",
+    "publisher": "Nintendo",
+    "genre": "平台跳跃",
+    "tags": [
+      "像素",
+      "横版",
+      "复制能力",
+      "可爱"
+    ],
+    "players": "1",
+    "tagline": "FC晚期的色彩奇迹，吸入一切的粉色球",
+    "description": "1993年，超任早已登场，任天堂却在FC上交出了一部画面惊人的作品——《星之卡比 梦之泉物语》。粉红色的卡比张大嘴巴吸入敌人，就能“复制”它们的能力：剑、火焰、冰冻、雷电、UFO……二十多种能力让关卡玩法千变万化。\n\n本作由樱井政博指挥，画面色彩鲜艳、动画流畅，FC晚期的机能被彻底榨干。七个世界里隐藏着小游戏、博物馆与隐藏开关，收集派可以玩上很久。难度温和，非常适合新手与孩子，但隐藏要素又足以满足老手。\n\n“复制能力”从此成为卡比的招牌，这部作品就是系列真正的模板。",
+    "highlights": [
+      "首次登场的“复制能力”系统",
+      "FC末期罕见的华丽画面",
+      "樱井政博的精致关卡设计",
+      "丰富的小游戏与收集要素"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "33/40",
+        "quote": "复制能力趣味十足，FC上画面最好的作品之一"
+      },
+      {
+        "source": "EGM",
+        "score": "33/40",
+        "quote": "可爱又有深度，适合所有玩家"
+      },
+      {
+        "source": "CVG",
+        "score": "89%",
+        "quote": "色彩与创意都令人惊喜的平台游戏"
+      }
+    ],
+    "editorScore": 9.2,
+    "is2D": true,
+    "screenshots": [
+      "images/fc/fc-kirbys-adventure-s1.png",
+      "images/fc/fc-kirbys-adventure-s2.png",
+      "images/fc/fc-kirbys-adventure-title.png"
+    ],
+    "cover": "images/fc/fc-kirbys-adventure-box.jpg"
+  },
+  {
+    "id": "fc-ninja-gaiden",
+    "title": "Ninja Gaiden",
+    "titleZh": "忍者龙剑传",
+    "titleJa": "忍者龍剣伝",
+    "year": 1988,
+    "developer": "Tecmo",
+    "publisher": "Tecmo",
+    "genre": "动作",
+    "tags": [
+      "像素",
+      "横版",
+      "高难度",
+      "电影演出"
+    ],
+    "players": "1",
+    "tagline": "电影化过场与地狱难度的忍者传奇",
+    "description": "隼龙的父亲在决斗中身亡，他带着龙剑远赴美国，卷入一场关于邪神复活的阴谋——《忍者龙剑传》是最早把“电影式过场动画”大规模引入家用机的动作游戏，每章之间的漫画式分镜让当年的孩子们看得目不转睛。\n\n操作上，龙剑快速利落，攀墙跳跃、风车手里剑、火轮等忍术组合出流畅的战斗节奏。然而难度同样传奇：被鸟撞落悬崖、第六章BOSS打不过就退回三关，这些痛苦回忆至今仍被玩家津津乐道。\n\n刺激、紧张、充满成就感，它是FC硬派动作的标杆。",
+    "highlights": [
+      "漫画分镜式的电影化过场",
+      "攀墙跳跃与多种忍术",
+      "紧张刺激的高难度关卡",
+      "热血激昂的章节配乐"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "28/40",
+        "quote": "演出出色、动作爽快，但难度偏高"
+      },
+      {
+        "source": "IGN",
+        "score": "9/10",
+        "quote": "硬派又迷人的动作经典（Wii VC版评测）"
+      }
+    ],
+    "editorScore": 9.1,
+    "is2D": true,
+    "screenshots": [
+      "images/fc/fc-ninja-gaiden-s1.png",
+      "images/fc/fc-ninja-gaiden-x1.png",
+      "images/fc/fc-ninja-gaiden-title.png"
+    ],
+    "cover": "images/fc/fc-ninja-gaiden-box.jpg"
+  },
+  {
+    "id": "fc-fire-emblem",
+    "title": "Fire Emblem: Shadow Dragon and the Blade of Light",
+    "titleZh": "火焰纹章 暗黑龙与光之剑",
+    "titleJa": "ファイアーエムブレム 暗黒竜と光の剣",
+    "year": 1990,
+    "developer": "Intelligent Systems",
+    "publisher": "Nintendo",
+    "genre": "战略角色扮演",
+    "tags": [
+      "像素",
+      "战棋",
+      "永久死亡",
+      "王子复国"
+    ],
+    "players": "1",
+    "tagline": "战棋RPG的始祖，马尔斯王子的复国之路",
+    "description": "阿利蒂亚王国的王子马尔斯，在亡国之后踏上复国征途——这就是传说的开始。《火焰纹章》将棋盘式的战术推演与RPG的成长、剧情融为一体，开创了“战略角色扮演”这一类型。\n\n武器有耐久度，剑、枪、斧各有长短；角色一旦阵亡便永远离队，这让每一步都必须深思熟虑，读档重来的心酸谁都经历过。与敌方角色对话可以说服其加入，天马骑士三姐妹、盗贼裘利安等人至今仍是系列人气角色。\n\n发售初期并不火爆，靠着口碑一路热卖。今天的《风花雪月》《Engage》，都能在这里找到根源。",
+    "highlights": [
+      "战略RPG类型的开创者",
+      "角色永久死亡的紧张抉择",
+      "说服敌将加入的招募系统",
+      "转职与武器耐久系统"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "26/40",
+        "quote": "系统新颖但略显艰深，耐心玩下去会越发有味"
+      },
+      {
+        "source": "Famicom Magazine",
+        "score": "23.48/30",
+        "quote": "读者评价颇高，战术乐趣十足"
+      }
+    ],
+    "editorScore": 9.1,
+    "is2D": true,
+    "screenshots": [
+      "images/fc/fc-fire-emblem-s1.png",
+      "images/fc/fc-fire-emblem-x1.png",
+      "images/fc/fc-fire-emblem-title.png"
+    ],
+    "cover": "images/fc/fc-fire-emblem-box.jpg"
+  },
+  {
+    "id": "fc-gimmick",
+    "title": "Gimmick!",
+    "titleZh": "Gimmick!（吉米克）",
+    "titleJa": "ギミック!",
+    "year": 1992,
+    "developer": "Sunsoft",
+    "publisher": "Sunsoft",
+    "genre": "平台跳跃",
+    "tags": [
+      "像素",
+      "横版",
+      "物理弹跳",
+      "隐藏神作"
+    ],
+    "players": "1",
+    "tagline": "被埋没的物理系平台神作",
+    "description": "一个被送给小女孩的绿色玩偶“由梨”，为了救回被玩具们掳走的主人而踏上冒险——《Gimmick!》外表童话可爱，骨子里却是一部极为硬核的平台动作游戏。\n\n主角能召唤一颗星星，星星会按真实物理弹跳、反弹，甚至可以站在上面当踏板。滑坡、惯性、弹道……关卡设计全部围绕这颗星星展开，在1992年的FC上实现如此流畅的物理效果简直令人咋舌。画面细腻、动画丰富，太阳软件的扩展音源配乐更是公认FC最佳之一。\n\n只在日本和北欧少量发行，长期被埋没，如今已是收藏界的天价卡带。难度很高，隐藏结局更是挑战极限。",
+    "highlights": [
+      "基于物理弹跳的星星机制",
+      "FC末期顶级的画面与动画",
+      "太阳软件的扩展音源配乐",
+      "极具挑战性的隐藏结局"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "26/40",
+        "quote": "画面与动作精致，难度对新手不太友好"
+      },
+      {
+        "source": "Nintendo Magazine System",
+        "score": "91/100",
+        "quote": "技术与创意都令人惊叹的平台游戏"
+      }
+    ],
+    "editorScore": 9.0,
+    "is2D": true,
+    "screenshots": [
+      "images/fc/fc-gimmick-s1.png",
+      "images/fc/fc-gimmick-s2.png",
+      "images/fc/fc-gimmick-title.png"
+    ],
+    "cover": "images/fc/fc-gimmick-box.jpg"
+  },
+  {
+    "id": "fc-river-city-ransom",
+    "title": "River City Ransom",
+    "titleZh": "热血物语",
+    "titleJa": "ダウンタウン熱血物語",
+    "year": 1989,
+    "developer": "Technōs Japan",
+    "publisher": "Technōs Japan",
+    "genre": "动作清版",
+    "tags": [
+      "像素",
+      "热血系列",
+      "双人合作",
+      "RPG要素"
+    ],
+    "players": "1-2",
+    "tagline": "国夫君的街头RPG，买吃的也能变强",
+    "description": "“热血”系列在中国玩家心中的地位无需多言，而《热血物语》正是其中最特别的一作。国夫与阿力为了救回被绑架的女友，横扫整座城市的不良少年帮派——但这不只是一款清版游戏！\n\n打倒敌人会掉钱，拿着钱去商店吃拉面、喝饮料、买秘籍书，就能永久提升属性、学会“马赫踢”“龙尾岚风脚”等必杀技。城市地图开放可自由往返，搭配双人合作，可以抡起垃圾桶、轮胎互砸，混乱又欢乐。敌人被打倒时的一声“哇——”，至今听来依然亲切。\n\n清版动作加RPG成长，这个点子领先时代许多年。",
+    "highlights": [
+      "清版动作结合RPG属性成长",
+      "商店购物与必杀技秘籍",
+      "开放式城市地图",
+      "双人合作的混乱乐趣"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "28/40",
+        "quote": "动作加上成长要素，玩法新颖有趣"
+      },
+      {
+        "source": "IGN",
+        "score": "9/10",
+        "quote": "领先时代的融合之作，至今依旧耐玩"
+      }
+    ],
+    "editorScore": 9.0,
+    "is2D": true,
+    "screenshots": [
+      "images/fc/fc-river-city-ransom-s1.png",
+      "images/fc/fc-river-city-ransom-s2.png",
+      "images/fc/fc-river-city-ransom-s3.png",
+      "images/fc/fc-river-city-ransom-title.png"
+    ],
+    "cover": "images/fc/fc-river-city-ransom-box.jpg"
+  },
+  {
+    "id": "fc-metroid",
+    "title": "Metroid",
+    "titleZh": "银河战士",
+    "titleJa": "メトロイド",
+    "year": 1986,
+    "developer": "Nintendo R&D1 / Intelligent Systems",
+    "publisher": "Nintendo",
+    "genre": "动作冒险",
+    "tags": [
+      "像素",
+      "探索",
+      "银河恶魔城",
+      "科幻"
+    ],
+    "players": "1",
+    "tagline": "“银河恶魔城”之名的一半由此而来",
+    "description": "在幽暗的行星Zebes地下，赏金猎人萨姆斯孤身潜入，寻找被宇宙海盗夺走的生物兵器“梅特罗德”。《银河战士》以一张相互连通的巨大地图，开创了“获得能力→打开新区域”的探索模式，也就是今天我们常说的“银河恶魔城”中的“银河”。\n\n变形球、冰冻光束、高跳靴……每一项新能力都意味着新的道路。没有地图、没有提示，玩家只能凭记忆与方格纸探索，孤独压抑的氛围由音乐与黑色背景衬托得淋漓尽致。而当玩家快速通关后，萨姆斯摘下头盔的那一幕，更是成为游戏史上最著名的惊喜之一。\n\n粗犷但开创性十足，值得每个探索类爱好者朝圣。",
+    "highlights": [
+      "开创“能力解锁探索”结构",
+      "孤独压抑的外星氛围",
+      "多种强化道具与隐藏通道",
+      "依通关时间变化的多重结局"
+    ],
+    "reviews": [
+      {
+        "source": "CVG",
+        "score": "80%",
+        "quote": "庞大而富有挑战的探索射击游戏"
+      },
+      {
+        "source": "AllGame",
+        "score": "5/5",
+        "quote": "开创性的经典，奠定了一个类型"
+      }
+    ],
+    "editorScore": 8.9,
+    "is2D": true,
+    "screenshots": [
+      "images/fc/fc-metroid-s1.png",
+      "images/fc/fc-metroid-s2.png",
+      "images/fc/fc-metroid-s3.png",
+      "images/fc/fc-metroid-title.png"
+    ],
+    "cover": "images/fc/fc-metroid-box.jpg"
+  },
+  {
+    "id": "fc-super-contra",
+    "title": "Super C",
+    "titleZh": "超级魂斗罗",
+    "titleJa": "スーパー魂斗羅",
+    "year": 1990,
+    "developer": "Konami",
+    "publisher": "Konami",
+    "genre": "射击",
+    "tags": [
+      "像素",
+      "横版",
+      "双人合作",
+      "俯视角关卡"
+    ],
+    "players": "1-2",
+    "tagline": "更快更狠的续作，双人火力全开",
+    "description": "比尔和兰斯再度出击！《超级魂斗罗》在前作基础上全面提速，敌人更多、弹幕更密，俯视角关卡取代了前作的3D基地，玩法变化更加丰富。\n\n武器方面，散弹S依旧是众人首选，新的F火焰可以按住充能，L激光则变成了更实用的强力光束。关卡从丛林基地到异形巢穴，BOSS体型巨大、演出震撼——第一关的直升机、最后的异形心脏，都令人印象深刻。日版同样有更多剧情过场，并支持输入秘籍增加残机。\n\n对许多中国玩家来说，“一代二代”是双人搭档最常玩的组合。如果说一代是经典，那么二代就是更爽快的进化版。",
+    "highlights": [
+      "横版与俯视角关卡交替",
+      "强化后的武器系统",
+      "巨型BOSS与密集弹幕",
+      "双人合作乐趣倍增"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "25/40",
+        "quote": "动作爽快，系列粉丝不会失望"
+      },
+      {
+        "source": "EGM",
+        "score": "32/40",
+        "quote": "延续前作精髓的出色续作"
+      },
+      {
+        "source": "Nintendo Power",
+        "score": "4/5",
+        "quote": "画面与动作都比前作更进一步"
+      }
+    ],
+    "editorScore": 8.9,
+    "is2D": true,
+    "screenshots": [
+      "images/fc/fc-super-contra-s1.png",
+      "images/fc/fc-super-contra-s2.png",
+      "images/fc/fc-super-contra-title.png"
+    ],
+    "cover": "images/fc/fc-super-contra-box.jpg"
+  },
+  {
+    "id": "fc-dragon-quest-ii",
+    "title": "Dragon Quest II: Luminaries of the Legendary Line",
+    "titleZh": "勇者斗恶龙II 恶灵的众神",
+    "titleJa": "ドラゴンクエストII 悪霊の神々",
+    "year": 1987,
+    "developer": "Chunsoft",
+    "publisher": "Enix",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "三人队伍",
+      "日式RPG",
+      "航海"
+    ],
+    "players": "1",
+    "tagline": "三位勇者后裔，扬帆远航的冒险",
+    "description": "初代勇者的三位后代——罗雷西亚王子、萨马尔多利亚王子与姆恩布鲁克公主——在本作中集结。从单人冒险进化为三人小队，再加上可以出海航行的船只，《勇者斗恶龙II》的世界一下子开阔了许多。\n\n三人分工明确：王子力大无比但不会魔法，公主魔法强大却体弱，萨马尔多利亚王子则两者兼备。本作难度出名地高，特别是终盘的隆达尔基亚洞窟，复杂的迷宫与即死陷阱让无数玩家铭记在心；“复活咒文”长达52个字的密码，也是当年的经典噩梦。\n\n确立了系列“组队冒险”的基础，是勇者斗恶龙走向国民级的关键一步。",
+    "highlights": [
+      "从单人到三人队伍的进化",
+      "乘船航行的广阔世界",
+      "以高难度著称的隆达尔基亚洞窟",
+      "杉山晃一的经典配乐"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "38/40",
+        "quote": "冒险规模大幅扩展，系列真正进化之作"
+      },
+      {
+        "source": "EGM",
+        "score": "24/40",
+        "quote": "美版评测认为难度偏高、节奏较慢"
+      }
+    ],
+    "editorScore": 8.8,
+    "is2D": true,
+    "screenshots": [
+      "images/fc/fc-dragon-quest-ii-s1.png",
+      "images/fc/fc-dragon-quest-ii-x1.png",
+      "images/fc/fc-dragon-quest-ii-title.png"
+    ],
+    "cover": "images/fc/fc-dragon-quest-ii-box.jpg"
+  },
+  {
+    "id": "fc-mega-man-3",
+    "title": "Mega Man 3",
+    "titleZh": "洛克人3 威利博士的末日",
+    "titleJa": "ロックマン3 Dr.ワイリーの最期!?",
+    "year": 1990,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genre": "动作",
+    "tags": [
+      "像素",
+      "横版",
+      "滑铲",
+      "神秘角色"
+    ],
+    "players": "1",
+    "tagline": "滑铲与布鲁斯登场，系列体量巅峰",
+    "description": "《洛克人3》为系列加入了两大标志性要素：可以钻过狭窄空间的“滑铲”，以及会变形成各种道具的机器狗“拉什”。更重要的是，吹着口哨的神秘红色机器人“布鲁斯”在此首次登场，为剧情增添了悬念。\n\n除了八大机器人头目，本作还安排了重返四个关卡、挑战前作“2代头目”复制体的环节，总体量是FC洛克人中最庞大的。蛇人、硬汉人、陀螺人……武器设计依然妙趣横生。\n\n虽然开发周期紧张、留下一些小bug，但它的关卡丰富度与手感依旧是系列顶尖水平。",
+    "highlights": [
+      "滑铲与机器狗拉什首次登场",
+      "神秘角色布鲁斯初次亮相",
+      "重返关卡挑战2代头目",
+      "FC洛克人中最大的体量"
+    ],
+    "reviews": [
+      {
+        "source": "EGM",
+        "score": "36/40",
+        "quote": "四位编辑都给出9分，系列水准再度提升"
+      },
+      {
+        "source": "IGN",
+        "score": "9.5/10",
+        "quote": "内容最丰富的FC洛克人之一"
+      },
+      {
+        "source": "Fami通",
+        "score": "23/40",
+        "quote": "系统扎实但新鲜感不及前作"
+      }
+    ],
+    "editorScore": 8.8,
+    "is2D": true,
+    "screenshots": [
+      "images/fc/fc-mega-man-3-s1.png",
+      "images/fc/fc-mega-man-3-x1.png",
+      "images/fc/fc-mega-man-3-title.png"
+    ],
+    "cover": "images/fc/fc-mega-man-3-box.jpg"
+  },
+  {
+    "id": "fc-castlevania",
+    "title": "Castlevania",
+    "titleZh": "恶魔城",
+    "titleJa": "悪魔城ドラキュラ",
+    "year": 1986,
+    "developer": "Konami",
+    "publisher": "Konami",
+    "genre": "动作",
+    "tags": [
+      "像素",
+      "横版",
+      "哥特",
+      "鞭子"
+    ],
+    "players": "1",
+    "tagline": "一根鞭子闯古堡，哥特动作的起点",
+    "description": "西蒙·贝尔蒙特手持家传圣鞭“吸血鬼杀手”，独自踏入德古拉伯爵的城堡。《恶魔城》以浓郁的哥特恐怖氛围、致敬经典怪物电影的敌人阵容（科学怪人、木乃伊、美杜莎、死神）开创了一个延续数十年的传奇系列。\n\n操作朴实而严格：跳跃一旦起跳便无法改变方向，被击中会向后弹飞——掉进深渊是家常便饭。但正是这种“沉重感”，让每一次挥鞭都需深思熟虑。十字架、圣水、斧头等副武器各有妙用，墙壁里的烤肉更是救命稻草。\n\n《Vampire Killer》等名曲，至今仍是系列必备旋律。这是哥特动作的永恒原点。",
+    "highlights": [
+      "浓郁的哥特恐怖氛围",
+      "致敬经典电影怪物的BOSS",
+      "严谨而有分量的操作手感",
+      "《Vampire Killer》等名曲"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "34/40",
+        "quote": "氛围与音乐出色，动作扎实而富挑战"
+      },
+      {
+        "source": "CVG",
+        "score": "80%",
+        "quote": "气氛十足的动作游戏，难度颇高"
+      }
+    ],
+    "editorScore": 8.8,
+    "is2D": true,
+    "screenshots": [
+      "images/fc/fc-castlevania-s1.png",
+      "images/fc/fc-castlevania-s2.png",
+      "images/fc/fc-castlevania-s3.png",
+      "images/fc/fc-castlevania-title.png"
+    ],
+    "cover": "images/fc/fc-castlevania-box.jpg"
+  },
+  {
+    "id": "fc-megami-tensei-ii",
+    "title": "Digital Devil Story: Megami Tensei II",
+    "titleZh": "女神转生II",
+    "titleJa": "デジタル・デビル物語 女神転生II",
+    "year": 1990,
+    "developer": "Atlus",
+    "publisher": "Namco",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "迷宫",
+      "恶魔交涉",
+      "末世"
+    ],
+    "players": "1",
+    "tagline": "核战后的东京，与恶魔交涉的黑暗RPG",
+    "description": "199X年，核战之后的东京化为废墟，人们躲进避难所苟延残喘。主角在游戏机里的游戏中觉醒，随即被卷入天使与恶魔的战争——《女神转生II》比初代更进一步，奠定了“真·女神转生”系列的核心骨架。\n\n与恶魔对话交涉，可以用金钱、道具或甜言蜜语将其收为同伴；在邪教之馆把两只恶魔合体，诞生更强的存在。第一人称3D迷宫压迫感十足，加上秩序与混沌的对立，让本作的世界观成熟得超乎FC的年代。\n\n这是一款阴暗、硬核、却令人着迷的RPG，也是后来《女神异闻录》系列的远祖。",
+    "highlights": [
+      "恶魔交涉与合体系统",
+      "核战后的废墟东京",
+      "第一人称3D迷宫探索",
+      "秩序与混沌的世界观雏形"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "33/40",
+        "quote": "世界观独特，恶魔合体系统令人沉迷"
+      }
+    ],
+    "editorScore": 8.8,
+    "is2D": true,
+    "screenshots": [
+      "images/fc/fc-megami-tensei-ii-s1.png",
+      "images/fc/fc-megami-tensei-ii-s2.png",
+      "images/fc/fc-megami-tensei-ii-title.png"
+    ],
+    "cover": "images/fc/fc-megami-tensei-ii-box.jpg"
+  },
+  {
+    "id": "fc-tenchi-wo-kurau-ii",
+    "title": "Tenchi wo Kurau II: Shokatsu Kōmei Den",
+    "titleZh": "吞食天地II 诸葛孔明传",
+    "titleJa": "天地を喰らうII 諸葛孔明伝",
+    "year": 1991,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "三国",
+      "武将收集",
+      "策略"
+    ],
+    "players": "1",
+    "tagline": "小霸王上的三国梦，诸葛亮的北伐征程",
+    "description": "以本宫宏志的漫画为蓝本，《吞食天地II》把三国演义变成了一部回合制RPG。玩家扮演刘备一方，从桃园结义一路征战，直到卧龙诸葛亮出山，再到北伐中原——演义中的名场面在像素画面中一一重现。\n\n战斗中可以同时派出多名武将，兵力就是生命值，“策略”则是指挥官诸葛亮施展的计谋：火计、水计、伏兵。全游戏有上百名可招募的武将，五虎上将、卧龙凤雏皆可收入麾下。\n\n在中国，这款游戏的地位极其特殊：大量玩家通过小霸王与各种汉化版本接触三国，“刘备一行人走在大地图上”的画面，是一代人的共同记忆。",
+    "highlights": [
+      "三国演义题材的回合制RPG",
+      "上百名可招募的武将",
+      "以兵力为生命值的独特设定",
+      "诸葛亮施展计谋的策略系统"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "29/40",
+        "quote": "三国题材与RPG结合得自然，武将众多"
+      },
+      {
+        "source": "Famicom Magazine",
+        "score": "23.8/30",
+        "quote": "读者对剧情与系统评价颇高"
+      }
+    ],
+    "editorScore": 8.8,
+    "is2D": true,
+    "screenshots": [
+      "images/fc/fc-tenchi-wo-kurau-ii-s1.png",
+      "images/fc/fc-tenchi-wo-kurau-ii-s2.png",
+      "images/fc/fc-tenchi-wo-kurau-ii-title.png"
+    ],
+    "cover": "images/fc/fc-tenchi-wo-kurau-ii-box.jpg"
+  },
+  {
+    "id": "fc-blaster-master",
+    "title": "Blaster Master",
+    "titleZh": "超惑星战记",
+    "titleJa": "超惑星戦記メタファイト",
+    "year": 1988,
+    "developer": "Sunsoft",
+    "publisher": "Sunsoft",
+    "genre": "动作冒险",
+    "tags": [
+      "像素",
+      "战车",
+      "探索",
+      "双视角"
+    ],
+    "players": "1",
+    "tagline": "开着战车探索地底，双视角动作冒险",
+    "description": "《超惑星战记》的主角驾驶着装甲战车“索菲亚”，在神秘的地下世界里四处探索。横版关卡中，战车可以跳跃、射击，随着获得新装备，还能潜水、爬墙、悬空飞行——不断解锁新区域的设计，堪称早期的“银河恶魔城”。\n\n更有趣的是，驾驶员可以随时跳下战车，徒步钻进狭小的洞穴；进入地下城后，画面切换为俯视角的射击关卡，枪械等级越高越强，被打中就会降级。两种玩法的交替让冒险节奏始终新鲜。\n\n太阳软件的配乐同样出色，第一关的BGM一响，熟悉的感觉立刻回来。难度偏高，没有存档，但值得挑战。",
+    "highlights": [
+      "战车与徒步的双重操作",
+      "横版与俯视角关卡交替",
+      "能力解锁的探索式地图",
+      "太阳软件的出色配乐"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "32/40",
+        "quote": "战车动作别具一格，探索要素丰富"
+      },
+      {
+        "source": "IGN",
+        "score": "9/10",
+        "quote": "NES上被低估的杰作，至今依旧好玩"
+      },
+      {
+        "source": "Mean Machines",
+        "score": "91%",
+        "quote": "极具深度与魅力的动作冒险"
+      }
+    ],
+    "editorScore": 8.7,
+    "is2D": true,
+    "screenshots": [
+      "images/fc/fc-blaster-master-s1.png",
+      "images/fc/fc-blaster-master-s2.png",
+      "images/fc/fc-blaster-master-title.png"
+    ],
+    "cover": "images/fc/fc-blaster-master-box.jpg"
+  },
+  {
+    "id": "fc-chip-n-dale",
+    "title": "Chip 'n Dale: Rescue Rangers",
+    "titleZh": "松鼠大作战",
+    "titleJa": "チップとデールの大作戦",
+    "year": 1990,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genre": "平台跳跃",
+    "tags": [
+      "像素",
+      "迪士尼",
+      "双人合作",
+      "扔箱子"
+    ],
+    "players": "1-2",
+    "tagline": "扔箱子砸队友，双人同乐的回忆杀",
+    "description": "奇奇和蒂蒂两只小松鼠组成救援突击队，为了解救被肥猫老大掳走的伙伴们而出发——《松鼠大作战》是卡普空为迪士尼打造的又一部精品，在中国小霸王时代几乎人手一盘。\n\n玩法简单却极富乐趣：捡起木箱、苹果、球扔向敌人，也可以把箱子扣在头上防御。双人合作时，最快乐（也最容易吵架）的事情就是把队友举起来扔出去！地图有一定分支，关卡从厨房、实验室到赌场，场景充满迪士尼动画的趣味。\n\n难度适中，适合与朋友一起游玩，是FC上最经典的合作游戏之一。",
+    "highlights": [
+      "经典的双人合作模式",
+      "举物投掷的核心玩法",
+      "迪士尼动画风格的关卡",
+      "可选择分支路线"
+    ],
+    "reviews": [
+      {
+        "source": "EGM",
+        "score": "31/40",
+        "quote": "可爱有趣，双人模式特别出彩"
+      },
+      {
+        "source": "Nintendo Power",
+        "score": "4/5",
+        "quote": "卡普空出品的又一款迪士尼精品"
+      },
+      {
+        "source": "Mean Machines",
+        "score": "88%",
+        "quote": "简单易上手，与朋友一起玩乐趣倍增"
+      }
+    ],
+    "editorScore": 8.7,
+    "is2D": true,
+    "screenshots": [
+      "images/fc/fc-chip-n-dale-s1.png",
+      "images/fc/fc-chip-n-dale-s2.png",
+      "images/fc/fc-chip-n-dale-title.png"
+    ],
+    "cover": "images/fc/fc-chip-n-dale-box.jpg"
+  },
+  {
+    "id": "fc-ducktales",
+    "title": "DuckTales",
+    "titleZh": "唐老鸭历险记",
+    "titleJa": "わんぱくダック夢冒険",
+    "year": 1989,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genre": "平台跳跃",
+    "tags": [
+      "像素",
+      "迪士尼",
+      "弹跳拐杖",
+      "寻宝"
+    ],
+    "players": "1",
+    "tagline": "史高治叔叔的弹跳拐杖寻宝之旅",
+    "description": "身为世界首富的史高治叔叔，仍不满足于金库里的金币——他要环游世界寻找五件传说宝藏！《唐老鸭历险记》由《洛克人》团队开发，手感与关卡设计一流。\n\n史高治的拐杖既是武器也是弹簧，按住下键就能像弹跳杆一样蹦起来，踩敌人、跳尖刺、弹到高处，操作上瘾。亚马逊、特兰西瓦尼亚、非洲矿山、喜马拉雅与月球五个关卡可自由选择，每关都有隐藏宝物与分支路线。月球关的BGM更是游戏史上的传奇名曲。\n\n难度适中，节奏轻快，是迪士尼游戏中的绝对精品，也是许多人心中最美好的童年回忆。",
+    "highlights": [
+      "拐杖弹跳的独特操作",
+      "五大关卡自由选择",
+      "隐藏宝物与多重结局",
+      "传奇级的“月球”配乐"
+    ],
+    "reviews": [
+      {
+        "source": "Mean Machines",
+        "score": "90%",
+        "quote": "操作上瘾，迪士尼游戏中的上乘之作"
+      },
+      {
+        "source": "EGM",
+        "score": "8/10",
+        "quote": "卡普空水准的平台游戏，乐趣十足"
+      },
+      {
+        "source": "Fami通",
+        "score": "24/40",
+        "quote": "可爱有趣，但内容量略少"
+      }
+    ],
+    "editorScore": 8.7,
+    "is2D": true,
+    "screenshots": [
+      "images/fc/fc-ducktales-s1.png",
+      "images/fc/fc-ducktales-s2.png",
+      "images/fc/fc-ducktales-s3.png",
+      "images/fc/fc-ducktales-title.png"
+    ],
+    "cover": "images/fc/fc-ducktales-box.jpg"
+  },
+  {
+    "id": "fc-zelda-ii",
+    "title": "Zelda II: The Adventure of Link",
+    "titleZh": "塞尔达传说2 林克的冒险",
+    "titleJa": "リンクの冒険",
+    "year": 1987,
+    "developer": "Nintendo",
+    "publisher": "Nintendo",
+    "genre": "动作角色扮演",
+    "tags": [
+      "像素",
+      "横版战斗",
+      "经验值",
+      "高难度"
+    ],
+    "players": "1",
+    "tagline": "最另类的塞尔达，横版剑斗与RPG成长",
+    "description": "《塞尔达传说2》大胆地改变了一切：大地图采用俯视角，一旦遇敌或进入城镇、宫殿，就切换为横版动作画面。林克可以上刺、下刺、举盾防御，与骑士类敌人的剑斗需要真正的技巧与时机。\n\n本作还加入了经验值系统，可以分配到攻击、魔法、生命三项，村庄里的居民会传授魔法与剑技。六座宫殿难度层层递进，最终的“大宫殿”和林克的影子对决至今令人心有余悸。\n\n它常被称为系列“异类”，但正是这份硬派让许多玩家念念不忘。“我是Error”这句台词，更成了游戏界经典梗。",
+    "highlights": [
+      "俯视大地图与横版战斗结合",
+      "经验值与能力分配系统",
+      "上刺下刺的技巧性剑斗",
+      "高难度的宫殿与影子林克"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "36/40",
+        "quote": "动作与RPG融合大胆，挑战性十足"
+      },
+      {
+        "source": "Famicom必胜本",
+        "score": "5/5",
+        "quote": "全新的动作冒险体验，充满魅力"
+      }
+    ],
+    "editorScore": 8.6,
+    "is2D": true,
+    "screenshots": [
+      "images/fc/fc-zelda-ii-s1.png",
+      "images/fc/fc-zelda-ii-s2.png",
+      "images/fc/fc-zelda-ii-s3.png",
+      "images/fc/fc-zelda-ii-title.png"
+    ],
+    "cover": "images/fc/fc-zelda-ii-box.jpg"
+  },
+  {
+    "id": "fc-crystalis",
+    "title": "Crystalis",
+    "titleZh": "水晶之龙",
+    "titleJa": "ゴッド・スレイヤー はるか天空のソナタ",
+    "year": 1990,
+    "developer": "SNK",
+    "publisher": "SNK",
+    "genre": "动作角色扮演",
+    "tags": [
+      "像素",
+      "俯视角",
+      "末世",
+      "剑与魔法"
+    ],
+    "players": "1",
+    "tagline": "SNK的末世ARPG，被低估的FC宝石",
+    "description": "1997年，核战争毁灭了文明；一百年后，主角从冷冻睡眠中醒来，世界已回归剑与魔法的时代——《水晶之龙》以科幻与奇幻交织的世界观，为FC带来了一部极具野心的俯视角动作RPG。\n\n四把元素之剑（风、火、水、雷）可以蓄力发射不同的魔法弹，还能打开特定的障碍物；随着冒险推进，主角学会治疗、变身、传送、浮空等魔法，迷宫解谜与动作战斗结合得相当流畅。画面细腻、卷轴平滑，在当年的FC上相当惊艳。\n\n它常被拿来与《圣剑传说》相比，是喜欢俯视角ARPG的玩家绝不可错过的遗珠。",
+    "highlights": [
+      "四把元素之剑与蓄力攻击",
+      "科幻与奇幻交织的末世观",
+      "多种魔法辅助探索解谜",
+      "流畅的俯视角ARPG战斗"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "28/40",
+        "quote": "动作RPG的完成度不错，画面相当出色"
+      },
+      {
+        "source": "EGM",
+        "score": "30/40",
+        "quote": "NES上最出色的动作RPG之一"
+      }
+    ],
+    "editorScore": 8.6,
+    "is2D": true,
+    "screenshots": [
+      "images/fc/fc-crystalis-s1.png",
+      "images/fc/fc-crystalis-s2.png",
+      "images/fc/fc-crystalis-title.png"
+    ],
+    "cover": "images/fc/fc-crystalis-box.jpg"
+  },
+  {
+    "id": "fc-final-fantasy",
+    "title": "Final Fantasy",
+    "titleZh": "最终幻想",
+    "titleJa": "ファイナルファンタジー",
+    "year": 1987,
+    "developer": "Square",
+    "publisher": "Square",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "四光之战士",
+      "日式RPG",
+      "开山之作"
+    ],
+    "players": "1",
+    "tagline": "史克威尔的“最后一搏”，传奇由此开始",
+    "description": "据说坂口博信当年认为这可能是自己的最后一部作品，于是取名“最终幻想”——谁也没想到，它开启了日本最伟大的RPG系列之一。\n\n四位手持暗淡水晶的光之战士，从救出公主开始，一路恢复四颗水晶的光芒。游戏开局就能从战士、盗贼、武僧、红魔导士、白魔导士、黑魔导士六种职业中自由组队，中期还可以转职为骑士、忍者、贤者。侧视角战斗、飞空艇、天野喜孝的插画与植松伸夫的《序曲》都在这里首次登场。\n\n故事最后揭示的时间循环，在1987年显得相当惊艳。虽然系统略显粗糙，但这是每个FF粉丝的朝圣之地。",
+    "highlights": [
+      "六种职业自由组建队伍",
+      "侧视角战斗与飞空艇登场",
+      "天野喜孝与植松伸夫的初次合作",
+      "时间循环的惊人结局"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "34/40",
+        "quote": "职业组合自由，史克威尔RPG的出色开端"
+      }
+    ],
+    "editorScore": 8.5,
+    "is2D": true,
+    "screenshots": [
+      "images/fc/fc-final-fantasy-s1.png",
+      "images/fc/fc-final-fantasy-s2.png",
+      "images/fc/fc-final-fantasy-title.png"
+    ],
+    "cover": "images/fc/fc-final-fantasy-box.jpg"
+  },
+  {
+    "id": "fc-double-dragon-ii",
+    "title": "Double Dragon II: The Revenge",
+    "titleZh": "双截龙2 复仇",
+    "titleJa": "ダブルドラゴンII ザ・リベンジ",
+    "year": 1989,
+    "developer": "Technōs Japan",
+    "publisher": "Technōs Japan",
+    "genre": "动作清版",
+    "tags": [
+      "像素",
+      "双人合作",
+      "格斗",
+      "旋风腿"
+    ],
+    "players": "1-2",
+    "tagline": "比利与吉米联手，为玛丽安复仇",
+    "description": "玛丽安被暗黑组织“影之战士”杀害，比利与吉米兄弟誓言复仇——《双截龙2》FC版不是简单的街机移植，而是重新设计的作品，支持了前作FC版所缺失的双人同时游戏。\n\n本作的格斗动作极其丰富：抓头膝撞、背摔、空中旋风腿、“龙尾岚风脚”……熟练后可以打出华丽的连招。关卡从直升机、地下基地到大厦顶层，演出充满动作片的味道，过场动画还会讲述兄弟的复仇故事。最终面对的神秘BOSS，更要用上自己的影子才能打败。\n\n双人合作时一不小心就会打到队友，这正是它最欢乐的地方。FC清版动作的代表作之一。",
+    "highlights": [
+      "支持双人同时合作游戏",
+      "丰富的格斗招式与连段",
+      "电影感的关卡与剧情演出",
+      "三档难度对应不同结局"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "26/40",
+        "quote": "动作丰富，双人同乐乐趣十足"
+      }
+    ],
+    "editorScore": 8.5,
+    "is2D": true,
+    "screenshots": [
+      "images/fc/fc-double-dragon-ii-s1.png",
+      "images/fc/fc-double-dragon-ii-s2.png",
+      "images/fc/fc-double-dragon-ii-title.png"
+    ],
+    "cover": "images/fc/fc-double-dragon-ii-box.jpg"
+  },
+  {
+    "id": "fc-salamander",
+    "title": "Salamander",
+    "titleZh": "沙罗曼蛇",
+    "titleJa": "沙羅曼蛇",
+    "year": 1987,
+    "developer": "Konami",
+    "publisher": "Konami",
+    "genre": "射击",
+    "tags": [
+      "像素",
+      "横纵卷轴",
+      "双人合作",
+      "能力胶囊"
+    ],
+    "players": "1-2",
+    "tagline": "横纵交替的有机体地狱，双机齐飞",
+    "description": "《沙罗曼蛇》是《宇宙巡航机》的兄弟作，在中国几乎无人不知。玩家驾驶维克·维博与罗德·布里坦，深入被生物侵蚀的星球作战，横版与纵版关卡交替出现，蠕动的血肉墙、喷火的日冕、摩艾石像……场景充满诡异的生物感。\n\n与《宇宙巡航机》的能力条不同，本作吃到对应胶囊即可直接获得速度、导弹、激光、子机等强化，节奏更爽快。双人同屏合作是最大卖点——两台战机的子机交织成火网，敌人瞬间灰飞烟灭。FC版虽然有些闪烁，但整体移植相当出色，日版的音乐尤为动听。\n\n“上上下下左右左右BA”在这里同样能增加残机！",
+    "highlights": [
+      "横版与纵版关卡交替",
+      "双人同屏合作射击",
+      "生物系的诡异关卡美术",
+      "即吃即得的强化胶囊"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "29/40",
+        "quote": "街机移植表现出色，双人模式尤其好玩"
+      },
+      {
+        "source": "AllGame",
+        "score": "3.5/5",
+        "quote": "节奏爽快的经典射击游戏（美版Life Force）"
+      }
+    ],
+    "editorScore": 8.4,
+    "is2D": true,
+    "screenshots": [
+      "images/fc/fc-salamander-s1.png",
+      "images/fc/fc-salamander-s2.png",
+      "images/fc/fc-salamander-title.png"
+    ],
+    "cover": "images/fc/fc-salamander-box.jpg"
+  },
+  {
+    "id": "fc-jackal",
+    "title": "Jackal",
+    "titleZh": "赤色要塞",
+    "titleJa": "特殊部隊ジャッカル",
+    "year": 1988,
+    "developer": "Konami",
+    "publisher": "Konami",
+    "genre": "射击",
+    "tags": [
+      "像素",
+      "俯视角",
+      "吉普车",
+      "救人质"
+    ],
+    "players": "1-2",
+    "tagline": "驾驶吉普车冲锋，救出俘虏的热血战场",
+    "description": "四名特种部队队员开着两辆吉普车，深入敌后营救被俘的战友——《赤色要塞》是小霸王时代最受欢迎的俯视角射击游戏之一。\n\n吉普车一边发射可以越过障碍的手榴弹或火箭弹，一边用机枪扫射；救出俘虏后送到直升机降落点，就能升级武器，从手榴弹到导弹，火力越来越猛。双人合作时，两辆吉普车并肩冲锋，敌方的坦克、炮台、战舰在爆炸声中化为灰烬，爽快感十足。\n\n六个关卡难度循序渐进，最终的要塞战气势磅礴。轻松上手、节奏紧凑，适合与朋友一起在沙发上重温那份热血。",
+    "highlights": [
+      "驾驶吉普车的俯视角射击",
+      "营救俘虏升级武器",
+      "双人合作并肩冲锋",
+      "爽快的爆炸与破坏感"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "28/40",
+        "quote": "救人质与武器升级要素新鲜，玩法丰富"
+      }
+    ],
+    "editorScore": 8.3,
+    "is2D": true,
+    "screenshots": [
+      "images/fc/fc-jackal-s1.png",
+      "images/fc/fc-jackal-s2.png",
+      "images/fc/fc-jackal-title.png"
+    ],
+    "cover": "images/fc/fc-jackal-box.jpg"
+  },
+  {
+    "id": "fc-adventure-island",
+    "title": "Adventure Island",
+    "titleZh": "冒险岛",
+    "titleJa": "高橋名人の冒険島",
+    "year": 1986,
+    "developer": "Escape",
+    "publisher": "Hudson Soft",
+    "genre": "平台跳跃",
+    "tags": [
+      "像素",
+      "横版",
+      "滑板",
+      "水果"
+    ],
+    "players": "1",
+    "tagline": "高桥名人穿草裙，吃水果闯荒岛",
+    "description": "以“十六连射”闻名的高桥名人亲自化身主角，穿着草裙、拿着石斧，为了救出被掳走的女友蒂娜，在南洋群岛上展开冒险——《冒险岛》是许多中国玩家最早接触的FC游戏之一。\n\n游戏中体力会随着时间不断减少，必须一路吃水果补充；拿到石斧可以攻击，踩上滑板则会一路加速冲刺，速度感十足但也更容易撞上石头。隐藏蛋里可能藏着仙女的无敌效果，也可能是夺走体力的茄子妖怪。\n\n关卡越往后越难，八大区域共三十二关，想要通关需要相当的耐心与记忆力。它简单、纯粹，又让人一玩就停不下来。",
+    "highlights": [
+      "持续减少的体力与水果补给",
+      "滑板高速冲刺的爽快感",
+      "隐藏蛋的惊喜与陷阱",
+      "高桥名人亲自主演"
+    ],
+    "reviews": [
+      {
+        "source": "GameSpot",
+        "score": "6.5/10",
+        "quote": "节奏紧凑、富有挑战的平台游戏"
+      },
+      {
+        "source": "AllGame",
+        "score": "3/5",
+        "quote": "简单却令人上瘾的早期平台游戏"
+      }
+    ],
+    "editorScore": 8.2,
+    "is2D": true,
+    "screenshots": [
+      "images/fc/fc-adventure-island-s1.png",
+      "images/fc/fc-adventure-island-s2.png",
+      "images/fc/fc-adventure-island-title.png"
+    ],
+    "cover": "images/fc/fc-adventure-island-box.jpg"
+  },
+  {
+    "id": "fc-battle-city",
+    "title": "Battle City",
+    "titleZh": "坦克大战",
+    "titleJa": "バトルシティー",
+    "year": 1985,
+    "developer": "Namco",
+    "publisher": "Namco",
+    "genre": "射击",
+    "tags": [
+      "像素",
+      "双人合作",
+      "关卡编辑",
+      "守护老鹰"
+    ],
+    "players": "1-2",
+    "tagline": "守住老鹰！小霸王上的双人国民游戏",
+    "description": "“守住老家的老鹰！”——只要说起《坦克大战》，几乎每个中国FC玩家都能回忆起那个画面：砖墙、钢板、树林、河流组成的战场，敌方坦克源源不断地涌来。\n\n规则简单却极富策略：砖墙可以打穿，钢板需要升级火力；吃到铲子道具可以把老家围上钢墙，吃到手雷能一口气消灭全屏敌人，头盔则提供短暂无敌。双人合作时既是战友也是“对手”——抢道具、误伤队友是家常便饭。内置的关卡编辑器更让孩子们自己动手设计地图，这在1985年相当先进。\n\n它从未在海外正式发行，却因无数合卡成为中国最知名的FC游戏之一。",
+    "highlights": [
+      "经典的双人合作守卫玩法",
+      "可破坏的砖墙地形",
+      "内置关卡编辑器",
+      "丰富的道具与升级"
+    ],
+    "reviews": [],
+    "editorScore": 8.2,
+    "is2D": true,
+    "screenshots": [
+      "images/fc/fc-battle-city-s1.png",
+      "images/fc/fc-battle-city-s2.png",
+      "images/fc/fc-battle-city-title.png"
+    ],
+    "cover": "images/fc/fc-battle-city-box.jpg"
+  },
+  {
+    "id": "fc-bomberman",
+    "title": "Bomberman",
+    "titleZh": "炸弹人",
+    "titleJa": "ボンバーマン",
+    "year": 1985,
+    "developer": "Hudson Soft",
+    "publisher": "Hudson Soft",
+    "genre": "动作",
+    "tags": [
+      "像素",
+      "迷宫",
+      "放炸弹",
+      "益智"
+    ],
+    "players": "1",
+    "tagline": "放炸弹炸砖块，简单纯粹的迷宫乐趣",
+    "description": "白色的小机器人在迷宫里放下炸弹，十字形的火焰炸开砖块、消灭敌人，然后——千万别把自己也炸了！《炸弹人》的规则几秒钟就能学会，但要高效地通过五十个关卡，需要不少技巧。\n\n砖块下藏着各种道具：增加炸弹数量、扩大火焰范围、加速鞋、遥控引爆、穿墙……收集越多，炸弹人就越强；但一旦失手阵亡，部分能力就会消失。每关还必须找到隐藏的出口，炸到出口门时引出一大批敌人的惊险时刻，大家一定都经历过。\n\n这是后来风靡全球的多人乱斗系列的起点，FC版本虽然只能单人，但纯粹的乐趣历久弥新。",
+    "highlights": [
+      "简单易懂的放置炸弹玩法",
+      "丰富的强化道具",
+      "五十个关卡与隐藏出口",
+      "系列风靡全球的起点"
+    ],
+    "reviews": [],
+    "editorScore": 8.0,
+    "is2D": true,
+    "screenshots": [
+      "images/fc/fc-bomberman-s1.png",
+      "images/fc/fc-bomberman-s3.png",
+      "images/fc/fc-bomberman-title.png"
+    ],
+    "cover": "images/fc/fc-bomberman-box.jpg"
+  }
+]

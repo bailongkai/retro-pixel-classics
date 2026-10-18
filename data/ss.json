@@ -7,7 +7,7 @@
     "year": 1998,
     "developer": "Treasure",
     "publisher": "ESP",
-    "genre": "纵版射击",
+    "genre": "射击",
     "tags": [
       "像素",
       "弹幕",
@@ -43,9 +43,12 @@
     "editorScore": 9.6,
     "is2D": true,
     "screenshots": [
-      "images/ss/ss-radiant-silvergun-1.png"
+      "images/ss/ss-radiant-silvergun-s1.png",
+      "images/ss/ss-radiant-silvergun-x1.png",
+      "images/ss/ss-radiant-silvergun-x2.jpg",
+      "images/ss/ss-radiant-silvergun-title.png"
     ],
-    "coverShot": true
+    "cover": "images/ss/ss-radiant-silvergun-box.jpg"
   },
   {
     "id": "ss-guardian-heroes",
@@ -91,9 +94,59 @@
     "editorScore": 9.5,
     "is2D": true,
     "screenshots": [
-      "images/ss/ss-guardian-heroes-1.jpg"
+      "images/ss/ss-guardian-heroes-s1.png",
+      "images/ss/ss-guardian-heroes-title.png"
     ],
-    "coverShot": false
+    "cover": "images/ss/ss-guardian-heroes-box.jpg"
+  },
+  {
+    "id": "ss-panzer-dragoon-saga",
+    "title": "Panzer Dragoon Saga",
+    "titleZh": "铁甲飞龙 萨迦",
+    "titleJa": "アゼル -パンツァードラグーンRPG-",
+    "year": 1998,
+    "developer": "Team Andromeda",
+    "publisher": "Sega",
+    "genre": "角色扮演",
+    "tags": [
+      "3D",
+      "飞龙",
+      "神作"
+    ],
+    "players": "1",
+    "tagline": "土星末期的绝唱，传说中的“最强RPG”",
+    "description": "如果只能为世嘉土星留下一款RPG，很多老玩家会毫不犹豫地选它。《铁甲飞龙 萨迦》把系列招牌的飞龙射击改造成独一无二的RPG：战斗中你要驾驭飞龙绕着敌人寻找弱点，同时盯着行动槽计算时机，紧张度远胜传统菜单战斗。\n\n荒凉而神秘的世界观、全程语音和电影化演出，在1998年堪称奇迹。四张光盘的篇幅不算长，却足以让人铭记一生。\n\n可惜发售时土星已近黄昏，欧美出货量极少，正版价格至今居高不下。它不是2D游戏，却是每个土星玩家都该知道的名字。",
+    "highlights": [
+      "绕敌移动寻找弱点的独创战斗",
+      "飞龙可自由变形调整能力",
+      "神秘荒凉的独特世界观",
+      "GameRankings土星评分最高作品"
+    ],
+    "reviews": [
+      {
+        "source": "Sega Saturn Magazine (英)",
+        "score": "96%",
+        "quote": "土星史上最出色的RPG"
+      },
+      {
+        "source": "GameSpot",
+        "score": "9.2/10",
+        "quote": "以自己的方式超越了Square的终极RPG"
+      },
+      {
+        "source": "Game Informer",
+        "score": "9/10",
+        "quote": "战斗系统新颖，画面表现一流"
+      }
+    ],
+    "editorScore": 9.5,
+    "is2D": false,
+    "screenshots": [
+      "images/ss/ss-panzer-dragoon-saga-s1.png",
+      "images/ss/ss-panzer-dragoon-saga-s3.png",
+      "images/ss/ss-panzer-dragoon-saga-title.png"
+    ],
+    "cover": "images/ss/ss-panzer-dragoon-saga-box.jpg"
   },
   {
     "id": "ss-shining-force-3",
@@ -103,7 +156,7 @@
     "year": 1997,
     "developer": "Camelot Software Planning（Sonic! Software Planning）",
     "publisher": "Sega",
-    "genre": "战棋RPG",
+    "genre": "战略角色扮演",
     "tags": [
       "战棋",
       "三部曲",
@@ -138,10 +191,12 @@
     "editorScore": 9.4,
     "is2D": false,
     "screenshots": [
-      "images/ss/ss-shining-force-3-1.jpg",
-      "images/ss/ss-shining-force-3-2.jpg"
+      "images/ss/ss-shining-force-3-s1.png",
+      "images/ss/ss-shining-force-3-x1.jpg",
+      "images/ss/ss-shining-force-3-x2.jpg",
+      "images/ss/ss-shining-force-3-title.png"
     ],
-    "coverShot": true
+    "cover": "images/ss/ss-shining-force-3-box.jpg"
   },
   {
     "id": "ss-grandia",
@@ -151,7 +206,7 @@
     "year": 1997,
     "developer": "Game Arts",
     "publisher": "ESP",
-    "genre": "RPG",
+    "genre": "角色扮演",
     "tags": [
       "冒险",
       "即时指令战斗",
@@ -186,9 +241,12 @@
     "editorScore": 9.3,
     "is2D": false,
     "screenshots": [
-      "images/ss/ss-grandia-1.jpg"
+      "images/ss/ss-grandia-s1.png",
+      "images/ss/ss-grandia-x1.png",
+      "images/ss/ss-grandia-x2.png",
+      "images/ss/ss-grandia-title.png"
     ],
-    "coverShot": false
+    "cover": "images/ss/ss-grandia-box.jpg"
   },
   {
     "id": "ss-dragon-force",
@@ -198,7 +256,7 @@
     "year": 1996,
     "developer": "J-Force / Sega",
     "publisher": "Sega（北美：Working Designs）",
-    "genre": "战略模拟",
+    "genre": "战略角色扮演",
     "tags": [
       "战略",
       "百人大战",
@@ -233,9 +291,11 @@
     "editorScore": 9.2,
     "is2D": true,
     "screenshots": [
-      "images/ss/ss-dragon-force-1.png"
+      "images/ss/ss-dragon-force-s1.png",
+      "images/ss/ss-dragon-force-s2.png",
+      "images/ss/ss-dragon-force-title.png"
     ],
-    "coverShot": false
+    "cover": "images/ss/ss-dragon-force-box.jpg"
   },
   {
     "id": "ss-princess-crown",
@@ -245,7 +305,7 @@
     "year": 1997,
     "developer": "Atlus（神谷盛治主导）",
     "publisher": "Atlus",
-    "genre": "动作RPG",
+    "genre": "动作角色扮演",
     "tags": [
       "像素",
       "手绘风",
@@ -275,9 +335,11 @@
     "editorScore": 9.1,
     "is2D": true,
     "screenshots": [
-      "images/ss/ss-princess-crown-1.png"
+      "images/ss/ss-princess-crown-s1.png",
+      "images/ss/ss-princess-crown-x1.png",
+      "images/ss/ss-princess-crown-title.png"
     ],
-    "coverShot": true
+    "cover": "images/ss/ss-princess-crown-box.jpg"
   },
   {
     "id": "ss-vampire-savior",
@@ -307,29 +369,204 @@
         "source": "Sega Saturn Magazine (英)",
         "score": "94%",
         "quote": "动画流畅度几乎与街机无异的完美移植"
-      },
-      {
-        "source": "Sega Saturn Magazine (日)",
-        "score": "9.7/10",
-        "quote": "土星2D格斗移植的标杆之作"
       }
     ],
     "editorScore": 9.1,
     "is2D": true,
     "screenshots": [
-      "images/ss/ss-vampire-savior-1.jpg"
+      "images/ss/ss-vampire-savior-s1.png",
+      "images/ss/ss-vampire-savior-x1.jpg",
+      "images/ss/ss-vampire-savior-x2.jpg",
+      "images/ss/ss-vampire-savior-title.png"
     ],
-    "coverShot": false
+    "cover": "images/ss/ss-vampire-savior-box.jpg"
+  },
+  {
+    "id": "ss-tactics-ogre",
+    "title": "Tactics Ogre: Let Us Cling Together",
+    "titleZh": "皇家骑士团2",
+    "titleJa": "タクティクスオウガ",
+    "year": 1996,
+    "developer": "Quest（移植：Riverhillsoft）",
+    "publisher": "Riverhillsoft",
+    "genre": "战略角色扮演",
+    "tags": [
+      "战棋",
+      "多结局",
+      "剧情"
+    ],
+    "players": "1",
+    "tagline": "松野泰己的群像悲剧，战棋史上的丰碑",
+    "description": "“让我们携手共进”——这句副标题背后，是一部战棋史上最沉重也最动人的群像剧。种族仇恨、阴谋背叛、理想与现实的撕扯，松野泰己用一场瓦雷利亚岛的内战，逼你在每个关键节点做出无法回头的选择。\n\n斜45度的立体战场上，高低差、风向、属性相生都会左右胜负，职业系统深不见底。土星版在SFC原作基础上加入了由十七位声优演绎的语音，以及专为不同结局创作的新曲。\n\n三条路线、多重结局，值得你一遍又一遍地重返瓦雷利亚。",
+    "highlights": [
+      "法律·中立·混沌三条路线",
+      "高低差与风向影响的立体战场",
+      "土星版新增剧情语音",
+      "崎元仁、岩田匡治的经典配乐"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "30/40",
+        "quote": "四位编辑给出8/8/7/7，肯定土星版新增语音"
+      },
+      {
+        "source": "Sega Saturn Magazine (日)",
+        "score": "7.66/10",
+        "quote": "移植精良，读盘延迟控制得很好"
+      }
+    ],
+    "editorScore": 9.0,
+    "is2D": true,
+    "screenshots": [
+      "images/ss/ss-tactics-ogre-s1.png",
+      "images/ss/ss-tactics-ogre-x1.png",
+      "images/ss/ss-tactics-ogre-title.png"
+    ],
+    "cover": "images/ss/ss-tactics-ogre-box.jpg"
+  },
+  {
+    "id": "ss-sakura-wars-2",
+    "title": "Sakura Wars 2: Thou Shalt Not Die",
+    "titleZh": "樱花大战2",
+    "titleJa": "サクラ大戦2 ～君、死にたもうことなかれ～",
+    "year": 1998,
+    "developer": "Red Company / Sega",
+    "publisher": "Sega",
+    "genre": "战略角色扮演",
+    "tags": [
+      "恋爱养成",
+      "战棋",
+      "动画演出"
+    ],
+    "players": "1",
+    "tagline": "首周狂销五十万，帝国华击团再出击",
+    "description": "前作的成功让续作背负了巨大期待，而《樱花大战2》交出了满分答卷：新成员织姬与蕾妮加入花组，剧情围绕华击团内部危机展开，热血与感动层层推进。\n\nLIPS系统进化出了“模拟LIPS”等新玩法，对话选项更加丰富；战斗部分的光武操作更流畅，合体技演出华丽。三张光盘塞满了动画与语音，土星的多媒体实力被榨到极限。\n\n发售首周销量即突破五十万套，成为土星最畅销游戏之一。喜欢前作的玩家，这一部绝不能错过。",
+    "highlights": [
+      "新角色织姬、蕾妮加入花组",
+      "LIPS系统全面进化",
+      "三碟大容量动画与语音",
+      "土星销量前五的超人气作品"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "33/40",
+        "quote": "系统与剧情都经过精心打磨，只是创新稍显不足"
+      }
+    ],
+    "editorScore": 9.0,
+    "is2D": true,
+    "screenshots": [
+      "images/ss/ss-sakura-wars-2-s1.png",
+      "images/ss/ss-sakura-wars-2-x1.jpg",
+      "images/ss/ss-sakura-wars-2-x2.jpg",
+      "images/ss/ss-sakura-wars-2-title.png"
+    ],
+    "cover": "images/ss/ss-sakura-wars-2-box.jpg"
+  },
+  {
+    "id": "ss-sf-zero-3",
+    "title": "Street Fighter Zero 3",
+    "titleZh": "街头霸王Zero 3",
+    "titleJa": "ストリートファイターZERO3",
+    "year": 1999,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genre": "格斗",
+    "tags": [
+      "像素",
+      "4MB扩展卡",
+      "对战"
+    ],
+    "players": "1-2",
+    "tagline": "土星2D格斗的谢幕之作，近乎街机完美",
+    "description": "1999年，土星已步入尾声，卡普空却在此时送上了一份厚礼。借助4MB扩展卡，《街头霸王Zero 3》在土星上实现了近乎街机完美的移植，动画帧数远胜PS版，三十余名角色全员到齐。\n\nX-ISM、A-ISM、V-ISM三种风格各有玩法，原创连段（Original Combo）让高手们研究至今。世界巡回模式还能培养角色、解锁技能，单人游戏同样耐玩。\n\n这是土星2D格斗传奇的完美句点，也是Zero系列最完整的家用版本之一。",
+    "highlights": [
+      "4MB扩展卡实现接近街机的动画",
+      "三种ISM风格，系统深度惊人",
+      "角色阵容庞大",
+      "世界巡回养成模式"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "32/40",
+        "quote": "移植度极高的格斗佳作"
+      },
+      {
+        "source": "Computer and Video Games",
+        "score": "5/5",
+        "quote": "利用扩展内存实现了近乎完美的街机体验"
+      }
+    ],
+    "editorScore": 9.0,
+    "is2D": true,
+    "screenshots": [
+      "images/ss/ss-sf-zero-3-s1.png",
+      "images/ss/ss-sf-zero-3-x1.png",
+      "images/ss/ss-sf-zero-3-x2.png",
+      "images/ss/ss-sf-zero-3-title.png"
+    ],
+    "cover": "images/ss/ss-sf-zero-3-box.jpg"
+  },
+  {
+    "id": "ss-nights",
+    "title": "NiGHTS into Dreams...",
+    "titleZh": "梦境之夜",
+    "titleJa": "ナイツ",
+    "year": 1996,
+    "developer": "Sonic Team",
+    "publisher": "Sega",
+    "genre": "动作",
+    "tags": [
+      "2.5D",
+      "飞行",
+      "音乐"
+    ],
+    "players": "1-2",
+    "tagline": "在梦里自由翱翔，Sonic Team的诗意之作",
+    "description": "索尼克之父中裕司在土星上做出了一个完全不同的梦：少年少女在梦境中化身为小丑精灵NiGHTS，在天空中翻滚、旋转、穿梭，收集光球、连成长串得分，那种自由飞翔的感觉无与伦比。\n\n本作采用2.5D设计，飞行路线固定在二维平面上，但镜头和场景是立体的，简单的操作背后是极深的连击计分系统。搭配专用的3D模拟手柄，手感更是丝滑。\n\n奇幻的美术与梦幻的音乐让它像一首会动的诗。如今已有高清复刻，值得每一位玩家去做一次这个梦。",
+    "highlights": [
+      "独特的飞行杂技玩法",
+      "深度连击评分系统",
+      "梦幻的美术与音乐",
+      "可配合3D模拟手柄游玩"
+    ],
+    "reviews": [
+      {
+        "source": "Sega Saturn Magazine (英)",
+        "score": "96%",
+        "quote": "土星独一无二的杰作"
+      },
+      {
+        "source": "Fami通",
+        "score": "34/40",
+        "quote": "飞行的爽快感无可替代"
+      },
+      {
+        "source": "IGN",
+        "score": "8.7/10",
+        "quote": "充满想象力的经典"
+      }
+    ],
+    "editorScore": 9.0,
+    "is2D": false,
+    "screenshots": [
+      "images/ss/ss-nights-s1.png",
+      "images/ss/ss-nights-title.png"
+    ],
+    "cover": "images/ss/ss-nights-box.jpg"
   },
   {
     "id": "ss-castlevania-sotn",
-    "title": "Castlevania: Symphony of the Night (Saturn)",
+    "title": "Castlevania: Symphony of the Night",
     "titleZh": "恶魔城X 月下夜想曲（土星版）",
     "titleJa": "悪魔城ドラキュラX 月下の夜想曲",
     "year": 1998,
     "developer": "Konami Computer Entertainment Nagoya",
     "publisher": "Konami",
-    "genre": "动作RPG",
+    "genre": "动作角色扮演",
     "tags": [
       "像素",
       "银河恶魔城",
@@ -354,9 +591,10 @@
     "editorScore": 8.9,
     "is2D": true,
     "screenshots": [
-      "images/ss/ss-castlevania-sotn-1.jpg"
+      "images/ss/ss-castlevania-sotn-s1.png",
+      "images/ss/ss-castlevania-sotn-title.png"
     ],
-    "coverShot": true
+    "cover": "images/ss/ss-castlevania-sotn-box.jpg"
   },
   {
     "id": "ss-sakura-wars",
@@ -366,7 +604,7 @@
     "year": 1996,
     "developer": "Red Company / Sega",
     "publisher": "Sega",
-    "genre": "战棋+恋爱冒险",
+    "genre": "战略角色扮演",
     "tags": [
       "动画演出",
       "战棋",
@@ -401,10 +639,60 @@
     "editorScore": 8.9,
     "is2D": true,
     "screenshots": [
-      "images/ss/ss-sakura-wars-1.png",
-      "images/ss/ss-sakura-wars-2.png"
+      "images/ss/ss-sakura-wars-s1.png",
+      "images/ss/ss-sakura-wars-x1.png",
+      "images/ss/ss-sakura-wars-title.png"
     ],
-    "coverShot": true
+    "cover": "images/ss/ss-sakura-wars-box.jpg"
+  },
+  {
+    "id": "ss-xmen-vs-sf",
+    "title": "X-Men vs. Street Fighter",
+    "titleZh": "X战警VS街头霸王",
+    "titleJa": "エックスメン VS. ストリートファイター",
+    "year": 1997,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genre": "格斗",
+    "tags": [
+      "像素",
+      "4MB扩展卡",
+      "双人组队"
+    ],
+    "players": "1-2",
+    "tagline": "首款4MB卡游戏，完胜PS版的完美移植",
+    "description": "当金刚狼遇上隆，当暴风女对上春丽——卡普空的梦幻大乱斗在土星上得到了完美呈现！本作是首个使用4MB扩展内存卡的游戏，同捆发售，实现了动画、音效、读盘全方位接近街机的移植。\n\n二对二组队换人、空中连段、超级必杀，节奏快到令人目不暇接。而同期的PS版因内存不足被迫删除了组队换人，土星版的优势一目了然，当年杂志纷纷以此作为“土星2D最强”的证据。\n\n想体验卡普空VS系列的起点，土星版就是最好的选择。",
+    "highlights": [
+      "4MB扩展卡同捆，完美还原街机",
+      "二对二即时换人组队系统",
+      "漫威英雄与街霸角色同台",
+      "完胜PS版的经典移植"
+    ],
+    "reviews": [
+      {
+        "source": "Edge",
+        "score": "9/10",
+        "quote": "几乎与街机无异的出色移植"
+      },
+      {
+        "source": "Sega Saturn Magazine",
+        "score": "94%",
+        "quote": "动画与音效近乎完美，没有任何拖慢"
+      },
+      {
+        "source": "Game Informer",
+        "score": "9.25/10",
+        "quote": "土星格斗游戏的标杆"
+      }
+    ],
+    "editorScore": 8.9,
+    "is2D": true,
+    "screenshots": [
+      "images/ss/ss-xmen-vs-sf-s1.png",
+      "images/ss/ss-xmen-vs-sf-s2.png",
+      "images/ss/ss-xmen-vs-sf-title.png"
+    ],
+    "cover": "images/ss/ss-xmen-vs-sf-box.jpg"
   },
   {
     "id": "ss-dnd-collection",
@@ -430,29 +718,15 @@
       "分支路线与大量隐藏要素",
       "双人合作乐趣无穷"
     ],
-    "reviews": [
-      {
-        "source": "Retro Gamer",
-        "score": "—",
-        "quote": "土星上最好的横版清版动作游戏，动画惊艳，只是读盘偏长"
-      },
-      {
-        "source": "IGN",
-        "score": "—",
-        "quote": "入选IGN十大合作游戏"
-      },
-      {
-        "source": "GameSpot",
-        "score": "—",
-        "quote": "批评其读盘时间过长，认为整体表现中规中矩"
-      }
-    ],
+    "reviews": [],
     "editorScore": 8.8,
     "is2D": true,
     "screenshots": [
-      "images/ss/ss-dnd-collection-1.png"
+      "images/ss/ss-dnd-collection-s1.png",
+      "images/ss/ss-dnd-collection-x1.png",
+      "images/ss/ss-dnd-collection-title.png"
     ],
-    "coverShot": true
+    "cover": "images/ss/ss-dnd-collection-box.jpg"
   },
   {
     "id": "ss-legend-of-oasis",
@@ -462,7 +736,7 @@
     "year": 1996,
     "developer": "Ancient",
     "publisher": "Sega",
-    "genre": "动作RPG",
+    "genre": "动作角色扮演",
     "tags": [
       "像素",
       "俯视角",
@@ -497,9 +771,105 @@
     "editorScore": 8.8,
     "is2D": true,
     "screenshots": [
-      "images/ss/ss-legend-of-oasis-1.jpg"
+      "images/ss/ss-legend-of-oasis-s1.png",
+      "images/ss/ss-legend-of-oasis-x1.jpg",
+      "images/ss/ss-legend-of-oasis-x2.jpg",
+      "images/ss/ss-legend-of-oasis-title.png"
     ],
-    "coverShot": true
+    "cover": "images/ss/ss-legend-of-oasis-box.jpg"
+  },
+  {
+    "id": "ss-dodonpachi",
+    "title": "DoDonPachi",
+    "titleZh": "怒首领蜂",
+    "titleJa": "怒首領蜂",
+    "year": 1997,
+    "developer": "Cave",
+    "publisher": "Atlus",
+    "genre": "射击",
+    "tags": [
+      "像素",
+      "弹幕",
+      "硬核"
+    ],
+    "players": "1-2",
+    "tagline": "弹幕射击的开山祖师，家用版追加新关卡",
+    "description": "满屏的粉色子弹如瀑布般倾泻而下，你的小小机体却能在缝隙中穿梭——这就是CAVE开创的“弹幕射击”！《怒首领蜂》是整个类型的奠基之作，判定点极小、子弹极多，看似不可能，其实处处有路。\n\n连锁计分系统让高手们为了“不断连”而拼命，激光与通常弹的切换也充满策略。土星版支持竖屏显示，还追加了新关卡与头目、难度调整等家用独占要素。\n\n想知道现代弹幕游戏从哪里来？请从这里开始。",
+    "highlights": [
+      "弹幕射击类型的奠基之作",
+      "连锁计分系统极具挑战",
+      "支持竖屏模式",
+      "土星版追加新关卡与头目"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "33/40",
+        "quote": "街机弹幕的魄力完整重现"
+      },
+      {
+        "source": "Saturn Fan",
+        "score": "8.4/10",
+        "quote": "移植度高的硬派射击"
+      }
+    ],
+    "editorScore": 8.8,
+    "is2D": true,
+    "screenshots": [
+      "images/ss/ss-dodonpachi-s1.png",
+      "images/ss/ss-dodonpachi-x1.png",
+      "images/ss/ss-dodonpachi-x2.png",
+      "images/ss/ss-dodonpachi-title.png"
+    ],
+    "cover": "images/ss/ss-dodonpachi-box.jpg"
+  },
+  {
+    "id": "ss-silhouette-mirage",
+    "title": "Silhouette Mirage",
+    "titleZh": "幻影轮廓",
+    "titleJa": "シルエットミラージュ",
+    "year": 1997,
+    "developer": "Treasure",
+    "publisher": "ESP",
+    "genre": "动作",
+    "tags": [
+      "像素",
+      "Treasure",
+      "双属性"
+    ],
+    "players": "1",
+    "tagline": "左右两张脸，Treasure的属性切换狂想",
+    "description": "主角夏恩一半是“轮廓”，一半是“幻影”，面朝左右就会切换属性——攻击同属性敌人只能吸取能量，必须转身用相反属性才能造成伤害。就这么一个奇妙设定，Treasure做出了一款节奏飞快、脑洞爆棚的横版动作游戏。\n\n抓投、连段、吸取敌人的灵魂力，招式多变；头目战更是一个比一个疯狂，大尺寸像素动画和Treasure招牌的炫目特效让人眼花缭乱。\n\n它的设计理念后来被《斑鸠》继承发扬。喜欢2D动作的玩家，一定要体验这份Treasure式的疯狂。",
+    "highlights": [
+      "属性随朝向切换的独特设计",
+      "抓投与吸取能量的丰富动作",
+      "疯狂多变的头目战",
+      "大尺寸精美像素动画"
+    ],
+    "reviews": [
+      {
+        "source": "Sega Saturn Magazine (英)",
+        "score": "90%",
+        "quote": "新颖独特的系统令人着迷"
+      },
+      {
+        "source": "Fami通",
+        "score": "29/40",
+        "quote": "设计独特的Treasure风格动作游戏"
+      },
+      {
+        "source": "Sega Saturn Magazine (日)",
+        "score": "8.3/10",
+        "quote": "操作手感出色"
+      }
+    ],
+    "editorScore": 8.8,
+    "is2D": true,
+    "screenshots": [
+      "images/ss/ss-silhouette-mirage-s1.png",
+      "images/ss/ss-silhouette-mirage-title.png"
+    ],
+    "cover": "images/ss/ss-silhouette-mirage-box.jpg"
   },
   {
     "id": "ss-saturn-bomberman",
@@ -544,9 +914,55 @@
     "editorScore": 8.7,
     "is2D": true,
     "screenshots": [
-      "images/ss/ss-saturn-bomberman-1.png"
+      "images/ss/ss-saturn-bomberman-s1.png",
+      "images/ss/ss-saturn-bomberman-s2.png",
+      "images/ss/ss-saturn-bomberman-title.png"
     ],
-    "coverShot": false
+    "cover": "images/ss/ss-saturn-bomberman-box.jpg"
+  },
+  {
+    "id": "ss-devil-summoner",
+    "title": "Shin Megami Tensei: Devil Summoner",
+    "titleZh": "真·女神转生 恶魔召唤师",
+    "titleJa": "真・女神転生 デビルサマナー",
+    "year": 1995,
+    "developer": "Atlus",
+    "publisher": "Atlus",
+    "genre": "角色扮演",
+    "tags": [
+      "恶魔合体",
+      "都市传说",
+      "第一人称迷宫"
+    ],
+    "players": "1",
+    "tagline": "在平崎市召唤恶魔，Atlus的都市暗黑传奇",
+    "description": "一觉醒来，你的灵魂被困进了已故恶魔召唤师葛叶的身体——《恶魔召唤师》就这样把你扔进了90年代日本都市平崎市的黑暗面。侦探事务所、诡异命案、地下组织，现代都市传说的氛围浓得化不开。\n\n系列招牌的恶魔交涉与合体系统依旧，还加入了恶魔忠诚度设定：不同性格的仲魔要用不同方式对待，否则它们会不听指挥。第一人称迷宫探索紧张刺激，金子一马的恶魔设计令人过目难忘。\n\n这是“女神转生”与“灵魂黑客”系列的起点，首周即卖出二十六万套，喜欢黑暗系RPG的玩家必玩。",
+    "highlights": [
+      "恶魔交涉与合体系统",
+      "仲魔忠诚度设定",
+      "现代都市侦探题材",
+      "金子一马的恶魔设计"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "35/40",
+        "quote": "四位编辑给出9/9/9/8的高分"
+      },
+      {
+        "source": "Sega Saturn Magazine (日)",
+        "score": "24/30",
+        "quote": "黑暗都市氛围出色"
+      }
+    ],
+    "editorScore": 8.7,
+    "is2D": false,
+    "screenshots": [
+      "images/ss/ss-devil-summoner-s1.png",
+      "images/ss/ss-devil-summoner-x1.png",
+      "images/ss/ss-devil-summoner-title.png"
+    ],
+    "cover": "images/ss/ss-devil-summoner-box.jpg"
   },
   {
     "id": "ss-tengai-makyou-4",
@@ -556,7 +972,7 @@
     "year": 1997,
     "developer": "Hudson Soft / Red Company",
     "publisher": "Hudson Soft",
-    "genre": "RPG",
+    "genre": "角色扮演",
     "tags": [
       "像素",
       "剧情",
@@ -586,9 +1002,181 @@
     "editorScore": 8.6,
     "is2D": true,
     "screenshots": [
-      "images/ss/ss-tengai-makyou-4-1.jpg"
+      "images/ss/ss-tengai-makyou-4-s1.png",
+      "images/ss/ss-tengai-makyou-4-x1.png",
+      "images/ss/ss-tengai-makyou-4-title.png"
     ],
-    "coverShot": true
+    "cover": "images/ss/ss-tengai-makyou-4-box.jpg"
+  },
+  {
+    "id": "ss-darius-gaiden",
+    "title": "Darius Gaiden",
+    "titleZh": "达拉斯外传",
+    "titleJa": "ダライアス外伝",
+    "year": 1995,
+    "developer": "Taito",
+    "publisher": "Taito（北美：Acclaim）",
+    "genre": "射击",
+    "tags": [
+      "像素",
+      "分支路线",
+      "ZUNTATA"
+    ],
+    "players": "1-2",
+    "tagline": "巨型钢铁鱼群来袭，比街机更流畅的移植",
+    "description": "银色的战机Silver Hawk再次出击！《达拉斯外传》以巨大的机械海洋生物头目闻名：腔棘鱼、鲨鱼、乌贼……每一只都占据大半个屏幕，造型精美得让人忍不住停下来欣赏，当然下一秒你就会被弹幕淹没。\n\n每关结束后可以选择分支路线，共有二十八个区域、多种结局。吸收头目当僚机的“黑洞炸弹”与捕获系统更添乐趣。ZUNTATA的配乐神秘诡异，成为射击史上的经典。\n\n土星版移植度极高，甚至比街机更少拖慢，荣获Fami通金殿堂。",
+    "highlights": [
+      "分支路线，共二十八个区域",
+      "巨型机械海洋生物头目",
+      "ZUNTATA的经典配乐",
+      "土星版几乎无拖慢"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "33/40",
+        "quote": "获金殿堂，画面与玩法俱佳"
+      },
+      {
+        "source": "Sega Saturn Magazine",
+        "score": "80%",
+        "quote": "出色的射击移植"
+      },
+      {
+        "source": "EGM",
+        "score": "7.375/10",
+        "quote": "头目设计令人印象深刻"
+      }
+    ],
+    "editorScore": 8.6,
+    "is2D": true,
+    "screenshots": [
+      "images/ss/ss-darius-gaiden-s1.png",
+      "images/ss/ss-darius-gaiden-s2.png",
+      "images/ss/ss-darius-gaiden-title.png"
+    ],
+    "cover": "images/ss/ss-darius-gaiden-box.jpg"
+  },
+  {
+    "id": "ss-super-robot-wars-f",
+    "title": "Super Robot Wars F",
+    "titleZh": "超级机器人大战F",
+    "titleJa": "スーパーロボット大戦F",
+    "year": 1997,
+    "developer": "Winkysoft",
+    "publisher": "Banpresto",
+    "genre": "战略角色扮演",
+    "tags": [
+      "战棋",
+      "机器人",
+      "动画改编"
+    ],
+    "players": "1",
+    "tagline": "EVA首度参战！机战迷的不眠之夜",
+    "description": "高达、魔神、盖塔、EVA……当所有热血机器人汇聚一堂，谁能不心潮澎湃？《超级机器人大战F》是SFC《第4次机战》的大幅强化重制，并首次加入了《新世纪福音战士》，在当年掀起了巨大话题。\n\n全新绘制的战斗动画让每一招必杀都气势十足，台词全程配音，原作名场面重现让人热血沸腾。精神指令、改造、换乘等系统让战略深度十足。\n\n本作与完结篇合计销量惊人，是土星最畅销的游戏之一。喜欢机器人动画的你，没有理由错过。",
+    "highlights": [
+      "EVA系列首次参战",
+      "全新绘制的战斗动画与配音",
+      "精神指令与改造系统",
+      "与《完结篇》组成完整故事"
+    ],
+    "reviews": [],
+    "editorScore": 8.6,
+    "is2D": true,
+    "screenshots": [
+      "images/ss/ss-super-robot-wars-f-s1.png",
+      "images/ss/ss-super-robot-wars-f-x1.png",
+      "images/ss/ss-super-robot-wars-f-title.png"
+    ],
+    "cover": "images/ss/ss-super-robot-wars-f-box.jpg"
+  },
+  {
+    "id": "ss-thunder-force-5",
+    "title": "Thunder Force V",
+    "titleZh": "雷电力量V",
+    "titleJa": "サンダーフォースV",
+    "year": 1997,
+    "developer": "Technosoft",
+    "publisher": "Technosoft",
+    "genre": "射击",
+    "tags": [
+      "横版射击",
+      "硬派",
+      "摇滚配乐"
+    ],
+    "players": "1",
+    "tagline": "雷电力量最终章，武器超频的热血风暴",
+    "description": "MD上的射击名门在土星上迎来了最终章！《雷电力量V》延续系列招牌的五种武器切换，并加入“超频”系统——让武器在短时间内爆发出数倍威力，面对巨型头目时一口气倾泻火力，爽快度爆表。\n\n多边形机体搭配2D多层卷轴背景，营造出强烈的速度感；系列标志性的硬核摇滚配乐更是让人血脉喷张。剧情也延续了前作世界观，结局令人动容。\n\n这是横版射击黄金时代的最后荣光之一，射击迷不可错过。",
+    "highlights": [
+      "五种武器自由切换",
+      "超频系统爆发强大火力",
+      "热血硬核摇滚配乐",
+      "延续系列世界观的感人剧情"
+    ],
+    "reviews": [
+      {
+        "source": "Sega Saturn Magazine",
+        "score": "91%",
+        "quote": "强化的武器系统弥补了画面的不足"
+      },
+      {
+        "source": "GameSpot",
+        "score": "8/10",
+        "quote": "扎实的横版射击"
+      }
+    ],
+    "editorScore": 8.6,
+    "is2D": true,
+    "screenshots": [
+      "images/ss/ss-thunder-force-5-s1.png",
+      "images/ss/ss-thunder-force-5-x1.png",
+      "images/ss/ss-thunder-force-5-title.png"
+    ],
+    "cover": "images/ss/ss-thunder-force-5-box.jpg"
+  },
+  {
+    "id": "ss-metal-slug",
+    "title": "Metal Slug",
+    "titleZh": "合金弹头",
+    "titleJa": "メタルスラッグ",
+    "year": 1997,
+    "developer": "SNK / Nazca",
+    "publisher": "SNK",
+    "genre": "动作",
+    "tags": [
+      "像素",
+      "合作",
+      "1MB扩展卡"
+    ],
+    "players": "1-2",
+    "tagline": "像素动画的巅峰，坦克大战爽翻天",
+    "description": "《合金弹头》的像素动画至今无人超越：士兵被吓得屁滚尿流、俘虏老爷爷提着裤子道谢、坦克履带一节节转动……每一帧都充满幽默和细节。土星版借助1MB扩展卡，完整还原了街机的动画与爆炸效果。\n\n驾驶合金弹头坦克横冲直撞，救出俘虏获得重机枪、火箭弹，双人合作更是乐趣加倍。难度不低，但每次重来都忍不住笑出声。\n\n关卡不长是唯一缺点，但这份纯粹的爽快感，任何时候拿出来都不过时。",
+    "highlights": [
+      "极致细腻幽默的像素动画",
+      "驾驶坦克横冲直撞",
+      "双人合作乐趣加倍",
+      "1MB扩展卡忠实还原街机"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "25/40",
+        "quote": "忠实的街机移植，但耐玩度略低"
+      },
+      {
+        "source": "Next Generation",
+        "score": "3/5",
+        "quote": "出色的移植，可惜流程较短"
+      }
+    ],
+    "editorScore": 8.6,
+    "is2D": true,
+    "screenshots": [
+      "images/ss/ss-metal-slug-s1.png",
+      "images/ss/ss-metal-slug-x1.png",
+      "images/ss/ss-metal-slug-title.png"
+    ],
+    "cover": ""
   },
   {
     "id": "ss-lunar-sssc",
@@ -598,7 +1186,7 @@
     "year": 1996,
     "developer": "Game Arts / Japan Art Media",
     "publisher": "Kadokawa Shoten",
-    "genre": "RPG",
+    "genre": "角色扮演",
     "tags": [
       "像素",
       "王道",
@@ -618,19 +1206,62 @@
         "source": "Fami通",
         "score": "25/40",
         "quote": "对原作的忠实重制，演出更上一层楼"
-      },
-      {
-        "source": "周刊Sega Saturn Magazine",
-        "score": "—",
-        "quote": "被评为1997年最难忘的游戏体验之一"
       }
     ],
     "editorScore": 8.5,
     "is2D": true,
     "screenshots": [
-      "images/ss/ss-lunar-sssc-1.jpg"
+      "images/ss/ss-lunar-sssc-s1.png",
+      "images/ss/ss-lunar-sssc-x1.jpg",
+      "images/ss/ss-lunar-sssc-x2.jpg",
+      "images/ss/ss-lunar-sssc-title.png"
     ],
-    "coverShot": true
+    "cover": "images/ss/ss-lunar-sssc-box.jpg"
+  },
+  {
+    "id": "ss-kof-97",
+    "title": "The King of Fighters '97",
+    "titleZh": "拳皇97",
+    "titleJa": "ザ・キング・オブ・ファイターズ'97",
+    "year": 1998,
+    "developer": "SNK",
+    "publisher": "SNK",
+    "genre": "格斗",
+    "tags": [
+      "像素",
+      "1MB扩展卡",
+      "三对三"
+    ],
+    "players": "1-2",
+    "tagline": "大蛇篇完结，国人最熟悉的拳皇",
+    "description": "在中国玩家心中，“97”这两个字就是拳皇的代名词！大蛇篇在本作迎来完结，八神庵与草薙京的宿命对决、大蛇一族的觉醒，故事燃到极点。\n\n本作引入了ADVANCED与EXTRA两种模式，新角色、暴走八神与暴走莉安娜等隐藏角色人气爆棚，三对三团队战的策略性依旧。土星版借助1MB扩展卡呈现了流畅的动画。\n\n街机厅里无数个下午，都献给了这一作。在家里重温，依然是那份热血。",
+    "highlights": [
+      "大蛇篇完结，剧情最高潮",
+      "ADVANCED与EXTRA双模式",
+      "人气隐藏角色众多",
+      "三对三团队对战"
+    ],
+    "reviews": [
+      {
+        "source": "Sega Saturn Magazine",
+        "score": "91%",
+        "quote": "在96的失望后完美回归，极佳的更新"
+      },
+      {
+        "source": "MAN!AC",
+        "score": "85%",
+        "quote": "出色的格斗移植"
+      }
+    ],
+    "editorScore": 8.5,
+    "is2D": true,
+    "screenshots": [
+      "images/ss/ss-kof-97-s1.png",
+      "images/ss/ss-kof-97-x1.png",
+      "images/ss/ss-kof-97-x2.png",
+      "images/ss/ss-kof-97-title.png"
+    ],
+    "cover": "images/ss/ss-kof-97-box.jpg"
   },
   {
     "id": "ss-albert-odyssey",
@@ -640,7 +1271,7 @@
     "year": 1996,
     "developer": "Sunsoft",
     "publisher": "Sunsoft（北美：Working Designs）",
-    "genre": "RPG",
+    "genre": "角色扮演",
     "tags": [
       "像素",
       "传统回合",
@@ -675,9 +1306,83 @@
     "editorScore": 8.4,
     "is2D": true,
     "screenshots": [
-      "images/ss/ss-albert-odyssey-1.png"
+      "images/ss/ss-albert-odyssey-s1.png",
+      "images/ss/ss-albert-odyssey-x1.jpg",
+      "images/ss/ss-albert-odyssey-x2.jpg",
+      "images/ss/ss-albert-odyssey-title.png"
     ],
-    "coverShot": false
+    "cover": "images/ss/ss-albert-odyssey-box.jpg"
+  },
+  {
+    "id": "ss-soukyugurentai",
+    "title": "Soukyugurentai",
+    "titleZh": "苍穹红莲队",
+    "titleJa": "蒼穹紅蓮隊",
+    "year": 1997,
+    "developer": "Raizing",
+    "publisher": "EA Victor",
+    "genre": "射击",
+    "tags": [
+      "像素",
+      "锁定攻击",
+      "纵版射击"
+    ],
+    "players": "1-2",
+    "tagline": "锁定激光一网打尽，被遗忘的纵版佳作",
+    "description": "由《魔法大作战》的Raizing开发，《苍穹红莲队》以“锁定攻击”为核心：放出锁定光标标记敌人，再一齐释放追踪激光，一次性干掉满屏敌机的快感无与伦比。\n\n三种机体各有特色，画面以精致的2D像素为主，城市、宇宙、要塞等场景层次丰富，巨大的机械头目极具压迫感。土星版支持竖屏，移植度相当高。\n\n这款作品在国内知名度不高，却是土星射击库里的一颗宝石，值得射击迷挖掘。",
+    "highlights": [
+      "锁定追踪激光系统",
+      "三种风格各异的机体",
+      "精致的像素场景与巨大头目",
+      "支持竖屏模式"
+    ],
+    "reviews": [
+      {
+        "source": "Next Generation",
+        "score": "3/5",
+        "quote": "土星玩家值得一试的纵版射击，简单而爽快"
+      }
+    ],
+    "editorScore": 8.4,
+    "is2D": true,
+    "screenshots": [
+      "images/ss/ss-soukyugurentai-s1.png",
+      "images/ss/ss-soukyugurentai-s2.png",
+      "images/ss/ss-soukyugurentai-title.png"
+    ],
+    "cover": "images/ss/ss-soukyugurentai-box.jpg"
+  },
+  {
+    "id": "ss-puyo-puyo-sun",
+    "title": "Puyo Puyo Sun",
+    "titleZh": "魔法气泡SUN",
+    "titleJa": "ぷよぷよSUN",
+    "year": 1997,
+    "developer": "Compile",
+    "publisher": "Compile",
+    "genre": "解谜",
+    "tags": [
+      "对战",
+      "可爱",
+      "派对"
+    ],
+    "players": "1-2",
+    "tagline": "太阳噗哟登场，国民级对战消除",
+    "description": "四个同色噗哟连在一起就会消除，连锁越多，送给对手的“干扰噗哟”就越多——简单的规则，却藏着无穷的深度。《魔法气泡SUN》在“通”的基础上加入了“太阳噗哟”，消除时会给对手送去更多伤害，让战局更加跌宕起伏。\n\n阿露露、卡邦可等角色可爱逗趣，故事模式中的搞笑对话让人忍俊不禁。和朋友对战时，一次大连锁翻盘的瞬间足以让全场尖叫。\n\n无论是否擅长游戏，《魔法气泡》都是能让所有人乐在其中的永恒经典。",
+    "highlights": [
+      "新增太阳噗哟系统",
+      "连锁对战深度无穷",
+      "可爱搞笑的角色与剧情",
+      "适合朋友聚会对战"
+    ],
+    "reviews": [],
+    "editorScore": 8.4,
+    "is2D": true,
+    "screenshots": [
+      "images/ss/ss-puyo-puyo-sun-s1.png",
+      "images/ss/ss-puyo-puyo-sun-title.png"
+    ],
+    "cover": "images/ss/ss-puyo-puyo-sun-box.jpg"
   },
   {
     "id": "ss-magic-knight-rayearth",
@@ -687,7 +1392,7 @@
     "year": 1995,
     "developer": "Sega",
     "publisher": "Sega（北美：Working Designs）",
-    "genre": "动作RPG",
+    "genre": "动作角色扮演",
     "tags": [
       "像素",
       "俯视角",
@@ -722,8 +1427,363 @@
     "editorScore": 8.3,
     "is2D": true,
     "screenshots": [
-      "images/ss/ss-magic-knight-rayearth-1.jpg"
+      "images/ss/ss-magic-knight-rayearth-s1.png",
+      "images/ss/ss-magic-knight-rayearth-x1.jpg",
+      "images/ss/ss-magic-knight-rayearth-title.png"
     ],
-    "coverShot": true
+    "cover": "images/ss/ss-magic-knight-rayearth-box.jpg"
+  },
+  {
+    "id": "ss-leynos-2",
+    "title": "Assault Suit Leynos 2",
+    "titleZh": "重装机兵雷诺斯2",
+    "titleJa": "重装機兵レイノス2",
+    "year": 1997,
+    "developer": "NCS",
+    "publisher": "Masaya",
+    "genre": "动作",
+    "tags": [
+      "机甲",
+      "像素",
+      "硬派"
+    ],
+    "players": "1",
+    "tagline": "硬派机甲横版战场，重装机兵的回归",
+    "description": "MD名作《重装机兵雷诺斯》的正统续作！你驾驶着巨大的人形机甲，在战场上执行各式任务：护卫友军、突破防线、在太空中与敌舰交战。厚重的机械质感、可360度瞄准的武器、真实的物理惯性，营造出无比沉浸的战场氛围。\n\n出击前可以自由组合武器装备，不同任务需要不同策略；战场上无线电通讯不断，剧情紧凑而硬派。难度偏高，但征服后的成就感无可替代。\n\n本作近年已推出复刻版，机甲迷值得一试。",
+    "highlights": [
+      "沉重真实的机甲操作手感",
+      "自由组合武器装备",
+      "多样化的任务目标",
+      "硬派战争剧情"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "25/40",
+        "quote": "硬派但门槛偏高的机甲动作"
+      },
+      {
+        "source": "Consoles +",
+        "score": "88%",
+        "quote": "出色的机甲动作游戏"
+      },
+      {
+        "source": "Sega Saturn Magazine (日)",
+        "score": "7/10",
+        "quote": "系列粉丝的续作"
+      }
+    ],
+    "editorScore": 8.3,
+    "is2D": true,
+    "screenshots": [
+      "images/ss/ss-leynos-2-s1.png",
+      "images/ss/ss-leynos-2-title.png"
+    ],
+    "cover": "images/ss/ss-leynos-2-box.jpg"
+  },
+  {
+    "id": "ss-layer-section",
+    "title": "Layer Section",
+    "titleZh": "层叠战区",
+    "titleJa": "レイヤーセクション",
+    "year": 1995,
+    "developer": "Taito",
+    "publisher": "Taito（欧美：Acclaim）",
+    "genre": "射击",
+    "tags": [
+      "像素",
+      "锁定攻击",
+      "纵版射击"
+    ],
+    "players": "1-2",
+    "tagline": "上下两层立体战场，太东射击的里程碑",
+    "description": "《Layer Section》（街机名RayForce）的绝妙之处在于“上下两层”：你的机体在上层飞行，下方远处的敌人则用锁定激光攻击，伴随画面缩放，营造出极具纵深感的立体战场。\n\n锁定的敌人越多，得分倍率越高，冒险与收益的平衡让人欲罢不能。宏大的场景从地球大气层一路打到敌方核心，演出极具史诗感，ZUNTATA的配乐同样出色。\n\n土星版移植忠实、毫无拖慢，续作《Layer Section II》（RayStorm）同样登陆了土星。",
+    "highlights": [
+      "上下两层的立体战场设计",
+      "锁定激光的高风险高回报计分",
+      "宏大的史诗演出",
+      "无拖慢的忠实移植"
+    ],
+    "reviews": [
+      {
+        "source": "Sega Saturn Magazine",
+        "score": "79%",
+        "quote": "有趣但画面已略显过时，街机感十足且毫无拖慢"
+      },
+      {
+        "source": "Next Generation",
+        "score": "3/5",
+        "quote": "大量精灵同屏也无拖慢，射击迷会喜欢"
+      }
+    ],
+    "editorScore": 8.3,
+    "is2D": true,
+    "screenshots": [
+      "images/ss/ss-layer-section-s1.png",
+      "images/ss/ss-layer-section-x1.png",
+      "images/ss/ss-layer-section-x2.png",
+      "images/ss/ss-layer-section-title.png"
+    ],
+    "cover": "images/ss/ss-layer-section-box.jpg"
+  },
+  {
+    "id": "ss-mega-man-8",
+    "title": "Mega Man 8",
+    "titleZh": "洛克人8",
+    "titleJa": "ロックマン8 メタルヒーローズ",
+    "year": 1997,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genre": "平台跳跃",
+    "tags": [
+      "像素",
+      "动画演出",
+      "土星独占要素"
+    ],
+    "players": "1",
+    "tagline": "土星版多两名头目，洛克人的32位初登场",
+    "description": "洛克人系列首次登上32位主机！《洛克人8》以鲜艳的手绘风画面和动画过场亮相，八大头目、滑铲、蓄力炮、洛克足球等新武器一应俱全，系列经典的选关玩法依然让人上瘾。\n\n土星版的诚意更足：独家加入了来自前作的两名隐藏头目（剪刀人与木头人），新增画廊模式，部分音乐也重新编曲。\n\n虽然有人嫌它创新不足，但精美的2D动画和扎实的关卡设计，让它成为了洛克人迷的必收藏版本。",
+    "highlights": [
+      "土星独占两名额外头目",
+      "鲜艳的手绘风2D画面",
+      "动画过场演出",
+      "额外的画廊与音乐模式"
+    ],
+    "reviews": [
+      {
+        "source": "EGM",
+        "score": "8.5/10",
+        "quote": "操控与头目战出色"
+      },
+      {
+        "source": "Fami通",
+        "score": "27/40",
+        "quote": "系列稳定之作"
+      }
+    ],
+    "editorScore": 8.3,
+    "is2D": true,
+    "screenshots": [
+      "images/ss/ss-mega-man-8-s1.png",
+      "images/ss/ss-mega-man-8-x1.png",
+      "images/ss/ss-mega-man-8-title.png"
+    ],
+    "cover": "images/ss/ss-mega-man-8-box.jpg"
+  },
+  {
+    "id": "ss-astal",
+    "title": "Astal",
+    "titleZh": "阿斯特尔",
+    "titleJa": "アスタル",
+    "year": 1995,
+    "developer": "Sega",
+    "publisher": "Sega",
+    "genre": "平台跳跃",
+    "tags": [
+      "像素",
+      "手绘风",
+      "双人"
+    ],
+    "players": "1-2",
+    "tagline": "手绘水彩般的童话，土星早期的2D宝石",
+    "description": "土星发售初期，世嘉用《阿斯特尔》证明了这台主机的2D美术实力：每一个场景都像手绘水彩画，角色动画细腻流畅，即使放到今天也毫不逊色。\n\n主角阿斯特尔可以抓起敌人投掷、吹出强风，还能召唤小鸟伙伴协助，第二位玩家可以操作小鸟加入游戏。关卡不长但设计巧妙，头目战规模宏大。\n\n当年它没能获得应有的关注，如今却被许多玩家视为“被遗忘的2D珍宝”。喜欢手绘风平台游戏的玩家，一定会爱上它。",
+    "highlights": [
+      "手绘水彩般的精美画面",
+      "抓投、吹气等多样动作",
+      "双人可操作小鸟协力",
+      "宏大的头目战"
+    ],
+    "reviews": [
+      {
+        "source": "Game Informer",
+        "score": "7.75/10",
+        "quote": "画面美丽的平台动作游戏"
+      },
+      {
+        "source": "Edge",
+        "score": "5/10",
+        "quote": "画面华丽但玩法单薄"
+      }
+    ],
+    "editorScore": 8.2,
+    "is2D": true,
+    "screenshots": [
+      "images/ss/ss-astal-s1.png",
+      "images/ss/ss-astal-s2.png",
+      "images/ss/ss-astal-title.png"
+    ],
+    "cover": "images/ss/ss-astal-box.jpg"
+  },
+  {
+    "id": "ss-rayman",
+    "title": "Rayman",
+    "titleZh": "雷曼",
+    "titleJa": "レイマン",
+    "year": 1995,
+    "developer": "Ubi Soft",
+    "publisher": "Ubi Soft",
+    "genre": "平台跳跃",
+    "tags": [
+      "手绘风",
+      "高难度",
+      "欧美"
+    ],
+    "players": "1",
+    "tagline": "没有四肢的英雄，手绘动画般的冒险",
+    "description": "一个没有手臂和腿的小家伙，却能挥出飞拳、用头发当直升机——这就是《雷曼》！法国育碧打造的这款平台游戏，以宛如动画片的手绘美术惊艳了整个世界。\n\n森林、音乐之国、铅笔与橡皮擦组成的画具世界，每个场景都充满童趣与想象力。但别被可爱外表骗了，后期关卡难度极高，收集全部笼子更是一大挑战。\n\n土星版画面与音乐都十分出色，是32位时代最具代表性的2D平台游戏之一。",
+    "highlights": [
+      "动画片般的手绘美术",
+      "飞拳、直升机头发等独特能力",
+      "充满想象力的主题世界",
+      "具有挑战性的关卡设计"
+    ],
+    "reviews": [
+      {
+        "source": "Sega Saturn Magazine",
+        "score": "78%",
+        "quote": "画面优秀，但关卡有些重复"
+      },
+      {
+        "source": "Fami通",
+        "score": "29/40",
+        "quote": "动画般的画面相当出色"
+      }
+    ],
+    "editorScore": 8.2,
+    "is2D": true,
+    "screenshots": [
+      "images/ss/ss-rayman-s1.png",
+      "images/ss/ss-rayman-title.png"
+    ],
+    "cover": "images/ss/ss-rayman-box.jpg"
+  },
+  {
+    "id": "ss-shining-wisdom",
+    "title": "Shining Wisdom",
+    "titleZh": "光明智慧",
+    "titleJa": "シャイニング・ウィズダム",
+    "year": 1995,
+    "developer": "Sonic! Software Planning",
+    "publisher": "Sega（北美：Working Designs）",
+    "genre": "动作角色扮演",
+    "tags": [
+      "像素",
+      "俯视角",
+      "解谜"
+    ],
+    "players": "1",
+    "tagline": "光明系列的塞尔达式冒险",
+    "description": "想在土星上玩到《塞尔达》式的俯视角冒险？《光明智慧》就是答案。年轻骑士马斯为了保护公主，踏上探索地下城的旅途，途中获得的各种道具既是武器也是解谜钥匙。\n\n冲刺鞋、钩爪、变身鼹鼠钻地……每件道具都能开辟新的道路，迷宫谜题设计巧妙。画面虽偏向16位风格，但色彩明亮、像素可爱，城镇氛围温馨。\n\n它也许没有大作光环，却是光明系列中最具风味的一部外传，喜欢俯视角ARPG的玩家不妨一试。",
+    "highlights": [
+      "俯视角迷宫探索与解谜",
+      "多功能道具系统",
+      "可爱温馨的像素画面",
+      "光明系列世界观外传"
+    ],
+    "reviews": [
+      {
+        "source": "Sega Saturn Magazine",
+        "score": "88%",
+        "quote": "故事节奏紧凑、引人入胜"
+      },
+      {
+        "source": "EGM",
+        "score": "5.5/10",
+        "quote": "画面显得平庸过时"
+      },
+      {
+        "source": "Next Generation",
+        "score": "3/5",
+        "quote": "未达到32位期望，但剧情长、耐玩度高"
+      }
+    ],
+    "editorScore": 8.1,
+    "is2D": true,
+    "screenshots": [
+      "images/ss/ss-shining-wisdom-s1.png",
+      "images/ss/ss-shining-wisdom-title.png"
+    ],
+    "cover": "images/ss/ss-shining-wisdom-box.jpg"
+  },
+  {
+    "id": "ss-langrisser-3",
+    "title": "Langrisser III",
+    "titleZh": "梦幻模拟战III",
+    "titleJa": "ラングリッサーIII",
+    "year": 1996,
+    "developer": "Career Soft",
+    "publisher": "Masaya",
+    "genre": "战略角色扮演",
+    "tags": [
+      "战棋",
+      "恋爱要素",
+      "佣兵"
+    ],
+    "players": "1",
+    "tagline": "梦幻模拟战首登32位，指挥官与佣兵的大会战",
+    "description": "梦幻模拟战系列首次登上32位主机！《梦幻模拟战III》讲述圣剑“兰古利萨”诞生之前的故事，漆原智志的华丽人设依旧迷人。\n\n本作将系列的指挥官+佣兵系统改为半即时制，大地图上部队同时行动，战斗场景则以2D动画演出。还加入了类似恋爱模拟的好感度系统，你的选择决定了最终与哪位女性角色结缘。\n\n系统改动让本作在系列中评价两极，但作为前传故事的地位与华丽的画面，仍让它成为系列粉丝必玩之作。",
+    "highlights": [
+      "系列首部32位作品",
+      "指挥官与佣兵的大规模战斗",
+      "好感度决定结局对象",
+      "漆原智志的华丽人设"
+    ],
+    "reviews": [],
+    "editorScore": 8.0,
+    "is2D": true,
+    "screenshots": [
+      "images/ss/ss-langrisser-3-s1.png",
+      "images/ss/ss-langrisser-3-title.png"
+    ],
+    "cover": "images/ss/ss-langrisser-3-box.jpg"
+  },
+  {
+    "id": "ss-clockwork-knight",
+    "title": "Clockwork Knight",
+    "titleZh": "发条骑士",
+    "titleJa": "クロックワークナイト ～ペパルーチョの大冒険～",
+    "year": 1994,
+    "developer": "Sega",
+    "publisher": "Sega",
+    "genre": "平台跳跃",
+    "tags": [
+      "2.5D",
+      "玩具世界",
+      "首发"
+    ],
+    "players": "1",
+    "tagline": "玩具屋里的骑士冒险，土星首发名作",
+    "description": "深夜的玩具屋里，发条骑士佩帕尔朱乔为了救出心爱的芙兰洛娃公主，在卧室、厨房、书房间展开冒险！作为土星首发游戏之一，《发条骑士》用多边形场景配合预渲染精灵角色，营造出奇妙的2.5D玩具世界。\n\n用钥匙剑转动敌人、抓起物件投掷，玩法简单易上手；巨大的玩具头目极具魄力。流程虽短、难度偏低，却充满童趣和温暖。\n\n它是土星初期的门面，也是许多玩家与这台主机的初次相遇。",
+    "highlights": [
+      "多边形场景与精灵角色的2.5D表现",
+      "童趣满溢的玩具屋世界",
+      "巨大的玩具头目",
+      "土星首发阵容代表作"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "32/40",
+        "quote": "画面表现令人惊艳"
+      },
+      {
+        "source": "Mean Machines Sega",
+        "score": "82%",
+        "quote": "画面先进，但难度太低"
+      },
+      {
+        "source": "Next Generation",
+        "score": "3/5",
+        "quote": "画面优秀，玩法缺乏创新"
+      }
+    ],
+    "editorScore": 8.0,
+    "is2D": true,
+    "screenshots": [
+      "images/ss/ss-clockwork-knight-s1.png",
+      "images/ss/ss-clockwork-knight-x2.png",
+      "images/ss/ss-clockwork-knight-title.png"
+    ],
+    "cover": "images/ss/ss-clockwork-knight-box.jpg"
   }
 ]

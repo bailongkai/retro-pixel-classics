@@ -1,0 +1,1030 @@
+[
+  {
+    "id": "mcd-lunar-eternal-blue",
+    "title": "Lunar: Eternal Blue",
+    "titleZh": "露娜2：永恒之蓝",
+    "titleJa": "LUNAR エターナルブルー",
+    "year": 1994,
+    "developer": "Game Arts / Studio Alex",
+    "publisher": "Game Arts / Working Designs",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "JRPG",
+      "动画过场",
+      "续作"
+    ],
+    "players": "1",
+    "tagline": "青星之下的千年传说，规模更大的完美续篇",
+    "description": "前作千年之后，喜爱古代遗迹的少年海恩，在“蓝色尖塔”中邂逅了来自青星的神秘少女露希亚。一句“我必须去见女神露娜”，开启了比前作更加宏大的旅程，也把整个系列推上了巅峰。\n\n本作在画面、动画量与剧本厚度上全面超越前作：过场动画大幅增加，配音更加丰富，战斗依旧保留走位与范围判定，并引入魔法经验值成长系统，自由培养各角色的魔法能力。伙伴们插科打诨的日常对话也写得活灵活现，旅途热闹又温暖。\n\n而通关后的后日谈篇章更是点睛之笔，让人久久回味。说它是Mega-CD上最好的RPG，相信没有几个人会反对。",
+    "highlights": [
+      "系列巅峰，过场动画与语音量大幅提升",
+      "露希亚与海恩的跨越千年的感人故事",
+      "魔法经验值系统让角色培养更自由",
+      "通关后附加的后日谈章节"
+    ],
+    "reviews": [
+      {
+        "source": "Electronic Gaming Monthly",
+        "score": "31/40",
+        "quote": "华丽的动画与扎实的系统，让人一玩就停不下来"
+      },
+      {
+        "source": "Fami通",
+        "score": "24/40",
+        "quote": "动画演出量惊人，系统延续前作的稳健风格"
+      },
+      {
+        "source": "GameRankings",
+        "score": "91%",
+        "quote": "各媒体评价极高，被视为16位时代最优秀的RPG之一"
+      }
+    ],
+    "editorScore": 9.5,
+    "is2D": true,
+    "screenshots": [
+      "images/mcd/mcd-lunar-eternal-blue-s1.png",
+      "images/mcd/mcd-lunar-eternal-blue-s2.png",
+      "images/mcd/mcd-lunar-eternal-blue-title.png"
+    ],
+    "cover": "images/mcd/mcd-lunar-eternal-blue-box.jpg"
+  },
+  {
+    "id": "mcd-lunar-the-silver-star",
+    "title": "Lunar: The Silver Star",
+    "titleZh": "露娜：银星物语",
+    "titleJa": "LUNAR ザ・シルバースター",
+    "year": 1992,
+    "developer": "Game Arts / Studio Alex",
+    "publisher": "Game Arts / Working Designs",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "JRPG",
+      "动画过场",
+      "冒险"
+    ],
+    "players": "1",
+    "tagline": "Mega-CD的灵魂之作，龙之勇者的青春史诗",
+    "description": "提起Mega-CD，老玩家第一个想到的必然是《LUNAR》！GAME ARTS携手Studio Alex，把CD-ROM的大容量全部倾注在一段纯粹的冒险故事里：边境小村的少年亚雷斯，怀着成为“龙之勇者”的梦想，与青梅竹马露娜、会说话的白色小飞猫纳尔一同踏上旅途。\n\n战斗采用可移动站位的回合制，角色在场地上走位、攻击距离与范围魔法都要算计，比当时的同类作品多了一层战术味道。最令人难忘的还是那些动画过场与全程CD音质配乐——露娜在船头的歌声一响起，多少玩家当场破防。\n\n后来本作多次重制，但Mega-CD原版那份朴素又热血的气息无可替代。想知道为什么有人当年为了它专门买了Mega-CD？玩一玩就懂了。",
+    "highlights": [
+      "动画过场与主题歌，CD-ROM魅力的最佳示范",
+      "可走位的回合制战斗，兼顾策略与爽快",
+      "王道少年冒险剧情，角色个性鲜明",
+      "岩垂德行作曲的经典配乐"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "26/40",
+        "quote": "王道题材与CD演出结合出色，是Mega-CD上值得一玩的正统RPG"
+      },
+      {
+        "source": "GamePro",
+        "score": "4.5/5",
+        "quote": "不仅是Sega CD最好的RPG，也是世嘉主机上最出色的RPG之一"
+      },
+      {
+        "source": "Mean Machines",
+        "score": "86%",
+        "quote": "画面与音乐都极具魅力，故事引人入胜"
+      }
+    ],
+    "editorScore": 9.4,
+    "is2D": true,
+    "screenshots": [
+      "images/mcd/mcd-lunar-the-silver-star-s1.png",
+      "images/mcd/mcd-lunar-the-silver-star-s2.png",
+      "images/mcd/mcd-lunar-the-silver-star-title.png"
+    ],
+    "cover": "images/mcd/mcd-lunar-the-silver-star-box.jpg"
+  },
+  {
+    "id": "mcd-snatcher",
+    "title": "Snatcher",
+    "titleZh": "掠夺者",
+    "titleJa": "スナッチャー",
+    "year": 1994,
+    "developer": "Konami",
+    "publisher": "Konami",
+    "genre": "冒险",
+    "tags": [
+      "像素",
+      "赛博朋克",
+      "文字冒险",
+      "小岛秀夫"
+    ],
+    "players": "1",
+    "tagline": "小岛秀夫的赛博朋克杰作，雨夜新神户的惊魂",
+    "description": "2047年，生化人“掠夺者”杀害人类并取而代之，失忆的特工吉利安·锡德与机器人搭档“小金”踏入阴雨绵绵的新神户。这就是年轻的小岛秀夫献给《银翼杀手》的情书，也是日本文字冒险史上的名作。\n\nMega-CD版是唯一的官方英文版本，收录了完整的第三幕结局、全语音配音与CD音乐。玩法以指令式调查为主：观察、询问、思考，再穿插紧张的射击场面。剧本节奏极佳，悬疑、恐怖、幽默与B级电影式的桥段交织，处处可见小岛的电影情结。\n\n今天看来，那些细腻的像素画面与氛围十足的电子配乐依然迷人。如果你喜欢《合金装备》的叙事风格，这就是一切的起点。",
+    "highlights": [
+      "小岛秀夫早期代表作，浓厚的电影感叙事",
+      "唯一的官方英文版，收录完整结局",
+      "全语音演出与紧张的射击段落",
+      "赛博朋克氛围满分的像素美术"
+    ],
+    "reviews": [
+      {
+        "source": "Electronic Gaming Monthly",
+        "score": "42/50",
+        "quote": "引人入胜的剧情与成熟的演出，是Sega CD必玩之作"
+      },
+      {
+        "source": "Mean Machines Sega",
+        "score": "85%",
+        "quote": "气氛出色的冒险游戏，故事扣人心弦"
+      },
+      {
+        "source": "Computer and Video Games",
+        "score": "90%",
+        "quote": "电影般的叙事与氛围令人惊叹"
+      }
+    ],
+    "editorScore": 9.3,
+    "is2D": true,
+    "screenshots": [
+      "images/mcd/mcd-snatcher-s1.png",
+      "images/mcd/mcd-snatcher-title.png"
+    ],
+    "cover": "images/mcd/mcd-snatcher-box.jpg"
+  },
+  {
+    "id": "mcd-sonic-cd",
+    "title": "Sonic CD",
+    "titleZh": "索尼克CD",
+    "titleJa": "ソニック・ザ・ヘッジホッグCD",
+    "year": 1993,
+    "developer": "Sega",
+    "publisher": "Sega",
+    "genre": "平台跳跃",
+    "tags": [
+      "像素",
+      "高速",
+      "时间旅行",
+      "名曲"
+    ],
+    "players": "1",
+    "tagline": "穿越过去与未来，音速刺猬的最强CD舞台",
+    "description": "索尼克系列中最独特、也最被老玩家怀念的一作！小小星球上，Dr.蛋头抓走了艾米，还造出了“金属索尼克”。这一回，索尼克能借助关卡中的“PAST”“FUTURE”路牌穿越时空，在过去摧毁机器人工厂，才能换来美好的未来。\n\n每一关都有过去、现在、好未来、坏未来四个版本，画面与音乐全部不同，探索的乐趣远超前作。与金属索尼克的竞速对决至今仍是系列最经典的Boss战之一。日版的“You Can Do Anything”与美版重新编曲的配乐各有拥趸，粉丝间的争论持续了三十年。\n\n华丽的旋转特殊关卡、动画开场与结局，让它成为最能体现Mega-CD机能的动作游戏。",
+    "highlights": [
+      "时间旅行系统，一关四种面貌",
+      "与金属索尼克的经典竞速Boss战",
+      "日美两版各具特色的CD音乐",
+      "动画开场与伪3D特殊关卡"
+    ],
+    "reviews": [
+      {
+        "source": "GamePro",
+        "score": "5/5",
+        "quote": "绝对的Sega CD杰作，速度与创意兼备"
+      },
+      {
+        "source": "Electronic Gaming Monthly",
+        "score": "34/40",
+        "quote": "关卡设计精巧，时间旅行带来无穷探索乐趣"
+      },
+      {
+        "source": "Sega Pro",
+        "score": "90%",
+        "quote": "华丽的画面与音乐，索尼克系列的又一高峰"
+      }
+    ],
+    "editorScore": 9.2,
+    "is2D": true,
+    "screenshots": [
+      "images/mcd/mcd-sonic-cd-s1.png",
+      "images/mcd/mcd-sonic-cd-s2.png",
+      "images/mcd/mcd-sonic-cd-s3.png",
+      "images/mcd/mcd-sonic-cd-title.png"
+    ],
+    "cover": "images/mcd/mcd-sonic-cd-box.jpg"
+  },
+  {
+    "id": "mcd-popful-mail",
+    "title": "Popful Mail",
+    "titleZh": "冒险少女梅儿",
+    "titleJa": "ぽっぷるメイル",
+    "year": 1994,
+    "developer": "Sega Falcom",
+    "publisher": "Sega / Working Designs",
+    "genre": "动作角色扮演",
+    "tags": [
+      "像素",
+      "横版",
+      "精灵少女",
+      "全语音"
+    ],
+    "players": "1",
+    "tagline": "贪财精灵赏金猎人，横版ARPG的活力之作",
+    "description": "原作出自Falcom之手的横版动作RPG，到了Mega-CD版由世嘉与Falcom合资团队彻底重制：画面重绘、全程语音，再加上大量动画过场，硬是把一款电脑游戏变成了一部能玩的轻喜剧动画。\n\n主角梅儿是个嘴硬心软、见钱眼开的精灵族赏金猎人，为了一笔赏金卷入魔王复活的大阴谋。旅途中可以随时切换梅儿、魔法师塔特与怪物盖兹三名角色，近战、远程魔法、喷火各有用途，Boss战颇有挑战性。\n\n轻快的横版跳跃砍杀、可爱的像素角色、加上嘴炮不断的配音演出，让人笑着就打完了。喜欢《伊苏》风格又想要点幽默感的玩家，千万别错过！",
+    "highlights": [
+      "三名角色随时切换，各具战斗特色",
+      "全程语音与动画过场，像在玩一部动画",
+      "Falcom血统的横版ARPG手感",
+      "诙谐幽默的剧本与角色塑造"
+    ],
+    "reviews": [
+      {
+        "source": "Electronic Gaming Monthly",
+        "score": "31/40",
+        "quote": "可爱的画风与幽默演出让人爱不释手"
+      },
+      {
+        "source": "Fami通",
+        "score": "22/40",
+        "quote": "语音演出丰富，但动作部分难度起伏较大"
+      },
+      {
+        "source": "Next Generation",
+        "score": "3/5",
+        "quote": "制作扎实的横版动作RPG，翻译颇具趣味"
+      }
+    ],
+    "editorScore": 8.8,
+    "is2D": true,
+    "screenshots": [
+      "images/mcd/mcd-popful-mail-s1.png",
+      "images/mcd/mcd-popful-mail-s2.png",
+      "images/mcd/mcd-popful-mail-title.png"
+    ],
+    "cover": "images/mcd/mcd-popful-mail-box.jpg"
+  },
+  {
+    "id": "mcd-shining-force-cd",
+    "title": "Shining Force CD",
+    "titleZh": "光明力量CD",
+    "titleJa": "シャイニング・フォースCD",
+    "year": 1994,
+    "developer": "Sonic! Software Planning",
+    "publisher": "Sega",
+    "genre": "战略角色扮演",
+    "tags": [
+      "像素",
+      "战棋",
+      "合集",
+      "光明系列"
+    ],
+    "players": "1",
+    "tagline": "GG外传双作合体加新篇，战棋迷的豪华大餐",
+    "description": "将原本在Game Gear上推出的两款《光明力量外传》以Mega-CD的大画面全面重制，再加上全新剧本与追加篇章，一张光盘就是数十小时的战棋盛宴。\n\n玩法延续系列招牌：伙伴们在方格地图上走位、攻击时切换到华丽的战斗动画，等级成长、转职与收集队友的乐趣一应俱全。CD音质的配乐让战斗更加热血，而通关前几章后解锁的追加剧情，更把故事推向高潮。\n\n相比MD版，本作操作更流畅、平衡性更好，是想一口气体验光明系列精华的最佳选择。高木努的人设可爱又有英气，像素动画相当细腻。",
+    "highlights": [
+      "重制两部GG外传并追加全新章节",
+      "经典光明力量式战棋与战斗动画",
+      "CD音质配乐",
+      "数十小时的超大分量"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "28/40",
+        "quote": "分量十足的战棋RPG，系列粉丝必然满意"
+      },
+      {
+        "source": "Next Generation",
+        "score": "4/5",
+        "quote": "系统变化不大，但新内容足以让老玩家保持新鲜感"
+      }
+    ],
+    "editorScore": 8.7,
+    "is2D": true,
+    "screenshots": [
+      "images/mcd/mcd-shining-force-cd-s1.png",
+      "images/mcd/mcd-shining-force-cd-s2.png",
+      "images/mcd/mcd-shining-force-cd-s3.png",
+      "images/mcd/mcd-shining-force-cd-title.png"
+    ],
+    "cover": "images/mcd/mcd-shining-force-cd-box.jpg"
+  },
+  {
+    "id": "mcd-earthworm-jim-special-edition",
+    "title": "Earthworm Jim: Special Edition",
+    "titleZh": "蚯蚓吉姆 特别版",
+    "titleJa": "",
+    "year": 1995,
+    "developer": "Shiny Entertainment",
+    "publisher": "Interplay",
+    "genre": "平台跳跃",
+    "tags": [
+      "像素",
+      "手绘动画",
+      "搞笑",
+      "增强版"
+    ],
+    "players": "1",
+    "tagline": "穿上超级战衣的蚯蚓，最完整的爆笑版本",
+    "description": "一条普通的蚯蚓意外套上超级宇宙战衣，从此化身动作英雄——《蚯蚓吉姆》以夸张的手绘动画与无厘头幽默席卷了1994年，而Mega-CD上的“特别版”则是这部名作最完整的形态。\n\n特别版在MD原版基础上加入了全新关卡“Big Bruty”、多个关卡的扩展区域、约一千帧新增动画、可追踪的导弹武器以及重新编曲的CD音乐，不同难度通关还会看到不同结局。蹦极对决、牛被弹飞、追着猫跑……每一关都是一场荒诞喜剧。\n\n流畅如动画片的像素角色至今仍令人惊叹，是喜欢欧美平台跳跃的玩家必收之作。",
+    "highlights": [
+      "新增关卡与扩展区域，内容最完整",
+      "约千帧新增手绘动画",
+      "重新编曲的CD音乐",
+      "无厘头的关卡设计与幽默感"
+    ],
+    "reviews": [
+      {
+        "source": "Electronic Gaming Monthly",
+        "score": "35.5/40",
+        "quote": "不只是换了CD音乐，新关卡与新动画让它更加出色"
+      },
+      {
+        "source": "Next Generation",
+        "score": "4/5",
+        "quote": "比原版更胜一筹的增强版"
+      }
+    ],
+    "editorScore": 8.7,
+    "is2D": true,
+    "screenshots": [
+      "images/mcd/mcd-earthworm-jim-special-edition-s1.png",
+      "images/mcd/mcd-earthworm-jim-special-edition-s2.png",
+      "images/mcd/mcd-earthworm-jim-special-edition-s3.png",
+      "images/mcd/mcd-earthworm-jim-special-edition-title.png"
+    ],
+    "cover": "images/mcd/mcd-earthworm-jim-special-edition-box.jpg"
+  },
+  {
+    "id": "mcd-final-fight-cd",
+    "title": "Final Fight CD",
+    "titleZh": "快打旋风CD",
+    "titleJa": "ファイナルファイトCD",
+    "year": 1993,
+    "developer": "A Wave / Capcom",
+    "publisher": "Sega",
+    "genre": "动作清版",
+    "tags": [
+      "像素",
+      "清版",
+      "双人",
+      "街机移植"
+    ],
+    "players": "1-2",
+    "tagline": "三人齐全、双打可玩，最完整的家用快打",
+    "description": "当年SFC版《快打旋风》砍掉了双打、砍掉了凯、砍掉了工厂关，玩家怨声载道。直到Mega-CD版登场，大家才终于在家里玩到“完整版”：哈格、科迪、凯三人全员到齐，双人合作完美保留，工厂关卡也一个不少。\n\n虽然MD的色数比街机少，但角色尺寸、打击感与流畅度都相当还原。CD音轨重新编曲的配乐更有气势，开场还加入了配音动画演出，另有限时挑战的“Time Attack”模式可以反复刷分。\n\n在那个街机移植良莠不齐的年代，这张光盘是Mega-CD玩家最有底气的炫耀资本之一。约上朋友，一起去Metro City救人吧！",
+    "highlights": [
+      "三名主角与双人合作完整收录",
+      "SFC版删减的关卡全部回归",
+      "CD编曲音乐与配音过场",
+      "追加Time Attack模式"
+    ],
+    "reviews": [
+      {
+        "source": "Computer and Video Games",
+        "score": "95%",
+        "quote": "迄今为止最出色的家用版快打旋风"
+      },
+      {
+        "source": "Electronic Gaming Monthly",
+        "score": "28/40",
+        "quote": "扎实的移植，格斗动作依旧过瘾"
+      },
+      {
+        "source": "GamePro",
+        "score": "4.5/5",
+        "quote": "完整收录双打与全部关卡，远胜SFC版"
+      }
+    ],
+    "editorScore": 8.6,
+    "is2D": true,
+    "screenshots": [
+      "images/mcd/mcd-final-fight-cd-s1.png",
+      "images/mcd/mcd-final-fight-cd-s2.png",
+      "images/mcd/mcd-final-fight-cd-title.png"
+    ],
+    "cover": "images/mcd/mcd-final-fight-cd-box.jpg"
+  },
+  {
+    "id": "mcd-robo-aleste",
+    "title": "Robo Aleste",
+    "titleZh": "机器人阿雷斯特",
+    "titleJa": "電忍アレスタ ～NOBUNAGA AND HIS NINJA FORCE～",
+    "year": 1992,
+    "developer": "Compile",
+    "publisher": "Compile / Tengen",
+    "genre": "射击",
+    "tags": [
+      "像素",
+      "纵版射击",
+      "战国",
+      "机甲"
+    ],
+    "players": "1",
+    "tagline": "战国忍者机甲狂飙，COMPILE的弹幕盛宴",
+    "description": "战国时代、忍者、巨大机甲——COMPILE把这些元素一股脑塞进了《阿雷斯特》系列，于是有了这款奇想天外的纵版射击。玩家驾驶忍者机甲“电忍”，协助织田信长对抗各路群雄的蒸汽机械军团。\n\n系列招牌的多种副武器可以自由切换与升级，搭配可投掷的手里剑式“主炮”，火力层层叠加时满屏爆炸好不痛快。关卡流程快节奏、敌机花样繁多，而关卡间的动画过场与日式摇滚风CD配乐，则把气氛炒得更加热烈。\n\n作为Mega-CD上最纯正的硬派射击之一，它证明了CD主机不只有动画和真人影像。",
+    "highlights": [
+      "战国忍者+机甲的奇妙世界观",
+      "多种副武器可切换强化",
+      "COMPILE招牌的流畅射击手感",
+      "热血的CD摇滚配乐"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "24/40",
+        "quote": "射击手感扎实，战国题材颇具新意"
+      },
+      {
+        "source": "Electronic Gaming Monthly",
+        "score": "29/40",
+        "quote": "火力全开的纵版射击，音乐与画面俱佳"
+      },
+      {
+        "source": "MegaTech",
+        "score": "92%",
+        "quote": "Mega-CD上最出色的射击游戏之一"
+      }
+    ],
+    "editorScore": 8.5,
+    "is2D": true,
+    "screenshots": [
+      "images/mcd/mcd-robo-aleste-s1.png",
+      "images/mcd/mcd-robo-aleste-s2.png",
+      "images/mcd/mcd-robo-aleste-title.png"
+    ],
+    "cover": "images/mcd/mcd-robo-aleste-box.jpg"
+  },
+  {
+    "id": "mcd-ecco-the-dolphin-cd",
+    "title": "Ecco the Dolphin CD",
+    "titleZh": "海豚艾柯CD版",
+    "titleJa": "エコー・ザ・ドルフィンCD",
+    "year": 1993,
+    "developer": "Novotrade",
+    "publisher": "Sega",
+    "genre": "动作冒险",
+    "tags": [
+      "像素",
+      "海洋",
+      "探索",
+      "氛围"
+    ],
+    "players": "1",
+    "tagline": "深蓝之中的孤独旅程，更美的CD增强版",
+    "description": "一场神秘的风暴卷走了艾柯的族群，这只小海豚不得不独自游向深海、远古遗迹甚至时间的彼岸。《海豚艾柯》以独树一帜的题材与神秘深邃的氛围，成为16位时代最特别的动作冒险游戏之一。\n\nMega-CD版在MD原版基础上加入了新的与重新设计的关卡，并换上Spencer Nilsen创作的CD音质配乐，空灵的电子音乐与深海的寂静相得益彰。用声纳探路、与鲸鱼交谈、在洋流中穿梭，每一处都充满探索的乐趣与隐约的不安。\n\n难度依旧很高，但正是那份孤独与神秘感，让无数玩家在多年后仍对那片蓝色海洋念念不忘。",
+    "highlights": [
+      "独特的海豚冒险题材与神秘剧情",
+      "新增与重新设计的关卡",
+      "Spencer Nilsen的空灵CD配乐",
+      "声纳探索与水下解谜"
+    ],
+    "reviews": [
+      {
+        "source": "Mean Machines Sega",
+        "score": "96/100",
+        "quote": "画面与音乐都更上一层楼的出色增强版"
+      },
+      {
+        "source": "Fami通",
+        "score": "27/40",
+        "quote": "氛围独特的海洋冒险，难度偏高"
+      },
+      {
+        "source": "Electronic Gaming Monthly",
+        "score": "31/40",
+        "quote": "CD音乐让本就出色的游戏更具魅力"
+      }
+    ],
+    "editorScore": 8.4,
+    "is2D": true,
+    "screenshots": [
+      "images/mcd/mcd-ecco-the-dolphin-cd-s1.png",
+      "images/mcd/mcd-ecco-the-dolphin-cd-s2.png",
+      "images/mcd/mcd-ecco-the-dolphin-cd-s3.png",
+      "images/mcd/mcd-ecco-the-dolphin-cd-title.png"
+    ],
+    "cover": "images/mcd/mcd-ecco-the-dolphin-cd-box.jpg"
+  },
+  {
+    "id": "mcd-keio-flying-squadron",
+    "title": "Keio Flying Squadron",
+    "titleZh": "庆应游击队",
+    "titleJa": "慶応遊撃隊",
+    "year": 1993,
+    "developer": "Victor Entertainment",
+    "publisher": "Victor Entertainment / JVC",
+    "genre": "射击",
+    "tags": [
+      "像素",
+      "横版射击",
+      "兔女郎",
+      "搞笑"
+    ],
+    "players": "1",
+    "tagline": "骑着龙的兔耳巫女，最萌最疯的横版射击",
+    "description": "幕末庆应年间，穿着兔女郎装的巫女小兰，骑着小龙“宝宝”出发追回被盗的神秘钥匙——光是这个设定就够让人笑出声了。这就是以可爱与搞笑闻名的“Cute 'em up”名作《庆应游击队》。\n\n射击系统本身很扎实：可以收集僚机、强化主炮，敌人设计充满恶搞日本历史与西洋文化的创意，从巨大的狸猫到奇怪的机械城堡应有尽有。色彩鲜艳的大尺寸像素角色在Mega-CD上显得格外华丽，动画过场与配音更增添了喜剧效果。\n\n它的玩法不算难，适合射击入门玩家；但那份天马行空的想象力与满溢的可爱感，至今仍让收藏者趋之若鹜。",
+    "highlights": [
+      "兔女郎巫女骑龙的无厘头设定",
+      "色彩鲜艳的大尺寸像素美术",
+      "恶搞历史题材的敌人与Boss",
+      "动画过场与语音演出"
+    ],
+    "reviews": [
+      {
+        "source": "Mean Machines Sega",
+        "score": "90/100",
+        "quote": "画面精美、创意十足的射击佳作"
+      },
+      {
+        "source": "Electronic Gaming Monthly",
+        "score": "39/50",
+        "quote": "可爱又有趣，射击手感出色"
+      },
+      {
+        "source": "Fami通",
+        "score": "22/40",
+        "quote": "画面可爱有趣，但射击部分略显平淡"
+      }
+    ],
+    "editorScore": 8.3,
+    "is2D": true,
+    "screenshots": [
+      "images/mcd/mcd-keio-flying-squadron-s1.png",
+      "images/mcd/mcd-keio-flying-squadron-s2.png",
+      "images/mcd/mcd-keio-flying-squadron-title.png"
+    ],
+    "cover": "images/mcd/mcd-keio-flying-squadron-box.jpg"
+  },
+  {
+    "id": "mcd-shin-megami-tensei",
+    "title": "Shin Megami Tensei",
+    "titleZh": "真·女神转生",
+    "titleJa": "真・女神転生",
+    "year": 1994,
+    "developer": "SIMS",
+    "publisher": "SIMS",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "3D迷宫",
+      "恶魔交涉",
+      "末世"
+    ],
+    "players": "1",
+    "tagline": "东京毁灭后的恶魔世界，女神转生Mega-CD版",
+    "description": "现代东京，主角在梦中被神秘声音呼唤，醒来后恶魔开始在街头出没。随后核弹落下，东京化为废墟——ATLUS的里程碑之作《真·女神转生》，在Mega-CD上迎来了由SIMS制作的移植版。\n\n第一人称3D迷宫探索、与恶魔交涉将其收为伙伴、在邪教之馆合体出更强大的恶魔，再加上依据选择走向法、混沌、中立三种结局的分歧系统，构成了系列不朽的基础。Mega-CD版大部分曲目以CD-DA重新编曲，追加了视觉场景、新恶魔和恶魔图鉴“LIBRARY”功能。\n\n冷峻压抑的末世东京与深刻的善恶抉择，即便放在今天也毫不过时。这是MD阵营玩家难得能亲身体验的“女神转生”。",
+    "highlights": [
+      "恶魔交涉与合体的系列经典系统",
+      "法/混沌/中立三路线分歧结局",
+      "CD-DA编曲音乐与追加视觉场景",
+      "新增恶魔与恶魔图鉴功能"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "28/40",
+        "quote": "忠实移植名作，CD编曲与追加要素颇具诚意"
+      }
+    ],
+    "editorScore": 8.3,
+    "is2D": true,
+    "screenshots": [
+      "images/mcd/mcd-shin-megami-tensei-s1.png",
+      "images/mcd/mcd-shin-megami-tensei-x1.png",
+      "images/mcd/mcd-shin-megami-tensei-x2.png",
+      "images/mcd/mcd-shin-megami-tensei-title.png"
+    ],
+    "cover": "images/mcd/mcd-shin-megami-tensei-box.jpg"
+  },
+  {
+    "id": "mcd-silpheed",
+    "title": "Silpheed",
+    "titleZh": "银翼战机",
+    "titleJa": "シルフィード",
+    "year": 1993,
+    "developer": "Game Arts",
+    "publisher": "Game Arts / Sega",
+    "genre": "射击",
+    "tags": [
+      "多边形",
+      "纵版射击",
+      "科幻",
+      "技术展示"
+    ],
+    "players": "1",
+    "tagline": "实时多边形加CG背景，Mega-CD的机能炫技",
+    "description": "GAME ARTS把自家PC名作搬上Mega-CD，并做出了一件当时几乎不可能的事：在16位主机上流畅运行实时多边形战机，再叠加以CD流媒体播放的预渲染CG背景。那壮观的太空战场景，在1993年足以让所有看到的人目瞪口呆。\n\n玩法上它是一款相当正统的纵版射击：出击前可自选左右两侧的武器，关卡中穿越小行星带、突入敌方母舰，节奏紧凑。全程语音的作战通讯与气势磅礴的配乐，营造出科幻电影般的临场感。\n\n虽然不是像素风，但作为Mega-CD技术实力的象征，它在主机历史上有着不可忽视的地位。",
+    "highlights": [
+      "16位主机上的实时多边形射击",
+      "CD流媒体预渲染背景，视觉冲击力强",
+      "出击前自由选择左右武器",
+      "电影般的语音通讯与配乐"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "31/40",
+        "quote": "画面表现惊人，射击游戏本身也相当扎实"
+      },
+      {
+        "source": "MegaTech",
+        "score": "94%",
+        "quote": "令人惊叹的技术展示，同时也非常好玩"
+      },
+      {
+        "source": "Mega",
+        "score": "89%",
+        "quote": "Mega-CD上最令人印象深刻的游戏之一"
+      }
+    ],
+    "editorScore": 8.2,
+    "is2D": false,
+    "screenshots": [
+      "images/mcd/mcd-silpheed-s1.png",
+      "images/mcd/mcd-silpheed-s2.png",
+      "images/mcd/mcd-silpheed-s3.png",
+      "images/mcd/mcd-silpheed-title.png"
+    ],
+    "cover": "images/mcd/mcd-silpheed-box.jpg"
+  },
+  {
+    "id": "mcd-lords-of-thunder",
+    "title": "Lords of Thunder",
+    "titleZh": "雷电之王",
+    "titleJa": "ロード・オブ・サンダー",
+    "year": 1995,
+    "developer": "Hudson Soft / Red Company",
+    "publisher": "Hudson Soft",
+    "genre": "射击",
+    "tags": [
+      "像素",
+      "横版射击",
+      "重金属",
+      "奇幻"
+    ],
+    "players": "1",
+    "tagline": "重金属吉他轰鸣的奇幻射击，PCE名作移师MCD",
+    "description": "原作是PC Engine CD上的人气射击《Winds of Thunder》，Mega-CD版虽然色彩不及原版，但那股热血沸腾的重金属气质毫无保留。玩家操纵身披铠甲的骑士兰度，以四种元素铠甲对抗邪神手下的六大魔将。\n\n本作的最大特色是关卡开始前可以自由选择铠甲与关卡顺序，并用击败敌人获得的金币购买强化道具与炸弹，带有一点RPG式的规划乐趣。每一关都配有震耳欲聋的电吉他摇滚，配合奇幻风格的巨大Boss，打起来非常过瘾。\n\n难度对新手友好，是Mega-CD上不可多得的正统横版射击，适合想体验“射击+重金属”双重快感的玩家。",
+    "highlights": [
+      "四种元素铠甲可自由选择",
+      "关卡顺序自选，金币商店强化",
+      "震撼的重金属摇滚配乐",
+      "奇幻风格的巨型Boss"
+    ],
+    "reviews": [
+      {
+        "source": "GameFan",
+        "score": "252/300",
+        "quote": "华丽的射击与激昂的摇滚乐，令人热血沸腾"
+      },
+      {
+        "source": "VideoGames",
+        "score": "8/10",
+        "quote": "填补了Sega CD射击游戏的空白，手感出色"
+      }
+    ],
+    "editorScore": 8.0,
+    "is2D": true,
+    "screenshots": [
+      "images/mcd/mcd-lords-of-thunder-s1.png",
+      "images/mcd/mcd-lords-of-thunder-s2.png",
+      "images/mcd/mcd-lords-of-thunder-title.png"
+    ],
+    "cover": "images/mcd/mcd-lords-of-thunder-box.jpg"
+  },
+  {
+    "id": "mcd-vay",
+    "title": "Vay",
+    "titleZh": "流星之铠",
+    "titleJa": "ヴァイ 流星の鎧",
+    "year": 1993,
+    "developer": "Hertz",
+    "publisher": "SIMS / Working Designs",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "JRPG",
+      "机甲",
+      "王道"
+    ],
+    "players": "1",
+    "tagline": "剑与魔法加机甲，王子救妻的正统RPG",
+    "description": "婚礼当天，王子的新娘被突然来袭的古代战争机器掳走——《流星之铠》用一个最王道的开场，展开了一段剑与魔法加上远古机甲的冒险。\n\n游戏结构是标准的日式回合制RPG：城镇、迷宫、宝箱、随机遇敌，样样不缺。战斗中可以设定自动战斗与AI作战方针，节奏轻快；俯视视角的城镇与村庄画得温馨细致，让人想起SFC时代的经典作品。动画过场与主题曲则充分发挥了CD-ROM的优势。\n\n美版由Working Designs负责，翻译幽默且大幅调整了难度。故事或许不算新颖，但作为一款扎实的Mega-CD日式RPG，它绝对值得RPG爱好者细细品味。",
+    "highlights": [
+      "王道的“救出新娘”冒险故事",
+      "温馨细致的俯视视角城镇像素画",
+      "自动战斗与AI作战方针设定",
+      "动画过场与主题曲"
+    ],
+    "reviews": [
+      {
+        "source": "Game Informer",
+        "score": "8.25/10",
+        "quote": "内容丰富的传统RPG，过场动画出色"
+      }
+    ],
+    "editorScore": 7.8,
+    "is2D": true,
+    "screenshots": [
+      "images/mcd/mcd-vay-s1.png",
+      "images/mcd/mcd-vay-x1.png",
+      "images/mcd/mcd-vay-title.png"
+    ],
+    "cover": "images/mcd/mcd-vay-box.jpg"
+  },
+  {
+    "id": "mcd-illusion-city",
+    "title": "Illusion City",
+    "titleZh": "幻影都市",
+    "titleJa": "幻影都市 ILLUSION CITY",
+    "year": 1993,
+    "developer": "I's System Tokyo / Micro Cabin",
+    "publisher": "Micro Cabin",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "赛博朋克",
+      "JRPG",
+      "香港"
+    ],
+    "players": "1",
+    "tagline": "202X年的魔都香港，赛博朋克风RPG隐藏佳作",
+    "description": "202X年，一场“妖魔灾变”让香港化作霓虹与黑暗交织的魔都。来历不明的青年天仁，在追查神秘组织的过程中，逐渐觉醒了自己身上的超自然力量——这就是Micro Cabin的赛博朋克RPG《幻影都市》。\n\n游戏采用传统的指令式战斗，但在场景演出上下足了功夫：角色在场景中实时行动、对话，取代了大量静态过场，营造出电影般的叙事节奏。Mega-CD版还追加了原PC版只在设定集里出现的开场动画，并在部分Boss战使用CD-DA音乐。\n\n东方神秘学与赛博朋克的混搭在当年十分前卫，俯视视角的港式街景像素画细节满满。喜欢小众JRPG的玩家，这是一颗值得挖掘的珍珠。",
+    "highlights": [
+      "东方神秘学×赛博朋克的独特世界观",
+      "角色实时演出的电影式叙事",
+      "Mega-CD版追加开场动画",
+      "细节丰富的近未来香港街景"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "26/40",
+        "quote": "世界观与演出颇具魅力的RPG"
+      }
+    ],
+    "editorScore": 7.7,
+    "is2D": true,
+    "screenshots": [
+      "images/mcd/mcd-illusion-city-s1.png",
+      "images/mcd/mcd-illusion-city-x1.png",
+      "images/mcd/mcd-illusion-city-title.png"
+    ],
+    "cover": "images/mcd/mcd-illusion-city-box.jpg"
+  },
+  {
+    "id": "mcd-dark-wizard",
+    "title": "Dark Wizard",
+    "titleZh": "黑暗巫师",
+    "titleJa": "ダークウィザード 蘇りし闇の魔導士",
+    "year": 1993,
+    "developer": "Sega",
+    "publisher": "Sega",
+    "genre": "战略角色扮演",
+    "tags": [
+      "像素",
+      "战棋",
+      "六角格",
+      "多主角"
+    ],
+    "players": "1",
+    "tagline": "四位主角四条路线，硬派六角格战略RPG",
+    "description": "魔导士贝尔德复活，王国陷入危机。《黑暗巫师》让玩家从王子、骑士、精灵公主、魔导士四位主角中任选其一，每位主角的剧情、伙伴和召唤魔物都不相同，重复游玩价值极高。\n\n战斗在六角格大地图上展开，玩家需要占领城镇、召唤怪物、布置部队，回合制推进的玩法兼具《大战略》式的宏观经营与RPG式的角色成长。地图规模庞大，一场战役往往要花上好几个小时，非常考验耐心与规划能力。\n\n以今天的眼光看节奏偏慢，但那份硬派与厚重正是它的魅力所在。喜欢《梦幻模拟战》《皇家骑士团》这类战略RPG的玩家，值得一试这颗Mega-CD上的遗珠。",
+    "highlights": [
+      "四名主角对应四条不同路线",
+      "六角格战略地图与魔物召唤",
+      "庞大的战役规模与重复游玩价值",
+      "CD音质的史诗配乐"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "23/40",
+        "quote": "分量十足的战略RPG，但节奏偏慢"
+      },
+      {
+        "source": "Game Informer",
+        "score": "8/10",
+        "quote": "深度十足的战略作品"
+      },
+      {
+        "source": "Electronic Gaming Monthly",
+        "score": "7/10",
+        "quote": "适合有耐心的战略游戏爱好者"
+      }
+    ],
+    "editorScore": 7.6,
+    "is2D": true,
+    "screenshots": [
+      "images/mcd/mcd-dark-wizard-s1.png",
+      "images/mcd/mcd-dark-wizard-x1.png",
+      "images/mcd/mcd-dark-wizard-title.png"
+    ],
+    "cover": "images/mcd/mcd-dark-wizard-box.jpg"
+  },
+  {
+    "id": "mcd-heart-of-the-alien",
+    "title": "Heart of the Alien",
+    "titleZh": "异星之心",
+    "titleJa": "",
+    "year": 1994,
+    "developer": "Interplay Productions",
+    "publisher": "Virgin Interactive",
+    "genre": "动作冒险",
+    "tags": [
+      "矢量画面",
+      "电影式",
+      "续作",
+      "解谜"
+    ],
+    "players": "1",
+    "tagline": "《另一个世界》的正统续篇，异星友人的视角",
+    "description": "还记得《另一个世界》里那位与莱斯特并肩逃亡的外星朋友吗？《异星之心》正是从他的视角出发的正统续作，讲述两人逃离之后，那位异星战士返回故乡、对抗统治者的悲壮故事。\n\n本作延续了前作的电影式叙事：没有文字说明，没有HUD，只有简洁有力的矢量画面、流畅的动画与精心设计的关卡。主角手中的能量鞭可以攻击敌人、荡过深渊，解谜与动作环环相扣，死亡几乎就是学习的一部分。光盘还附带了完整收录的《另一个世界》。\n\n难度和操作都相当严苛，但那份冷峻又悲伤的氛围，会让喜欢《Inside》《Limbo》的玩家倍感亲切。",
+    "highlights": [
+      "《另一个世界》正统续作，同盘收录前作",
+      "无文字的电影式叙事",
+      "能量鞭的动作与解谜设计",
+      "冷峻悲壮的异星氛围"
+    ],
+    "reviews": [
+      {
+        "source": "Sega-16",
+        "score": "8/10",
+        "quote": "令人享受的真正续作，但难度与操控都十分严苛"
+      }
+    ],
+    "editorScore": 7.5,
+    "is2D": true,
+    "screenshots": [
+      "images/mcd/mcd-heart-of-the-alien-s1.png",
+      "images/mcd/mcd-heart-of-the-alien-s2.png",
+      "images/mcd/mcd-heart-of-the-alien-title.png"
+    ],
+    "cover": "images/mcd/mcd-heart-of-the-alien-box.jpg"
+  },
+  {
+    "id": "mcd-yumimi-mix",
+    "title": "Yumimi Mix",
+    "titleZh": "由美美混合",
+    "titleJa": "ゆみみみっくす",
+    "year": 1993,
+    "developer": "Game Arts",
+    "publisher": "Game Arts",
+    "genre": "冒险",
+    "tags": [
+      "像素",
+      "互动动画",
+      "少女漫画",
+      "竹本泉"
+    ],
+    "players": "1",
+    "tagline": "会动的少女漫画，竹本泉的奇幻校园",
+    "description": "少女漫画家竹本泉亲自操刀剧本、分镜与画面设计，GAME ARTS则用Mega-CD把它变成了一部“可以玩的动画”。普通女高中生由美美某天被来自异世界的神马附身，平凡的校园生活从此变得乱七八糟。\n\n游戏几乎全程以流畅的动画与语音推进，玩家只需在关键时刻做出选择，故事便会分支出不同的场景与笑点。没有Game Over，没有难关，有的只是竹本泉式的可爱角色、软萌对白和天马行空的幻想情节。\n\n这类“互动卡通”在当年是CD主机的独特产物，而《由美美混合》是其中完成度最高的一部。喜欢复古动画画风的玩家，一定会被它的温柔气质打动。",
+    "highlights": [
+      "竹本泉亲自负责剧本与分镜",
+      "全程动画与语音，像在看一部OVA",
+      "多重选项带来不同剧情分支",
+      "Mega-CD早期最具代表性的互动卡通"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "24/40",
+        "quote": "画面像动画一样流畅，竹本泉的世界观魅力十足"
+      }
+    ],
+    "editorScore": 7.4,
+    "is2D": true,
+    "screenshots": [
+      "images/mcd/mcd-yumimi-mix-s1.png",
+      "images/mcd/mcd-yumimi-mix-x1.png",
+      "images/mcd/mcd-yumimi-mix-x2.png",
+      "images/mcd/mcd-yumimi-mix-title.png"
+    ],
+    "cover": "images/mcd/mcd-yumimi-mix-box.jpg"
+  },
+  {
+    "id": "mcd-sol-feace",
+    "title": "Sol-Feace",
+    "titleZh": "索尔菲斯",
+    "titleJa": "ソル・フィース",
+    "year": 1991,
+    "developer": "Wolf Team",
+    "publisher": "Wolf Team / Sega",
+    "genre": "射击",
+    "tags": [
+      "像素",
+      "横版射击",
+      "首发",
+      "科幻"
+    ],
+    "players": "1",
+    "tagline": "Mega-CD首发射击，可调角度的炮台战机",
+    "description": "作为Mega-CD日本首发阵容之一，狼组把X68000上的横版射击《索尔菲斯》搬上主机，并加入了全新的动画开场与结局，由职业声优配音，向玩家展示“CD游戏”到底意味着什么。\n\n本作最有特色的是机体上下两侧的可动炮台：根据移动方向改变射击角度，可以同时攻击前方与上下的敌人，熟练掌握后打法变化丰富。关卡流程节奏明快，敌方巨型战舰与机械Boss造型充满90年代日式科幻风味，CD音轨的电子摇滚配乐也相当带感。\n\n它也许不是最难、最华丽的射击，但作为Mega-CD时代的开端，它的历史意义和扎实手感都值得一试。",
+    "highlights": [
+      "Mega-CD日本首发阵容之一",
+      "可调整角度的上下炮台系统",
+      "新增动画开场与配音结局",
+      "明快的电子摇滚CD配乐"
+    ],
+    "reviews": [
+      {
+        "source": "Computer and Video Games",
+        "score": "89%",
+        "quote": "音效、速度与过场都令人满意的射击游戏"
+      },
+      {
+        "source": "Fami通",
+        "score": "23/40",
+        "quote": "手感扎实的横版射击，CD演出为其加分"
+      }
+    ],
+    "editorScore": 7.4,
+    "is2D": true,
+    "screenshots": [
+      "images/mcd/mcd-sol-feace-s1.png",
+      "images/mcd/mcd-sol-feace-s2.png",
+      "images/mcd/mcd-sol-feace-s3.png",
+      "images/mcd/mcd-sol-feace-title.png"
+    ],
+    "cover": "images/mcd/mcd-sol-feace-box.jpg"
+  },
+  {
+    "id": "mcd-time-gal",
+    "title": "Time Gal",
+    "titleZh": "时空少女",
+    "titleJa": "タイムギャル",
+    "year": 1992,
+    "developer": "Wolf Team",
+    "publisher": "Wolf Team / Renovation Products",
+    "genre": "动作",
+    "tags": [
+      "动画",
+      "QTE",
+      "时间旅行",
+      "街机移植"
+    ],
+    "players": "1",
+    "tagline": "与时间赛跑的动画冒险，街机LD名作回归",
+    "description": "来自TAITO的街机激光影碟游戏，Mega-CD版由狼组移植。少女蕾卡为了追捕盗走时光机的罪犯，从史前恐龙时代一路穿越到遥远的未来，每一个时代都有致命陷阱等着她。\n\n玩法是《龙穴历险记》式的反应游戏：动画进行中屏幕会提示方向或攻击，玩家必须在瞬间输入正确指令，否则就会看到蕾卡各种搞笑的失败动画。关键时刻还会出现“时间停止”选择题，考验记忆与判断。\n\n虽然MD的色彩让画面有所压缩，但手绘赛璐璐动画的魅力依旧满满。这种只属于90年代CD主机的玩法，今天玩起来格外有怀旧味道。",
+    "highlights": [
+      "TAITO经典激光影碟游戏移植",
+      "穿越多个时代的手绘动画冒险",
+      "考验反应的瞬间指令输入",
+      "各种搞笑的失败动画"
+    ],
+    "reviews": [
+      {
+        "source": "GamePro",
+        "score": "5/5",
+        "quote": "动画精美、节奏紧凑，Sega CD上最好的互动动画游戏"
+      },
+      {
+        "source": "Electronic Gaming Monthly",
+        "score": "30/40",
+        "quote": "画面出色的动画游戏，挑战性十足"
+      },
+      {
+        "source": "Fami通",
+        "score": "20/40",
+        "quote": "动画本身有魅力，但游戏性较单一"
+      }
+    ],
+    "editorScore": 7.3,
+    "is2D": true,
+    "screenshots": [
+      "images/mcd/mcd-time-gal-s1.png",
+      "images/mcd/mcd-time-gal-s2.png",
+      "images/mcd/mcd-time-gal-s3.png",
+      "images/mcd/mcd-time-gal-title.png"
+    ],
+    "cover": "images/mcd/mcd-time-gal-box.jpg"
+  },
+  {
+    "id": "mcd-annet-futatabi",
+    "title": "Annet Futatabi",
+    "titleZh": "安妮特再临",
+    "titleJa": "アネット再び",
+    "year": 1993,
+    "developer": "Wolf Team",
+    "publisher": "Telenet Japan",
+    "genre": "动作清版",
+    "tags": [
+      "像素",
+      "清版",
+      "魔法少女",
+      "动画过场"
+    ],
+    "players": "1",
+    "tagline": "魔法少女挥拳上阵，狼组的华丽清版",
+    "description": "《El Viento》的女主角安妮特再度登场！狼组（Wolf Team）这一次把系列从横版动作改成了清版格斗，让安妮特以拳脚与魔法对抗邪教组织的复苏阴谋，舞台依旧是充满克苏鲁气息的20世纪初美国。\n\n本作最大的卖点是由动画名家参与制作的大量动画过场，人设华丽、演出流畅，在当年堪称CD游戏的视觉门面。游戏中安妮特可以施放不同属性的魔法，搭配连续技与投技，像素人物尺寸大、动作细腻。\n\n清版部分的深度不算顶尖，但它独特的世界观、帅气的女主角与精美的动画，让它成为狼组粉丝和Mega-CD收藏者心中的特别之作。",
+    "highlights": [
+      "《El Viento》女主角安妮特的续篇",
+      "大量高水准动画过场",
+      "魔法与格斗结合的清版玩法",
+      "克苏鲁风格的复古美国舞台"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "20/40",
+        "quote": "动画演出华丽，但动作部分略显单调"
+      }
+    ],
+    "editorScore": 7.2,
+    "is2D": true,
+    "screenshots": [
+      "images/mcd/mcd-annet-futatabi-s1.png",
+      "images/mcd/mcd-annet-futatabi-x1.jpg",
+      "images/mcd/mcd-annet-futatabi-title.png"
+    ],
+    "cover": "images/mcd/mcd-annet-futatabi-box.jpg"
+  }
+]

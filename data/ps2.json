@@ -42,10 +42,11 @@
     "editorScore": 9.5,
     "is2D": true,
     "screenshots": [
-      "images/ps2/ps2-odin-sphere-1.jpg",
-      "images/ps2/ps2-odin-sphere-2.png"
+      "images/ps2/ps2-odin-sphere-s1.png",
+      "images/ps2/ps2-odin-sphere-x1.jpg",
+      "images/ps2/ps2-odin-sphere-title.png"
     ],
-    "coverShot": true
+    "cover": "images/ps2/ps2-odin-sphere-box.jpg"
   },
   {
     "id": "ps2-dragon-quest-viii",
@@ -90,10 +91,11 @@
     "editorScore": 9.4,
     "is2D": false,
     "screenshots": [
-      "images/ps2/ps2-dragon-quest-viii-1.png",
-      "images/ps2/ps2-dragon-quest-viii-2.jpg"
+      "images/ps2/ps2-dragon-quest-viii-s1.png",
+      "images/ps2/ps2-dragon-quest-viii-x1.png",
+      "images/ps2/ps2-dragon-quest-viii-title.png"
     ],
-    "coverShot": true
+    "cover": "images/ps2/ps2-dragon-quest-viii-box.jpg"
   },
   {
     "id": "ps2-final-fantasy-x",
@@ -138,10 +140,11 @@
     "editorScore": 9.3,
     "is2D": false,
     "screenshots": [
-      "images/ps2/ps2-final-fantasy-x-1.png",
-      "images/ps2/ps2-final-fantasy-x-2.jpg"
+      "images/ps2/ps2-final-fantasy-x-s1.png",
+      "images/ps2/ps2-final-fantasy-x-x1.png",
+      "images/ps2/ps2-final-fantasy-x-title.png"
     ],
-    "coverShot": true
+    "cover": "images/ps2/ps2-final-fantasy-x-box.jpg"
   },
   {
     "id": "ps2-disgaea",
@@ -151,7 +154,7 @@
     "year": 2003,
     "developer": "Nippon Ichi Software",
     "publisher": "Nippon Ichi Software / Atlus",
-    "genre": "策略角色扮演",
+    "genre": "战略角色扮演",
     "tags": [
       "像素点阵",
       "战棋",
@@ -186,9 +189,10 @@
     "editorScore": 9.2,
     "is2D": true,
     "screenshots": [
-      "images/ps2/ps2-disgaea-1.jpg"
+      "images/ps2/ps2-disgaea-s1.png",
+      "images/ps2/ps2-disgaea-title.png"
     ],
-    "coverShot": false
+    "cover": "images/ps2/ps2-disgaea-box.jpg"
   },
   {
     "id": "ps2-okami",
@@ -233,10 +237,11 @@
     "editorScore": 9.2,
     "is2D": false,
     "screenshots": [
-      "images/ps2/ps2-okami-1.jpg",
-      "images/ps2/ps2-okami-2.jpg"
+      "images/ps2/ps2-okami-s1.png",
+      "images/ps2/ps2-okami-x1.jpg",
+      "images/ps2/ps2-okami-title.png"
     ],
-    "coverShot": true
+    "cover": "images/ps2/ps2-okami-box.jpg"
   },
   {
     "id": "ps2-shadow-of-the-colossus",
@@ -281,10 +286,12 @@
     "editorScore": 9.1,
     "is2D": false,
     "screenshots": [
-      "images/ps2/ps2-shadow-of-the-colossus-1.jpg",
-      "images/ps2/ps2-shadow-of-the-colossus-2.jpg"
+      "images/ps2/ps2-shadow-of-the-colossus-s1.png",
+      "images/ps2/ps2-shadow-of-the-colossus-x1.jpg",
+      "images/ps2/ps2-shadow-of-the-colossus-x2.jpg",
+      "images/ps2/ps2-shadow-of-the-colossus-title.png"
     ],
-    "coverShot": true
+    "cover": "images/ps2/ps2-shadow-of-the-colossus-box.jpg"
   },
   {
     "id": "ps2-persona-4",
@@ -329,9 +336,252 @@
     "editorScore": 9.1,
     "is2D": false,
     "screenshots": [
-      "images/ps2/ps2-persona-4-1.jpg"
+      "images/ps2/ps2-persona-4-s1.png",
+      "images/ps2/ps2-persona-4-x1.jpg",
+      "images/ps2/ps2-persona-4-x2.jpg",
+      "images/ps2/ps2-persona-4-title.png"
     ],
-    "coverShot": false
+    "cover": "images/ps2/ps2-persona-4-box.jpg"
+  },
+  {
+    "id": "ps2-dragon-quest-v",
+    "title": "Dragon Quest V: Hand of the Heavenly Bride",
+    "titleZh": "勇者斗恶龙V 天空的新娘",
+    "titleJa": "ドラゴンクエストV 天空の花嫁",
+    "year": 2004,
+    "developer": "ArtePiazza / Matrix Software",
+    "publisher": "Square Enix",
+    "genre": "角色扮演",
+    "tags": [
+      "王道JRPG",
+      "三代人生",
+      "魔物伙伴"
+    ],
+    "players": "1",
+    "tagline": "父子三代的人生史诗，比安卡还是芙罗拉",
+    "description": "系列最动人的故事以全3D重生！从幼年随父亲巴帕斯旅行，到少年时代沦为奴隶，再到成家立业、儿女长大——《勇者斗恶龙V》讲述的是一个人跨越三十年的人生，其中那道著名的「比安卡还是芙罗拉」的求婚选择，让无数玩家纠结至今。\n\nPS2重制版以3D全视角重建了每一座城镇，并支持四人战斗，可收服的魔物伙伴种类繁多，史莱姆骑士、杀人机器……收集乐趣无穷。动人的剧情加上全新交响配乐，堪称系列重制的最佳范本。",
+    "highlights": [
+      "跨越三代人的人生叙事",
+      "经典「新娘选择」",
+      "可收服大量魔物伙伴",
+      "3D全视角重建城镇"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "34/40",
+        "quote": "经典名作的完美重制"
+      }
+    ],
+    "editorScore": 9.0,
+    "is2D": false,
+    "screenshots": [
+      "images/ps2/ps2-dragon-quest-v-s1.png",
+      "images/ps2/ps2-dragon-quest-v-x1.jpg",
+      "images/ps2/ps2-dragon-quest-v-x2.png",
+      "images/ps2/ps2-dragon-quest-v-title.png"
+    ],
+    "cover": "images/ps2/ps2-dragon-quest-v-box.jpg"
+  },
+  {
+    "id": "ps2-final-fantasy-xii",
+    "title": "Final Fantasy XII",
+    "titleZh": "最终幻想XII",
+    "titleJa": "ファイナルファンタジーXII",
+    "year": 2006,
+    "developer": "Square Enix",
+    "publisher": "Square Enix",
+    "genre": "角色扮演",
+    "tags": [
+      "伊瓦利斯",
+      "无缝战斗",
+      "政治剧"
+    ],
+    "players": "1",
+    "tagline": "伊瓦利斯的天空，Fami通满分史诗",
+    "description": "松野泰己构筑的「伊瓦利斯」世界，第一次在正统「最终幻想」中完整呈现。帝国侵略下的达尔玛斯卡王国、复仇的公主阿雪、梦想成为空贼的少年梵……这是一部有关战争与政治的成熟史诗，获得了Fami通40分满分的殊荣。\n\n无缝的「ADB」战斗让探索与战斗融为一体，「Gambit」系统可以像编程一样为队友设定行动逻辑；「执照盘」成长、规模庞大的狩猎任务，内容量惊人。宏伟的城市与壮丽的天空，至今看来依旧气派十足。",
+    "highlights": [
+      "Fami通40分满分",
+      "Gambit编程式队友AI",
+      "无缝ADB战斗",
+      "伊瓦利斯宏大世界观"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "40/40",
+        "quote": "满分评价，系列革新之作"
+      },
+      {
+        "source": "IGN",
+        "score": "9.5/10",
+        "quote": "大胆革新、内容丰富的史诗"
+      },
+      {
+        "source": "Metacritic",
+        "score": "92/100",
+        "quote": "获得世界性赞誉"
+      }
+    ],
+    "editorScore": 9.0,
+    "is2D": false,
+    "screenshots": [
+      "images/ps2/ps2-final-fantasy-xii-s1.png",
+      "images/ps2/ps2-final-fantasy-xii-x1.jpg",
+      "images/ps2/ps2-final-fantasy-xii-x2.jpg",
+      "images/ps2/ps2-final-fantasy-xii-x3.png",
+      "images/ps2/ps2-final-fantasy-xii-title.png"
+    ],
+    "cover": "images/ps2/ps2-final-fantasy-xii-box.jpg"
+  },
+  {
+    "id": "ps2-disgaea-2",
+    "title": "Disgaea 2: Cursed Memories",
+    "titleZh": "魔界战记2",
+    "titleJa": "魔界戦記ディスガイア2",
+    "year": 2006,
+    "developer": "Nippon Ichi Software",
+    "publisher": "Nippon Ichi Software / NIS America",
+    "genre": "战略角色扮演",
+    "tags": [
+      "像素点阵",
+      "战棋",
+      "刷刷刷"
+    ],
+    "players": "1",
+    "tagline": "人人变恶魔的魔界，热血少年的反击",
+    "description": "魔王佐德一句诅咒，让整个人间界的居民都变成了恶魔，唯独少年阿德尔还保持人形。为了打倒佐德，他半路「绑架」了魔王的女儿罗萨琳德——这就是《魔界战记2》荒诞又热血的开场。\n\n前作的叠罗汉投掷、几何板、道具界全部保留，又新增了「暗黑议会」重罪系统、合体技与可无限挑战的地下世界。Q版点阵比初代更加细腻，必杀技演出夸张度再上一层楼。剧情比初代更重视成长与家人主题，笑中带泪。想要一部可以刷上几百小时的战棋？就是它了。",
+    "highlights": [
+      "系统全面继承并强化初代",
+      "「重罪」与暗黑议会新玩法",
+      "阿德尔与罗萨琳德的欢喜冤家",
+      "养成深度依旧无底洞"
+    ],
+    "reviews": [
+      {
+        "source": "IGN",
+        "score": "8.5/10",
+        "quote": "在初代基础上全面进化的深度战棋"
+      },
+      {
+        "source": "GameSpot",
+        "score": "8.2/10",
+        "quote": "海量内容，系列粉丝必玩"
+      },
+      {
+        "source": "Metacritic",
+        "score": "84/100",
+        "quote": "获得普遍好评"
+      }
+    ],
+    "editorScore": 8.9,
+    "is2D": true,
+    "screenshots": [
+      "images/ps2/ps2-disgaea-2-s1.png",
+      "images/ps2/ps2-disgaea-2-x1.jpg",
+      "images/ps2/ps2-disgaea-2-x2.jpg",
+      "images/ps2/ps2-disgaea-2-title.png"
+    ],
+    "cover": "images/ps2/ps2-disgaea-2-box.jpg"
+  },
+  {
+    "id": "ps2-kingdom-hearts-ii",
+    "title": "Kingdom Hearts II",
+    "titleZh": "王国之心II",
+    "titleJa": "キングダム ハーツII",
+    "year": 2005,
+    "developer": "Square Enix",
+    "publisher": "Square Enix / Disney Interactive",
+    "genre": "动作角色扮演",
+    "tags": [
+      "迪士尼",
+      "动作RPG",
+      "Reaction指令"
+    ],
+    "players": "1",
+    "tagline": "更华丽更爽快，系列动作巅峰",
+    "description": "索拉从沉睡中醒来，与唐老鸭、高飞再次踏上旅程，而神秘组织「XIII机关」已在暗处等待。《王国之心II》在前作基础上全面进化，被许多玩家认为是整个系列的巅峰。\n\n全新的「Reaction指令」让战斗演出极具电影感，变身「驱动形态」进一步提升了动作爽快度；加勒比海盗、花木兰、狮子王等新世界轮番登场。剧情揭开了大量谜团，罗克萨斯的序章更是令人难以忘怀。作为一款3D动作RPG，它的手感今天依然顶尖。",
+    "highlights": [
+      "Reaction指令电影化战斗",
+      "驱动形态大幅强化爽快感",
+      "大量新迪士尼世界",
+      "罗克萨斯序章令人难忘"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "39/40",
+        "quote": "动作与演出全面进化的大作"
+      },
+      {
+        "source": "GameSpot",
+        "score": "8.7/10",
+        "quote": "更快、更华丽的续作"
+      },
+      {
+        "source": "Metacritic",
+        "score": "87/100",
+        "quote": "获得普遍好评"
+      }
+    ],
+    "editorScore": 8.9,
+    "is2D": false,
+    "screenshots": [
+      "images/ps2/ps2-kingdom-hearts-ii-s1.png",
+      "images/ps2/ps2-kingdom-hearts-ii-x1.png",
+      "images/ps2/ps2-kingdom-hearts-ii-x2.png",
+      "images/ps2/ps2-kingdom-hearts-ii-title.png"
+    ],
+    "cover": "images/ps2/ps2-kingdom-hearts-ii-box.jpg"
+  },
+  {
+    "id": "ps2-persona-3",
+    "title": "Shin Megami Tensei: Persona 3",
+    "titleZh": "女神异闻录3",
+    "titleJa": "ペルソナ3",
+    "year": 2006,
+    "developer": "Atlus",
+    "publisher": "Atlus",
+    "genre": "角色扮演",
+    "tags": [
+      "校园日常",
+      "迷宫探索",
+      "影时间"
+    ],
+    "players": "1",
+    "tagline": "午夜零点的影时间，青春与死亡",
+    "description": "每晚零点，世界会出现常人无法察觉的「影时间」，校园化作巨塔「塔尔塔罗斯」。转学生与「特别课外活动部」的伙伴们以召唤器指向自己的太阳穴，召唤出Persona迎战暗影——这个震撼的设定，让《女神异闻录3》成为系列转型的里程碑。\n\n白天上课、参加社团、建立「社群」羁绊，夜晚攀登塔尔塔罗斯，日常与战斗的循环让人欲罢不能。目黑将司的嘻哈风配乐时尚感十足，而关于死亡与珍惜当下的主题，在结局处给人以巨大的冲击。",
+    "highlights": [
+      "影时间与塔尔塔罗斯设定",
+      "日常社群+迷宫RPG",
+      "嘻哈风格时尚配乐",
+      "关于生与死的深刻主题"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "33/40",
+        "quote": "日常与战斗的循环令人着迷"
+      },
+      {
+        "source": "IGN",
+        "score": "8.3/10",
+        "quote": "风格独特、主题深刻的RPG"
+      },
+      {
+        "source": "Metacritic",
+        "score": "86/100",
+        "quote": "获得普遍好评"
+      }
+    ],
+    "editorScore": 8.9,
+    "is2D": false,
+    "screenshots": [
+      "images/ps2/ps2-persona-3-s1.png",
+      "images/ps2/ps2-persona-3-x1.png",
+      "images/ps2/ps2-persona-3-title.png"
+    ],
+    "cover": "images/ps2/ps2-persona-3-box.jpg"
   },
   {
     "id": "ps2-guilty-gear-xx",
@@ -376,9 +626,109 @@
     "editorScore": 8.8,
     "is2D": true,
     "screenshots": [
-      "images/ps2/ps2-guilty-gear-xx-1.jpg"
+      "images/ps2/ps2-guilty-gear-xx-s1.png",
+      "images/ps2/ps2-guilty-gear-xx-x1.jpg",
+      "images/ps2/ps2-guilty-gear-xx-title.png"
     ],
-    "coverShot": false
+    "cover": "images/ps2/ps2-guilty-gear-xx-box.jpg"
+  },
+  {
+    "id": "ps2-kingdom-hearts",
+    "title": "Kingdom Hearts",
+    "titleZh": "王国之心",
+    "titleJa": "キングダム ハーツ",
+    "year": 2002,
+    "developer": "Square",
+    "publisher": "Square / Disney Interactive",
+    "genre": "动作角色扮演",
+    "tags": [
+      "迪士尼",
+      "动作RPG",
+      "野村哲也"
+    ],
+    "players": "1",
+    "tagline": "迪士尼遇上最终幻想，梦幻联动",
+    "description": "谁能想到，米老鼠、唐老鸭、高飞会与克劳德、莉诺雅一起出现在同一款游戏里？Square与迪士尼的跨界合作，造就了PS2上最令人惊喜的动作RPG。少年索拉手持钥匙剑，穿梭于爱丽丝仙境、泰山丛林、万圣节小镇……在一个个迪士尼世界中对抗「无心者」。\n\n即时动作战斗爽快易上手，唐老鸭和高飞作为队友各有性格。下村阳子的配乐、宇多田光的主题曲《光》，让这段关于「心」与友情的冒险格外动人，也开启了一个影响深远的系列。",
+    "highlights": [
+      "迪士尼与FF角色梦幻共演",
+      "即时动作战斗爽快",
+      "多个迪士尼世界探索",
+      "宇多田光主题曲《光》"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "36/40",
+        "quote": "跨界合作的完美成功"
+      },
+      {
+        "source": "IGN",
+        "score": "9/10",
+        "quote": "迪士尼魔法与RPG深度的结合"
+      },
+      {
+        "source": "Metacritic",
+        "score": "85/100",
+        "quote": "获得普遍好评"
+      }
+    ],
+    "editorScore": 8.8,
+    "is2D": false,
+    "screenshots": [
+      "images/ps2/ps2-kingdom-hearts-s1.png",
+      "images/ps2/ps2-kingdom-hearts-x1.png",
+      "images/ps2/ps2-kingdom-hearts-title.png"
+    ],
+    "cover": "images/ps2/ps2-kingdom-hearts-box.jpg"
+  },
+  {
+    "id": "ps2-tales-of-the-abyss",
+    "title": "Tales of the Abyss",
+    "titleZh": "深渊传说",
+    "titleJa": "テイルズ オブ ジ アビス",
+    "year": 2005,
+    "developer": "Namco Tales Studio",
+    "publisher": "Namco",
+    "genre": "角色扮演",
+    "tags": [
+      "3D传说",
+      "FR-LMBS",
+      "成长物语"
+    ],
+    "players": "1",
+    "tagline": "传说十周年，生而有意义的故事",
+    "description": "作为「传说」系列十周年纪念作，《深渊传说》讲述了一个关于「自我存在」的故事。被「预言」支配的世界里，傲慢任性的贵族少年路克因一场意外闯下大祸，被所有人指责后剪去长发、决心改变——这段成长被誉为系列最动人的主角塑造之一。\n\n战斗采用「FR-LMBS」，可在战场上自由奔跑，连段与秘奥义演出华丽；「FOF变化」让术技随地形属性进化。BUMP OF CHICKEN的主题曲《Karma》一响，相信很多人都会想起路克那句「我会改变的」。",
+    "highlights": [
+      "路克的成长被誉为系列最佳",
+      "FR-LMBS自由跑动战斗",
+      "预言与自我存在的主题",
+      "BUMP OF CHICKEN主题曲"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "36/40",
+        "quote": "系列十周年的集大成之作"
+      },
+      {
+        "source": "IGN",
+        "score": "8.3/10",
+        "quote": "出色的战斗与动人的剧情"
+      },
+      {
+        "source": "Metacritic",
+        "score": "78/100",
+        "quote": "获得普遍好评"
+      }
+    ],
+    "editorScore": 8.7,
+    "is2D": false,
+    "screenshots": [
+      "images/ps2/ps2-tales-of-the-abyss-s1.png",
+      "images/ps2/ps2-tales-of-the-abyss-x1.jpg",
+      "images/ps2/ps2-tales-of-the-abyss-title.png"
+    ],
+    "cover": "images/ps2/ps2-tales-of-the-abyss-box.jpg"
   },
   {
     "id": "ps2-grimgrimoire",
@@ -423,10 +773,11 @@
     "editorScore": 8.6,
     "is2D": true,
     "screenshots": [
-      "images/ps2/ps2-grimgrimoire-1.png",
-      "images/ps2/ps2-grimgrimoire-2.jpg"
+      "images/ps2/ps2-grimgrimoire-s1.png",
+      "images/ps2/ps2-grimgrimoire-x1.png",
+      "images/ps2/ps2-grimgrimoire-title.png"
     ],
-    "coverShot": true
+    "cover": "images/ps2/ps2-grimgrimoire-box.jpg"
   },
   {
     "id": "ps2-phantom-brave",
@@ -436,7 +787,7 @@
     "year": 2004,
     "developer": "Nippon Ichi Software",
     "publisher": "Nippon Ichi Software / NIS America",
-    "genre": "策略角色扮演",
+    "genre": "战略角色扮演",
     "tags": [
       "像素点阵",
       "无格战棋",
@@ -471,10 +822,56 @@
     "editorScore": 8.6,
     "is2D": true,
     "screenshots": [
-      "images/ps2/ps2-phantom-brave-1.jpg",
-      "images/ps2/ps2-phantom-brave-2.jpg"
+      "images/ps2/ps2-phantom-brave-s1.png",
+      "images/ps2/ps2-phantom-brave-x1.jpg",
+      "images/ps2/ps2-phantom-brave-x2.jpg",
+      "images/ps2/ps2-phantom-brave-title.png"
     ],
-    "coverShot": true
+    "cover": "images/ps2/ps2-phantom-brave-box.jpg"
+  },
+  {
+    "id": "ps2-street-fighter-anniversary-collection",
+    "title": "Street Fighter Anniversary Collection",
+    "titleZh": "街头霸王周年纪念合集",
+    "titleJa": "",
+    "year": 2004,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genre": "格斗",
+    "tags": [
+      "像素点阵",
+      "街机移植",
+      "3rd Strike"
+    ],
+    "players": "1-2",
+    "tagline": "街霸II全版本+3rd Strike神作",
+    "description": "这张光盘里装着格斗游戏的两座高峰：一边是《超级街头霸王II X》在内的五个《街霸II》版本可自由混搭的「Hyper SF2」，另一边是被奉为2D格斗巅峰之作的《街头霸王III 3rd Strike》。\n\n3rd Strike的格挡系统（Blocking）让攻防瞬间逆转，梅原大吾那场传奇的「Evo Moment 37」正是出自此作。CPS3基板上流畅到极致的点阵动画，至今仍被视为2D格斗美术的天花板。不论你是怀旧的街霸II老玩家，还是想体验格斗游戏深度的新人，这都是必收藏的一张。",
+    "highlights": [
+      "收录街霸II五个版本",
+      "附带神作《街霸III 3rd Strike》",
+      "CPS3顶级点阵动画",
+      "格挡系统奠定竞技深度"
+    ],
+    "reviews": [
+      {
+        "source": "IGN",
+        "score": "8.5/10",
+        "quote": "两部经典合二为一的超值收藏"
+      },
+      {
+        "source": "GameSpot",
+        "score": "8.1/10",
+        "quote": "格斗迷不可错过的合集"
+      }
+    ],
+    "editorScore": 8.6,
+    "is2D": true,
+    "screenshots": [
+      "images/ps2/ps2-street-fighter-anniversary-collection-s1.png",
+      "images/ps2/ps2-street-fighter-anniversary-collection-s2.png",
+      "images/ps2/ps2-street-fighter-anniversary-collection-title.png"
+    ],
+    "cover": "images/ps2/ps2-street-fighter-anniversary-collection-box.jpg"
   },
   {
     "id": "ps2-tales-of-destiny",
@@ -504,19 +901,66 @@
         "source": "Fami通",
         "score": "32/40",
         "quote": "重制全面且到位，战斗系统大幅进化"
-      },
-      {
-        "source": "日本游戏大赏",
-        "score": "2006未来部门获奖",
-        "quote": "作为备受期待的作品获得CESA未来部门奖"
       }
     ],
     "editorScore": 8.5,
     "is2D": true,
     "screenshots": [
-      "images/ps2/ps2-tales-of-destiny-1.jpg"
+      "images/ps2/ps2-tales-of-destiny-s1.png",
+      "images/ps2/ps2-tales-of-destiny-x2.jpg",
+      "images/ps2/ps2-tales-of-destiny-x3.jpg"
     ],
-    "coverShot": true
+    "cover": ""
+  },
+  {
+    "id": "ps2-suikoden-v",
+    "title": "Suikoden V",
+    "titleZh": "幻想水浒传V",
+    "titleJa": "幻想水滸伝V",
+    "year": 2006,
+    "developer": "Konami",
+    "publisher": "Konami",
+    "genre": "角色扮演",
+    "tags": [
+      "108星",
+      "群像剧",
+      "宫廷政治"
+    ],
+    "players": "1",
+    "tagline": "108星重聚，王子的复国之战",
+    "description": "女王国法雷纳发生政变，年轻的王子在亲人接连遭难后被迫流亡，从此开始集结108宿星、夺回国家的漫长战争。《幻想水浒传V》回归了系列初代与二代的精髓，被老玩家视为「回到正轨」的一作。\n\n宫廷权谋剧情层层推进，人物群像刻画细腻；六人回合制战斗、阵形系统、大规模战争模式以及搜集108星建设根据地的乐趣一应俱全。虽然读盘稍长，但对于喜欢厚重剧情JRPG的玩家，它是PS2上最值得重温的系列作之一。",
+    "highlights": [
+      "收集108宿星建设根据地",
+      "宫廷政治群像剧",
+      "六人战斗与战争模式",
+      "回归系列初心的经典之作"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "32/40",
+        "quote": "剧情厚重，系列精髓回归"
+      },
+      {
+        "source": "IGN",
+        "score": "8.2/10",
+        "quote": "系列回归正轨的出色作品"
+      },
+      {
+        "source": "GameSpot",
+        "score": "8.1/10",
+        "quote": "剧情与角色塑造出色"
+      }
+    ],
+    "editorScore": 8.5,
+    "is2D": false,
+    "screenshots": [
+      "images/ps2/ps2-suikoden-v-s1.png",
+      "images/ps2/ps2-suikoden-v-x1.jpg",
+      "images/ps2/ps2-suikoden-v-x2.jpg",
+      "images/ps2/ps2-suikoden-v-title.png"
+    ],
+    "cover": "images/ps2/ps2-suikoden-v-box.jpg"
   },
   {
     "id": "ps2-la-pucelle-tactics",
@@ -526,7 +970,7 @@
     "year": 2002,
     "developer": "Nippon Ichi Software",
     "publisher": "Nippon Ichi Software / Mastiff",
-    "genre": "策略角色扮演",
+    "genre": "战略角色扮演",
     "tags": [
       "像素点阵",
       "战棋",
@@ -561,10 +1005,11 @@
     "editorScore": 8.4,
     "is2D": true,
     "screenshots": [
-      "images/ps2/ps2-la-pucelle-tactics-1.gif",
-      "images/ps2/ps2-la-pucelle-tactics-2.png"
+      "images/ps2/ps2-la-pucelle-tactics-s1.png",
+      "images/ps2/ps2-la-pucelle-tactics-x1.png",
+      "images/ps2/ps2-la-pucelle-tactics-title.png"
     ],
-    "coverShot": true
+    "cover": "images/ps2/ps2-la-pucelle-tactics-box.jpg"
   },
   {
     "id": "ps2-gradius-v",
@@ -574,7 +1019,7 @@
     "year": 2004,
     "developer": "Treasure",
     "publisher": "Konami",
-    "genre": "横版射击",
+    "genre": "射击",
     "tags": [
       "2.5D",
       "弹幕",
@@ -609,10 +1054,52 @@
     "editorScore": 8.4,
     "is2D": true,
     "screenshots": [
-      "images/ps2/ps2-gradius-v-1.jpg",
-      "images/ps2/ps2-gradius-v-2.jpg"
+      "images/ps2/ps2-gradius-v-s1.png",
+      "images/ps2/ps2-gradius-v-s2.png",
+      "images/ps2/ps2-gradius-v-s3.png",
+      "images/ps2/ps2-gradius-v-x1.jpg",
+      "images/ps2/ps2-gradius-v-title.png"
     ],
-    "coverShot": true
+    "cover": "images/ps2/ps2-gradius-v-box.jpg"
+  },
+  {
+    "id": "ps2-tales-of-destiny-2",
+    "title": "Tales of Destiny 2",
+    "titleZh": "宿命传说2",
+    "titleJa": "テイルズ オブ デスティニー2",
+    "year": 2002,
+    "developer": "Wolf Team / Telenet Japan",
+    "publisher": "Namco",
+    "genre": "角色扮演",
+    "tags": [
+      "2D点阵",
+      "连段战斗",
+      "时空旅行"
+    ],
+    "players": "1",
+    "tagline": "英雄之子的时空之旅，PS2传说首秀",
+    "description": "《宿命传说》十八年后，斯坦与鲁蒂的儿子卡伊尔梦想成为英雄。某天，少女莉阿拉从天而降，一场跨越时空、改写历史的冒险由此展开。作为PS2上的第一部「传说」，本作以2D点阵角色配合3D背景，呈现出了当年令人惊叹的细节。\n\n战斗系统引入「SP」体力槽，连段节奏更讲究；技能派生与「晶术」组合让高手能打出华丽连段。更重要的是，前作角色的回归和关于「英雄」的主题，让老玩家感动万分。游戏只在亚洲发售，但凭借出色的品质成为系列销量最高作之一。",
+    "highlights": [
+      "2D点阵角色+3D背景",
+      "SP制连段战斗",
+      "前作角色回归",
+      "探讨「何为英雄」的剧本"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "33/40",
+        "quote": "系列进化之作，战斗与剧情都很出色"
+      }
+    ],
+    "editorScore": 8.4,
+    "is2D": true,
+    "screenshots": [
+      "images/ps2/ps2-tales-of-destiny-2-s1.png",
+      "images/ps2/ps2-tales-of-destiny-2-x1.jpg",
+      "images/ps2/ps2-tales-of-destiny-2-x2.jpg"
+    ],
+    "cover": "images/ps2/ps2-tales-of-destiny-2-box.jpg"
   },
   {
     "id": "ps2-metal-slug-anthology",
@@ -622,7 +1109,7 @@
     "year": 2007,
     "developer": "SNK Playmore",
     "publisher": "SNK Playmore",
-    "genre": "横版射击",
+    "genre": "射击",
     "tags": [
       "像素点阵",
       "合集",
@@ -652,10 +1139,210 @@
     "editorScore": 8.3,
     "is2D": true,
     "screenshots": [
-      "images/ps2/ps2-metal-slug-anthology-1.png",
-      "images/ps2/ps2-metal-slug-anthology-2.jpg"
+      "images/ps2/ps2-metal-slug-anthology-s1.png",
+      "images/ps2/ps2-metal-slug-anthology-x1.png",
+      "images/ps2/ps2-metal-slug-anthology-title.png"
     ],
-    "coverShot": true
+    "cover": "images/ps2/ps2-metal-slug-anthology-box.jpg"
+  },
+  {
+    "id": "ps2-tales-of-rebirth",
+    "title": "Tales of Rebirth",
+    "titleZh": "重生传说",
+    "titleJa": "テイルズ オブ リバース",
+    "year": 2004,
+    "developer": "Namco Tales Studio",
+    "publisher": "Namco",
+    "genre": "角色扮演",
+    "tags": [
+      "2D点阵",
+      "三线战斗",
+      "种族冲突"
+    ],
+    "players": "1",
+    "tagline": "三线战场，种族之间的沉重之歌",
+    "description": "由专门负责2D「传说」系列的Team Destiny打造，《重生传说》是PS2上最后一部2D点阵主线作品。故事描绘人类「休玛」与兽人「加夫拉斯」之间的种族仇恨：当国王驾崩、「月之力」暴走，青年维格为了救出被冰封的少女克莱尔踏上旅程。\n\n战斗采用三条线的「3-Line LMBS」，可以在纵深三条线之间切换闪避，配合「Rush槽」管理，打起来既有策略又爽快。精致的2D点阵与猪股睦美的人设相得益彰；剧本直面歧视与偏见的主题，在系列中格外深刻。",
+    "highlights": [
+      "系列最后的2D点阵主线作",
+      "三线LMBS战斗系统",
+      "直面种族歧视的深刻剧本",
+      "猪股睦美人设"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "32/40",
+        "quote": "战斗系统新颖，剧本主题深刻"
+      }
+    ],
+    "editorScore": 8.3,
+    "is2D": true,
+    "screenshots": [
+      "images/ps2/ps2-tales-of-rebirth-x1.jpg",
+      "images/ps2/ps2-tales-of-rebirth-x2.jpg",
+      "images/ps2/ps2-tales-of-rebirth-x3.jpg",
+      "images/ps2/ps2-tales-of-rebirth-x4.jpg"
+    ],
+    "cover": "images/ps2/ps2-tales-of-rebirth-box.jpg"
+  },
+  {
+    "id": "ps2-growlanser-generations",
+    "title": "Growlanser Generations",
+    "titleZh": "梦幻骑士 II & III",
+    "titleJa": "グローランサーII / III",
+    "year": 2004,
+    "developer": "Career Soft",
+    "publisher": "Working Designs",
+    "genre": "战略角色扮演",
+    "tags": [
+      "2D点阵",
+      "即时战术",
+      "漆原智志"
+    ],
+    "players": "1",
+    "tagline": "两部梦幻骑士，一盒豪华满足",
+    "description": "Atlus旗下Career Soft制作的「梦幻骑士」系列，是《梦幻模拟战》团队在PS2上的精神续作。北美的Working Designs把《II：正义之心》与《III：双重黑暗》打包成这套豪华合集，一盒就能玩上上百小时。\n\n系列招牌是「即时指令」战术战斗：给每个角色下达指令后即时推进，范围攻击与魔法吟唱时间都需要精打细算。2D点阵角色与漆原智志的华丽立绘相得益彰，多结局与好感度系统大幅提升重玩价值。喜欢《梦幻模拟战》的老玩家，这就是你要找的那份感动。",
+    "highlights": [
+      "收录II、III两部正作",
+      "即时指令战术战斗",
+      "漆原智志华丽人设",
+      "多结局与好感度系统"
+    ],
+    "reviews": [
+      {
+        "source": "Metacritic",
+        "score": "81/100",
+        "quote": "两部作品分量十足，战术RPG爱好者的福音"
+      }
+    ],
+    "editorScore": 8.2,
+    "is2D": true,
+    "screenshots": [
+      "images/ps2/ps2-growlanser-generations-s1.png",
+      "images/ps2/ps2-growlanser-generations-s2.png",
+      "images/ps2/ps2-growlanser-generations-title.png"
+    ],
+    "cover": "images/ps2/ps2-growlanser-generations-box.jpg"
+  },
+  {
+    "id": "ps2-summon-night-3",
+    "title": "Summon Night 3",
+    "titleZh": "召唤之夜3",
+    "titleJa": "サモンナイト3",
+    "year": 2003,
+    "developer": "Flight-Plan",
+    "publisher": "Banpresto",
+    "genre": "战略角色扮演",
+    "tags": [
+      "2D点阵",
+      "战棋",
+      "师生羁绊"
+    ],
+    "players": "1",
+    "tagline": "孤岛上的老师，与学生们的约定",
+    "description": "Banpresto与Flight-Plan合作的「召唤之夜」系列，以清新的2D点阵战棋和「夜话」羁绊系统深受日本玩家喜爱。第三作把舞台搬到一座漂流的孤岛：主角是一位家庭教师，在海难后与学生一起被困在岛上，与岛上四个世界的召唤兽住民结下羁绊。\n\n白天战斗、夜晚与伙伴促膝夜谈，好感度决定结局走向；可选男女主角和四位不同的学生，重玩价值极高。飯塚武史的人设温柔清新，故事讲述「不放弃任何人」的温暖信念。可惜从未推出英文版，却是系列人气最高的一作。",
+    "highlights": [
+      "可选男女主角和四位学生",
+      "夜话羁绊系统决定结局",
+      "召唤兽与2D点阵战棋",
+      "系列人气最高作之一"
+    ],
+    "reviews": [],
+    "editorScore": 8.2,
+    "is2D": true,
+    "screenshots": [
+      "images/ps2/ps2-summon-night-3-x1.jpg",
+      "images/ps2/ps2-summon-night-3-x2.jpg",
+      "images/ps2/ps2-summon-night-3-x3.jpg"
+    ],
+    "cover": "images/ps2/ps2-summon-night-3-box.jpg"
+  },
+  {
+    "id": "ps2-mega-man-anniversary-collection",
+    "title": "Mega Man Anniversary Collection",
+    "titleZh": "洛克人周年纪念合集",
+    "titleJa": "",
+    "year": 2004,
+    "developer": "Atomic Planet Entertainment",
+    "publisher": "Capcom",
+    "genre": "平台跳跃",
+    "tags": [
+      "像素点阵",
+      "合集",
+      "高难度"
+    ],
+    "players": "1",
+    "tagline": "洛克人1到8代，一张盘全收录",
+    "description": "红白机时代的蓝色小英雄，承载着无数人的童年记忆。《洛克人周年纪念合集》收录了原版洛克人1到8代，外加两部街机格斗作品《力量之战》，从8位机到32位机的演变一目了然。\n\n挑选BOSS顺序、获取对方武器、利用克制关系逐个击破——这套经典设计至今仍是横版动作的教科书。Air Man、Quick Man等经典关卡的难度依旧令人咬牙切齿，但打通那一刻的成就感无与伦比。合集还加入了重新编曲的音乐和解锁要素，是回味经典的最佳选择。",
+    "highlights": [
+      "收录洛克人1-8代正作",
+      "附赠两部街机《力量之战》",
+      "武器克制的经典设计",
+      "重编曲音乐与解锁要素"
+    ],
+    "reviews": [
+      {
+        "source": "IGN",
+        "score": "8.5/10",
+        "quote": "经典作品的超值合集"
+      },
+      {
+        "source": "GameSpot",
+        "score": "8.4/10",
+        "quote": "收录内容丰富，洛克人迷必备"
+      },
+      {
+        "source": "Metacritic",
+        "score": "81/100",
+        "quote": "获得普遍好评"
+      }
+    ],
+    "editorScore": 8.2,
+    "is2D": true,
+    "screenshots": [
+      "images/ps2/ps2-mega-man-anniversary-collection-s1.png",
+      "images/ps2/ps2-mega-man-anniversary-collection-title.png"
+    ],
+    "cover": "images/ps2/ps2-mega-man-anniversary-collection-box.jpg"
+  },
+  {
+    "id": "ps2-kof-98-ultimate-match",
+    "title": "The King of Fighters '98 Ultimate Match",
+    "titleZh": "拳皇98终极之战",
+    "titleJa": "ザ・キング・オブ・ファイターズ'98 アルティメットマッチ",
+    "year": 2008,
+    "developer": "SNK Playmore",
+    "publisher": "SNK Playmore",
+    "genre": "格斗",
+    "tags": [
+      "像素点阵",
+      "街机移植",
+      "梦幻对决"
+    ],
+    "players": "1-2",
+    "tagline": "KOF最强一代，终极完全版",
+    "description": "《拳皇98》被誉为系列平衡性最好的一代，也是无数中国玩家在街机厅里的青春。十年后，SNK Playmore推出「终极之战」：在原作基础上追加了大量历代角色，草薙京、八神庵、特瑞、不知火舞……历代人气角色全部到齐。\n\n新增「Ultimate」模式，可以自由选择ADVANCED或EXTRA系统；各个角色都经过重新调整，还加入了新背景与隐藏头目。原汁原味的Neo Geo点阵配上更丰富的内容，至今仍是练习KOF基本功的最佳教材。",
+    "highlights": [
+      "追加大量历代角色",
+      "可选ADVANCED/EXTRA系统",
+      "重新调整的角色平衡",
+      "拳皇迷心中的「最强一代」"
+    ],
+    "reviews": [
+      {
+        "source": "Metacritic",
+        "score": "73/100",
+        "quote": "内容丰富的经典完全版"
+      }
+    ],
+    "editorScore": 8.1,
+    "is2D": true,
+    "screenshots": [
+      "images/ps2/ps2-kof-98-ultimate-match-s1.png",
+      "images/ps2/ps2-kof-98-ultimate-match-x1.png",
+      "images/ps2/ps2-kof-98-ultimate-match-title.png"
+    ],
+    "cover": "images/ps2/ps2-kof-98-ultimate-match-box.jpg"
   },
   {
     "id": "ps2-street-fighter-alpha-anthology",
@@ -695,10 +1382,11 @@
     "editorScore": 8.0,
     "is2D": true,
     "screenshots": [
-      "images/ps2/ps2-street-fighter-alpha-anthology-1.png",
-      "images/ps2/ps2-street-fighter-alpha-anthology-2.jpg"
+      "images/ps2/ps2-street-fighter-alpha-anthology-s1.png",
+      "images/ps2/ps2-street-fighter-alpha-anthology-x1.png",
+      "images/ps2/ps2-street-fighter-alpha-anthology-title.png"
     ],
-    "coverShot": true
+    "cover": "images/ps2/ps2-street-fighter-alpha-anthology-box.jpg"
   },
   {
     "id": "ps2-atelier-iris",
@@ -743,10 +1431,89 @@
     "editorScore": 8.0,
     "is2D": true,
     "screenshots": [
-      "images/ps2/ps2-atelier-iris-1.jpg",
-      "images/ps2/ps2-atelier-iris-2.jpg"
+      "images/ps2/ps2-atelier-iris-s1.png",
+      "images/ps2/ps2-atelier-iris-x1.jpg",
+      "images/ps2/ps2-atelier-iris-title.png"
     ],
-    "coverShot": true
+    "cover": "images/ps2/ps2-atelier-iris-box.jpg"
+  },
+  {
+    "id": "ps2-makai-kingdom",
+    "title": "Makai Kingdom: Chronicles of the Sacred Tome",
+    "titleZh": "魔界王国",
+    "titleJa": "ファントム・キングダム",
+    "year": 2005,
+    "developer": "Nippon Ichi Software",
+    "publisher": "Nippon Ichi Software / NIS America",
+    "genre": "战略角色扮演",
+    "tags": [
+      "像素点阵",
+      "无格战棋",
+      "召唤"
+    ],
+    "players": "1",
+    "tagline": "魔王变成书，在书里重建魔界",
+    "description": "自称「宇宙最强魔王」的泽塔，因为一时冲动把自己变成了一本书！为了恢复肉身，他只能靠「圣典」里的预言重建魔界——日本一的又一部疯狂战棋就此开场。\n\n本作沿用《幻想勇者》的无格自由移动，并加入了「召唤」机制：把部下召唤到地图上作战，还能召唤坦克、建筑和各种载具，在随机生成的地图里展开大规模混战。系统复杂度堪称系列之最，但摸透之后的爽快感无与伦比。毒舌魔王泽塔的吐槽更是全程笑点。",
+    "highlights": [
+      "无格自由移动+载具召唤",
+      "可在地图上建造设施",
+      "随机地图带来无限重玩",
+      "魔王泽塔全程毒舌吐槽"
+    ],
+    "reviews": [
+      {
+        "source": "Metacritic",
+        "score": "77/100",
+        "quote": "系统极其深厚，日系战棋爱好者会爱上它"
+      }
+    ],
+    "editorScore": 8.0,
+    "is2D": true,
+    "screenshots": [
+      "images/ps2/ps2-makai-kingdom-s1.png",
+      "images/ps2/ps2-makai-kingdom-x1.jpg",
+      "images/ps2/ps2-makai-kingdom-x2.jpg",
+      "images/ps2/ps2-makai-kingdom-title.png"
+    ],
+    "cover": "images/ps2/ps2-makai-kingdom-box.jpg"
+  },
+  {
+    "id": "ps2-samurai-shodown-anthology",
+    "title": "Samurai Shodown Anthology",
+    "titleZh": "侍魂合集",
+    "titleJa": "サムライスピリッツ 六番勝負",
+    "year": 2008,
+    "developer": "SNK Playmore",
+    "publisher": "SNK Playmore",
+    "genre": "格斗",
+    "tags": [
+      "像素点阵",
+      "合集",
+      "剑戟格斗"
+    ],
+    "players": "1-2",
+    "tagline": "一刀定胜负，六部侍魂齐聚",
+    "description": "「一刀入魂」——侍魂系列的魅力，就在于那一记重斩打掉半管血的紧张感。《侍魂合集》收录了初代到《侍魂VI》（天下一剑客传）共六部作品，霸王丸、娜可露露、橘右京、牙神幻十郎……从街机厅到家用机，这些身影伴随了几代格斗迷。\n\n浓郁的和风美术、水墨般的场景、裁判黑子的身影、武器被打飞的戏剧性瞬间，SNK的点阵画师把江户时代的刀光剑影刻画得淋漓尽致。对喜欢2D格斗与和风题材的玩家来说，这张光盘就是一部剑戟格斗的编年史。",
+    "highlights": [
+      "收录系列六部作品",
+      "重斩一击的紧张对决",
+      "浓郁的和风点阵美术",
+      "娜可露露等人气角色"
+    ],
+    "reviews": [
+      {
+        "source": "Metacritic",
+        "score": "80/100",
+        "quote": "全面的侍魂合集，粉丝值得入手"
+      }
+    ],
+    "editorScore": 8.0,
+    "is2D": true,
+    "screenshots": [
+      "images/ps2/ps2-samurai-shodown-anthology-s1.png",
+      "images/ps2/ps2-samurai-shodown-anthology-title.png"
+    ],
+    "cover": "images/ps2/ps2-samurai-shodown-anthology-box.jpg"
   },
   {
     "id": "ps2-mega-man-x-collection",
@@ -756,7 +1523,7 @@
     "year": 2006,
     "developer": "Capcom",
     "publisher": "Capcom",
-    "genre": "横版动作",
+    "genre": "平台跳跃",
     "tags": [
       "像素点阵",
       "合集",
@@ -791,10 +1558,59 @@
     "editorScore": 7.9,
     "is2D": true,
     "screenshots": [
-      "images/ps2/ps2-mega-man-x-collection-1.png",
-      "images/ps2/ps2-mega-man-x-collection-2.jpg"
+      "images/ps2/ps2-mega-man-x-collection-s1.png",
+      "images/ps2/ps2-mega-man-x-collection-x1.png",
+      "images/ps2/ps2-mega-man-x-collection-title.png"
     ],
-    "coverShot": true
+    "cover": "images/ps2/ps2-mega-man-x-collection-box.jpg"
+  },
+  {
+    "id": "ps2-soul-nomad",
+    "title": "Soul Nomad & the World Eaters",
+    "titleZh": "灵魂游民与吞噬世界者",
+    "titleJa": "ソウルクレイドル 世界を喰らう者",
+    "year": 2007,
+    "developer": "Nippon Ichi Software",
+    "publisher": "Nippon Ichi Software / NIS America",
+    "genre": "战略角色扮演",
+    "tags": [
+      "像素点阵",
+      "战棋",
+      "黑暗路线"
+    ],
+    "players": "1",
+    "tagline": "体内住着魔王，你选择光明还是毁灭",
+    "description": "村里的少年（或少女）在成年礼上获得一把神秘的剑，却发现剑中封印着三百年前毁灭世界的魔王「盖格」，而且他打算借你的身体重生……日本一用一部风格独特的战棋，讲述了一个有关选择的故事。\n\n本作的战斗以「小队」为单位：在「房间」阵型里配置角色，整队移动作战，策略思路与传统战棋截然不同。除了正义路线，还有一条可以选择与魔王同流合污、毁灭世界的「恶人路线」，日本一一贯的黑色幽默在这里发挥到极致。",
+    "highlights": [
+      "小队制「房间」阵型战斗",
+      "正义与毁灭双路线",
+      "魔王盖格的毒舌吐槽",
+      "日本一招牌点阵与配乐"
+    ],
+    "reviews": [
+      {
+        "source": "GameSpot",
+        "score": "8/10",
+        "quote": "独特的小队战斗与出色的剧本"
+      },
+      {
+        "source": "IGN",
+        "score": "7.5/10",
+        "quote": "风格鲜明的战略RPG"
+      },
+      {
+        "source": "Metacritic",
+        "score": "73/100",
+        "quote": "评价中上"
+      }
+    ],
+    "editorScore": 7.9,
+    "is2D": true,
+    "screenshots": [
+      "images/ps2/ps2-soul-nomad-s1.png",
+      "images/ps2/ps2-soul-nomad-title.png"
+    ],
+    "cover": "images/ps2/ps2-soul-nomad-box.jpg"
   },
   {
     "id": "ps2-ar-tonelico",
@@ -839,9 +1655,191 @@
     "editorScore": 7.8,
     "is2D": true,
     "screenshots": [
-      "images/ps2/ps2-ar-tonelico-1.jpg",
-      "images/ps2/ps2-ar-tonelico-2.jpg"
+      "images/ps2/ps2-ar-tonelico-s1.png",
+      "images/ps2/ps2-ar-tonelico-x1.jpg",
+      "images/ps2/ps2-ar-tonelico-title.png"
     ],
-    "coverShot": true
+    "cover": "images/ps2/ps2-ar-tonelico-box.jpg"
+  },
+  {
+    "id": "ps2-mana-khemia",
+    "title": "Mana Khemia: Alchemists of Al-Revis",
+    "titleZh": "玛娜炼金学园",
+    "titleJa": "マナケミア ～学園の錬金術士たち～",
+    "year": 2007,
+    "developer": "Gust",
+    "publisher": "Gust (NA: NIS America)",
+    "genre": "角色扮演",
+    "tags": [
+      "2D点阵",
+      "魔法学院",
+      "炼金"
+    ],
+    "players": "1",
+    "tagline": "炼金学院的青春日常，2D点阵满分",
+    "description": "Gust把「炼金工作室」的玩法搬进了一所魔法学院：少年维恩带着会说话的猫「Sulpher」入学阿尔·雷比斯学园，每天上课、做作业、参加社团，用炼金术解决同学们的各种麻烦。\n\n本作坚持2D点阵角色叠加在精致背景上，人物表情生动活泼。「成长书」系统将炼金合成与角色成长绑定，战斗中前后卫轮换的「支援攻击」节奏轻快。没有拯救世界的沉重负担，更多是青春与友情的温暖，非常适合喜欢慢节奏日系RPG的玩家。",
+    "highlights": [
+      "学院日常+炼金合成",
+      "成长书将合成与养成结合",
+      "前后卫支援攻击战斗",
+      "温暖治愈的青春故事"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "31/40",
+        "quote": "学园氛围浓厚，炼金与成长结合巧妙"
+      },
+      {
+        "source": "GameSpot",
+        "score": "7.5/10",
+        "quote": "迷人的角色与扎实的系统"
+      },
+      {
+        "source": "Metacritic",
+        "score": "69/100",
+        "quote": "评价中等"
+      }
+    ],
+    "editorScore": 7.8,
+    "is2D": true,
+    "screenshots": [
+      "images/ps2/ps2-mana-khemia-s1.png",
+      "images/ps2/ps2-mana-khemia-x1.png",
+      "images/ps2/ps2-mana-khemia-title.png"
+    ],
+    "cover": "images/ps2/ps2-mana-khemia-box.jpg"
+  },
+  {
+    "id": "ps2-ar-tonelico-2",
+    "title": "Ar tonelico II: Melody of Metafalica",
+    "titleZh": "魔塔大陆2",
+    "titleJa": "アルトネリコ2 世界に響く少女たちの創造詩",
+    "year": 2007,
+    "developer": "Gust",
+    "publisher": "Banpresto (NA: NIS America)",
+    "genre": "角色扮演",
+    "tags": [
+      "2D点阵",
+      "诗魔法",
+      "双诗姬"
+    ],
+    "players": "1",
+    "tagline": "双诗姬的创造诗，歌声再次响彻",
+    "description": "第二座塔「萨斯盖亚」正在崩溃，骑士克洛亚与两位性格迥异的诗姬——温柔的露卡和高傲的科洛娜——必须合力咏唱传说中的「创造诗」，才能拯救这片大地。\n\n前作的诗魔法系统全面升级，加入了配合节奏按键的「和谐」战斗，诗姬的情绪会直接影响魔法威力。「精神潜行」依旧是本作最大看点，两位女主角的内心世界各有千秋。2D点阵角色更加精致，原创歌曲数量和质量都再上一层，是喜欢日系音乐RPG玩家不能错过的作品。",
+    "highlights": [
+      "双诗姬双线剧情",
+      "节奏感更强的诗魔法战斗",
+      "精神潜行深入角色内心",
+      "原创歌曲质量极高"
+    ],
+    "reviews": [
+      {
+        "source": "IGN",
+        "score": "8.4/10",
+        "quote": "音乐与战斗系统大幅进步的续作"
+      },
+      {
+        "source": "GameRankings",
+        "score": "73%",
+        "quote": "媒体综合评价中上"
+      }
+    ],
+    "editorScore": 7.8,
+    "is2D": true,
+    "screenshots": [
+      "images/ps2/ps2-ar-tonelico-2-s1.png",
+      "images/ps2/ps2-ar-tonelico-2-x1.jpg",
+      "images/ps2/ps2-ar-tonelico-2-x2.jpg",
+      "images/ps2/ps2-ar-tonelico-2-title.png"
+    ],
+    "cover": "images/ps2/ps2-ar-tonelico-2-box.jpg"
+  },
+  {
+    "id": "ps2-arcana-heart",
+    "title": "Arcana Heart",
+    "titleZh": "圣灵心传说",
+    "titleJa": "アルカナハート",
+    "year": 2007,
+    "developer": "Examu",
+    "publisher": "AQ Interactive (NA: Atlus)",
+    "genre": "格斗",
+    "tags": [
+      "像素点阵",
+      "全女性角色",
+      "空中连段"
+    ],
+    "players": "1-2",
+    "tagline": "全少女阵容，空中飞舞的2D格斗",
+    "description": "Examu打造的《圣灵心传说》，是一部全员少女的2D格斗游戏。每位角色在战前选择一位「圣灵（Arcana）」作为守护神，圣灵决定了必杀技与特殊能力，组合多达数百种。\n\n本作最大特色是「Homing」追踪冲刺：一键飞向对手，空中连段与立体机动让对战节奏极快，与传统街霸式格斗手感截然不同。精致的高解析度点阵配上萌系画风，在PS2末期的2D格斗中独树一帜，至今仍有活跃的玩家社群。",
+    "highlights": [
+      "全少女角色阵容",
+      "圣灵系统组合多样",
+      "Homing追踪冲刺立体机动",
+      "精致的高清点阵"
+    ],
+    "reviews": [
+      {
+        "source": "Metacritic",
+        "score": "77/100",
+        "quote": "独特的空中系统让人眼前一亮"
+      }
+    ],
+    "editorScore": 7.7,
+    "is2D": true,
+    "screenshots": [
+      "images/ps2/ps2-arcana-heart-s1.png",
+      "images/ps2/ps2-arcana-heart-x1.jpg",
+      "images/ps2/ps2-arcana-heart-title.png"
+    ],
+    "cover": "images/ps2/ps2-arcana-heart-box.jpg"
+  },
+  {
+    "id": "ps2-atelier-iris-2",
+    "title": "Atelier Iris 2: The Azoth of Destiny",
+    "titleZh": "伊利斯的工作室2",
+    "titleJa": "イリスのアトリエ エターナルマナ2",
+    "year": 2005,
+    "developer": "Gust",
+    "publisher": "Gust (NA: NIS America)",
+    "genre": "角色扮演",
+    "tags": [
+      "2D点阵",
+      "炼金",
+      "双主角"
+    ],
+    "players": "1",
+    "tagline": "双线并行的2D炼金童话",
+    "description": "前作大受好评后，Gust继续以全2D点阵打造续作。漂浮之岛「埃尔德鲁」上的少女维欧拉与地上世界的少年菲利克斯分隔两地，通过「Azoth之剑」彼此联系，双主角两条故事线交替推进。\n\n本作把战斗改为「行动表」式的回合制，可以中断敌人行动，策略性提升不少；炼金合成依旧是乐趣核心。手绘感浓厚的场景、小巧可爱的角色点阵，加上Gust Sound Team的唯美配乐，延续了系列的治愈气质。",
+    "highlights": [
+      "全2D点阵画面",
+      "双主角两条故事线",
+      "可打断敌人的行动表战斗",
+      "延续系列治愈风格"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "33/40",
+        "quote": "系统进化明显，双主角叙事新颖"
+      },
+      {
+        "source": "IGN",
+        "score": "7.5/10",
+        "quote": "2D美术依旧迷人"
+      },
+      {
+        "source": "GameSpot",
+        "score": "7/10",
+        "quote": "画面美丽，节奏稍显平淡"
+      }
+    ],
+    "editorScore": 7.6,
+    "is2D": true,
+    "screenshots": [
+      "images/ps2/ps2-atelier-iris-2-s1.png",
+      "images/ps2/ps2-atelier-iris-2-title.png"
+    ],
+    "cover": "images/ps2/ps2-atelier-iris-2-box.jpg"
   }
 ]

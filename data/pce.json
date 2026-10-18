@@ -1,0 +1,1436 @@
+[
+  {
+    "id": "pce-dracula-x-rondo-of-blood",
+    "title": "Castlevania: Rondo of Blood",
+    "titleZh": "恶魔城X 血之轮回",
+    "titleJa": "悪魔城ドラキュラX 血の輪廻",
+    "year": 1993,
+    "developer": "Konami",
+    "publisher": "Konami",
+    "genre": "动作",
+    "tags": [
+      "像素",
+      "哥特",
+      "CD-ROM²"
+    ],
+    "players": "1",
+    "tagline": "PCE像素动作的巅峰，恶魔城系列的“血统之源”",
+    "description": "如果你只为PC Engine买一张SUPER CD-ROM²，那必须是它！里希特·贝尔蒙特挥舞圣鞭杀进德古拉城，每一帧像素都透着科乐美当年的匠心：燃烧的村庄、摇晃的大桥、从背景里扑出来的巨龙，CD音源版《血之泪》一响，鸡皮疙瘩瞬间起立。\n\n本作并非一条道走到黑——关卡里藏着岔路和隐藏出口，不同路线通往不同Boss；营救被掳的少女还能解锁可爱又凶残的玛丽亚，用小鸟和小猫把吸血鬼揍得满地找牙。“道具暴走”大招第一次登场，演出震撼。\n\n它是《月下夜想曲》的直接前传，也是古典恶魔城手感的终极形态。今天在PSP、PS4合集里都能玩到，没有任何理由错过。",
+    "highlights": [
+      "分支路线与隐藏关卡，重玩价值极高",
+      "可解锁角色玛丽亚，玩法风格迥异",
+      "CD音源编曲与动画过场，气势磅礴",
+      "《月下夜想曲》的直接前作"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "28/40",
+        "quote": "关卡设计与演出出色，但难度偏高"
+      },
+      {
+        "source": "Edge",
+        "score": "8/10",
+        "quote": "画面与音乐堪称PC Engine上的顶级水准"
+      },
+      {
+        "source": "IGN",
+        "score": "9/10",
+        "quote": "（Wii VC版）经典恶魔城的集大成之作，必玩"
+      }
+    ],
+    "editorScore": 9.8,
+    "is2D": true,
+    "screenshots": [
+      "images/pce/pce-dracula-x-rondo-of-blood-s1.png",
+      "images/pce/pce-dracula-x-rondo-of-blood-x1.jpg",
+      "images/pce/pce-dracula-x-rondo-of-blood-x3.jpg",
+      "images/pce/pce-dracula-x-rondo-of-blood-title.png"
+    ],
+    "cover": "images/pce/pce-dracula-x-rondo-of-blood-box.jpg"
+  },
+  {
+    "id": "pce-tengai-makyou-ii-manjimaru",
+    "title": "Far East of Eden II: Manji Maru",
+    "titleZh": "天外魔境II 卍丸",
+    "titleJa": "天外魔境II 卍MARU",
+    "year": 1992,
+    "developer": "Red Company / Hudson Soft",
+    "publisher": "Hudson Soft",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "和风",
+      "CD-ROM²",
+      "大作"
+    ],
+    "players": "1",
+    "tagline": "PCE的“国民RPG”，和风奇想的终极绘卷",
+    "description": "当年日本玩家说“为了卍丸买PCE”，一点都不夸张！红公司与哈德森倾尽全力，打造出一个怪诞又热血的“伪日本”——火之一族卍丸挺身对抗根之一族，从京都到九州一路伐魔，每座城镇都有自己的奇风异俗和荒诞剧情。\n\n超大容量的CD-ROM带来了海量语音与动画过场，久石让操刀配乐，桝田省治负责剧本，阵容之豪华放在今天也让人咋舌。战斗是经典回合制，但敌人造型脑洞极大，Boss登场时专属的动画演出至今仍被津津乐道。\n\n画面是细腻扎实的90年代像素风，城镇NPC的小动作都很有趣。可惜从未正式出过中英文版，但这份和风浪漫值得每一位JRPG爱好者去体验。",
+    "highlights": [
+      "久石让配乐、桝田省治编剧的豪华阵容",
+      "大量语音与动画过场，CD时代的标杆",
+      "怪诞幽默的和风“伪日本”世界观",
+      "Boss专属登场演出令人难忘"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "32/40",
+        "quote": "演出与剧情都极具魄力，荣获金殿堂"
+      }
+    ],
+    "editorScore": 9.6,
+    "is2D": true,
+    "screenshots": [
+      "images/pce/pce-tengai-makyou-ii-manjimaru-s1.png",
+      "images/pce/pce-tengai-makyou-ii-manjimaru-x1.png",
+      "images/pce/pce-tengai-makyou-ii-manjimaru-title.png"
+    ],
+    "cover": "images/pce/pce-tengai-makyou-ii-manjimaru-box.jpg"
+  },
+  {
+    "id": "pce-ys-i-ii",
+    "title": "Ys I & II",
+    "titleZh": "伊苏 I·II",
+    "titleJa": "イースI・II",
+    "year": 1989,
+    "developer": "Hudson Soft / Alfa System",
+    "publisher": "Hudson Soft",
+    "genre": "动作角色扮演",
+    "tags": [
+      "像素",
+      "撞击战斗",
+      "CD-ROM²"
+    ],
+    "players": "1",
+    "tagline": "CD-ROM²的第一款杀手软件，亚特鲁的传奇起点",
+    "description": "1989年，当亚特鲁的红发出现在电视上，伴随着CD音轨奏响的《Feena》，无数玩家意识到“CD游戏时代”真的来了。哈德森把Falcom的两部名作合二为一，加入动画过场与全语音剧情，一张盘玩完完整的伊苏传说。\n\n“撞击式”战斗简单到只需要推方向键——从敌人侧面斜着撞上去就能砍杀，节奏轻快，爽感十足。米奈亚的小镇、达姆之塔的层层迷宫、飞翔在空中岛屿伊苏上的冒险，每一段都紧凑而难忘。\n\n古代祐三与米光亮的音乐在CD音源下熠熠生辉，至今仍是游戏音乐史上的传奇。想了解“动作RPG”为何让人上瘾，从这里开始最合适。",
+    "highlights": [
+      "两部作品合一，剧情完整连贯",
+      "独特的“撞击战斗”，上手即爽",
+      "CD音源编曲的传奇配乐",
+      "动画过场与语音的先驱之作"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "35/40",
+        "quote": "CD-ROM带来的演出震撼，动作RPG的典范"
+      },
+      {
+        "source": "EGM",
+        "score": "35/40",
+        "quote": "年度最佳RPG，音乐与剧情无可挑剔"
+      }
+    ],
+    "editorScore": 9.5,
+    "is2D": true,
+    "screenshots": [
+      "images/pce/pce-ys-i-ii-x1.png",
+      "images/pce/pce-ys-i-ii-x2.png",
+      "images/pce/pce-ys-i-ii-title.png"
+    ],
+    "cover": "images/pce/pce-ys-i-ii-box.jpg"
+  },
+  {
+    "id": "pce-lords-of-thunder",
+    "title": "Lords of Thunder",
+    "titleZh": "雷霆领主",
+    "titleJa": "ウィンズ・オブ・サンダー",
+    "year": 1993,
+    "developer": "Red Company / Hudson Soft",
+    "publisher": "Hudson Soft",
+    "genre": "射击",
+    "tags": [
+      "像素",
+      "横版射击",
+      "重金属"
+    ],
+    "players": "1",
+    "tagline": "重金属吉他轰鸣下的奇幻横版射击",
+    "description": "谁说射击游戏只能是宇宙飞船？《雷霆领主》让你穿上铠甲、骑上魔法之力，在剑与魔法的奇幻大陆上横冲直撞！开场即可自由选择关卡顺序，四种元素铠甲各有截然不同的攻击方式，关卡间还能用金币在商店购买强化。\n\n最让人热血沸腾的是那一整张重金属摇滚原声——失真吉他配合满屏的火焰与爆炸，节奏感爆棚。敌人设计充满奇幻色彩，巨龙、石像、骷髅骑士轮番登场，Boss战一个比一个夸张。\n\n难度相对温和，新手也能找到乐趣，高手则可挑战高难度与高分。它和《雷电之门》并称TurboDuo双璧，是PCE射击游戏库里最该被记住的名字之一。",
+    "highlights": [
+      "四种元素铠甲，攻击风格各异",
+      "自由选关与商店强化系统",
+      "全程重金属摇滚原声",
+      "奇幻题材射击，Boss设计夸张华丽"
+    ],
+    "reviews": [
+      {
+        "source": "EGM",
+        "score": "34/40",
+        "quote": "音乐与画面火力全开，TurboDuo必备"
+      },
+      {
+        "source": "CVG",
+        "score": "93/100",
+        "quote": "极具冲击力的射击杰作"
+      }
+    ],
+    "editorScore": 9.3,
+    "is2D": true,
+    "screenshots": [
+      "images/pce/pce-lords-of-thunder-s1.png",
+      "images/pce/pce-lords-of-thunder-x1.png",
+      "images/pce/pce-lords-of-thunder-title.png"
+    ],
+    "cover": "images/pce/pce-lords-of-thunder-box.jpg"
+  },
+  {
+    "id": "pce-gate-of-thunder",
+    "title": "Gate of Thunder",
+    "titleZh": "雷电之门",
+    "titleJa": "ゲート オブ サンダー",
+    "year": 1992,
+    "developer": "Red Company / Hudson Soft",
+    "publisher": "Hudson Soft",
+    "genre": "射击",
+    "tags": [
+      "像素",
+      "横版射击",
+      "SUPER CD-ROM²"
+    ],
+    "players": "1",
+    "tagline": "SUPER CD-ROM²的开路先锋，速度与摇滚",
+    "description": "1992年，SUPER CD-ROM²刚刚问世，《雷电之门》就用一场高速横版射击证明了新规格的实力。多层视差卷轴背景飞速流动，三色武器自由切换，左右两颗浮游炮还能调转方向，攻防兼备。\n\n关卡节奏极快，从海上舰队战到巨型要塞内部，场景变化目不暇接；重摇滚CD原声一路狂飙，让人手心冒汗。Boss体型巨大且攻击花样多，打起来既紧张又过瘾。\n\n它常被拿来和MD的《雷霆力量》比较，而它毫不逊色。美版TurboDuo主机还把它作为同捆游戏，许多北美玩家的PCE回忆从这里开始。",
+    "highlights": [
+      "多层视差卷轴，速度感惊人",
+      "三色武器与可调转浮游炮",
+      "高能摇滚CD原声",
+      "TurboDuo同捆名作"
+    ],
+    "reviews": [
+      {
+        "source": "EGM",
+        "score": "34/40",
+        "quote": "速度与火力俱佳的顶级射击"
+      },
+      {
+        "source": "Fami通",
+        "score": "27/40",
+        "quote": "画面与音乐表现出色"
+      }
+    ],
+    "editorScore": 9.0,
+    "is2D": true,
+    "screenshots": [
+      "images/pce/pce-gate-of-thunder-s1.png",
+      "images/pce/pce-gate-of-thunder-x2.png",
+      "images/pce/pce-gate-of-thunder-title.png"
+    ],
+    "cover": "images/pce/pce-gate-of-thunder-box.jpg"
+  },
+  {
+    "id": "pce-spriggan",
+    "title": "Seirei Senshi Spriggan",
+    "titleZh": "精灵战士斯普利刚",
+    "titleJa": "精霊戦士スプリガン",
+    "year": 1991,
+    "developer": "Compile",
+    "publisher": "Naxat Soft",
+    "genre": "射击",
+    "tags": [
+      "像素",
+      "纵版射击",
+      "Compile"
+    ],
+    "players": "1",
+    "tagline": "Compile纵版射击的绝技，四色精灵自由组合",
+    "description": "Compile出品，必属精品！《精灵战士斯普利刚》让你驾驶人形机甲，在魔法与机械交织的世界中纵向推进。核心是“精灵球”系统：红、蓝、绿、黄四色精灵可以任意组合三颗，组合方式不同，射击形态就完全不同，研究搭配本身就是一大乐趣。\n\n画面细腻得惊人，城堡、森林、云层的像素描绘层次丰富，满屏爆炸与弹幕却几乎不拖慢。CD音源配乐恢弘大气，日式动画风格的过场也很有当年OVA的味道。\n\n它是Compile射击巅峰期的代表作之一，与《GUNHED》《Aleste》系列一脉相承。喜欢纵版STG的朋友，这是必须收进收藏夹的一张盘。",
+    "highlights": [
+      "四色精灵组合，射击形态千变万化",
+      "精细的像素背景与华丽爆炸",
+      "OVA风格动画过场",
+      "Compile射击黄金期代表作"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "25/40",
+        "quote": "系统有趣，画面完成度高"
+      },
+      {
+        "source": "GameFan",
+        "score": "319/400",
+        "quote": "细节丰富的硬派纵版射击"
+      }
+    ],
+    "editorScore": 8.9,
+    "is2D": true,
+    "screenshots": [
+      "images/pce/pce-spriggan-s1.png",
+      "images/pce/pce-spriggan-x1.jpg",
+      "images/pce/pce-spriggan-x2.jpg",
+      "images/pce/pce-spriggan-title.png"
+    ],
+    "cover": "images/pce/pce-spriggan-box.jpg"
+  },
+  {
+    "id": "pce-soldier-blade",
+    "title": "Soldier Blade",
+    "titleZh": "士兵之刃",
+    "titleJa": "ソルジャーブレイド",
+    "year": 1992,
+    "developer": "Hudson Soft",
+    "publisher": "Hudson Soft",
+    "genre": "射击",
+    "tags": [
+      "像素",
+      "纵版射击",
+      "卡带"
+    ],
+    "players": "1",
+    "tagline": "“Star Soldier”系列最终章，卡带射击的完成形",
+    "description": "哈德森“Caravan”射击系列的集大成者！《士兵之刃》只用一张HuCARD，就塞进了绚烂的纵版射击：三种主武器可以叠加升级，满级时更能释放强力的“蓄力大招”，打法爽快又讲究。\n\n关卡多变，从宇宙空间到地面基地，敌人编队紧凑、节奏明快，非常适合挑战限时的“Caravan模式”冲高分。音乐动感十足，画面在卡带规格下几乎榨干了PCE机能。\n\n直到今天它仍是Switch Online、PCE mini等平台上的人气射击作，上手门槛低、可玩深度高，是推荐给射击新手入门的绝佳选择。",
+    "highlights": [
+      "三色武器叠加升级与蓄力大招",
+      "收录2分钟/5分钟Caravan冲分模式",
+      "节奏明快，难度曲线友好",
+      "HuCARD机能的极限表现"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "27/40",
+        "quote": "操作手感爽快，系列最高完成度"
+      },
+      {
+        "source": "IGN",
+        "score": "7.5/10",
+        "quote": "（VC版）扎实流畅的经典射击"
+      },
+      {
+        "source": "Nintendo Life",
+        "score": "9/10",
+        "quote": "PCE上最精致的纵版射击之一"
+      }
+    ],
+    "editorScore": 8.8,
+    "is2D": true,
+    "screenshots": [
+      "images/pce/pce-soldier-blade-s1.png",
+      "images/pce/pce-soldier-blade-s2.png",
+      "images/pce/pce-soldier-blade-s3.png",
+      "images/pce/pce-soldier-blade-title.png"
+    ],
+    "cover": "images/pce/pce-soldier-blade-box.jpg"
+  },
+  {
+    "id": "pce-bomberman-94",
+    "title": "Bomberman '94",
+    "titleZh": "炸弹人'94",
+    "titleJa": "ボンバーマン'94",
+    "year": 1993,
+    "developer": "Hudson Soft",
+    "publisher": "Hudson Soft",
+    "genre": "动作",
+    "tags": [
+      "像素",
+      "多人",
+      "派对"
+    ],
+    "players": "1-5",
+    "tagline": "五人对战的终极派对，炸弹人系列巅峰",
+    "description": "说到PCE聚会神器，《炸弹人’94》当仁不让！借助多人分接器，最多五个人同屏对炸，客厅瞬间变成战场——放炸弹、踢炸弹、扔炸弹，最后一秒的绝境反杀永远是最欢乐的时刻。\n\n本作首次加入可骑乘的“路易”袋鼠，不同颜色的路易拥有冲刺、跳跃、踢炸弹等特殊能力，让对战策略更丰富。单人模式也很用心，五大世界风格迥异，Boss战充满创意。\n\n画面圆润可爱，色彩鲜艳，是炸弹人像素美术的高峰。直到今天，许多老玩家仍认为这是整个系列对战平衡做得最好的一作。",
+    "highlights": [
+      "最多5人同屏对战",
+      "首次登场的骑乘伙伴“路易”",
+      "丰富的单人冒险模式",
+      "系列最受好评的对战平衡"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "25/40",
+        "quote": "多人对战乐趣无穷，系列稳定之作"
+      }
+    ],
+    "editorScore": 8.8,
+    "is2D": true,
+    "screenshots": [
+      "images/pce/pce-bomberman-94-s1.png",
+      "images/pce/pce-bomberman-94-s2.png",
+      "images/pce/pce-bomberman-94-title.png"
+    ],
+    "cover": "images/pce/pce-bomberman-94-box.jpg"
+  },
+  {
+    "id": "pce-neutopia",
+    "title": "Neutopia",
+    "titleZh": "纽特皮亚",
+    "titleJa": "ニュートピア",
+    "year": 1989,
+    "developer": "Hudson Soft",
+    "publisher": "Hudson Soft",
+    "genre": "动作角色扮演",
+    "tags": [
+      "像素",
+      "俯视角",
+      "迷宫探索"
+    ],
+    "players": "1",
+    "tagline": "PCE上的“塞尔达”，八颗宝珠的俯视角冒险",
+    "description": "《纽特皮亚》常被戏称为“PCE版塞尔达”，但它自有一份独特的魅力。勇者杰泽贝尔要深入四大世界，夺回被恶魔掳走的八颗神圣宝珠——俯视角的地图、地下迷宫、炸墙找暗道、烧树找入口，熟悉的探险快感一应俱全。\n\n画面比同期FC游戏更细腻，色彩更明快，草原、沙漠、火山、冰原各有风情。剑与火焰杖的组合让战斗富有变化，迷宫解谜难度适中，探索每一个角落都有回报。\n\n对于喜欢俯视角2D动作RPG的玩家来说，它就是一本温故知新的教科书：节奏紧凑、不拖泥带水，周末一两天就能通关，却回味悠长。",
+    "highlights": [
+      "经典俯视角迷宫探索与解谜",
+      "四大风格迥异的世界",
+      "火焰杖与剑的攻击组合",
+      "流程紧凑，适合一口气通关"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "27/40",
+        "quote": "致敬塞尔达却做得扎实有趣"
+      },
+      {
+        "source": "IGN",
+        "score": "7.5/10",
+        "quote": "（VC版）质朴而令人满足的冒险"
+      }
+    ],
+    "editorScore": 8.6,
+    "is2D": true,
+    "screenshots": [
+      "images/pce/pce-neutopia-s1.png",
+      "images/pce/pce-neutopia-s2.png",
+      "images/pce/pce-neutopia-s3.png",
+      "images/pce/pce-neutopia-title.png"
+    ],
+    "cover": "images/pce/pce-neutopia-box.jpg"
+  },
+  {
+    "id": "pce-neutopia-ii",
+    "title": "Neutopia II",
+    "titleZh": "纽特皮亚II",
+    "titleJa": "ニュートピアII",
+    "year": 1991,
+    "developer": "Hudson Soft",
+    "publisher": "Hudson Soft",
+    "genre": "动作角色扮演",
+    "tags": [
+      "像素",
+      "俯视角",
+      "迷宫探索"
+    ],
+    "players": "1",
+    "tagline": "画面与体量全面升级的俯视角佳作",
+    "description": "前作勇者杰泽贝尔失踪了，他的儿子背起剑踏上寻父之旅——《纽特皮亚II》在初代基础上全面进化：地图更大、城镇更多、NPC对话更丰富，迷宫设计也更加精巧。\n\n像素画面明显升级，角色动作更流畅，场景细节更讲究；道具与魔法种类增加，解谜也更有层次。音乐延续了哈德森一贯的明快旋律，冒险气氛十足。\n\n如果你喜欢初代，续作只会让你更满意；如果你是第一次接触，直接从二代入门也毫无压力。这是PCE上最纯正的“塞尔达式”体验之一。",
+    "highlights": [
+      "更大的世界与更多城镇",
+      "画面与动作全面升级",
+      "迷宫解谜层次更丰富",
+      "父子两代的寻亲冒险"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "27/40",
+        "quote": "全面强化的正统续作"
+      },
+      {
+        "source": "EGM",
+        "score": "28/40",
+        "quote": "扎实耐玩的俯视角动作冒险"
+      }
+    ],
+    "editorScore": 8.6,
+    "is2D": true,
+    "screenshots": [
+      "images/pce/pce-neutopia-ii-s1.png",
+      "images/pce/pce-neutopia-ii-s2.png",
+      "images/pce/pce-neutopia-ii-s3.png",
+      "images/pce/pce-neutopia-ii-title.png"
+    ],
+    "cover": "images/pce/pce-neutopia-ii-box.jpg"
+  },
+  {
+    "id": "pce-ys-iv",
+    "title": "Ys IV: The Dawn of Ys",
+    "titleZh": "伊苏IV 伊苏的黎明",
+    "titleJa": "イースIV",
+    "year": 1993,
+    "developer": "Hudson Soft",
+    "publisher": "Hudson Soft",
+    "genre": "动作角色扮演",
+    "tags": [
+      "像素",
+      "撞击战斗",
+      "SUPER CD-ROM²"
+    ],
+    "players": "1",
+    "tagline": "哈德森版伊苏IV，CD时代最华丽的撞击冒险",
+    "description": "同样是《伊苏IV》，SFC与PCE各有一版，而哈德森亲手打造的PCE“伊苏的黎明”拥有完全不同的剧情与迷宫。亚特鲁来到塞尔塞塔，再一次用经典的撞击战斗披荆斩棘，伙伴们的语音演出和动画过场让故事格外动人。\n\n地图广阔，迷宫设计更复杂，Boss战紧张刺激；SUPER CD-ROM²的大容量让音乐与演出都上了一个台阶。同伴系统与剧情深度都比前作有长足进步。\n\n可惜它从未正式在海外发售，却在日本玩家心中占有一席之地。后来Falcom的《塞尔塞塔的树海》重新讲述了这段故事，而这份最初的PCE版依旧值得一品。",
+    "highlights": [
+      "哈德森原创剧情的独家版本",
+      "全语音过场与动画演出",
+      "经典撞击战斗再进化",
+      "CD音源的伊苏名曲新编"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "29/40",
+        "quote": "演出华丽，伊苏系列的正统魅力"
+      }
+    ],
+    "editorScore": 8.6,
+    "is2D": true,
+    "screenshots": [
+      "images/pce/pce-ys-iv-s1.png",
+      "images/pce/pce-ys-iv-s2.png",
+      "images/pce/pce-ys-iv-title.png"
+    ],
+    "cover": "images/pce/pce-ys-iv-box.jpg"
+  },
+  {
+    "id": "pce-tengai-makyou-kabuki",
+    "title": "Far East of Eden: Kabuki Den",
+    "titleZh": "天外魔境 风云歌舞伎传",
+    "titleJa": "天外魔境 風雲カブキ伝",
+    "year": 1993,
+    "developer": "Red Company / Hudson Soft",
+    "publisher": "Hudson Soft",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "和风",
+      "搞笑"
+    ],
+    "players": "1",
+    "tagline": "人气角色歌舞伎当主角的爆笑外传",
+    "description": "《天外魔境》系列里人气最高的角色是谁？当然是那位张扬自恋的歌舞伎团十郎！在这部外传里，他终于独挑大梁，横跨大洋来到“西洋”，对抗复活的大门教。\n\n本作把系列的无厘头风格推到极致：荒唐的敌人、搞笑的台词、夸张的演出，几乎每走一步都能笑出声。战斗系统加入了“见得”（亮相）等特色指令，配合豪华声优阵容，戏剧感十足。\n\n像素画面鲜艳华丽，西洋与和风混搭的世界观别具一格。它是天外魔境粉丝的必修外传，也是轻松愉快的JRPG佳品。",
+    "highlights": [
+      "系列人气角色歌舞伎担纲主角",
+      "无厘头搞笑剧情一以贯之",
+      "和洋混搭的奇异世界观",
+      "豪华声优与动画演出"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "33/40",
+        "quote": "演出与幽默感出众，荣获金殿堂"
+      },
+      {
+        "source": "PC Engine FAN",
+        "score": "25.1/30",
+        "quote": "读者评价极高的人气外传"
+      }
+    ],
+    "editorScore": 8.5,
+    "is2D": true,
+    "screenshots": [
+      "images/pce/pce-tengai-makyou-kabuki-s1.png",
+      "images/pce/pce-tengai-makyou-kabuki-title.png"
+    ],
+    "cover": "images/pce/pce-tengai-makyou-kabuki-box.jpg"
+  },
+  {
+    "id": "pce-tengai-makyou-ziria",
+    "title": "Far East of Eden: Ziria",
+    "titleZh": "天外魔境 自来也",
+    "titleJa": "天外魔境 ZIRIA",
+    "year": 1989,
+    "developer": "Red Company / Hudson Soft",
+    "publisher": "Hudson Soft",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "和风",
+      "CD-ROM²"
+    ],
+    "players": "1",
+    "tagline": "史上第一款CD-ROM RPG，和风奇想的起点",
+    "description": "1989年，《天外魔境 自来也》成为第一款以CD-ROM为媒介的家用RPG。故事取材于江户时代的读本，忍者自来也率领伙伴对抗大门教，冒险舞台是一个被想象力“魔改”过的奇幻日本。\n\n它用CD的容量塞进了语音、动画和高品质音乐，坂本龙一担任配乐，豪华程度让当时的玩家目瞪口呆。传统回合制战斗朴实耐玩，剧情里却处处是夸张又幽默的桥段。\n\n作为系列开山之作，它的系统在今天看来略显古朴，但开创性的地位无可替代。想追溯“天外魔境”传奇的起点，这一作必不可少。",
+    "highlights": [
+      "史上首款CD-ROM RPG",
+      "坂本龙一担纲配乐",
+      "江户读本风格的奇想和风世界",
+      "开创天外魔境系列传奇"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "30/40",
+        "quote": "CD-ROM的演出令人耳目一新，荣获银殿堂"
+      },
+      {
+        "source": "PC Engine FAN",
+        "score": "25.67/30",
+        "quote": "读者给予高度评价"
+      }
+    ],
+    "editorScore": 8.5,
+    "is2D": true,
+    "screenshots": [
+      "images/pce/pce-tengai-makyou-ziria-s1.png",
+      "images/pce/pce-tengai-makyou-ziria-x1.png",
+      "images/pce/pce-tengai-makyou-ziria-title.png"
+    ],
+    "cover": "images/pce/pce-tengai-makyou-ziria-box.jpg"
+  },
+  {
+    "id": "pce-devils-crush",
+    "title": "Devil's Crush",
+    "titleZh": "恶魔弹珠台",
+    "titleJa": "デビルクラッシュ",
+    "year": 1990,
+    "developer": "Compile",
+    "publisher": "Naxat Soft",
+    "genre": "弹珠台",
+    "tags": [
+      "像素",
+      "弹珠台",
+      "暗黑"
+    ],
+    "players": "1-2",
+    "tagline": "骷髅与魔女的暗黑弹珠台，百玩不厌",
+    "description": "谁能想到，一款弹珠台游戏能拿下Fami通金殿堂？《恶魔弹珠台》把弹珠台搬进了一个充满骷髅、恶魔和魔女的暗黑世界：三层纵向连通的台面上，怪物在爬行、骷髅在列阵，中央的女巫脸孔会随着你的击打逐渐变成可怖的蛇怪。\n\n弹珠物理手感出色，隐藏奖励关多达六个，每一关都有独特的敌人和机关；配合Compile一贯动感的音乐，越打越上头。\n\n画风暗黑却精致，玩法简单却极富深度。它不是RPG，却是PCE玩家最常提起的“隐藏神作”之一，任何时候拿起来玩两局都很开心。",
+    "highlights": [
+      "三层连通的大型暗黑台面",
+      "六个隐藏奖励关卡",
+      "出色的弹珠物理手感",
+      "Compile动感配乐"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "34/40",
+        "quote": "完成度极高的弹珠台，荣获金殿堂"
+      }
+    ],
+    "editorScore": 8.5,
+    "is2D": true,
+    "screenshots": [
+      "images/pce/pce-devils-crush-s1.png",
+      "images/pce/pce-devils-crush-s2.png",
+      "images/pce/pce-devils-crush-title.png"
+    ],
+    "cover": "images/pce/pce-devils-crush-box.jpg"
+  },
+  {
+    "id": "pce-r-type",
+    "title": "R-Type",
+    "titleZh": "异形战机",
+    "titleJa": "R-TYPE",
+    "year": 1988,
+    "developer": "Hudson Soft",
+    "publisher": "Hudson Soft",
+    "genre": "射击",
+    "tags": [
+      "像素",
+      "横版射击",
+      "街机移植"
+    ],
+    "players": "1",
+    "tagline": "让PCE一战成名的街机级移植",
+    "description": "1988年，当玩家在家中看到几乎和街机一模一样的《R-Type》时，PC Engine的名声瞬间响彻日本。由于卡带容量限制，游戏被拆成《R-Type I》和《R-Type II》两张HuCARD发售，却丝毫不影响它成为当年的话题之作。\n\n标志性的“Force”装置可以吸附在机体前后或自由放出，“波动炮”蓄力一击威力惊人；巨大的战舰关卡、令人毛骨悚然的生物机械敌人，至今仍是射击游戏的经典意象。\n\n难度不低，需要背版与策略，但每一次突破都带来巨大的成就感。想理解PCE为何被称为“街机之家”，从这里开始。",
+    "highlights": [
+      "“Force”与波动炮的经典系统",
+      "高度还原的街机画面",
+      "巨型战舰与生物机械美学",
+      "PCE成名的里程碑作品"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "34/40",
+        "quote": "（I、II合计评价）堪称完美的移植，荣获金殿堂"
+      }
+    ],
+    "editorScore": 8.5,
+    "is2D": true,
+    "screenshots": [
+      "images/pce/pce-r-type-s1.png",
+      "images/pce/pce-r-type-x1.png",
+      "images/pce/pce-r-type-x2.png",
+      "images/pce/pce-r-type-x3.png",
+      "images/pce/pce-r-type-title.png"
+    ],
+    "cover": "images/pce/pce-r-type-box.jpg"
+  },
+  {
+    "id": "pce-blazing-lazers",
+    "title": "Blazing Lazers",
+    "titleZh": "枪神GUNHED",
+    "titleJa": "ガンヘッド",
+    "year": 1989,
+    "developer": "Compile",
+    "publisher": "Hudson Soft",
+    "genre": "射击",
+    "tags": [
+      "像素",
+      "纵版射击",
+      "Compile"
+    ],
+    "players": "1",
+    "tagline": "满屏火力的速度狂欢，北美玩家的射击启蒙",
+    "description": "Compile与哈德森联手打造的《GUNHED》（美版名《Blazing Lazers》）是PCE早期最具冲击力的纵版射击。四种主武器可以通过拾取同色道具层层升级，满级后火力铺满整个屏幕，爽快感无与伦比。\n\n更厉害的是它的流畅度——大量敌人与子弹同屏，几乎感觉不到拖慢，这在1989年简直不可思议。关卡场景多样，从太空到机械要塞，背景卷轴细腻流畅。\n\n它奠定了Compile“爽快射击”的风格，也是北美TurboGrafx-16玩家心中的射击启蒙。直到今天，它依然是入门PCE射击的首选之一。",
+    "highlights": [
+      "四种主武器与多段升级",
+      "大量敌弹同屏几乎无拖慢",
+      "多样化的关卡场景",
+      "Compile爽快射击风格的奠基作"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "30/40",
+        "quote": "速度感与火力表现一流"
+      },
+      {
+        "source": "EGM",
+        "score": "31/40",
+        "quote": "TG-16上最好的射击游戏之一"
+      },
+      {
+        "source": "CVG",
+        "score": "96%",
+        "quote": "令人难以置信的流畅与爽快"
+      }
+    ],
+    "editorScore": 8.4,
+    "is2D": true,
+    "screenshots": [
+      "images/pce/pce-blazing-lazers-s1.png",
+      "images/pce/pce-blazing-lazers-x1.png",
+      "images/pce/pce-blazing-lazers-x2.png",
+      "images/pce/pce-blazing-lazers-title.png"
+    ],
+    "cover": "images/pce/pce-blazing-lazers-box.jpg"
+  },
+  {
+    "id": "pce-nectaris",
+    "title": "Nectaris",
+    "titleZh": "月面战争 尼克塔里斯",
+    "titleJa": "ネクタリス",
+    "year": 1989,
+    "developer": "Hudson Soft",
+    "publisher": "Hudson Soft",
+    "genre": "战略",
+    "tags": [
+      "像素",
+      "回合制",
+      "战棋"
+    ],
+    "players": "1-2",
+    "tagline": "月球上的六角格战棋，简洁而深邃",
+    "description": "在月球上打一场坦克战？《尼克塔里斯》（美版名《Military Madness》）用六角格地图和简洁的规则，打造出令人欲罢不能的回合制战略体验。\n\n核心机制“包围加成”——多支部队围攻同一目标时攻击力大增——让每一步都需要深思熟虑；地形、单位相克、补给工厂的争夺，让小小的地图充满博弈感。16个任务难度循序渐进，还支持双人对战。\n\n它没有复杂的数值和冗长的剧情，却拥有纯粹的战略乐趣，被许多人视为《高级战争》的精神前辈。想要一款能随时拿起来动动脑的战棋，它是绝佳之选。",
+    "highlights": [
+      "六角格回合制战略",
+      "独特的“包围攻击”加成机制",
+      "16个循序渐进的任务",
+      "支持双人对战"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "31/40",
+        "quote": "规则简洁却极具深度"
+      },
+      {
+        "source": "EGM",
+        "score": "31/40",
+        "quote": "令人上瘾的战略游戏"
+      }
+    ],
+    "editorScore": 8.4,
+    "is2D": true,
+    "screenshots": [
+      "images/pce/pce-nectaris-s1.png",
+      "images/pce/pce-nectaris-x1.png",
+      "images/pce/pce-nectaris-title.png"
+    ],
+    "cover": "images/pce/pce-nectaris-box.jpg"
+  },
+  {
+    "id": "pce-snatcher",
+    "title": "Snatcher",
+    "titleZh": "掠夺者",
+    "titleJa": "スナッチャー",
+    "year": 1992,
+    "developer": "Konami",
+    "publisher": "Konami",
+    "genre": "冒险",
+    "tags": [
+      "像素",
+      "赛博朋克",
+      "文字冒险"
+    ],
+    "players": "1",
+    "tagline": "小岛秀夫的赛博朋克侦探传奇",
+    "description": "在《合金装备》成名之前，小岛秀夫就用《掠夺者》讲述了一个令人窒息的赛博朋克故事：近未来的新神户，仿生人“掠夺者”杀死人类并取而代之，失忆的特工吉利安·希德加入反掠夺者部队，一步步揭开惊人的真相。\n\nPCE CD版在PC-88原版基础上补完了被腰斩的第三幕，并加入全语音与更丰富的演出。指令式冒险的玩法简单，却被极具电影感的分镜、紧张的配乐和黑色幽默填满。\n\n《银翼杀手》《终结者》的影子随处可见，但小岛的叙事才华让它独一无二。这是冒险游戏爱好者与小岛粉丝绝不能错过的经典。",
+    "highlights": [
+      "小岛秀夫早期代表作",
+      "补完第三幕的完整版本",
+      "全语音与电影化演出",
+      "浓郁的赛博朋克氛围"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "33/40",
+        "quote": "剧情与演出极具魅力"
+      }
+    ],
+    "editorScore": 8.4,
+    "is2D": true,
+    "screenshots": [
+      "images/pce/pce-snatcher-s1.png",
+      "images/pce/pce-snatcher-x1.jpg",
+      "images/pce/pce-snatcher-title.png"
+    ],
+    "cover": "images/pce/pce-snatcher-box.jpg"
+  },
+  {
+    "id": "pce-dungeon-explorer",
+    "title": "Dungeon Explorer",
+    "titleZh": "迷宫探险者",
+    "titleJa": "ダンジョンエクスプローラー",
+    "year": 1989,
+    "developer": "Atlus",
+    "publisher": "Hudson Soft",
+    "genre": "动作角色扮演",
+    "tags": [
+      "像素",
+      "多人",
+      "地牢"
+    ],
+    "players": "1-5",
+    "tagline": "五人联机闯地牢的先驱",
+    "description": "早在网络联机普及之前，《迷宫探险者》就让五个朋友围坐在电视前，一起闯进怪物横行的地牢！受街机《圣铠传说》启发，玩家从八种职业中各选其一——战士、巫师、精灵、吟游诗人……每个职业都有不同的攻击方式与魔法。\n\n俯视角地牢中，怪物源源不断地从巢穴里涌出，大家要分工合作才能推进；击破Boss后还能提升能力值。密码存档设计让长篇冒险也能分次完成。\n\n画面朴素但清晰，音乐颇有气势。多人合作的乐趣历久弥新，凑齐朋友来一局，你会明白什么叫“原始的合作RPG”。",
+    "highlights": [
+      "最多5人同时合作冒险",
+      "八种职业各具特色",
+      "怪物巢穴与地牢探索",
+      "合作型动作RPG的先驱"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "29/40",
+        "quote": "多人同乐的乐趣出众"
+      },
+      {
+        "source": "EGM",
+        "score": "28/40",
+        "quote": "与朋友一起玩时最为精彩"
+      },
+      {
+        "source": "CVG",
+        "score": "94%",
+        "quote": "多人模式令人难以置信地上瘾"
+      }
+    ],
+    "editorScore": 8.3,
+    "is2D": true,
+    "screenshots": [
+      "images/pce/pce-dungeon-explorer-s1.png",
+      "images/pce/pce-dungeon-explorer-s2.png",
+      "images/pce/pce-dungeon-explorer-title.png"
+    ],
+    "cover": "images/pce/pce-dungeon-explorer-box.jpg"
+  },
+  {
+    "id": "pce-pc-genjin",
+    "title": "Bonk's Adventure",
+    "titleZh": "PC原人",
+    "titleJa": "PC原人",
+    "year": 1989,
+    "developer": "Red Company / Atlus",
+    "publisher": "Hudson Soft",
+    "genre": "平台跳跃",
+    "tags": [
+      "像素",
+      "吉祥物",
+      "可爱"
+    ],
+    "players": "1",
+    "tagline": "用脑袋撞出一片天的PCE吉祥物",
+    "description": "PC Engine也有自己的“马里奥”——那就是大脑袋的原始人小子PC原人（美版叫Bonk）！他不用剑也不用枪，而是用一颗硬邦邦的头槌撞飞恐龙，咬着墙壁往上爬，在空中旋转着下坠攻击。\n\n吃下肉块会进入狂暴状态，表情变得夸张又滑稽；关卡里充满恐龙、火山和巨型生物，每一个Boss都设计得幽默可爱。操作简单却需要技巧，适合全年龄玩家。\n\n画面色彩鲜艳、角色表情生动，是PCE上最具代表性的形象之一。系列后续还推出多部续作与射击外传《PC电人》，影响深远。",
+    "highlights": [
+      "独特的头槌攻击与咬墙攀爬",
+      "吃肉变身的夸张狂暴形态",
+      "幽默可爱的恐龙Boss",
+      "PCE官方吉祥物的出道作"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "26/40",
+        "quote": "角色可爱，玩法独特"
+      },
+      {
+        "source": "EGM",
+        "score": "30/40",
+        "quote": "TG-16上最有魅力的平台游戏"
+      }
+    ],
+    "editorScore": 8.3,
+    "is2D": true,
+    "screenshots": [
+      "images/pce/pce-pc-genjin-s1.png",
+      "images/pce/pce-pc-genjin-s2.png",
+      "images/pce/pce-pc-genjin-s3.png",
+      "images/pce/pce-pc-genjin-title.png"
+    ],
+    "cover": "images/pce/pce-pc-genjin-box.jpg"
+  },
+  {
+    "id": "pce-gradius-ii",
+    "title": "Gradius II: Gofer no Yabou",
+    "titleZh": "宇宙巡航机II 格法的野望",
+    "titleJa": "グラディウスII -GOFERの野望-",
+    "year": 1992,
+    "developer": "Konami",
+    "publisher": "Konami",
+    "genre": "射击",
+    "tags": [
+      "像素",
+      "横版射击",
+      "街机移植"
+    ],
+    "players": "1",
+    "tagline": "完美再现街机的宇宙巡航机最高杰作",
+    "description": "《宇宙巡航机II》被许多射击迷视为系列最佳，而PCE SUPER CD-ROM²版几乎完美还原了街机版：火焰龙、人造太阳、细胞关卡、要塞Boss连战……熟悉的场景一一呈现，CD音源的配乐更是令人热血澎湃。\n\n经典的“能量胶囊”强化系统让玩家自由选择速度、导弹、激光与“Option”，四种武装搭配各有千秋。家用版还追加了原创关卡，为老玩家带来新鲜感。\n\n难度依旧硬派，但每一次突破都令人振奋。如果说《R-Type》是PCE的成名作，《宇宙巡航机II》就是PCE射击移植的完美谢幕。",
+    "highlights": [
+      "近乎完美的街机移植",
+      "经典能量胶囊强化系统",
+      "家用版追加原创关卡",
+      "CD音源重现名曲"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "28/40",
+        "quote": "移植度极高的经典射击"
+      }
+    ],
+    "editorScore": 8.3,
+    "is2D": true,
+    "screenshots": [
+      "images/pce/pce-gradius-ii-s1.png",
+      "images/pce/pce-gradius-ii-title.png"
+    ],
+    "cover": "images/pce/pce-gradius-ii-box.jpg"
+  },
+  {
+    "id": "pce-ys-iii",
+    "title": "Ys III: Wanderers from Ys",
+    "titleZh": "伊苏III 来自伊苏的流浪者",
+    "titleJa": "イースIII",
+    "year": 1991,
+    "developer": "Hudson Soft / Alfa System",
+    "publisher": "Hudson Soft",
+    "genre": "动作角色扮演",
+    "tags": [
+      "像素",
+      "横版",
+      "CD-ROM²"
+    ],
+    "players": "1",
+    "tagline": "伊苏系列的横版异色作，音乐依旧神级",
+    "description": "《伊苏III》大胆地把系列变成了横版动作，亚特鲁第一次可以挥剑、跳跃，在矿坑、火山与城堡中展开冒险。PCE CD版加入了动画过场与语音，剧情更有沉浸感。\n\n与前作的撞击战斗不同，这里需要真正的跳跃与攻防判断，Boss战颇具挑战。故事发生在好友多吉的故乡菲尔盖纳，雷娜、艾琳娜等角色塑造鲜明，情感描写细腻。\n\n它的音乐被许多人视为系列最佳之一，CD音源版更是动听。虽然是系列异色作，但它后来被Falcom重制为《菲尔盖纳之誓约》，足见其故事的经典分量。",
+    "highlights": [
+      "系列唯一横版动作玩法",
+      "CD版语音与动画过场",
+      "被奉为经典的配乐",
+      "后被重制为《菲尔盖纳之誓约》"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "29/40",
+        "quote": "音乐与演出优秀的横版伊苏"
+      },
+      {
+        "source": "EGM",
+        "score": "30/40",
+        "quote": "（TG-16版）风格转变大胆，依然好玩"
+      }
+    ],
+    "editorScore": 8.2,
+    "is2D": true,
+    "screenshots": [
+      "images/pce/pce-ys-iii-x1.png",
+      "images/pce/pce-ys-iii-title.png"
+    ],
+    "cover": "images/pce/pce-ys-iii-box.jpg"
+  },
+  {
+    "id": "pce-air-zonk",
+    "title": "Air Zonk",
+    "titleZh": "PC电人",
+    "titleJa": "PC電人",
+    "year": 1992,
+    "developer": "Red Company / Hudson Soft",
+    "publisher": "Hudson Soft",
+    "genre": "射击",
+    "tags": [
+      "像素",
+      "横版射击",
+      "搞笑"
+    ],
+    "players": "1",
+    "tagline": "戴墨镜的PC原人，酷炫又搞笑的横版射击",
+    "description": "PC原人穿越到未来，变身戴着墨镜的赛博朋克少年“PC电人”！这款横版射击充满了90年代的“酷”文化：滑板、摇滚、夸张表情，敌人是各种搞怪的机械与生物。\n\n最有趣的是“伙伴”系统：在关卡中救下的伙伴可以与PC电人合体，变成各种奇怪又强大的形态，攻击方式大变样。蓄力射击与多种强化道具让战斗节奏丰富。\n\n画面色彩缤纷，动画流畅，Boss设计脑洞大开。它不像硬核射击那样苛刻，更像一部轻松搞笑的动画片，是PCE射击里最具个性的作品之一。",
+    "highlights": [
+      "伙伴合体变身系统",
+      "90年代“酷”文化的搞笑画风",
+      "色彩缤纷的流畅动画",
+      "难度友好，轻松愉快"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "25/40",
+        "quote": "风格独特的搞笑射击"
+      },
+      {
+        "source": "IGN",
+        "score": "8/10",
+        "quote": "（VC版）充满个性的有趣射击"
+      }
+    ],
+    "editorScore": 8.2,
+    "is2D": true,
+    "screenshots": [
+      "images/pce/pce-air-zonk-s1.png",
+      "images/pce/pce-air-zonk-s2.png",
+      "images/pce/pce-air-zonk-title.png"
+    ],
+    "cover": "images/pce/pce-air-zonk-box.jpg"
+  },
+  {
+    "id": "pce-emerald-dragon",
+    "title": "Emerald Dragon",
+    "titleZh": "绿宝石龙",
+    "titleJa": "エメラルドドラゴン",
+    "year": 1994,
+    "developer": "Glodia",
+    "publisher": "NEC Home Electronics",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "奇幻",
+      "SUPER CD-ROM²"
+    ],
+    "players": "1",
+    "tagline": "人与龙的纯爱奇幻，PCE版最受好评",
+    "description": "人类少女塔姆琳与龙族少年阿特鲁修的故事，让无数玩家为之动容。《绿宝石龙》原为PC-88游戏，但PCE SUPER CD-ROM²版大幅强化了演出：木村明广的人设、全新的动画过场与语音，让这段跨越种族的情感更显真挚。\n\n战斗采用半即时的战术式系统，角色会在战场上移动、自动或手动行动，节奏轻快。剧情虽然是王道奇幻，但角色塑造鲜活，伙伴之间的羁绊描写细腻。\n\n许多玩家认为PCE版是所有版本中最完整、最动人的一版。它是日式奇幻RPG黄金年代的缩影，也是值得收藏的隐藏名作。",
+    "highlights": [
+      "人与龙的跨种族纯爱故事",
+      "木村明广人设与动画演出",
+      "战术式半即时战斗",
+      "公认最完整的移植版本"
+    ],
+    "reviews": [
+      {
+        "source": "电击PC Engine",
+        "score": "90/100",
+        "quote": "演出与剧情俱佳的佳作"
+      }
+    ],
+    "editorScore": 8.2,
+    "is2D": true,
+    "screenshots": [
+      "images/pce/pce-emerald-dragon-s1.png",
+      "images/pce/pce-emerald-dragon-s2.png",
+      "images/pce/pce-emerald-dragon-title.png"
+    ],
+    "cover": "images/pce/pce-emerald-dragon-box.jpg"
+  },
+  {
+    "id": "pce-ninja-spirit",
+    "title": "Ninja Spirit",
+    "titleZh": "最后的忍道",
+    "titleJa": "最後の忍道",
+    "year": 1990,
+    "developer": "Irem",
+    "publisher": "Irem",
+    "genre": "动作",
+    "tags": [
+      "像素",
+      "忍者",
+      "街机移植"
+    ],
+    "players": "1",
+    "tagline": "白狼忍者的分身术，凌厉的和风动作",
+    "description": "Irem的《最后的忍道》讲述白狼化身的忍者月影为父报仇的故事。在PCE上，它被移植得极为出色，甚至加入了专属的“PC Engine模式”，让玩家可以承受更多伤害，更容易体验完整流程。\n\n四种武器——太刀、手里剑、炸弹、锁镰——随时切换；收集道具可以召唤最多两个“分身”，同步模仿你的动作攻击，满屏忍者齐舞的画面帅气无比。\n\n关卡场景充满和风韵味：竹林、瀑布、寺院、雷鸣的夜空……Boss造型诡异，战斗节奏凌厉。它是PCE上最好的街机动作移植之一，也是忍者游戏爱好者的必玩之作。",
+    "highlights": [
+      "四种忍具随时切换",
+      "分身术同步攻击，画面帅气",
+      "专属PC Engine模式降低难度",
+      "浓郁和风关卡设计"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "32/40",
+        "quote": "出色的街机移植，荣获金殿堂"
+      }
+    ],
+    "editorScore": 8.2,
+    "is2D": true,
+    "screenshots": [
+      "images/pce/pce-ninja-spirit-s1.png",
+      "images/pce/pce-ninja-spirit-s2.png",
+      "images/pce/pce-ninja-spirit-title.png"
+    ],
+    "cover": "images/pce/pce-ninja-spirit-box.jpg"
+  },
+  {
+    "id": "pce-splatterhouse",
+    "title": "Splatterhouse",
+    "titleZh": "恐怖之屋",
+    "titleJa": "スプラッターハウス",
+    "year": 1990,
+    "developer": "Namco",
+    "publisher": "Namco",
+    "genre": "动作清版",
+    "tags": [
+      "像素",
+      "恐怖",
+      "街机移植"
+    ],
+    "players": "1",
+    "tagline": "戴曲棍球面具的血腥恐怖清版",
+    "description": "在那个游戏都很“可爱”的年代，南梦宫的《恐怖之屋》绝对是一个异类！主角瑞克戴上神秘的恐怖面具，化身肌肉怪人，闯进鬼屋拯救女友——木棍、斧头、霰弹枪统统抄起来，把僵尸和怪物砸得血肉横飞。\n\nPCE版高度还原了街机的恐怖氛围，尽管血腥表现有所收敛，但腐烂的尸体、扭曲的镜中倒影、令人心碎的女友变异剧情依旧让人毛骨悚然。关卡短小精悍，Boss设计极具创意。\n\n这是B级恐怖电影迷的狂欢，也是横版清版动作里独树一帜的存在。如果你想要点不一样的刺激，关上灯来玩吧。",
+    "highlights": [
+      "B级恐怖片风格的独特氛围",
+      "多种武器的清版战斗",
+      "极具创意的恐怖Boss",
+      "高度还原街机版"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "26/40",
+        "quote": "街机的恐怖氛围被完美再现"
+      },
+      {
+        "source": "EGM",
+        "score": "32/40",
+        "quote": "血腥刺激的出色移植"
+      }
+    ],
+    "editorScore": 8.1,
+    "is2D": true,
+    "screenshots": [
+      "images/pce/pce-splatterhouse-s1.png",
+      "images/pce/pce-splatterhouse-s2.png",
+      "images/pce/pce-splatterhouse-s3.png",
+      "images/pce/pce-splatterhouse-title.png"
+    ],
+    "cover": "images/pce/pce-splatterhouse-box.jpg"
+  },
+  {
+    "id": "pce-parasol-stars",
+    "title": "Parasol Stars",
+    "titleZh": "彩虹伞星",
+    "titleJa": "パラソルスター",
+    "year": 1991,
+    "developer": "Taito",
+    "publisher": "Taito",
+    "genre": "平台跳跃",
+    "tags": [
+      "像素",
+      "可爱",
+      "双人合作"
+    ],
+    "players": "1-2",
+    "tagline": "泡泡龙系列第三弹，撑伞的双人欢乐",
+    "description": "《泡泡龙》的鲍比和巴比又回来了，这次他们变成了小男孩，手里拿着一把神奇的雨伞！《彩虹伞星》是泡泡龙系列第三作，而且首发就在PC Engine上。\n\n雨伞可以接住敌人、水滴、火焰甚至闪电，再把它们抛出去一网打尽；积攒水珠形成的连锁攻击可以清空整个画面，爽快感满分。双人合作更是欢乐加倍，抢道具、互相救援，笑声不断。\n\n各个星球主题鲜明——音乐星、赌场星、海洋星……色彩缤纷，敌人造型可爱。简单易懂、乐趣无穷，是适合全家一起玩的经典之作。",
+    "highlights": [
+      "雨伞接住投掷的独特玩法",
+      "水滴连锁清屏的爽快感",
+      "双人合作欢乐加倍",
+      "泡泡龙系列正统续作"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "26/40",
+        "quote": "可爱又耐玩的系列续作"
+      }
+    ],
+    "editorScore": 8.0,
+    "is2D": true,
+    "screenshots": [
+      "images/pce/pce-parasol-stars-s1.png",
+      "images/pce/pce-parasol-stars-s2.png",
+      "images/pce/pce-parasol-stars-title.png"
+    ],
+    "cover": "images/pce/pce-parasol-stars-box.jpg"
+  },
+  {
+    "id": "pce-magical-chase",
+    "title": "Magical Chase",
+    "titleZh": "魔法少女追逐",
+    "titleJa": "マジカルチェイス",
+    "year": 1991,
+    "developer": "Quest",
+    "publisher": "Palsoft",
+    "genre": "射击",
+    "tags": [
+      "像素",
+      "魔法少女",
+      "珍品"
+    ],
+    "players": "1",
+    "tagline": "魔法少女骑扫帚的可爱射击，传说中的珍品",
+    "description": "由日后打造《皇家骑士团》的Quest开发，《魔法少女追逐》让你扮演见习魔女莉普尔，骑着扫帚追捕从魔法书中逃出的恶魔。画面色彩缤纷、细节丰富，背景动画极为精致，堪称PCE卡带画面的顶级水准。\n\n关卡中赚取的金币可以在商店购买武器和魔法，两颗跟随的“星之精灵”能调整射击方向。难度适中，节奏轻快，可爱的角色与梦幻的场景相得益彰。\n\n美版因发行量极少而成为收藏界的“传说级”珍品，价格一度高得惊人。如今通过PCE mini等合集，人人都能体验这份童话般的射击乐趣。",
+    "highlights": [
+      "Quest打造的精致像素画面",
+      "商店购买武器与魔法",
+      "可调整方向的星之精灵",
+      "美版卡带是收藏界珍品"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "26/40",
+        "quote": "画面可爱精致，射击手感舒畅"
+      },
+      {
+        "source": "EGM",
+        "score": "28/40",
+        "quote": "画面令人惊艳的魅力之作"
+      }
+    ],
+    "editorScore": 8.0,
+    "is2D": true,
+    "screenshots": [
+      "images/pce/pce-magical-chase-s1.png",
+      "images/pce/pce-magical-chase-s2.png",
+      "images/pce/pce-magical-chase-title.png"
+    ],
+    "cover": "images/pce/pce-magical-chase-box.jpg"
+  },
+  {
+    "id": "pce-super-darius",
+    "title": "Super Darius",
+    "titleZh": "超级达拉伊亚斯",
+    "titleJa": "スーパーダライアス",
+    "year": 1990,
+    "developer": "NEC Avenue",
+    "publisher": "NEC Avenue",
+    "genre": "射击",
+    "tags": [
+      "像素",
+      "横版射击",
+      "街机移植"
+    ],
+    "players": "1",
+    "tagline": "巨型机械鱼来袭，CD-ROM²上的达拉伊亚斯",
+    "description": "TAITO的经典横版射击《达拉伊亚斯》以分支路线与巨型机械海洋生物闻名，而《超级达拉伊亚斯》将它搬上了PC Engine CD-ROM²，还专门为家用版新增了大量Boss，让每条路线都拥有独一无二的终点。\n\n虽然没有街机的三屏宽幅画面，但CD音源的配乐把那种神秘又恢弘的氛围表现得淋漓尽致；巨型机械鱼、虾、乌贼一个个从画面边缘游出，压迫感十足。\n\n分支路线带来极高的重玩价值，喜欢收集各路Boss的玩家会乐此不疲。它是了解达拉伊亚斯系列魅力的绝佳入口。",
+    "highlights": [
+      "标志性的分支路线选择",
+      "家用版新增大量原创Boss",
+      "CD音源的神秘配乐",
+      "巨型机械海洋生物Boss"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "31/40",
+        "quote": "出色的移植与追加要素，荣获银殿堂"
+      }
+    ],
+    "editorScore": 8.0,
+    "is2D": true,
+    "screenshots": [
+      "images/pce/pce-super-darius-s1.png",
+      "images/pce/pce-super-darius-title.png"
+    ],
+    "cover": "images/pce/pce-super-darius-box.jpg"
+  },
+  {
+    "id": "pce-cosmic-fantasy-2",
+    "title": "Cosmic Fantasy 2",
+    "titleZh": "宇宙幻想2",
+    "titleJa": "コズミックファンタジー2 冒険少年バン",
+    "year": 1991,
+    "developer": "Telenet Japan (Laser Soft)",
+    "publisher": "Telenet Japan",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "动画风",
+      "CD-ROM²"
+    ],
+    "players": "1",
+    "tagline": "动画风满溢的太空奇幻冒险",
+    "description": "日本Telenet的《宇宙幻想》系列是CD-ROM²早期最具代表性的RPG之一。二代主角班为了拯救被掳走的少女，踏上横跨宇宙的冒险，剧情轻松热血，带着浓浓的90年代动画味道。\n\n大量的动画过场和全语音剧情在当时堪称豪华；战斗是传统回合制，遇敌率偏高，但练级节奏明快。北美版由以精良本地化著称的Working Designs发行，诙谐的翻译让它在欧美也收获了一批忠实粉丝。\n\n它代表了那个“CD动画RPG”的黄金年代：画面、声优、音乐一样不少。喜欢老式日系动画风格的玩家，会在这里找到满满的怀旧情怀。",
+    "highlights": [
+      "90年代动画风格的过场与语音",
+      "热血轻松的太空冒险剧情",
+      "Working Designs经典北美本地化",
+      "CD-ROM²早期代表性RPG"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "26/40",
+        "quote": "动画演出丰富的王道RPG"
+      },
+      {
+        "source": "EGM",
+        "score": "28/40",
+        "quote": "动画过场与本地化令人印象深刻"
+      }
+    ],
+    "editorScore": 7.8,
+    "is2D": true,
+    "screenshots": [
+      "images/pce/pce-cosmic-fantasy-2-s1.png",
+      "images/pce/pce-cosmic-fantasy-2-x1.png",
+      "images/pce/pce-cosmic-fantasy-2-title.png"
+    ],
+    "cover": "images/pce/pce-cosmic-fantasy-2-box.jpg"
+  },
+  {
+    "id": "pce-legend-of-heroes",
+    "title": "Dragon Slayer: The Legend of Heroes",
+    "titleZh": "屠龙剑 英雄传说",
+    "titleJa": "ドラゴンスレイヤー英雄伝説",
+    "year": 1991,
+    "developer": "Nihon Falcom / Hudson Soft",
+    "publisher": "Hudson Soft",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "王道",
+      "SUPER CD-ROM²"
+    ],
+    "players": "1",
+    "tagline": "“英雄传说”系列的起点，王道RPG的温柔开篇",
+    "description": "今天的《轨迹》系列粉丝也许不知道，“英雄传说”的故事始于这部《屠龙剑 英雄传说》。年轻的王子赛利奥斯为了夺回被篡夺的王国、查明父王死亡真相，踏上了漫长的旅程。\n\nPCE SUPER CD-ROM²版是哈德森的移植作，加入了语音与CD音源，Falcom的经典旋律听来格外动人。系统是纯正的回合制RPG，支持自动战斗，节奏轻快，难度友好。\n\n剧情王道而温暖，世界观朴素却扎实，奠定了系列重视叙事与人物刻画的风格。想要追溯Falcom RPG的根源，这是最舒适的入口。",
+    "highlights": [
+      "“英雄传说”系列的开山之作",
+      "Falcom名曲的CD音源演绎",
+      "支持自动战斗，节奏轻快",
+      "王道温暖的王子复国故事"
+    ],
+    "reviews": [
+      {
+        "source": "PC Engine FAN",
+        "score": "25.24/30",
+        "quote": "读者评价甚高的王道RPG"
+      }
+    ],
+    "editorScore": 7.8,
+    "is2D": true,
+    "screenshots": [
+      "images/pce/pce-legend-of-heroes-s1.png",
+      "images/pce/pce-legend-of-heroes-s2.png",
+      "images/pce/pce-legend-of-heroes-title.png"
+    ],
+    "cover": "images/pce/pce-legend-of-heroes-box.jpg"
+  },
+  {
+    "id": "pce-tokimeki-memorial",
+    "title": "Tokimeki Memorial",
+    "titleZh": "心跳回忆",
+    "titleJa": "ときめきメモリアル",
+    "year": 1994,
+    "developer": "Konami",
+    "publisher": "Konami",
+    "genre": "恋爱模拟",
+    "tags": [
+      "像素",
+      "恋爱",
+      "校园"
+    ],
+    "players": "1",
+    "tagline": "恋爱模拟的开山鼻祖，三年青春的心跳记忆",
+    "description": "1994年，科乐美在PC Engine上推出了一款“奇怪”的游戏——没有战斗，没有冒险，只有三年的高中生活。谁也没想到，《心跳回忆》会掀起一场席卷日本的恋爱游戏风暴。\n\n玩家需要合理安排每周的学习、运动、艺术等日程来提升能力，同时与性格各异的女孩们约会、交流，努力在毕业那天的传说之树下听到告白。藤崎诗织这位“完美女神”让无数玩家屡战屡败，至今仍是游戏圈的传奇。\n\nPCE版是一切的起点，全语音的女主角们、细腻的像素立绘、丰富的随机事件，让每一轮三年都各不相同。它定义了一个游戏类型，影响力延续至今。",
+    "highlights": [
+      "开创恋爱模拟类型的里程碑",
+      "日程养成与约会系统",
+      "传说之树下的告白结局",
+      "藤崎诗织的传奇难度"
+    ],
+    "reviews": [],
+    "editorScore": 7.8,
+    "is2D": true,
+    "screenshots": [
+      "images/pce/pce-tokimeki-memorial-s1.png",
+      "images/pce/pce-tokimeki-memorial-s2.png",
+      "images/pce/pce-tokimeki-memorial-title.png"
+    ],
+    "cover": "images/pce/pce-tokimeki-memorial-box.jpg"
+  },
+  {
+    "id": "pce-gulliver-boy",
+    "title": "Kuusou Kagaku Sekai Gulliver Boy",
+    "titleZh": "空想科学世界 格利佛少年",
+    "titleJa": "空想科学世界ガリバーボーイ",
+    "year": 1995,
+    "developer": "Hudson Soft",
+    "publisher": "Hudson Soft",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "动画改编",
+      "SUPER CD-ROM²"
+    ],
+    "players": "1",
+    "tagline": "广井王子打造的跨媒体冒险RPG",
+    "description": "由《天外魔境》之父广井王子策划，《空想科学世界 格利佛少年》在动画、漫画、游戏三线同时展开，是90年代中期颇具野心的跨媒体企划。PCE版讲述少年格利佛与伙伴们在“空想科学”的奇幻世界里对抗邪恶组织的冒险。\n\n游戏延续了红公司系RPG的风格：大量的动画过场、全语音剧情、热血王道的情节。战斗系统易于上手，地图探索轻松，节奏明快。\n\n像素画面在PCE末期显得相当成熟，城镇和角色细节丰富。作为PCE晚期的RPG，它知名度不如天外魔境，却是体验“红公司味道”的一部隐藏佳作。",
+    "highlights": [
+      "广井王子策划的跨媒体企划",
+      "大量动画过场与全语音",
+      "热血王道的冒险剧情",
+      "PCE晚期成熟的像素画面"
+    ],
+    "reviews": [],
+    "editorScore": 7.6,
+    "is2D": true,
+    "screenshots": [
+      "images/pce/pce-gulliver-boy-s1.png",
+      "images/pce/pce-gulliver-boy-title.png"
+    ],
+    "cover": "images/pce/pce-gulliver-boy-box.jpg"
+  },
+  {
+    "id": "pce-popful-mail",
+    "title": "Popful Mail",
+    "titleZh": "魔法少女梅尔",
+    "titleJa": "ぽっぷるメイル",
+    "year": 1994,
+    "developer": "Nihon Falcom",
+    "publisher": "NEC Home Electronics",
+    "genre": "动作角色扮演",
+    "tags": [
+      "像素",
+      "横版",
+      "搞笑"
+    ],
+    "players": "1",
+    "tagline": "精灵赏金猎人梅尔的横版喜剧冒险",
+    "description": "Falcom的《魔法少女梅尔》（Popful Mail）讲述了贪财又冲动的精灵少女梅尔，为了赏金卷入一场魔法大冒险的故事。PCE SUPER CD-ROM²版重新绘制了全部像素画面，并加入全语音演出，角色间的吐槽对话笑点密集。\n\n这是一款横版动作RPG，梅尔用剑近战、魔法师塔特远程施法、怪物伙伴盖登喷火，三人随时切换，各有用途。关卡设计丰富，Boss战充满创意。\n\nPCE版是该作最具特色的版本之一，与MD-CD版、SFC版各有千秋。它轻松幽默，又不失Falcom扎实的动作手感，非常适合想要放松的玩家。",
+    "highlights": [
+      "三名角色随时切换的横版动作",
+      "全语音的爆笑剧情",
+      "PCE版全新绘制的像素画面",
+      "Falcom扎实的动作手感"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "23/40",
+        "quote": "演出丰富的轻松动作RPG"
+      }
+    ],
+    "editorScore": 7.6,
+    "is2D": true,
+    "screenshots": [
+      "images/pce/pce-popful-mail-x1.png",
+      "images/pce/pce-popful-mail-title.png"
+    ],
+    "cover": "images/pce/pce-popful-mail-box.jpg"
+  }
+]

@@ -42,11 +42,60 @@
     "editorScore": 9.5,
     "is2D": true,
     "screenshots": [
-      "images/dc/dc-street-fighter-3-3rd-strike-1.jpg",
-      "images/dc/dc-street-fighter-3-3rd-strike-2.jpg",
-      "images/dc/dc-street-fighter-3-3rd-strike-3.jpg"
+      "images/dc/dc-street-fighter-3-3rd-strike-s1.png",
+      "images/dc/dc-street-fighter-3-3rd-strike-title.png"
     ],
-    "coverShot": true
+    "cover": "images/dc/dc-street-fighter-3-3rd-strike-box.jpg"
+  },
+  {
+    "id": "dc-soulcalibur",
+    "title": "Soulcalibur",
+    "titleZh": "灵魂能力",
+    "titleJa": "ソウルキャリバー",
+    "year": 1999,
+    "developer": "Project Soul",
+    "publisher": "Namco",
+    "genre": "格斗",
+    "tags": [
+      "3D格斗",
+      "武器格斗",
+      "满分神作"
+    ],
+    "players": "1-2",
+    "tagline": "Fami通满分！DC首发的武器格斗传奇",
+    "description": "“灵魂依旧在燃烧！”1999年，南梦宫把街机上的《灵魂能力》移植到DC，结果画面竟然全面超越了街机原版——这一刻，所有人都相信DC真的是“次世代”。\n\n八方向自由移动的“8WAY-RUN”系统让3D格斗第一次真正有了纵深感，御剑、索菲蒂亚、娜拉、阿斯塔罗斯……每个角色的武器与招式都风格鲜明。任务模式里收集的设定画廊，更让人一玩就停不下来。\n\nFami通40分满分、Metacritic 98分，它是格斗史上评价最高的作品之一。虽然是3D，但那种千禧年街机厅的热血，是任何复古玩家都不该错过的。",
+    "highlights": [
+      "Fami通40分满分评价",
+      "8WAY-RUN自由移动系统",
+      "DC版画面超越街机原版",
+      "内容丰富的任务模式与画廊"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "40/40",
+        "quote": "四位编辑全员满分，史上首批满分作品之一"
+      },
+      {
+        "source": "IGN",
+        "score": "10/10",
+        "quote": "DC上最出色的游戏，3D格斗的新标杆"
+      },
+      {
+        "source": "GameSpot",
+        "score": "10/10",
+        "quote": "在画面与系统上都堪称完美的格斗游戏"
+      }
+    ],
+    "editorScore": 9.5,
+    "is2D": false,
+    "screenshots": [
+      "images/dc/dc-soulcalibur-s1.png",
+      "images/dc/dc-soulcalibur-x1.jpg",
+      "images/dc/dc-soulcalibur-x2.jpg",
+      "images/dc/dc-soulcalibur-title.png"
+    ],
+    "cover": "images/dc/dc-soulcalibur-box.jpg"
   },
   {
     "id": "dc-ikaruga",
@@ -91,11 +140,12 @@
     "editorScore": 9.4,
     "is2D": true,
     "screenshots": [
-      "images/dc/dc-ikaruga-2.jpg",
-      "images/dc/dc-ikaruga-3.jpg",
-      "images/dc/dc-ikaruga-1.jpg"
+      "images/dc/dc-ikaruga-s1.png",
+      "images/dc/dc-ikaruga-x1.jpg",
+      "images/dc/dc-ikaruga-x2.jpg",
+      "images/dc/dc-ikaruga-title.png"
     ],
-    "coverShot": true
+    "cover": "images/dc/dc-ikaruga-box.jpg"
   },
   {
     "id": "dc-skies-of-arcadia",
@@ -141,11 +191,11 @@
     "editorScore": 9.4,
     "is2D": false,
     "screenshots": [
-      "images/dc/dc-skies-of-arcadia-1.jpg",
-      "images/dc/dc-skies-of-arcadia-2.jpg",
-      "images/dc/dc-skies-of-arcadia-3.jpg"
+      "images/dc/dc-skies-of-arcadia-s1.png",
+      "images/dc/dc-skies-of-arcadia-x1.png",
+      "images/dc/dc-skies-of-arcadia-title.png"
     ],
-    "coverShot": true
+    "cover": "images/dc/dc-skies-of-arcadia-box.jpg"
   },
   {
     "id": "dc-shenmue",
@@ -191,11 +241,12 @@
     "editorScore": 9.3,
     "is2D": false,
     "screenshots": [
-      "images/dc/dc-shenmue-1.jpg",
-      "images/dc/dc-shenmue-2.jpg",
-      "images/dc/dc-shenmue-3.jpg"
+      "images/dc/dc-shenmue-s1.png",
+      "images/dc/dc-shenmue-x1.jpg",
+      "images/dc/dc-shenmue-x2.jpg",
+      "images/dc/dc-shenmue-title.png"
     ],
-    "coverShot": true
+    "cover": "images/dc/dc-shenmue-box.jpg"
   },
   {
     "id": "dc-marvel-vs-capcom-2",
@@ -240,11 +291,10 @@
     "editorScore": 9.2,
     "is2D": true,
     "screenshots": [
-      "images/dc/dc-marvel-vs-capcom-2-1.png",
-      "images/dc/dc-marvel-vs-capcom-2-2.jpg",
-      "images/dc/dc-marvel-vs-capcom-2-3.jpg"
+      "images/dc/dc-marvel-vs-capcom-2-s1.png",
+      "images/dc/dc-marvel-vs-capcom-2-title.png"
     ],
-    "coverShot": true
+    "cover": "images/dc/dc-marvel-vs-capcom-2-box.jpg"
   },
   {
     "id": "dc-grandia-2",
@@ -289,11 +339,12 @@
     "editorScore": 9.2,
     "is2D": false,
     "screenshots": [
-      "images/dc/dc-grandia-2-1.jpg",
-      "images/dc/dc-grandia-2-2.jpg",
-      "images/dc/dc-grandia-2-3.jpg"
+      "images/dc/dc-grandia-2-s1.png",
+      "images/dc/dc-grandia-2-x1.jpg",
+      "images/dc/dc-grandia-2-x2.jpg",
+      "images/dc/dc-grandia-2-title.png"
     ],
-    "coverShot": true
+    "cover": "images/dc/dc-grandia-2-box.jpg"
   },
   {
     "id": "dc-garou-mark-of-the-wolves",
@@ -338,11 +389,60 @@
     "editorScore": 9.1,
     "is2D": true,
     "screenshots": [
-      "images/dc/dc-garou-mark-of-the-wolves-1.png",
-      "images/dc/dc-garou-mark-of-the-wolves-2.jpg",
-      "images/dc/dc-garou-mark-of-the-wolves-3.jpg"
+      "images/dc/dc-garou-mark-of-the-wolves-s1.png",
+      "images/dc/dc-garou-mark-of-the-wolves-x1.png",
+      "images/dc/dc-garou-mark-of-the-wolves-x2.jpg",
+      "images/dc/dc-garou-mark-of-the-wolves-title.png"
     ],
-    "coverShot": true
+    "cover": "images/dc/dc-garou-mark-of-the-wolves-box.jpg"
+  },
+  {
+    "id": "dc-phantasy-star-online",
+    "title": "Phantasy Star Online",
+    "titleZh": "梦幻之星Online",
+    "titleJa": "ファンタシースターオンライン",
+    "year": 2000,
+    "developer": "Sonic Team",
+    "publisher": "Sega",
+    "genre": "动作角色扮演",
+    "tags": [
+      "网络联机",
+      "刷宝",
+      "科幻"
+    ],
+    "players": "1-4",
+    "tagline": "家用机网游的开山鼻祖，四人联机刷到天明",
+    "description": "拉古尔星球的上空，一艘移民船静静漂浮——当年无数玩家拨号上网，只为和远方的陌生人组成四人小队，一起冲进森林、洞窟与坑道，打倒巨龙“Dragon”。\n\n《梦幻之星Online》是家用主机上第一款真正意义上的网络RPG。简洁的连段式动作战斗、稀有武器的掉落惊喜、可爱的Mag宠物培养，构成了让人欲罢不能的刷宝循环。符号聊天系统让语言不通的玩家也能顺畅交流。\n\n虽然是3D作品，但它开创了一个时代。今天，私服社区依然让这颗星球保持着运转。",
+    "highlights": [
+      "家用主机网络RPG的开拓者",
+      "稀有道具掉落的刷宝乐趣",
+      "跨语言的符号聊天系统",
+      "Mag宠物培养"
+    ],
+    "reviews": [
+      {
+        "source": "IGN",
+        "score": "9.3/10",
+        "quote": "主机网游的革命，令人上瘾的合作体验"
+      },
+      {
+        "source": "Edge",
+        "score": "9/10",
+        "quote": "世嘉为网络游戏写下的新篇章"
+      },
+      {
+        "source": "GameSpot",
+        "score": "8.2/10",
+        "quote": "联机乐趣无与伦比，单人内容稍显单薄"
+      }
+    ],
+    "editorScore": 9.1,
+    "is2D": false,
+    "screenshots": [
+      "images/dc/dc-phantasy-star-online-s1.png",
+      "images/dc/dc-phantasy-star-online-title.png"
+    ],
+    "cover": "images/dc/dc-phantasy-star-online-box.jpg"
   },
   {
     "id": "dc-capcom-vs-snk-2",
@@ -382,11 +482,11 @@
     "editorScore": 9.0,
     "is2D": true,
     "screenshots": [
-      "images/dc/dc-capcom-vs-snk-2-1.jpg",
-      "images/dc/dc-capcom-vs-snk-2-2.jpg",
-      "images/dc/dc-capcom-vs-snk-2-3.jpg"
+      "images/dc/dc-capcom-vs-snk-2-s1.png",
+      "images/dc/dc-capcom-vs-snk-2-x1.png",
+      "images/dc/dc-capcom-vs-snk-2-title.png"
     ],
-    "coverShot": true
+    "cover": "images/dc/dc-capcom-vs-snk-2-box.jpg"
   },
   {
     "id": "dc-jet-set-radio",
@@ -432,11 +532,251 @@
     "editorScore": 9.0,
     "is2D": false,
     "screenshots": [
-      "images/dc/dc-jet-set-radio-1.png",
-      "images/dc/dc-jet-set-radio-2.jpg",
-      "images/dc/dc-jet-set-radio-3.jpg"
+      "images/dc/dc-jet-set-radio-s1.png",
+      "images/dc/dc-jet-set-radio-x2.png",
+      "images/dc/dc-jet-set-radio-title.png"
     ],
-    "coverShot": true
+    "cover": "images/dc/dc-jet-set-radio-box.jpg"
+  },
+  {
+    "id": "dc-guilty-gear-x",
+    "title": "Guilty Gear X",
+    "titleZh": "罪恶装备X",
+    "titleJa": "ギルティギア ゼクス",
+    "year": 2000,
+    "developer": "Arc System Works",
+    "publisher": "Sammy",
+    "genre": "格斗",
+    "tags": [
+      "2D格斗",
+      "高清像素",
+      "重金属"
+    ],
+    "players": "1-2",
+    "tagline": "高解析度像素×重金属摇滚，2D格斗新浪潮",
+    "description": "当大多数厂商都在转向3D时，Arc System Works用《罪恶装备X》证明了2D格斗还有无限可能。DC版以640×480高解析度呈现手绘角色，索尔、凯、梅、米莉亚……每个人的造型都酷到炸裂。\n\n石渡太辅亲自操刀的重金属摇滚配乐与狂野的美术风格相得益彰；“一击必杀”“ROMAN CANCEL”等系统让对战节奏极快，连段自由度极高，奠定了此后二十年“GG系”格斗的基础。\n\nDC版是本作首个家用移植版，追加了新模式与隐藏角色。喜欢像素艺术又想要速度感的玩家，这是必玩之作。",
+    "highlights": [
+      "DC高解析度手绘2D像素",
+      "石渡太辅的重金属原声",
+      "ROMAN CANCEL与一击必杀系统",
+      "奠定GG系列格斗风格"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "31/40",
+        "quote": "高精细度的2D画面与爽快的系统令人印象深刻"
+      },
+      {
+        "source": "IGN",
+        "score": "8.7/10",
+        "quote": "视觉惊艳、节奏飞快的2D格斗佳作"
+      }
+    ],
+    "editorScore": 9.0,
+    "is2D": true,
+    "screenshots": [
+      "images/dc/dc-guilty-gear-x-s1.png",
+      "images/dc/dc-guilty-gear-x-x1.jpg",
+      "images/dc/dc-guilty-gear-x-x2.jpg",
+      "images/dc/dc-guilty-gear-x-title.png"
+    ],
+    "cover": "images/dc/dc-guilty-gear-x-box.jpg"
+  },
+  {
+    "id": "dc-street-fighter-alpha-3",
+    "title": "Street Fighter Alpha 3",
+    "titleZh": "街头霸王ZERO3",
+    "titleJa": "ストリートファイターZERO3 サイキョー流道場",
+    "year": 1999,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genre": "格斗",
+    "tags": [
+      "2D格斗",
+      "ISM系统",
+      "世界巡回"
+    ],
+    "players": "1-2",
+    "tagline": "ZERO系列集大成，DC版就是完全版",
+    "description": "三十多名角色、三种“ISM”战斗风格，再加上丰富无比的“世界巡回”模式——《街头霸王ZERO3》是卡普空2D格斗黄金时代的集大成之作，而DC版正是当年最接近街机、内容最丰富的版本。\n\nX-ISM、A-ISM、V-ISM分别对应经典街霸、ZERO系列与自定义连段风格，让同一个角色也能玩出三种截然不同的打法。DC版还追加了“最强流道场”模式与网络对战功能。\n\n色彩鲜艳的动漫风像素、热血的BGM，至今仍让人想起街机厅里投币排队的日子。",
+    "highlights": [
+      "三种ISM战斗风格可选",
+      "DC版追加“最强流道场”",
+      "超过30名可选角色",
+      "丰富的世界巡回成长模式"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "33/40",
+        "quote": "系统丰富，DC版完成度很高"
+      },
+      {
+        "source": "IGN",
+        "score": "9.5/10",
+        "quote": "最完整的ZERO3体验，2D格斗迷必备"
+      },
+      {
+        "source": "GameSpot",
+        "score": "9/10",
+        "quote": "内容丰富、手感一流的经典格斗"
+      }
+    ],
+    "editorScore": 9.0,
+    "is2D": true,
+    "screenshots": [
+      "images/dc/dc-street-fighter-alpha-3-s1.png",
+      "images/dc/dc-street-fighter-alpha-3-x2.png",
+      "images/dc/dc-street-fighter-alpha-3-title.png"
+    ],
+    "cover": "images/dc/dc-street-fighter-alpha-3-box.jpg"
+  },
+  {
+    "id": "dc-last-blade-2",
+    "title": "The Last Blade 2",
+    "titleZh": "月华剑士2",
+    "titleJa": "幕末浪漫第二幕 月華の剣士 〜月に咲く華、散りゆく花〜",
+    "year": 2000,
+    "developer": "SNK",
+    "publisher": "SNK（日）/ Agetec（美）",
+    "genre": "格斗",
+    "tags": [
+      "2D格斗",
+      "剑戟",
+      "和风"
+    ],
+    "players": "1-2",
+    "tagline": "幕末樱花下的刀光剑影，SNK和风美学巅峰",
+    "description": "樱花飘落，月光如水，剑客们在幕末的京都拔刀相向——《月华剑士2》被誉为SNK最美的格斗游戏，每一帧像素都透着浓浓的日本画韵味。\n\n“力”与“技”两种模式让角色可以选择偏重必杀或连段的打法，弹刀系统讲究精准时机，攻防间充满剑道般的紧张感。楓、守矢、雪……角色的故事凄美动人，结局插画让人久久难忘。\n\nDC版追加了前作的Boss“晓武藏”作为可选角色。若你偏爱和风题材的像素格斗，它比任何一款都更有味道。",
+    "highlights": [
+      "SNK最具艺术感的和风像素",
+      "力/技双模式战斗系统",
+      "精准弹刀带来的剑戟张力",
+      "DC版追加晓武藏"
+    ],
+    "reviews": [
+      {
+        "source": "IGN",
+        "score": "8.7/10",
+        "quote": "画面优美、系统扎实，被低估的SNK佳作"
+      },
+      {
+        "source": "GameSpot",
+        "score": "8.1/10",
+        "quote": "细腻的动画与深度系统值得格斗迷收藏"
+      },
+      {
+        "source": "Edge",
+        "score": "6/10",
+        "quote": "手感出色但移植新意有限"
+      }
+    ],
+    "editorScore": 8.9,
+    "is2D": true,
+    "screenshots": [
+      "images/dc/dc-last-blade-2-s1.png",
+      "images/dc/dc-last-blade-2-x1.png",
+      "images/dc/dc-last-blade-2-title.png"
+    ],
+    "cover": "images/dc/dc-last-blade-2-box.jpg"
+  },
+  {
+    "id": "dc-sonic-adventure",
+    "title": "Sonic Adventure",
+    "titleZh": "索尼克大冒险",
+    "titleJa": "ソニックアドベンチャー",
+    "year": 1998,
+    "developer": "Sonic Team",
+    "publisher": "Sega",
+    "genre": "平台跳跃",
+    "tags": [
+      "3D动作",
+      "高速",
+      "六位主角"
+    ],
+    "players": "1",
+    "tagline": "音速刺猬跃入3D，DC首发的震撼",
+    "description": "杀人鲸追着索尼克冲下码头的那一幕，让1998年的玩家集体惊掉了下巴。《索尼克大冒险》是DC在日本的首发主力，也是索尼克第一次真正跃入3D世界。\n\n六位主角各有独立剧情与玩法：索尼克的高速冲刺、塔尔斯的竞速、纳克鲁斯的寻宝、艾米的逃脱、机器人E-102γ的射击、大嘴猫的钓鱼……再加上培育Chao的小游戏，内容量惊人。\n\n镜头与操作虽有时代局限，但那种速度感与世嘉蓝天般的明亮气质，正是DC精神的最佳代言。",
+    "highlights": [
+      "DC首发的3D索尼克",
+      "六名角色多线剧情",
+      "Chao育成系统",
+      "摇滚风格的经典配乐"
+    ],
+    "reviews": [
+      {
+        "source": "GameSpot",
+        "score": "9.2/10",
+        "quote": "速度感惊人，DC必备的旗舰作品"
+      },
+      {
+        "source": "IGN",
+        "score": "8.6/10",
+        "quote": "画面震撼，但镜头偶有问题"
+      },
+      {
+        "source": "Edge",
+        "score": "8/10",
+        "quote": "野心勃勃的3D化尝试"
+      }
+    ],
+    "editorScore": 8.9,
+    "is2D": false,
+    "screenshots": [
+      "images/dc/dc-sonic-adventure-s1.png",
+      "images/dc/dc-sonic-adventure-x1.png",
+      "images/dc/dc-sonic-adventure-title.png"
+    ],
+    "cover": "images/dc/dc-sonic-adventure-box.jpg"
+  },
+  {
+    "id": "dc-rez",
+    "title": "Rez",
+    "titleZh": "Rez",
+    "titleJa": "Rez",
+    "year": 2001,
+    "developer": "United Game Artists",
+    "publisher": "Sega",
+    "genre": "射击",
+    "tags": [
+      "音乐",
+      "联觉",
+      "线框美学"
+    ],
+    "players": "1",
+    "tagline": "射击即音乐，水口哲也的联觉之旅",
+    "description": "锁定、发射、爆破——每一次射击都会化作一个节拍，整个关卡随着你的操作逐渐演变成一首完整的电子乐。水口哲也以“联觉”为灵感创作的《Rez》，是一场把听觉、视觉与触觉融为一体的实验。\n\n线框构成的赛博空间、随节奏脉动的敌人，在当年看来前卫得不可思议，如今依旧不显过时。玩法上它是一款简单的轨道射击，却能让人在最终关卡体会到近乎宗教般的感动。\n\n3D的画面，却有着最纯粹的街机射击灵魂。戴上耳机，关灯，再玩一次吧。",
+    "highlights": [
+      "射击与电子音乐的完美融合",
+      "极简线框美学",
+      "联觉概念的先锋之作",
+      "最终关卡的感动体验"
+    ],
+    "reviews": [
+      {
+        "source": "Edge",
+        "score": "9/10",
+        "quote": "一部把游戏推向艺术领域的作品"
+      },
+      {
+        "source": "Fami通",
+        "score": "31/40",
+        "quote": "独特的音乐射击体验令人耳目一新"
+      },
+      {
+        "source": "ODCM（英）",
+        "score": "82%",
+        "quote": "形式新颖、氛围迷人"
+      }
+    ],
+    "editorScore": 8.9,
+    "is2D": false,
+    "screenshots": [
+      "images/dc/dc-rez-s1.png",
+      "images/dc/dc-rez-title.png"
+    ],
+    "cover": "images/dc/dc-rez-box.jpg"
   },
   {
     "id": "dc-chuchu-rocket",
@@ -446,7 +786,7 @@
     "year": 1999,
     "developer": "Sonic Team",
     "publisher": "Sega",
-    "genre": "益智",
+    "genre": "解谜",
     "tags": [
       "多人派对",
       "网络对战",
@@ -481,10 +821,87 @@
     "editorScore": 8.8,
     "is2D": true,
     "screenshots": [
-      "images/dc/dc-chuchu-rocket-1.jpg",
-      "images/dc/dc-chuchu-rocket-2.jpg"
+      "images/dc/dc-chuchu-rocket-s1.png",
+      "images/dc/dc-chuchu-rocket-title.png"
     ],
-    "coverShot": true
+    "cover": "images/dc/dc-chuchu-rocket-box.jpg"
+  },
+  {
+    "id": "dc-vampire-chronicle",
+    "title": "Vampire Chronicle for Matching Service",
+    "titleZh": "恶魔战士 编年史",
+    "titleJa": "ヴァンパイア クロニクル フォー マッチングサービス",
+    "year": 2000,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genre": "格斗",
+    "tags": [
+      "2D格斗",
+      "哥特",
+      "网络对战"
+    ],
+    "players": "1-2",
+    "tagline": "恶魔战士全集合，哥特像素的华丽盛宴",
+    "description": "莫莉卡、菲莉西亚、雷德亚……卡普空最具哥特风情的格斗系列《恶魔战士》，在DC上迎来了“全集”式的作品《恶魔战士 编年史》。\n\n本作收录系列全部角色，并允许玩家为每个角色选择五款街机作品中任意一代的招式与系统，相当于把整个系列装进了一张光盘。夸张的变形动作、充满想象力的超必杀，展现了CPS2时代卡普空的像素动画功力。\n\n本作原本为“Matching Service”网络对战而生，日版独占。喜爱怪诞美学与流畅像素动画的玩家，千万别错过这部被低估的杰作。",
+    "highlights": [
+      "可选择五代系统的“全集”设计",
+      "CPS2时代顶级的角色动画",
+      "哥特恐怖风格的独特美术",
+      "支持网络对战的日版独占作品"
+    ],
+    "reviews": [],
+    "editorScore": 8.8,
+    "is2D": true,
+    "screenshots": [
+      "images/dc/dc-vampire-chronicle-s1.png",
+      "images/dc/dc-vampire-chronicle-x1.jpg",
+      "images/dc/dc-vampire-chronicle-x2.jpg",
+      "images/dc/dc-vampire-chronicle-title.png"
+    ],
+    "cover": "images/dc/dc-vampire-chronicle-box.jpg"
+  },
+  {
+    "id": "dc-sakura-taisen-3",
+    "title": "Sakura Wars 3: Is Paris Burning?",
+    "titleZh": "樱花大战3 巴黎在燃烧吗",
+    "titleJa": "サクラ大戦3 〜巴里は燃えているか〜",
+    "year": 2001,
+    "developer": "Red Company / Overworks",
+    "publisher": "Sega",
+    "genre": "战略角色扮演",
+    "tags": [
+      "恋爱冒险",
+      "战棋",
+      "蒸汽朋克"
+    ],
+    "players": "1",
+    "tagline": "花之都巴黎的浪漫与战斗，樱战系列的最高峰",
+    "description": "大神一郎远赴花都巴黎，组建“巴黎华击团·花组”，与五位个性鲜明的少女共同守护这座城市——《樱花大战3》是系列首部登陆DC的正统续作，也是许多玩家心中的系列最高峰。\n\n“LIPS”限时选项系统让每一次对话都牵动心跳，战斗部分改为全新的“ARMS”系统，3D化的战场更具策略深度。广井王子的剧本、田中公平的主题曲、藤岛康介的角色设计，依然水准一流。\n\n虽为3D画面，但浓郁的日式动画风格与蒸汽朋克世界观，让它成为DC上最具“日系”魅力的RPG之一。",
+    "highlights": [
+      "巴黎舞台的全新故事与角色",
+      "LIPS限时对话选项系统",
+      "ARMS战棋战斗系统",
+      "田中公平的经典主题曲"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "34/40",
+        "quote": "系列的魅力完整延续，新舞台带来新鲜感"
+      },
+      {
+        "source": "RPGFan",
+        "score": "92%",
+        "quote": "融合恋爱冒险与战略战斗的出色续作"
+      }
+    ],
+    "editorScore": 8.8,
+    "is2D": false,
+    "screenshots": [
+      "images/dc/dc-sakura-taisen-3-s1.png",
+      "images/dc/dc-sakura-taisen-3-title.png"
+    ],
+    "cover": "images/dc/dc-sakura-taisen-3-box.jpg"
   },
   {
     "id": "dc-bangai-o",
@@ -529,11 +946,12 @@
     "editorScore": 8.7,
     "is2D": true,
     "screenshots": [
-      "images/dc/dc-bangai-o-1.png",
-      "images/dc/dc-bangai-o-2.jpg",
-      "images/dc/dc-bangai-o-3.jpg"
+      "images/dc/dc-bangai-o-s1.png",
+      "images/dc/dc-bangai-o-x1.png",
+      "images/dc/dc-bangai-o-x2.jpg",
+      "images/dc/dc-bangai-o-title.png"
     ],
-    "coverShot": true
+    "cover": "images/dc/dc-bangai-o-box.jpg"
   },
   {
     "id": "dc-jojo",
@@ -578,9 +996,10 @@
     "editorScore": 8.6,
     "is2D": true,
     "screenshots": [
-      "images/dc/dc-jojo-1.png"
+      "images/dc/dc-jojo-s1.png",
+      "images/dc/dc-jojo-title.png"
     ],
-    "coverShot": false
+    "cover": "images/dc/dc-jojo-box.jpg"
   },
   {
     "id": "dc-border-down",
@@ -625,11 +1044,89 @@
     "editorScore": 8.6,
     "is2D": true,
     "screenshots": [
-      "images/dc/dc-border-down-1.png",
-      "images/dc/dc-border-down-2.jpg",
-      "images/dc/dc-border-down-3.jpg"
+      "images/dc/dc-border-down-s1.png",
+      "images/dc/dc-border-down-x1.png",
+      "images/dc/dc-border-down-x2.jpg",
+      "images/dc/dc-border-down-title.png"
     ],
-    "coverShot": true
+    "cover": "images/dc/dc-border-down-box.jpg"
+  },
+  {
+    "id": "dc-street-fighter-3-double-impact",
+    "title": "Street Fighter III: Double Impact",
+    "titleZh": "街头霸王III 双重冲击",
+    "titleJa": "ストリートファイターIII ダブルインパクト",
+    "year": 1999,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genre": "格斗",
+    "tags": [
+      "2D格斗",
+      "二合一",
+      "CPS3"
+    ],
+    "players": "1-2",
+    "tagline": "街霸III初代与2nd Impact二合一",
+    "description": "一张光盘收录《街霸III New Generation》与《2nd Impact》两部作品——《双重冲击》是CPS3格斗首次以完整形态登陆家用机。\n\n全新的角色阵容在当年引起不小争议：没有春丽、只有隆和肯两位老面孔，取而代之的是亚历克斯、Q、乌利恩、豪鬼……但当你真正上手，就会被BLOCKING系统和超细腻的像素动画所折服。2nd Impact加入的EX必杀技也让系统更加完善。\n\n若你已经爱上《3rd Strike》，不妨回头看看这对“兄长”，体会街霸III系统一步步成型的历程。",
+    "highlights": [
+      "街霸III两部作品合集",
+      "CPS3顶级像素动画",
+      "BLOCKING系统的原点",
+      "EX必杀技首次登场"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "31/40",
+        "quote": "两作合一的超值移植，画面重现度极高"
+      }
+    ],
+    "editorScore": 8.5,
+    "is2D": true,
+    "screenshots": [
+      "images/dc/dc-street-fighter-3-double-impact-s1.png",
+      "images/dc/dc-street-fighter-3-double-impact-title.png"
+    ],
+    "cover": "images/dc/dc-street-fighter-3-double-impact-box.jpg"
+  },
+  {
+    "id": "dc-kof-2002",
+    "title": "The King of Fighters 2002",
+    "titleZh": "拳皇2002",
+    "titleJa": "ザ・キング・オブ・ファイターズ2002",
+    "year": 2003,
+    "developer": "Eolith / Playmore",
+    "publisher": "Playmore",
+    "genre": "格斗",
+    "tags": [
+      "2D格斗",
+      "3对3",
+      "梦幻对决"
+    ],
+    "players": "1-2",
+    "tagline": "无剧情的纯粹乱斗，拳皇迷心中的经典",
+    "description": "没有剧情，只有对战——《拳皇2002》以“梦幻对决”为主题，召集了历代人气角色，是无数中国街机厅里投币最多的格斗游戏之一。\n\n本作取消了援护系统，回归纯粹的三对三团体战，并引入“MAX发动”与“MAX2”超必杀系统，让连段变化更加丰富。草薙京、八神庵、K'、库拉……阵容豪华到让人挑花了眼。\n\nDC版于2003年在日本发售，是这台主机最后期的格斗作品之一。对于在街机厅里度过青春的中国玩家来说，这是一份浓浓的回忆。",
+    "highlights": [
+      "历代人气角色的梦幻集结",
+      "MAX发动与MAX2系统",
+      "回归纯粹的3对3团体战",
+      "中国街机厅的青春记忆"
+    ],
+    "reviews": [
+      {
+        "source": "Hardcore Gaming 101",
+        "score": "—",
+        "quote": "回顾评价称其阵容与平衡性代表了系列的高峰"
+      }
+    ],
+    "editorScore": 8.5,
+    "is2D": true,
+    "screenshots": [
+      "images/dc/dc-kof-2002-s1.png",
+      "images/dc/dc-kof-2002-x1.png",
+      "images/dc/dc-kof-2002-title.png"
+    ],
+    "cover": "images/dc/dc-kof-2002-box.jpg"
   },
   {
     "id": "dc-record-of-lodoss-war",
@@ -675,11 +1172,58 @@
     "editorScore": 8.4,
     "is2D": false,
     "screenshots": [
-      "images/dc/dc-record-of-lodoss-war-1.jpg",
-      "images/dc/dc-record-of-lodoss-war-2.jpg",
-      "images/dc/dc-record-of-lodoss-war-3.jpg"
+      "images/dc/dc-record-of-lodoss-war-s1.png",
+      "images/dc/dc-record-of-lodoss-war-title.png"
     ],
-    "coverShot": true
+    "cover": "images/dc/dc-record-of-lodoss-war-box.jpg"
+  },
+  {
+    "id": "dc-mr-driller",
+    "title": "Mr. Driller",
+    "titleZh": "钻地小子",
+    "titleJa": "ミスタードリラー",
+    "year": 2000,
+    "developer": "Namco",
+    "publisher": "Namco",
+    "genre": "解谜",
+    "tags": [
+      "方块",
+      "钻地",
+      "氧气"
+    ],
+    "players": "1",
+    "tagline": "一路向下挖！南梦宫的魔性方块解谜",
+    "description": "堀进少年手握钻机，一路向下挖掘——但小心头顶掉落的彩色方块，还要随时补充越来越少的氧气！《钻地小子》是南梦宫为《挖金子》（Dig Dug）注入的新生命。\n\n同色方块相连就会一起消失，上方的方块随之下落，可能引发连锁，也可能把你直接压扁。简单的规则带来紧张又上瘾的体验，鲜艳可爱的2D像素画风更是讨人喜爱。\n\n它是那种“再来一局”就停不下来的游戏，无论是当年还是今天，都是最适合碎片时间的2D佳作。",
+    "highlights": [
+      "简单易懂的挖掘解谜玩法",
+      "氧气限制带来的紧张感",
+      "鲜艳可爱的2D像素画面",
+      "《挖金子》的精神续作"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "32/40",
+        "quote": "上手简单、令人上瘾的方块游戏"
+      },
+      {
+        "source": "IGN",
+        "score": "8.9/10",
+        "quote": "极具魔性的解谜佳作"
+      },
+      {
+        "source": "GameSpot",
+        "score": "5.6/10",
+        "quote": "玩法有趣但内容偏少"
+      }
+    ],
+    "editorScore": 8.4,
+    "is2D": true,
+    "screenshots": [
+      "images/dc/dc-mr-driller-s1.png",
+      "images/dc/dc-mr-driller-title.png"
+    ],
+    "cover": "images/dc/dc-mr-driller-box.jpg"
   },
   {
     "id": "dc-elemental-gimmick-gear",
@@ -725,11 +1269,53 @@
     "editorScore": 8.3,
     "is2D": true,
     "screenshots": [
-      "images/dc/dc-elemental-gimmick-gear-1.jpg",
-      "images/dc/dc-elemental-gimmick-gear-2.jpg",
-      "images/dc/dc-elemental-gimmick-gear-3.jpg"
+      "images/dc/dc-elemental-gimmick-gear-s1.png",
+      "images/dc/dc-elemental-gimmick-gear-title.png"
     ],
-    "coverShot": true
+    "cover": "images/dc/dc-elemental-gimmick-gear-box.jpg"
+  },
+  {
+    "id": "dc-kof-99-evolution",
+    "title": "The King of Fighters '99 Evolution",
+    "titleZh": "拳皇'99 进化",
+    "titleJa": "ザ・キング・オブ・ファイターズ'99 エボリューション",
+    "year": 2000,
+    "developer": "SNK",
+    "publisher": "SNK（日）/ Agetec（美）",
+    "genre": "格斗",
+    "tags": [
+      "2D格斗",
+      "援护系统",
+      "K'登场"
+    ],
+    "players": "1-2",
+    "tagline": "K'登场的新篇章，DC版强化进化",
+    "description": "草薙京退居幕后，新主角K'带着火焰登场——《拳皇'99》开启了NESTS篇章，而DC版《'99 Evolution》则是一次全面强化的移植。\n\n本作引入四人组队、其中一人担任“援护”的Striker系统，战术更加丰富；DC版更将背景重制为3D多边形，并追加了新的援护角色，像素角色在立体舞台上大打出手，别有一番风味。\n\n对拳皇系列有感情的玩家，这是了解K'、麦克西马等人物起点的最佳版本。",
+    "highlights": [
+      "K'登场，NESTS篇开幕",
+      "Striker援护系统",
+      "DC版3D重制背景",
+      "追加援护角色"
+    ],
+    "reviews": [
+      {
+        "source": "IGN",
+        "score": "8.5/10",
+        "quote": "DC版在原作基础上做了有意义的强化"
+      },
+      {
+        "source": "Metacritic",
+        "score": "67/100",
+        "quote": "评价褒贬不一"
+      }
+    ],
+    "editorScore": 8.3,
+    "is2D": true,
+    "screenshots": [
+      "images/dc/dc-kof-99-evolution-s1.png",
+      "images/dc/dc-kof-99-evolution-title.png"
+    ],
+    "cover": "images/dc/dc-kof-99-evolution-box.jpg"
   },
   {
     "id": "dc-mars-matrix",
@@ -774,9 +1360,269 @@
     "editorScore": 8.2,
     "is2D": true,
     "screenshots": [
-      "images/dc/dc-mars-matrix-1.png",
-      "images/dc/dc-mars-matrix-2.jpg"
+      "images/dc/dc-mars-matrix-s1.png",
+      "images/dc/dc-mars-matrix-title.png"
     ],
-    "coverShot": true
+    "cover": "images/dc/dc-mars-matrix-box.jpg"
+  },
+  {
+    "id": "dc-under-defeat",
+    "title": "Under Defeat",
+    "titleZh": "Under Defeat",
+    "titleJa": "アンダーディフィート",
+    "year": 2006,
+    "developer": "G.rev",
+    "publisher": "G.rev",
+    "genre": "射击",
+    "tags": [
+      "纵版射击",
+      "直升机",
+      "DC末期"
+    ],
+    "players": "1-2",
+    "tagline": "DC最后的光芒，直升机射击的硬派美学",
+    "description": "2006年，DC早已停产多年，G.rev却依然为它带来了这部纵版射击《Under Defeat》——这也是最后一批DC商业作品之一。\n\n玩家驾驶武装直升机，可以调整机炮射击角度，配合可召唤的僚机“Option”应对四面八方的敌人。烟雾、爆炸与碎片的效果在DC上表现得惊人细腻，硬派写实的军事风格在射击游戏中独树一帜。\n\n画面为3D多边形，玩法则是纯正的2D纵版射击。对于DC收藏者与射击迷来说，它是一个时代谢幕时最动人的回响。",
+    "highlights": [
+      "可调整射击角度的直升机",
+      "细腻的爆炸与烟雾效果",
+      "DC末期的商业作品",
+      "硬派写实军事风格"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "27/40",
+        "quote": "画面表现出色，射击手感扎实"
+      },
+      {
+        "source": "Edge",
+        "score": "6/10",
+        "quote": "制作精良，但玩法略显保守"
+      }
+    ],
+    "editorScore": 8.2,
+    "is2D": true,
+    "screenshots": [
+      "images/dc/dc-under-defeat-s1.png",
+      "images/dc/dc-under-defeat-x1.png",
+      "images/dc/dc-under-defeat-title.png"
+    ],
+    "cover": "images/dc/dc-under-defeat-box.jpg"
+  },
+  {
+    "id": "dc-super-robot-taisen-alpha",
+    "title": "Super Robot Wars Alpha for Dreamcast",
+    "titleZh": "超级机器人大战α for Dreamcast",
+    "titleJa": "スーパーロボット大戦α for Dreamcast",
+    "year": 2001,
+    "developer": "Banpresto",
+    "publisher": "Banpresto",
+    "genre": "战略角色扮演",
+    "tags": [
+      "战棋",
+      "机器人",
+      "动画联动"
+    ],
+    "players": "1",
+    "tagline": "高达、EVA、马克罗斯同台！DC版机战α",
+    "description": "高达、EVA、超时空要塞、魔神Z……在《超级机器人大战α》中，你最爱的机器人动画角色们齐聚一堂，共同对抗来自宇宙的威胁。DC版是PS原作的强化重制版本。\n\n战棋部分依然是熟悉的格子地图与精神指令，DC版最大的变化是战斗动画全面3D化，并提高了部分关卡难度、追加了新的Boss与原创机体。经典的“技能点”系统让高手可以追求更高的挑战。\n\n战斗动画为3D，但浓厚的机器人动画情怀与日式SRPG的深度，让它值得每一位机战迷收藏。",
+    "highlights": [
+      "多部机器人动画梦幻联动",
+      "DC版全新3D战斗动画",
+      "追加新Boss与新机体",
+      "技能点挑战系统"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "30/40",
+        "quote": "DC版3D演出带来新鲜感，内容依旧丰富"
+      },
+      {
+        "source": "Dorimaga",
+        "score": "8.33/10",
+        "quote": "系列粉丝会满意的强化移植"
+      }
+    ],
+    "editorScore": 8.2,
+    "is2D": false,
+    "screenshots": [
+      "images/dc/dc-super-robot-taisen-alpha-s1.png",
+      "images/dc/dc-super-robot-taisen-alpha-title.png"
+    ],
+    "cover": "images/dc/dc-super-robot-taisen-alpha-box.jpg"
+  },
+  {
+    "id": "dc-zero-gunner-2",
+    "title": "Zero Gunner 2",
+    "titleZh": "零式枪手2",
+    "titleJa": "ゼロガンナー2",
+    "year": 2001,
+    "developer": "Psikyo",
+    "publisher": "Psikyo",
+    "genre": "射击",
+    "tags": [
+      "纵版射击",
+      "旋转射击",
+      "双人"
+    ],
+    "players": "1-2",
+    "tagline": "旋转炮口360度开火，彩京的异色射击",
+    "description": "彩京的射击游戏一向以高速和硬派著称，而《零式枪手2》则另辟蹊径：玩家驾驶的直升机可以锁定朝向，围绕敌人360度旋转射击，在纵版卷轴中打出“环绕扫射”的独特手感。\n\n3D多边形打造的城市与巨型Boss充满压迫感，每关节奏紧凑，适合在短时间内反复挑战。双人合作时，两架直升机交叉火力的场面更是爽快。\n\nDC版是本作唯一的家用移植（直到多年后的复刻），是DC射击阵容中颇具个性的一员。",
+    "highlights": [
+      "可锁定朝向的360度射击",
+      "彩京式的高速节奏",
+      "巨型多边形Boss",
+      "支持双人合作"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "30/40",
+        "quote": "独特的旋转射击系统颇具新意"
+      }
+    ],
+    "editorScore": 8.1,
+    "is2D": true,
+    "screenshots": [
+      "images/dc/dc-zero-gunner-2-s1.png",
+      "images/dc/dc-zero-gunner-2-x2.jpg",
+      "images/dc/dc-zero-gunner-2-title.png"
+    ],
+    "cover": ""
+  },
+  {
+    "id": "dc-gunbird-2",
+    "title": "Gunbird 2",
+    "titleZh": "武装飞鸟2",
+    "titleJa": "ガンバード2",
+    "year": 2000,
+    "developer": "Psikyo",
+    "publisher": "Capcom",
+    "genre": "射击",
+    "tags": [
+      "纵版射击",
+      "魔法少女",
+      "搞笑"
+    ],
+    "players": "1-2",
+    "tagline": "魔女、海盗与机器人，彩京的欢乐射击",
+    "description": "魔法少女玛莉恩骑着扫帚、老海盗靠着一艘飞行船、还有长着胡子的机器人……《武装飞鸟2》延续前作的童话风格，是彩京最欢乐的一款纵版射击。\n\n每位角色拥有不同的主射击、副武器与近身攻击，新增的蓄力格斗攻击让近战也成为得分手段。卡普空发行的DC版还追加了《恶魔战士》的莫莉卡作为隐藏角色！\n\n画面色彩鲜艳、角色台词搞怪，难度也相对亲民，是适合与朋友一起轻松游玩的2D射击佳作。",
+    "highlights": [
+      "个性鲜明的可选角色",
+      "近身格斗攻击系统",
+      "DC版追加莫莉卡",
+      "色彩鲜艳的童话风画面"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "29/40",
+        "quote": "角色有趣，射击手感扎实"
+      },
+      {
+        "source": "IGN",
+        "score": "8.4/10",
+        "quote": "彩京风格十足的爽快射击"
+      },
+      {
+        "source": "GameSpot",
+        "score": "5.8/10",
+        "quote": "玩法传统，内容略少"
+      }
+    ],
+    "editorScore": 7.8,
+    "is2D": true,
+    "screenshots": [
+      "images/dc/dc-gunbird-2-s1.png",
+      "images/dc/dc-gunbird-2-title.png"
+    ],
+    "cover": "images/dc/dc-gunbird-2-box.jpg"
+  },
+  {
+    "id": "dc-psyvariar-2",
+    "title": "Psyvariar 2: The Will to Fabricate",
+    "titleZh": "超能力者2",
+    "titleJa": "サイヴァリア2",
+    "year": 2004,
+    "developer": "SKONEC / Success",
+    "publisher": "Success",
+    "genre": "射击",
+    "tags": [
+      "弹幕",
+      "擦弹升级",
+      "纵版射击"
+    ],
+    "players": "1",
+    "tagline": "擦弹即升级，在弹幕缝隙中跳舞",
+    "description": "在大多数射击游戏里，子弹是需要远离的东西；而在《Psyvariar 2》中，你需要主动贴近它们——“擦弹”（BUZZ）会为你积累经验值，经验满了就升级，升级瞬间还有短暂无敌。\n\n这套系统让游戏充满了刀尖上跳舞的刺激感：越危险，成长越快。关卡结构也会随表现分支变化，鼓励玩家一次次挑战更险峻的路线。\n\n本作于2004年登陆DC，是主机停产后依然坚持推出的射击作品之一，硬核射击迷不可错过。",
+    "highlights": [
+      "独创“擦弹升级”系统",
+      "升级瞬间的无敌时间",
+      "根据表现分支的关卡",
+      "DC后期射击阵容一员"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "27/40",
+        "quote": "擦弹升级的独特机制让人乐在其中"
+      }
+    ],
+    "editorScore": 7.8,
+    "is2D": true,
+    "screenshots": [
+      "images/dc/dc-psyvariar-2-s1.png",
+      "images/dc/dc-psyvariar-2-title.png"
+    ],
+    "cover": "images/dc/dc-psyvariar-2-box.jpg"
+  },
+  {
+    "id": "dc-giga-wing",
+    "title": "Giga Wing",
+    "titleZh": "极翼",
+    "titleJa": "ギガウイング",
+    "year": 1999,
+    "developer": "Takumi",
+    "publisher": "Capcom",
+    "genre": "射击",
+    "tags": [
+      "弹幕",
+      "反射力场",
+      "高分"
+    ],
+    "players": "1-2",
+    "tagline": "反射满屏子弹，天文数字般的得分狂潮",
+    "description": "《极翼》是Takumi的首部射击作品，也是后来《火星矩阵》的前身。它的核心是“反射力场”：按住按键就能将满屏的敌弹反弹回去，同时把敌人化为大量得分勋章。\n\n画面上动辄数百发子弹，得分则以惊人的速度跳动，蒸汽朋克风格的飞空艇与战舰也别有韵味。四名角色各有独立剧情，多周目游玩能看到不同的结局。\n\n它的评价褒贬不一，但对喜欢满屏弹幕、追求爆炸性分数的玩家来说，依旧是DC上值得一试的2D射击作品。",
+    "highlights": [
+      "反射敌弹的力场系统",
+      "天文数字般的得分",
+      "蒸汽朋克风格的世界观",
+      "四名角色各有剧情"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "28/40",
+        "quote": "反射系统带来独特爽快感"
+      },
+      {
+        "source": "IGN",
+        "score": "6/10",
+        "quote": "弹幕华丽但玩法单调"
+      },
+      {
+        "source": "GameSpot",
+        "score": "4.4/10",
+        "quote": "画面混乱，深度不足"
+      }
+    ],
+    "editorScore": 7.6,
+    "is2D": true,
+    "screenshots": [
+      "images/dc/dc-giga-wing-s1.png",
+      "images/dc/dc-giga-wing-title.png"
+    ],
+    "cover": "images/dc/dc-giga-wing-box.jpg"
   }
 ]

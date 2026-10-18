@@ -43,10 +43,14 @@
     "editorScore": 9.7,
     "is2D": true,
     "screenshots": [
+      "images/gba/gba-mother-3-s1.png",
+      "images/gba/gba-mother-3-s2.png",
+      "images/gba/gba-mother-3-s3.png",
       "images/gba/gba-mother-3-1.png",
-      "images/gba/gba-mother-3-2.png"
+      "images/gba/gba-mother-3-2.png",
+      "images/gba/gba-mother-3-title.png"
     ],
-    "coverShot": true
+    "cover": "images/gba/gba-mother-3-box.jpg"
   },
   {
     "id": "gba-golden-sun",
@@ -92,10 +96,13 @@
     "editorScore": 9.6,
     "is2D": true,
     "screenshots": [
+      "images/gba/gba-golden-sun-s1.png",
+      "images/gba/gba-golden-sun-s2.png",
       "images/gba/gba-golden-sun-1.png",
-      "images/gba/gba-golden-sun-2.png"
+      "images/gba/gba-golden-sun-2.png",
+      "images/gba/gba-golden-sun-title.png"
     ],
-    "coverShot": true
+    "cover": "images/gba/gba-golden-sun-box.jpg"
   },
   {
     "id": "gba-castlevania-aria-of-sorrow",
@@ -141,9 +148,13 @@
     "editorScore": 9.6,
     "is2D": true,
     "screenshots": [
-      "images/gba/gba-castlevania-aria-of-sorrow-1.jpg"
+      "images/gba/gba-castlevania-aria-of-sorrow-s1.png",
+      "images/gba/gba-castlevania-aria-of-sorrow-s2.png",
+      "images/gba/gba-castlevania-aria-of-sorrow-s3.png",
+      "images/gba/gba-castlevania-aria-of-sorrow-1.jpg",
+      "images/gba/gba-castlevania-aria-of-sorrow-title.png"
     ],
-    "coverShot": true
+    "cover": "images/gba/gba-castlevania-aria-of-sorrow-box.jpg"
   },
   {
     "id": "gba-zelda-minish-cap",
@@ -189,9 +200,11 @@
     "editorScore": 9.4,
     "is2D": true,
     "screenshots": [
-      "images/gba/gba-zelda-minish-cap-1.png"
+      "images/gba/gba-zelda-minish-cap-s1.png",
+      "images/gba/gba-zelda-minish-cap-1.png",
+      "images/gba/gba-zelda-minish-cap-title.png"
     ],
-    "coverShot": true
+    "cover": "images/gba/gba-zelda-minish-cap-box.jpg"
   },
   {
     "id": "gba-metroid-fusion",
@@ -237,10 +250,12 @@
     "editorScore": 9.4,
     "is2D": true,
     "screenshots": [
+      "images/gba/gba-metroid-fusion-s1.png",
       "images/gba/gba-metroid-fusion-1.jpg",
-      "images/gba/gba-metroid-fusion-2.png"
+      "images/gba/gba-metroid-fusion-2.png",
+      "images/gba/gba-metroid-fusion-title.png"
     ],
-    "coverShot": true
+    "cover": "images/gba/gba-metroid-fusion-box.jpg"
   },
   {
     "id": "gba-final-fantasy-vi-advance",
@@ -285,8 +300,63 @@
     ],
     "editorScore": 9.4,
     "is2D": true,
-    "screenshots": [],
-    "coverShot": false
+    "screenshots": [
+      "images/gba/gba-final-fantasy-vi-advance-s1.png",
+      "images/gba/gba-final-fantasy-vi-advance-x1.jpg",
+      "images/gba/gba-final-fantasy-vi-advance-x2.jpg",
+      "images/gba/gba-final-fantasy-vi-advance-title.png"
+    ],
+    "cover": "images/gba/gba-final-fantasy-vi-advance-box.jpg"
+  },
+  {
+    "id": "gba-zelda-link-to-the-past-four-swords",
+    "title": "The Legend of Zelda: A Link to the Past & Four Swords",
+    "titleZh": "塞尔达传说 众神的三角力量&四支剑",
+    "titleJa": "ゼルダの伝説 神々のトライフォース&4つの剣",
+    "year": 2002,
+    "developer": "Nintendo / Flagship",
+    "publisher": "Nintendo",
+    "genre": "动作冒险",
+    "tags": [
+      "像素",
+      "俯视角",
+      "多人合作",
+      "名作移植"
+    ],
+    "players": "1-4",
+    "tagline": "神作入掌，再附赠四人同乐新冒险",
+    "description": "SFC上的《众神的三角力量》被誉为2D塞尔达的教科书：光明世界与黑暗世界来回穿梭，迷宫、道具、隐藏要素环环相扣，三十年后仍是俯视角动作冒险的标杆。GBA版几乎原汁原味地搬上掌机，还追加了林克的语音与新的隐藏迷宫。\n\n更大的惊喜是同捆的《四支剑》——最多四人用联机线各操纵一个颜色的林克，合力搬石头、拉机关，又在抢夺卢比时互相“背后捅刀”，友情考验指数爆表。\n\n没玩过SFC原版的朋友，这就是最方便的补课机会。",
+    "highlights": [
+      "2D塞尔达巅峰之作完整移植",
+      "光暗双世界交错的迷宫设计",
+      "《四支剑》最多四人联机合作",
+      "通关后解锁追加迷宫"
+    ],
+    "reviews": [
+      {
+        "source": "IGN",
+        "score": "9.7/10",
+        "quote": "经典永不过时，加上四人模式更是锦上添花"
+      },
+      {
+        "source": "GameSpot",
+        "score": "9.2/10",
+        "quote": "史上最佳动作冒险之一的出色掌机版"
+      },
+      {
+        "source": "Metacritic",
+        "score": "95/100",
+        "quote": "GBA平台评分最高的游戏之一"
+      }
+    ],
+    "editorScore": 9.4,
+    "is2D": true,
+    "screenshots": [
+      "images/gba/gba-zelda-link-to-the-past-four-swords-s1.png",
+      "images/gba/gba-zelda-link-to-the-past-four-swords-x2.png",
+      "images/gba/gba-zelda-link-to-the-past-four-swords-title.png"
+    ],
+    "cover": "images/gba/gba-zelda-link-to-the-past-four-swords-box.jpg"
   },
   {
     "id": "gba-golden-sun-the-lost-age",
@@ -332,10 +402,13 @@
     "editorScore": 9.3,
     "is2D": true,
     "screenshots": [
+      "images/gba/gba-golden-sun-the-lost-age-s1.png",
+      "images/gba/gba-golden-sun-the-lost-age-s2.png",
       "images/gba/gba-golden-sun-the-lost-age-1.png",
-      "images/gba/gba-golden-sun-the-lost-age-2.png"
+      "images/gba/gba-golden-sun-the-lost-age-2.png",
+      "images/gba/gba-golden-sun-the-lost-age-title.png"
     ],
-    "coverShot": true
+    "cover": "images/gba/gba-golden-sun-the-lost-age-box.jpg"
   },
   {
     "id": "gba-fire-emblem",
@@ -381,9 +454,13 @@
     "editorScore": 9.3,
     "is2D": true,
     "screenshots": [
-      "images/gba/gba-fire-emblem-1.png"
+      "images/gba/gba-fire-emblem-s1.png",
+      "images/gba/gba-fire-emblem-s2.png",
+      "images/gba/gba-fire-emblem-s3.png",
+      "images/gba/gba-fire-emblem-1.png",
+      "images/gba/gba-fire-emblem-title.png"
     ],
-    "coverShot": true
+    "cover": "images/gba/gba-fire-emblem-box.jpg"
   },
   {
     "id": "gba-mario-and-luigi-superstar-saga",
@@ -429,9 +506,13 @@
     "editorScore": 9.3,
     "is2D": true,
     "screenshots": [
-      "images/gba/gba-mario-and-luigi-superstar-saga-1.png"
+      "images/gba/gba-mario-and-luigi-superstar-saga-s1.png",
+      "images/gba/gba-mario-and-luigi-superstar-saga-s2.png",
+      "images/gba/gba-mario-and-luigi-superstar-saga-s3.png",
+      "images/gba/gba-mario-and-luigi-superstar-saga-1.png",
+      "images/gba/gba-mario-and-luigi-superstar-saga-title.png"
     ],
-    "coverShot": true
+    "cover": "images/gba/gba-mario-and-luigi-superstar-saga-box.jpg"
   },
   {
     "id": "gba-advance-wars",
@@ -477,9 +558,113 @@
     "editorScore": 9.2,
     "is2D": true,
     "screenshots": [
-      "images/gba/gba-advance-wars-1.png"
+      "images/gba/gba-advance-wars-s1.png",
+      "images/gba/gba-advance-wars-s2.png",
+      "images/gba/gba-advance-wars-s3.png",
+      "images/gba/gba-advance-wars-1.png",
+      "images/gba/gba-advance-wars-title.png"
     ],
-    "coverShot": true
+    "cover": "images/gba/gba-advance-wars-box.jpg"
+  },
+  {
+    "id": "gba-super-mario-advance-4",
+    "title": "Super Mario Advance 4: Super Mario Bros. 3",
+    "titleZh": "超级马里奥Advance 4 超级马里奥兄弟3",
+    "titleJa": "スーパーマリオアドバンス4",
+    "year": 2003,
+    "developer": "Nintendo R&D2",
+    "publisher": "Nintendo",
+    "genre": "平台跳跃",
+    "tags": [
+      "像素",
+      "横版",
+      "经典移植",
+      "e-Reader"
+    ],
+    "players": "1-2",
+    "tagline": "平台跳跃的圣经，掌上随时开跳",
+    "description": "《超级马里奥兄弟3》是FC时代平台跳跃的集大成者：狸猫尾巴飞上天、青蛙装潜水、锤子兄弟装扔锤，八个风格迥异的世界、上百个关卡，任天堂的关卡设计功力在此展露无遗。\n\nGBA版以SFC《马里奥全明星》的画面为基础重制，加入路易吉独立的手感与语音，还支持e-Reader读卡器追加新关卡和道具，在当年可谓内容最丰富的版本。\n\n无论是第一次接触还是第一百次重温，每一跳都是纯粹的快乐。",
+    "highlights": [
+      "百余关卡，平台跳跃设计教科书",
+      "狸猫装、青蛙装等经典变身",
+      "SFC级重绘画面",
+      "e-Reader追加关卡"
+    ],
+    "reviews": [
+      {
+        "source": "Metacritic",
+        "score": "94/100",
+        "quote": "获得媒体一致盛赞"
+      },
+      {
+        "source": "IGN",
+        "score": "9.5/10",
+        "quote": "史上最伟大的平台游戏之一，掌机上依旧完美"
+      },
+      {
+        "source": "Eurogamer",
+        "score": "9/10",
+        "quote": "经典无需多言，每个玩家都应拥有"
+      }
+    ],
+    "editorScore": 9.2,
+    "is2D": true,
+    "screenshots": [
+      "images/gba/gba-super-mario-advance-4-s1.png",
+      "images/gba/gba-super-mario-advance-4-x1.png",
+      "images/gba/gba-super-mario-advance-4-title.png"
+    ],
+    "cover": "images/gba/gba-super-mario-advance-4-box.jpg"
+  },
+  {
+    "id": "gba-metroid-zero-mission",
+    "title": "Metroid: Zero Mission",
+    "titleZh": "银河战士 零点任务",
+    "titleJa": "メトロイド ゼロミッション",
+    "year": 2004,
+    "developer": "Nintendo R&D1",
+    "publisher": "Nintendo",
+    "genre": "动作冒险",
+    "tags": [
+      "像素",
+      "银河恶魔城",
+      "重制",
+      "速通"
+    ],
+    "players": "1",
+    "tagline": "初代重生，银河战士最完美的入门作",
+    "description": "把FC初代《银河战士》用《融合》的引擎彻底重制——《零点任务》不是简单的复刻，而是一次重新创作。地图重新设计、新增Boss与道具、过场动画补全剧情，还在结尾加入了一段令人惊喜的全新章节，让萨姆斯脱下战甲潜入太空海盗母舰。\n\n操作手感是系列2D作品中最顺滑的一部，流程紧凑，适合反复挑战速通与低收集率通关，通关后还能解锁FC原版。\n\n如果你从没碰过银河战士，从这里开始准没错。",
+    "highlights": [
+      "FC初代的全面重制与扩充",
+      "追加的零装甲潜入章节",
+      "手感顺滑，适合速通挑战",
+      "通关解锁FC原版"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "34/40",
+        "quote": "重制得极其用心，新旧玩家都能享受"
+      },
+      {
+        "source": "IGN",
+        "score": "9/10",
+        "quote": "短小精悍，2D银河战士的完美复兴"
+      },
+      {
+        "source": "Metacritic",
+        "score": "89/100",
+        "quote": "获得媒体普遍好评"
+      }
+    ],
+    "editorScore": 9.2,
+    "is2D": true,
+    "screenshots": [
+      "images/gba/gba-metroid-zero-mission-s1.png",
+      "images/gba/gba-metroid-zero-mission-x1.png",
+      "images/gba/gba-metroid-zero-mission-title.png"
+    ],
+    "cover": "images/gba/gba-metroid-zero-mission-box.jpg"
   },
   {
     "id": "gba-final-fantasy-tactics-advance",
@@ -525,9 +710,13 @@
     "editorScore": 9.1,
     "is2D": true,
     "screenshots": [
-      "images/gba/gba-final-fantasy-tactics-advance-1.png"
+      "images/gba/gba-final-fantasy-tactics-advance-s1.png",
+      "images/gba/gba-final-fantasy-tactics-advance-s2.png",
+      "images/gba/gba-final-fantasy-tactics-advance-s3.png",
+      "images/gba/gba-final-fantasy-tactics-advance-1.png",
+      "images/gba/gba-final-fantasy-tactics-advance-title.png"
     ],
-    "coverShot": true
+    "cover": "images/gba/gba-final-fantasy-tactics-advance-box.jpg"
   },
   {
     "id": "gba-pokemon-ruby-sapphire",
@@ -573,9 +762,114 @@
     "editorScore": 9.0,
     "is2D": true,
     "screenshots": [
-      "images/gba/gba-pokemon-ruby-sapphire-1.jpg"
+      "images/gba/gba-pokemon-ruby-sapphire-s1.png",
+      "images/gba/gba-pokemon-ruby-sapphire-s2.png",
+      "images/gba/gba-pokemon-ruby-sapphire-s3.png",
+      "images/gba/gba-pokemon-ruby-sapphire-title.png"
     ],
-    "coverShot": true
+    "cover": "images/gba/gba-pokemon-ruby-sapphire-box.jpg"
+  },
+  {
+    "id": "gba-final-fantasy-v-advance",
+    "title": "Final Fantasy V Advance",
+    "titleZh": "最终幻想5 Advance",
+    "titleJa": "ファイナルファンタジーV アドバンス",
+    "year": 2006,
+    "developer": "Square Enix",
+    "publisher": "Square Enix / Nintendo",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "回合制",
+      "职业系统",
+      "移植"
+    ],
+    "players": "1",
+    "tagline": "职业系统之王，搭配到天亮",
+    "description": "《最终幻想5》的职业系统是系列中最自由、最好玩的一套：骑士、黑魔、忍者、召唤士、吟游诗人……学会的能力可以跨职业搭配，“双刀忍者+连续魔”之类的邪道组合让玩家研究得不亦乐乎。\n\nGBA版不仅重新翻译，还追加了预言家、剑舞士、炮手、模仿士四个新职业，以及高难度的隐藏迷宫“封印之洞”。巴茨、蕾娜、法莉丝和老爷爷加拉夫的旅程轻松中带着感动，植松伸夫的《Clash on the Big Bridge》更是名曲中的名曲。\n\n爱折腾养成的玩家，这一作能让你玩上几百小时。",
+    "highlights": [
+      "自由度极高的职业与能力搭配",
+      "GBA版新增四个职业",
+      "追加隐藏迷宫与超强Boss",
+      "植松伸夫名曲《大桥上的决斗》"
+    ],
+    "reviews": [
+      {
+        "source": "Metacritic",
+        "score": "83/100",
+        "quote": "经典之作的优秀移植"
+      },
+      {
+        "source": "EGM",
+        "score": "8.8/10",
+        "quote": "职业系统至今仍让人着迷"
+      },
+      {
+        "source": "IGN",
+        "score": "8.5/10",
+        "quote": "追加内容丰富，值得重温"
+      }
+    ],
+    "editorScore": 9.0,
+    "is2D": true,
+    "screenshots": [
+      "images/gba/gba-final-fantasy-v-advance-s1.png",
+      "images/gba/gba-final-fantasy-v-advance-x1.jpg",
+      "images/gba/gba-final-fantasy-v-advance-x2.jpg",
+      "images/gba/gba-final-fantasy-v-advance-title.png"
+    ],
+    "cover": "images/gba/gba-final-fantasy-v-advance-box.jpg"
+  },
+  {
+    "id": "gba-fire-emblem-sacred-stones",
+    "title": "Fire Emblem: The Sacred Stones",
+    "titleZh": "火焰纹章 圣魔之光石",
+    "titleJa": "ファイアーエムブレム 聖魔の光石",
+    "year": 2004,
+    "developer": "Intelligent Systems",
+    "publisher": "Nintendo",
+    "genre": "战略角色扮演",
+    "tags": [
+      "像素",
+      "战棋",
+      "双主角",
+      "大地图"
+    ],
+    "players": "1",
+    "tagline": "双子王族的悲歌，自由度最高的GBA火纹",
+    "description": "GBA上第三部火焰纹章，讲述双子艾瑞可与艾弗拉姆在圣石被毁、魔王复苏的乱世中奋战。中途剧情分为两条路线，两人各自率军，最终殊途同归。\n\n本作引入了可自由移动的世界地图，玩家可以反复进入“塔”与“遗迹”练级，转职也变成二选一的分支，新人更容易上手，老手也能精心规划每位角色的培养路线。\n\n像素战斗动画依旧精彩，支援对话丰富。作为火纹入门作品，《圣魔之光石》是最友好的选择。",
+    "highlights": [
+      "双主角分支路线",
+      "世界地图与可练级的塔、遗迹",
+      "二选一分支转职",
+      "入门友好的难度曲线"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "35/40",
+        "quote": "系统更加亲切，系列粉丝与新人都能乐在其中"
+      },
+      {
+        "source": "IGN",
+        "score": "8.5/10",
+        "quote": "延续前作水准的扎实战棋"
+      },
+      {
+        "source": "Metacritic",
+        "score": "85/100",
+        "quote": "获得媒体普遍好评"
+      }
+    ],
+    "editorScore": 9.0,
+    "is2D": true,
+    "screenshots": [
+      "images/gba/gba-fire-emblem-sacred-stones-s1.png",
+      "images/gba/gba-fire-emblem-sacred-stones-s2.png",
+      "images/gba/gba-fire-emblem-sacred-stones-s3.png",
+      "images/gba/gba-fire-emblem-sacred-stones-title.png"
+    ],
+    "cover": "images/gba/gba-fire-emblem-sacred-stones-box.jpg"
   },
   {
     "id": "gba-tactics-ogre-knight-of-lodis",
@@ -621,9 +915,243 @@
     "editorScore": 8.9,
     "is2D": true,
     "screenshots": [
-      "images/gba/gba-tactics-ogre-knight-of-lodis-1.jpg"
+      "images/gba/gba-tactics-ogre-knight-of-lodis-s1.png",
+      "images/gba/gba-tactics-ogre-knight-of-lodis-s2.png",
+      "images/gba/gba-tactics-ogre-knight-of-lodis-title.png"
     ],
-    "coverShot": false
+    "cover": "images/gba/gba-tactics-ogre-knight-of-lodis-box.jpg"
+  },
+  {
+    "id": "gba-fire-emblem-binding-blade",
+    "title": "Fire Emblem: The Binding Blade",
+    "titleZh": "火焰纹章 封印之剑",
+    "titleJa": "ファイアーエムブレム 封印の剣",
+    "year": 2002,
+    "developer": "Intelligent Systems",
+    "publisher": "Nintendo",
+    "genre": "战略角色扮演",
+    "tags": [
+      "像素",
+      "战棋",
+      "高难度",
+      "日版独占"
+    ],
+    "players": "1",
+    "tagline": "罗伊的初阵，硬派火纹登陆掌机",
+    "description": "火焰纹章系列首次登陆GBA之作，主角罗伊后来因《任天堂明星大乱斗DX》而为人熟知，但他的本家游戏却从未在海外发售。\n\n《封印之剑》难度在GBA三部曲中最高：命中率偏低、敌军数量庞大、外传关卡条件苛刻，每一场仗都需要精打细算。三十多章的长篇剧情、众多可招募角色、龙之封印的史诗故事，让它成为硬核战棋玩家心中的白月光。\n\n民间汉化版让无数中国玩家得以体验，玩过《烈火之剑》后不妨回头挑战这部前传的续篇。",
+    "highlights": [
+      "罗伊的本家作品",
+      "三部曲中最高的难度",
+      "大量外传关卡与隐藏角色",
+      "《烈火之剑》的后续故事"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "36/40",
+        "quote": "系列首次登陆GBA，品质毫不妥协"
+      }
+    ],
+    "editorScore": 8.9,
+    "is2D": true,
+    "screenshots": [
+      "images/gba/gba-fire-emblem-binding-blade-s1.png",
+      "images/gba/gba-fire-emblem-binding-blade-s2.png",
+      "images/gba/gba-fire-emblem-binding-blade-title.png"
+    ],
+    "cover": "images/gba/gba-fire-emblem-binding-blade-box.jpg"
+  },
+  {
+    "id": "gba-final-fantasy-iv-advance",
+    "title": "Final Fantasy IV Advance",
+    "titleZh": "最终幻想4 Advance",
+    "titleJa": "ファイナルファンタジーIV アドバンス",
+    "year": 2005,
+    "developer": "Square Enix",
+    "publisher": "Square Enix / Nintendo",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "ATB",
+      "剧情向",
+      "移植"
+    ],
+    "players": "1",
+    "tagline": "暗黑骑士的救赎，ATB战斗的起点",
+    "description": "暗黑骑士塞西尔奉命夺取水晶，却在良心的拷问下走上背叛与救赎之路——《最终幻想4》第一次让FF系列拥有了真正戏剧化的剧情，也首次引入了影响深远的ATB（即时回合）战斗系统。\n\nGBA版重新翻译了文本，追加了月之遗迹隐藏迷宫与终盘可自由更换队员的功能，让原本中途离队的伙伴也能并肩作战。\n\n凯恩的反复背叛、帕罗姆与波罗姆的牺牲……这些桥段至今仍让老玩家鼻酸。",
+    "highlights": [
+      "系列首次采用ATB战斗",
+      "戏剧性十足的骑士救赎故事",
+      "追加月之遗迹隐藏迷宫",
+      "终盘可自由编成队伍"
+    ],
+    "reviews": [
+      {
+        "source": "Metacritic",
+        "score": "85/100",
+        "quote": "经典RPG的扎实移植"
+      },
+      {
+        "source": "IGN",
+        "score": "8.6/10",
+        "quote": "剧情与系统依旧出色"
+      },
+      {
+        "source": "GameSpot",
+        "score": "8.3/10",
+        "quote": "值得体验的经典，追加内容加分"
+      }
+    ],
+    "editorScore": 8.9,
+    "is2D": true,
+    "screenshots": [
+      "images/gba/gba-final-fantasy-iv-advance-s1.png",
+      "images/gba/gba-final-fantasy-iv-advance-x1.jpg",
+      "images/gba/gba-final-fantasy-iv-advance-x2.jpg",
+      "images/gba/gba-final-fantasy-iv-advance-title.png"
+    ],
+    "cover": "images/gba/gba-final-fantasy-iv-advance-box.jpg"
+  },
+  {
+    "id": "gba-castlevania-circle-of-the-moon",
+    "title": "Castlevania: Circle of the Moon",
+    "titleZh": "恶魔城 月之轮回",
+    "titleJa": "キャッスルヴァニア サークル オブ ザ ムーン",
+    "year": 2001,
+    "developer": "Konami Computer Entertainment Kobe",
+    "publisher": "Konami",
+    "genre": "动作角色扮演",
+    "tags": [
+      "像素",
+      "银河恶魔城",
+      "卡片组合",
+      "高难度"
+    ],
+    "players": "1",
+    "tagline": "GBA首发的硬派恶魔城，DSS卡片玩不腻",
+    "description": "与GBA主机同期登场的《月之轮回》，是很多人在掌机上的第一部“月下式”恶魔城。主角内森·格雷夫斯手持鞭子，在巨大的城堡中探索，为了拯救师父而与德古拉决战。\n\n本作独特的“DSS卡片系统”将行动卡与属性卡两两组合，能产生数十种效果：火焰鞭、召唤、变身……收集卡片的过程本身就是一大乐趣。难度偏高，敌人凶狠，适合喜欢挑战的玩家。\n\n画面偏暗是当年无背光GBA的遗憾，但在今天的屏幕上，它的哥特美感终于能完整呈现。",
+    "highlights": [
+      "DSS卡片组合系统",
+      "GBA首发阵容中的硬派动作",
+      "庞大的城堡探索",
+      "多种通关后模式"
+    ],
+    "reviews": [
+      {
+        "source": "GameSpot",
+        "score": "9.6/10",
+        "quote": "GBA首发阵容中最出色的游戏之一"
+      },
+      {
+        "source": "Metacritic",
+        "score": "91/100",
+        "quote": "获得媒体普遍盛赞"
+      },
+      {
+        "source": "Fami通",
+        "score": "27/40",
+        "quote": "系统扎实但难度偏高"
+      }
+    ],
+    "editorScore": 8.9,
+    "is2D": true,
+    "screenshots": [
+      "images/gba/gba-castlevania-circle-of-the-moon-s1.png",
+      "images/gba/gba-castlevania-circle-of-the-moon-s2.png",
+      "images/gba/gba-castlevania-circle-of-the-moon-s3.png",
+      "images/gba/gba-castlevania-circle-of-the-moon-title.png"
+    ],
+    "cover": "images/gba/gba-castlevania-circle-of-the-moon-box.jpg"
+  },
+  {
+    "id": "gba-wario-land-4",
+    "title": "Wario Land 4",
+    "titleZh": "瓦里奥大陆4",
+    "titleJa": "ワリオランドアドバンス ヨーキのお宝",
+    "year": 2001,
+    "developer": "Nintendo R&D1",
+    "publisher": "Nintendo",
+    "genre": "平台跳跃",
+    "tags": [
+      "像素",
+      "横版",
+      "解谜",
+      "倒计时逃脱"
+    ],
+    "players": "1",
+    "tagline": "贪财大叔的金字塔大冒险",
+    "description": "瓦里奥不会死——被火烧会变成火球、被压扁会变成弹簧、被冰冻会变成冰块，这些“变身”正是解开关卡谜题的钥匙。《瓦里奥大陆4》在系列一贯的创意之上加入了全新的“逃脱”机制：拿到关底宝物后，倒计时开始，必须原路狂奔回出口！\n\n每关都有隐藏宝石与CD收集，关卡主题天马行空，配乐更是风格多变，从爵士到摇滚应有尽有。\n\n这是GBA上最有个性的平台游戏之一，也是任天堂二线角色中的一部杰作。",
+    "highlights": [
+      "各种“变身”构成的解谜设计",
+      "夺宝后限时逃脱的紧张感",
+      "丰富的收集要素",
+      "风格多变的配乐"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "33/40",
+        "quote": "创意十足的动作游戏，瓦里奥魅力尽显"
+      },
+      {
+        "source": "IGN",
+        "score": "9/10",
+        "quote": "GBA上最好的平台游戏之一"
+      },
+      {
+        "source": "Metacritic",
+        "score": "88/100",
+        "quote": "获得媒体普遍好评"
+      }
+    ],
+    "editorScore": 8.9,
+    "is2D": true,
+    "screenshots": [
+      "images/gba/gba-wario-land-4-s1.png",
+      "images/gba/gba-wario-land-4-x1.png",
+      "images/gba/gba-wario-land-4-title.png"
+    ],
+    "cover": "images/gba/gba-wario-land-4-box.jpg"
+  },
+  {
+    "id": "gba-rhythm-tengoku",
+    "title": "Rhythm Tengoku",
+    "titleZh": "节奏天国",
+    "titleJa": "リズム天国",
+    "year": 2006,
+    "developer": "Nintendo SPD / J.P.Room",
+    "publisher": "Nintendo",
+    "genre": "音乐",
+    "tags": [
+      "像素",
+      "节奏",
+      "搞笑",
+      "日版独占"
+    ],
+    "players": "1",
+    "tagline": "淳君出品，一个按键就能嗨翻天",
+    "description": "由音乐制作人淳君（つんく♂）与《瓦里奥制造》团队联手打造的《节奏天国》，只用A键（偶尔加上方向键）就能玩出无穷花样：给机器人拧螺丝、跟着空手道家劈罐子、合唱团唱歌……每个小游戏都荒诞又可爱。\n\n它的精髓在于“听”——画面可能骗你，但节拍不会。熟练之后闭着眼睛也能完美通关，那种与音乐合为一体的快感无可替代。\n\n本作仅在日本发售，却开启了一个大受欢迎的系列。洗脑旋律，保证让你一整天都在脑中循环。",
+    "highlights": [
+      "淳君作曲的洗脑旋律",
+      "操作极简、乐趣极深",
+      "荒诞搞笑的小游戏",
+      "系列的开山之作"
+    ],
+    "reviews": [
+      {
+        "source": "Eurogamer",
+        "score": "8/10",
+        "quote": "进口也值得一玩的魔性节奏游戏"
+      }
+    ],
+    "editorScore": 8.9,
+    "is2D": true,
+    "screenshots": [
+      "images/gba/gba-rhythm-tengoku-s1.png",
+      "images/gba/gba-rhythm-tengoku-s2.png",
+      "images/gba/gba-rhythm-tengoku-title.png"
+    ],
+    "cover": "images/gba/gba-rhythm-tengoku-box.jpg"
   },
   {
     "id": "gba-astro-boy-omega-factor",
@@ -669,9 +1197,114 @@
     "editorScore": 8.8,
     "is2D": true,
     "screenshots": [
-      "images/gba/gba-astro-boy-omega-factor-1.png"
+      "images/gba/gba-astro-boy-omega-factor-s1.png",
+      "images/gba/gba-astro-boy-omega-factor-s2.png",
+      "images/gba/gba-astro-boy-omega-factor-s3.png",
+      "images/gba/gba-astro-boy-omega-factor-1.png",
+      "images/gba/gba-astro-boy-omega-factor-title.png"
     ],
-    "coverShot": true
+    "cover": "images/gba/gba-astro-boy-omega-factor-box.jpg"
+  },
+  {
+    "id": "gba-castlevania-harmony-of-dissonance",
+    "title": "Castlevania: Harmony of Dissonance",
+    "titleZh": "恶魔城 白夜协奏曲",
+    "titleJa": "キャッスルヴァニア 白夜の協奏曲",
+    "year": 2002,
+    "developer": "Konami Computer Entertainment Tokyo",
+    "publisher": "Konami",
+    "genre": "动作角色扮演",
+    "tags": [
+      "像素",
+      "银河恶魔城",
+      "双城堡",
+      "高速"
+    ],
+    "players": "1",
+    "tagline": "明亮华丽的双城堡，月下精神正统续作",
+    "description": "由《月下夜想曲》制作人五十岚孝司操刀的GBA恶魔城，主角是贝尔蒙特家族的朱斯特。针对前作画面过暗的问题，本作采用鲜艳的色彩与发光描边的角色，在无背光的GBA上也清晰可见。\n\n城堡被设计成两座互为镜像的“双城”，探索量巨大；主角的冲刺手感极为轻快，配合“魔导书”与副武器的组合技，战斗华丽无比。\n\n音乐受限于音源略显单薄，但整体素质依然出色，是承上启下的重要一作。",
+    "highlights": [
+      "五十岚孝司主导的月下式设计",
+      "互为镜像的双城堡探索",
+      "轻快的冲刺与魔导书组合技",
+      "鲜艳画面适合掌机"
+    ],
+    "reviews": [
+      {
+        "source": "IGN",
+        "score": "9.2/10",
+        "quote": "画面与探索全面提升，GBA动作佳作"
+      },
+      {
+        "source": "Fami通",
+        "score": "31/40",
+        "quote": "操作舒适，探索乐趣十足"
+      },
+      {
+        "source": "Metacritic",
+        "score": "87/100",
+        "quote": "获得媒体普遍好评"
+      }
+    ],
+    "editorScore": 8.8,
+    "is2D": true,
+    "screenshots": [
+      "images/gba/gba-castlevania-harmony-of-dissonance-s1.png",
+      "images/gba/gba-castlevania-harmony-of-dissonance-s2.png",
+      "images/gba/gba-castlevania-harmony-of-dissonance-s3.png",
+      "images/gba/gba-castlevania-harmony-of-dissonance-title.png"
+    ],
+    "cover": "images/gba/gba-castlevania-harmony-of-dissonance-box.jpg"
+  },
+  {
+    "id": "gba-mega-man-zero-2",
+    "title": "Mega Man Zero 2",
+    "titleZh": "洛克人Zero 2",
+    "titleJa": "ロックマンゼロ2",
+    "year": 2003,
+    "developer": "Inti Creates",
+    "publisher": "Capcom",
+    "genre": "动作",
+    "tags": [
+      "像素",
+      "横版动作",
+      "高难度",
+      "形态系统"
+    ],
+    "players": "1",
+    "tagline": "荒漠中的孤独战士，难度与魅力并存",
+    "description": "一年的流浪之后，杰洛在荒漠中独自战斗到最后一刻——《洛克人Zero 2》的开场就充满悲壮感。本作在前作基础上加入了“形态（Form）”系统，根据战斗方式自动解锁不同形态，带来攻击、防御、速度的差异化强化。\n\n关卡设计更加讲究，EX技能需要高评价通关才能获得，逼着玩家不断精进技术。新登场的Z锁链、蓄力斩等武器操作也更为多样。\n\n系列口碑在本作真正站稳脚跟，喜欢硬派横版动作的玩家不容错过。",
+    "highlights": [
+      "根据战斗风格解锁的形态系统",
+      "高评价才能获得的EX技能",
+      "武器操作更丰富",
+      "悲壮的开场与剧情"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "31/40",
+        "quote": "动作手感进一步打磨，耐玩度提高"
+      },
+      {
+        "source": "GameSpot",
+        "score": "8.6/10",
+        "quote": "精致又硬核的2D动作"
+      },
+      {
+        "source": "Metacritic",
+        "score": "81/100",
+        "quote": "获得媒体普遍好评"
+      }
+    ],
+    "editorScore": 8.8,
+    "is2D": true,
+    "screenshots": [
+      "images/gba/gba-mega-man-zero-2-s1.png",
+      "images/gba/gba-mega-man-zero-2-s2.png",
+      "images/gba/gba-mega-man-zero-2-title.png"
+    ],
+    "cover": "images/gba/gba-mega-man-zero-2-box.jpg"
   },
   {
     "id": "gba-boktai",
@@ -717,9 +1350,11 @@
     "editorScore": 8.7,
     "is2D": true,
     "screenshots": [
-      "images/gba/gba-boktai-1.jpg"
+      "images/gba/gba-boktai-s1.png",
+      "images/gba/gba-boktai-s2.png",
+      "images/gba/gba-boktai-title.png"
     ],
-    "coverShot": false
+    "cover": "images/gba/gba-boktai-box.jpg"
   },
   {
     "id": "gba-harvest-moon-friends-of-mineral-town",
@@ -760,10 +1395,163 @@
     "editorScore": 8.7,
     "is2D": true,
     "screenshots": [
+      "images/gba/gba-harvest-moon-friends-of-mineral-town-s1.png",
+      "images/gba/gba-harvest-moon-friends-of-mineral-town-s2.png",
+      "images/gba/gba-harvest-moon-friends-of-mineral-town-s3.png",
       "images/gba/gba-harvest-moon-friends-of-mineral-town-1.png",
-      "images/gba/gba-harvest-moon-friends-of-mineral-town-2.jpg"
+      "images/gba/gba-harvest-moon-friends-of-mineral-town-title.png"
     ],
-    "coverShot": true
+    "cover": "images/gba/gba-harvest-moon-friends-of-mineral-town-box.jpg"
+  },
+  {
+    "id": "gba-mega-man-zero",
+    "title": "Mega Man Zero",
+    "titleZh": "洛克人Zero",
+    "titleJa": "ロックマンゼロ",
+    "year": 2002,
+    "developer": "Inti Creates",
+    "publisher": "Capcom",
+    "genre": "动作",
+    "tags": [
+      "像素",
+      "横版动作",
+      "高难度",
+      "光剑"
+    ],
+    "players": "1",
+    "tagline": "百年沉睡后觉醒，红色斗神重出江湖",
+    "description": "X系列百年之后，传说中的红色战士杰洛被少女科学家希尔从沉睡中唤醒。Inti Creates接手的这部新系列，一改洛克人以射击为主的传统，以Z光剑为核心，近战斩击的爽快感前所未有。\n\n“赛博精灵”系统可以培养与使用小精灵获得增益，但使用会降低评价，取舍之间颇有策略。地图采用连通式设计，Boss战凶狠，难度相当硬派。\n\n开创了GBA上最具代表性的硬核动作系列之一，世界观黑暗深沉，值得从头体验。",
+    "highlights": [
+      "以光剑近战为核心的全新手感",
+      "赛博精灵培养与取舍",
+      "黑暗深沉的世界观",
+      "系列开山之作"
+    ],
+    "reviews": [
+      {
+        "source": "IGN",
+        "score": "8.8/10",
+        "quote": "硬派又爽快，洛克人系列的新高度"
+      },
+      {
+        "source": "GameSpot",
+        "score": "8.2/10",
+        "quote": "手感出色的2D动作，但难度不低"
+      },
+      {
+        "source": "Metacritic",
+        "score": "82/100",
+        "quote": "获得媒体普遍好评"
+      }
+    ],
+    "editorScore": 8.7,
+    "is2D": true,
+    "screenshots": [
+      "images/gba/gba-mega-man-zero-s1.png",
+      "images/gba/gba-mega-man-zero-s3.png",
+      "images/gba/gba-mega-man-zero-title.png"
+    ],
+    "cover": "images/gba/gba-mega-man-zero-box.jpg"
+  },
+  {
+    "id": "gba-gunstar-super-heroes",
+    "title": "Gunstar Super Heroes",
+    "titleZh": "火枪英雄 超级英雄",
+    "titleJa": "ガンスタースーパーヒーローズ",
+    "year": 2005,
+    "developer": "Treasure",
+    "publisher": "Sega",
+    "genre": "射击",
+    "tags": [
+      "像素",
+      "横版射击",
+      "Boss战",
+      "Treasure"
+    ],
+    "players": "1",
+    "tagline": "Treasure传奇续作，满屏爆炸停不下来",
+    "description": "MD名作《火枪英雄》的正统续篇，由Treasure亲自操刀。红与蓝两位英雄可选，三种武器随时切换，滑铲、投技、跳踢一应俱全，动作手感一如既往地火爆。\n\n本作最大卖点依旧是天马行空的Boss战：骰子迷宫、巨型变形机器人、致敬世嘉经典的关卡……每一关玩法都不重复，旋转缩放特效把GBA机能压榨到极致。\n\n流程不长，但两位角色剧情不同、多难度设定提供了反复挑战的动力。Treasure粉丝请收下。",
+    "highlights": [
+      "Treasure招牌的创意Boss战",
+      "三种武器即时切换",
+      "双角色不同剧情",
+      "致敬世嘉经典的彩蛋"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "34/40",
+        "quote": "Treasure风格的爽快动作依然健在"
+      },
+      {
+        "source": "IGN",
+        "score": "9/10",
+        "quote": "华丽疯狂的动作射击，GBA末期佳作"
+      },
+      {
+        "source": "Metacritic",
+        "score": "83/100",
+        "quote": "获得媒体普遍好评"
+      }
+    ],
+    "editorScore": 8.7,
+    "is2D": true,
+    "screenshots": [
+      "images/gba/gba-gunstar-super-heroes-s1.png",
+      "images/gba/gba-gunstar-super-heroes-title.png"
+    ],
+    "cover": "images/gba/gba-gunstar-super-heroes-box.jpg"
+  },
+  {
+    "id": "gba-pokemon-firered-leafgreen",
+    "title": "Pokémon FireRed & LeafGreen",
+    "titleZh": "精灵宝可梦 火红／叶绿",
+    "titleJa": "ポケットモンスター ファイアレッド・リーフグリーン",
+    "year": 2004,
+    "developer": "Game Freak",
+    "publisher": "Nintendo",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "收集",
+      "重制",
+      "无线联机"
+    ],
+    "players": "1-4",
+    "tagline": "重返关都，初代红绿的完美重制",
+    "description": "当年在GB黑白屏上踏上冒险的小智们，终于能在彩色的GBA上重返关都地区。《火红／叶绿》以第三世代系统重制了初代《红／绿》，特性、性格、双打对战全部加入，老地图焕然一新。\n\n通关后新增的“七之岛”提供了大量新内容，还能与《红宝石／蓝宝石》交换宝可梦；同捆的无线适配器让联机对战与交换更加方便。\n\n怀旧与新鲜兼得，是重温初代体验的最佳版本。",
+    "highlights": [
+      "初代关都地区的全面重制",
+      "通关后的七之岛新内容",
+      "同捆无线适配器联机",
+      "与红宝石／蓝宝石互通"
+    ],
+    "reviews": [
+      {
+        "source": "IGN",
+        "score": "9/10",
+        "quote": "经典冒险的完美重制，老玩家倍感亲切"
+      },
+      {
+        "source": "GameSpot",
+        "score": "8.4/10",
+        "quote": "内容丰富，值得重温"
+      },
+      {
+        "source": "Metacritic",
+        "score": "81/100",
+        "quote": "获得媒体普遍好评"
+      }
+    ],
+    "editorScore": 8.7,
+    "is2D": true,
+    "screenshots": [
+      "images/gba/gba-pokemon-firered-leafgreen-s1.png",
+      "images/gba/gba-pokemon-firered-leafgreen-s2.png",
+      "images/gba/gba-pokemon-firered-leafgreen-s3.png",
+      "images/gba/gba-pokemon-firered-leafgreen-title.png"
+    ],
+    "cover": "images/gba/gba-pokemon-firered-leafgreen-box.jpg"
   },
   {
     "id": "gba-mega-man-zero-3",
@@ -809,9 +1597,254 @@
     "editorScore": 8.6,
     "is2D": true,
     "screenshots": [
-      "images/gba/gba-mega-man-zero-3-1.jpg"
+      "images/gba/gba-mega-man-zero-3-s1.png",
+      "images/gba/gba-mega-man-zero-3-s2.png",
+      "images/gba/gba-mega-man-zero-3-title.png"
     ],
-    "coverShot": false
+    "cover": "images/gba/gba-mega-man-zero-3-box.jpg"
+  },
+  {
+    "id": "gba-kirby-amazing-mirror",
+    "title": "Kirby & the Amazing Mirror",
+    "titleZh": "星之卡比 镜之大迷宫",
+    "titleJa": "星のカービィ 鏡の大迷宮",
+    "year": 2004,
+    "developer": "HAL Laboratory / Flagship / Dimps",
+    "publisher": "Nintendo",
+    "genre": "平台跳跃",
+    "tags": [
+      "像素",
+      "银河恶魔城",
+      "四人合作",
+      "可爱"
+    ],
+    "players": "1-4",
+    "tagline": "四只卡比闯迷宫，可爱版恶魔城",
+    "description": "这一次，卡比被一分为四！《镜之大迷宫》抛弃了系列传统的线性关卡，改为一张巨大的互联地图，玩家需要探索镜中世界、寻找镜子碎片，玩法颇有“银河恶魔城”的味道。\n\n随时可以用手机呼叫另外三只卡比前来助阵，多人联机时四人同屏乱斗更是热闹非凡。吸入敌人复制能力的招牌玩法依旧，新增的“剑”“炸弹”等能力手感出色。\n\n画风可爱、难度适中，适合与朋友、家人一起分享的冒险。",
+    "highlights": [
+      "互联大地图的探索式设计",
+      "可呼叫伙伴的四卡比系统",
+      "最多四人联机合作",
+      "丰富的复制能力"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "36/40",
+        "quote": "探索型设计令系列焕然一新"
+      },
+      {
+        "source": "IGN",
+        "score": "8/10",
+        "quote": "可爱又耐玩，多人模式很有趣"
+      },
+      {
+        "source": "Metacritic",
+        "score": "80/100",
+        "quote": "获得媒体普遍好评"
+      }
+    ],
+    "editorScore": 8.6,
+    "is2D": true,
+    "screenshots": [
+      "images/gba/gba-kirby-amazing-mirror-s1.png",
+      "images/gba/gba-kirby-amazing-mirror-s2.png",
+      "images/gba/gba-kirby-amazing-mirror-s3.png",
+      "images/gba/gba-kirby-amazing-mirror-title.png"
+    ],
+    "cover": "images/gba/gba-kirby-amazing-mirror-box.jpg"
+  },
+  {
+    "id": "gba-mega-man-battle-network-3",
+    "title": "Mega Man Battle Network 3",
+    "titleZh": "洛克人EXE 3",
+    "titleJa": "ロックマンエグゼ3",
+    "year": 2002,
+    "developer": "Capcom Production Studio 2",
+    "publisher": "Capcom",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "卡牌战斗",
+      "网络世界",
+      "收集"
+    ],
+    "players": "1-2",
+    "tagline": "插入！洛克人.EXE，网络世界的卡牌对决",
+    "description": "在人人都有“网络导航员”的未来世界，少年热斗与他的导航员洛克人.EXE一起潜入网络对抗犯罪组织。《洛克人EXE》系列把RPG、即时动作与卡牌收集融为一体，在3×3格子的战场上抽取“芯片”组合连招，节奏紧张刺激。\n\n第三作被很多玩家视为系列巅峰：“导航员定制器”允许自由拼装强化程序，芯片数量多达数百种，构筑卡组的乐趣无穷；分为“白”“蓝”两个版本，部分芯片与导航员需要交换获得。\n\n独树一帜的玩法，至今仍有大批忠实粉丝。",
+    "highlights": [
+      "格子战场上的即时芯片战斗",
+      "导航员定制器自由拼装",
+      "数百种芯片收集与构筑",
+      "白／蓝双版本交换"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "34/40",
+        "quote": "系统更加成熟，收集与战斗乐趣倍增"
+      },
+      {
+        "source": "GameSpot",
+        "score": "8.5/10",
+        "quote": "深度十足的系列最佳之作"
+      },
+      {
+        "source": "Metacritic",
+        "score": "77/100",
+        "quote": "获得媒体正面评价"
+      }
+    ],
+    "editorScore": 8.6,
+    "is2D": true,
+    "screenshots": [
+      "images/gba/gba-mega-man-battle-network-3-s1.png",
+      "images/gba/gba-mega-man-battle-network-3-s2.png",
+      "images/gba/gba-mega-man-battle-network-3-s3.png",
+      "images/gba/gba-mega-man-battle-network-3-title.png"
+    ],
+    "cover": "images/gba/gba-mega-man-battle-network-3-box.jpg"
+  },
+  {
+    "id": "gba-super-robot-taisen-og",
+    "title": "Super Robot Taisen: Original Generation",
+    "titleZh": "超级机器人大战OG",
+    "titleJa": "スーパーロボット大戦ORIGINAL GENERATION",
+    "year": 2002,
+    "developer": "Banpresoft",
+    "publisher": "Banpresto / Atlus",
+    "genre": "战略角色扮演",
+    "tags": [
+      "像素",
+      "战棋",
+      "机战",
+      "原创机体"
+    ],
+    "players": "1",
+    "tagline": "原创机体齐出击，机战迷的热血盛宴",
+    "description": "没有高达、没有魔神Z，只有机战系列历代原创角色与机体——《超级机器人大战OG》大胆地让“配角”们成为主角，没想到一炮而红，催生出整个OG系列。\n\n双主角路线（库斯哈篇与雷欧斯篇）、气力与精神指令、改造与换装系统，经典机战的战略乐趣一样不少。最受欢迎的当属华丽的必杀技动画，“斩舰刀，一刀两断！”在GBA小屏幕上依然热血沸腾。\n\n不熟悉原作动画也能轻松入门，是战棋爱好者的另类之选。",
+    "highlights": [
+      "历代原创机体集结的全新故事",
+      "双主角路线",
+      "华丽热血的战斗动画",
+      "机体改造与换装"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "32/40",
+        "quote": "原创机体集结的新尝试，战斗演出出色"
+      }
+    ],
+    "editorScore": 8.6,
+    "is2D": true,
+    "screenshots": [
+      "images/gba/gba-super-robot-taisen-og-s1.png",
+      "images/gba/gba-super-robot-taisen-og-s2.png",
+      "images/gba/gba-super-robot-taisen-og-s3.png",
+      "images/gba/gba-super-robot-taisen-og-title.png"
+    ],
+    "cover": "images/gba/gba-super-robot-taisen-og-box.jpg"
+  },
+  {
+    "id": "gba-drill-dozer",
+    "title": "Drill Dozer",
+    "titleZh": "钻头少女",
+    "titleJa": "スクリューブレイカー 轟振どりるれろ",
+    "year": 2005,
+    "developer": "Game Freak",
+    "publisher": "Nintendo",
+    "genre": "平台跳跃",
+    "tags": [
+      "像素",
+      "振动卡带",
+      "钻头",
+      "隐藏佳作"
+    ],
+    "players": "1",
+    "tagline": "宝可梦团队的意外之作，钻破一切！",
+    "description": "出自Game Freak之手，却和宝可梦毫无关系——《钻头少女》讲述少女吉儿驾驶钻头机甲，向抢走家传宝石的坏蛋讨回公道。卡带内置振动马达，每一次钻墙、钻敌人都伴随着手中的震动，体感十足。\n\n钻头可以正转、反转、换挡加速，钻墙、开锁、在管道中穿梭，关卡设计围绕“钻”这个动作做足了文章，Boss战创意满满。\n\n本作在海外发售量很少，却被众多玩家誉为GBA末期最被低估的动作游戏。",
+    "highlights": [
+      "卡带内置振动马达",
+      "围绕钻头设计的关卡与解谜",
+      "换挡加速的独特操作",
+      "Game Freak的非宝可梦力作"
+    ],
+    "reviews": [
+      {
+        "source": "Eurogamer",
+        "score": "8/10",
+        "quote": "新鲜又迷人，GBA末期的惊喜"
+      },
+      {
+        "source": "IGN",
+        "score": "8/10",
+        "quote": "设计巧妙，振动功能很有趣"
+      },
+      {
+        "source": "Metacritic",
+        "score": "81/100",
+        "quote": "获得媒体普遍好评"
+      }
+    ],
+    "editorScore": 8.5,
+    "is2D": true,
+    "screenshots": [
+      "images/gba/gba-drill-dozer-s1.png",
+      "images/gba/gba-drill-dozer-s2.png",
+      "images/gba/gba-drill-dozer-title.png"
+    ],
+    "cover": "images/gba/gba-drill-dozer-box.jpg"
+  },
+  {
+    "id": "gba-ninja-five-o",
+    "title": "Ninja Five-O",
+    "titleZh": "忍者警察",
+    "titleJa": "",
+    "year": 2003,
+    "developer": "Hudson Soft",
+    "publisher": "Konami",
+    "genre": "动作",
+    "tags": [
+      "像素",
+      "钩爪",
+      "忍者",
+      "隐藏佳作"
+    ],
+    "players": "1",
+    "tagline": "钩爪飞荡的忍者特警，冷门硬核佳作",
+    "description": "一名忍者警察单枪匹马闯入恐怖分子占领的大楼，救出人质——《忍者警察》听起来像B级动作片，玩起来却是一款极其扎实的横版动作游戏。\n\n核心是钩爪：可以勾住天花板荡秋千、拉近敌人、跨越深渊，熟练后在关卡中高速飞荡的感觉无比爽快。手里剑、忍术、近身斩击配合使用，关卡中还要寻找人质与钥匙。\n\n本作销量惨淡，二手价格如今水涨船高，堪称GBA的“传说级冷门”。动作迷不妨找来一试。",
+    "highlights": [
+      "灵活的钩爪移动系统",
+      "解救人质的关卡目标",
+      "扎实硬派的动作手感",
+      "二手市场的传说级冷门"
+    ],
+    "reviews": [
+      {
+        "source": "IGN",
+        "score": "8.5/10",
+        "quote": "被低估的动作佳作，钩爪设计很出彩"
+      },
+      {
+        "source": "Game Informer",
+        "score": "8.25/10",
+        "quote": "手感扎实的忍者动作游戏"
+      },
+      {
+        "source": "Metacritic",
+        "score": "82/100",
+        "quote": "获得媒体普遍好评"
+      }
+    ],
+    "editorScore": 8.5,
+    "is2D": true,
+    "screenshots": [
+      "images/gba/gba-ninja-five-o-s1.png",
+      "images/gba/gba-ninja-five-o-s2.png",
+      "images/gba/gba-ninja-five-o-title.png"
+    ],
+    "cover": "images/gba/gba-ninja-five-o-box.jpg"
   },
   {
     "id": "gba-riviera-the-promised-land",
@@ -857,8 +1890,156 @@
     "editorScore": 8.4,
     "is2D": true,
     "screenshots": [
-      "images/gba/gba-riviera-the-promised-land-1.png"
+      "images/gba/gba-riviera-the-promised-land-s1.png",
+      "images/gba/gba-riviera-the-promised-land-s2.png",
+      "images/gba/gba-riviera-the-promised-land-1.png",
+      "images/gba/gba-riviera-the-promised-land-title.png"
     ],
-    "coverShot": true
+    "cover": "images/gba/gba-riviera-the-promised-land-box.jpg"
+  },
+  {
+    "id": "gba-mega-man-zero-4",
+    "title": "Mega Man Zero 4",
+    "titleZh": "洛克人Zero 4",
+    "titleJa": "ロックマンゼロ4",
+    "year": 2005,
+    "developer": "Inti Creates",
+    "publisher": "Capcom",
+    "genre": "动作",
+    "tags": [
+      "像素",
+      "横版动作",
+      "天气系统",
+      "完结篇"
+    ],
+    "players": "1",
+    "tagline": "斗神的最终章，杰洛传说就此落幕",
+    "description": "系列完结篇，杰洛为了保护人类难民，与疯狂的巴伊尔展开最后决战。本作加入“天气”系统，挑战关卡前可以改变天气，难度越高收获越多，增加了策略变化。\n\n新武器“Z拳套”可以夺取敌人武器，改造系统让零件组合更自由。动作手感依旧一流，Boss战紧张刺激。\n\n结局令人动容，作为一个时代的收尾当之无愧。玩过前三部的玩家，务必亲眼见证杰洛的最后一战。",
+    "highlights": [
+      "可调节难度的天气系统",
+      "夺取敌人武器的Z拳套",
+      "零件改造系统",
+      "系列感人的完结篇"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "30/40",
+        "quote": "系列集大成之作，动作手感依旧出色"
+      },
+      {
+        "source": "GameSpot",
+        "score": "7.6/10",
+        "quote": "系列粉丝会满意的完结篇"
+      },
+      {
+        "source": "Metacritic",
+        "score": "77/100",
+        "quote": "获得媒体正面评价"
+      }
+    ],
+    "editorScore": 8.4,
+    "is2D": true,
+    "screenshots": [
+      "images/gba/gba-mega-man-zero-4-s1.png",
+      "images/gba/gba-mega-man-zero-4-s2.png",
+      "images/gba/gba-mega-man-zero-4-title.png"
+    ],
+    "cover": "images/gba/gba-mega-man-zero-4-box.jpg"
+  },
+  {
+    "id": "gba-kuru-kuru-kururin",
+    "title": "Kuru Kuru Kururin",
+    "titleZh": "转转棒",
+    "titleJa": "くるくるくるりん",
+    "year": 2001,
+    "developer": "Eighting",
+    "publisher": "Nintendo",
+    "genre": "解谜",
+    "tags": [
+      "像素",
+      "旋转",
+      "烧脑",
+      "日欧独占"
+    ],
+    "players": "1-4",
+    "tagline": "一根旋转棒，考验你的手指与耐心",
+    "description": "操纵一根永不停转的长棒，在狭窄的迷宫中穿行，碰到墙壁就扣血——《转转棒》的规则简单到一句话就能说清，玩起来却让人欲罢不能。\n\n关卡中还有弹簧可以改变旋转方向、加速键可以冲过难点，越往后通道越窄、机关越刁钻，每通过一个难关都无比畅快。最多四人可以轮流或联机比拼速度。\n\n本作在日本与欧洲发售，未登陆北美，是GBA首发阵容中最具创意的小品，非常适合碎片时间来上一局。",
+    "highlights": [
+      "规则简单、上手即懂",
+      "旋转棒穿越迷宫的独特玩法",
+      "关卡难度循序渐进",
+      "支持多人对战"
+    ],
+    "reviews": [
+      {
+        "source": "Eurogamer",
+        "score": "9/10",
+        "quote": "简单而天才的设计，令人上瘾"
+      },
+      {
+        "source": "Edge",
+        "score": "7/10",
+        "quote": "创意十足的掌机小品"
+      }
+    ],
+    "editorScore": 8.3,
+    "is2D": true,
+    "screenshots": [
+      "images/gba/gba-kuru-kuru-kururin-s1.png",
+      "images/gba/gba-kuru-kuru-kururin-s2.png",
+      "images/gba/gba-kuru-kuru-kururin-title.png"
+    ],
+    "cover": "images/gba/gba-kuru-kuru-kururin-box.jpg"
+  },
+  {
+    "id": "gba-sword-of-mana",
+    "title": "Sword of Mana",
+    "titleZh": "新约 圣剑传说",
+    "titleJa": "新約 聖剣伝説",
+    "year": 2003,
+    "developer": "Brownie Brown / Square Enix",
+    "publisher": "Square Enix / Nintendo",
+    "genre": "动作角色扮演",
+    "tags": [
+      "像素",
+      "双主角",
+      "童话画风",
+      "重制"
+    ],
+    "players": "1",
+    "tagline": "圣剑初代重生，童话般的像素绘本",
+    "description": "以GB初代《圣剑传说》为蓝本全面重制，由Brownie Brown打造。最大的亮点是画面——手绘感十足的像素场景如同童话绘本，树木、花草、水流都透着温柔的色彩，是GBA上最美的RPG之一。\n\n本作分为“英雄”与“女主角”两条路线，从不同视角讲述同一个故事；即时战斗中可以切换武器与魔法，还能培育种子、与精灵缔约。\n\n系统上略显粗糙、平衡性有争议，但如果你被那份圣剑式的温暖画风打动过，它依然值得一游。",
+    "highlights": [
+      "绘本般精美的像素美术",
+      "英雄／女主角双路线",
+      "即时动作战斗与魔法",
+      "GB初代的全面重制"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "30/40",
+        "quote": "画面极其精美，圣剑世界观的再现"
+      },
+      {
+        "source": "IGN",
+        "score": "7/10",
+        "quote": "画面音乐出色，但系统略显平庸"
+      },
+      {
+        "source": "Metacritic",
+        "score": "72/100",
+        "quote": "获得媒体中等偏上评价"
+      }
+    ],
+    "editorScore": 8.0,
+    "is2D": true,
+    "screenshots": [
+      "images/gba/gba-sword-of-mana-s1.png",
+      "images/gba/gba-sword-of-mana-x1.jpg",
+      "images/gba/gba-sword-of-mana-title.png"
+    ],
+    "cover": "images/gba/gba-sword-of-mana-box.jpg"
   }
 ]

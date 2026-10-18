@@ -1,0 +1,679 @@
+[
+  {
+    "id": "ws-final-fantasy-iv",
+    "title": "Final Fantasy IV",
+    "titleZh": "最终幻想IV",
+    "titleJa": "ファイナルファンタジーIV",
+    "year": 2002,
+    "developer": "Square",
+    "publisher": "Square",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "剧情",
+      "ATB",
+      "重制"
+    ],
+    "players": "1",
+    "tagline": "塞西尔的赎罪之旅，装进口袋的史诗",
+    "description": "暗黑骑士塞西尔奉命夺取水之水晶，却在血与火中看清了巴龙王国的阴谋——1991年那部让无数玩家落泪的SFC神作，2002年作为“スクウェア・マスターピース”系列第四弾登陆WonderSwan Color。城镇、迷宫与战斗背景全部重绘，音乐针对WSC音源重新编曲，还加入了冲刺功能。\n\n最让老玩家惊叹的是飞空艇场面：WSC没有缩放机能，开发组硬是用纵向光栅卷轴模拟出大地在脚下飞驰的透视效果。ATB战斗的紧张感、月之民的宏大设定、一个个角色舍身离队的悲壮桥段，全都原汁原味。\n\n这一版本的画面后来成为GBA版的基础，可以说是“掌机FF4”的起点。想在小屏幕上重温圣骑士的成长史，它依然是最有味道的选择。",
+    "highlights": [
+      "SFC名作的首个掌机版本，画面全面重绘",
+      "光栅卷轴模拟飞空艇透视，技术力惊人",
+      "ATB战斗与多角色轮换的戏剧化叙事",
+      "画面成为后来GBA版的基础"
+    ],
+    "reviews": [],
+    "editorScore": 9.3,
+    "is2D": true,
+    "screenshots": [
+      "images/ws/ws-final-fantasy-iv-x1.jpg",
+      "images/ws/ws-final-fantasy-iv-s1.png",
+      "images/ws/ws-final-fantasy-iv-title.png"
+    ],
+    "cover": "images/ws/ws-final-fantasy-iv-box.jpg"
+  },
+  {
+    "id": "ws-riviera",
+    "title": "Riviera: The Promised Land",
+    "titleZh": "约束之地 里维埃拉",
+    "titleJa": "Riviera 〜約束の地リヴィエラ〜",
+    "year": 2002,
+    "developer": "Sting",
+    "publisher": "Bandai",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "原创",
+      "美少女",
+      "策略战斗"
+    ],
+    "players": "1",
+    "tagline": "Sting献给天鹅机的原创奇幻佳作",
+    "description": "WonderSwan Color上最具分量的原创RPG之一！由以《宝石幻想》系列闻名的Sting开发，也是后来“Dept. Heaven”系列的第一章。玩家扮演神之使者“格里姆天使”艾克塞尔，奉命摧毁被称为“里维埃拉”的乐园，却在与当地少女们相处中开始动摇。\n\n本作没有自由移动的大地图，而是用“触发点”推进探索：查看、跳跃、攀爬都要消耗行动点数，宝物能否到手全看你的取舍。战斗中道具即武器，每件都有使用次数与熟练度，五人小队的组合与“超必杀”演出充满爽快感。\n\n后来GBA、PSP乃至HD重制版让它走向世界，但最初的WSC版才是一切的源头——细腻的像素立绘、浓厚的日式奇幻氛围，至今看来依然动人。",
+    "highlights": [
+      "Sting原创，“Dept. Heaven”系列开篇之作",
+      "触发点式探索与行动点数取舍",
+      "道具即武器的独特战斗与熟练度系统",
+      "后被移植GBA/PSP/Switch，口碑长青"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "31/40",
+        "quote": "画面与系统都很有新意，原创RPG中的上乘之作"
+      }
+    ],
+    "editorScore": 9.0,
+    "is2D": true,
+    "screenshots": [
+      "images/ws/ws-riviera-s1.png",
+      "images/ws/ws-riviera-s2.png",
+      "images/ws/ws-riviera-title.png"
+    ],
+    "cover": "images/ws/ws-riviera-box.jpg"
+  },
+  {
+    "id": "ws-front-mission",
+    "title": "Front Mission",
+    "titleZh": "前线任务",
+    "titleJa": "フロントミッション",
+    "year": 2002,
+    "developer": "Square / G-Craft",
+    "publisher": "Square",
+    "genre": "战略角色扮演",
+    "tags": [
+      "机甲",
+      "战棋",
+      "像素",
+      "军事"
+    ],
+    "players": "1",
+    "tagline": "钢铁巨兽“万泽”在掌中开战",
+    "description": "1995年SFC上那部硬派机甲战棋，2002年被完整移植到WonderSwan Color。故事发生在虚构的2090年哈夫曼岛，玩家扮演的罗伊德因未婚妻在“拉尔卡斯事件”中丧生，加入佣兵部队卷入OCU与UCS两大阵营的战争。\n\n游戏的灵魂是“万泽”（Wanzer）的自由组装：躯干、双臂、腿部各有独立耐久，部位被打爆后性能骤降；武器、背包、电脑芯片的搭配让每场战斗前的整备都像在拼一台真正的兵器。成熟冷峻的剧情、拥有战略深度的六角网格战斗，让它成为日式SRPG中极具辨识度的一支。\n\nWSC版加入了新的剧情场景与任务，适合在通勤路上一关一关慢慢啃，是机甲迷不能错过的掌机版本。",
+    "highlights": [
+      "万泽部位破坏与自由组装系统",
+      "硬派军事题材与成熟剧情",
+      "WSC版追加原创任务与场景",
+      "系列首作的经典体验"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "30/40",
+        "quote": "原作的战略乐趣在掌机上得到忠实再现"
+      }
+    ],
+    "editorScore": 8.8,
+    "is2D": true,
+    "screenshots": [
+      "images/ws/ws-front-mission-s1.png",
+      "images/ws/ws-front-mission-x1.png",
+      "images/ws/ws-front-mission-title.png"
+    ],
+    "cover": "images/ws/ws-front-mission-box.jpg"
+  },
+  {
+    "id": "ws-romancing-saga",
+    "title": "Romancing SaGa",
+    "titleZh": "浪漫沙加",
+    "titleJa": "ロマンシング サ・ガ",
+    "year": 2001,
+    "developer": "Square / Kan Navi",
+    "publisher": "Square",
+    "genre": "角色扮演",
+    "tags": [
+      "自由剧本",
+      "像素",
+      "河津秋敏",
+      "多主角"
+    ],
+    "players": "1",
+    "tagline": "八位主角，八条命运，自由由你书写",
+    "description": "“自由剧本系统”的起点！1992年SFC原版让玩家从八名主角中任选一人，在马尔迪亚斯大陆上随心所欲地闯荡；2001年的WSC版在原作基础上重新绘制画面，并调整了部分系统与平衡，后来手机版也以此为蓝本。\n\n没有固定主线，你接下哪个委托、拜访哪座城市，都会悄悄改变世界的走向；战斗后能力随机成长、“闪光”习得新技的瞬间令人上瘾。伊藤贤治的战斗曲在小小的扬声器里依旧热血沸腾。\n\n当然，它的高自由度也意味着容易“迷路”，这正是沙加的魅力：每一次重玩都是一段截然不同的冒险。",
+    "highlights": [
+      "开创沙加招牌“自由剧本系统”",
+      "八位主角各有独立开场与路线",
+      "“闪光”技能习得机制",
+      "伊藤贤治名曲WSC音源重编"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "28/40",
+        "quote": "自由度极高，喜欢探索的玩家会欲罢不能"
+      }
+    ],
+    "editorScore": 8.7,
+    "is2D": true,
+    "screenshots": [
+      "images/ws/ws-romancing-saga-s1.png",
+      "images/ws/ws-romancing-saga-x1.png",
+      "images/ws/ws-romancing-saga-title.png"
+    ],
+    "cover": "images/ws/ws-romancing-saga-box.jpg"
+  },
+  {
+    "id": "ws-gunpey",
+    "title": "Gunpey",
+    "titleZh": "GUNPEY 连线消除",
+    "titleJa": "グンペイ",
+    "year": 1999,
+    "developer": "Koto",
+    "publisher": "Bandai",
+    "genre": "解谜",
+    "tags": [
+      "益智",
+      "掌机首发",
+      "横井军平",
+      "上瘾"
+    ],
+    "players": "1-2",
+    "tagline": "纪念横井军平的竖握连线神作",
+    "description": "以Game Boy之父横井军平命名的益智游戏，1999年3月4日与WonderSwan同步首发。玩法简单到一句话就能说清：上下交换格子里的斜线片，让线条从屏幕左端连到右端即可消除——但面板会不断从下方升起，手忙脚乱之间还能在消除动画进行中继续接线，连锁一次比一次长。\n\n本作充分利用了WonderSwan可以竖握的特性，纵向画面让人一拿起来就停不下来。“无尽”“关卡”“谜题”等多种模式提供了足够的耐玩度，后来的WSC版“GUNPEY EX”、PS版乃至DS、PSP都延续了这一系列。\n\n作为天鹅机的代表作，它简洁、优雅又极度上瘾，《Retro Gamer》也把它排进WonderSwan十佳。",
+    "highlights": [
+      "横井军平遗作理念，WonderSwan首发护航",
+      "竖握操作，交换斜线片连成一线",
+      "消除动画中可继续接线扩大连锁",
+      "多种模式，短时间也能玩得尽兴"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "33/40",
+        "quote": "规则简单却深奥，极易上瘾的益智佳作"
+      }
+    ],
+    "editorScore": 8.7,
+    "is2D": true,
+    "screenshots": [
+      "images/ws/ws-gunpey-x1.jpg",
+      "images/ws/ws-gunpey-s1.png",
+      "images/ws/ws-gunpey-title.png"
+    ],
+    "cover": "images/ws/ws-gunpey-box.jpg"
+  },
+  {
+    "id": "ws-klonoa-moonlight-museum",
+    "title": "Klonoa: Moonlight Museum",
+    "titleZh": "风之克罗诺亚 月光美术馆",
+    "titleJa": "風のクロノア ムーンライトミュージアム",
+    "year": 1999,
+    "developer": "Namco",
+    "publisher": "Bandai",
+    "genre": "平台跳跃",
+    "tags": [
+      "像素",
+      "解谜",
+      "风之戒指",
+      "黑白"
+    ],
+    "players": "1",
+    "tagline": "抓住敌人当跳板，黑白屏里的梦之旅",
+    "description": "PS名作《风之克罗诺亚》的掌机外传，也是系列第一次彻底回归纯2D。克罗诺亚这次被卷入了神秘的“月光美术馆”，必须收集每关的月之碎片才能打开出口。\n\n核心玩法依旧是“风之子弹”：吹气捕获敌人，举在头上当道具投掷，或者踩着它二段跳到更高处。WonderSwan版大量引入“箱子”机关，关卡越来越像精巧的解谜盒子，后来GBA的《梦见帝国》等作品都继承了这一设计。\n\n即便只有黑白灰阶，南梦宫的美术功底依然让画面圆润可爱。跳跃手感扎实、关卡构思灵巧，是天鹅机上最值得体验的平台动作游戏。",
+    "highlights": [
+      "系列首部纯2D作品，GBA掌机系列的原点",
+      "抓敌人投掷、二段跳的独特动作",
+      "机关“箱子”带来浓厚解谜趣味",
+      "南梦宫亲自开发，品质有保证"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "28/40",
+        "quote": "继承了系列的独特手感，关卡解谜性强"
+      }
+    ],
+    "editorScore": 8.6,
+    "is2D": true,
+    "screenshots": [
+      "images/ws/ws-klonoa-moonlight-museum-s1.png",
+      "images/ws/ws-klonoa-moonlight-museum-x1.jpg",
+      "images/ws/ws-klonoa-moonlight-museum-title.png"
+    ],
+    "cover": "images/ws/ws-klonoa-moonlight-museum-box.jpg"
+  },
+  {
+    "id": "ws-final-fantasy",
+    "title": "Final Fantasy",
+    "titleZh": "最终幻想",
+    "titleJa": "ファイナルファンタジー",
+    "year": 2000,
+    "developer": "Square",
+    "publisher": "Square",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "重制",
+      "光之战士",
+      "经典"
+    ],
+    "players": "1",
+    "tagline": "一切从这里开始，FF首度掌机重制",
+    "description": "2000年12月9日，WonderSwan Color与这款《最终幻想》同日登场——这是FF系列第一次登陆掌机，也是史克威尔与任天堂“分手”时期最有象征意义的一步。四名光之战士手持暗淡的水晶，踏上恢复世界光芒的旅程。\n\nWSC版彻底重绘了画面，城镇与怪物的精细度直逼SFC后期水准，同时保留了FC原版的职业选择与回合制战斗骨架，并对操作做了现代化改良。它的画面与架构后来被PS版和GBA《Dawn of Souls》继承。\n\n如果你想体验FF最初的模样又嫌FC版太简陋，这一版本恰到好处：古典、纯粹，满是冒险的浪漫。",
+    "highlights": [
+      "FF系列首次登陆掌机，与WSC主机同日发售",
+      "画面全面重绘，后续PS/GBA版的基础",
+      "保留六职业自由组队的经典玩法",
+      "IGN进口评测给出高分"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "30/40",
+        "quote": "重制后的画面焕然一新，入门FF的好选择"
+      },
+      {
+        "source": "IGN",
+        "score": "8.6/10",
+        "quote": "画面大幅进化，环境、角色与怪物都精致许多"
+      }
+    ],
+    "editorScore": 8.5,
+    "is2D": true,
+    "screenshots": [
+      "images/ws/ws-final-fantasy-s1.png",
+      "images/ws/ws-final-fantasy-title.png"
+    ],
+    "cover": "images/ws/ws-final-fantasy-box.jpg"
+  },
+  {
+    "id": "ws-judgement-silversword",
+    "title": "Judgement Silversword: Rebirth Edition",
+    "titleZh": "审判银剑",
+    "titleJa": "ジャッジメントシルバーソード -Rebirth Edition-",
+    "year": 2004,
+    "developer": "M-KAI / Qute",
+    "publisher": "Qute",
+    "genre": "射击",
+    "tags": [
+      "弹幕",
+      "纵版射击",
+      "同人出身",
+      "稀有"
+    ],
+    "players": "1",
+    "tagline": "天鹅机最强STG，同人逆袭的传奇",
+    "description": "出自WonderWitch开发大赛的传奇射击游戏。WonderWitch是Qute推出、让普通玩家也能用C语言为天鹅机写游戏的开发套件，作者M-KAI仅用约一个半月便完成了这部纵版STG，并与姊妹作《Cardinal Sins》一同获奖。2004年Qute以“Rebirth Edition”之名推出零售版，首批数小时内售罄，只得应玩家要求再版。\n\n本作被认为深受Treasure名作《闪亮银枪》（Radiant Silvergun）启发：密集的弹幕、多样的敌机编队与华丽的爆炸，在小屏幕上依然颇具街机气势，而且几乎没有拖慢、精灵动画流畅。\n\n这是WonderSwan生命末期的一道惊艳光芒，也证明了同人作者的热情可以做出不输大厂的作品。",
+    "highlights": [
+      "WonderWitch同人大赛获奖作",
+      "向《闪亮银枪》致敬的纵版射击",
+      "画面细腻、几乎无拖慢",
+      "首批数小时售罄，收藏价值极高"
+    ],
+    "reviews": [
+      {
+        "source": "Pocket Gamer（法国）",
+        "score": "4/5",
+        "quote": "画面多彩细腻、节奏快，值得为它买一台主机"
+      }
+    ],
+    "editorScore": 8.5,
+    "is2D": true,
+    "screenshots": [
+      "images/ws/ws-judgement-silversword-s1.png",
+      "images/ws/ws-judgement-silversword-s2.png",
+      "images/ws/ws-judgement-silversword-s3.png",
+      "images/ws/ws-judgement-silversword-title.png"
+    ],
+    "cover": "images/ws/ws-judgement-silversword-box.jpg"
+  },
+  {
+    "id": "ws-final-fantasy-ii",
+    "title": "Final Fantasy II",
+    "titleZh": "最终幻想II",
+    "titleJa": "ファイナルファンタジーII",
+    "year": 2001,
+    "developer": "Square",
+    "publisher": "Square",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "重制",
+      "熟练度成长",
+      "反抗军"
+    ],
+    "players": "1",
+    "tagline": "“野蔷薇”的反抗战争全面重绘",
+    "description": "帝国铁蹄下，弗利欧尼尔、玛利亚、盖伊加入反抗军，用暗号“野蔷薇”串起一段充满牺牲的战争故事。2001年5月3日推出的WSC版延续前作的重制方针，画面全面重绘，标题画面也换上了绘有帕拉美基亚皇帝的新LOGO。\n\n本作最具争议也最有个性的是“熟练度成长”：没有经验值，挨打多了HP上涨、魔法用多了MP提高、哪种武器用得多就越擅长。它是后来沙加系列成长体系的前身，也让每个玩家都能养出独一无二的角色。\n\nFC原作的暗黑剧情加上WSC全新的精致像素，让这段“野蔷薇”的故事在掌机上焕发新生。",
+    "highlights": [
+      "熟练度成长系统，沙加系列的前身",
+      "FF系列首次有名有姓的主角群与浓厚剧情",
+      "画面全面重绘、新标题LOGO",
+      "WSC版获Fami通银殿堂"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "30/40",
+        "quote": "重制版画面与操作都更友善，荣获银殿堂"
+      }
+    ],
+    "editorScore": 8.4,
+    "is2D": true,
+    "screenshots": [
+      "images/ws/ws-final-fantasy-ii-s1.png",
+      "images/ws/ws-final-fantasy-ii-x1.png",
+      "images/ws/ws-final-fantasy-ii-title.png"
+    ],
+    "cover": "images/ws/ws-final-fantasy-ii-box.jpg"
+  },
+  {
+    "id": "ws-dicing-knight",
+    "title": "Dicing Knight.",
+    "titleZh": "骰子骑士",
+    "titleJa": "ダイシングナイト。",
+    "year": 2004,
+    "developer": "Platine Dispositif",
+    "publisher": "Qute",
+    "genre": "动作角色扮演",
+    "tags": [
+      "俯视角",
+      "Roguelike",
+      "像素",
+      "同人出身"
+    ],
+    "players": "1",
+    "tagline": "俯视角随机迷宫，天鹅机隐藏ARPG",
+    "description": "与《审判银剑》同为WonderWitch开发大赛出身的作品，由同人社团Platine Dispositif制作，2004年5月由Qute发行，是WonderSwan最后一批问世的软件之一。\n\n游戏采用类似《塞尔达传说》的俯视角即时动作，却加入了Roguelike的随机生成地图：每次进入迷宫，房间与敌人配置都不相同，难度也毫不留情。可以拾得的道具五花八门，从能让时间静止的怀表到可爱的兔子头饰，都可能在关键时刻扭转战局。复古清爽的像素画面与紧凑的节奏，很有当年俯视角ARPG的味道。\n\n它在天鹅机濒临停产时才问世，因而鲜为人知；制作组至今仍在Comiket发表新作。对喜欢俯视角像素冒险的玩家来说，这是一颗值得发掘的隐藏宝石。",
+    "highlights": [
+      "塞尔达式俯视角即时战斗",
+      "随机生成迷宫的Roguelike玩法",
+      "时停怀表等丰富道具",
+      "WonderWitch大赛获奖的同人佳作"
+    ],
+    "reviews": [],
+    "editorScore": 8.3,
+    "is2D": true,
+    "screenshots": [
+      "images/ws/ws-dicing-knight-s1.png",
+      "images/ws/ws-dicing-knight-x1.png",
+      "images/ws/ws-dicing-knight-title.png"
+    ],
+    "cover": "images/ws/ws-dicing-knight-box.jpg"
+  },
+  {
+    "id": "ws-makaimura",
+    "title": "Makaimura for WonderSwan",
+    "titleZh": "魔界村 for WonderSwan",
+    "titleJa": "魔界村 for WonderSwan",
+    "year": 1999,
+    "developer": "Capcom",
+    "publisher": "Bandai",
+    "genre": "动作",
+    "tags": [
+      "高难度",
+      "骑士亚瑟",
+      "像素",
+      "黑白"
+    ],
+    "players": "1",
+    "tagline": "内裤骑士亚瑟，掌机上也要被虐哭",
+    "description": "卡普空的地狱难度名作在WonderSwan上获得了完全新作！它并非简单移植，而是以初代为基础重写了故事，并引入《大魔界村》《超魔界村》的武器与敌人，还加入水中关卡、纵向关卡与提示功能等新要素。\n\n骑士亚瑟依旧是一碰就掉盔甲、再碰就变骷髅的脆皮体质，长枪、短剑、火炬各有手感；红色阿利玛在空中盘旋偷袭的熟悉噩梦也照样登场。灰阶画面阴森的墓地与古堡，反而更衬魔界的气氛。\n\n对受虐系动作玩家来说，这是天鹅机上必须征服的一座山。",
+    "highlights": [
+      "以初代为蓝本的掌机原创新作",
+      "引入《大魔界村》《超魔界村》武器敌人",
+      "新增水中关、纵向关与提示功能",
+      "经典高难度动作完整保留"
+    ],
+    "reviews": [],
+    "editorScore": 8.2,
+    "is2D": true,
+    "screenshots": [
+      "images/ws/ws-makaimura-s1.png",
+      "images/ws/ws-makaimura-x1.jpg",
+      "images/ws/ws-makaimura-title.png"
+    ],
+    "cover": "images/ws/ws-makaimura-box.jpg"
+  },
+  {
+    "id": "ws-chocobo-dungeon",
+    "title": "Chocobo's Mysterious Dungeon for WonderSwan",
+    "titleZh": "陆行鸟不可思议迷宫 for WonderSwan",
+    "titleJa": "チョコボの不思議なダンジョン for ワンダースワン",
+    "year": 1999,
+    "developer": "TOSE",
+    "publisher": "Bandai",
+    "genre": "角色扮演",
+    "tags": [
+      "Roguelike",
+      "陆行鸟",
+      "迷宫",
+      "黑白"
+    ],
+    "players": "1",
+    "tagline": "每次下楼都不一样的陆行鸟冒险",
+    "description": "PS版人气迷宫RPG的移植版，1999年3月4日与WonderSwan主机同日发售，由TOSE移植、万代发行，还推出过黄色“陆行鸟配色”主机同捆版。\n\n玩法遵循“不可思议迷宫”传统：迷宫每次进入都随机生成，你走一步敌人走一步，装备与道具的取舍决定生死。FF系列的怪物与道具点缀其间，可爱又耐玩。\n\n为赶上首发，本作残留了不少BUG，但单色画面的完成度和利用立体声输出的音乐都相当出色。一局十几分钟，正是掌机Roguelike最理想的形态。",
+    "highlights": [
+      "WonderSwan首发阵容之一",
+      "随机迷宫、回合制的正统Roguelike玩法",
+      "FF角色与道具元素满满",
+      "适合碎片时间的掌机节奏"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "27/40",
+        "quote": "忠实再现了PS版迷宫的乐趣，适合随时游玩"
+      }
+    ],
+    "editorScore": 8.0,
+    "is2D": true,
+    "screenshots": [
+      "images/ws/ws-chocobo-dungeon-s1.png",
+      "images/ws/ws-chocobo-dungeon-s2.png",
+      "images/ws/ws-chocobo-dungeon-title.png"
+    ],
+    "cover": "images/ws/ws-chocobo-dungeon-box.jpg"
+  },
+  {
+    "id": "ws-wild-card",
+    "title": "Wild Card",
+    "titleZh": "狂野卡牌",
+    "titleJa": "ワイルドカード",
+    "year": 2001,
+    "developer": "Square",
+    "publisher": "Square",
+    "genre": "角色扮演",
+    "tags": [
+      "卡牌",
+      "河津秋敏",
+      "实验性",
+      "原创"
+    ],
+    "players": "1",
+    "tagline": "河津秋敏的卡牌迷宫奇想曲",
+    "description": "史克威尔为WonderSwan打造的第一款原创作品，由沙加之父河津秋敏操刀。游戏里的一切——地点、角色、道具——都以“卡牌”和静态插画呈现，没有大地图也没有传统迷宫，像在桌上展开一场奇幻桌游。\n\n开场时回答一连串问题，决定你从九名角色中的哪一位出发，其余八人则会在旅途中陆续成为伙伴。冒险由上百张“剧本卡”非线性推进：持有“游泳”卡才能渡水，技能卡用来突破障碍；最多五人的队伍在回合制战斗中比拼卡牌的攻防数值。卡牌数量有限，打完剧本才能补充，资源管理颇为烧脑。\n\n当年评价两极，如今回看却是一件极具实验精神的珍品——浓烈的手绘风格与河津式的自由度，适合愿意尝鲜的RPG老饕。",
+    "highlights": [
+      "史克威尔首款WonderSwan原创作品",
+      "河津秋敏主导设计，非线性“剧本卡”推进",
+      "九名可选主角，问答决定开局角色",
+      "全卡牌式探索与战斗演出"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "23/40",
+        "quote": "风格独特但系统难以上手，评价分歧"
+      }
+    ],
+    "editorScore": 8.0,
+    "is2D": true,
+    "screenshots": [
+      "images/ws/ws-wild-card-s1.png",
+      "images/ws/ws-wild-card-x1.png",
+      "images/ws/ws-wild-card-title.png"
+    ],
+    "cover": "images/ws/ws-wild-card-box.jpg"
+  },
+  {
+    "id": "ws-srt-compact-3",
+    "title": "Super Robot Wars Compact 3",
+    "titleZh": "超级机器人大战COMPACT3",
+    "titleJa": "スーパーロボット大戦COMPACT3",
+    "year": 2003,
+    "developer": "TOSE",
+    "publisher": "Banpresto",
+    "genre": "战略角色扮演",
+    "tags": [
+      "机战",
+      "战棋",
+      "动画联动",
+      "原创角色"
+    ],
+    "players": "1",
+    "tagline": "COMPACT系列终章，修罗之王初登场",
+    "description": "COMPACT系列第五作也是最终作，同时是万普在WonderSwan上的最后一款软件。本作首次参战了《天空的艾斯卡弗洛尼》《ベターマン》等作品，与Z高达、ZZ、逆袭的夏亚、圣战士丹拜因、魔神Z等老面孔一同在多个异世界间穿梭作战。\n\n原创角色“修罗”佛尔卡·阿尔巴克正是在本作首次登场，后来更成为《OG外传》的重要人物。战棋玩法依然是机战招牌：改造、精神指令、援护攻击，配上WSC上精细的SD战斗动画，每次必杀演出都热血满满。\n\n作为掌机机战的收官之作，它为COMPACT系列画上了漂亮的句号。",
+    "highlights": [
+      "COMPACT系列最终作",
+      "佛尔卡等“修罗”原创角色初登场",
+      "《艾斯卡弗洛尼》等多部作品首次参战",
+      "SD战斗动画细腻热血"
+    ],
+    "reviews": [],
+    "editorScore": 7.9,
+    "is2D": true,
+    "screenshots": [
+      "images/ws/ws-srt-compact-3-s1.png",
+      "images/ws/ws-srt-compact-3-s2.png",
+      "images/ws/ws-srt-compact-3-title.png"
+    ],
+    "cover": "images/ws/ws-srt-compact-3-box.jpg"
+  },
+  {
+    "id": "ws-blue-wing-blitz",
+    "title": "Blue Wing Blitz",
+    "titleZh": "蓝翼闪击",
+    "titleJa": "ブルーウィングブリッツ",
+    "year": 2001,
+    "developer": "Square",
+    "publisher": "Square",
+    "genre": "战略角色扮演",
+    "tags": [
+      "空战",
+      "战棋",
+      "前线任务团队",
+      "原创"
+    ],
+    "players": "1",
+    "tagline": "浮空群岛上的空战战棋",
+    "description": "由《前线任务》团队打造的史克威尔原创战棋，舞台是一个由浮空岛屿组成、飞行器普及的世界。玩家所在的小国艾斯克·雷，要对抗扩张中的奥迪亚帝国。\n\n地图移动采用网格战棋，敌我接触后切换到特写空战画面，最多可编入两架友机协同攻击。机体各部位会受损，燃料与弹药也需精打细算，地面单位只能靠轰炸机清除。它把《前线任务》的部位破坏思路搬上了天空，颇具新意。\n\n可惜销量仅约2万份，成了少有人知的冷门作。同时支持黑白WS与WSC，喜欢战棋又想尝鲜的玩家值得一试。",
+    "highlights": [
+      "《前线任务》团队开发的空战战棋",
+      "机体部位破坏、燃料弹药管理",
+      "网格移动＋特写空战演出",
+      "同时兼容WS与WSC"
+    ],
+    "reviews": [],
+    "editorScore": 7.8,
+    "is2D": true,
+    "screenshots": [
+      "images/ws/ws-blue-wing-blitz-s1.png",
+      "images/ws/ws-blue-wing-blitz-x1.png",
+      "images/ws/ws-blue-wing-blitz-title.png"
+    ],
+    "cover": "images/ws/ws-blue-wing-blitz-box.jpg"
+  },
+  {
+    "id": "ws-rhyme-rider-kerorican",
+    "title": "Rhyme Rider Kerorican",
+    "titleZh": "节奏骑士 克罗里坎",
+    "titleJa": "ライムライダー ケロリカン",
+    "year": 2000,
+    "developer": "NanaOn-Sha",
+    "publisher": "Bandai",
+    "genre": "音乐",
+    "tags": [
+      "节奏",
+      "松浦雅也",
+      "七音社",
+      "色彩鲜艳"
+    ],
+    "players": "1",
+    "tagline": "松浦雅也带来的青蛙节奏冒险",
+    "description": "出自《动感小子》（PaRappa the Rapper）之父松浦雅也与七音社之手的音乐游戏。主角克罗里坎是一位戴着青蛙耳朵头盔的女宇航员，伴着音乐一路前行，途中不断遭遇敌人与障碍。\n\n与《Vib-Ribbon》相似，玩家要配合节拍让她跳跃、下蹲、踢开或闪避眼前的障碍；更妙的是，每一个动作都会为乐曲添上音符，你的操作本身就在“演奏”一段旋律。鲜艳的配色和超现实的美术风格，把WonderSwan Color的表现力发挥得淋漓尽致。\n\n它曾计划登陆苹果Pippin，最终在天鹅机上问世。轻快可爱又带着七音社特有的怪趣味，是天鹅机上独一无二的音乐小品。",
+    "highlights": [
+      "《动感小子》作者松浦雅也作品",
+      "随节拍跳跃闪避的Vib-Ribbon式玩法",
+      "玩家动作即时生成旋律",
+      "WSC色彩表现力的展示作"
+    ],
+    "reviews": [],
+    "editorScore": 7.8,
+    "is2D": true,
+    "screenshots": [
+      "images/ws/ws-rhyme-rider-kerorican-s1.png",
+      "images/ws/ws-rhyme-rider-kerorican-x1.png",
+      "images/ws/ws-rhyme-rider-kerorican-title.png"
+    ],
+    "cover": "images/ws/ws-rhyme-rider-kerorican-box.jpg"
+  },
+  {
+    "id": "ws-guilty-gear-petit-2",
+    "title": "Guilty Gear Petit 2",
+    "titleZh": "罪恶装备 Petit 2",
+    "titleJa": "ギルティギア プチ2",
+    "year": 2001,
+    "developer": "Arc System Works",
+    "publisher": "Sammy",
+    "genre": "格斗",
+    "tags": [
+      "Q版",
+      "格斗",
+      "连段",
+      "联动"
+    ],
+    "players": "1-2",
+    "tagline": "Q版罪恶装备，掌上也能必杀一击",
+    "description": "《罪恶装备》系列的Q版掌机外传第二作，2001年9月27日发售于WonderSwan Color。索尔、凯、梅、米莉亚等角色全部变成大头身，却依旧保留了超必杀“Overdrive”与一击必杀等系列招牌。\n\n本作收录13名角色加5名隐藏角色，模式有故事、对战、训练、计时与新增的生存模式。操作简化为A、B两键，搓招难度大幅降低，新手也能快速打出华丽连段。还能与PS2《Guilty Gear X Plus》联动。\n\n在格斗游戏稀缺的WonderSwan上，它是少有的扎实之作，Q版立绘与夸张特效相当讨喜。",
+    "highlights": [
+      "13名角色＋5名隐藏角色",
+      "保留Overdrive、一击必杀等系列系统",
+      "A/B双键简化操作，上手容易",
+      "可与PS2《GGX Plus》联动"
+    ],
+    "reviews": [],
+    "editorScore": 7.6,
+    "is2D": true,
+    "screenshots": [
+      "images/ws/ws-guilty-gear-petit-2-s1.png",
+      "images/ws/ws-guilty-gear-petit-2-x1.jpg",
+      "images/ws/ws-guilty-gear-petit-2-title.png"
+    ],
+    "cover": "images/ws/ws-guilty-gear-petit-2-box.jpg"
+  },
+  {
+    "id": "ws-digimon-anode-tamer",
+    "title": "Digimon Adventure: Anode Tamer",
+    "titleZh": "数码宝贝大冒险 阳极驯兽师",
+    "titleJa": "デジモンアドベンチャー アノードテイマー",
+    "year": 1999,
+    "developer": "Bandai",
+    "publisher": "Bandai",
+    "genre": "战略角色扮演",
+    "tags": [
+      "数码宝贝",
+      "进化",
+      "黑白",
+      "收集"
+    ],
+    "players": "1",
+    "tagline": "小林亮与数码兽的掌上冒险",
+    "description": "在数码宝贝热潮正盛的1999年末推出的WonderSwan原创RPG，与次年的《阴极驯兽师》（Cathode Tamer）构成双版本。主角小林亮被卷入数码世界，与亚古兽一起和动画中的“被选召的孩子们”并肩作战。\n\n战斗采用回合制战术方式，数码兽可在战斗中根据条件进化，选择不同的进化路线是一大乐趣；在迷宫中收集同伴、强化队伍的过程也颇有养成感。\n\n小林亮这个原创角色后来还出现在《数码宝贝驯兽师》动画中，这款游戏正是他的出身之作。作为数码宝贝游戏史的一块重要拼图，它值得粉丝怀旧一番。",
+    "highlights": [
+      "与《阴极驯兽师》构成双版本",
+      "原创主角小林亮的初登场作",
+      "战斗中的数码兽进化系统",
+      "WonderSwan早期人气角色游戏"
+    ],
+    "reviews": [],
+    "editorScore": 7.5,
+    "is2D": true,
+    "screenshots": [
+      "images/ws/ws-digimon-anode-tamer-s1.png",
+      "images/ws/ws-digimon-anode-tamer-x1.jpg",
+      "images/ws/ws-digimon-anode-tamer-title.png"
+    ],
+    "cover": "images/ws/ws-digimon-anode-tamer-box.jpg"
+  }
+]

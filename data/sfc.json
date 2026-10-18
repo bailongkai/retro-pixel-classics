@@ -42,10 +42,11 @@
     "editorScore": 9.9,
     "is2D": true,
     "screenshots": [
+      "images/sfc/sfc-chrono-trigger-s1.png",
       "images/sfc/sfc-chrono-trigger-1.png",
-      "images/sfc/sfc-chrono-trigger-2.jpg"
+      "images/sfc/sfc-chrono-trigger-title.png"
     ],
-    "coverShot": true
+    "cover": "images/sfc/sfc-chrono-trigger-box.jpg"
   },
   {
     "id": "sfc-final-fantasy-vi",
@@ -90,10 +91,11 @@
     "editorScore": 9.8,
     "is2D": true,
     "screenshots": [
+      "images/sfc/sfc-final-fantasy-vi-s1.png",
       "images/sfc/sfc-final-fantasy-vi-1.png",
-      "images/sfc/sfc-final-fantasy-vi-2.jpg"
+      "images/sfc/sfc-final-fantasy-vi-title.png"
     ],
-    "coverShot": true
+    "cover": "images/sfc/sfc-final-fantasy-vi-box.jpg"
   },
   {
     "id": "sfc-zelda-a-link-to-the-past",
@@ -138,10 +140,11 @@
     "editorScore": 9.8,
     "is2D": true,
     "screenshots": [
-      "images/sfc/sfc-zelda-a-link-to-the-past-2.jpg",
-      "images/sfc/sfc-zelda-a-link-to-the-past-1.png"
+      "images/sfc/sfc-zelda-a-link-to-the-past-s1.png",
+      "images/sfc/sfc-zelda-a-link-to-the-past-1.png",
+      "images/sfc/sfc-zelda-a-link-to-the-past-title.png"
     ],
-    "coverShot": true
+    "cover": "images/sfc/sfc-zelda-a-link-to-the-past-box.jpg"
   },
   {
     "id": "sfc-super-metroid",
@@ -186,10 +189,11 @@
     "editorScore": 9.7,
     "is2D": true,
     "screenshots": [
+      "images/sfc/sfc-super-metroid-s1.png",
       "images/sfc/sfc-super-metroid-1.png",
-      "images/sfc/sfc-super-metroid-2.jpg"
+      "images/sfc/sfc-super-metroid-title.png"
     ],
-    "coverShot": true
+    "cover": "images/sfc/sfc-super-metroid-box.jpg"
   },
   {
     "id": "sfc-seiken-densetsu-3",
@@ -234,10 +238,11 @@
     "editorScore": 9.5,
     "is2D": true,
     "screenshots": [
+      "images/sfc/sfc-seiken-densetsu-3-s1.png",
       "images/sfc/sfc-seiken-densetsu-3-1.png",
-      "images/sfc/sfc-seiken-densetsu-3-2.jpg"
+      "images/sfc/sfc-seiken-densetsu-3-title.png"
     ],
-    "coverShot": true
+    "cover": "images/sfc/sfc-seiken-densetsu-3-box.jpg"
   },
   {
     "id": "sfc-secret-of-mana",
@@ -282,9 +287,11 @@
     "editorScore": 9.4,
     "is2D": true,
     "screenshots": [
-      "images/sfc/sfc-secret-of-mana-1.png"
+      "images/sfc/sfc-secret-of-mana-s1.png",
+      "images/sfc/sfc-secret-of-mana-1.png",
+      "images/sfc/sfc-secret-of-mana-title.png"
     ],
-    "coverShot": true
+    "cover": "images/sfc/sfc-secret-of-mana-box.jpg"
   },
   {
     "id": "sfc-dragon-quest-v",
@@ -324,10 +331,12 @@
     "editorScore": 9.4,
     "is2D": true,
     "screenshots": [
+      "images/sfc/sfc-dragon-quest-v-s1.png",
+      "images/sfc/sfc-dragon-quest-v-1.jpg",
       "images/sfc/sfc-dragon-quest-v-2.png",
-      "images/sfc/sfc-dragon-quest-v-1.jpg"
+      "images/sfc/sfc-dragon-quest-v-title.png"
     ],
-    "coverShot": true
+    "cover": "images/sfc/sfc-dragon-quest-v-box.jpg"
   },
   {
     "id": "sfc-yoshis-island",
@@ -337,7 +346,7 @@
     "year": 1995,
     "developer": "Nintendo EAD",
     "publisher": "Nintendo",
-    "genre": "平台动作",
+    "genre": "平台跳跃",
     "tags": [
       "横版",
       "手绘画风",
@@ -372,10 +381,13 @@
     "editorScore": 9.4,
     "is2D": true,
     "screenshots": [
+      "images/sfc/sfc-yoshis-island-s1.png",
+      "images/sfc/sfc-yoshis-island-s2.png",
+      "images/sfc/sfc-yoshis-island-s3.png",
       "images/sfc/sfc-yoshis-island-1.png",
-      "images/sfc/sfc-yoshis-island-2.jpg"
+      "images/sfc/sfc-yoshis-island-title.png"
     ],
-    "coverShot": true
+    "cover": "images/sfc/sfc-yoshis-island-box.jpg"
   },
   {
     "id": "sfc-super-mario-world",
@@ -385,7 +397,7 @@
     "year": 1990,
     "developer": "Nintendo EAD",
     "publisher": "Nintendo",
-    "genre": "平台动作",
+    "genre": "平台跳跃",
     "tags": [
       "横版",
       "耀西",
@@ -420,10 +432,13 @@
     "editorScore": 9.4,
     "is2D": true,
     "screenshots": [
+      "images/sfc/sfc-super-mario-world-s1.png",
+      "images/sfc/sfc-super-mario-world-s2.png",
+      "images/sfc/sfc-super-mario-world-s3.png",
       "images/sfc/sfc-super-mario-world-1.png",
-      "images/sfc/sfc-super-mario-world-2.png"
+      "images/sfc/sfc-super-mario-world-title.png"
     ],
-    "coverShot": true
+    "cover": "images/sfc/sfc-super-mario-world-box.jpg"
   },
   {
     "id": "sfc-terranigma",
@@ -468,10 +483,11 @@
     "editorScore": 9.3,
     "is2D": true,
     "screenshots": [
+      "images/sfc/sfc-terranigma-s1.png",
       "images/sfc/sfc-terranigma-1.png",
-      "images/sfc/sfc-terranigma-2.jpg"
+      "images/sfc/sfc-terranigma-title.png"
     ],
-    "coverShot": true
+    "cover": "images/sfc/sfc-terranigma-box.jpg"
   },
   {
     "id": "sfc-tactics-ogre",
@@ -481,7 +497,7 @@
     "year": 1995,
     "developer": "Quest",
     "publisher": "Quest",
-    "genre": "策略角色扮演",
+    "genre": "战略角色扮演",
     "tags": [
       "战棋",
       "多结局",
@@ -511,10 +527,13 @@
     "editorScore": 9.3,
     "is2D": true,
     "screenshots": [
+      "images/sfc/sfc-tactics-ogre-s1.png",
+      "images/sfc/sfc-tactics-ogre-s2.png",
+      "images/sfc/sfc-tactics-ogre-s3.png",
       "images/sfc/sfc-tactics-ogre-1.png",
-      "images/sfc/sfc-tactics-ogre-2.jpg"
+      "images/sfc/sfc-tactics-ogre-title.png"
     ],
-    "coverShot": true
+    "cover": "images/sfc/sfc-tactics-ogre-box.jpg"
   },
   {
     "id": "sfc-earthbound",
@@ -559,9 +578,60 @@
     "editorScore": 9.3,
     "is2D": true,
     "screenshots": [
-      "images/sfc/sfc-earthbound-2.jpg"
+      "images/sfc/sfc-earthbound-s1.png",
+      "images/sfc/sfc-earthbound-u-s1.png",
+      "images/sfc/sfc-earthbound-title.png"
     ],
-    "coverShot": true
+    "cover": "images/sfc/sfc-earthbound-box.jpg"
+  },
+  {
+    "id": "sfc-final-fantasy-iv",
+    "title": "Final Fantasy IV",
+    "titleZh": "最终幻想4",
+    "titleJa": "ファイナルファンタジーIV",
+    "year": 1991,
+    "developer": "Square",
+    "publisher": "Square",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "ATB",
+      "骑士救赎"
+    ],
+    "players": "1",
+    "tagline": "ATB系统诞生的经典之作",
+    "description": "暗黑骑士塞西尔奉命夺取水晶，却在良知与忠诚之间痛苦挣扎——《最终幻想4》讲述了一个关于背叛、赎罪与成长的动人故事，从暗黑骑士到圣骑士的蜕变，至今仍是系列最经典的桥段之一。\n\n本作首次引入“ATB（动态时间战斗）”系统，战斗不再是你一回合我一回合，而是讲究速度与时机，这一系统此后影响了整个系列。剧情节奏紧凑，角色登场与离别接连不断，煽情力十足。\n\n作为SFC上的第一部最终幻想，它奠定了系列在16位时代的辉煌。时至今日仍是入门最终幻想的好选择。",
+    "highlights": [
+      "ATB战斗系统首次登场",
+      "暗黑骑士到圣骑士的蜕变",
+      "紧凑煽情的剧情演出",
+      "植松伸夫经典配乐"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "36/40",
+        "quote": "编辑给出9、9、10、8，盛赞其戏剧性的剧情"
+      },
+      {
+        "source": "EGM",
+        "score": "32/40",
+        "quote": "北美版《Final Fantasy II》评测肯定其史诗规模"
+      },
+      {
+        "source": "GameRankings",
+        "score": "89%",
+        "quote": "综合媒体评分"
+      }
+    ],
+    "editorScore": 9.3,
+    "is2D": true,
+    "screenshots": [
+      "images/sfc/sfc-final-fantasy-iv-s1.png",
+      "images/sfc/sfc-final-fantasy-iv-x1.png",
+      "images/sfc/sfc-final-fantasy-iv-title.png"
+    ],
+    "cover": "images/sfc/sfc-final-fantasy-iv-box.jpg"
   },
   {
     "id": "sfc-fire-emblem-genealogy",
@@ -571,7 +641,7 @@
     "year": 1996,
     "developer": "Intelligent Systems",
     "publisher": "Nintendo",
-    "genre": "策略角色扮演",
+    "genre": "战略角色扮演",
     "tags": [
       "战棋",
       "双世代",
@@ -596,10 +666,50 @@
     "editorScore": 9.2,
     "is2D": true,
     "screenshots": [
+      "images/sfc/sfc-fire-emblem-genealogy-s1.png",
       "images/sfc/sfc-fire-emblem-genealogy-1.png",
-      "images/sfc/sfc-fire-emblem-genealogy-2.jpg"
+      "images/sfc/sfc-fire-emblem-genealogy-title.png"
     ],
-    "coverShot": true
+    "cover": "images/sfc/sfc-fire-emblem-genealogy-box.jpg"
+  },
+  {
+    "id": "sfc-final-fantasy-v",
+    "title": "Final Fantasy V",
+    "titleZh": "最终幻想5",
+    "titleJa": "ファイナルファンタジーV",
+    "year": 1992,
+    "developer": "Square",
+    "publisher": "Square",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "职业系统",
+      "搭配研究"
+    ],
+    "players": "1",
+    "tagline": "职业搭配的无限乐趣",
+    "description": "如果说哪一部最终幻想最适合“研究党”，那非《最终幻想5》莫属！本作的核心是丰富的职业系统：骑士、黑魔导士、召唤士、忍者、舞者……共二十余种职业可以自由转换。\n\n更妙的是，每个职业学会的能力可以带到其他职业上使用，“二刀流魔法剑士”“召唤忍者”之类的奇葩组合层出不穷，研究最强搭配的乐趣无穷无尽。剧情轻松明快，巴兹和他的伙伴们笑点频出，而盖拉夫的故事又让人热泪盈眶。\n\n本作当年未出美版，却在玩家心中占据特殊地位。热爱策略养成的你，绝对会被它的深度吸引。",
+    "highlights": [
+      "二十余种职业自由切换",
+      "能力跨职业组合",
+      "轻松明快又感人的剧情",
+      "吉尔伽美什的经典登场"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "34/40",
+        "quote": "编辑给出8、9、9、8，盛赞职业系统的深度"
+      }
+    ],
+    "editorScore": 9.2,
+    "is2D": true,
+    "screenshots": [
+      "images/sfc/sfc-final-fantasy-v-s1.png",
+      "images/sfc/sfc-final-fantasy-v-x1.png",
+      "images/sfc/sfc-final-fantasy-v-title.png"
+    ],
+    "cover": "images/sfc/sfc-final-fantasy-v-box.jpg"
   },
   {
     "id": "sfc-live-a-live",
@@ -644,9 +754,11 @@
     "editorScore": 9.1,
     "is2D": true,
     "screenshots": [
-      "images/sfc/sfc-live-a-live-1.jpg"
+      "images/sfc/sfc-live-a-live-s1.png",
+      "images/sfc/sfc-live-a-live-x1.png",
+      "images/sfc/sfc-live-a-live-title.png"
     ],
-    "coverShot": true
+    "cover": "images/sfc/sfc-live-a-live-box.jpg"
   },
   {
     "id": "sfc-mega-man-x",
@@ -691,10 +803,99 @@
     "editorScore": 9.1,
     "is2D": true,
     "screenshots": [
+      "images/sfc/sfc-mega-man-x-s1.png",
       "images/sfc/sfc-mega-man-x-1.png",
-      "images/sfc/sfc-mega-man-x-2.png"
+      "images/sfc/sfc-mega-man-x-title.png"
     ],
-    "coverShot": true
+    "cover": "images/sfc/sfc-mega-man-x-box.jpg"
+  },
+  {
+    "id": "sfc-fire-emblem-thracia-776",
+    "title": "Fire Emblem: Thracia 776",
+    "titleZh": "火焰纹章：多拉基亚776",
+    "titleJa": "ファイアーエムブレム トラキア776",
+    "year": 1999,
+    "developer": "Intelligent Systems",
+    "publisher": "Nintendo",
+    "genre": "战略角色扮演",
+    "tags": [
+      "战棋",
+      "高难度",
+      "外传"
+    ],
+    "players": "1",
+    "tagline": "硬派战棋玩家的终极试炼",
+    "description": "SFC生命末期的最后一部火纹，也是系列公认难度最高的一作！故事发生在《圣战之系谱》前后两部之间，主角是雷恩斯特的王子利夫，带领解放军在多拉基亚半岛浴血奋战。\n\n本作引入了“体格”“俘虏”“疲劳”等全新系统：可以捕获敌人夺走装备，角色连续出战会疲劳必须轮换，战争迷雾随时可能把你逼入绝境。每一章都像一道精心设计的策略题，过关后的成就感无与伦比。\n\n本作最初通过任天堂的“Nintendo Power”写入服务发行，后来才推出卡带版。硬核战棋玩家，敢来挑战吗？",
+    "highlights": [
+      "系列难度巅峰",
+      "俘虏、疲劳等全新系统",
+      "承接《圣战之系谱》的剧情",
+      "战争迷雾带来紧张感"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "35/40",
+        "quote": "编辑给出8、9、8、10，盛赞其高水准的关卡设计"
+      }
+    ],
+    "editorScore": 9.1,
+    "is2D": true,
+    "screenshots": [
+      "images/sfc/sfc-fire-emblem-thracia-776-s1.png",
+      "images/sfc/sfc-fire-emblem-thracia-776-s3.png",
+      "images/sfc/sfc-fire-emblem-thracia-776-title.png"
+    ],
+    "cover": "images/sfc/sfc-fire-emblem-thracia-776-box.jpg"
+  },
+  {
+    "id": "sfc-donkey-kong-country",
+    "title": "Donkey Kong Country",
+    "titleZh": "超级大金刚",
+    "titleJa": "スーパードンキーコング",
+    "year": 1994,
+    "developer": "Rare",
+    "publisher": "Nintendo",
+    "genre": "平台跳跃",
+    "tags": [
+      "横版",
+      "预渲染",
+      "双人"
+    ],
+    "players": "1-2",
+    "tagline": "震惊世界的预渲染革命",
+    "description": "1994年，当人们以为16位机已经走到尽头时，Rare掏出了这部《超级大金刚》！借助SGI工作站预渲染的3D角色与场景，画面效果让无数玩家以为这是次世代主机游戏。\n\n大金刚与迪迪两人搭档，随时切换各有特长；矿车关卡、水下关卡、骑乘犀牛与鸵鸟，变化丰富，节奏感十足。David Wise的配乐氛围感极强，“Aquatic Ambience”至今仍被奉为神曲。\n\n本作全球销量破九百万，成为SFC第二畅销的游戏。双人轮流或合作，都是周末客厅里的最佳选择。",
+    "highlights": [
+      "SGI预渲染画面的技术革命",
+      "大金刚与迪迪双角色切换",
+      "矿车、水下等多样关卡",
+      "David Wise氛围神曲"
+    ],
+    "reviews": [
+      {
+        "source": "EGM",
+        "score": "37/40",
+        "quote": "评测组给出10、9、9、9，惊叹其画面表现"
+      },
+      {
+        "source": "Fami通",
+        "score": "31/40",
+        "quote": "编辑肯定其画面与可玩性"
+      },
+      {
+        "source": "GameFan",
+        "score": "100/100",
+        "quote": "满分评价，称其为技术与乐趣的结合"
+      }
+    ],
+    "editorScore": 9.1,
+    "is2D": true,
+    "screenshots": [
+      "images/sfc/sfc-donkey-kong-country-s1.png",
+      "images/sfc/sfc-donkey-kong-country-x1.png",
+      "images/sfc/sfc-donkey-kong-country-title.png"
+    ],
+    "cover": "images/sfc/sfc-donkey-kong-country-box.jpg"
   },
   {
     "id": "sfc-romancing-saga-3",
@@ -729,10 +930,12 @@
     "editorScore": 9.0,
     "is2D": true,
     "screenshots": [
+      "images/sfc/sfc-romancing-saga-3-s1.png",
+      "images/sfc/sfc-romancing-saga-3-s2.png",
       "images/sfc/sfc-romancing-saga-3-1.jpg",
-      "images/sfc/sfc-romancing-saga-3-2.jpg"
+      "images/sfc/sfc-romancing-saga-3-title.png"
     ],
-    "coverShot": true
+    "cover": "images/sfc/sfc-romancing-saga-3-box.jpg"
   },
   {
     "id": "sfc-donkey-kong-country-2",
@@ -742,7 +945,7 @@
     "year": 1995,
     "developer": "Rare",
     "publisher": "Nintendo",
-    "genre": "平台动作",
+    "genre": "平台跳跃",
     "tags": [
       "横版",
       "预渲染",
@@ -777,10 +980,103 @@
     "editorScore": 9.0,
     "is2D": true,
     "screenshots": [
+      "images/sfc/sfc-donkey-kong-country-2-s1.png",
+      "images/sfc/sfc-donkey-kong-country-2-s2.png",
+      "images/sfc/sfc-donkey-kong-country-2-s3.png",
       "images/sfc/sfc-donkey-kong-country-2-1.png",
-      "images/sfc/sfc-donkey-kong-country-2-2.jpg"
+      "images/sfc/sfc-donkey-kong-country-2-title.png"
     ],
-    "coverShot": true
+    "cover": "images/sfc/sfc-donkey-kong-country-2-box.jpg"
+  },
+  {
+    "id": "sfc-ogre-battle",
+    "title": "Ogre Battle: The March of the Black Queen",
+    "titleZh": "皇家骑士团",
+    "titleJa": "伝説のオウガバトル",
+    "year": 1993,
+    "developer": "Quest",
+    "publisher": "Quest",
+    "genre": "战略角色扮演",
+    "tags": [
+      "即时战略",
+      "多结局",
+      "声望系统"
+    ],
+    "players": "1",
+    "tagline": "松野泰己的战略奇想曲",
+    "description": "《皇家骑士团》系列的起点！与续作的战棋不同，本作是一款独特的“即时战略+自动战斗”RPG：你在大地图上调派多支部队，攻占城镇与神殿，部队遭遇时则进入半自动的回合战斗。\n\n游戏的灵魂是“声望”与“阵营”系统：解放城镇时的抉择、部队成员的善恶倾向，都会悄悄改变你的声望，最终导向十多种不同结局。开场的塔罗牌问答决定主人公的初始属性，这一创意让人印象深刻。\n\n系统虽然复杂，但上手后极具深度。喜欢策略游戏的朋友，一定要见识这位“皇家骑士团之父”。",
+    "highlights": [
+      "即时部队调度的独特玩法",
+      "声望系统决定十余种结局",
+      "塔罗牌问答决定开局",
+      "深度的兵种转职"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "33/40",
+        "quote": "编辑给出8、8、8、9，赞赏其独创的战略系统"
+      },
+      {
+        "source": "GameRankings",
+        "score": "84%",
+        "quote": "综合媒体评分"
+      },
+      {
+        "source": "IGN",
+        "score": "9/10",
+        "quote": "Virtual Console版评测称其为深度十足的策略经典"
+      }
+    ],
+    "editorScore": 9.0,
+    "is2D": true,
+    "screenshots": [
+      "images/sfc/sfc-ogre-battle-s1.png",
+      "images/sfc/sfc-ogre-battle-s2.png",
+      "images/sfc/sfc-ogre-battle-u-s1.png",
+      "images/sfc/sfc-ogre-battle-u-s2.png",
+      "images/sfc/sfc-ogre-battle-title.png"
+    ],
+    "cover": "images/sfc/sfc-ogre-battle-box.jpg"
+  },
+  {
+    "id": "sfc-dragon-quest-vi",
+    "title": "Dragon Quest VI: Realms of Revelation",
+    "titleZh": "勇者斗恶龙6：幻之大地",
+    "titleJa": "ドラゴンクエストVI 幻の大地",
+    "year": 1995,
+    "developer": "Heartbeat",
+    "publisher": "Enix",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "双世界",
+      "转职"
+    ],
+    "players": "1",
+    "tagline": "梦与现实交织的双层世界",
+    "description": "“天空三部曲”的最终章！《勇者斗恶龙6》讲述主人公在“现实世界”与“梦之世界”之间往来穿梭，寻找失落的自我与真相，故事结构在系列中最为精巧。\n\n本作复活了转职系统，战士、魔法使、武斗家等基本职业修满后可晋升上级职业，“勇者”更需要多职业积累方能解锁。SFC末期的画面水准极高，战斗中的怪物动画、细腻的城镇场景都令人赞叹。\n\n它是系列在SFC上的最后一部作品，DS重制版有中文版本可以体验。想知道“天空三部曲”的最终谜底，就一定要玩它。",
+    "highlights": [
+      "现实与梦境双世界",
+      "上级职业转职系统",
+      "“天空三部曲”完结篇",
+      "SFC末期顶级画面"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "34/40",
+        "quote": "编辑给出9、8、9、8，肯定其精巧的世界结构"
+      }
+    ],
+    "editorScore": 9.0,
+    "is2D": true,
+    "screenshots": [
+      "images/sfc/sfc-dragon-quest-vi-s1.png",
+      "images/sfc/sfc-dragon-quest-vi-x1.png",
+      "images/sfc/sfc-dragon-quest-vi-title.png"
+    ],
+    "cover": "images/sfc/sfc-dragon-quest-vi-box.jpg"
   },
   {
     "id": "sfc-super-castlevania-iv",
@@ -825,10 +1121,115 @@
     "editorScore": 8.9,
     "is2D": true,
     "screenshots": [
+      "images/sfc/sfc-super-castlevania-iv-s1.png",
+      "images/sfc/sfc-super-castlevania-iv-s2.png",
+      "images/sfc/sfc-super-castlevania-iv-u-s1.png",
+      "images/sfc/sfc-super-castlevania-iv-u-s3.png",
       "images/sfc/sfc-super-castlevania-iv-1.png",
-      "images/sfc/sfc-super-castlevania-iv-2.png"
+      "images/sfc/sfc-super-castlevania-iv-title.png"
     ],
-    "coverShot": true
+    "cover": "images/sfc/sfc-super-castlevania-iv-box.jpg"
+  },
+  {
+    "id": "sfc-kirby-super-star",
+    "title": "Kirby Super Star",
+    "titleZh": "星之卡比 超级豪华版",
+    "titleJa": "星のカービィ スーパーデラックス",
+    "year": 1996,
+    "developer": "HAL Laboratory",
+    "publisher": "Nintendo",
+    "genre": "平台跳跃",
+    "tags": [
+      "横版",
+      "双人合作",
+      "合集"
+    ],
+    "players": "1-2",
+    "tagline": "一盘卡带，八款游戏",
+    "description": "一盘卡带里塞进了八款游戏！《星之卡比 超级豪华版》包含“春风”“大洞窟大作战”“银河许愿”等多种模式，每种模式玩法各不相同，堪称卡比系列最豪华的一作。\n\n吸入敌人获得能力是卡比的招牌，而本作的能力还可以变身为“帮手”，由第二位玩家操作一起冒险！每种能力都有多种招式，手感爽快，打击感十足。小游戏“格斗之道”“一闪”也让人玩到停不下来。\n\n简单上手又不失深度，无论是自己玩还是和朋友合作都乐趣无穷。全家欢乐的首选！",
+    "highlights": [
+      "八种模式合集，内容丰富",
+      "能力可变为“帮手”双人合作",
+      "每种能力多种招式",
+      "老少咸宜的欢乐体验"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "32/40",
+        "quote": "编辑给出9、8、7、8，赞赏其丰富的内容"
+      },
+      {
+        "source": "EGM",
+        "score": "34.5/40",
+        "quote": "评测组称其为系列最佳"
+      },
+      {
+        "source": "IGN",
+        "score": "8.5/10",
+        "quote": "Virtual Console版评测认可其可玩性"
+      }
+    ],
+    "editorScore": 8.9,
+    "is2D": true,
+    "screenshots": [
+      "images/sfc/sfc-kirby-super-star-s1.png",
+      "images/sfc/sfc-kirby-super-star-u-s1.png",
+      "images/sfc/sfc-kirby-super-star-u-s2.png",
+      "images/sfc/sfc-kirby-super-star-u-s3.png",
+      "images/sfc/sfc-kirby-super-star-title.png"
+    ],
+    "cover": "images/sfc/sfc-kirby-super-star-box.jpg"
+  },
+  {
+    "id": "sfc-super-mario-kart",
+    "title": "Super Mario Kart",
+    "titleZh": "超级马里奥赛车",
+    "titleJa": "スーパーマリオカート",
+    "year": 1992,
+    "developer": "Nintendo EAD",
+    "publisher": "Nintendo",
+    "genre": "竞速",
+    "tags": [
+      "Mode 7",
+      "对战",
+      "道具赛"
+    ],
+    "players": "1-2",
+    "tagline": "卡丁车狂飙的起点",
+    "description": "香蕉皮、绿乌龟、闪电……这些让朋友反目成仇的道具，都是从这里开始的！《超级马里奥赛车》利用SFC的Mode 7机能，创造出伪3D赛道，开创了“卡丁车竞速”这一全新类型。\n\n八位角色性能各异，蘑菇杯、花杯、星杯、特别杯共二十条赛道，每一条都有独特的机关与捷径。分屏双人对战模式更是当年宿舍、客厅里的头号娱乐，“气球战”一开打，笑声与骂声齐飞。\n\n系列至今仍是任天堂最畅销的品牌之一。回到初代，体验那份最纯粹的赛车乐趣吧！",
+    "highlights": [
+      "开创卡丁车竞速类型",
+      "Mode 7伪3D赛道",
+      "分屏双人对战与气球战",
+      "丰富的道具与捷径"
+    ],
+    "reviews": [
+      {
+        "source": "EGM",
+        "score": "34/40",
+        "quote": "评测组赞其双人对战的乐趣无穷"
+      },
+      {
+        "source": "CVG",
+        "score": "96%",
+        "quote": "英国杂志给出极高评价"
+      },
+      {
+        "source": "GameRankings",
+        "score": "94%",
+        "quote": "综合媒体评分"
+      }
+    ],
+    "editorScore": 8.9,
+    "is2D": true,
+    "screenshots": [
+      "images/sfc/sfc-super-mario-kart-s1.png",
+      "images/sfc/sfc-super-mario-kart-s2.png",
+      "images/sfc/sfc-super-mario-kart-s3.png",
+      "images/sfc/sfc-super-mario-kart-title.png"
+    ],
+    "cover": "images/sfc/sfc-super-mario-kart-box.jpg"
   },
   {
     "id": "sfc-contra-iii",
@@ -868,9 +1269,11 @@
     "editorScore": 8.8,
     "is2D": true,
     "screenshots": [
-      "images/sfc/sfc-contra-iii-1.png"
+      "images/sfc/sfc-contra-iii-s1.png",
+      "images/sfc/sfc-contra-iii-s2.png",
+      "images/sfc/sfc-contra-iii-title.png"
     ],
-    "coverShot": true
+    "cover": "images/sfc/sfc-contra-iii-box.jpg"
   },
   {
     "id": "sfc-street-fighter-ii-turbo",
@@ -915,9 +1318,547 @@
     "editorScore": 8.8,
     "is2D": true,
     "screenshots": [
+      "images/sfc/sfc-street-fighter-ii-turbo-s1.png",
       "images/sfc/sfc-street-fighter-ii-turbo-1.png",
-      "images/sfc/sfc-street-fighter-ii-turbo-2.jpg"
+      "images/sfc/sfc-street-fighter-ii-turbo-title.png"
     ],
-    "coverShot": true
+    "cover": "images/sfc/sfc-street-fighter-ii-turbo-box.jpg"
+  },
+  {
+    "id": "sfc-romancing-saga-2",
+    "title": "Romancing SaGa 2",
+    "titleZh": "浪漫沙加2",
+    "titleJa": "ロマンシング サ・ガ2",
+    "year": 1993,
+    "developer": "Square",
+    "publisher": "Square",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "传承",
+      "帝国经营"
+    ],
+    "players": "1",
+    "tagline": "代代皇帝传承的千年帝国史",
+    "description": "这一次，你扮演的不是某个英雄，而是一整个王朝！《浪漫沙加2》中，阿瓦隆帝国的皇帝要对抗复活的“七英雄”，而当一位皇帝倒下，他的技能与意志将传承给下一代继承人。\n\n“传承”系统让整个游戏跨越数百年：你可以扩张领土、建造设施、研发新武器与魔法，让帝国一步步壮大。战斗中“闪光”领悟技能的系统首次登场，那个灯泡亮起的瞬间令无数玩家着迷。\n\n高难度与庞大的自由度让它在日本拥有铁杆粉丝，近年还推出了重制版，原版的硬派滋味依旧值得品尝。",
+    "highlights": [
+      "皇位传承跨越数百年",
+      "帝国领土扩张与经营",
+      "“闪光”领悟技能首次登场",
+      "与七英雄的宿命对决"
+    ],
+    "reviews": [],
+    "editorScore": 8.8,
+    "is2D": true,
+    "screenshots": [
+      "images/sfc/sfc-romancing-saga-2-s1.png",
+      "images/sfc/sfc-romancing-saga-2-x1.jpg",
+      "images/sfc/sfc-romancing-saga-2-title.png"
+    ],
+    "cover": "images/sfc/sfc-romancing-saga-2-box.jpg"
+  },
+  {
+    "id": "sfc-super-ghouls-n-ghosts",
+    "title": "Super Ghouls 'n Ghosts",
+    "titleZh": "超魔界村",
+    "titleJa": "超魔界村",
+    "year": 1991,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genre": "动作",
+    "tags": [
+      "横版",
+      "高难度",
+      "二段跳"
+    ],
+    "players": "1",
+    "tagline": "被虐也心甘情愿的骑士之路",
+    "description": "穿着裤衩的亚瑟骑士又来了！《超魔界村》延续了系列“史上最虐”的光荣传统：一碰就掉盔甲，再碰就成骷髅，而且必须通关两遍才能看到真正结局。\n\n本作新增了二段跳与黄金铠甲蓄力魔法，关卡设计充满SFC特色：在汹涌的海浪中起伏的木筏、旋转的城堡、会把整个画面扭曲的巨大魔物……每一处都考验你的反应与记忆。\n\n死上一百次也要再来一把——这就是魔界村的魔力。动作游戏的硬核爱好者，快来接受挑战吧！",
+    "highlights": [
+      "经典的二段跳与黄金铠甲",
+      "利用SFC机能的动态关卡",
+      "需通关两次的真结局",
+      "硬核动作游戏代表"
+    ],
+    "reviews": [
+      {
+        "source": "EGM",
+        "score": "36/40",
+        "quote": "评测组称其为SNES上最出色的动作游戏之一"
+      },
+      {
+        "source": "Fami通",
+        "score": "27/40",
+        "quote": "编辑认可其完成度，但提醒难度极高"
+      },
+      {
+        "source": "CVG",
+        "score": "89/100",
+        "quote": "英国杂志赞其画面与关卡设计"
+      }
+    ],
+    "editorScore": 8.8,
+    "is2D": true,
+    "screenshots": [
+      "images/sfc/sfc-super-ghouls-n-ghosts-s1.png",
+      "images/sfc/sfc-super-ghouls-n-ghosts-s2.png",
+      "images/sfc/sfc-super-ghouls-n-ghosts-s3.png",
+      "images/sfc/sfc-super-ghouls-n-ghosts-u-s1.png",
+      "images/sfc/sfc-super-ghouls-n-ghosts-title.png"
+    ],
+    "cover": "images/sfc/sfc-super-ghouls-n-ghosts-box.jpg"
+  },
+  {
+    "id": "sfc-front-mission",
+    "title": "Front Mission",
+    "titleZh": "前线任务",
+    "titleJa": "フロントミッション",
+    "year": 1995,
+    "developer": "G-Craft",
+    "publisher": "Square",
+    "genre": "战略角色扮演",
+    "tags": [
+      "战棋",
+      "机甲",
+      "军事"
+    ],
+    "players": "1",
+    "tagline": "钢铁巨人的战棋史诗",
+    "description": "史克威尔首部机甲战棋，开创了“前线任务”这一硬派系列！在近未来的海夫曼岛上，各国势力以名为“Wanzer”的人形机甲激烈交战，主人公罗伊德为了追查未婚妻死亡的真相，率领雇佣兵部队投身战场。\n\n游戏最大的魅力在于机甲的自由改装：躯干、双臂、双腿、武器都可以单独购买与搭配，打造专属的钢铁战士。战斗中可以分别攻击机甲的各个部位，打断手臂就无法开火，策略性十足。\n\n成熟严肃的军事剧本，配上沉稳的音乐，让它在一众奇幻RPG中独树一帜。机甲迷必玩！",
+    "highlights": [
+      "机甲部件自由组装",
+      "部位破坏的战术战斗",
+      "成熟的军事政治剧情",
+      "前线任务系列开山作"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "31/40",
+        "quote": "编辑赞赏其机甲改装系统的深度"
+      },
+      {
+        "source": "Nintendo Life",
+        "score": "9/10",
+        "quote": "称其为最出色的机甲战棋之一"
+      }
+    ],
+    "editorScore": 8.8,
+    "is2D": true,
+    "screenshots": [
+      "images/sfc/sfc-front-mission-s1.png",
+      "images/sfc/sfc-front-mission-title.png"
+    ],
+    "cover": "images/sfc/sfc-front-mission-box.jpg"
+  },
+  {
+    "id": "sfc-demons-crest",
+    "title": "Demon's Crest",
+    "titleZh": "魔界村外传：恶魔纹章",
+    "titleJa": "デモンズブレイゾン 魔界村 紋章編",
+    "year": 1994,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genre": "动作",
+    "tags": [
+      "横版",
+      "哥特",
+      "探索"
+    ],
+    "players": "1",
+    "tagline": "红色恶魔的复仇之旅",
+    "description": "《魔界村》系列中的宿敌——红色恶魔“火焰魔”这回成了主角！在这部哥特风格的动作游戏中，你要夺回被夺走的六枚纹章，向背叛者发起复仇。\n\n本作采用非线性的关卡结构，可以自由选择关卡顺序、反复探索寻找隐藏道具。收集纹章后火焰魔能变身为多种形态，获得飞翔、潜水、攀爬等能力，颇有“银河恶魔城”的味道。画面阴郁华丽，音乐更是充满中世纪的诡谲氛围。\n\n当年销量不佳，却在后来被誉为SFC隐藏神作。动作游戏爱好者不可错过！",
+    "highlights": [
+      "反派主角的哥特复仇",
+      "非线性关卡与探索",
+      "多种纹章变身形态",
+      "阴郁华丽的画面与音乐"
+    ],
+    "reviews": [
+      {
+        "source": "EGM",
+        "score": "33/40",
+        "quote": "评测组赞其画面与氛围"
+      },
+      {
+        "source": "GameFan",
+        "score": "97/100",
+        "quote": "三位评测员给出97、98、97的高分"
+      },
+      {
+        "source": "GameRankings",
+        "score": "87%",
+        "quote": "综合媒体评分"
+      }
+    ],
+    "editorScore": 8.8,
+    "is2D": true,
+    "screenshots": [
+      "images/sfc/sfc-demons-crest-s1.png",
+      "images/sfc/sfc-demons-crest-s2.png",
+      "images/sfc/sfc-demons-crest-s3.png",
+      "images/sfc/sfc-demons-crest-u-s1.png",
+      "images/sfc/sfc-demons-crest-title.png"
+    ],
+    "cover": "images/sfc/sfc-demons-crest-box.jpg"
+  },
+  {
+    "id": "sfc-tengai-makyou-zero",
+    "title": "Tengai Makyō Zero",
+    "titleZh": "天外魔境ZERO",
+    "titleJa": "天外魔境ZERO",
+    "year": 1995,
+    "developer": "Red Company / Hudson Soft",
+    "publisher": "Hudson Soft",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "和风",
+      "实时时钟"
+    ],
+    "players": "1",
+    "tagline": "内置时钟的和风奇想RPG",
+    "description": "以“伪日本”火之国为舞台的天外魔境系列，首次登陆SFC就带来了惊喜：卡带内置实时时钟芯片（PLG），游戏中的节日、商店营业乃至角色生日都与现实日期同步！\n\n主人公是被选中的“火之一族”少年，一路降妖伏魔，与形形色色的怪诞敌人斗智斗勇。画面在SFC末期中堪称上乘，和风色彩浓烈的城镇与迷宫细节丰富，战斗动画夸张又有趣，搞笑与热血并存的剧本延续了系列一贯的“广井王子”风格。\n\n本作只在日本发售，如今靠汉化版才被更多中国玩家认识。喜欢和风奇幻RPG的朋友，这颗遗珠值得挖掘！",
+    "highlights": [
+      "卡带内置实时时钟，节日与现实同步",
+      "浓郁和风的伪日本世界观",
+      "夸张有趣的战斗演出",
+      "日版独占的遗珠"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "29/40",
+        "quote": "编辑肯定其实时时钟系统的新意与丰富内容"
+      }
+    ],
+    "editorScore": 8.7,
+    "is2D": true,
+    "screenshots": [
+      "images/sfc/sfc-tengai-makyou-zero-s1.png",
+      "images/sfc/sfc-tengai-makyou-zero-s2.png",
+      "images/sfc/sfc-tengai-makyou-zero-title.png"
+    ],
+    "cover": "images/sfc/sfc-tengai-makyou-zero-box.jpg"
+  },
+  {
+    "id": "sfc-illusion-of-gaia",
+    "title": "Illusion of Gaia",
+    "titleZh": "盖亚幻想纪",
+    "titleJa": "ガイア幻想紀",
+    "year": 1993,
+    "developer": "Quintet",
+    "publisher": "Enix",
+    "genre": "动作角色扮演",
+    "tags": [
+      "像素",
+      "世界遗迹",
+      "变身"
+    ],
+    "players": "1",
+    "tagline": "环游世界遗迹的神秘之旅",
+    "description": "《天地创造》的前身！Quintet打造的《盖亚幻想纪》带领少年提姆踏上环游世界的旅程，足迹遍布长城、纳斯卡地画、吴哥窟、金字塔等真实遗迹，充满神秘与浪漫。\n\n本作没有传统的经验值，而是通过清光关卡敌人提升能力；主角可以在“盖亚之地”变身为黑暗骑士弗利德与天之勇士夏多，以不同能力解开迷宫谜题。故事基调忧伤而深沉，关于文明、生死与进化的思考在当年颇为罕见。\n\n喜欢《天地创造》的朋友，一定不能错过这部同样出自Quintet之手的姊妹篇。",
+    "highlights": [
+      "以真实世界遗迹为舞台",
+      "三种形态变身解谜",
+      "无经验值的独特成长",
+      "深沉的哲学主题"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "21/30",
+        "quote": "三位编辑给出8、6、7分"
+      },
+      {
+        "source": "CVG",
+        "score": "90/100",
+        "quote": "英国杂志赞其氛围与谜题"
+      },
+      {
+        "source": "GameRankings",
+        "score": "80%",
+        "quote": "综合媒体评分"
+      }
+    ],
+    "editorScore": 8.7,
+    "is2D": true,
+    "screenshots": [
+      "images/sfc/sfc-illusion-of-gaia-s1.png",
+      "images/sfc/sfc-illusion-of-gaia-u-s1.png",
+      "images/sfc/sfc-illusion-of-gaia-title.png"
+    ],
+    "cover": "images/sfc/sfc-illusion-of-gaia-box.jpg"
+  },
+  {
+    "id": "sfc-bahamut-lagoon",
+    "title": "Bahamut Lagoon",
+    "titleZh": "巴哈姆特战记",
+    "titleJa": "バハムート ラグーン",
+    "year": 1996,
+    "developer": "Square",
+    "publisher": "Square",
+    "genre": "战略角色扮演",
+    "tags": [
+      "战棋",
+      "养龙",
+      "浮游大陆"
+    ],
+    "players": "1",
+    "tagline": "与巨龙并肩作战的天空战记",
+    "description": "在漂浮于空中的大陆上，骑士拜尔与他的龙族伙伴为了夺回王国与公主而战！《巴哈姆特战记》是史克威尔在SFC末期推出的战棋RPG，最大的特色是“养龙”系统。\n\n你可以给龙喂食各种道具甚至武器，龙的能力和外观都会随之变化，有时甚至能进化成意想不到的形态；龙在战场上自主行动，配合骑士部队的地形与火焰蔓延机制，策略玩法别具一格。\n\n剧情中充满爱恨纠葛，其中某段三角关系更是让玩家们讨论至今。这部日版独占作品画面华丽、系统独特，战棋迷不容错过。",
+    "highlights": [
+      "独特的“养龙”喂食系统",
+      "地形与火焰蔓延的策略战斗",
+      "浮游大陆的奇幻世界",
+      "日版独占的史克威尔战棋"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "29/40",
+        "quote": "编辑肯定其养龙系统的新意"
+      },
+      {
+        "source": "Edge",
+        "score": "9/10",
+        "quote": "英国杂志赞其独特的战棋设计"
+      }
+    ],
+    "editorScore": 8.7,
+    "is2D": true,
+    "screenshots": [
+      "images/sfc/sfc-bahamut-lagoon-s1.png",
+      "images/sfc/sfc-bahamut-lagoon-s2.png",
+      "images/sfc/sfc-bahamut-lagoon-s3.png",
+      "images/sfc/sfc-bahamut-lagoon-title.png"
+    ],
+    "cover": "images/sfc/sfc-bahamut-lagoon-box.jpg"
+  },
+  {
+    "id": "sfc-romancing-saga",
+    "title": "Romancing SaGa",
+    "titleZh": "浪漫沙加",
+    "titleJa": "ロマンシング サ・ガ",
+    "year": 1992,
+    "developer": "Square",
+    "publisher": "Square",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "自由剧本",
+      "多主角"
+    ],
+    "players": "1",
+    "tagline": "自由剧本系统的开山之作",
+    "description": "“自由剧本”——这个让沙加系列独树一帜的系统，正是从本作开始的！八位出身各异的主角，有海盗、有公主、有游牧民，各自从不同的起点出发，在玛尔迪亚斯大陆上自由闯荡。\n\n游戏没有固定的剧情顺序，你在哪里接到什么事件、怎样处理，都会影响世界的走向。战斗中可以随着成长领悟新技能，角色能力提升的方式也与传统RPG大不相同。小林智美华丽的人物插画，让每位主角都风采动人。\n\n系统略显晦涩，但正是这份自由与神秘感让人沉迷。想了解沙加系列的源头，从这里出发吧！",
+    "highlights": [
+      "八位主角自由选择",
+      "非线性的“自由剧本”",
+      "小林智美唯美插画",
+      "伊藤贤治的经典旋律"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "31/40",
+        "quote": "编辑给出9、8、8、6，肯定其高自由度的冒险"
+      }
+    ],
+    "editorScore": 8.6,
+    "is2D": true,
+    "screenshots": [
+      "images/sfc/sfc-romancing-saga-s1.png",
+      "images/sfc/sfc-romancing-saga-s2.png",
+      "images/sfc/sfc-romancing-saga-s3.png",
+      "images/sfc/sfc-romancing-saga-title.png"
+    ],
+    "cover": "images/sfc/sfc-romancing-saga-box.jpg"
+  },
+  {
+    "id": "sfc-star-ocean",
+    "title": "Star Ocean",
+    "titleZh": "星之海洋",
+    "titleJa": "スターオーシャン",
+    "year": 1996,
+    "developer": "tri-Ace",
+    "publisher": "Enix",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "即时战斗",
+      "私人动作"
+    ],
+    "players": "1",
+    "tagline": "挑战卡带极限的科幻奇幻RPG",
+    "description": "tri-Ace的出道作，一出手就把SFC的机能压榨到了极限！48Mbit大容量卡带配合S-DD1压缩芯片，实现了大量语音与华丽的画面，开场主题曲响起时，所有人都惊呆了。\n\n游戏融合了科幻与奇幻：来自宇宙联邦的船员降落在中世纪星球，为了治愈石化病而穿越时空。即时动作战斗爽快流畅，“私人动作（PA）”系统让角色之间的好感度影响剧情与结局，道具制作、技能培养等系统更是复杂多样。\n\n这部日版独占作品开创了星之海洋系列。喜欢即时战斗RPG的玩家，不妨一试。",
+    "highlights": [
+      "S-DD1芯片压榨SFC极限",
+      "即时动作战斗系统",
+      "“私人动作”影响结局",
+      "科幻与奇幻的融合"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "28/40",
+        "quote": "编辑肯定其丰富的系统与技术表现"
+      },
+      {
+        "source": "Nintendo Life",
+        "score": "9/10",
+        "quote": "称其为被遗忘的SFC宝藏"
+      }
+    ],
+    "editorScore": 8.6,
+    "is2D": true,
+    "screenshots": [
+      "images/sfc/sfc-star-ocean-s1.png",
+      "images/sfc/sfc-star-ocean-x1.jpg",
+      "images/sfc/sfc-star-ocean-title.png"
+    ],
+    "cover": "images/sfc/sfc-star-ocean-box.jpg"
+  },
+  {
+    "id": "sfc-turtles-in-time",
+    "title": "Teenage Mutant Ninja Turtles IV: Turtles in Time",
+    "titleZh": "忍者神龟4：时空之旅",
+    "titleJa": "ティーンエイジ ミュータント ニンジャ タートルズ タートルズ イン タイム",
+    "year": 1992,
+    "developer": "Konami",
+    "publisher": "Konami",
+    "genre": "动作清版",
+    "tags": [
+      "清版",
+      "双人",
+      "穿越"
+    ],
+    "players": "1-2",
+    "tagline": "四只神龟的穿越清版狂欢",
+    "description": "“Cowabunga！”四只忍者神龟穿越时空，从史前恐龙时代打到未来太空站！Konami将街机名作移植到SFC，并加入了全新关卡与BOSS，完成度极高。\n\n本作最经典的招牌动作，就是把脚踢兵直接甩向屏幕——这一招利用了SFC的缩放机能，爽快感爆表！每只神龟武器与特性各异，双人合作时更是热闹非凡。海盗船、西部列车、未来都市……关卡风格变化多端，节奏感十足。\n\n这是SFC上最好的清版动作游戏之一，和朋友一起拿起手柄，找回童年的周末吧。",
+    "highlights": [
+      "把敌人甩向屏幕的招牌技",
+      "穿越多个时代的关卡",
+      "SFC版新增关卡与BOSS",
+      "双人合作清版"
+    ],
+    "reviews": [
+      {
+        "source": "EGM",
+        "score": "36/40",
+        "quote": "四位评测员全员9分，称其为最佳清版动作"
+      },
+      {
+        "source": "Fami通",
+        "score": "26/40",
+        "quote": "编辑认可其爽快的街机感"
+      },
+      {
+        "source": "Nintendo Power",
+        "score": "4/5",
+        "quote": "肯定其多人合作的乐趣"
+      }
+    ],
+    "editorScore": 8.6,
+    "is2D": true,
+    "screenshots": [
+      "images/sfc/sfc-turtles-in-time-s1.png",
+      "images/sfc/sfc-turtles-in-time-s2.png",
+      "images/sfc/sfc-turtles-in-time-u-s1.png",
+      "images/sfc/sfc-turtles-in-time-u-s3.png",
+      "images/sfc/sfc-turtles-in-time-title.png"
+    ],
+    "cover": "images/sfc/sfc-turtles-in-time-box.jpg"
+  },
+  {
+    "id": "sfc-axelay",
+    "title": "Axelay",
+    "titleZh": "阿克雷",
+    "titleJa": "アクスレイ",
+    "year": 1992,
+    "developer": "Konami",
+    "publisher": "Konami",
+    "genre": "射击",
+    "tags": [
+      "STG",
+      "Mode 7",
+      "纵横切换"
+    ],
+    "players": "1",
+    "tagline": "纵横交替的视觉系射击",
+    "description": "Konami在SFC上的射击游戏杰作！《阿克雷》最大的特色是纵版与横版关卡交替出现，纵版关卡利用Mode 7做出了向远方弯曲的地平线效果，在当年视觉冲击力爆棚。\n\n出击前可以从多种武器中选择三种装备，战斗中随时切换，被击中会失去当前武器，策略性十足。巨大的BOSS和华丽的爆炸演出令人目不暇接，配乐也是Konami一贯的高水准。\n\n本作只有六关，但每一关都精雕细琢。射击游戏爱好者的SFC收藏里，它绝对不能缺席。",
+    "highlights": [
+      "纵横版关卡交替",
+      "Mode 7弯曲地平线效果",
+      "出击前自选武器组合",
+      "巨型BOSS与华丽演出"
+    ],
+    "reviews": [
+      {
+        "source": "EGM",
+        "score": "35/40",
+        "quote": "评测组给出9、9、9、8，盛赞其画面效果"
+      },
+      {
+        "source": "GameRankings",
+        "score": "81%",
+        "quote": "综合媒体评分"
+      }
+    ],
+    "editorScore": 8.5,
+    "is2D": true,
+    "screenshots": [
+      "images/sfc/sfc-axelay-s1.png",
+      "images/sfc/sfc-axelay-s2.png",
+      "images/sfc/sfc-axelay-s3.png",
+      "images/sfc/sfc-axelay-title.png"
+    ],
+    "cover": "images/sfc/sfc-axelay-box.jpg"
+  },
+  {
+    "id": "sfc-panel-de-pon",
+    "title": "Panel de Pon",
+    "titleZh": "方块谜城",
+    "titleJa": "パネルでポン",
+    "year": 1995,
+    "developer": "Intelligent Systems",
+    "publisher": "Nintendo",
+    "genre": "解谜",
+    "tags": [
+      "消除",
+      "连锁",
+      "对战"
+    ],
+    "players": "1-2",
+    "tagline": "停不下来的连锁消除",
+    "description": "妖精莉普与花之国的可爱世界里，藏着一款让人上瘾的硬派益智游戏！《方块谜城》的玩法是左右交换相邻方块，三个同色连成一线即可消除，而连锁与同时消除才是取胜关键。\n\n方块不断从下方升起，你需要在压力中构建连锁，越玩越快、越玩越紧张。双人对战模式更是火爆：每次连锁都会给对手砸下“垃圾方块”，你来我往的攻防让人血脉偾张。\n\n北美版改头换面成了《Tetris Attack》，换上了耀西岛的角色。它和《俄罗斯方块》《魔法气泡》一样，是永远玩不腻的益智经典。",
+    "highlights": [
+      "交换方块构建连锁",
+      "对战垃圾方块攻防",
+      "可爱的妖精画风",
+      "上手容易精通难"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "29/40",
+        "quote": "编辑给出7、7、8、7，肯定其益智乐趣"
+      },
+      {
+        "source": "EGM",
+        "score": "8.25/10",
+        "quote": "北美版《Tetris Attack》评测赞其对战模式"
+      }
+    ],
+    "editorScore": 8.5,
+    "is2D": true,
+    "screenshots": [
+      "images/sfc/sfc-panel-de-pon-s1.png",
+      "images/sfc/sfc-panel-de-pon-s2.png",
+      "images/sfc/sfc-panel-de-pon-u-s1.png",
+      "images/sfc/sfc-panel-de-pon-u-s2.png",
+      "images/sfc/sfc-panel-de-pon-title.png"
+    ],
+    "cover": "images/sfc/sfc-panel-de-pon-box.jpg"
   }
 ]

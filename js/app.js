@@ -1,23 +1,47 @@
 (() => {
   "use strict";
 
+  const MAKERS = [
+    { key: "Nintendo", zh: "任天堂", en: "NINTENDO" },
+    { key: "SEGA", zh: "世嘉", en: "SEGA" },
+    { key: "Sony", zh: "索尼", en: "SONY" },
+    { key: "Other", zh: "NEC · SNK · 万代", en: "NEC / SNK / BANDAI" },
+  ];
   const PLATFORMS = [
-    { key: "gb",  abbr: "GB",  name: "Game Boy / Color", zh: "掌机之王", maker: "Nintendo", year: "1989 / 1998", color: "#8bac0f", ink: "#0f380f",
-      intro: "四色绿屏里装下了整个世界。电池能撑一整个暑假，口袋妖怪、塞尔达、圣剑传说——无数人的游戏启蒙就在这块小屏幕上。" },
-    { key: "gba", abbr: "GBA", name: "Game Boy Advance", zh: "口袋里的超任", maker: "Nintendo", year: "2001", color: "#5b3fbf", ink: "#ffffff",
-      intro: "32 位掌机把 SFC 时代的 2D 美学推向巅峰。火纹、黄金太阳、恶魔城、牧场物语，2D 像素游戏最后的黄金年代。" },
-    { key: "sfc", abbr: "SFC", name: "Super Famicom / SNES", zh: "16 位 RPG 王朝", maker: "Nintendo", year: "1990", color: "#c9c3d6", ink: "#3b2a6b",
+    { key: "fc",  abbr: "FC",  group: "Nintendo", name: "Famicom / NES", zh: "红白机传奇", maker: "Nintendo", year: "1983", color: "#b3262e", ink: "#ffffff",
+      intro: "红白机、小霸王、学习机——一代中国玩家的启蒙。超级马里奥、魂斗罗、勇者斗恶龙、重装机兵，8 位像素里藏着最纯粹的快乐。" },
+    { key: "sfc", abbr: "SFC", group: "Nintendo", name: "Super Famicom / SNES", zh: "16 位 RPG 王朝", maker: "Nintendo", year: "1990", color: "#c9c3d6", ink: "#3b2a6b",
       intro: "日式 RPG 的黄金时代就诞生在这台灰紫色主机上。时空之轮、圣剑传说、最终幻想 VI、天地创造……每一卡都是传说。" },
-    { key: "md",  abbr: "MD",  name: "Mega Drive / Genesis", zh: "黑色 16 位旋风", maker: "SEGA", year: "1988", color: "#111111", ink: "#ffffff",
+    { key: "gb",  abbr: "GB",  group: "Nintendo", name: "Game Boy / Color", zh: "掌机之王", maker: "Nintendo", year: "1989 / 1998", color: "#8bac0f", ink: "#0f380f",
+      intro: "四色绿屏里装下了整个世界。电池能撑一整个暑假，口袋妖怪、塞尔达、圣剑传说——无数人的游戏启蒙就在这块小屏幕上。" },
+    { key: "gba", abbr: "GBA", group: "Nintendo", name: "Game Boy Advance", zh: "口袋里的超任", maker: "Nintendo", year: "2001", color: "#5b3fbf", ink: "#ffffff",
+      intro: "32 位掌机把 SFC 时代的 2D 美学推向巅峰。火纹、黄金太阳、恶魔城、牧场物语，2D 像素游戏最后的黄金年代。" },
+    { key: "nds", abbr: "NDS", group: "Nintendo", name: "Nintendo DS", zh: "双屏魔法", maker: "Nintendo", year: "2004", color: "#7d8691", ink: "#ffffff",
+      intro: "双屏与触控笔带来的新玩法，也让 2D 像素在掌机上焕发第二春：苍月十字架、勇者斗恶龙重制、世界末日与你……" },
+    { key: "md",  abbr: "MD",  group: "SEGA", name: "Mega Drive / Genesis", zh: "黑色 16 位旋风", maker: "SEGA", year: "1988", color: "#111111", ink: "#ffffff",
       intro: "“SEGA~！”一声开机音，代表着速度与热血。索尼克、怒之铁拳、梦幻之星、光明力量，世嘉 16 位的硬派魅力至今不减。" },
-    { key: "ss",  abbr: "SS",  name: "Sega Saturn", zh: "2D 性能怪兽", maker: "SEGA", year: "1994", color: "#2b3a8c", ink: "#ffffff",
+    { key: "mcd", abbr: "MCD", group: "SEGA", name: "Mega-CD / Sega CD", zh: "CD 时代先声", maker: "SEGA", year: "1991", color: "#4a4f57", ink: "#ffffff",
+      intro: "MD 的光盘扩展，带来了 CD 音轨、动画过场与大容量：露娜、Popful Mail、Snatcher、Sonic CD，小众却满是珍宝。" },
+    { key: "gg",  abbr: "GG",  group: "SEGA", name: "Game Gear", zh: "彩色掌机先锋", maker: "SEGA", year: "1990", color: "#0d0d0d", ink: "#ffd23f",
+      intro: "比 GB 更早拥有彩色背光屏的掌机。光明力量外传、索尼克、忍 GG，耗电如虎，却是世嘉迷口袋里的骄傲。" },
+    { key: "ss",  abbr: "SS",  group: "SEGA", name: "Sega Saturn", zh: "2D 性能怪兽", maker: "SEGA", year: "1994", color: "#2b3a8c", ink: "#ffffff",
       intro: "双 CPU 的 2D 怪兽。格斗、射击、SRPG 和大量日版独占名作让土星成为 2D 玩家心中永远的圣地。" },
-    { key: "ps",  abbr: "PS",  name: "PlayStation", zh: "光盘时代的开拓者", maker: "Sony", year: "1994", color: "#9aa0a6", ink: "#111111",
-      intro: "3D 浪潮中依然盛放的 2D 之花：月下夜想曲、幻想水浒传、圣剑传说 LOM……像素艺术在 CD 容量里迎来了新的高度。" },
-    { key: "dc",  abbr: "DC",  name: "Dreamcast", zh: "世嘉最后的梦", maker: "SEGA", year: "1998", color: "#f26b1d", ink: "#ffffff",
+    { key: "dc",  abbr: "DC",  group: "SEGA", name: "Dreamcast", zh: "世嘉最后的梦", maker: "SEGA", year: "1998", color: "#f26b1d", ink: "#ffffff",
       intro: "超越时代的梦之主机。街机级的 2D 格斗与射击、充满想象力的原创作品，短暂却灿烂的世嘉绝唱。" },
-    { key: "ps2", abbr: "PS2", name: "PlayStation 2", zh: "史上最畅销主机", maker: "Sony", year: "2000", color: "#1d3fa8", ink: "#ffffff",
+    { key: "ps",  abbr: "PS",  group: "Sony", name: "PlayStation", zh: "光盘时代的开拓者", maker: "Sony", year: "1994", color: "#9aa0a6", ink: "#111111",
+      intro: "3D 浪潮中依然盛放的 2D 之花：月下夜想曲、幻想水浒传、圣剑传说 LOM……像素艺术在 CD 容量里迎来了新的高度。" },
+    { key: "ps2", abbr: "PS2", group: "Sony", name: "PlayStation 2", zh: "史上最畅销主机", maker: "Sony", year: "2000", color: "#1d3fa8", ink: "#ffffff",
       intro: "3D 大作的天下，却也藏着手绘 2D 的瑰宝：奥丁领域、魔界战记、合集与移植……还有那些定义了一代人的 JRPG。" },
+    { key: "psp", abbr: "PSP", group: "Sony", name: "PlayStation Portable", zh: "掌上 RPG 宝库", maker: "Sony", year: "2004", color: "#2a2a2a", ink: "#8fd3ff",
+      intro: "宽屏掌机成了 JRPG 的避风港：空之轨迹、伊苏、皇家骑士团 命运之轮、最终幻想战略版 狮子战争，像素名作的重生之地。" },
+    { key: "pce", abbr: "PCE", group: "Other", name: "PC Engine / TurboGrafx", zh: "小白机的逆袭", maker: "NEC / Hudson", year: "1987", color: "#f2f2f2", ink: "#c8102e",
+      intro: "小巧的 HuCard 与最早的 CD-ROM²。天外魔境、伊苏、恶魔城X 血之轮回、无数射击名作，曾在日本力压 MD。" },
+    { key: "neogeo", abbr: "NEO·GEO", group: "Other", name: "Neo Geo", zh: "百万街机在家中", maker: "SNK", year: "1990", color: "#d4a017", ink: "#111111",
+      intro: "“The 100 Mega Shock!” 拳皇、合金弹头、侍魂、饿狼传说——街机厅里最耀眼的 2D 点阵，SNK 的黄金时代。" },
+    { key: "ngp", abbr: "NGP", group: "Other", name: "Neo Geo Pocket Color", zh: "SNK 掌上格斗", maker: "SNK", year: "1998", color: "#1c6fb8", ink: "#ffffff",
+      intro: "手感一流的微动摇杆，Q 版拳皇与 SNK vs. Capcom 卡片战斗，短命却被无数玩家怀念的小掌机。" },
+    { key: "ws",  abbr: "WS",  group: "Other", name: "WonderSwan / Color", zh: "横井军平的遗作", maker: "Bandai", year: "1999", color: "#5fb3a1", ink: "#0d2b26",
+      intro: "GB 之父横井军平的最后作品，日本限定。最终幻想重制、浪漫沙加、Riviera、Judgement Silversword，藏着不少 2D 珍品。" },
   ];
   const PMAP = Object.fromEntries(PLATFORMS.map(p => [p.key, p]));
 
@@ -67,6 +91,7 @@
         ${img(g, shot(g))}
         ${showPlat ? `<span class="card-plat">${esc(p.abbr)}</span>` : ""}
         <span class="card-rank">No.${g.rank}</span>
+        ${(g.screenshots || []).length > 1 ? `<span class="card-pics">▣ ${g.screenshots.length}</span>` : ""}
       </div>
       <div class="card-body">
         <h3 class="card-title">${esc(g.titleZh || g.title)}</h3>
@@ -104,16 +129,18 @@
   // ---------- views ----------
   function viewHome() {
     const all = [...state.games].sort((a, b) => (b.editorScore || 0) - (a.editorScore || 0));
-    const withShot = all.filter(g => g.coverShot).slice(0, 12);
+    const withShot = all.filter(g => g.coverShot ?? /-s1\.png$/.test(shot(g))).slice(0, 24);
     const coverGame = withShot[Math.floor(Math.random() * withShot.length)] || all[0];
-    const coverLines = PLATFORMS.map(p => {
+    const coverPlats = [...PLATFORMS].sort(() => Math.random() - 0.5).slice(0, 8);
+    const coverLines = coverPlats.map(p => {
       const top = gamesOf(p.key)[0];
       return top ? `<div class="cover-line" style="${pvars(p)}"><span>${p.abbr}</span>${esc(top.titleZh || top.title)}</div>` : "";
     }).join("");
 
-    const tiles = PLATFORMS.map(p => `<a class="plat-tile" href="#/p/${p.key}" style="${pvars(p)}">
+    const tiles = MAKERS.map(m => `<h3 class="maker-head">${esc(m.zh)}<span>${esc(m.en)}</span></h3>
+      <div class="plat-tiles">${PLATFORMS.filter(p => p.group === m.key).map(p => `<a class="plat-tile" href="#/p/${p.key}" style="${pvars(p)}">
         <span class="abbr">${p.abbr}</span><span class="name">${esc(p.zh)}</span>
-        <span class="count">${gamesOf(p.key).length} 款推荐 ▶</span></a>`).join("");
+        <span class="count">${gamesOf(p.key).length} 款推荐 ▶</span></a>`).join("")}</div>`).join("");
 
     const perPlatform = PLATFORMS.map(p => {
       const list = gamesOf(p.key).slice(0, 4);
@@ -127,47 +154,65 @@
         ${coverGame && shot(coverGame) ? `<img class="cover-img" src="${esc(shot(coverGame))}" alt="">` : ""}
         <div class="cover-feature"><b>${state.games.length}</b><small>款名作<br>大公开</small></div>
         <div class="cover-inner">
-          <span class="cover-kicker">超大特集 · 8 大平台完全收录</span>
-          <h1 class="cover-title">2D 像素<br>名作殿堂<small>GB · GBA · SFC · MD · SS · PS · DC · PS2</small></h1>
+          <span class="cover-kicker">超大特集 · ${PLATFORMS.length} 大平台完全收录</span>
+          <h1 class="cover-title">2D 像素<br>名作殿堂<small>${PLATFORMS.map(p => p.abbr).join(" · ")}</small></h1>
           ${coverGame ? `<a href="#/g/${esc(coverGame.id)}" class="cover-line" style="margin-top:14px;${pvars(PMAP[coverGame.platform])}"><span>封面</span>${esc(coverGame.titleZh || coverGame.title)} ▶</a>` : ""}
           <div class="cover-lines" style="margin-top:18px">${coverLines}</div>
         </div>
       </section>
 
-      ${sectionHead("平台导航", "SELECT PLATFORM", "选择你的主机，开启时光机。")}
-      <div class="plat-tiles">${tiles}</div>
+      ${sectionHead("平台导航", "SELECT PLATFORM", `${PLATFORMS.length} 台主机，${state.games.length} 款名作。选择你的主机，开启时光机。`, null, "#/all")}
+      ${tiles}
 
-      ${sectionHead("编辑部综合排行 TOP 20", "RANKING", "8 大平台混战，编辑部评分最高的 20 款。")}
+      ${sectionHead("编辑部综合排行 TOP 20", "RANKING", `${PLATFORMS.length} 大平台混战，编辑部评分最高的 20 款。`)}
       <div class="ranking">${all.slice(0, 20).map(rankRow).join("")}</div>
 
       ${perPlatform}
     `;
   }
 
-  const pageState = { genre: "全部", only2D: false, sort: "score" };
+  const pageState = { genre: "全部", only2D: false, sort: "score", plat: "全部", limit: 60 };
+  const PAGE = 60;
 
-  function viewPlatform(key) {
-    const p = PMAP[key];
-    if (!p) return viewNotFound();
-    const list = gamesOf(key);
-    const genres = ["全部", ...new Set(list.map(g => g.genre).filter(Boolean))];
+  function viewList(key) {
+    const p = key ? PMAP[key] : null;
+    if (key && !p) return viewNotFound();
+    const base = p ? gamesOf(key) : [...state.games].sort((a, b) => (b.editorScore || 0) - (a.editorScore || 0));
+    const scoped = !p && pageState.plat !== "全部" ? base.filter(g => g.platform === pageState.plat) : base;
+    const genreCount = {};
+    scoped.forEach(g => g.genre && (genreCount[g.genre] = (genreCount[g.genre] || 0) + 1));
+    const genres = ["全部", ...Object.keys(genreCount).sort((a, b) => genreCount[b] - genreCount[a])];
     if (!genres.includes(pageState.genre)) pageState.genre = "全部";
 
-    let shown = list.filter(g => (pageState.genre === "全部" || g.genre === pageState.genre) && (!pageState.only2D || g.is2D !== false));
+    let shown = scoped.filter(g => (pageState.genre === "全部" || g.genre === pageState.genre) && (!pageState.only2D || g.is2D !== false));
     if (pageState.sort === "year") shown = [...shown].sort((a, b) => (a.year || 0) - (b.year || 0));
     if (pageState.sort === "title") shown = [...shown].sort((a, b) => (a.titleZh || a.title).localeCompare(b.titleZh || b.title, "zh"));
+    const visible = shown.slice(0, pageState.limit);
 
-    app.innerHTML = `
+    const hero = p ? `
       <section class="platform-hero" style="${pvars(p)}">
-        <div class="platform-badge">${p.abbr}</div>
+        <div class="platform-badge"${p.abbr.length > 4 ? ' style="font-size:12px"' : ""}>${p.abbr}</div>
         <div>
           <h1>${esc(p.zh)} · ${esc(p.name)}</h1>
-          <div class="meta">${esc(p.maker)} · ${esc(p.year)} · ${list.length} GAMES</div>
+          <div class="meta">${esc(p.maker)} · ${esc(p.year)} · ${base.length} GAMES</div>
           <p>${esc(p.intro)}</p>
         </div>
+      </section>` : `
+      <section class="platform-hero" style="--pc:#ffd23f;--pc-ink:#1b1a1f">
+        <div class="platform-badge">ALL</div>
+        <div>
+          <h1>全部名作 · 名鉴</h1>
+          <div class="meta">${PLATFORMS.length} PLATFORMS · ${state.games.length} GAMES</div>
+          <p>跨平台按类型浏览全部收录游戏。想找下一款 RPG？选“角色扮演”，再勾上“只看 2D”。</p>
+        </div>
       </section>
+      <div class="toolbar plat-filter">
+        ${["全部", ...PLATFORMS.map(x => x.key)].map(k => `<button class="chip ${k === pageState.plat ? "on" : ""}" data-plat="${k}">${k === "全部" ? "全部平台" : esc(PMAP[k].abbr)}</button>`).join("")}
+      </div>`;
+
+    app.innerHTML = `${hero}
       <div class="toolbar">
-        ${genres.map(g => `<button class="chip ${g === pageState.genre ? "on" : ""}" data-genre="${esc(g)}">${esc(g)}</button>`).join("")}
+        ${genres.map(g => `<button class="chip ${g === pageState.genre ? "on" : ""}" data-genre="${esc(g)}">${esc(g)}${g !== "全部" ? `<small> ${genreCount[g]}</small>` : ""}</button>`).join("")}
         <span class="spacer"></span>
         <button class="chip ${pageState.only2D ? "on" : ""}" data-2d>只看 2D</button>
         <select data-sort aria-label="排序">
@@ -176,12 +221,18 @@
           <option value="title" ${pageState.sort === "title" ? "selected" : ""}>按名称</option>
         </select>
       </div>
-      ${shown.length ? `<div class="grid">${shown.map(g => card(g, { showPlat: false })).join("")}</div>` : `<div class="empty">没有符合条件的游戏</div>`}
+      <p class="result-count">共 ${shown.length} 款</p>
+      ${shown.length ? `<div class="grid">${visible.map(g => card(g, { showPlat: !p })).join("")}</div>` : `<div class="empty">没有符合条件的游戏</div>`}
+      ${shown.length > visible.length ? `<div class="more-wrap"><button class="more-btn" data-more>加载更多（还有 ${shown.length - visible.length} 款）</button></div>` : ""}
     `;
 
-    app.querySelectorAll("[data-genre]").forEach(b => b.onclick = () => { pageState.genre = b.dataset.genre; viewPlatform(key); });
-    app.querySelector("[data-2d]").onclick = () => { pageState.only2D = !pageState.only2D; viewPlatform(key); };
-    app.querySelector("[data-sort]").onchange = e => { pageState.sort = e.target.value; viewPlatform(key); };
+    const rerender = () => { pageState.limit = PAGE; viewList(key); };
+    app.querySelectorAll("[data-genre]").forEach(b => b.onclick = () => { pageState.genre = b.dataset.genre; rerender(); });
+    app.querySelectorAll("[data-plat]").forEach(b => b.onclick = () => { pageState.plat = b.dataset.plat; rerender(); });
+    app.querySelector("[data-2d]").onclick = () => { pageState.only2D = !pageState.only2D; rerender(); };
+    app.querySelector("[data-sort]").onchange = e => { pageState.sort = e.target.value; rerender(); };
+    const more = app.querySelector("[data-more]");
+    if (more) more.onclick = () => { const y = window.scrollY; pageState.limit += PAGE; viewList(key); window.scrollTo(0, y); };
   }
 
   function viewGame(id) {
@@ -215,7 +266,7 @@
             ${(g.highlights || []).length ? `<ul class="highlights">${g.highlights.map(h => `<li>${esc(h)}</li>`).join("")}</ul>` : ""}
           </article>
           ${shots.length ? `
-          <div class="section-head" style="${pvars(p)}"><h2>游戏画面<span class="en">SCREENSHOTS</span></h2></div>
+          <div class="section-head" style="${pvars(p)}"><h2>游戏画面<span class="en">SCREENSHOTS × ${shots.length}</span></h2></div>
           <div class="gallery">${shots.map((s, i) => `<button data-shot="${i}" aria-label="查看大图">${img(g, s, "", `${g.titleZh || g.title} 截图 ${i + 1}`)}</button>`).join("")}</div>` : ""}
         </div>
 
@@ -226,6 +277,7 @@
             <div class="bar"><i style="width:${Math.max(0, Math.min(100, (g.editorScore || 0) * 10))}%"></i></div>
             <div class="verdict">★ ${verdict(g.editorScore || 0)} ★</div>
           </div>
+          ${g.cover ? `<div class="panel box-panel"><h3>游戏包装</h3><button data-cover aria-label="查看包装大图"><img src="${esc(g.cover)}" alt="${esc(g.titleZh || g.title)} 包装" loading="lazy"></button></div>` : ""}
           <div class="panel">
             <h3>游戏档案</h3>
             <table class="info-table">
@@ -241,6 +293,7 @@
           ${(g.reviews || []).length ? `
           <div class="panel">
             <h3>媒体评价</h3>
+            <p class="review-note">分数取自各媒体评测，评语为编辑部中文概括</p>
             ${g.reviews.map(r => `<div class="review">
               <div class="review-head"><span class="review-src">${esc(r.source)}</span>${r.score ? `<span class="review-score">${esc(r.score)}</span>` : ""}</div>
               ${r.quote ? `<q>${esc(r.quote)}</q>` : ""}
@@ -253,6 +306,8 @@
     `;
 
     app.querySelectorAll("[data-shot]").forEach(b => b.onclick = () => openLightbox(shots, +b.dataset.shot));
+    const coverBtn = app.querySelector("[data-cover]");
+    if (coverBtn) coverBtn.onclick = () => openLightbox([g.cover], 0);
   }
 
   function viewSearch(q) {
@@ -294,7 +349,7 @@
 
   // ---------- nav / search ----------
   const nav = document.getElementById("platform-nav");
-  nav.innerHTML = `<a href="#/" data-key="home" style="--pc:#ffd23f;--pc-ink:#1b1a1f">封面</a>` +
+  nav.innerHTML = `<a href="#/" data-key="home" style="--pc:#ffd23f;--pc-ink:#1b1a1f">封面</a><a href="#/all" data-key="all" style="--pc:#ffd23f;--pc-ink:#1b1a1f">全部</a>` +
     PLATFORMS.map(p => `<a href="#/p/${p.key}" data-key="${p.key}" style="${pvars(p)}">${p.abbr}</a>`).join("");
 
   const searchBar = document.getElementById("search-bar");
@@ -321,13 +376,15 @@
     if (!state.loaded) return;
     const hash = location.hash.replace(/^#/, "") || "/";
     const [, kind, arg] = hash.split("/");
-    const activeKey = kind === "p" ? arg : kind === "g" ? state.byId[decodeURIComponent(arg || "")]?.platform : kind ? "" : "home";
+    const activeKey = kind === "p" ? arg : kind === "all" ? "all" : kind === "g" ? state.byId[decodeURIComponent(arg || "")]?.platform : kind ? "" : "home";
+    if (kind !== lastRoute || kind === "p") Object.assign(pageState, { genre: "全部", limit: PAGE });
     nav.querySelectorAll("a").forEach(a => a.classList.toggle("active", a.dataset.key === activeKey));
     const active = nav.querySelector("a.active");
     if (active) active.scrollIntoView({ inline: "center", block: "nearest", behavior: "smooth" });
 
     if (!kind) viewHome();
-    else if (kind === "p") viewPlatform(arg);
+    else if (kind === "p") viewList(arg);
+    else if (kind === "all") viewList(null);
     else if (kind === "g") viewGame(decodeURIComponent(arg || ""));
     else if (kind === "search") viewSearch(decodeURIComponent(arg || ""));
     else viewNotFound();

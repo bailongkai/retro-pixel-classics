@@ -1,0 +1,1280 @@
+[
+  {
+    "id": "gg-shinobi-2",
+    "title": "The G.G. Shinobi II: The Silent Fury",
+    "titleZh": "GG忍II",
+    "titleJa": "ザ・GG忍II",
+    "year": 1992,
+    "developer": "Sega",
+    "publisher": "Sega",
+    "genre": "动作",
+    "tags": [
+      "像素",
+      "忍者",
+      "多角色切换",
+      "探索"
+    ],
+    "players": "1",
+    "tagline": "五色忍者轮番上阵，GG动作巅峰",
+    "description": "红、黄、蓝、绿、粉五位忍者各怀绝技——钩索攀顶、水上疾行、二段跳、点燃导火索……本作把前作“营救同伴、获得新能力”的设计做得更彻底：先通关的关卡会因为新忍者的加入而浮现隐藏通路，四大元素水晶散落各处，逼着你一遍遍回头探索。\n\n画面上，GG那块小小的彩屏被塞满了细腻的城市夜景、峡谷、工厂与城堡，敌人动作利落，BOSS战设计巧妙。操作手感更是沿袭了世嘉忍系列一贯的硬派与爽快，手里剑出手、刀锋斩落，节奏感十足。\n\n如果你只想在Game Gear上体验一款动作游戏，编辑部首推这一作。它证明了掌机绝不是“缩水版”的代名词，而是能独当一面的硬核舞台。",
+    "highlights": [
+      "五名忍者能力各异，随时切换",
+      "能力解锁后回头探索隐藏区域与元素水晶",
+      "关卡美术在GG上堪称顶级",
+      "BOSS战设计扎实，难度适中"
+    ],
+    "reviews": [
+      {
+        "source": "Sega Pro",
+        "score": "90%",
+        "quote": "掌机上最出色的忍者动作游戏之一，关卡与能力设计精巧"
+      },
+      {
+        "source": "Power Unlimited",
+        "score": "82%",
+        "quote": "非常适合Game Gear：画面清晰、挑战性十足"
+      }
+    ],
+    "editorScore": 9.2,
+    "is2D": true,
+    "screenshots": [
+      "images/gg/gg-shinobi-2-s1.png",
+      "images/gg/gg-shinobi-2-s2.png",
+      "images/gg/gg-shinobi-2-title.png"
+    ],
+    "cover": "images/gg/gg-shinobi-2-box.jpg"
+  },
+  {
+    "id": "gg-shining-force-sword-of-hajya",
+    "title": "Shining Force: The Sword of Hajya",
+    "titleZh": "光明力量外传II 邪神的觉醒",
+    "titleJa": "シャイニング・フォース外伝II 邪神の覚醒",
+    "year": 1993,
+    "developer": "Sonic! Software Planning",
+    "publisher": "Sega",
+    "genre": "战略角色扮演",
+    "tags": [
+      "像素",
+      "战棋",
+      "日式RPG",
+      "掌机名作"
+    ],
+    "players": "1",
+    "tagline": "把光明力量装进口袋，战棋迷的随身宝藏",
+    "description": "掌机上也能玩到原汁原味的《光明力量》？本作给出了响亮的回答！故事紧接MD版《光明力量》之后，为夺回被盗的圣剑“哈杰亚”，新一代光明军团再次集结。与前作外传不同，这一次加入了城镇探索与对话，战斗之外的冒险氛围浓厚了许多。\n\n战斗沿用系列经典的方格战棋：剑士、弓手、法师、骑士、鸟人各司其职，转职系统与攻击时的特写演出一样不缺，在GG小屏上依然魄力十足。地图设计张弛有度，每一场都需要好好斟酌站位。\n\n当年美国《VideoGames》杂志将它评为年度最佳GG游戏，至今仍是GG平台少数在海外正式发行的日式RPG精品，不可错过！",
+    "highlights": [
+      "正统光明力量战棋玩法完整移植掌机",
+      "新增城镇探索，剧情承接MD初代",
+      "战斗特写演出在GG小屏上依旧帅气",
+      "GG上少数正式英文版的日式SRPG"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "25/40",
+        "quote": "系列战棋玩法在掌机上得到忠实再现"
+      },
+      {
+        "source": "Game Players",
+        "score": "91%",
+        "quote": "内容丰富、耐玩度高的掌机战略RPG佳作"
+      }
+    ],
+    "editorScore": 9.1,
+    "is2D": true,
+    "screenshots": [
+      "images/gg/gg-shining-force-sword-of-hajya-s1.png",
+      "images/gg/gg-shining-force-sword-of-hajya-s2.png",
+      "images/gg/gg-shining-force-sword-of-hajya-s3.png",
+      "images/gg/gg-shining-force-sword-of-hajya-title.png"
+    ],
+    "cover": "images/gg/gg-shining-force-sword-of-hajya-box.jpg"
+  },
+  {
+    "id": "gg-wonder-boy-dragons-trap",
+    "title": "Wonder Boy: The Dragon's Trap",
+    "titleZh": "怪物世界II 龙之陷阱",
+    "titleJa": "モンスターワールドII ドラゴンの罠",
+    "year": 1992,
+    "developer": "Westone",
+    "publisher": "Sega",
+    "genre": "动作冒险",
+    "tags": [
+      "像素",
+      "变身",
+      "探索",
+      "装备收集"
+    ],
+    "players": "1",
+    "tagline": "被诅咒的勇者，五种形态闯世界",
+    "description": "打倒机械龙的瞬间，勇者却被诅咒变成了一只蜥蜴人！为了解除诅咒，你必须一路击败更多的龙，依次化身鼠人、食人鱼人、狮人与鹰人。每种形态都有独特能力：鼠人能贴墙爬行、鱼人可以在水中畅游、鹰人则能翱翔天际——世界的大门也随之一扇扇打开。\n\n这种“靠能力解锁地图”的结构，早已具备银河恶魔城的精髓。商店购买装备、寻找隐藏金币与密室，让RPG元素与动作玩法水乳交融。Westone的可爱画风与轻快配乐，更让人一玩就停不下来。\n\nGG版基于SMS原作移植，内容完整、画面依旧明亮清晰，口袋里装一部经典，就是这么爽快。",
+    "highlights": [
+      "五种动物形态，能力各异",
+      "能力解锁地图的类银河恶魔城结构",
+      "装备购买与隐藏房间探索乐趣十足",
+      "Westone经典轻快配乐"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "23/40",
+        "quote": "SMS名作的掌机移植，冒险要素扎实"
+      },
+      {
+        "source": "Mean Machines Sega",
+        "score": "96%",
+        "quote": "GG上最出色的动作冒险之一，探索与变身设计令人着迷"
+      }
+    ],
+    "editorScore": 9.1,
+    "is2D": true,
+    "screenshots": [
+      "images/gg/gg-wonder-boy-dragons-trap-s1.png",
+      "images/gg/gg-wonder-boy-dragons-trap-s2.png",
+      "images/gg/gg-wonder-boy-dragons-trap-title.png"
+    ],
+    "cover": "images/gg/gg-wonder-boy-dragons-trap-box.jpg"
+  },
+  {
+    "id": "gg-shining-force-final-conflict",
+    "title": "Shining Force Gaiden: Final Conflict",
+    "titleZh": "光明力量外传 最终冲突",
+    "titleJa": "シャイニング・フォース外伝 ファイナルコンフリクト",
+    "year": 1995,
+    "developer": "Sonic! Software Planning",
+    "publisher": "Sega",
+    "genre": "战略角色扮演",
+    "tags": [
+      "像素",
+      "战棋",
+      "日版独占",
+      "系列桥梁"
+    ],
+    "players": "1",
+    "tagline": "连接光明力量一二代的失落篇章",
+    "description": "作为GG上光明力量外传系列的最终章，本作只在日本发售，却是系列粉丝心中不可或缺的一块拼图——它的故事恰好衔接MD《光明力量》与《光明力量II》，交代了两代之间的世界变迁，许多伏笔在这里得到回收。\n\n系统集外传系列之大成：战斗特写更流畅，角色立绘与地图美术精致度明显提升，职业平衡与关卡难度也更加成熟。在4英寸不到的屏幕上排兵布阵，竟丝毫不觉得局促，可见制作组对GG机能的掌握已炉火纯青。\n\n如今已有民间英文汉化补丁，系列迷务必补完这段历史；而单纯喜欢战棋的玩家，也能把它当作一部精致的掌机SRPG尽情享受。",
+    "highlights": [
+      "衔接光明力量I与II的剧情前传",
+      "外传系列集大成，画面与系统最成熟",
+      "日版独占，有爱好者英文补丁",
+      "战斗特写演出流畅华丽"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "29/40",
+        "quote": "系列外传的完成度最高之作，战棋爱好者值得一玩"
+      },
+      {
+        "source": "Sega Saturn Magazine",
+        "score": "68/100",
+        "quote": "扎实的掌机战略RPG，内容充实"
+      }
+    ],
+    "editorScore": 9.0,
+    "is2D": true,
+    "screenshots": [
+      "images/gg/gg-shining-force-final-conflict-s1.png",
+      "images/gg/gg-shining-force-final-conflict-s2.png",
+      "images/gg/gg-shining-force-final-conflict-x1.png",
+      "images/gg/gg-shining-force-final-conflict-title.png"
+    ],
+    "cover": "images/gg/gg-shining-force-final-conflict-box.jpg"
+  },
+  {
+    "id": "gg-sonic-triple-trouble",
+    "title": "Sonic the Hedgehog: Triple Trouble",
+    "titleZh": "索尼克 三重麻烦",
+    "titleJa": "ソニック&テイルス2",
+    "year": 1994,
+    "developer": "Aspect",
+    "publisher": "Sega",
+    "genre": "平台跳跃",
+    "tags": [
+      "像素",
+      "高速",
+      "索尼克",
+      "掌机名作"
+    ],
+    "players": "1",
+    "tagline": "8位索尼克的最高杰作",
+    "description": "蛋头博士、纳克鲁斯、再加上首次登场的赏金猎人“方格”——三方势力争夺混沌翡翠，这就是“三重麻烦”的由来！可选索尼克或塔尔斯游玩，前者冲刺利落，后者可以飞行，探索路线截然不同。\n\n与早期8位索尼克相比，本作的速度感与关卡规模都大幅提升：大型场景卷轴顺滑，弹簧、回环、隐藏路径一应俱全；特殊关卡还加入了伪3D的飞行与水上滑板玩法，诚意满满。Aspect把GG的机能压榨到了极限，色彩鲜艳得令人惊讶。\n\n许多玩家公认它是8位机上最好的索尼克作品。想在掌机上感受“音速”的快意，就从这一作开始吧。",
+    "highlights": [
+      "新角色“方格”首次登场",
+      "索尼克/塔尔斯双角色，路线各异",
+      "伪3D特殊关卡别具一格",
+      "8位索尼克中速度感最强的一作"
+    ],
+    "reviews": [
+      {
+        "source": "Mean Machines Sega",
+        "score": "85%",
+        "quote": "画面与速度感都令人赞叹的掌机索尼克"
+      },
+      {
+        "source": "Fami通",
+        "score": "21/40",
+        "quote": "画面华丽，但关卡设计缺少新鲜感"
+      }
+    ],
+    "editorScore": 9.0,
+    "is2D": true,
+    "screenshots": [
+      "images/gg/gg-sonic-triple-trouble-s1.png",
+      "images/gg/gg-sonic-triple-trouble-x1.png",
+      "images/gg/gg-sonic-triple-trouble-x2.png",
+      "images/gg/gg-sonic-triple-trouble-title.png"
+    ],
+    "cover": "images/gg/gg-sonic-triple-trouble-box.jpg"
+  },
+  {
+    "id": "gg-the-gg-shinobi",
+    "title": "The G.G. Shinobi",
+    "titleZh": "GG忍",
+    "titleJa": "ザ・GG忍",
+    "year": 1991,
+    "developer": "Sega",
+    "publisher": "Sega",
+    "genre": "动作",
+    "tags": [
+      "像素",
+      "忍者",
+      "多角色切换",
+      "早期名作"
+    ],
+    "players": "1",
+    "tagline": "红忍出击，救出四位同伴",
+    "description": "邪恶组织占领了新城，四位忍者同伴被俘，只剩红色忍者孤身出战！你可以自由选择关卡顺序，每救出一名同伴，便能在游戏中随时切换他们：粉忍能投掷炸弹、蓝忍可用钩索、黄忍能在水面行走，绿忍则拥有二段跳。\n\n“自选关卡 + 救出伙伴获得能力”的设计带有一丝洛克人的味道，又融合了忍系列的硬派刀剑手感。早期GG游戏中，它的画面与关卡设计都是一等一的水准，是当年欧美玩家入手GG的理由之一。\n\n后来的《GG忍II》将这套系统发扬光大，但初代简洁紧凑的节奏同样迷人，如今在3DS虚拟主机上也曾重新发售，口碑依旧。",
+    "highlights": [
+      "自选关卡顺序，救出伙伴获得新能力",
+      "五名忍者随时切换",
+      "早期GG画面标杆",
+      "硬派而爽快的忍者动作"
+    ],
+    "reviews": [
+      {
+        "source": "Mean Machines",
+        "score": "90%",
+        "quote": "Game Gear上必备的动作游戏"
+      },
+      {
+        "source": "Nintendo Life",
+        "score": "8/10",
+        "quote": "简洁却非常令人满足的冒险，重玩价值高"
+      }
+    ],
+    "editorScore": 8.9,
+    "is2D": true,
+    "screenshots": [
+      "images/gg/gg-the-gg-shinobi-s1.png",
+      "images/gg/gg-the-gg-shinobi-s2.png",
+      "images/gg/gg-the-gg-shinobi-s3.png",
+      "images/gg/gg-the-gg-shinobi-title.png"
+    ],
+    "cover": "images/gg/gg-the-gg-shinobi-box.jpg"
+  },
+  {
+    "id": "gg-sylvan-tale",
+    "title": "Sylvan Tale",
+    "titleZh": "森林物语",
+    "titleJa": "シルヴァン テイル",
+    "year": 1995,
+    "developer": "Sega",
+    "publisher": "Sega",
+    "genre": "动作角色扮演",
+    "tags": [
+      "像素",
+      "俯视角",
+      "变身",
+      "日版独占"
+    ],
+    "players": "1",
+    "tagline": "GG上的塞尔达，变身解谜的森林冒险",
+    "description": "这是一部藏在GG日版阵容中的珍宝！俯视角的田园村庄、郁郁葱葱的森林、幽深的地下迷宫——第一眼看上去就像掌机上的《塞尔达传说》，而那温暖柔和的像素色调，正是编辑部最喜欢的日式ARPG味道。\n\n主角能借助得到的力量变身为多种动物形态，有的能挖掘地道，有的能潜入水中，每种形态都对应着新的解谜方法与探索区域。剧情围绕拯救森林与古老神器展开，节奏轻快，谜题设计巧妙而不刁钻。\n\n本作仅在日本发售，如今已有爱好者英文补丁。喜欢《织梦岛》式掌机冒险的你，千万别错过这部小品杰作。",
+    "highlights": [
+      "塞尔达式俯视角动作冒险",
+      "多种变身形态对应不同解谜",
+      "温暖细腻的田园像素美术",
+      "日版独占，有爱好者英文补丁"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "25/40",
+        "quote": "变身解谜颇具巧思的掌机动作RPG"
+      },
+      {
+        "source": "Sega Saturn Magazine",
+        "score": "85/100",
+        "quote": "GG上难得的高水准动作冒险"
+      }
+    ],
+    "editorScore": 8.8,
+    "is2D": true,
+    "screenshots": [
+      "images/gg/gg-sylvan-tale-s1.png",
+      "images/gg/gg-sylvan-tale-s2.png",
+      "images/gg/gg-sylvan-tale-title.png"
+    ],
+    "cover": "images/gg/gg-sylvan-tale-box.jpg"
+  },
+  {
+    "id": "gg-land-of-illusion",
+    "title": "Land of Illusion Starring Mickey Mouse",
+    "titleZh": "米老鼠 魔法水晶",
+    "titleJa": "ミッキーマウスの魔法のクリスタル",
+    "year": 1993,
+    "developer": "Sega",
+    "publisher": "Sega",
+    "genre": "平台跳跃",
+    "tags": [
+      "像素",
+      "迪士尼",
+      "童话",
+      "探索"
+    ],
+    "players": "1",
+    "tagline": "8位迪士尼平台游戏的最高峰",
+    "description": "米奇在睡梦中来到一个被夺走魔法水晶的童话王国，为了让村民重展笑颜，他踏上了寻回水晶的旅程。本作是《幻影城》的精神续作，却在各方面都更进一步：地图不再是单纯的线性关卡，而是一张可以往返探索的世界图。\n\n途中米奇会获得缩小、攀爬绳索、踢开石块等新能力，前面去不了的地方从此豁然开朗。踩敌人、搬箱子的经典手感依旧，场景从森林、云端城堡到冰雪世界，色彩鲜艳、动画可爱，处处都是迪士尼动画般的童话气氛。\n\n难度友好又不失挑战，无论大人小孩都能乐在其中——这就是8位机时代的“迪士尼魔法”。",
+    "highlights": [
+      "可往返探索的世界地图",
+      "能力获得后开启新区域",
+      "迪士尼动画般的可爱画风",
+      "难度友好、老少咸宜"
+    ],
+    "reviews": [
+      {
+        "source": "EGM",
+        "score": "32/40",
+        "quote": "画面可爱，玩法扎实的平台佳作"
+      },
+      {
+        "source": "Fami通",
+        "score": "25/40",
+        "quote": "米奇冒险在掌机上的出色延续"
+      }
+    ],
+    "editorScore": 8.7,
+    "is2D": true,
+    "screenshots": [
+      "images/gg/gg-land-of-illusion-s1.png",
+      "images/gg/gg-land-of-illusion-s2.png",
+      "images/gg/gg-land-of-illusion-title.png"
+    ],
+    "cover": "images/gg/gg-land-of-illusion-box.jpg"
+  },
+  {
+    "id": "gg-defenders-of-oasis",
+    "title": "Defenders of Oasis",
+    "titleZh": "绿洲守护者",
+    "titleJa": "シャダム・クルセイダー 遥かなる王国",
+    "year": 1992,
+    "developer": "Sega",
+    "publisher": "Sega",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "回合制",
+      "阿拉伯风情",
+      "日式RPG"
+    ],
+    "players": "1",
+    "tagline": "一千零一夜般的沙漠王国史诗",
+    "description": "黑暗魔神复活，沙漠王国的王子与神灯精灵、盗贼、公主结伴，踏上拯救世界的旅程——光看设定就让人联想到《一千零一夜》！本作是GG上为数不多正式在欧美发售的日式RPG，异国情调浓厚的沙漠城镇与宫殿，令人眼前一亮。\n\n战斗为经典回合制，神灯精灵作为可成长的召唤伙伴，可以通过喂食道具提升能力，颇有特色。迷宫规模适中、遇敌节奏合理，界面也非常友好，十分适合掌机上随时游玩。\n\n当年欧美杂志纷纷给出高分，称赞它是“最平易近人的RPG”。如果你想找一部轻松上手、风格独特的掌机RPG，它绝对是好选择。",
+    "highlights": [
+      "一千零一夜风格的阿拉伯世界观",
+      "可成长的神灯精灵伙伴",
+      "节奏轻快、上手友好的回合制RPG",
+      "GG上少数正式英文版RPG"
+    ],
+    "reviews": [
+      {
+        "source": "Mean Machines Sega",
+        "score": "90%",
+        "quote": "掌机上难得的精致RPG"
+      },
+      {
+        "source": "Sega Force",
+        "score": "90%",
+        "quote": "剧情新颖有趣、即玩即上手，最友好的RPG之一"
+      },
+      {
+        "source": "GamePro",
+        "score": "15.5/20",
+        "quote": "4M卡带容量下内容惊人地丰富，但战斗略显单调"
+      }
+    ],
+    "editorScore": 8.6,
+    "is2D": true,
+    "screenshots": [
+      "images/gg/gg-defenders-of-oasis-s1.png",
+      "images/gg/gg-defenders-of-oasis-s2.png",
+      "images/gg/gg-defenders-of-oasis-title.png"
+    ],
+    "cover": "images/gg/gg-defenders-of-oasis-box.jpg"
+  },
+  {
+    "id": "gg-sonic-chaos",
+    "title": "Sonic Chaos",
+    "titleZh": "索尼克 混沌",
+    "titleJa": "ソニック&テイルス",
+    "year": 1993,
+    "developer": "Aspect",
+    "publisher": "Sega",
+    "genre": "平台跳跃",
+    "tags": [
+      "像素",
+      "高速",
+      "索尼克",
+      "双角色"
+    ],
+    "players": "1",
+    "tagline": "塔尔斯首次可操作，8位索尼克提速",
+    "description": "本作是8位索尼克的一次大跃进：塔尔斯首次成为可操作角色，能用双尾巴飞行越过险阻；索尼克则获得了原地蓄力的“超音速冲刺”和“喷射鞋”等道具，速度感比前作更上一层楼。\n\n关卡色彩明快、结构更开放，弹簧鞋、火箭鞋等道具让探索变得有趣；特殊关卡里收集混沌翡翠的过程也比以往更轻松。整体难度降低，节奏爽快，非常适合在掌机上利用碎片时间享受。\n\nFami通当年给出28分的好成绩，EGM也称赞它保留了16位索尼克好玩的全部要素。它或许不如《三重麻烦》那样宏大，却是8位索尼克中最轻快爽朗的一作。",
+    "highlights": [
+      "塔尔斯首次可操作，可以飞行",
+      "加入蓄力冲刺与道具鞋",
+      "关卡明快，节奏爽快",
+      "8位索尼克中最易上手的一作"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "28/40",
+        "quote": "速度感出色、易于上手的掌机索尼克"
+      },
+      {
+        "source": "EGM",
+        "score": "33/40",
+        "quote": "保留了16位索尼克好玩的所有要素"
+      }
+    ],
+    "editorScore": 8.6,
+    "is2D": true,
+    "screenshots": [
+      "images/gg/gg-sonic-chaos-s1.png",
+      "images/gg/gg-sonic-chaos-x1.png",
+      "images/gg/gg-sonic-chaos-title.png"
+    ],
+    "cover": "images/gg/gg-sonic-chaos-box.jpg"
+  },
+  {
+    "id": "gg-puyo-puyo-tsuu",
+    "title": "Puyo Puyo Tsuu",
+    "titleZh": "魔法气泡通",
+    "titleJa": "ぷよぷよ通",
+    "year": 1994,
+    "developer": "Compile",
+    "publisher": "Compile",
+    "genre": "解谜",
+    "tags": [
+      "像素",
+      "消除",
+      "对战",
+      "日版独占"
+    ],
+    "players": "1-2",
+    "tagline": "相杀系统登场，对战消除的经典",
+    "description": "《魔法气泡通》是整个系列的转折点——它引入了“相杀”系统：对手送来的干扰气泡，可以用自己的连锁抵消回去！这一改动让对战从“谁先连锁谁赢”变成了你来我往的攻防博弈，奠定了日后系列竞技玩法的基础。\n\nGG版完整收录了阿露露与各路怪物们的搞笑剧情，角色表情生动、语音般的音效活泼可爱。一局局与电脑角色斗智斗勇，当年在课间偷偷“噗哟”的回忆，相信不少玩家都有。\n\n掌机屏幕小？完全不是问题，彩色的气泡清晰醒目，一局又一局让人欲罢不能。消除游戏迷的必修课！",
+    "highlights": [
+      "首次引入“相杀”攻防系统",
+      "阿露露与怪物们的搞笑剧情",
+      "随时随地的掌机消除",
+      "上手简单、钻研无止境"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "23/40",
+        "quote": "系列核心乐趣在掌机上完整保留"
+      }
+    ],
+    "editorScore": 8.6,
+    "is2D": true,
+    "screenshots": [
+      "images/gg/gg-puyo-puyo-tsuu-s1.png",
+      "images/gg/gg-puyo-puyo-tsuu-s2.png",
+      "images/gg/gg-puyo-puyo-tsuu-title.png"
+    ],
+    "cover": "images/gg/gg-puyo-puyo-tsuu-box.jpg"
+  },
+  {
+    "id": "gg-lunar-sanposuru-gakuen",
+    "title": "Lunar: Sanposuru Gakuen",
+    "titleZh": "露娜 漫步的学园",
+    "titleJa": "LUNAR さんぽする学園",
+    "year": 1996,
+    "developer": "Game Arts / Studio Alex",
+    "publisher": "Game Arts",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "回合制",
+      "魔法学园",
+      "日版独占"
+    ],
+    "players": "1",
+    "tagline": "露娜世界的魔法学园前传",
+    "description": "提起《露娜》，玩家们想到的是MD-CD上那部动画演出华丽的RPG名作。而这部GG作品则把舞台搬到了一所会“走路”的魔法学园：故事发生在《银河之星》之前的久远年代，少女艾莉为了成为独当一面的魔法师而努力修行，校园生活与冒险交织，气氛轻松又温馨。\n\n战斗沿用系列经典的回合制，敌人造型可爱、魔法演出用心；角色大头像表情丰富，对话诙谐，处处洋溢着GAME ARTS式的浪漫与幽默。作为GG末期作品，画面细致程度相当惊人。\n\n本作只在日本发售，后来还被重制为土星版《魔法学园露娜》。如今已有爱好者英文补丁，系列粉丝不可错过。",
+    "highlights": [
+      "露娜系列前传，魔法学园题材",
+      "露娜系列风格的回合制战斗",
+      "GG末期作品，画面细腻",
+      "日版独占，有爱好者英文补丁"
+    ],
+    "reviews": [],
+    "editorScore": 8.5,
+    "is2D": true,
+    "screenshots": [
+      "images/gg/gg-lunar-sanposuru-gakuen-s1.png",
+      "images/gg/gg-lunar-sanposuru-gakuen-title.png"
+    ],
+    "cover": "images/gg/gg-lunar-sanposuru-gakuen-box.jpg"
+  },
+  {
+    "id": "gg-power-strike-2",
+    "title": "Power Strike II",
+    "titleZh": "GG亚雷斯塔II",
+    "titleJa": "GGアレスタII",
+    "year": 1993,
+    "developer": "Compile",
+    "publisher": "Sega",
+    "genre": "射击",
+    "tags": [
+      "像素",
+      "纵版射击",
+      "Compile",
+      "高速"
+    ],
+    "players": "1",
+    "tagline": "Compile出品，掌机上最好的纵版射击",
+    "description": "Compile的“亚雷斯塔”系列向来以高速卷轴与华丽武器闻名，这一作把这份爽快感完整塞进了Game Gear。四种副武器各具特色，配合主武器的升级，在弹幕间穿梭时火力全开的感觉简直让人上瘾。\n\n更难得的是，本作的卷轴速度和画面流畅度在8位掌机上近乎奇迹：大量敌机与子弹同屏也几乎没有拖慢，多重卷轴的背景、巨大的BOSS接连登场，节奏紧凑得令人喘不过气。\n\n法国Jeuxvideo.com称它是“8位掌机上最好的射击游戏”，我们深表赞同。STG迷请务必一试——它也曾收录于近年的亚雷斯塔合集之中。",
+    "highlights": [
+      "Compile招牌的高速卷轴射击",
+      "四种副武器与主炮升级系统",
+      "8位掌机上罕见的流畅度",
+      "大型BOSS接连登场"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "22/40",
+        "quote": "Compile射击的爽快感在掌机上得到保留"
+      },
+      {
+        "source": "Jeuxvideo.com",
+        "score": "18/20",
+        "quote": "8位掌机上最好的射击游戏"
+      },
+      {
+        "source": "Hobby Consolas",
+        "score": "86/100",
+        "quote": "世嘉掌机上出现过的最佳射击游戏"
+      }
+    ],
+    "editorScore": 8.5,
+    "is2D": true,
+    "screenshots": [
+      "images/gg/gg-power-strike-2-s1.png",
+      "images/gg/gg-power-strike-2-x1.png",
+      "images/gg/gg-power-strike-2-x2.png",
+      "images/gg/gg-power-strike-2-title.png"
+    ],
+    "cover": "images/gg/gg-power-strike-2-box.jpg"
+  },
+  {
+    "id": "gg-castle-of-illusion",
+    "title": "Castle of Illusion Starring Mickey Mouse",
+    "titleZh": "米老鼠 幻影城",
+    "titleJa": "ミッキーマウスのキャッスル・イリュージョン",
+    "year": 1991,
+    "developer": "Sega",
+    "publisher": "Sega",
+    "genre": "平台跳跃",
+    "tags": [
+      "像素",
+      "迪士尼",
+      "童话",
+      "经典"
+    ],
+    "players": "1",
+    "tagline": "米奇勇闯魔女城堡，童话般的跳跃冒险",
+    "description": "邪恶魔女米兹拉布尔掳走了米妮，米奇只身闯入幻影城！8位版并非MD版的简单缩水，而是重新设计的关卡：玩具国、魔法森林、甜点王国……每一扇门背后都是一个童话世界。\n\n米奇的屁股踩敌、搬起木箱投掷等动作手感扎实，关卡中还藏着不少捷径与秘密。GG版继承SMS版的全部内容，画面色彩鲜艳，角色动画充满迪士尼风味，背景音乐轻快可爱，让人回想起周末早晨看动画片的时光。\n\n它为后来的《魔法水晶》等米奇系列打下了基础。今天玩来依旧流畅舒服，是入门8位平台跳跃的极佳选择。",
+    "highlights": [
+      "为8位机重新设计的独立关卡",
+      "踩踏与投掷的经典平台玩法",
+      "迪士尼童话般的画面与音乐",
+      "米奇8位系列的起点"
+    ],
+    "reviews": [
+      {
+        "source": "Mean Machines Sega",
+        "score": "91%",
+        "quote": "可爱又耐玩的掌机平台游戏"
+      },
+      {
+        "source": "Console XS",
+        "score": "95%",
+        "quote": "完整保留了米奇冒险魅力的出色移植"
+      }
+    ],
+    "editorScore": 8.4,
+    "is2D": true,
+    "screenshots": [
+      "images/gg/gg-castle-of-illusion-s1.png",
+      "images/gg/gg-castle-of-illusion-s2.png",
+      "images/gg/gg-castle-of-illusion-s3.png",
+      "images/gg/gg-castle-of-illusion-title.png"
+    ],
+    "cover": "images/gg/gg-castle-of-illusion-box.jpg"
+  },
+  {
+    "id": "gg-sonic-2",
+    "title": "Sonic the Hedgehog 2",
+    "titleZh": "索尼克2（8位版）",
+    "titleJa": "ソニック・ザ・ヘッジホッグ2",
+    "year": 1992,
+    "developer": "Aspect",
+    "publisher": "Sega",
+    "genre": "平台跳跃",
+    "tags": [
+      "像素",
+      "索尼克",
+      "高难度",
+      "名曲"
+    ],
+    "players": "1",
+    "tagline": "营救塔尔斯，硬派的8位索尼克",
+    "description": "与MD版同名却是完全不同的作品！塔尔斯被蛋头博士抓走，索尼克必须独自穿越七个区域营救伙伴。本作加入了矿车、悬挂滑翔翼、泡泡等新机关，关卡设计变化多端。\n\n不过要提醒各位：它的难度相当高！第一关BOSS就让无数玩家抓狂，滑翔翼区域更是需要反复练习。也正因如此，通关时的成就感格外强烈。而那首激昂的片头与关卡音乐，至今仍被许多粉丝视为8位索尼克的经典BGM。\n\n当年EGM将其评为年度最佳掌机游戏，英国杂志更是打出了97%的高分。想挑战硬派掌机平台的玩家，请接受这份挑战书！",
+    "highlights": [
+      "与MD版完全不同的独立关卡",
+      "矿车、滑翔翼等新颖机关",
+      "令人难忘的8位经典配乐",
+      "EGM 1992年度最佳掌机游戏"
+    ],
+    "reviews": [
+      {
+        "source": "Sega Power",
+        "score": "97%",
+        "quote": "难度不低，但新玩法要素令人赞赏"
+      },
+      {
+        "source": "Sega Pro",
+        "score": "95%",
+        "quote": "出色的掌机索尼克，只是滑翔翼操作较难"
+      },
+      {
+        "source": "Fami通",
+        "score": "24/40",
+        "quote": "关卡设计过于严苛，难度偏高"
+      }
+    ],
+    "editorScore": 8.4,
+    "is2D": true,
+    "screenshots": [
+      "images/gg/gg-sonic-2-s1.png",
+      "images/gg/gg-sonic-2-x1.png",
+      "images/gg/gg-sonic-2-x2.png",
+      "images/gg/gg-sonic-2-title.png"
+    ],
+    "cover": "images/gg/gg-sonic-2-box.jpg"
+  },
+  {
+    "id": "gg-ristar",
+    "title": "Ristar",
+    "titleZh": "星之勇者 里斯塔",
+    "titleJa": "リスター・ザ・シューティングスター",
+    "year": 1995,
+    "developer": "Japan System House",
+    "publisher": "Sega",
+    "genre": "平台跳跃",
+    "tags": [
+      "像素",
+      "伸缩手臂",
+      "可爱",
+      "原创关卡"
+    ],
+    "players": "1",
+    "tagline": "伸长双手抓住一切，星星的冒险",
+    "description": "里斯塔是一颗有着长长手臂的小星星——他的双手可以伸出去抓住敌人、拉住栏杆、荡上高台，然后用头槌把敌人撞飞！这种独特的“抓取”操作让平台跳跃焕然一新，也让里斯塔成为世嘉16位末期最具魅力的原创角色之一。\n\nGG版并不是MD版的缩水移植，而是重新设计了关卡结构与部分星球，有着自己的独特设计。画面色彩丰富、角色动作流畅，在GG上堪称一流水准。\n\nGame Informer甚至认为它“在某些方面比MD版更出色”。这位被时代低估的星星英雄，值得更多玩家认识。",
+    "highlights": [
+      "伸缩手臂抓取的独特操作",
+      "重新设计的GG原创关卡",
+      "色彩鲜艳、动画流畅",
+      "被低估的世嘉原创角色"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "25/40",
+        "quote": "伸手抓取的玩法新鲜有趣"
+      },
+      {
+        "source": "EGM",
+        "score": "7.5/10",
+        "quote": "色彩惊艳，技巧深度胜过大多数平台游戏"
+      },
+      {
+        "source": "Game Informer",
+        "score": "8/10",
+        "quote": "与MD版不同，某些方面甚至更好"
+      }
+    ],
+    "editorScore": 8.4,
+    "is2D": true,
+    "screenshots": [
+      "images/gg/gg-ristar-s1.png",
+      "images/gg/gg-ristar-x1.png",
+      "images/gg/gg-ristar-x2.png",
+      "images/gg/gg-ristar-title.png"
+    ],
+    "cover": "images/gg/gg-ristar-box.jpg"
+  },
+  {
+    "id": "gg-tails-adventure",
+    "title": "Tails Adventure",
+    "titleZh": "塔尔斯大冒险",
+    "titleJa": "テイルスアドベンチャー",
+    "year": 1995,
+    "developer": "Aspect",
+    "publisher": "Sega",
+    "genre": "动作冒险",
+    "tags": [
+      "像素",
+      "道具探索",
+      "类银河恶魔城",
+      "索尼克系列"
+    ],
+    "players": "1",
+    "tagline": "塔尔斯的道具探索之旅，慢节奏的惊喜",
+    "description": "这可不是一款“跑得快”的索尼克游戏！主角塔尔斯在孤岛上独自对抗巴特尔克库鸟军团，他靠的不是速度，而是头脑与发明：炸弹、遥控机器人、锤子、探测器……超过二十种道具，需要你根据场景灵活搭配。\n\n全岛地图可以自由往返，获得新道具后旧区域会浮现新的通路与隐藏物品，颇有银河恶魔城的意味。节奏偏慢、重视探索与解谜，加上塔尔斯飞行时可爱的动画，整体风格温和治愈。\n\n当年评价两极，但如今越来越多玩家发现了它的独特魅力——如果你喜欢收集道具、一点点扩展地图的乐趣，它会给你意外的惊喜。",
+    "highlights": [
+      "二十多种道具自由组合",
+      "可往返探索的类银河恶魔城地图",
+      "塔尔斯首次担纲主角",
+      "节奏舒缓、重视解谜"
+    ],
+    "reviews": [
+      {
+        "source": "Mean Machines Sega",
+        "score": "80%",
+        "quote": "略欠新意，但秘密与学习曲线让人投入"
+      },
+      {
+        "source": "Sega Pro",
+        "score": "85%",
+        "quote": "别具一格的索尼克系列外传"
+      },
+      {
+        "source": "Fami通",
+        "score": "19/40",
+        "quote": "缺少惊喜，比其他索尼克作品更为普通"
+      }
+    ],
+    "editorScore": 8.3,
+    "is2D": true,
+    "screenshots": [
+      "images/gg/gg-tails-adventure-s1.png",
+      "images/gg/gg-tails-adventure-s2.png",
+      "images/gg/gg-tails-adventure-x1.png",
+      "images/gg/gg-tails-adventure-title.png"
+    ],
+    "cover": "images/gg/gg-tails-adventure-box.jpg"
+  },
+  {
+    "id": "gg-gunstar-heroes",
+    "title": "Gunstar Heroes",
+    "titleZh": "火枪英雄（GG版）",
+    "titleJa": "ガンスターヒーローズ",
+    "year": 1995,
+    "developer": "M2",
+    "publisher": "Sega",
+    "genre": "射击",
+    "tags": [
+      "像素",
+      "横版射击",
+      "M2移植",
+      "日版独占"
+    ],
+    "players": "1",
+    "tagline": "把Treasure神作塞进掌机的奇迹",
+    "description": "Treasure在MD上的爆炸系射击神作，居然能在8位掌机上跑起来？担纲移植的正是日后以“神移植”闻名的M2！他们没有简单缩水，而是根据GG机能重新编排关卡，保留了武器组合、投技与“七色骰子”等标志性要素。\n\n满屏的爆炸、多关节的巨大BOSS、疯狂的“七变形之力”——在小小的GG屏幕上看到这些画面，你会怀疑自己的眼睛。虽然流程有所删减、音效也较弱，但那份手忙脚乱、火花四溅的快感依然在线。\n\n这是M2早期实力的绝佳证明，也是GG上最具技术冲击力的作品之一，射击动作迷不可错过。",
+    "highlights": [
+      "M2操刀的高难度移植",
+      "保留武器组合与投技系统",
+      "多关节巨型BOSS在GG上重现",
+      "8位掌机的技术奇迹"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "22/40",
+        "quote": "相当好地再现了原作"
+      },
+      {
+        "source": "Sega-16",
+        "score": "8/10",
+        "quote": "令人印象深刻的掌机移植，只是删减了两关、音效较弱"
+      }
+    ],
+    "editorScore": 8.3,
+    "is2D": true,
+    "screenshots": [
+      "images/gg/gg-gunstar-heroes-s1.png",
+      "images/gg/gg-gunstar-heroes-x1.png",
+      "images/gg/gg-gunstar-heroes-x2.png",
+      "images/gg/gg-gunstar-heroes-title.png"
+    ],
+    "cover": "images/gg/gg-gunstar-heroes-box.jpg"
+  },
+  {
+    "id": "gg-coca-cola-kid",
+    "title": "Coca-Cola Kid",
+    "titleZh": "可口可乐小子",
+    "titleJa": "颯爽少年英雄伝 コカ・コーラキッド",
+    "year": 1994,
+    "developer": "Aspect",
+    "publisher": "Sega",
+    "genre": "平台跳跃",
+    "tags": [
+      "像素",
+      "滑板",
+      "高速",
+      "日版独占"
+    ],
+    "players": "1",
+    "tagline": "踩着滑板冲刺的可乐少年，日版限定奇作",
+    "description": "可口可乐的广告游戏？别小看它！由《索尼克》8位系列的开发商Aspect操刀，本作拥有媲美索尼克的速度感：主角可以踩上滑板高速冲坡、腾空飞跃，关卡中满是斜坡与弹跳装置。\n\n场景多以城市为舞台，街道、屋顶等关卡各具风情，画面色彩鲜亮，充满90年代的流行感。途中还能在商店购买道具，游戏节奏明快爽朗，难度适中。\n\n由于是品牌合作作品，本作仅在日本发售，如今已成为GG收藏圈里的知名珍品。它是名副其实的“遗珠”，值得每一位8位平台跳跃迷寻来一试。",
+    "highlights": [
+      "Aspect出品，索尼克式速度感",
+      "滑板冲刺与花式动作",
+      "90年代流行感十足的都市场景",
+      "日版限定的收藏珍品"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "20/40",
+        "quote": "动作爽快，但整体表现中规中矩"
+      }
+    ],
+    "editorScore": 8.0,
+    "is2D": true,
+    "screenshots": [
+      "images/gg/gg-coca-cola-kid-s1.png",
+      "images/gg/gg-coca-cola-kid-x1.png",
+      "images/gg/gg-coca-cola-kid-x2.png",
+      "images/gg/gg-coca-cola-kid-title.png"
+    ],
+    "cover": "images/gg/gg-coca-cola-kid-box.jpg"
+  },
+  {
+    "id": "gg-crystal-warriors",
+    "title": "Crystal Warriors",
+    "titleZh": "水晶战士",
+    "titleJa": "アーリエル クリスタル伝説",
+    "year": 1991,
+    "developer": "Sega",
+    "publisher": "Sega",
+    "genre": "战略角色扮演",
+    "tags": [
+      "像素",
+      "战棋",
+      "属性相克",
+      "早期SRPG"
+    ],
+    "players": "1",
+    "tagline": "GG最早的战棋RPG，元素相克的智斗",
+    "description": "比《光明力量》还要早，Game Gear上就已经有了一部正统战棋RPG！王国被邪恶帝国入侵，公主带领水晶战士们夺回四颗元素水晶。地图上的每个单位都拥有火、水、风、地四种属性之一，属性相克是胜败的关键。\n\n更有趣的是，你可以雇佣怪物加入队伍，或在城镇中招募佣兵，战术组合相当灵活；角色阵亡即永久消失的设定，也让每一步决策都格外紧张。\n\n以今天的眼光看，它的节奏和演出都显得朴素，但作为GG乃至世嘉8位机上最早的SRPG之一，它的历史价值不容忽视。喜欢《火焰纹章》式紧张感的玩家可以一试。",
+    "highlights": [
+      "火水风地四属性相克",
+      "可招募怪物与佣兵",
+      "角色阵亡永久消失的紧张感",
+      "世嘉8位机早期战棋代表"
+    ],
+    "reviews": [
+      {
+        "source": "Sega Power",
+        "score": "93%",
+        "quote": "掌机上难得的深度策略游戏"
+      },
+      {
+        "source": "GamePro",
+        "score": "4/5",
+        "quote": "策略性十足的掌机战棋RPG"
+      },
+      {
+        "source": "Nintendo Life",
+        "score": "5/10",
+        "quote": "过于陈旧，属于应该留在过去的作品"
+      }
+    ],
+    "editorScore": 7.9,
+    "is2D": true,
+    "screenshots": [
+      "images/gg/gg-crystal-warriors-s1.png",
+      "images/gg/gg-crystal-warriors-x1.png",
+      "images/gg/gg-crystal-warriors-title.png"
+    ],
+    "cover": "images/gg/gg-crystal-warriors-box.jpg"
+  },
+  {
+    "id": "gg-royal-stone",
+    "title": "Royal Stone",
+    "titleZh": "皇家之石 开启的时之门",
+    "titleJa": "ロイアル・ストーン ～開かれし時の扉～",
+    "year": 1995,
+    "developer": "Sega",
+    "publisher": "Sega",
+    "genre": "战略角色扮演",
+    "tags": [
+      "像素",
+      "战棋",
+      "剧情向",
+      "日版独占"
+    ],
+    "players": "1",
+    "tagline": "水晶战士续作，剧情更浓的掌机战棋",
+    "description": "作为《水晶战士》的续作，本作在GG末期登场，系统与演出全面进化。故事围绕神秘的“时之门”展开，剧情份量比前作厚重许多，角色之间的羁绊描写也更加细腻。\n\n战斗依旧是方格战棋，但新增了地形效果、合体攻击等要素，敌人AI也更狡猾；战斗时的动画演出在GG上相当讲究。整体难度平衡良好，即使是战棋新手也能顺利上手。\n\n本作仅在日本发售，知名度远不及《光明力量》外传，却是GG战棋阵容中一颗不该被遗忘的宝石。已有爱好者英文补丁，可以放心尝试。",
+    "highlights": [
+      "《水晶战士》系统进化续作",
+      "剧情厚重、角色塑造用心",
+      "战斗动画演出讲究",
+      "日版独占，有爱好者英文补丁"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "23/40",
+        "quote": "扎实稳健的掌机战略RPG"
+      },
+      {
+        "source": "Sega Saturn Magazine",
+        "score": "85/100",
+        "quote": "剧情与战斗兼顾的GG战棋佳作"
+      }
+    ],
+    "editorScore": 7.9,
+    "is2D": true,
+    "screenshots": [
+      "images/gg/gg-royal-stone-s1.png",
+      "images/gg/gg-royal-stone-s2.png",
+      "images/gg/gg-royal-stone-title.png"
+    ],
+    "cover": "images/gg/gg-royal-stone-box.jpg"
+  },
+  {
+    "id": "gg-last-bible",
+    "title": "Megami Tensei Gaiden: Last Bible",
+    "titleZh": "女神转生外传 最后的圣经",
+    "titleJa": "女神転生外伝 ラストバイブル",
+    "year": 1994,
+    "developer": "Atlus",
+    "publisher": "Sega",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "怪物合体",
+      "回合制",
+      "日版独占"
+    ],
+    "players": "1",
+    "tagline": "王道奇幻里的女神转生味道",
+    "description": "“女神转生”的世界通常是废墟都市与恶魔横行，而这部外传却转向了明亮的剑与魔法奇幻世界：少年主人公为了成为独当一面的魔法使，在神秘力量的指引下踏上旅程。不过系列招牌的“交涉与合体”依然健在——与怪物对话说服它们入伙，再把两只怪物合体成更强的新伙伴！\n\nGG版基于GB原作强化移植，色彩化后的画面清新明亮，界面也更易读。怪物种类繁多，收集与合体的乐趣足以让人投入几十个小时。\n\n如果你喜欢《勇者斗恶龙怪兽篇》或《真·女神转生》的收集养成，这部日版独占的掌机RPG会是很好的补充。",
+    "highlights": [
+      "交涉招募与怪物合体系统",
+      "王道奇幻风格的女神转生外传",
+      "GB原作的彩色强化版",
+      "怪物收集养成乐趣浓厚"
+    ],
+    "reviews": [
+      {
+        "source": "Beep! MegaDrive",
+        "score": "73/100",
+        "quote": "怪物合体乐趣十足的掌机RPG"
+      },
+      {
+        "source": "Sega Saturn Magazine",
+        "score": "81/100",
+        "quote": "GG上值得一玩的正统RPG"
+      }
+    ],
+    "editorScore": 7.8,
+    "is2D": true,
+    "screenshots": [
+      "images/gg/gg-last-bible-s1.png",
+      "images/gg/gg-last-bible-title.png"
+    ],
+    "cover": "images/gg/gg-last-bible-box.jpg"
+  },
+  {
+    "id": "gg-phantasy-star-gaiden",
+    "title": "Phantasy Star Gaiden",
+    "titleZh": "梦幻之星外传",
+    "titleJa": "ファンタシースター外伝",
+    "year": 1992,
+    "developer": "Japan System Supply",
+    "publisher": "Sega",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "回合制",
+      "第一人称迷宫",
+      "日版独占"
+    ],
+    "players": "1",
+    "tagline": "阿尔格尔星系之外的掌机外传",
+    "description": "《梦幻之星》系列唯一的Game Gear角色扮演作品。故事发生在初代主角阿莉莎的年代之后，舞台换到了一颗遥远的新星球，年轻的主人公与伙伴们卷入一场关乎命运的阴谋。\n\n系统继承了SMS初代的味道：城镇与大地图采用俯视角，地下城则是第一人称3D迷宫，战斗为经典回合制，怪物动画以小窗口呈现。科幻与奇幻混搭的世界观，依旧是系列独有的浪漫。\n\n当年评价平平，流程也不算长，但对于系列粉丝而言，它是了解“梦幻之星宇宙”不可缺少的一块拼图。有爱好者英文补丁可用，适合怀旧系列迷细细品味。",
+    "highlights": [
+      "梦幻之星系列唯一GG RPG",
+      "第一人称3D迷宫的经典味道",
+      "科幻与奇幻交织的世界观",
+      "日版独占，有爱好者英文补丁"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "18/40",
+        "quote": "系列风格保留，但整体表现较为平淡"
+      }
+    ],
+    "editorScore": 7.8,
+    "is2D": true,
+    "screenshots": [
+      "images/gg/gg-phantasy-star-gaiden-s1.png",
+      "images/gg/gg-phantasy-star-gaiden-title.png"
+    ],
+    "cover": "images/gg/gg-phantasy-star-gaiden-box.jpg"
+  },
+  {
+    "id": "gg-madou-monogatari-1",
+    "title": "Madou Monogatari I: 3-tsu no Madoukyuu",
+    "titleZh": "魔导物语I 三颗魔导球",
+    "titleJa": "魔導物語I ～3つの魔導球～",
+    "year": 1993,
+    "developer": "Compile",
+    "publisher": "Sega",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "第一人称迷宫",
+      "魔法气泡",
+      "日版独占"
+    ],
+    "players": "1",
+    "tagline": "阿露露的魔导冒险，没有数值的RPG",
+    "description": "《魔法气泡》里那个元气满满的阿露露，原本是这部RPG的主角！本作讲述少女魔导师阿露露为寻找三颗魔导球，独自闯入怪物横行的迷宫的故事。\n\n最大的特色是——画面上没有HP和MP数字！阿露露的状态通过表情、台词与画面颜色来表现，战斗中的魔法“火焰”“冰风暴”“雷暴”配合她俏皮的喊声，充满喜剧感。第一人称迷宫探索与幽默的怪物对话相互穿插，让人忍俊不禁。\n\n喜欢《魔法气泡》角色们的玩家，一定要来看看他们的“起源故事”。本作仅日版，已有爱好者英文补丁。",
+    "highlights": [
+      "无数值显示、靠表情判断状态的独特设计",
+      "魔法气泡角色的起源故事",
+      "幽默轻松的剧情与对话",
+      "日版独占，有爱好者英文补丁"
+    ],
+    "reviews": [
+      {
+        "source": "Beep! MegaDrive",
+        "score": "80/100",
+        "quote": "角色魅力十足、轻松有趣的RPG"
+      },
+      {
+        "source": "Sega Saturn Magazine",
+        "score": "87/100",
+        "quote": "Compile独特幽默感的掌机佳作"
+      }
+    ],
+    "editorScore": 7.8,
+    "is2D": true,
+    "screenshots": [
+      "images/gg/gg-madou-monogatari-1-s1.png",
+      "images/gg/gg-madou-monogatari-1-title.png"
+    ],
+    "cover": "images/gg/gg-madou-monogatari-1-box.jpg"
+  },
+  {
+    "id": "gg-columns",
+    "title": "Columns",
+    "titleZh": "宝石方块",
+    "titleJa": "コラムス",
+    "year": 1990,
+    "developer": "Sega",
+    "publisher": "Sega",
+    "genre": "解谜",
+    "tags": [
+      "像素",
+      "消除",
+      "首发作品",
+      "联机对战"
+    ],
+    "players": "1-2",
+    "tagline": "Game Gear的首发神作，宝石三连消",
+    "description": "如果说Game Boy有《俄罗斯方块》，那么Game Gear的答案就是《宝石方块》！三颗竖排的宝石从天而降，你可以循环调换它们的顺序，让横、竖、斜方向三颗同色宝石连成一线即可消除，连锁反应带来的高分让人欲罢不能。\n\n彩色液晶屏让宝石闪闪发光，这正是当年GG向黑白掌机炫耀的资本。游戏还附带解谜模式与联机对战，配合优雅的古典风格配乐，简单却极具中毒性。\n\n作为GG的首发作品之一，它也许是在这台掌机上被玩得最多的游戏。三十多年过去，它依旧是打发时间的最佳选择。",
+    "highlights": [
+      "GG首发代表作",
+      "横竖斜三连的宝石消除",
+      "彩屏宝石光泽炫目",
+      "支持联机对战"
+    ],
+    "reviews": [
+      {
+        "source": "Sega Power",
+        "score": "91%",
+        "quote": "简单而极具中毒性的掌机益智游戏"
+      },
+      {
+        "source": "Mean Machines Sega",
+        "score": "88%",
+        "quote": "经典消除玩法在掌机上依然出色"
+      }
+    ],
+    "editorScore": 7.8,
+    "is2D": true,
+    "screenshots": [
+      "images/gg/gg-columns-s1.png",
+      "images/gg/gg-columns-s2.png",
+      "images/gg/gg-columns-s3.png",
+      "images/gg/gg-columns-title.png"
+    ],
+    "cover": "images/gg/gg-columns-box.jpg"
+  },
+  {
+    "id": "gg-streets-of-rage-2",
+    "title": "Streets of Rage 2",
+    "titleZh": "怒之铁拳2（GG版）",
+    "titleJa": "ベア・ナックルII 死闘への鎮魂歌",
+    "year": 1993,
+    "developer": "Japan System House",
+    "publisher": "Sega",
+    "genre": "动作清版",
+    "tags": [
+      "像素",
+      "清版过关",
+      "联机双打",
+      "街头格斗"
+    ],
+    "players": "1-2",
+    "tagline": "口袋里的街头激斗",
+    "description": "MD史上最强的清版动作之一，被浓缩到了Game Gear上。阿克塞尔、布雷兹、斯盖特三人可选（MD版的马克斯缺席），在霓虹闪烁的街头、酒吧与游乐场一路打到Mr.X的老巢。\n\n掌机版的关卡流程和招式数量有所精简，但拳脚连段、投技与必杀技的手感依旧扎实，角色精灵图尺寸在GG上也算相当可观。更棒的是支持联机线双人合作——当年两台GG对接一起打街头，是多少玩家的美好回忆。\n\n当然，想体验完整的怒之铁拳2还是要找MD版；但作为一部掌机清版游戏，本作的完成度已经相当可靠。",
+    "highlights": [
+      "三名角色可选，招式手感扎实",
+      "联机线双人合作",
+      "大尺寸角色精灵图",
+      "MD名作的掌机浓缩版"
+    ],
+    "reviews": [
+      {
+        "source": "Mean Machines Sega",
+        "score": "85%",
+        "quote": "掌机上难得的扎实清版动作"
+      },
+      {
+        "source": "Fami通",
+        "score": "20/40",
+        "quote": "掌机化后内容精简，表现中规中矩"
+      }
+    ],
+    "editorScore": 7.7,
+    "is2D": true,
+    "screenshots": [
+      "images/gg/gg-streets-of-rage-2-s1.png",
+      "images/gg/gg-streets-of-rage-2-x1.png",
+      "images/gg/gg-streets-of-rage-2-title.png"
+    ],
+    "cover": "images/gg/gg-streets-of-rage-2-box.jpg"
+  },
+  {
+    "id": "gg-magic-knight-rayearth",
+    "title": "Magic Knight Rayearth",
+    "titleZh": "魔法骑士雷阿斯",
+    "titleJa": "魔法騎士レイアース",
+    "year": 1994,
+    "developer": "Sega",
+    "publisher": "Sega",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "回合制",
+      "动漫改编",
+      "日版独占"
+    ],
+    "players": "1",
+    "tagline": "CLAMP名作改编，三位少女的异世界冒险",
+    "description": "光、海、风三位初中女生被召唤到异世界“赛菲罗”，为了拯救公主成为魔法骑士——CLAMP的人气漫画在90年代掀起了巨大热潮，世嘉自然不会错过。GG版是一部正统回合制RPG，忠实再现了原作前半段的剧情。\n\n三人可以在城镇与原野之间自由切换领队，战斗中使用各自的魔法与剑技，角色头像与过场插画都颇为用心，还加入了小游戏等丰富的附加内容。界面友好，难度不高，很适合原作粉丝轻松游玩。\n\n作为动漫改编游戏它或许没有惊艳之处，但对于雷阿斯的粉丝来说，这是重温魔法骑士旅程的温馨纪念品。",
+    "highlights": [
+      "CLAMP人气漫画改编",
+      "三位魔法骑士各具技能",
+      "原作风格的插画与过场",
+      "附带小游戏等收藏要素"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "17/40",
+        "quote": "忠实原作的角色游戏，但系统缺乏亮点"
+      },
+      {
+        "source": "Sega Saturn Magazine",
+        "score": "74/100",
+        "quote": "适合原作粉丝的轻松RPG"
+      }
+    ],
+    "editorScore": 7.5,
+    "is2D": true,
+    "screenshots": [
+      "images/gg/gg-magic-knight-rayearth-s1.png",
+      "images/gg/gg-magic-knight-rayearth-x1.png",
+      "images/gg/gg-magic-knight-rayearth-title.png"
+    ],
+    "cover": "images/gg/gg-magic-knight-rayearth-box.jpg"
+  },
+  {
+    "id": "gg-ax-battler",
+    "title": "Ax Battler: A Legend of Golden Axe",
+    "titleZh": "斧头战士 战斧传说",
+    "titleJa": "アックスバトラー ゴールデンアックス伝説",
+    "year": 1991,
+    "developer": "Aspect",
+    "publisher": "Sega",
+    "genre": "动作角色扮演",
+    "tags": [
+      "像素",
+      "大地图",
+      "横版战斗",
+      "战斧系列"
+    ],
+    "players": "1",
+    "tagline": "战斧变身ARPG，掌机版林克的冒险",
+    "description": "谁说《战斧》只能是清版游戏？这部GG作品把系列改造成了类似《塞尔达传说II》的动作RPG：俯视角大地图上自由行走，遇敌或进入城镇、洞窟时则切换到横版视角战斗。\n\n主角艾克斯·巴特勒需要寻找传说中的金色战斧，途中提升剑技、学习魔法、获得新装备，城镇中还有村民提供线索。横版战斗讲究攻防时机，熟悉之后颇有节奏感。\n\n当年评价两极，有人嫌战斗单调，也有人盛赞它大胆的转型。以ARPG爱好者的眼光看，它是GG上难得的“世嘉版林克冒险”，值得一试。",
+    "highlights": [
+      "俯视大地图 + 横版战斗的ARPG结构",
+      "战斧系列的大胆转型",
+      "剑技、魔法与装备成长",
+      "GG早期少见的动作RPG"
+    ],
+    "reviews": [
+      {
+        "source": "Zero",
+        "score": "87/100",
+        "quote": "在原作基础上推陈出新，稳拿高分"
+      },
+      {
+        "source": "Fami通",
+        "score": "19/40",
+        "quote": "构思有趣，但游戏性稍显平淡"
+      },
+      {
+        "source": "Mean Machines Sega",
+        "score": "39%",
+        "quote": "横版战斗部分表现非常糟糕"
+      }
+    ],
+    "editorScore": 7.5,
+    "is2D": true,
+    "screenshots": [
+      "images/gg/gg-ax-battler-s1.png",
+      "images/gg/gg-ax-battler-s2.png",
+      "images/gg/gg-ax-battler-s3.png",
+      "images/gg/gg-ax-battler-title.png"
+    ],
+    "cover": "images/gg/gg-ax-battler-box.jpg"
+  }
+]

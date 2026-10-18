@@ -1,0 +1,929 @@
+[
+  {
+    "id": "ngp-match-of-the-millennium",
+    "title": "SNK vs. Capcom: The Match of the Millennium",
+    "titleZh": "SNK对卡普空 千年之战",
+    "titleJa": "頂上決戦最強ファイターズ SNK VS. CAPCOM",
+    "year": 1999,
+    "developer": "SNK",
+    "publisher": "SNK",
+    "genre": "格斗",
+    "tags": [
+      "像素",
+      "梦幻对决",
+      "Q版"
+    ],
+    "players": "1-2",
+    "tagline": "掌机格斗的天花板，两大厂史上第一次握手",
+    "description": "1999年底，格斗迷做梦都想不到的事情发生了：SNK和卡普空这对宿敌，竟然在一台小小的掌机上联手了！草薙京对隆，八神庵对春丽，豪鬼与吉斯在同一个画面里大打出手——这就是NGPC上的《千年之战》。\n\n别看是Q版头身，SNK把每个角色的必杀技、超必杀和招牌动作都还原得惟妙惟肖，三对三、二对二、单挑多种组队方式任选，还有“奥运会”模式收录了各角色专属的小游戏。NGPC那颗手感极佳的微动摇杆在这里发挥得淋漓尽致，搓出升龙拳和鬼烧那叫一个干脆利落。\n\n当年IGN直接打出满分，称其为掌机史上最好的格斗游戏。二十多年过去，这个评价依然站得住脚——想知道NGPC为什么至今被玩家怀念，从这一盘开始就对了。",
+    "highlights": [
+      "SNK与卡普空两大阵营明星角色同场竞技",
+      "Q版像素动画细腻，必杀技手感一流",
+      "收录大量角色专属小游戏的“奥运会”模式",
+      "可与《卡片战士》联动解锁要素"
+    ],
+    "reviews": [
+      {
+        "source": "IGN",
+        "score": "10/10",
+        "quote": "掌机屏幕上出现过的最出色的格斗游戏"
+      },
+      {
+        "source": "GameSpot",
+        "score": "9.4/10",
+        "quote": "两大2D格斗巨头联手，成品完全对得起期待"
+      },
+      {
+        "source": "Fami通",
+        "score": "30/40",
+        "quote": "Q版角色可爱，招式还原到位的掌机格斗佳作"
+      }
+    ],
+    "editorScore": 9.4,
+    "is2D": true,
+    "screenshots": [
+      "images/ngp/ngp-match-of-the-millennium-s1.png",
+      "images/ngp/ngp-match-of-the-millennium-x1.jpg",
+      "images/ngp/ngp-match-of-the-millennium-title.png"
+    ],
+    "cover": "images/ngp/ngp-match-of-the-millennium-box.jpg"
+  },
+  {
+    "id": "ngp-card-fighters-clash",
+    "title": "SNK vs. Capcom: Card Fighters' Clash",
+    "titleZh": "SNK对卡普空 激突卡片战士",
+    "titleJa": "SNK VS. CAPCOM 激突カードファイターズ",
+    "year": 1999,
+    "developer": "SNK",
+    "publisher": "SNK",
+    "genre": "卡牌对战",
+    "tags": [
+      "像素",
+      "卡牌",
+      "收集"
+    ],
+    "players": "1-2",
+    "tagline": "一副牌里装下两家格斗宇宙，停不下来的卡牌神作",
+    "description": "谁说卡牌游戏只属于《游戏王》和《宝可梦》？SNK用这款《卡片战士》证明了：只要角色够多、规则够爽，一张张小卡片同样能打出热血格斗的味道。游戏分“SNK版”和“卡普空版”两个版本，就像宝可梦的红绿版，玩家需要通过对战线交换卡片才能集齐全部图鉴。\n\n规则简洁却很有深度：角色卡分BP与SP，可以组成联合攻击；行动卡则模拟了各种必杀技与经典桥段。大街小巷里的卡牌高手们会向你发起挑战，赢了就能获得新卡，那种“再来一局”的魔力让无数玩家熬夜到天亮。\n\n卡面全部由两家画师用心绘制，从《街头霸王》到《侍魂》、从《恶魔战士》到《拳皇》，简直就是一本会动的格斗百科。至今仍是不少卡牌游戏迷心中的掌机最佳！",
+    "highlights": [
+      "SNK版与卡普空版两个版本，通信交换收集卡片",
+      "数百张角色与行动卡，涵盖两家众多名作",
+      "规则易学难精，组卡策略丰富",
+      "可与《千年之战》联动"
+    ],
+    "reviews": [
+      {
+        "source": "IGN",
+        "score": "9/10",
+        "quote": "节奏明快、容易上手又极具深度的卡牌对战"
+      },
+      {
+        "source": "GameSpot",
+        "score": "8.8/10",
+        "quote": "NGPC上最让人上瘾的游戏之一"
+      },
+      {
+        "source": "Metacritic",
+        "score": "84/100",
+        "quote": "Switch复刻版依旧获得媒体高度好评"
+      }
+    ],
+    "editorScore": 9.3,
+    "is2D": true,
+    "screenshots": [
+      "images/ngp/ngp-card-fighters-clash-s1.png",
+      "images/ngp/ngp-card-fighters-clash-x1.png",
+      "images/ngp/ngp-card-fighters-clash-x2.png",
+      "images/ngp/ngp-card-fighters-clash-title.png"
+    ],
+    "cover": "images/ngp/ngp-card-fighters-clash-box.jpg"
+  },
+  {
+    "id": "ngp-card-fighters-2",
+    "title": "SNK vs. Capcom: Card Fighters 2 Expand Edition",
+    "titleZh": "SNK对卡普空 激突卡片战士2 扩展版",
+    "titleJa": "SNK VS. CAPCOM 激突カードファイターズ2 エキスパンドエディション",
+    "year": 2001,
+    "developer": "SNK",
+    "publisher": "SNK",
+    "genre": "卡牌对战",
+    "tags": [
+      "像素",
+      "卡牌",
+      "日版限定"
+    ],
+    "players": "1-2",
+    "tagline": "NGPC的谢幕之作，卡牌系列的完全体",
+    "description": "2001年秋天，NGPC在日本已近黄昏，SNK却为这台掌机送上了一份沉甸甸的告别礼物——《卡片战士2 扩展版》。这一次不再分版本，所有卡片收录在同一盘卡带中，卡片总数大幅扩充，从《街霸》《拳皇》到更冷门的作品角色纷纷登场。\n\n规则在前作基础上加入了新的能力和行动卡，组牌思路更加多变；剧情方面则让主角在城镇间四处游历、挑战各路卡牌高手，颇有几分掌机RPG的味道。像素画风更加精致，菜单与卡面也全面强化。\n\n可惜本作只在日本发售，加上NGPC末期出货量极少，如今实体卡带价格不菲。不过对卡牌迷来说，它就是系列真正的完全形态，值得为它学几句日文！",
+    "highlights": [
+      "一盘收录全部卡片，告别双版本",
+      "卡片数量与规则大幅扩充",
+      "带有游历城镇挑战对手的剧情模式",
+      "NGPC末期日版限定，收藏价值极高"
+    ],
+    "reviews": [],
+    "editorScore": 9.1,
+    "is2D": true,
+    "screenshots": [
+      "images/ngp/ngp-card-fighters-2-s1.png",
+      "images/ngp/ngp-card-fighters-2-x1.jpg",
+      "images/ngp/ngp-card-fighters-2-x2.jpg",
+      "images/ngp/ngp-card-fighters-2-title.png"
+    ],
+    "cover": "images/ngp/ngp-card-fighters-2-box.jpg"
+  },
+  {
+    "id": "ngp-sonic-pocket-adventure",
+    "title": "Sonic the Hedgehog Pocket Adventure",
+    "titleZh": "索尼克 口袋大冒险",
+    "titleJa": "ソニック・ザ・ヘッジホッグ ポケットアドベンチャー",
+    "year": 1999,
+    "developer": "SNK",
+    "publisher": "SNK",
+    "genre": "平台跳跃",
+    "tags": [
+      "像素",
+      "高速",
+      "跨界"
+    ],
+    "players": "1-2",
+    "tagline": "世嘉蓝刺猬跑进SNK掌机，速度一点没打折",
+    "description": "世嘉的招牌明星居然出现在SNK的掌机上？这在当年绝对是一条爆炸新闻！更惊人的是，SNK亲手打造的这款《口袋大冒险》完全没有缩水——一旦冲刺起来，索尼克在小屏幕上照样快得让人眼花缭乱。\n\n关卡设计大量借鉴了MD上的《索尼克2》，许多经典场景被重新编排成适合掌机的版本，旋转冲刺、环形轨道、弹簧连跳一应俱全。还有存档、计时挑战和收集拼图等新要素，甚至能用连接线与朋友比赛谁先冲线。\n\nIGN当年打出满分，称它是NGPC上最好的游戏之一。它是索尼克系列在掌机上最成功的移植改编之一，也是NGPC“小机器大能量”的最佳证明。",
+    "highlights": [
+      "保留系列招牌的极速快感",
+      "以《索尼克2》为蓝本重新设计关卡",
+      "计时挑战与拼图收集要素",
+      "可通过连接线双人竞速"
+    ],
+    "reviews": [
+      {
+        "source": "IGN",
+        "score": "10/10",
+        "quote": "完美把索尼克的速度感搬上掌机"
+      },
+      {
+        "source": "GameSpot",
+        "score": "8.3/10",
+        "quote": "忠实还原系列精髓的优秀掌机作品"
+      },
+      {
+        "source": "CVG",
+        "score": "5/5",
+        "quote": "NGPC玩家必备的高速平台游戏"
+      }
+    ],
+    "editorScore": 9.0,
+    "is2D": true,
+    "screenshots": [
+      "images/ngp/ngp-sonic-pocket-adventure-s1.png",
+      "images/ngp/ngp-sonic-pocket-adventure-x1.jpg",
+      "images/ngp/ngp-sonic-pocket-adventure-x2.jpg",
+      "images/ngp/ngp-sonic-pocket-adventure-title.png"
+    ],
+    "cover": "images/ngp/ngp-sonic-pocket-adventure-box.jpg"
+  },
+  {
+    "id": "ngp-metal-slug-2nd-mission",
+    "title": "Metal Slug 2nd Mission",
+    "titleZh": "合金弹头 第二任务",
+    "titleJa": "メタルスラッグ 2nd MISSION",
+    "year": 2000,
+    "developer": "Ukiyotei",
+    "publisher": "SNK",
+    "genre": "射击",
+    "tags": [
+      "像素",
+      "横版射击",
+      "多分支"
+    ],
+    "players": "1",
+    "tagline": "掌上合金弹头的进化版，火力与爆炸更上一层",
+    "description": "如果说《1st Mission》证明了合金弹头能装进口袋，那么《2nd Mission》就是要让你在口袋里打一场真正的大仗！本作画面明显比前作精致，敌兵、坦克和巨型首领的动画更加生动，爆炸特效也更有街机版那种夸张的爽快感。\n\n游戏可以选择马可或菲欧两位角色，各自拥有不同的路线与剧情。关卡依旧采用分支式结构，任务成败会影响后续走向，坦克之外还加入了更多可驾驶的载具。通关后还能解锁叛军士兵作为隐藏角色，耐玩度十足。\n\n小小的屏幕里塞满了合金弹头式的幽默与暴力美学，这是NGPC上最好玩的横版射击游戏，也是系列迷绝不该错过的番外篇。",
+    "highlights": [
+      "画面与操作较前作全面提升",
+      "马可、菲欧双主角，路线各不相同",
+      "分支式关卡与丰富载具",
+      "通关后解锁隐藏角色"
+    ],
+    "reviews": [],
+    "editorScore": 8.9,
+    "is2D": true,
+    "screenshots": [
+      "images/ngp/ngp-metal-slug-2nd-mission-s1.png",
+      "images/ngp/ngp-metal-slug-2nd-mission-x1.jpg",
+      "images/ngp/ngp-metal-slug-2nd-mission-x2.jpg",
+      "images/ngp/ngp-metal-slug-2nd-mission-title.png"
+    ],
+    "cover": "images/ngp/ngp-metal-slug-2nd-mission-box.jpg"
+  },
+  {
+    "id": "ngp-kof-r2",
+    "title": "King of Fighters R-2",
+    "titleZh": "拳皇R-2",
+    "titleJa": "キング・オブ・ファイターズR-2",
+    "year": 1999,
+    "developer": "SNK",
+    "publisher": "SNK",
+    "genre": "格斗",
+    "tags": [
+      "像素",
+      "Q版",
+      "养成"
+    ],
+    "players": "1-2",
+    "tagline": "Q版拳皇的巅峰，掌心里的三对三大乱斗",
+    "description": "NGPC彩色机首发阵容里，最受瞩目的就是这盘《拳皇R-2》！它以《拳皇98》为蓝本，把草薙京、八神庵、特瑞等人气角色全部Q版化，三对三团队战的精髓原汁原味地保留了下来。\n\n最大的亮点是“养成”模式：玩家可以培养一名角色，通过不断战斗提升能力，再用连接线和朋友的角色对决。此外，本作还能与DC版《拳皇'99 进化版》联动，交换数据解锁隐藏要素，在当年是非常前卫的设计。\n\n两颗按键就能搓出完整的必杀技和超必杀，微动摇杆手感极佳，判定扎实。IGN给出9分的高评价——它是掌机格斗游戏的里程碑，也是NGPC最具代表性的作品之一。",
+    "highlights": [
+      "以《拳皇98》为蓝本的三对三团队战",
+      "可培养角色的养成模式",
+      "与DC版《拳皇'99》数据联动",
+      "两键操作也能打出完整必杀技"
+    ],
+    "reviews": [
+      {
+        "source": "IGN",
+        "score": "9.0/10",
+        "quote": "迄今为止掌机上最好的格斗游戏之一"
+      },
+      {
+        "source": "GameSpot",
+        "score": "8.2/10",
+        "quote": "Q版拳皇保留了系列的深度与乐趣"
+      }
+    ],
+    "editorScore": 8.8,
+    "is2D": true,
+    "screenshots": [
+      "images/ngp/ngp-kof-r2-s1.png",
+      "images/ngp/ngp-kof-r2-x1.jpg",
+      "images/ngp/ngp-kof-r2-x2.jpg",
+      "images/ngp/ngp-kof-r2-title.png"
+    ],
+    "cover": "images/ngp/ngp-kof-r2-box.jpg"
+  },
+  {
+    "id": "ngp-metal-slug-1st-mission",
+    "title": "Metal Slug 1st Mission",
+    "titleZh": "合金弹头 第一任务",
+    "titleJa": "メタルスラッグ 1st MISSION",
+    "year": 1999,
+    "developer": "Ukiyotei",
+    "publisher": "SNK",
+    "genre": "射击",
+    "tags": [
+      "像素",
+      "横版射击",
+      "多分支"
+    ],
+    "players": "1",
+    "tagline": "合金弹头首次登陆掌机，分支路线玩出新花样",
+    "description": "一提起合金弹头，大家脑海里浮现的一定是街机厅里满屏的爆炸和夸张的士兵动画。1999年，SNK把这个系列塞进了NGPC，而且不是简单缩水——《1st Mission》大胆加入了非线性分支设计，让掌机版拥有了自己独特的玩法。\n\n游戏共有十余个任务，玩家的表现会决定接下来的走向：飞机被击落就跳伞降落到另一关，进门或不进门也会通往不同的区域。马可还拥有血条，更适合掌机的游玩节奏。合金弹头坦克、各种武器与俘虏救援一样不少。\n\nGameSpot评价它“成功复制了街机版的外观与玩法，同时用分支结构带来了更多深度”。想体验不一样的合金弹头，从这里开始吧！",
+    "highlights": [
+      "非线性分支结构，任务走向随表现变化",
+      "坦克、武器与救俘虏要素一应俱全",
+      "加入血条，节奏更适合掌机",
+      "满足条件可解锁第二名角色"
+    ],
+    "reviews": [
+      {
+        "source": "GameSpot",
+        "score": "8.0/10",
+        "quote": "成功还原街机外观与玩法，并以分支路线增添深度"
+      }
+    ],
+    "editorScore": 8.7,
+    "is2D": true,
+    "screenshots": [
+      "images/ngp/ngp-metal-slug-1st-mission-s1.png",
+      "images/ngp/ngp-metal-slug-1st-mission-x1.jpg",
+      "images/ngp/ngp-metal-slug-1st-mission-x2.jpg",
+      "images/ngp/ngp-metal-slug-1st-mission-title.png"
+    ],
+    "cover": "images/ngp/ngp-metal-slug-1st-mission-box.jpg"
+  },
+  {
+    "id": "ngp-faselei",
+    "title": "Faselei!",
+    "titleZh": "法塞莱！",
+    "titleJa": "ファーゼライ!",
+    "year": 1999,
+    "developer": "Sacnoth",
+    "publisher": "SNK",
+    "genre": "战略角色扮演",
+    "tags": [
+      "像素",
+      "机甲",
+      "战棋"
+    ],
+    "players": "1",
+    "tagline": "Sacnoth操刀的硬派机甲战棋，掌机上的隐藏名作",
+    "description": "以《Koudelka》闻名的Sacnoth，在NGPC上留下了这款独具一格的机甲战略RPG。玩家扮演雇佣兵部队，驾驶名为“法塞莱”的人形机甲在战场上执行各种任务，故事充满了硬派战争气息。\n\n最特别的是它的“预约指令”系统：每回合需要事先为机体编排一连串的移动与攻击指令，然后同时执行，既考验对敌人动向的预判，也带来了独特的紧张感。机体的部件和武器都可以自由改装，研究配装的乐趣不亚于家用机作品。\n\n本作只在日本和欧洲发行，北美版最终取消，因此知名度不高。但它扎实的系统和精致的像素表现，让它至今被视作NGPC最值得挖掘的RPG之一。",
+    "highlights": [
+      "独特的预编排指令式战斗系统",
+      "机甲部件与武器自由改装",
+      "硬派战争剧情",
+      "北美版取消，欧版稀有度高"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "24/40",
+        "quote": "系统独特但上手门槛较高"
+      },
+      {
+        "source": "RPGFan",
+        "score": "85%",
+        "quote": "掌机上难得一见、富有深度的战略RPG"
+      }
+    ],
+    "editorScore": 8.6,
+    "is2D": true,
+    "screenshots": [
+      "images/ngp/ngp-faselei-s1.png",
+      "images/ngp/ngp-faselei-s2.png",
+      "images/ngp/ngp-faselei-title.png"
+    ],
+    "cover": "images/ngp/ngp-faselei-box.jpg"
+  },
+  {
+    "id": "ngp-ogre-battle-gaiden",
+    "title": "Ogre Battle Gaiden: Prince of Zenobia",
+    "titleZh": "皇家骑士团外传 芝诺比亚王子",
+    "titleJa": "伝説のオウガバトル外伝 ゼノビアの皇子",
+    "year": 2000,
+    "developer": "SNK",
+    "publisher": "SNK",
+    "genre": "战略角色扮演",
+    "tags": [
+      "像素",
+      "即时战略",
+      "日版限定"
+    ],
+    "players": "1",
+    "tagline": "《皇家骑士团》唯一的掌机外传，战棋迷的收藏秘宝",
+    "description": "提起《皇家骑士团》（Ogre Battle），SFC玩家们一定会想起那部气势恢宏的《黑之女王进行曲》。而鲜为人知的是，这个系列在NGPC上也有一部正统外传——由SNK获得授权、内部团队制作的《芝诺比亚王子》。\n\n故事发生在原作世界观中，主角特里斯坦王子率领反抗军对抗帝国。玩法沿袭系列的即时部队行军：在大地图上编组小队、占领城镇，与敌军遭遇后自动展开战斗；职业转职、阵型编排等要素也被保留下来，规模虽有精简，却依然很有系列味道。\n\n本作仅在日本发售，当年还推出过同捆限定版。后来出现了英文翻译补丁，终于让海外玩家也能体验这部珍贵的外传。喜欢战略RPG的玩家，千万别错过！",
+    "highlights": [
+      "系列唯一的掌机外传作品",
+      "即时行军与自动战斗的经典玩法",
+      "职业转职与小队编成",
+      "仅日版发售，如今有英文补丁"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "28/40",
+        "quote": "简化了系统但仍保留系列韵味的外传作"
+      }
+    ],
+    "editorScore": 8.5,
+    "is2D": true,
+    "screenshots": [
+      "images/ngp/ngp-ogre-battle-gaiden-s1.png",
+      "images/ngp/ngp-ogre-battle-gaiden-x1.jpg",
+      "images/ngp/ngp-ogre-battle-gaiden-x2.jpg",
+      "images/ngp/ngp-ogre-battle-gaiden-title.png"
+    ],
+    "cover": "images/ngp/ngp-ogre-battle-gaiden-box.jpg"
+  },
+  {
+    "id": "ngp-puyo-pop",
+    "title": "Puyo Pop",
+    "titleZh": "魔法气泡通",
+    "titleJa": "ぷよぷよ通",
+    "year": 1999,
+    "developer": "Sega",
+    "publisher": "SNK",
+    "genre": "解谜",
+    "tags": [
+      "像素",
+      "消除",
+      "对战"
+    ],
+    "players": "1-2",
+    "tagline": "掌机上的完美“噗哟”，连锁快感一点不少",
+    "description": "《魔法气泡》是日本对战消除游戏的祖师爷，而NGPC上的这一版就是系列最受推崇的《魔法气泡通》。阿露露、蛇女、撒旦大人等可爱角色悉数登场，对话依旧逗趣，配上NGPC的彩色屏幕显得格外鲜艳。\n\n四个同色噗哟相连即可消除，堆叠连锁、打出“相杀”反击——这套简单却深不见底的规则在掌机上毫无缩水。NGPC摇杆让落块操作精准无比，用连接线和朋友对战更是热闹非凡。\n\nIGN与GameSpot都给出了接近9分的高评价。在掌机上找一款能让你玩上几百小时的消除游戏？这盘噗哟就是答案。",
+    "highlights": [
+      "移植自系列最受欢迎的《魔法气泡通》",
+      "保留“相杀”等对战要素",
+      "角色对话可爱逗趣",
+      "支持连接线双人对战"
+    ],
+    "reviews": [
+      {
+        "source": "IGN",
+        "score": "9.0/10",
+        "quote": "NGPC上最好的益智游戏之一"
+      },
+      {
+        "source": "GameSpot",
+        "score": "8.7/10",
+        "quote": "忠实还原魔法气泡对战乐趣的出色移植"
+      }
+    ],
+    "editorScore": 8.4,
+    "is2D": true,
+    "screenshots": [
+      "images/ngp/ngp-puyo-pop-s1.png",
+      "images/ngp/ngp-puyo-pop-s2.png",
+      "images/ngp/ngp-puyo-pop-title.png"
+    ],
+    "cover": "images/ngp/ngp-puyo-pop-box.jpg"
+  },
+  {
+    "id": "ngp-last-blade",
+    "title": "The Last Blade: Beyond the Destiny",
+    "titleZh": "月华剑士 超越宿命",
+    "titleJa": "幕末浪漫特別編 月華の剣士 月に咲く華、散りゆく花",
+    "year": 2000,
+    "developer": "SNK",
+    "publisher": "SNK",
+    "genre": "格斗",
+    "tags": [
+      "像素",
+      "武士",
+      "剧情"
+    ],
+    "players": "1-2",
+    "tagline": "幕末剑客的掌上物语，故事模式出人意料地丰富",
+    "description": "《月华剑士》是SNK最富文学气质的格斗系列，凄美的幕末故事和行云流水的剑戟动作打动了无数玩家。NGPC版《超越宿命》把这份气质完整地带进了掌机：楓、守矢、雪等角色以Q版造型登场，依然保留了“力”与“技”两种流派选择。\n\n本作最大的亮点是丰富的故事模式，每名角色都有带分支对话的剧情，玩家的选择会影响后续发展与结局，几乎可以当成一部格斗型文字冒险来玩。招式手感扎实。\n\n由于SNK撤出欧美市场，欧版几乎被全部召回，成了NGPC收藏界的珍品。好在如今已在Switch上复刻，任何人都能感受这段幕末浪漫。",
+    "highlights": [
+      "“力”“技”两种流派选择",
+      "带分支选项的丰富故事模式",
+      "Q版造型保留系列剑戟氛围",
+      "欧版遭召回，实体极为稀有"
+    ],
+    "reviews": [
+      {
+        "source": "GameSpot",
+        "score": "7.6/10",
+        "quote": "故事模式充实，是NGPC上不错的格斗作品"
+      },
+      {
+        "source": "IGN",
+        "score": "7.0/10",
+        "quote": "表现扎实，但在同平台格斗游戏中不算突出"
+      }
+    ],
+    "editorScore": 8.3,
+    "is2D": true,
+    "screenshots": [
+      "images/ngp/ngp-last-blade-s1.png",
+      "images/ngp/ngp-last-blade-x1.jpg",
+      "images/ngp/ngp-last-blade-x2.jpg",
+      "images/ngp/ngp-last-blade-title.png"
+    ],
+    "cover": "images/ngp/ngp-last-blade-box.jpg"
+  },
+  {
+    "id": "ngp-biomotor-unitron",
+    "title": "Biomotor Unitron",
+    "titleZh": "生化机甲 尤尼特隆",
+    "titleJa": "バイオモーター ユニトロン",
+    "year": 1999,
+    "developer": "Yumekobo",
+    "publisher": "SNK",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "机甲",
+      "迷宫探索"
+    ],
+    "players": "1",
+    "tagline": "NGPC第一款RPG，打造你的专属机甲闯迷宫",
+    "description": "1999年，NGPC迎来了自己的第一款角色扮演游戏——夢工房开发的《生化机甲 尤尼特隆》。玩家扮演年轻的驾驶员，驾驶名为“尤尼特隆”的机甲深入一座座地下迷宫，收集零件、击败怪物，为小镇解决危机。\n\n游戏的核心乐趣在于机甲改装：头部、手臂、身体、腿部和武器都可以自由组合，不同部件影响攻击、防御与特殊能力，从迷宫里找到稀有零件的那一刻格外兴奋。战斗采用回合制，节奏明快，很适合掌机碎片时间游玩。还支持连接线与朋友对战。\n\nGameSpot称它是NGPC版的《宝可梦》式收集RPG。如果你喜欢装备收集和刷迷宫，这台小机甲会让你停不下来。",
+    "highlights": [
+      "NGPC首款RPG作品",
+      "部件自由组合的机甲改装系统",
+      "迷宫探索与零件收集",
+      "支持连接线对战"
+    ],
+    "reviews": [
+      {
+        "source": "GameSpot",
+        "score": "8.5/10",
+        "quote": "NGPC对《宝可梦》《怪兽农场》类游戏的有力回应"
+      },
+      {
+        "source": "IGN",
+        "score": "7.0/10",
+        "quote": "作为NGPC首款RPG表现合格"
+      }
+    ],
+    "editorScore": 8.2,
+    "is2D": true,
+    "screenshots": [
+      "images/ngp/ngp-biomotor-unitron-s1.png",
+      "images/ngp/ngp-biomotor-unitron-s2.png",
+      "images/ngp/ngp-biomotor-unitron-title.png"
+    ],
+    "cover": "images/ngp/ngp-biomotor-unitron-box.jpg"
+  },
+  {
+    "id": "ngp-samurai-shodown-2",
+    "title": "Samurai Shodown! 2",
+    "titleZh": "侍魂！2",
+    "titleJa": "サムライスピリッツ! 2",
+    "year": 1999,
+    "developer": "Saurus",
+    "publisher": "SNK",
+    "genre": "格斗",
+    "tags": [
+      "像素",
+      "武士",
+      "Q版"
+    ],
+    "players": "1-2",
+    "tagline": "刀光剑影的Q版侍魂，霸王丸在掌心里拔刀",
+    "description": "NGPC彩色机首发的另一员大将，便是《侍魂！2》。霸王丸、娜可露露、橘右京、牙神幻十郎……人气剑客们以圆滚滚的Q版造型登场，却依然刀刀见血、气势十足。\n\n本作在前作基础上增加了角色数量，每名角色都有“修罗”“罗刹”两种风格可选，招式与性能截然不同，相当于角色翻倍。愤怒槽等系列特色也有所保留，一刀定胜负的紧张感在小屏幕上依旧鲜明。\n\nIGN给出了9分的高分。虽然节奏偏慢、门槛稍高，但对侍魂粉丝来说，这是掌机上最地道的一场剑戟决斗。",
+    "highlights": [
+      "修罗、罗刹双风格，角色数量翻倍",
+      "保留愤怒槽等系列系统",
+      "Q版造型细腻可爱",
+      "彩色NGPC首发作品之一"
+    ],
+    "reviews": [
+      {
+        "source": "IGN",
+        "score": "9.0/10",
+        "quote": "掌机上地道的侍魂体验"
+      },
+      {
+        "source": "GameSpot",
+        "score": "6.9/10",
+        "quote": "还原了系列风格，但手感略显迟缓"
+      }
+    ],
+    "editorScore": 8.0,
+    "is2D": true,
+    "screenshots": [
+      "images/ngp/ngp-samurai-shodown-2-s1.png",
+      "images/ngp/ngp-samurai-shodown-2-x1.jpg",
+      "images/ngp/ngp-samurai-shodown-2-x2.jpg",
+      "images/ngp/ngp-samurai-shodown-2-title.png"
+    ],
+    "cover": "images/ngp/ngp-samurai-shodown-2-box.jpg"
+  },
+  {
+    "id": "ngp-snk-gals-fighters",
+    "title": "SNK Gals' Fighters",
+    "titleZh": "SNK美少女格斗",
+    "titleJa": "SNK ギャルズファイターズ",
+    "year": 2000,
+    "developer": "Yumekobo",
+    "publisher": "SNK",
+    "genre": "格斗",
+    "tags": [
+      "像素",
+      "Q版",
+      "女性角色"
+    ],
+    "players": "1-2",
+    "tagline": "SNK女将全员集合，可爱又能打的另类格斗",
+    "description": "不知火舞、娜可露露、雅典娜、香澄、神乐千鹤……SNK各大系列的人气女性角色齐聚一堂，为了争夺“Miss X”大会的冠军大打出手！这款《SNK美少女格斗》是NGPC上风格最轻松搞笑的格斗游戏。\n\n战斗节奏比《拳皇R-2》更快，一对一对决爽快利落；玩家还能收集各种道具装备在角色身上。大会的神秘主办者“Miss X”的真实身份更是让老玩家会心一笑的大彩蛋。角色胜利台词和过场演出都充满恶搞精神。\n\n虽然当年媒体评价平平，但它独特的人设和轻快节奏让它多年来始终拥有一批死忠粉丝，Switch复刻版也收获了不错的口碑。",
+    "highlights": [
+      "SNK各系列人气女角色同台竞技",
+      "节奏更快的一对一对战",
+      "可装备收集来的各种道具",
+      "神秘主办人“Miss X”的恶搞彩蛋"
+    ],
+    "reviews": [
+      {
+        "source": "GameSpot",
+        "score": "6.0/10",
+        "quote": "角色有趣但深度有限"
+      },
+      {
+        "source": "Nintendo Life",
+        "score": "8/10",
+        "quote": "Switch复刻版轻快有趣，个性十足"
+      }
+    ],
+    "editorScore": 7.9,
+    "is2D": true,
+    "screenshots": [
+      "images/ngp/ngp-snk-gals-fighters-s1.png",
+      "images/ngp/ngp-snk-gals-fighters-s2.png",
+      "images/ngp/ngp-snk-gals-fighters-title.png"
+    ],
+    "cover": "images/ngp/ngp-snk-gals-fighters-box.jpg"
+  },
+  {
+    "id": "ngp-dark-arms",
+    "title": "Dark Arms: Beast Buster 1999",
+    "titleZh": "暗黑武器 野兽猎人1999",
+    "titleJa": "ビーストバスター ～闇の生体兵器～",
+    "year": 1999,
+    "developer": "Noise Factory",
+    "publisher": "SNK",
+    "genre": "动作角色扮演",
+    "tags": [
+      "像素",
+      "哥特",
+      "俯视角"
+    ],
+    "players": "1",
+    "tagline": "哥特风猎魔ARPG，用怪物灵魂锻造你的枪",
+    "description": "1999年世纪末，城市被不死怪物占领——这款《暗黑武器》把SNK街机光枪游戏《野兽猎人》的世界观改编成了一款俯视角动作RPG，充满了黑暗哥特的气息。\n\n玩家手持枪械在墓地、城堡与地下城中猎杀怪物，击败敌人后可以收集它们的灵魂，用来“培育”和进化武器。不同灵魂会让枪械演化出完全不同的形态和能力，这种养成系统在当年相当新颖。一路上还要与神秘的“死神”打交道，剧情暗黑又带点诙谐。\n\n评价褒贬不一：有人赞赏它的创意和氛围，有人嫌流程偏短。但对喜欢俯视角ARPG和暗黑题材的玩家来说，它是NGPC上独一无二的选择。",
+    "highlights": [
+      "俯视角射击式动作RPG",
+      "收集灵魂进化武器的独特养成系统",
+      "黑暗哥特风格的世界观",
+      "源自SNK街机《野兽猎人》"
+    ],
+    "reviews": [
+      {
+        "source": "GameSpot",
+        "score": "7.0/10",
+        "quote": "带有哥特氛围的精巧小品RPG"
+      },
+      {
+        "source": "CVG",
+        "score": "4/5",
+        "quote": "创意十足、风格鲜明的掌机动作游戏"
+      },
+      {
+        "source": "IGN",
+        "score": "5/10",
+        "quote": "点子很多，但最终只是一款平庸的游戏"
+      }
+    ],
+    "editorScore": 7.8,
+    "is2D": true,
+    "screenshots": [
+      "images/ngp/ngp-dark-arms-s1.png",
+      "images/ngp/ngp-dark-arms-x1.jpg",
+      "images/ngp/ngp-dark-arms-x2.jpg",
+      "images/ngp/ngp-dark-arms-title.png"
+    ],
+    "cover": "images/ngp/ngp-dark-arms-box.jpg"
+  },
+  {
+    "id": "ngp-magical-drop-pocket",
+    "title": "Magical Drop Pocket",
+    "titleZh": "魔法水滴 口袋版",
+    "titleJa": "マジカルドロップ ポケット",
+    "year": 1999,
+    "developer": "Data East",
+    "publisher": "SNK",
+    "genre": "解谜",
+    "tags": [
+      "像素",
+      "消除",
+      "塔罗牌"
+    ],
+    "players": "1-2",
+    "tagline": "抓起、扔回、连锁！手速派消除游戏的掌机版",
+    "description": "Data East的《魔法水滴》是街机厅里最考验手速的消除游戏：彩色水滴从屏幕上方不断压下，玩家要抓起同色水滴再扔回去，凑够三个即可消除，连锁越多，对手那边的压力就越大。\n\n口袋版把这套高速玩法完整搬上了NGPC，以塔罗牌为原型的角色们也悉数登场，各自拥有不同的攻击模式。NGPC摇杆左右移动的精准度让抓放动作非常顺手，越玩越停不下来。\n\n它也许没有魔法气泡那样的名气，但论刺激程度毫不逊色。喜欢快节奏消除的玩家，一定要试试这款被埋没的佳作。",
+    "highlights": [
+      "抓取扔回的独特消除玩法",
+      "塔罗牌主题角色各具特色",
+      "高速连锁带来强烈爽快感",
+      "支持连接线双人对战"
+    ],
+    "reviews": [],
+    "editorScore": 7.8,
+    "is2D": true,
+    "screenshots": [
+      "images/ngp/ngp-magical-drop-pocket-s1.png",
+      "images/ngp/ngp-magical-drop-pocket-s2.png",
+      "images/ngp/ngp-magical-drop-pocket-title.png"
+    ],
+    "cover": "images/ngp/ngp-magical-drop-pocket-box.jpg"
+  },
+  {
+    "id": "ngp-puzzle-bobble-mini",
+    "title": "Puzzle Bobble Mini",
+    "titleZh": "泡泡龙迷你版",
+    "titleJa": "パズルボブル ミニ",
+    "year": 1999,
+    "developer": "Ukiyotei",
+    "publisher": "SNK",
+    "genre": "解谜",
+    "tags": [
+      "像素",
+      "射击消除",
+      "休闲"
+    ],
+    "players": "1-2",
+    "tagline": "泡泡龙装进口袋，随时随地来一发",
+    "description": "泡泡龙大概是全世界最容易上手的益智游戏：瞄准、发射、三个同色泡泡相连即可消除。NGPC上的《泡泡龙迷你版》（北美名《Bust-A-Move Pocket》）把这份简单的快乐装进了口袋。\n\n游戏收录了大量关卡和对战模式，可爱的泡泡龙兄弟依然操作着发射器，配合NGPC的摇杆瞄准反弹角度非常精准。利用墙壁反弹打出一大串掉落，那一刻的爽快感永远不会过时。\n\n虽然内容上没有太多新意，但作为掌机上的“杀时间神器”，它依然是NGPC玩家必备的一盘卡带。",
+    "highlights": [
+      "经典泡泡龙玩法完整移植",
+      "大量关卡与对战模式",
+      "摇杆瞄准精准顺手",
+      "适合碎片时间的轻松益智游戏"
+    ],
+    "reviews": [
+      {
+        "source": "GameSpot",
+        "score": "6.6/10",
+        "quote": "原汁原味，但缺少新意的移植"
+      }
+    ],
+    "editorScore": 7.7,
+    "is2D": true,
+    "screenshots": [
+      "images/ngp/ngp-puzzle-bobble-mini-s1.png",
+      "images/ngp/ngp-puzzle-bobble-mini-s2.png",
+      "images/ngp/ngp-puzzle-bobble-mini-title.png"
+    ],
+    "cover": "images/ngp/ngp-puzzle-bobble-mini-box.jpg"
+  },
+  {
+    "id": "ngp-fatal-fury-first-contact",
+    "title": "Fatal Fury: First Contact",
+    "titleZh": "饿狼传说 初次接触",
+    "titleJa": "餓狼伝説 FIRST CONTACT",
+    "year": 1999,
+    "developer": "SNK",
+    "publisher": "SNK",
+    "genre": "格斗",
+    "tags": [
+      "像素",
+      "Q版",
+      "南镇"
+    ],
+    "players": "1-2",
+    "tagline": "南镇恶狼的掌机初登场，以《真实之狼》为蓝本",
+    "description": "特瑞、安迪、不知火舞、洛克……《饿狼传说》系列首次登陆NGPC，便以《Real Bout饿狼传说2》为蓝本，把南镇的狼们统统Q版化。\n\n本作保留了系列标志性的超必杀技，招式还原度很高；操作被精简成适合掌机的两键形式，上手轻松。与《拳皇R-2》相比，它的角色数量较少，但每名角色都打磨得相当细致。\n\n媒体评价中规中矩，不过对饿狼系列迷而言，这依然是一盘手感扎实、值得收藏的掌机格斗游戏。",
+    "highlights": [
+      "以《Real Bout饿狼传说2》为蓝本",
+      "保留系列招牌超必杀技",
+      "两键操作，掌机上手轻松",
+      "特瑞、洛克等人气角色Q版登场"
+    ],
+    "reviews": [
+      {
+        "source": "GameSpot",
+        "score": "7.0/10",
+        "quote": "扎实但缺少惊喜的掌机格斗游戏"
+      },
+      {
+        "source": "IGN",
+        "score": "7.0/10",
+        "quote": "还原度不错，但内容略显单薄"
+      }
+    ],
+    "editorScore": 7.6,
+    "is2D": true,
+    "screenshots": [
+      "images/ngp/ngp-fatal-fury-first-contact-s1.png",
+      "images/ngp/ngp-fatal-fury-first-contact-x1.jpg",
+      "images/ngp/ngp-fatal-fury-first-contact-x2.jpg",
+      "images/ngp/ngp-fatal-fury-first-contact-title.png"
+    ],
+    "cover": "images/ngp/ngp-fatal-fury-first-contact-box.jpg"
+  },
+  {
+    "id": "ngp-neo-turf-masters",
+    "title": "Neo Turf Masters",
+    "titleZh": "Neo高尔夫大师",
+    "titleJa": "ビッグトーナメントゴルフ",
+    "year": 1999,
+    "developer": "Saurus",
+    "publisher": "SNK",
+    "genre": "体育",
+    "tags": [
+      "像素",
+      "高尔夫",
+      "街机风"
+    ],
+    "players": "1-2",
+    "tagline": "街机名作高尔夫掌机版，三下按键打出好球",
+    "description": "Neo Geo上的《Neo Turf Masters》以快节奏、夸张的街机风格高尔夫闻名。NGPC版虽然改成了更卡通化的画风，却保留了原作最核心的爽快感：风向、坡度、球场地形一目了然。\n\n游戏收录多个世界各地的球场，比杆赛、比洞赛模式俱全，还能用连接线与朋友对决。一局节奏飞快，完全不像传统高尔夫游戏那样拖沓，非常适合掌机随拿随玩。\n\n如果你一直觉得高尔夫游戏太闷，这款街机风的掌上版本或许会改变你的看法。",
+    "highlights": [
+      "街机风格的快节奏高尔夫",
+      "多个世界各地的球场",
+      "比杆赛与比洞赛模式",
+      "支持连接线双人对战"
+    ],
+    "reviews": [
+      {
+        "source": "GameSpot",
+        "score": "7.2/10",
+        "quote": "保留了原作快节奏乐趣的不错移植"
+      }
+    ],
+    "editorScore": 7.5,
+    "is2D": true,
+    "screenshots": [
+      "images/ngp/ngp-neo-turf-masters-s1.png",
+      "images/ngp/ngp-neo-turf-masters-x1.jpg",
+      "images/ngp/ngp-neo-turf-masters-x2.jpg",
+      "images/ngp/ngp-neo-turf-masters-title.png"
+    ],
+    "cover": "images/ngp/ngp-neo-turf-masters-box.jpg"
+  },
+  {
+    "id": "ngp-evolution",
+    "title": "Evolution: Eternal Dungeons",
+    "titleZh": "神机世界进化 无尽迷宫",
+    "titleJa": "神機世界エヴォリューション 果てしないダンジョン",
+    "year": 2000,
+    "developer": "SNK",
+    "publisher": "SNK",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "迷宫探索",
+      "随机地牢"
+    ],
+    "players": "1",
+    "tagline": "DC冒险RPG的掌机外传，挑战永不重复的迷宫",
+    "description": "《神机世界进化》原本是Sting在DC上开发的冒险RPG，主角麦格·朗查带着他的“神机”和伙伴们深入遗迹寻宝。NGPC版《无尽迷宫》则将其改编为一款精简的掌机地牢探索游戏。\n\n每次进入地牢，地图都会随机生成，玩家需要一边收集道具和装备，一边与怪物展开回合制战斗，层层深入。原作中可爱的角色和机械蒸汽朋克风格的世界观都被保留了下来，像素表现相当讨喜。\n\n它的系统不算复杂，却很适合掌机随时游玩。喜欢“不可思议迷宫”式随机地牢的玩家，可以把它当成一部轻量级的小品来享受。",
+    "highlights": [
+      "DC作品《神机世界进化》的掌机外传",
+      "随机生成的地牢迷宫",
+      "回合制战斗与道具收集",
+      "蒸汽朋克风格的可爱角色"
+    ],
+    "reviews": [],
+    "editorScore": 7.3,
+    "is2D": true,
+    "screenshots": [
+      "images/ngp/ngp-evolution-s1.png",
+      "images/ngp/ngp-evolution-title.png"
+    ],
+    "cover": "images/ngp/ngp-evolution-box.jpg"
+  },
+  {
+    "id": "ngp-rockman-battle-fighters",
+    "title": "Rockman Battle & Fighters",
+    "titleZh": "洛克人 战斗与战士",
+    "titleJa": "ロックマン バトル&ファイターズ",
+    "year": 2000,
+    "developer": "Capcom",
+    "publisher": "SNK",
+    "genre": "动作",
+    "tags": [
+      "像素",
+      "Boss连战",
+      "日版限定"
+    ],
+    "players": "1",
+    "tagline": "街机洛克人两部曲的掌上合集，专打Boss的爽快之旅",
+    "description": "卡普空在街机上推出过两部罕见的洛克人作品——《The Power Battle》与《The Power Fighters》，玩法是不再跳关卡，直接与历代机器人Boss轮番对决。NGPC上的《战斗与战士》把这两部作品合二为一，是卡普空与SNK合作时期的珍稀产物。\n\n玩家可选择洛克人、布鲁斯等角色，打倒Boss后获得特殊武器，继续挑战下一个对手，熟悉的弱点相克规律依旧有效。小小的彩色屏幕下依然保留了系列明快的动作感。\n\n受限于硬件，画面与流畅度不及街机，Fami通评价也偏低；但作为洛克人系列中的稀有分支、日版限定作品，它对系列粉丝来说仍有不小的收藏意义。",
+    "highlights": [
+      "收录街机两部《洛克人》对战作品",
+      "历代机器人Boss轮番登场",
+      "特殊武器相克的经典乐趣",
+      "卡普空与SNK合作时期的日版限定作"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "23/40",
+        "quote": "移植有趣，但整体表现不及街机原作"
+      }
+    ],
+    "editorScore": 7.2,
+    "is2D": true,
+    "screenshots": [
+      "images/ngp/ngp-rockman-battle-fighters-s1.png",
+      "images/ngp/ngp-rockman-battle-fighters-x1.jpg",
+      "images/ngp/ngp-rockman-battle-fighters-x2.jpg",
+      "images/ngp/ngp-rockman-battle-fighters-title.png"
+    ],
+    "cover": "images/ngp/ngp-rockman-battle-fighters-box.jpg"
+  },
+  {
+    "id": "ngp-pac-man",
+    "title": "Pac-Man",
+    "titleZh": "吃豆人",
+    "titleJa": "パックマン",
+    "year": 1999,
+    "developer": "Namco",
+    "publisher": "SNK",
+    "genre": "动作",
+    "tags": [
+      "像素",
+      "迷宫",
+      "街机经典"
+    ],
+    "players": "1",
+    "tagline": "史上最著名的黄色圆球，掌上原汁原味",
+    "description": "一个张着大嘴的黄色圆球，四只性格各异的幽灵，一座布满豆子的迷宫——这就是改变电子游戏史的《吃豆人》。NGPC版完整还原了1980年街机原作的规则：吃光所有豆子过关，吃到能量豆便能反过来追击幽灵。\n\n由于NGPC屏幕分辨率有限，游戏提供了缩放与卷轴两种显示方式，可根据喜好切换。NGPC那颗手感一流的微动摇杆，让在迷宫中拐弯躲避幽灵变得格外精准，这一点甚至胜过不少其他掌机版本。\n\n内容很简单，没有任何新增要素，但经典就是经典——在掌心里追逐一盘高分，依然是最纯粹的游戏乐趣。",
+    "highlights": [
+      "1980年街机原作完整移植",
+      "可切换的缩放/卷轴显示方式",
+      "微动摇杆让转弯操作精准",
+      "纯粹的高分挑战"
+    ],
+    "reviews": [
+      {
+        "source": "GameSpot",
+        "score": "4.9/10",
+        "quote": "移植忠实，但内容过于单薄"
+      }
+    ],
+    "editorScore": 7.0,
+    "is2D": true,
+    "screenshots": [
+      "images/ngp/ngp-pac-man-s1.png",
+      "images/ngp/ngp-pac-man-x1.jpg",
+      "images/ngp/ngp-pac-man-x2.jpg",
+      "images/ngp/ngp-pac-man-title.png"
+    ],
+    "cover": "images/ngp/ngp-pac-man-box.jpg"
+  }
+]

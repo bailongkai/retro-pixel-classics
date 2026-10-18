@@ -43,10 +43,12 @@
     "editorScore": 9.7,
     "is2D": true,
     "screenshots": [
-      "images/gb/gb-links-awakening-dx-2.png",
-      "images/gb/gb-links-awakening-dx-1.png"
+      "images/gb/gb-links-awakening-dx-s1.png",
+      "images/gb/gb-links-awakening-dx-s2.png",
+      "images/gb/gb-links-awakening-dx-s3.png",
+      "images/gb/gb-links-awakening-dx-title.png"
     ],
-    "coverShot": true
+    "cover": "images/gb/gb-links-awakening-dx-box.jpg"
   },
   {
     "id": "gb-pokemon-gold-silver",
@@ -92,9 +94,60 @@
     "editorScore": 9.6,
     "is2D": true,
     "screenshots": [
-      "images/gb/gb-pokemon-gold-silver-1.png"
+      "images/gb/gb-pokemon-gold-silver-s1.png",
+      "images/gb/gb-pokemon-gold-silver-x1.png",
+      "images/gb/gb-pokemon-gold-silver-title.png"
     ],
-    "coverShot": true
+    "cover": "images/gb/gb-pokemon-gold-silver-box.jpg"
+  },
+  {
+    "id": "gb-pokemon-crystal",
+    "title": "Pokémon Crystal",
+    "titleZh": "精灵宝可梦 水晶",
+    "titleJa": "ポケットモンスター クリスタルバージョン",
+    "year": 2000,
+    "developer": "Game Freak",
+    "publisher": "Nintendo",
+    "genre": "角色扮演",
+    "tags": [
+      "收集",
+      "养成",
+      "动画演出"
+    ],
+    "players": "1-2",
+    "tagline": "金银的究极强化版，GBC宝可梦的完全体",
+    "description": "如果说《金·银》是一场惊喜，那么《水晶》就是把这份惊喜打磨到闪闪发光。系列首次可以选择女主角，宝可梦登场时会有出场动画，水君成为剧情核心，城都的传说之旅更加完整。\n\n新增的“对战塔”让通关后的玩家有了磨练队伍的去处，部分宝可梦的出现地点也重新调整，收集起来更顺手。日版还支持手机通信适配器“移动系统GB”，在当年堪称黑科技。\n\n想要只玩一款第二世代？选它准没错。城都的枫叶、铃铛塔与那首温柔的若叶镇BGM，依然值得在今天再听一遍。",
+    "highlights": [
+      "系列首次可选女主角",
+      "宝可梦出场动画首次登场",
+      "水君与传说之谜的新剧情",
+      "新增对战塔挑战"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "34/40",
+        "quote": "在金银基础上全面强化，诚意十足"
+      },
+      {
+        "source": "IGN",
+        "score": "9/10",
+        "quote": "最完整的第二世代宝可梦体验"
+      },
+      {
+        "source": "GameSpot",
+        "score": "8.4/10",
+        "quote": "新要素不多但足够让老玩家重温"
+      }
+    ],
+    "editorScore": 9.4,
+    "is2D": true,
+    "screenshots": [
+      "images/gb/gb-pokemon-crystal-s1.png",
+      "images/gb/gb-pokemon-crystal-s2.png",
+      "images/gb/gb-pokemon-crystal-title.png"
+    ],
+    "cover": "images/gb/gb-pokemon-crystal-box.jpg"
   },
   {
     "id": "gb-zelda-oracle",
@@ -139,10 +192,12 @@
     "editorScore": 9.3,
     "is2D": true,
     "screenshots": [
-      "images/gb/gb-zelda-oracle-1.png",
-      "images/gb/gb-zelda-oracle-2.png"
+      "images/gb/gb-zelda-oracle-s1.png",
+      "images/gb/gb-zelda-oracle-s2.png",
+      "images/gb/gb-zelda-oracle-x1.png",
+      "images/gb/gb-zelda-oracle-title.png"
     ],
-    "coverShot": true
+    "cover": "images/gb/gb-zelda-oracle-box.jpg"
   },
   {
     "id": "gb-pokemon-red-green",
@@ -188,9 +243,12 @@
     "editorScore": 9.2,
     "is2D": true,
     "screenshots": [
-      "images/gb/gb-pokemon-red-green-1.png"
+      "images/gb/gb-pokemon-red-green-s1.png",
+      "images/gb/gb-pokemon-red-green-s2.png",
+      "images/gb/gb-pokemon-red-green-x1.png",
+      "images/gb/gb-pokemon-red-green-title.png"
     ],
-    "coverShot": true
+    "cover": "images/gb/gb-pokemon-red-green-box.jpg"
   },
   {
     "id": "gb-tetris",
@@ -235,9 +293,12 @@
     "editorScore": 9.2,
     "is2D": true,
     "screenshots": [
-      "images/gb/gb-tetris-1.png"
+      "images/gb/gb-tetris-s1.png",
+      "images/gb/gb-tetris-s2.png",
+      "images/gb/gb-tetris-x1.png",
+      "images/gb/gb-tetris-title.png"
     ],
-    "coverShot": true
+    "cover": "images/gb/gb-tetris-box.jpg"
   },
   {
     "id": "gb-final-fantasy-adventure",
@@ -283,10 +344,11 @@
     "editorScore": 9.0,
     "is2D": true,
     "screenshots": [
-      "images/gb/gb-final-fantasy-adventure-1.png",
-      "images/gb/gb-final-fantasy-adventure-2.png"
+      "images/gb/gb-final-fantasy-adventure-s1.png",
+      "images/gb/gb-final-fantasy-adventure-s2.png",
+      "images/gb/gb-final-fantasy-adventure-title.png"
     ],
-    "coverShot": true
+    "cover": "images/gb/gb-final-fantasy-adventure-box.jpg"
   },
   {
     "id": "gb-wario-land-3",
@@ -331,9 +393,158 @@
     "editorScore": 9.0,
     "is2D": true,
     "screenshots": [
-      "images/gb/gb-wario-land-3-1.jpg"
+      "images/gb/gb-wario-land-3-s1.png",
+      "images/gb/gb-wario-land-3-x1.png",
+      "images/gb/gb-wario-land-3-title.png"
     ],
-    "coverShot": false
+    "cover": "images/gb/gb-wario-land-3-box.jpg"
+  },
+  {
+    "id": "gb-pokemon-yellow",
+    "title": "Pokémon Yellow: Special Pikachu Edition",
+    "titleZh": "精灵宝可梦 皮卡丘版（黄）",
+    "titleJa": "ポケットモンスター ピカチュウ",
+    "year": 1998,
+    "developer": "Game Freak",
+    "publisher": "Nintendo",
+    "genre": "角色扮演",
+    "tags": [
+      "收集",
+      "皮卡丘",
+      "动画联动"
+    ],
+    "players": "1-2",
+    "tagline": "皮卡丘跟在身后，动画迷的梦想成真",
+    "description": "还记得动画里那只死活不肯进精灵球的皮卡丘吗？《皮卡丘版》把它搬进了游戏：开局只能选皮卡丘，它会一路跟在主角身后，回头一按A键还能看到它开心或生气的表情！\n\n剧情向动画靠拢，火箭队的武藏、小次郎和喵喵亲自登场捣乱，小刚、小霞等道馆馆主的造型也换成了动画版。御三家可以在冒险途中陆续入手，配合超级Game Boy与GBC还会自动上色，比初代更亮丽。\n\n对于想重温关都之旅的玩家，这是最温馨、最有“动画味”的版本。",
+    "highlights": [
+      "皮卡丘跟随系统，可查看心情",
+      "火箭队三人组按动画登场",
+      "御三家可在冒险中全部取得",
+      "皮卡丘冲浪小游戏"
+    ],
+    "reviews": [
+      {
+        "source": "IGN",
+        "score": "10/10",
+        "quote": "为初代注入新鲜感的最佳版本"
+      },
+      {
+        "source": "GameSpot",
+        "score": "8.9/10",
+        "quote": "粉丝向的改动令人会心一笑"
+      },
+      {
+        "source": "GBOM",
+        "score": "95%",
+        "quote": "最适合入门的宝可梦"
+      }
+    ],
+    "editorScore": 9.0,
+    "is2D": true,
+    "screenshots": [
+      "images/gb/gb-pokemon-yellow-s1.png",
+      "images/gb/gb-pokemon-yellow-s2.png",
+      "images/gb/gb-pokemon-yellow-title.png"
+    ],
+    "cover": "images/gb/gb-pokemon-yellow-box.jpg"
+  },
+  {
+    "id": "gb-gargoyles-quest",
+    "title": "Gargoyle's Quest",
+    "titleZh": "魔界村外传 红色恶魔",
+    "titleJa": "レッドアリーマー 魔界村外伝",
+    "year": 1990,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genre": "动作角色扮演",
+    "tags": [
+      "横版",
+      "RPG探索",
+      "魔界村"
+    ],
+    "players": "1",
+    "tagline": "让玩家又爱又恨的红魔鬼，这次当主角！",
+    "description": "在《魔界村》里把无数玩家虐到摔手柄的红色恶魔“雷德·阿利马”，这次摇身一变成了拯救魔界的英雄！卡普空把俯视角RPG式的地图探索、村落对话与横版动作关卡巧妙融合，形成了独树一帜的玩法。\n\n雷德可以在墙上攀附、短暂滞空飞行，随着冒险推进，飞行时间、跳跃力与火球种类都会成长，原本过不去的悬崖与尖刺也就迎刃而解。动作关卡难度扎实却不失公平，颇有卡普空的硬派风骨。\n\n这款作品后来衍生出FC续作与SFC的《魔界村外传 恶魔战士》，是2D动作迷绝不能错过的掌机名作。",
+    "highlights": [
+      "俯视角大地图与横版动作关卡结合",
+      "贴墙、滞空飞行的独特操作",
+      "能力随冒险逐步成长",
+      "卡普空式扎实手感与关卡设计"
+    ],
+    "reviews": [
+      {
+        "source": "Nintendo Life",
+        "score": "9/10",
+        "quote": "Game Boy上最出色的动作游戏之一"
+      },
+      {
+        "source": "Player One",
+        "score": "92%",
+        "quote": "动作与RPG元素的绝妙结合"
+      },
+      {
+        "source": "Consoles+",
+        "score": "96%",
+        "quote": "卡普空在掌机上的杰作"
+      }
+    ],
+    "editorScore": 8.9,
+    "is2D": true,
+    "screenshots": [
+      "images/gb/gb-gargoyles-quest-s1.png",
+      "images/gb/gb-gargoyles-quest-title.png"
+    ],
+    "cover": "images/gb/gb-gargoyles-quest-box.jpg"
+  },
+  {
+    "id": "gb-dragon-warrior-3",
+    "title": "Dragon Warrior III",
+    "titleZh": "勇者斗恶龙III（GBC版）",
+    "titleJa": "ドラゴンクエストIII そして伝説へ…",
+    "year": 2000,
+    "developer": "Tose",
+    "publisher": "Enix",
+    "genre": "角色扮演",
+    "tags": [
+      "回合制",
+      "转职",
+      "日式RPG"
+    ],
+    "players": "1",
+    "tagline": "“然后成为传说”，转职系统的不朽名作",
+    "description": "《DQIII》在日本是国民级的存在，当年发售日甚至让学生翘课排队。GBC版以SFC重制版为基础，在小小掌机里完整重现了阿里阿罕的冒险：在酒馆招募战士、僧侣、魔法使、商人，组成属于你的四人小队。\n\n转职、性格、昼夜交替、环游世界寻找六颗宝珠——自由度在当年无出其右。GBC版还加入了怪物奖章收集与新的隐藏迷宫，内容量相当可观。\n\n当你在结局看到与《DQI》相连的那句“然后成为传说……”，鸡皮疙瘩一定会起来。这是每个RPG迷都该亲历一次的旅程。",
+    "highlights": [
+      "职业转职与性格系统",
+      "昼夜交替的开放世界冒险",
+      "追加怪物奖章与隐藏迷宫",
+      "与DQ1相连的经典剧情"
+    ],
+    "reviews": [
+      {
+        "source": "IGN",
+        "score": "10/10",
+        "quote": "GBC上最好的RPG之一"
+      },
+      {
+        "source": "Fami通",
+        "score": "30/40",
+        "quote": "忠实移植了名作的魅力"
+      },
+      {
+        "source": "GameSpot",
+        "score": "7.6/10",
+        "quote": "内容丰富但画面略显朴素"
+      }
+    ],
+    "editorScore": 8.9,
+    "is2D": true,
+    "screenshots": [
+      "images/gb/gb-dragon-warrior-3-s1.png",
+      "images/gb/gb-dragon-warrior-3-s2.png",
+      "images/gb/gb-dragon-warrior-3-x1.png",
+      "images/gb/gb-dragon-warrior-3-title.png"
+    ],
+    "cover": "images/gb/gb-dragon-warrior-3-box.jpg"
   },
   {
     "id": "gb-metal-gear-ghost-babel",
@@ -378,10 +589,12 @@
     "editorScore": 8.8,
     "is2D": true,
     "screenshots": [
-      "images/gb/gb-metal-gear-ghost-babel-1.png",
-      "images/gb/gb-metal-gear-ghost-babel-2.png"
+      "images/gb/gb-metal-gear-ghost-babel-s1.png",
+      "images/gb/gb-metal-gear-ghost-babel-s2.png",
+      "images/gb/gb-metal-gear-ghost-babel-s3.png",
+      "images/gb/gb-metal-gear-ghost-babel-title.png"
     ],
-    "coverShot": true
+    "cover": "images/gb/gb-metal-gear-ghost-babel-box.jpg"
   },
   {
     "id": "gb-super-mario-land-2",
@@ -426,10 +639,59 @@
     "editorScore": 8.8,
     "is2D": true,
     "screenshots": [
-      "images/gb/gb-super-mario-land-2-1.png",
-      "images/gb/gb-super-mario-land-2-2.jpg"
+      "images/gb/gb-super-mario-land-2-s1.png",
+      "images/gb/gb-super-mario-land-2-s2.png",
+      "images/gb/gb-super-mario-land-2-title.png"
     ],
-    "coverShot": true
+    "cover": "images/gb/gb-super-mario-land-2-box.jpg"
+  },
+  {
+    "id": "gb-dragon-warrior-1-2",
+    "title": "Dragon Warrior I & II",
+    "titleZh": "勇者斗恶龙 I·II（GBC版）",
+    "titleJa": "ドラゴンクエストI・II",
+    "year": 1999,
+    "developer": "Tose",
+    "publisher": "Enix",
+    "genre": "角色扮演",
+    "tags": [
+      "回合制",
+      "日式RPG",
+      "复刻"
+    ],
+    "players": "1",
+    "tagline": "罗特三部曲的起点，掌上重温勇者传说",
+    "description": "日式RPG的原点，就藏在这块小卡带里。GBC版以SFC版《DQ I·II》为基础移植，罗德之子单挑龙王、罗特的子孙三人组讨伐破坏神席德——两部经典一次收录。\n\n画面换上了更鲜艳的色彩，菜单与操作更顺手，楼梯可自动上下，练级节奏也调整得更轻快；还可以随时中断存档，最适合放在口袋里慢慢刷。鸟山明的怪物、椙山浩一的旋律，在GBC的小喇叭里依然动人。\n\n想追溯日式RPG“村庄—野外—迷宫—魔王”这套黄金公式的源头？从这里开始最合适。",
+    "highlights": [
+      "一盘收录DQ1与DQ2",
+      "以SFC版为蓝本的色彩重制",
+      "快节奏的升级与便利化操作",
+      "随时中断存档，掌机友好"
+    ],
+    "reviews": [
+      {
+        "source": "IGN",
+        "score": "9.6/10",
+        "quote": "经典RPG的绝佳掌机复刻"
+      },
+      {
+        "source": "Fami通",
+        "score": "30/40",
+        "quote": "移植完成度高，适合重温"
+      },
+      {
+        "source": "GameSpot",
+        "score": "8/10",
+        "quote": "老派但依然好玩的RPG合集"
+      }
+    ],
+    "editorScore": 8.8,
+    "is2D": true,
+    "screenshots": [
+      "images/gb/gb-dragon-warrior-1-2-s1.png",
+      "images/gb/gb-dragon-warrior-1-2-title.png"
+    ],
+    "cover": "images/gb/gb-dragon-warrior-1-2-box.jpg"
   },
   {
     "id": "gb-donkey-kong-94",
@@ -474,10 +736,11 @@
     "editorScore": 8.7,
     "is2D": true,
     "screenshots": [
-      "images/gb/gb-donkey-kong-94-1.png",
-      "images/gb/gb-donkey-kong-94-2.jpg"
+      "images/gb/gb-donkey-kong-94-s1.png",
+      "images/gb/gb-donkey-kong-94-s2.png",
+      "images/gb/gb-donkey-kong-94-title.png"
     ],
-    "coverShot": true
+    "cover": "images/gb/gb-donkey-kong-94-box.jpg"
   },
   {
     "id": "gb-kaeru-no-tame",
@@ -518,9 +781,12 @@
     "editorScore": 8.6,
     "is2D": true,
     "screenshots": [
-      "images/gb/gb-kaeru-no-tame-1.png"
+      "images/gb/gb-kaeru-no-tame-s1.png",
+      "images/gb/gb-kaeru-no-tame-x1.png",
+      "images/gb/gb-kaeru-no-tame-x2.png",
+      "images/gb/gb-kaeru-no-tame-title.png"
     ],
-    "coverShot": false
+    "cover": "images/gb/gb-kaeru-no-tame-box.jpg"
   },
   {
     "id": "gb-dragon-warrior-monsters",
@@ -565,9 +831,110 @@
     "editorScore": 8.6,
     "is2D": true,
     "screenshots": [
-      "images/gb/gb-dragon-warrior-monsters-1.jpg"
+      "images/gb/gb-dragon-warrior-monsters-s1.png",
+      "images/gb/gb-dragon-warrior-monsters-x1.png",
+      "images/gb/gb-dragon-warrior-monsters-x2.png",
+      "images/gb/gb-dragon-warrior-monsters-title.png"
     ],
-    "coverShot": false
+    "cover": "images/gb/gb-dragon-warrior-monsters-box.jpg"
+  },
+  {
+    "id": "gb-mario-golf",
+    "title": "Mario Golf",
+    "titleZh": "马力欧高尔夫GB",
+    "titleJa": "マリオゴルフGB",
+    "year": 1999,
+    "developer": "Camelot Software Planning",
+    "publisher": "Nintendo",
+    "genre": "体育",
+    "tags": [
+      "高尔夫",
+      "RPG养成",
+      "Camelot"
+    ],
+    "players": "1-2",
+    "tagline": "高尔夫遇上RPG，Camelot的掌机奇迹",
+    "description": "谁能想到一款高尔夫游戏会让人一口气玩上几十个小时？Camelot在GBC版《马力欧高尔夫》中加入了完整的RPG剧情模式：选择一位新人球手，入住高尔夫学院，在四个俱乐部中挑战对手、积累经验值，一步步升级能力。\n\n击球系统简单易懂又讲究技术，风向、地形、旋转都要考虑。在剧情中与各俱乐部的冠军对决，最终挑战马力欧本人，成就感十足。还能通过64传输包与N64版联动，把练出来的角色带到大屏幕上。\n\nIGN当年给出满分。如果你喜欢“练级”的快感，这款运动RPG会让你欲罢不能。",
+    "highlights": [
+      "运动+RPG养成的剧情模式",
+      "四大俱乐部挑战与能力成长",
+      "可与N64版通过传输包联动",
+      "操作简单，深度十足"
+    ],
+    "reviews": [
+      {
+        "source": "IGN",
+        "score": "10/10",
+        "quote": "掌机上最好的运动游戏之一"
+      },
+      {
+        "source": "Fami通",
+        "score": "30/40",
+        "quote": "RPG元素让高尔夫更加耐玩"
+      },
+      {
+        "source": "Computer and Video Games",
+        "score": "5/5",
+        "quote": "令人上瘾的杰作"
+      }
+    ],
+    "editorScore": 8.6,
+    "is2D": true,
+    "screenshots": [
+      "images/gb/gb-mario-golf-s1.png",
+      "images/gb/gb-mario-golf-s2.png",
+      "images/gb/gb-mario-golf-title.png"
+    ],
+    "cover": "images/gb/gb-mario-golf-box.jpg"
+  },
+  {
+    "id": "gb-wario-land-2",
+    "title": "Wario Land II",
+    "titleZh": "瓦力欧大陆2",
+    "titleJa": "ワリオランド2 盗まれた財宝",
+    "year": 1998,
+    "developer": "Nintendo R&D1",
+    "publisher": "Nintendo",
+    "genre": "平台跳跃",
+    "tags": [
+      "横版",
+      "不死设定",
+      "多结局"
+    ],
+    "players": "1",
+    "tagline": "瓦力欧不会死！分支路线的寻宝狂欢",
+    "description": "瓦力欧的城堡被糖果海盗团洗劫一空，这位贪财的大叔怒而出征！从本作开始，瓦力欧彻底“不会死”：被打只会掉金币，被火烧会变成火球，被压扁可以飘起来——这些状态变化正是解谜的关键。\n\n游戏拥有多条分支路线与隐藏结局，同一关卡用不同方式通关会导向不同的故事走向，满满的探索与收集要素。GBC版加入了彩色画面，表现更加生动。\n\n它奠定了《瓦力欧大陆3》的玩法基础，节奏轻松幽默，非常适合喜欢解谜型平台游戏的玩家。",
+    "highlights": [
+      "“不会死”的状态变化系统首次登场",
+      "分支路线与多个隐藏结局",
+      "大量收集与探索要素",
+      "GBC彩色版画面更生动"
+    ],
+    "reviews": [
+      {
+        "source": "IGN",
+        "score": "9/10",
+        "quote": "（GBC版）创意十足的平台游戏"
+      },
+      {
+        "source": "EGM",
+        "score": "34/40",
+        "quote": "当月最佳游戏，新颖玩法令人惊喜"
+      },
+      {
+        "source": "Nintendo Life",
+        "score": "9/10",
+        "quote": "系列转型之作，至今依然出色"
+      }
+    ],
+    "editorScore": 8.6,
+    "is2D": true,
+    "screenshots": [
+      "images/gb/gb-wario-land-2-s1.png",
+      "images/gb/gb-wario-land-2-s2.png",
+      "images/gb/gb-wario-land-2-title.png"
+    ],
+    "cover": "images/gb/gb-wario-land-2-box.jpg"
   },
   {
     "id": "gb-kirbys-dream-land-2",
@@ -612,10 +979,157 @@
     "editorScore": 8.5,
     "is2D": true,
     "screenshots": [
-      "images/gb/gb-kirbys-dream-land-2-1.png",
-      "images/gb/gb-kirbys-dream-land-2-2.png"
+      "images/gb/gb-kirbys-dream-land-2-s1.png",
+      "images/gb/gb-kirbys-dream-land-2-title.png"
     ],
-    "coverShot": true
+    "cover": "images/gb/gb-kirbys-dream-land-2-box.jpg"
+  },
+  {
+    "id": "gb-castlevania-2-belmonts-revenge",
+    "title": "Castlevania II: Belmont's Revenge",
+    "titleZh": "恶魔城传说II（GB版）",
+    "titleJa": "ドラキュラ伝説II",
+    "year": 1991,
+    "developer": "Konami",
+    "publisher": "Konami",
+    "genre": "动作",
+    "tags": [
+      "横版",
+      "哥特",
+      "挥鞭"
+    ],
+    "players": "1",
+    "tagline": "GB恶魔城的逆袭，四座城堡任你选",
+    "description": "初代GB版《恶魔城传说》因为慢吞吞的手感饱受诟病，但续作完全扭转了口碑！克里斯托弗·贝尔蒙特的儿子索雷尔被德古拉夺走身体，父亲必须攻破四座元素城堡，才能前往德古拉城救子。\n\n四座城堡可以自由选择顺序，水晶、植物、云、岩石主题各具特色；鞭子可升级为发射火球的强力形态，圣水、斧头等副武器也一应俱全。最难能可贵的是那批出色的配乐，被誉为GB上最好的音乐之一。\n\n它是Game Boy上最正统的恶魔城体验，喜欢哥特风格的2D动作玩家务必一试。",
+    "highlights": [
+      "四座城堡可自由选择攻略顺序",
+      "鞭子升级与副武器系统",
+      "GB顶级水准的哥特配乐",
+      "手感大幅优于前作"
+    ],
+    "reviews": [
+      {
+        "source": "GamePro",
+        "score": "24/25",
+        "quote": "Game Boy上最出色的动作游戏之一"
+      },
+      {
+        "source": "EGM",
+        "score": "32/40",
+        "quote": "四位评论员均给出8分"
+      },
+      {
+        "source": "Nintendo Life",
+        "score": "9/10",
+        "quote": "掌机恶魔城的高峰"
+      }
+    ],
+    "editorScore": 8.5,
+    "is2D": true,
+    "screenshots": [
+      "images/gb/gb-castlevania-2-belmonts-revenge-s1.png",
+      "images/gb/gb-castlevania-2-belmonts-revenge-title.png"
+    ],
+    "cover": "images/gb/gb-castlevania-2-belmonts-revenge-box.jpg"
+  },
+  {
+    "id": "gb-dragon-warrior-monsters-2",
+    "title": "Dragon Warrior Monsters 2",
+    "titleZh": "勇者斗恶龙 怪兽篇2 玛尔塔的不可思议之钥",
+    "titleJa": "ドラゴンクエストモンスターズ2 マルタのふしぎな鍵",
+    "year": 2001,
+    "developer": "Tose",
+    "publisher": "Enix",
+    "genre": "角色扮演",
+    "tags": [
+      "怪物收集",
+      "配合",
+      "双版本"
+    ],
+    "players": "1-2",
+    "tagline": "怪兽数量翻倍，配合系统全面进化",
+    "description": "少年鲁卡与妹妹伊尔被带到了神秘的岛国玛尔塔，为了拯救这个国家，他们必须用各种“钥匙”开启异世界大门，培养怪兽、探索迷宫。\n\n本作分为鲁卡篇与伊尔篇两个版本，可配合的怪兽超过300种，配合规则更加复杂多变，新增怪兽的“加点”与更丰富的特技继承，养成深度直线上升。随机生成的钥匙世界让每次冒险都不一样。\n\n喜欢前作的玩家一定会被它吸住大把时间，它也是GBC末期最有分量的RPG之一。",
+    "highlights": [
+      "超过300种可收集配合的怪兽",
+      "双版本分别收录不同怪兽",
+      "钥匙随机生成的异世界迷宫",
+      "特技继承与配合规则更丰富"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "34/40",
+        "quote": "前作的全面进化版，配合乐趣倍增"
+      },
+      {
+        "source": "IGN",
+        "score": "9/10",
+        "quote": "内容充实，令人上瘾的怪物RPG"
+      },
+      {
+        "source": "GameRankings",
+        "score": "81%",
+        "quote": "综合评价优秀"
+      }
+    ],
+    "editorScore": 8.5,
+    "is2D": true,
+    "screenshots": [
+      "images/gb/gb-dragon-warrior-monsters-2-s1.png",
+      "images/gb/gb-dragon-warrior-monsters-2-x1.png",
+      "images/gb/gb-dragon-warrior-monsters-2-x2.png",
+      "images/gb/gb-dragon-warrior-monsters-2-title.png"
+    ],
+    "cover": "images/gb/gb-dragon-warrior-monsters-2-box.jpg"
+  },
+  {
+    "id": "gb-mario-tennis",
+    "title": "Mario Tennis",
+    "titleZh": "马力欧网球GB",
+    "titleJa": "マリオテニスGB",
+    "year": 2000,
+    "developer": "Camelot Software Planning",
+    "publisher": "Nintendo",
+    "genre": "体育",
+    "tags": [
+      "网球",
+      "RPG养成",
+      "Camelot"
+    ],
+    "players": "1-2",
+    "tagline": "网球学院物语，Camelot再造运动RPG",
+    "description": "继《马力欧高尔夫GB》之后，Camelot又一次把运动和RPG结合。主角作为新生进入网球学院，从宿舍出发，一边参加训练小游戏提升能力，一边在校内排名中逐级挑战，最终站上与马力欧对决的舞台。\n\n网球部分手感爽快，抽球、吊球、扣杀各有讲究，单打与双打都可游玩；角色成长与比赛节奏搭配得刚刚好。同样支持与N64版通过传输包联动，解锁隐藏角色。\n\n这是GBC末期最被低估的作品之一。喜欢运动游戏又爱练级的你，一定会玩得废寝忘食。",
+    "highlights": [
+      "网球学院RPG剧情模式",
+      "训练小游戏提升能力",
+      "单打与双打比赛",
+      "与N64版联动解锁要素"
+    ],
+    "reviews": [
+      {
+        "source": "Nintendo Power",
+        "score": "5/5",
+        "quote": "掌机运动游戏的巅峰"
+      },
+      {
+        "source": "IGN",
+        "score": "9/10",
+        "quote": "剧情模式让网球更加耐玩"
+      },
+      {
+        "source": "Fami通",
+        "score": "30/40",
+        "quote": "操作爽快，养成要素丰富"
+      }
+    ],
+    "editorScore": 8.5,
+    "is2D": true,
+    "screenshots": [
+      "images/gb/gb-mario-tennis-s1.png",
+      "images/gb/gb-mario-tennis-s2.png",
+      "images/gb/gb-mario-tennis-title.png"
+    ],
+    "cover": "images/gb/gb-mario-tennis-box.jpg"
   },
   {
     "id": "gb-metroid-2",
@@ -660,10 +1174,12 @@
     "editorScore": 8.4,
     "is2D": true,
     "screenshots": [
-      "images/gb/gb-metroid-2-1.png",
-      "images/gb/gb-metroid-2-2.jpg"
+      "images/gb/gb-metroid-2-s1.png",
+      "images/gb/gb-metroid-2-x1.png",
+      "images/gb/gb-metroid-2-x2.png",
+      "images/gb/gb-metroid-2-title.png"
     ],
-    "coverShot": true
+    "cover": "images/gb/gb-metroid-2-box.jpg"
   },
   {
     "id": "gb-final-fantasy-legend-2",
@@ -708,9 +1224,205 @@
     "editorScore": 8.4,
     "is2D": true,
     "screenshots": [
-      "images/gb/gb-final-fantasy-legend-2-1.png"
+      "images/gb/gb-final-fantasy-legend-2-s1.png",
+      "images/gb/gb-final-fantasy-legend-2-title.png"
     ],
-    "coverShot": false
+    "cover": "images/gb/gb-final-fantasy-legend-2-box.jpg"
+  },
+  {
+    "id": "gb-mega-man-5",
+    "title": "Mega Man V",
+    "titleZh": "洛克人 世界5",
+    "titleJa": "ロックマンワールド5",
+    "year": 1994,
+    "developer": "Minakuchi Engineering",
+    "publisher": "Capcom",
+    "genre": "动作",
+    "tags": [
+      "横版",
+      "射击",
+      "原创BOSS"
+    ],
+    "players": "1",
+    "tagline": "掌机原创的星际洛克人，系列GB版巅峰",
+    "description": "前四部GB版洛克人多是FC作品的“再构成”，而《世界5》则完全原创：来自宇宙的机器人“星际战士”入侵地球，八名以行星命名的BOSS——水星人、金星人、火星人……光是阵容就让人兴奋。\n\n洛克人的新武器“洛克飞拳”可以蓄力打出并飞回，还能升级；猫型助手“塔哥”也首次登场。关卡设计紧凑、难度适中，画面在Game Boy中属于顶级水准，配合超级Game Boy还会有专属色彩。\n\n它的北美版卡带存世量稀少，二手价格一路飙升。但论游戏性，它绝对是GB上最值得玩的洛克人。",
+    "highlights": [
+      "全原创星际战士BOSS阵容",
+      "可蓄力升级的洛克飞拳",
+      "新助手塔哥登场",
+      "支持超级Game Boy配色"
+    ],
+    "reviews": [
+      {
+        "source": "EGM",
+        "score": "38/50",
+        "quote": "五位评论员一致好评，GB洛克人最佳作"
+      },
+      {
+        "source": "VG&CE",
+        "score": "8/10",
+        "quote": "扎实的动作与原创内容"
+      },
+      {
+        "source": "GameRankings",
+        "score": "75.83%",
+        "quote": "综合评价良好"
+      }
+    ],
+    "editorScore": 8.4,
+    "is2D": true,
+    "screenshots": [
+      "images/gb/gb-mega-man-5-s1.png",
+      "images/gb/gb-mega-man-5-title.png"
+    ],
+    "cover": "images/gb/gb-mega-man-5-box.jpg"
+  },
+  {
+    "id": "gb-operation-c",
+    "title": "Operation C",
+    "titleZh": "魂斗罗（GB版）",
+    "titleJa": "魂斗羅",
+    "year": 1991,
+    "developer": "Konami",
+    "publisher": "Konami",
+    "genre": "射击",
+    "tags": [
+      "横版",
+      "俯视角",
+      "硬派"
+    ],
+    "players": "1",
+    "tagline": "黑白屏也能突突突，魂斗罗掌机独立作",
+    "description": "比尔·莱泽再次出击！这次的GB版《魂斗罗》并非简单移植，而是一部全新的掌机独立作：五个关卡中横版与俯视角关卡交替出现，熟悉的S弹、L激光等武器全数回归。\n\n为了适应小屏幕，科乐美把敌人和子弹的辨识度处理得非常好，操作手感爽快利落，难度虽比FC版略低，但最终关的连续战依旧紧张刺激。俯视角关卡则让人想起《超级魂斗罗》的经典设计。\n\nEGM当年四位评论员清一色给出9分。想在掌机上体验正统的跑射快感，这一作是不二之选。",
+    "highlights": [
+      "全新关卡的掌机原创魂斗罗",
+      "横版与俯视角关卡交替",
+      "S弹等经典武器回归",
+      "节奏爽快，适合碎片时间"
+    ],
+    "reviews": [
+      {
+        "source": "EGM",
+        "score": "36/40",
+        "quote": "四位编辑全部给出9分，掌机射击佳作"
+      },
+      {
+        "source": "GameRankings",
+        "score": "80%",
+        "quote": "综合评价优秀"
+      },
+      {
+        "source": "Fami通",
+        "score": "25/40",
+        "quote": "移植手感不错，但流程偏短"
+      }
+    ],
+    "editorScore": 8.4,
+    "is2D": true,
+    "screenshots": [
+      "images/gb/gb-operation-c-s1.png",
+      "images/gb/gb-operation-c-title.png"
+    ],
+    "cover": "images/gb/gb-operation-c-box.jpg"
+  },
+  {
+    "id": "gb-super-mario-land",
+    "title": "Super Mario Land",
+    "titleZh": "超级马力欧大陆",
+    "titleJa": "スーパーマリオランド",
+    "year": 1989,
+    "developer": "Nintendo R&D1",
+    "publisher": "Nintendo",
+    "genre": "平台跳跃",
+    "tags": [
+      "横版",
+      "首发",
+      "射击关"
+    ],
+    "players": "1",
+    "tagline": "与Game Boy同时诞生的掌上马力欧",
+    "description": "1989年4月21日，Game Boy与这款《超级马力欧大陆》同步发售。横井军平团队没有照搬FC版，而是打造了一个全新的“萨拉萨大陆”：埃及金字塔、复活节岛石像、中国风关卡，还有黛西公主的首次登场！\n\n最有趣的是两个射击关：马力欧会驾驶潜水艇和飞机，变成一款横版射击游戏。火球会在墙上弹跳，关卡节奏紧凑明快，加上田中宏和那首魔性的主题曲，让无数玩家在火车上、课桌下玩到天亮。\n\n流程不长，难度适中，作为了解Game Boy历史的第一站再合适不过。",
+    "highlights": [
+      "Game Boy首发护航作",
+      "黛西公主首次登场",
+      "潜水艇与飞机射击关卡",
+      "田中宏和的洗脑配乐"
+    ],
+    "reviews": [
+      {
+        "source": "Computer and Video Games",
+        "score": "93%",
+        "quote": "掌机上的平台游戏新标杆"
+      },
+      {
+        "source": "Mean Machines",
+        "score": "90%",
+        "quote": "小巧精致，令人爱不释手"
+      },
+      {
+        "source": "Fami通",
+        "score": "26/40",
+        "quote": "节奏明快，但流程较短"
+      }
+    ],
+    "editorScore": 8.4,
+    "is2D": true,
+    "screenshots": [
+      "images/gb/gb-super-mario-land-s1.png",
+      "images/gb/gb-super-mario-land-s2.png",
+      "images/gb/gb-super-mario-land-title.png"
+    ],
+    "cover": "images/gb/gb-super-mario-land-box.jpg"
+  },
+  {
+    "id": "gb-pokemon-puzzle-challenge",
+    "title": "Pokémon Puzzle Challenge",
+    "titleZh": "宝可梦 方块对战",
+    "titleJa": "ポケモンでパネポン",
+    "year": 2000,
+    "developer": "Intelligent Systems",
+    "publisher": "Nintendo",
+    "genre": "解谜",
+    "tags": [
+      "方块消除",
+      "连锁",
+      "对战"
+    ],
+    "players": "1-2",
+    "tagline": "《Panel de Pon》披上宝可梦外衣，消除神作",
+    "description": "来自SFC名作《Panel de Pon》（俄罗斯方块攻击）的掌机版本！方块从底部不断上升，你要用光标交换左右相邻的两块，凑出三个同色即可消除；消除后上方方块落下引发连锁，打出“同时消除”与“连锁”就能给对手送去垃圾块。\n\n游戏以金银版城都地区为舞台，在挑战模式中与各道馆馆主对战，还有谜题模式、计时模式等丰富玩法。规则简单，但高手对局中连锁与“活连锁”的技巧深不见底。\n\n这是GBC上最出色的消除游戏之一，与宝可梦主题一起食用，美味翻倍。",
+    "highlights": [
+      "经典《Panel de Pon》玩法",
+      "城都道馆馆主对战",
+      "谜题、计时等多种模式",
+      "连锁与活连锁的深度技巧"
+    ],
+    "reviews": [
+      {
+        "source": "Nintendo Power",
+        "score": "10/10",
+        "quote": "掌机上最好的消除游戏之一"
+      },
+      {
+        "source": "IGN",
+        "score": "9/10",
+        "quote": "令人上瘾的方块对战"
+      },
+      {
+        "source": "GameSpot",
+        "score": "8.9/10",
+        "quote": "简单易懂却深度十足"
+      }
+    ],
+    "editorScore": 8.4,
+    "is2D": true,
+    "screenshots": [
+      "images/gb/gb-pokemon-puzzle-challenge-s1.png",
+      "images/gb/gb-pokemon-puzzle-challenge-s2.png",
+      "images/gb/gb-pokemon-puzzle-challenge-x1.png",
+      "images/gb/gb-pokemon-puzzle-challenge-title.png"
+    ],
+    "cover": "images/gb/gb-pokemon-puzzle-challenge-box.jpg"
   },
   {
     "id": "gb-shantae",
@@ -756,9 +1468,499 @@
     "editorScore": 8.3,
     "is2D": true,
     "screenshots": [
-      "images/gb/gb-shantae-1.png",
-      "images/gb/gb-shantae-2.jpg"
+      "images/gb/gb-shantae-s1.png",
+      "images/gb/gb-shantae-title.png"
     ],
-    "coverShot": true
+    "cover": "images/gb/gb-shantae-box.jpg"
+  },
+  {
+    "id": "gb-final-fantasy-legend",
+    "title": "The Final Fantasy Legend",
+    "titleZh": "魔界塔士 沙加",
+    "titleJa": "魔界塔士 Sa・Ga",
+    "year": 1989,
+    "developer": "Square",
+    "publisher": "Square",
+    "genre": "角色扮演",
+    "tags": [
+      "回合制",
+      "SaGa系列",
+      "登塔"
+    ],
+    "players": "1",
+    "tagline": "Game Boy首款RPG，河津秋敏的狂想曲",
+    "description": "塔的顶端据说通往乐园——于是一群冒险者开始攀登这座连接着各个世界的巨塔。这就是Game Boy上的第一款RPG，也是“沙加”系列的开山之作，在日本卖出了超过百万份。\n\n本作的种族系统极为大胆：人类靠买道具成长，超能力者随机习得能力，怪物要吃掉敌人的肉才能变身。武器有使用次数限制，战斗节奏凶险。最为人津津乐道的是最终BOSS……用电锯，一击毙命“神”，堪称游戏史上最著名的梗之一。\n\n粗糙却充满奇想，这正是早期Square的魅力所在。",
+    "highlights": [
+      "Game Boy首款RPG，日本销量破百万",
+      "人类、超能力者、怪物三种族成长",
+      "贯穿多个世界的巨塔冒险",
+      "传说中的“电锯砍神”结局"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "35/40",
+        "quote": "在掌机上实现了正统RPG，完成度令人惊喜"
+      },
+      {
+        "source": "Nintendo Power",
+        "score": "年度第3",
+        "quote": "获评1990年第三佳Game Boy游戏"
+      },
+      {
+        "source": "IGN",
+        "score": "6/10",
+        "quote": "系统大胆，但以今天的眼光略显粗糙"
+      }
+    ],
+    "editorScore": 8.3,
+    "is2D": true,
+    "screenshots": [
+      "images/gb/gb-final-fantasy-legend-s1.png",
+      "images/gb/gb-final-fantasy-legend-s2.png",
+      "images/gb/gb-final-fantasy-legend-title.png"
+    ],
+    "cover": "images/gb/gb-final-fantasy-legend-box.jpg"
+  },
+  {
+    "id": "gb-survival-kids",
+    "title": "Survival Kids",
+    "titleZh": "生存小子",
+    "titleJa": "サバイバルキッズ 孤島の冒険者",
+    "year": 1999,
+    "developer": "Konami Computer Entertainment Sapporo",
+    "publisher": "Konami",
+    "genre": "动作冒险",
+    "tags": [
+      "荒岛求生",
+      "合成",
+      "俯视角",
+      "遗珠"
+    ],
+    "players": "1",
+    "tagline": "荒岛求生的先驱，科乐美掌机隐藏杰作",
+    "description": "一场海难，你被冲上了一座无人荒岛。没有村庄、没有商店，只有饥饿、口渴与疲劳三条不断下降的数值——想活下去？就得自己动手！\n\n收集树枝、石头与藤蔓，合成斧头、钓竿和弓箭；生火取暖、搭建庇护所、驯服小猴子当伙伴，一步步探索岛屿的秘密并寻找逃离的方法。俯视角像素画面温暖细腻，探索节奏张弛有度，还有多个结局等你发现。\n\n在“生存建造”类游戏大行其道的今天回看，它实在超前了二十年。这颗科乐美遗珠，值得被更多人知道。",
+    "highlights": [
+      "饥饿、口渴、疲劳的生存数值管理",
+      "道具合成系统超前时代",
+      "驯服动物伙伴",
+      "多结局设计"
+    ],
+    "reviews": [
+      {
+        "source": "IGN",
+        "score": "9/10",
+        "quote": "独特而令人上瘾的生存冒险"
+      },
+      {
+        "source": "Computer and Video Games",
+        "score": "5/5",
+        "quote": "掌机上最具原创性的游戏之一"
+      },
+      {
+        "source": "Game Informer",
+        "score": "7.5/10",
+        "quote": "创意出色的荒岛冒险"
+      }
+    ],
+    "editorScore": 8.3,
+    "is2D": true,
+    "screenshots": [
+      "images/gb/gb-survival-kids-s1.png",
+      "images/gb/gb-survival-kids-x1.png",
+      "images/gb/gb-survival-kids-title.png"
+    ],
+    "cover": "images/gb/gb-survival-kids-box.jpg"
+  },
+  {
+    "id": "gb-kirbys-dream-land",
+    "title": "Kirby's Dream Land",
+    "titleZh": "星之卡比",
+    "titleJa": "星のカービィ",
+    "year": 1992,
+    "developer": "HAL Laboratory",
+    "publisher": "Nintendo",
+    "genre": "平台跳跃",
+    "tags": [
+      "横版",
+      "入门",
+      "樱井政博"
+    ],
+    "players": "1",
+    "tagline": "粉红团子诞生！樱井政博的处女作",
+    "description": "一只圆滚滚的小家伙，吸进敌人吐出星星，鼓起肚子就能在天上飘——这就是卡比的初次登场。当年年仅二十岁的樱井政博，想做一款“谁都能通关”的动作游戏，于是有了这部温柔可爱的作品。\n\n全作只有五个关卡，熟练玩家半小时即可通关，但通关后输入隐藏指令就能进入高难度的EXTRA模式，敌人更凶、BOSS更狠，耐玩度瞬间翻倍。本作还没有复制能力，纯粹的吸吐玩法反而显得清爽。\n\n欣赏一下系列的原点吧：那首轻快的“绿色绿地”BGM，至今仍是任天堂最经典的旋律之一。",
+    "highlights": [
+      "卡比系列的初代作品",
+      "上手门槛极低的吸吐玩法",
+      "通关后解锁高难度EXTRA模式",
+      "经典BGM“绿色绿地”出处"
+    ],
+    "reviews": [
+      {
+        "source": "Joystick",
+        "score": "96%",
+        "quote": "可爱又爽快的掌机动作佳作"
+      },
+      {
+        "source": "Aktueller Software Markt",
+        "score": "10/12",
+        "quote": "画面与操作俱佳"
+      },
+      {
+        "source": "Fami通",
+        "score": "22/40",
+        "quote": "上手简单，但内容量偏少"
+      }
+    ],
+    "editorScore": 8.2,
+    "is2D": true,
+    "screenshots": [
+      "images/gb/gb-kirbys-dream-land-s1.png",
+      "images/gb/gb-kirbys-dream-land-title.png"
+    ],
+    "cover": "images/gb/gb-kirbys-dream-land-box.jpg"
+  },
+  {
+    "id": "gb-donkey-kong-land",
+    "title": "Donkey Kong Land",
+    "titleZh": "超级大金刚GB",
+    "titleJa": "スーパードンキーコングGB",
+    "year": 1995,
+    "developer": "Rare",
+    "publisher": "Nintendo",
+    "genre": "平台跳跃",
+    "tags": [
+      "横版",
+      "预渲染",
+      "Rare"
+    ],
+    "players": "1",
+    "tagline": "把SFC的CG奇迹硬塞进GB的魔法",
+    "description": "《超级大金刚》用预渲染CG震惊了SFC玩家，而Rare居然把这种画风搬上了黑白Game Boy！大金刚与迪迪再次出发，这次要从克鲁尔国王手中夺回香蕉，关卡全为本作原创设计。\n\n滚筒加农炮、矿车、犀牛兰比等动物伙伴……熟悉的元素一个不少。为了在小屏幕上看清楚，Rare对配色与造型做了大量优化，并加入“KONG”字母与奖励关的收集要素。配合超级Game Boy还有专属香蕉黄卡带与彩色边框。\n\n它曾被GamePro评为1995年最佳GB游戏，堪称掌机技术力的展示品。",
+    "highlights": [
+      "预渲染CG画风在GB上的奇迹重现",
+      "全新原创关卡设计",
+      "动物伙伴、滚筒炮等经典要素",
+      "GamePro 1995年度最佳GB游戏"
+    ],
+    "reviews": [
+      {
+        "source": "Computer and Video Games",
+        "score": "93%",
+        "quote": "惊人的画面与扎实的关卡"
+      },
+      {
+        "source": "VG&CE",
+        "score": "9/10",
+        "quote": "掌机上的技术力展示"
+      },
+      {
+        "source": "Fami通",
+        "score": "24/40",
+        "quote": "画面出色但辨识度略低"
+      }
+    ],
+    "editorScore": 8.2,
+    "is2D": true,
+    "screenshots": [
+      "images/gb/gb-donkey-kong-land-s1.png",
+      "images/gb/gb-donkey-kong-land-x1.png",
+      "images/gb/gb-donkey-kong-land-title.png"
+    ],
+    "cover": "images/gb/gb-donkey-kong-land-box.jpg"
+  },
+  {
+    "id": "gb-pokemon-tcg",
+    "title": "Pokémon Trading Card Game",
+    "titleZh": "宝可梦卡片GB",
+    "titleJa": "ポケモンカードGB",
+    "year": 1998,
+    "developer": "Hudson Soft / Creatures",
+    "publisher": "Nintendo",
+    "genre": "卡牌",
+    "tags": [
+      "卡牌对战",
+      "收集",
+      "策略"
+    ],
+    "players": "1-2",
+    "tagline": "不用花钱买卡包，掌机里的宝可梦卡牌道馆",
+    "description": "当年同学们为了一张闪卡争得面红耳赤，而这款游戏让你不花一分零花钱就能体验正统的宝可梦卡牌对战！主角要挑战八座卡牌俱乐部的会长，赢得大师勋章，最终对决四大卡牌高手。\n\n游戏完整收录了初期的基础系列卡牌，规则讲解循序渐进，非常适合入门；自由组卡、拆卡包、与朋友连线交换对战，收集的乐趣一点不输实体卡。电脑AI的牌组各有风格，打起来很有挑战性。\n\n喜欢策略与收集的玩家，这款被低估的作品值得一玩，它的耐玩度可能超乎你的想象。",
+    "highlights": [
+      "完整收录早期宝可梦卡牌",
+      "八大俱乐部的RPG式挑战",
+      "自由组卡与拆包收集",
+      "连线交换卡牌与对战"
+    ],
+    "reviews": [
+      {
+        "source": "IGN",
+        "score": "9/10",
+        "quote": "忠实还原卡牌游戏，令人上瘾"
+      },
+      {
+        "source": "Official Nintendo Magazine",
+        "score": "92%",
+        "quote": "卡牌迷必备之作"
+      },
+      {
+        "source": "GameSpot",
+        "score": "7.6/10",
+        "quote": "规则还原到位，节奏稍慢"
+      }
+    ],
+    "editorScore": 8.2,
+    "is2D": true,
+    "screenshots": [
+      "images/gb/gb-pokemon-tcg-s1.png",
+      "images/gb/gb-pokemon-tcg-s2.png",
+      "images/gb/gb-pokemon-tcg-s3.png",
+      "images/gb/gb-pokemon-tcg-title.png"
+    ],
+    "cover": "images/gb/gb-pokemon-tcg-box.jpg"
+  },
+  {
+    "id": "gb-pokemon-pinball",
+    "title": "Pokémon Pinball",
+    "titleZh": "宝可梦弹珠台",
+    "titleJa": "ポケモンピンボール",
+    "year": 1999,
+    "developer": "Jupiter",
+    "publisher": "Nintendo",
+    "genre": "弹珠台",
+    "tags": [
+      "弹珠",
+      "收集",
+      "震动卡带"
+    ],
+    "players": "1",
+    "tagline": "用弹珠捕捉宝可梦，震动卡带好爽快",
+    "description": "谁说只能用精灵球扔来扔去？在《宝可梦弹珠台》里，你要用弹珠捕捉和进化宝可梦！红色与蓝色两张台面各具机关，击中特定区域即可触发捕获模式，连续撞击就能把宝可梦收入图鉴。\n\n游戏的物理手感扎实，台面还会在不同区域间切换，到访各个城镇捕捉不同的宝可梦，收集全部151只的目标同样让人跃跃欲试。卡带内置震动马达，每次弹珠撞击都会在手中“嗡”的一下，当年可是新鲜玩意儿。\n\n简单、上瘾、随时可玩，这是宝可梦外传中最经典的一款。",
+    "highlights": [
+      "红蓝两张特色台面",
+      "边打弹珠边收集151只宝可梦",
+      "内置震动功能的特殊卡带",
+      "扎实的弹珠物理手感"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "32/40",
+        "quote": "把宝可梦与弹珠台融合得很好"
+      },
+      {
+        "source": "GameSpot",
+        "score": "8.7/10",
+        "quote": "令人上瘾的弹珠游戏"
+      }
+    ],
+    "editorScore": 8.2,
+    "is2D": true,
+    "screenshots": [
+      "images/gb/gb-pokemon-pinball-s1.png",
+      "images/gb/gb-pokemon-pinball-s2.png",
+      "images/gb/gb-pokemon-pinball-s3.png",
+      "images/gb/gb-pokemon-pinball-title.png"
+    ],
+    "cover": "images/gb/gb-pokemon-pinball-box.jpg"
+  },
+  {
+    "id": "gb-final-fantasy-legend-3",
+    "title": "Final Fantasy Legend III",
+    "titleZh": "时空之霸者 沙加3",
+    "titleJa": "時空の覇者 Sa・Ga3［完結編］",
+    "year": 1991,
+    "developer": "Square",
+    "publisher": "Square",
+    "genre": "角色扮演",
+    "tags": [
+      "回合制",
+      "时空穿越",
+      "SaGa系列"
+    ],
+    "players": "1",
+    "tagline": "穿梭过去与未来，GB沙加三部曲完结篇",
+    "description": "一场来自异界的大洪水正要吞没世界，少年少女们驾驶时空战舰往返于过去、现在与未来，阻止灭世的命运。作为GB沙加三部曲的完结篇，本作的风格更接近传统RPG。\n\n与前两作不同，本作恢复了经验值与等级制度，角色可以通过装备怪物部件或机械零件，逐步“变身”为兽人、机器人等形态，自由度依旧很高。时空穿越的剧情结构与宏大的世界观，让它在当年备受期待。\n\n如果你觉得前两作太过硬派，那么这款更易上手的《沙加3》会是不错的选择。",
+    "highlights": [
+      "时空战舰穿梭过去与未来",
+      "恢复经验值与等级系统",
+      "吃肉、装零件实现形态变化",
+      "GB沙加三部曲完结篇"
+    ],
+    "reviews": [
+      {
+        "source": "EGM",
+        "score": "32/40",
+        "quote": "四位编辑均给出8分，获编辑选择金奖"
+      },
+      {
+        "source": "Fami通",
+        "score": "29/40",
+        "quote": "更易上手的系列完结篇"
+      },
+      {
+        "source": "IGN",
+        "score": "7/10",
+        "quote": "系统扎实，冒险内容丰富"
+      }
+    ],
+    "editorScore": 8.0,
+    "is2D": true,
+    "screenshots": [
+      "images/gb/gb-final-fantasy-legend-3-s1.png",
+      "images/gb/gb-final-fantasy-legend-3-x1.png",
+      "images/gb/gb-final-fantasy-legend-3-title.png"
+    ],
+    "cover": "images/gb/gb-final-fantasy-legend-3-box.jpg"
+  },
+  {
+    "id": "gb-harvest-moon-gb",
+    "title": "Harvest Moon GB",
+    "titleZh": "牧场物语GB",
+    "titleJa": "牧場物語GB",
+    "year": 1997,
+    "developer": "Victor Interactive Software",
+    "publisher": "Victor Interactive Software / Natsume",
+    "genre": "模拟经营",
+    "tags": [
+      "种田",
+      "养成",
+      "慢生活"
+    ],
+    "players": "1",
+    "tagline": "口袋里的小牧场，慢生活从这里开始",
+    "description": "继承了爷爷留下的荒废牧场，开垦土地、播种浇水、照顾牛羊鸡……《牧场物语》把田园生活的悠闲浓缩进了Game Boy。春夏秋冬四季轮转，不同季节种植不同作物，天气与节日也会影响每日行程。\n\n与SFC原作相比，GB版简化了恋爱要素，更专注于经营本身：扩建牧场、升级工具、培育牲畜，看着荒地一点点变成丰饶的农场，成就感油然而生。可爱的小狗陪伴在旁，日式的温柔气氛满溢屏幕。\n\n《星露谷物语》的祖先之一，就在这里。累了的时候，来牧场种种菜吧。",
+    "highlights": [
+      "四季轮转的种植与畜牧经营",
+      "工具升级与牧场扩建",
+      "可爱的小狗陪伴",
+      "适合碎片时间的悠闲节奏"
+    ],
+    "reviews": [
+      {
+        "source": "Total Game Boy",
+        "score": "92%",
+        "quote": "令人沉迷的田园生活模拟"
+      },
+      {
+        "source": "Fami通",
+        "score": "29/40",
+        "quote": "掌机上也能享受牧场乐趣"
+      },
+      {
+        "source": "GameSpot",
+        "score": "7.4/10",
+        "quote": "悠闲而耐玩的经营模拟"
+      }
+    ],
+    "editorScore": 7.9,
+    "is2D": true,
+    "screenshots": [
+      "images/gb/gb-harvest-moon-gb-s1.png",
+      "images/gb/gb-harvest-moon-gb-s2.png",
+      "images/gb/gb-harvest-moon-gb-s3.png",
+      "images/gb/gb-harvest-moon-gb-title.png"
+    ],
+    "cover": "images/gb/gb-harvest-moon-gb-box.jpg"
+  },
+  {
+    "id": "gb-mole-mania",
+    "title": "Mole Mania",
+    "titleZh": "鼹鼠大作战",
+    "titleJa": "モグラ〜ニャ",
+    "year": 1996,
+    "developer": "Nintendo EAD / Pax Softnica",
+    "publisher": "Nintendo",
+    "genre": "解谜",
+    "tags": [
+      "俯视角",
+      "推箱子",
+      "宫本茂",
+      "遗珠"
+    ],
+    "players": "1",
+    "tagline": "宫本茂监制的地底解谜，被遗忘的佳作",
+    "description": "鼹鼠先生的家人被农夫金贝拐走了！为了救回妻儿，他必须在地上与地下之间钻来钻去，把巨大的铁球推、拉、搬运到正确的位置，砸开通往下一个区域的大门。\n\n这款由宫本茂监制的解谜游戏，核心机制是“双层地图”：在地面上过不去的障碍，钻到地下或许就能绕开；但铁球只能在地上推，地道一挖就会改变地形，每一步都需要深思熟虑。七个世界、上百个房间，谜题设计层层递进，还有BOSS战点缀其中。\n\n它在当年默默无闻，如今却被视为GB解谜游戏中的遗珠，喜欢动脑筋的玩家千万别错过。",
+    "highlights": [
+      "地上地下双层地图的独特解谜",
+      "宫本茂监制",
+      "七个世界上百个谜题房间",
+      "可爱的角色与BOSS战"
+    ],
+    "reviews": [
+      {
+        "source": "IGN",
+        "score": "8/10",
+        "quote": "聪明而有趣的解谜游戏"
+      },
+      {
+        "source": "Official Nintendo Magazine",
+        "score": "85%",
+        "quote": "被低估的任天堂佳作"
+      },
+      {
+        "source": "Fami通",
+        "score": "24/40",
+        "quote": "系统独特，但难度曲线略陡"
+      }
+    ],
+    "editorScore": 7.9,
+    "is2D": true,
+    "screenshots": [
+      "images/gb/gb-mole-mania-s1.png",
+      "images/gb/gb-mole-mania-x1.png",
+      "images/gb/gb-mole-mania-title.png"
+    ],
+    "cover": "images/gb/gb-mole-mania-box.jpg"
+  },
+  {
+    "id": "gb-kid-dracula",
+    "title": "Kid Dracula",
+    "titleZh": "恶魔城特别篇 我是德古拉君",
+    "titleJa": "悪魔城すぺしゃる ぼくドラキュラくん",
+    "year": 1993,
+    "developer": "Konami",
+    "publisher": "Konami",
+    "genre": "平台跳跃",
+    "tags": [
+      "横版",
+      "恶魔城",
+      "搞笑",
+      "遗珠"
+    ],
+    "players": "1",
+    "tagline": "恶魔城的Q版恶搞，小德古拉复仇记",
+    "description": "一万年的沉睡醒来后，自称魔界之王的小德古拉发现恶魔“加拉蒙”抢了自己的宝座——于是这位小不点儿穿上披风，开始了讨伐之旅！这是科乐美对《恶魔城》的Q版恶搞外传，原作的FC版只在日本发行，而GB版则是一部全新内容的续作。\n\n小德古拉会发射火球，蓄力后还能切换为追踪弹、冰冻弹、化身蝙蝠飞行等多种能力。关卡充满恶搞桥段，BOSS造型一个比一个无厘头，关卡之间还有奖励小游戏可以赚取续命。\n\n画面可爱、手感扎实，是恶魔城粉丝和平台游戏爱好者都会喜欢的冷门好作品。",
+    "highlights": [
+      "恶魔城系列的Q版恶搞外传",
+      "蓄力切换多种魔法能力",
+      "充满恶搞元素的关卡与BOSS",
+      "关卡间的小游戏"
+    ],
+    "reviews": [
+      {
+        "source": "VG&CE",
+        "score": "9/10",
+        "quote": "可爱又扎实的平台游戏"
+      },
+      {
+        "source": "Electronic Games",
+        "score": "88%",
+        "quote": "幽默感十足的恶魔城外传"
+      },
+      {
+        "source": "Fami通",
+        "score": "24/40",
+        "quote": "可爱的画风与轻松的节奏"
+      }
+    ],
+    "editorScore": 7.8,
+    "is2D": true,
+    "screenshots": [
+      "images/gb/gb-kid-dracula-s1.png",
+      "images/gb/gb-kid-dracula-x1.png",
+      "images/gb/gb-kid-dracula-title.png"
+    ],
+    "cover": "images/gb/gb-kid-dracula-box.jpg"
   }
 ]

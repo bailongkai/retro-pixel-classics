@@ -24,7 +24,7 @@
     ],
     "reviews": [
       {
-        "source": "Famitsu",
+        "source": "Fami通",
         "score": "26/40",
         "quote": "画面与系统完成度高，系列老玩家会非常满意"
       },
@@ -42,11 +42,13 @@
     "editorScore": 9.5,
     "is2D": true,
     "screenshots": [
-      "images/md/md-phantasy-star-iv-1.png",
-      "images/md/md-phantasy-star-iv-2.png",
-      "images/md/md-phantasy-star-iv-3.png"
+      "images/md/md-phantasy-star-iv-x1.png",
+      "images/md/md-phantasy-star-iv-x2.png",
+      "images/md/md-phantasy-star-iv-x3.png",
+      "images/md/md-phantasy-star-iv-s1.png",
+      "images/md/md-phantasy-star-iv-title.png"
     ],
-    "coverShot": true
+    "cover": "images/md/md-phantasy-star-iv-box.jpg"
   },
   {
     "id": "md-shining-force-ii",
@@ -73,29 +75,32 @@
     ],
     "reviews": [
       {
-        "source": "EGM",
-        "score": "7/6/7/7/7",
-        "quote": "前作粉丝和RPG玩家一定会喜欢，地图更大、操作更友好"
+        "source": "Fami通",
+        "score": "28/40",
+        "quote": "系统完成度高，战斗演出与收集要素丰富"
+      },
+      {
+        "source": "Mean Machines",
+        "score": "91%",
+        "quote": "比前作更大更丰富，策略RPG的上乘之作"
       },
       {
         "source": "GameRankings",
         "score": "89%",
         "quote": "综合评价极高，被视为系列巅峰"
-      },
-      {
-        "source": "Sega-16",
-        "score": "9/10",
-        "quote": "战棋入门与进阶两相宜的经典"
       }
     ],
     "editorScore": 9.4,
     "is2D": true,
     "screenshots": [
-      "images/md/md-shining-force-ii-1.png",
-      "images/md/md-shining-force-ii-2.png",
-      "images/md/md-shining-force-ii-3.png"
+      "images/md/md-shining-force-ii-x1.png",
+      "images/md/md-shining-force-ii-x2.png",
+      "images/md/md-shining-force-ii-x3.png",
+      "images/md/md-shining-force-ii-s1.png",
+      "images/md/md-shining-force-ii-s2.png",
+      "images/md/md-shining-force-ii-title.png"
     ],
-    "coverShot": true
+    "cover": "images/md/md-shining-force-ii-box.jpg"
   },
   {
     "id": "md-gunstar-heroes",
@@ -105,7 +110,7 @@
     "year": 1993,
     "developer": "Treasure",
     "publisher": "Sega",
-    "genre": "动作射击",
+    "genre": "射击",
     "tags": [
       "像素",
       "双人",
@@ -140,11 +145,13 @@
     "editorScore": 9.4,
     "is2D": true,
     "screenshots": [
-      "images/md/md-gunstar-heroes-1.png",
-      "images/md/md-gunstar-heroes-2.png",
-      "images/md/md-gunstar-heroes-3.png"
+      "images/md/md-gunstar-heroes-x1.png",
+      "images/md/md-gunstar-heroes-x2.png",
+      "images/md/md-gunstar-heroes-x3.png",
+      "images/md/md-gunstar-heroes-s1.png",
+      "images/md/md-gunstar-heroes-title.png"
     ],
-    "coverShot": true
+    "cover": "images/md/md-gunstar-heroes-box.jpg"
   },
   {
     "id": "md-monster-world-iv",
@@ -171,6 +178,11 @@
     ],
     "reviews": [
       {
+        "source": "Fami通",
+        "score": "27/40",
+        "quote": "画面与角色动画非常可爱，动作冒险手感扎实"
+      },
+      {
         "source": "Sega-16",
         "score": "10/10",
         "quote": "像素美术与关卡设计都达到了系列最高水准"
@@ -184,11 +196,13 @@
     "editorScore": 9.3,
     "is2D": true,
     "screenshots": [
-      "images/md/md-monster-world-iv-1.png",
-      "images/md/md-monster-world-iv-2.png",
-      "images/md/md-monster-world-iv-3.png"
+      "images/md/md-monster-world-iv-x1.png",
+      "images/md/md-monster-world-iv-x2.png",
+      "images/md/md-monster-world-iv-x3.png",
+      "images/md/md-monster-world-iv-s1.png",
+      "images/md/md-monster-world-iv-title.png"
     ],
-    "coverShot": true
+    "cover": "images/md/md-monster-world-iv-box.jpg"
   },
   {
     "id": "md-streets-of-rage-2",
@@ -198,7 +212,7 @@
     "year": 1992,
     "developer": "Sega / Ancient",
     "publisher": "Sega",
-    "genre": "清版动作",
+    "genre": "动作清版",
     "tags": [
       "像素",
       "双人",
@@ -233,11 +247,13 @@
     "editorScore": 9.3,
     "is2D": true,
     "screenshots": [
-      "images/md/md-streets-of-rage-2-1.png",
-      "images/md/md-streets-of-rage-2-2.png",
-      "images/md/md-streets-of-rage-2-3.png"
+      "images/md/md-streets-of-rage-2-x1.png",
+      "images/md/md-streets-of-rage-2-x2.png",
+      "images/md/md-streets-of-rage-2-x3.png",
+      "images/md/md-streets-of-rage-2-s1.png",
+      "images/md/md-streets-of-rage-2-title.png"
     ],
-    "coverShot": true
+    "cover": "images/md/md-streets-of-rage-2-box.jpg"
   },
   {
     "id": "md-sonic-3-and-knuckles",
@@ -247,7 +263,7 @@
     "year": 1994,
     "developer": "Sonic Team / Sega Technical Institute",
     "publisher": "Sega",
-    "genre": "平台动作",
+    "genre": "平台跳跃",
     "tags": [
       "像素",
       "高速",
@@ -282,10 +298,10 @@
     "editorScore": 9.3,
     "is2D": true,
     "screenshots": [
-      "images/md/md-sonic-3-and-knuckles-1.png",
-      "images/md/md-sonic-3-and-knuckles-2.png"
+      "images/md/md-sonic-3-and-knuckles-x1.png",
+      "images/md/md-sonic-3-and-knuckles-x2.png"
     ],
-    "coverShot": true
+    "cover": "images/md/md-sonic-3-and-knuckles-box.jpg"
   },
   {
     "id": "md-sonic-the-hedgehog-2",
@@ -295,7 +311,7 @@
     "year": 1992,
     "developer": "Sonic Team / Sega Technical Institute",
     "publisher": "Sega",
-    "genre": "平台动作",
+    "genre": "平台跳跃",
     "tags": [
       "像素",
       "高速",
@@ -317,7 +333,7 @@
         "quote": "速度更快、关卡更大，全面超越前作"
       },
       {
-        "source": "Famitsu",
+        "source": "Fami通",
         "score": "30/40",
         "quote": "动作爽快，画面表现出色"
       },
@@ -330,11 +346,13 @@
     "editorScore": 9.2,
     "is2D": true,
     "screenshots": [
-      "images/md/md-sonic-the-hedgehog-2-1.png",
-      "images/md/md-sonic-the-hedgehog-2-2.png",
-      "images/md/md-sonic-the-hedgehog-2-3.png"
+      "images/md/md-sonic-the-hedgehog-2-x1.png",
+      "images/md/md-sonic-the-hedgehog-2-x2.png",
+      "images/md/md-sonic-the-hedgehog-2-x3.png",
+      "images/md/md-sonic-the-hedgehog-2-s1.png",
+      "images/md/md-sonic-the-hedgehog-2-title.png"
     ],
-    "coverShot": true
+    "cover": "images/md/md-sonic-the-hedgehog-2-box.jpg"
   },
   {
     "id": "md-landstalker",
@@ -361,7 +379,7 @@
     ],
     "reviews": [
       {
-        "source": "Famitsu",
+        "source": "Fami通",
         "score": "33/40",
         "quote": "等距视角表现新颖，解谜与动作结合得很好"
       },
@@ -379,11 +397,14 @@
     "editorScore": 9.0,
     "is2D": true,
     "screenshots": [
-      "images/md/md-landstalker-1.png",
-      "images/md/md-landstalker-2.png",
-      "images/md/md-landstalker-3.png"
+      "images/md/md-landstalker-x1.png",
+      "images/md/md-landstalker-x2.png",
+      "images/md/md-landstalker-x3.png",
+      "images/md/md-landstalker-s1.png",
+      "images/md/md-landstalker-s2.png",
+      "images/md/md-landstalker-title.png"
     ],
-    "coverShot": true
+    "cover": "images/md/md-landstalker-box.jpg"
   },
   {
     "id": "md-beyond-oasis",
@@ -428,11 +449,13 @@
     "editorScore": 9.0,
     "is2D": true,
     "screenshots": [
-      "images/md/md-beyond-oasis-1.png",
-      "images/md/md-beyond-oasis-2.png",
-      "images/md/md-beyond-oasis-3.png"
+      "images/md/md-beyond-oasis-x1.png",
+      "images/md/md-beyond-oasis-x2.png",
+      "images/md/md-beyond-oasis-x3.png",
+      "images/md/md-beyond-oasis-s1.png",
+      "images/md/md-beyond-oasis-title.png"
     ],
-    "coverShot": true
+    "cover": "images/md/md-beyond-oasis-box.jpg"
   },
   {
     "id": "md-shining-force",
@@ -477,11 +500,55 @@
     "editorScore": 9.0,
     "is2D": true,
     "screenshots": [
-      "images/md/md-shining-force-1.png",
-      "images/md/md-shining-force-2.png",
-      "images/md/md-shining-force-3.png"
+      "images/md/md-shining-force-x1.png",
+      "images/md/md-shining-force-x2.png",
+      "images/md/md-shining-force-x3.png",
+      "images/md/md-shining-force-s1.png",
+      "images/md/md-shining-force-title.png"
     ],
-    "coverShot": true
+    "cover": "images/md/md-shining-force-box.jpg"
+  },
+  {
+    "id": "md-langrisser-ii",
+    "title": "Langrisser II",
+    "titleZh": "梦幻模拟战II",
+    "titleJa": "ラングリッサーII",
+    "year": 1994,
+    "developer": "Career Soft",
+    "publisher": "NCS (Masaya)",
+    "genre": "战略角色扮演",
+    "tags": [
+      "像素",
+      "战棋",
+      "漆原智志"
+    ],
+    "players": "1",
+    "tagline": "千军万马的佣兵战棋，无数玩家的SRPG启蒙",
+    "description": "在中国玩家心中，“梦战”二字分量极重！《梦幻模拟战II》最大的特色是“指挥官+佣兵”系统：每位英雄可雇佣多支佣兵部队，大地图上旗帜飘扬、千军万马对阵，兵种之间枪克骑、骑克步、步克枪的相克关系让每一步都需深思熟虑。\n\n漆原智志的华丽人设、岩垂德行的激昂配乐，配合丰富的转职树与隐藏要素，让这部作品耐玩度极高。光之末裔艾尔文与“兰古利萨”圣剑的故事，正是系列人气最高的一章。\n\n今天回味，依然能在一回合又一回合的布阵中找到当年熬夜攻关的快感。",
+    "highlights": [
+      "指挥官+佣兵的大规模会战",
+      "兵种相克的策略深度",
+      "丰富转职树与隐藏要素",
+      "漆原智志人设、岩垂德行配乐"
+    ],
+    "reviews": [
+      {
+        "source": "Sega-16",
+        "score": "9/10",
+        "quote": "MD上最出色的战略RPG之一，规模与深度兼备"
+      }
+    ],
+    "editorScore": 9.0,
+    "is2D": true,
+    "screenshots": [
+      "images/md/md-langrisser-ii-x1.png",
+      "images/md/md-langrisser-ii-x2.png",
+      "images/md/md-langrisser-ii-x3.png",
+      "images/md/md-langrisser-ii-s1.png",
+      "images/md/md-langrisser-ii-s2.png",
+      "images/md/md-langrisser-ii-title.png"
+    ],
+    "cover": "images/md/md-langrisser-ii-box.jpg"
   },
   {
     "id": "md-castlevania-bloodlines",
@@ -513,7 +580,7 @@
         "quote": "正统恶魔城在MD上大放异彩"
       },
       {
-        "source": "Famitsu",
+        "source": "Fami通",
         "score": "28/40",
         "quote": "动作扎实，场景设计富有新意"
       },
@@ -526,11 +593,14 @@
     "editorScore": 8.9,
     "is2D": true,
     "screenshots": [
-      "images/md/md-castlevania-bloodlines-1.png",
-      "images/md/md-castlevania-bloodlines-2.png",
-      "images/md/md-castlevania-bloodlines-3.png"
+      "images/md/md-castlevania-bloodlines-x1.png",
+      "images/md/md-castlevania-bloodlines-x2.png",
+      "images/md/md-castlevania-bloodlines-x3.png",
+      "images/md/md-castlevania-bloodlines-s1.png",
+      "images/md/md-castlevania-bloodlines-s2.png",
+      "images/md/md-castlevania-bloodlines-title.png"
     ],
-    "coverShot": true
+    "cover": "images/md/md-castlevania-bloodlines-box.jpg"
   },
   {
     "id": "md-contra-hard-corps",
@@ -540,7 +610,7 @@
     "year": 1994,
     "developer": "Konami",
     "publisher": "Konami",
-    "genre": "动作射击",
+    "genre": "射击",
     "tags": [
       "像素",
       "双人",
@@ -575,11 +645,118 @@
     "editorScore": 8.9,
     "is2D": true,
     "screenshots": [
-      "images/md/md-contra-hard-corps-1.png",
-      "images/md/md-contra-hard-corps-2.png",
-      "images/md/md-contra-hard-corps-3.png"
+      "images/md/md-contra-hard-corps-x1.png",
+      "images/md/md-contra-hard-corps-x2.png",
+      "images/md/md-contra-hard-corps-x3.png",
+      "images/md/md-contra-hard-corps-s1.png",
+      "images/md/md-contra-hard-corps-s2.png",
+      "images/md/md-contra-hard-corps-title.png"
     ],
-    "coverShot": true
+    "cover": "images/md/md-contra-hard-corps-box.jpg"
+  },
+  {
+    "id": "md-phantasy-star-ii",
+    "title": "Phantasy Star II",
+    "titleZh": "梦幻之星II 不归时之终结",
+    "titleJa": "ファンタシースターII 還らざる時の終わりに",
+    "year": 1989,
+    "developer": "Sega",
+    "publisher": "Sega",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "科幻",
+      "回合制"
+    ],
+    "players": "1",
+    "tagline": "16位主机第一部大作RPG，悲剧科幻的里程碑",
+    "description": "MD发售仅半年，世嘉就端出了这款6兆容量的巨作！《梦幻之星II》把舞台搬到千年后的莫塔维亚星，生物实验所、管理一切的电脑“母脑”、不惜颠覆乌托邦的真相……如此成熟黑暗的科幻剧情，在1989年简直是惊天之举。\n\n八名伙伴各有专长，科技感十足的武器与“技”系统新鲜有趣；而女主角妮的命运，更是让一代玩家为之落泪。迷宫庞大复杂，难度不低，当年随卡附送的厚厚攻略本可是必需品。\n\n今天玩来，它的叙事野心依然惊人——想了解日式RPG如何走向成熟，这是绕不开的一站。",
+    "highlights": [
+      "1989年即呈现成熟黑暗的科幻剧情",
+      "八名伙伴与科技感十足的“技”系统",
+      "女主角妮的悲剧感动一代玩家",
+      "巨大迷宫考验探索毅力"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "28/40",
+        "quote": "大容量带来的世界观与剧情令人印象深刻"
+      },
+      {
+        "source": "EGM",
+        "score": "32/40",
+        "quote": "16位主机上第一款真正意义上的大型RPG"
+      },
+      {
+        "source": "Sega Power",
+        "score": "94%",
+        "quote": "画面、剧情和规模都远超同期作品"
+      }
+    ],
+    "editorScore": 8.9,
+    "is2D": true,
+    "screenshots": [
+      "images/md/md-phantasy-star-ii-x1.png",
+      "images/md/md-phantasy-star-ii-x2.png",
+      "images/md/md-phantasy-star-ii-x3.png",
+      "images/md/md-phantasy-star-ii-s1.png",
+      "images/md/md-phantasy-star-ii-s2.png",
+      "images/md/md-phantasy-star-ii-title.png"
+    ],
+    "cover": "images/md/md-phantasy-star-ii-box.jpg"
+  },
+  {
+    "id": "md-revenge-of-shinobi",
+    "title": "The Revenge of Shinobi",
+    "titleZh": "超级忍",
+    "titleJa": "ザ・スーパー忍",
+    "year": 1989,
+    "developer": "Sega",
+    "publisher": "Sega",
+    "genre": "动作",
+    "tags": [
+      "像素",
+      "忍者",
+      "古代祐三"
+    ],
+    "players": "1",
+    "tagline": "古代祐三配乐的忍者传奇，MD早期神作",
+    "description": "MD发售第一年的扛鼎之作！忍者乔·武藏为救被掳的未婚妻，单枪匹马挑战犯罪组织“新兴Zeed”。手里剑连射、空翻抛出八方手里剑、四种忍术随时选用——“微尘”自爆的悲壮更是一代玩家的共同记忆。\n\n关卡场景从竹林、瀑布到大都市、军事基地，富有变化；BOSS阵容更是大胆“借用”了蜘蛛侠、哥斯拉、终结者等形象，成为游戏史上的著名趣闻。古代祐三的配乐将和风与电子乐融合，至今听来依然燃。\n\n它证明了MD在动作游戏上的实力，是认识世嘉16位辉煌的最佳起点。",
+    "highlights": [
+      "空翻八方手里剑与四种忍术",
+      "竹林到都市的多变关卡",
+      "古代祐三和风电子配乐",
+      "著名的“客串”BOSS阵容"
+    ],
+    "reviews": [
+      {
+        "source": "EGM",
+        "score": "34/40",
+        "quote": "动作扎实、画面出色的早期杰作"
+      },
+      {
+        "source": "Fami通",
+        "score": "28/40",
+        "quote": "忍者动作的爽快感十足"
+      },
+      {
+        "source": "Mean Machines",
+        "score": "94%",
+        "quote": "MD上最好的动作游戏之一"
+      }
+    ],
+    "editorScore": 8.9,
+    "is2D": true,
+    "screenshots": [
+      "images/md/md-revenge-of-shinobi-x1.png",
+      "images/md/md-revenge-of-shinobi-x2.png",
+      "images/md/md-revenge-of-shinobi-x3.png",
+      "images/md/md-revenge-of-shinobi-s1.png",
+      "images/md/md-revenge-of-shinobi-s2.png",
+      "images/md/md-revenge-of-shinobi-title.png"
+    ],
+    "cover": "images/md/md-revenge-of-shinobi-box.jpg"
   },
   {
     "id": "md-thunder-force-iv",
@@ -589,7 +766,7 @@
     "year": 1992,
     "developer": "Technosoft",
     "publisher": "Technosoft",
-    "genre": "横版射击",
+    "genre": "射击",
     "tags": [
       "像素",
       "STG",
@@ -624,11 +801,168 @@
     "editorScore": 8.8,
     "is2D": true,
     "screenshots": [
-      "images/md/md-thunder-force-iv-1.png",
-      "images/md/md-thunder-force-iv-2.png",
-      "images/md/md-thunder-force-iv-3.png"
+      "images/md/md-thunder-force-iv-x1.png",
+      "images/md/md-thunder-force-iv-x2.png",
+      "images/md/md-thunder-force-iv-x3.png",
+      "images/md/md-thunder-force-iv-s1.png",
+      "images/md/md-thunder-force-iv-title.png"
     ],
-    "coverShot": true
+    "cover": "images/md/md-thunder-force-iv-box.jpg"
+  },
+  {
+    "id": "md-yu-yu-hakusho",
+    "title": "Yu Yu Hakusho: Makyou Toitsusen",
+    "titleZh": "幽游白书 魔强统一战",
+    "titleJa": "幽☆遊☆白書 〜魔強統一戦〜",
+    "year": 1994,
+    "developer": "Treasure",
+    "publisher": "Sega",
+    "genre": "格斗",
+    "tags": [
+      "像素",
+      "四人乱斗",
+      "Treasure"
+    ],
+    "players": "1-4",
+    "tagline": "四人同屏乱斗，Treasure出品的动漫格斗神作",
+    "description": "别把它当成普通的动漫改编！由Treasure开发的《幽游白书 魔强统一战》支持最多四人同屏混战，角色可以在前后两条线之间跳跃移动，乱斗场面热闹非凡。\n\n浦饭幽助的灵丸、飞影的黑龙波、户愚吕的百分百肌肉……十一名角色招式还原度极高，像素动画流畅华丽，必杀技演出充满魄力。操作简单易上手，搓招与灵气槽的设计又给高手留足了深度。\n\n当年只在日本和巴西发售，却被众多玩家誉为MD上最好的格斗游戏之一。约上三五好友，这就是最好的聚会游戏。",
+    "highlights": [
+      "支持四人同屏乱斗",
+      "前后双线移动的独特格斗系统",
+      "原作招式高度还原，演出华丽",
+      "Treasure出品的精良像素动画"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "25/40",
+        "quote": "四人对战热闹有趣的格斗作品"
+      },
+      {
+        "source": "Beep! MegaDrive",
+        "score": "7.75/10",
+        "quote": "角色动作流畅，多人模式乐趣十足"
+      },
+      {
+        "source": "Retro Gamer",
+        "score": "95%",
+        "quote": "MD上最被低估的格斗游戏之一"
+      }
+    ],
+    "editorScore": 8.8,
+    "is2D": true,
+    "screenshots": [
+      "images/md/md-yu-yu-hakusho-x1.png",
+      "images/md/md-yu-yu-hakusho-x2.png",
+      "images/md/md-yu-yu-hakusho-x3.png",
+      "images/md/md-yu-yu-hakusho-s1.png",
+      "images/md/md-yu-yu-hakusho-title.png"
+    ],
+    "cover": "images/md/md-yu-yu-hakusho-box.jpg"
+  },
+  {
+    "id": "md-aladdin",
+    "title": "Disney's Aladdin",
+    "titleZh": "阿拉丁",
+    "titleJa": "アラジン",
+    "year": 1993,
+    "developer": "Virgin Games USA",
+    "publisher": "Sega",
+    "genre": "平台跳跃",
+    "tags": [
+      "像素",
+      "迪士尼",
+      "手绘动画"
+    ],
+    "players": "1",
+    "tagline": "迪士尼动画师亲手绘制，会动的阿拉伯童话",
+    "description": "迪士尼动画师亲自参与绘制原画，《阿拉丁》的画面在当年简直就是“可以玩的动画片”。阿拉丁翻滚、挥刀、抛苹果，动作流畅自然；神灯精灵的搞怪表演、阿布偷宝石时的小表情，都让人忍俊不禁。\n\n从阿格拉巴的集市屋顶到神灯山洞、飞毯逃脱、精灵的奇幻世界，关卡忠实再现了电影名场面，配乐也改编自经典原声。手感爽快、难度适中，大人小孩都能乐在其中。\n\n这是授权改编游戏的最高水准之一，也是MD上销量最高的游戏之一。",
+    "highlights": [
+      "迪士尼动画师参与绘制的流畅动画",
+      "忠实再现电影名场面的关卡",
+      "飞毯逃脱等多样化玩法",
+      "改编自电影原声的配乐"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "35/40",
+        "quote": "四位评测员几乎全给9分，动画表现令人惊叹"
+      },
+      {
+        "source": "EGM",
+        "score": "34/40",
+        "quote": "像在玩一部迪士尼动画"
+      },
+      {
+        "source": "Game Informer",
+        "score": "9.25/10",
+        "quote": "画面与手感俱佳的改编杰作"
+      }
+    ],
+    "editorScore": 8.8,
+    "is2D": true,
+    "screenshots": [
+      "images/md/md-aladdin-x1.png",
+      "images/md/md-aladdin-x2.png",
+      "images/md/md-aladdin-x3.png",
+      "images/md/md-aladdin-s1.png",
+      "images/md/md-aladdin-s2.png",
+      "images/md/md-aladdin-title.png"
+    ],
+    "cover": "images/md/md-aladdin-box.jpg"
+  },
+  {
+    "id": "md-strider",
+    "title": "Strider",
+    "titleZh": "战神飞龙",
+    "titleJa": "ストライダー飛竜",
+    "year": 1990,
+    "developer": "Sega (port of Capcom arcade)",
+    "publisher": "Sega",
+    "genre": "动作",
+    "tags": [
+      "像素",
+      "街机移植",
+      "忍者"
+    ],
+    "players": "1",
+    "tagline": "8兆大容量街机移植，飞龙的光剑划破天际",
+    "description": "卡普空街机名作《战神飞龙》由世嘉亲自移植到MD，8兆容量在当年创下纪录，画面与玩法几乎完整再现了街机版。特级忍者飞龙挥舞光剑“赛弗”，在墙壁与天花板间自由攀爬，滑铲、跳斩一气呵成。\n\n从红场到西伯利亚雪原、空中战舰、亚马逊丛林，场景宏大，巨型机械大猩猩、由议员合体而成的百足机械龙等BOSS令人过目难忘。整个流程节奏极快，演出充满魄力。\n\n这是MD早期“把街机带回家”的代表作，至今仍是动作游戏的经典范本。",
+    "highlights": [
+      "几乎完美再现街机版的大容量移植",
+      "墙壁天花板自由攀爬的灵活动作",
+      "宏大场景与震撼的BOSS设计",
+      "节奏极快、演出充满魄力"
+    ],
+    "reviews": [
+      {
+        "source": "EGM",
+        "score": "36/40",
+        "quote": "街机移植的杰作，画面惊人"
+      },
+      {
+        "source": "Fami通",
+        "score": "30/40",
+        "quote": "高度还原街机版的魄力"
+      },
+      {
+        "source": "CVG",
+        "score": "95%",
+        "quote": "MD上最出色的街机移植之一"
+      }
+    ],
+    "editorScore": 8.8,
+    "is2D": true,
+    "screenshots": [
+      "images/md/md-strider-x1.png",
+      "images/md/md-strider-x2.png",
+      "images/md/md-strider-x3.png",
+      "images/md/md-strider-s1.png",
+      "images/md/md-strider-s2.png",
+      "images/md/md-strider-title.png"
+    ],
+    "cover": "images/md/md-strider-box.jpg"
   },
   {
     "id": "md-rocket-knight-adventures",
@@ -638,7 +972,7 @@
     "year": 1993,
     "developer": "Konami",
     "publisher": "Konami",
-    "genre": "平台动作",
+    "genre": "平台跳跃",
     "tags": [
       "像素",
       "喷射背包",
@@ -673,11 +1007,13 @@
     "editorScore": 8.7,
     "is2D": true,
     "screenshots": [
-      "images/md/md-rocket-knight-adventures-1.png",
-      "images/md/md-rocket-knight-adventures-2.png",
-      "images/md/md-rocket-knight-adventures-3.png"
+      "images/md/md-rocket-knight-adventures-x1.png",
+      "images/md/md-rocket-knight-adventures-x2.png",
+      "images/md/md-rocket-knight-adventures-x3.png",
+      "images/md/md-rocket-knight-adventures-s1.png",
+      "images/md/md-rocket-knight-adventures-title.png"
     ],
-    "coverShot": true
+    "cover": "images/md/md-rocket-knight-adventures-box.jpg"
   },
   {
     "id": "md-shinobi-iii",
@@ -722,11 +1058,104 @@
     "editorScore": 8.7,
     "is2D": true,
     "screenshots": [
-      "images/md/md-shinobi-iii-1.png",
-      "images/md/md-shinobi-iii-2.png",
-      "images/md/md-shinobi-iii-3.png"
+      "images/md/md-shinobi-iii-x1.png",
+      "images/md/md-shinobi-iii-x2.png",
+      "images/md/md-shinobi-iii-x3.png",
+      "images/md/md-shinobi-iii-s1.png",
+      "images/md/md-shinobi-iii-s2.png",
+      "images/md/md-shinobi-iii-title.png"
     ],
-    "coverShot": true
+    "cover": "images/md/md-shinobi-iii-box.jpg"
+  },
+  {
+    "id": "md-puyo-puyo-2",
+    "title": "Puyo Puyo Tsu",
+    "titleZh": "魔法气泡通",
+    "titleJa": "ぷよぷよ通",
+    "year": 1994,
+    "developer": "Compile",
+    "publisher": "Compile",
+    "genre": "解谜",
+    "tags": [
+      "像素",
+      "对战",
+      "连锁"
+    ],
+    "players": "1-2",
+    "tagline": "相杀系统诞生，对战方块的永恒经典",
+    "description": "在日本掀起全民热潮的《魔法气泡》，到了“通”这一代才真正完成了竞技化。本作引入了划时代的“相杀”系统：对手送来的垃圾气泡可以用自己的连锁抵消，攻防转换瞬息万变，从此“魔泡”成为了经久不衰的对战游戏。\n\n阿露露与一众个性十足的对手，配上可爱的像素表情与“咒文”般的连锁语音，单人模式也趣味盎然。双人对战更是简单上手、深不见底，五连锁、七连锁的大逆转令人热血沸腾。\n\n三十年来，日本的魔泡高手们依然在用这一作切磋——这就是经典的分量。",
+    "highlights": [
+      "划时代的“相杀”攻防系统",
+      "简单上手、深不见底的连锁对战",
+      "阿露露与个性十足的对手们",
+      "至今仍被用于竞技对战"
+    ],
+    "reviews": [
+      {
+        "source": "Sega-16",
+        "score": "8/10",
+        "quote": "对战方块游戏的标杆之作"
+      }
+    ],
+    "editorScore": 8.7,
+    "is2D": true,
+    "screenshots": [
+      "images/md/md-puyo-puyo-2-x1.png",
+      "images/md/md-puyo-puyo-2-x2.png",
+      "images/md/md-puyo-puyo-2-x3.png",
+      "images/md/md-puyo-puyo-2-s1.png",
+      "images/md/md-puyo-puyo-2-s2.png",
+      "images/md/md-puyo-puyo-2-title.png"
+    ],
+    "cover": "images/md/md-puyo-puyo-2-box.jpg"
+  },
+  {
+    "id": "md-castle-of-illusion",
+    "title": "Castle of Illusion Starring Mickey Mouse",
+    "titleZh": "米老鼠 幻想城堡",
+    "titleJa": "アイラブミッキーマウス ふしぎのお城大冒険",
+    "year": 1990,
+    "developer": "Sega",
+    "publisher": "Sega",
+    "genre": "平台跳跃",
+    "tags": [
+      "像素",
+      "迪士尼",
+      "童话"
+    ],
+    "players": "1",
+    "tagline": "米奇的魔法城堡冒险，MD早期画面标杆",
+    "description": "邪恶女巫米兹拉布绑走了米妮，米奇只身闯入幻想城堡！作为MD早期的画面标杆，《幻想城堡》的色彩鲜艳、卷轴流畅，玩具国、魔法森林、糖果世界……每个场景都像迪士尼童话绘本一样美丽。\n\n玩法简单而精致：屁股弹跳踩敌、扔苹果与弹珠攻击，关卡中旋转房间、倒转视角等小机关充满惊喜。难度对新手友好，配乐温馨动听，是那个年代许多孩子的第一款MD游戏。\n\n它证明了世嘉第一方的平台游戏实力，后来还被重制。原版的像素魅力，永远无可替代。",
+    "highlights": [
+      "鲜艳如绘本的童话场景",
+      "弹跳踩敌的简洁玩法",
+      "旋转房间等创意机关",
+      "温馨动听的配乐"
+    ],
+    "reviews": [
+      {
+        "source": "EGM",
+        "score": "36/40",
+        "quote": "四位评测员一致给出9分，画面极为出色"
+      },
+      {
+        "source": "Mean Machines",
+        "score": "95%",
+        "quote": "MD上最漂亮的平台游戏之一"
+      },
+      {
+        "source": "Fami通",
+        "score": "30/40",
+        "quote": "可爱的角色与精致关卡获好评"
+      }
+    ],
+    "editorScore": 8.7,
+    "is2D": true,
+    "screenshots": [
+      "images/md/md-castle-of-illusion-s1.png",
+      "images/md/md-castle-of-illusion-title.png"
+    ],
+    "cover": "images/md/md-castle-of-illusion-box.jpg"
   },
   {
     "id": "md-ristar",
@@ -736,7 +1165,7 @@
     "year": 1995,
     "developer": "Sega",
     "publisher": "Sega",
-    "genre": "平台动作",
+    "genre": "平台跳跃",
     "tags": [
       "像素",
       "可爱",
@@ -771,11 +1200,271 @@
     "editorScore": 8.6,
     "is2D": true,
     "screenshots": [
-      "images/md/md-ristar-1.png",
-      "images/md/md-ristar-2.png",
-      "images/md/md-ristar-3.png"
+      "images/md/md-ristar-x1.png",
+      "images/md/md-ristar-x2.png",
+      "images/md/md-ristar-x3.png",
+      "images/md/md-ristar-s1.png",
+      "images/md/md-ristar-title.png"
     ],
-    "coverShot": true
+    "cover": "images/md/md-ristar-box.jpg"
+  },
+  {
+    "id": "md-crusader-of-centy",
+    "title": "Crusader of Centy",
+    "titleZh": "索蕾伊",
+    "titleJa": "ソレイユ",
+    "year": 1994,
+    "developer": "Nextech",
+    "publisher": "Sega (JP/EU) / Atlus (NA)",
+    "genre": "动作冒险",
+    "tags": [
+      "像素",
+      "俯视角",
+      "和动物对话"
+    ],
+    "players": "1",
+    "tagline": "能与动物对话的少年，MD上的塞尔达式冒险",
+    "description": "十四岁生日那天，少年被授予宝剑，却从此再也听不懂人类的话语——只能与动物交谈。《索蕾伊》（美版名《Crusader of Centy》）是一部俯视角动作冒险，乍看与《塞尔达传说》相似，却有着独特的“动物伙伴”系统：狮子、猴子、马等十多种动物可以组合携带，赋予主角不同能力，解谜方式变化多端。\n\n画面鲜艳、动画细腻，城镇与野外的探索充满童话气息，而故事后半段关于“谁才是怪物”的反思，更让不少玩家印象深刻。\n\n喜欢俯视角像素冒险的朋友，这是MD上不可错过的一款。",
+    "highlights": [
+      "俯视角塞尔达式动作冒险",
+      "十余种动物伙伴组合出不同能力",
+      "鲜艳细腻的像素画面",
+      "发人深省的童话剧情"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "26/40",
+        "quote": "动物伙伴系统颇具新意"
+      },
+      {
+        "source": "EGM",
+        "score": "31/40",
+        "quote": "画面漂亮、解谜有趣的动作冒险"
+      },
+      {
+        "source": "Mean Machines Sega",
+        "score": "92%",
+        "quote": "MD上最接近塞尔达的优秀作品"
+      }
+    ],
+    "editorScore": 8.6,
+    "is2D": true,
+    "screenshots": [
+      "images/md/md-crusader-of-centy-x1.png",
+      "images/md/md-crusader-of-centy-x2.png",
+      "images/md/md-crusader-of-centy-x3.png",
+      "images/md/md-crusader-of-centy-s1.png",
+      "images/md/md-crusader-of-centy-title.png"
+    ],
+    "cover": "images/md/md-crusader-of-centy-box.jpg"
+  },
+  {
+    "id": "md-dynamite-headdy",
+    "title": "Dynamite Headdy",
+    "titleZh": "火爆头",
+    "titleJa": "ダイナマイトヘッディー",
+    "year": 1994,
+    "developer": "Treasure",
+    "publisher": "Sega",
+    "genre": "平台跳跃",
+    "tags": [
+      "像素",
+      "Treasure",
+      "木偶剧"
+    ],
+    "players": "1",
+    "tagline": "脑袋就是武器！Treasure的疯狂木偶剧场",
+    "description": "主角海迪是一个木偶，他的脑袋可以发射出去攻击敌人、抓住挂钩攀爬，还能替换成十几种不同功能的头：变大锤、变吸尘器、变喷气头……创意多到停不下来。\n\n整部游戏被设计成一场舞台剧，场景转换伴随着幕布与布景道具，BOSS战更是Treasure的拿手好戏——多关节、变形、旋转缩放，一个比一个疯狂。节奏紧凑又不失挑战，隐藏的“秘密奖励”收集也颇为耐玩。\n\n它是MD上最具想象力的平台游戏之一，每一关都会让你惊呼“还能这样玩？”",
+    "highlights": [
+      "脑袋发射攻击与十余种功能头",
+      "舞台剧式的场景演出",
+      "Treasure招牌的疯狂BOSS战",
+      "创意密度极高"
+    ],
+    "reviews": [
+      {
+        "source": "CVG",
+        "score": "92/100",
+        "quote": "想象力爆棚的平台动作游戏"
+      },
+      {
+        "source": "Mean Machines Sega",
+        "score": "93/100",
+        "quote": "画面与创意都令人惊叹"
+      },
+      {
+        "source": "Fami通",
+        "score": "28/40",
+        "quote": "Treasure风格的独特动作游戏"
+      }
+    ],
+    "editorScore": 8.6,
+    "is2D": true,
+    "screenshots": [
+      "images/md/md-dynamite-headdy-x1.png",
+      "images/md/md-dynamite-headdy-x2.png",
+      "images/md/md-dynamite-headdy-x3.png",
+      "images/md/md-dynamite-headdy-s1.png",
+      "images/md/md-dynamite-headdy-s2.png",
+      "images/md/md-dynamite-headdy-title.png"
+    ],
+    "cover": "images/md/md-dynamite-headdy-box.jpg"
+  },
+  {
+    "id": "md-streets-of-rage-3",
+    "title": "Streets of Rage 3",
+    "titleZh": "怒之铁拳3",
+    "titleJa": "ベア・ナックルIII",
+    "year": 1994,
+    "developer": "Sega",
+    "publisher": "Sega",
+    "genre": "动作清版",
+    "tags": [
+      "像素",
+      "双人",
+      "多结局"
+    ],
+    "players": "1-2",
+    "tagline": "系统更深更快，三部曲的硬派终章",
+    "description": "三部曲的最终章，《怒之铁拳3》在系统上做了大量强化：冲刺与翻滚闪避、武器专属必杀、可回复的必杀槽，战斗节奏比前作更快更激烈。可选角色加入机器人教授扎恩，还能解锁袋鼠、忍者等隐藏角色。\n\n剧情分支与多结局的设计增加了重玩价值，过场对话也更丰富。古代祐三的配乐转向更前卫的硬核电子风格，虽然褒贬不一，却极具个性。日版难度适中，比美版更推荐。\n\n如果你已经把2代打通了无数遍，3代深化的战斗系统会给你全新的挑战。",
+    "highlights": [
+      "冲刺、翻滚与武器必杀等强化系统",
+      "多个隐藏角色可解锁",
+      "剧情分支与多重结局",
+      "古代祐三前卫电子风配乐"
+    ],
+    "reviews": [
+      {
+        "source": "EGM",
+        "score": "29/40",
+        "quote": "战斗系统更丰富，系列忠实粉丝会满意"
+      },
+      {
+        "source": "Mean Machines Sega",
+        "score": "83%",
+        "quote": "动作扎实的续作，但新意略逊前作"
+      },
+      {
+        "source": "Game Informer",
+        "score": "8/10",
+        "quote": "双人合作依旧爽快"
+      }
+    ],
+    "editorScore": 8.6,
+    "is2D": true,
+    "screenshots": [
+      "images/md/md-streets-of-rage-3-x1.png",
+      "images/md/md-streets-of-rage-3-x2.png",
+      "images/md/md-streets-of-rage-3-x3.png",
+      "images/md/md-streets-of-rage-3-s1.png",
+      "images/md/md-streets-of-rage-3-s2.png",
+      "images/md/md-streets-of-rage-3-title.png"
+    ],
+    "cover": "images/md/md-streets-of-rage-3-box.jpg"
+  },
+  {
+    "id": "md-earthworm-jim",
+    "title": "Earthworm Jim",
+    "titleZh": "蚯蚓吉姆",
+    "titleJa": "",
+    "year": 1994,
+    "developer": "Shiny Entertainment",
+    "publisher": "Playmates Interactive / Virgin",
+    "genre": "平台跳跃",
+    "tags": [
+      "像素",
+      "美式幽默",
+      "手绘动画"
+    ],
+    "players": "1",
+    "tagline": "穿上超级战衣的蚯蚓，美式动画幽默大爆发",
+    "description": "一条普通的蚯蚓意外穿上了超级战衣，从此化身为英雄！《蚯蚓吉姆》采用了当时轰动一时的“动画化”技术，角色动作像卡通片一样流畅夸张，吉姆甩头当鞭子、举着奶牛乱扔，搞笑桥段层出不穷。\n\n关卡设计天马行空：在垃圾场与乌鸦搏斗、驾驶火箭竞速、操控小狗过关……几乎每一关都有完全不同的玩法。美式无厘头幽默贯穿始终，BOSS名字和造型都令人捧腹。\n\n这是美国2D动作游戏黄金时代的代表作，今天看依然鬼马精灵。",
+    "highlights": [
+      "卡通片般流畅的动画表现",
+      "天马行空、玩法多变的关卡",
+      "美式无厘头幽默",
+      "甩头鞭与奶牛等经典桥段"
+    ],
+    "reviews": [
+      {
+        "source": "EGM",
+        "score": "35/40",
+        "quote": "动画与幽默感一流的平台游戏"
+      },
+      {
+        "source": "Mega",
+        "score": "92%",
+        "quote": "画面令人惊叹，创意十足"
+      },
+      {
+        "source": "GameRankings",
+        "score": "81.17%",
+        "quote": "综合评价优秀的经典平台动作"
+      }
+    ],
+    "editorScore": 8.6,
+    "is2D": true,
+    "screenshots": [
+      "images/md/md-earthworm-jim-x1.png",
+      "images/md/md-earthworm-jim-x2.png",
+      "images/md/md-earthworm-jim-x3.png",
+      "images/md/md-earthworm-jim-s1.png",
+      "images/md/md-earthworm-jim-s2.png",
+      "images/md/md-earthworm-jim-title.png"
+    ],
+    "cover": "images/md/md-earthworm-jim-box.jpg"
+  },
+  {
+    "id": "md-thunder-force-iii",
+    "title": "Thunder Force III",
+    "titleZh": "雷霆力量III",
+    "titleJa": "サンダーフォースIII",
+    "year": 1990,
+    "developer": "Technosoft",
+    "publisher": "Technosoft",
+    "genre": "射击",
+    "tags": [
+      "像素",
+      "STG",
+      "多层卷轴"
+    ],
+    "players": "1",
+    "tagline": "可选关卡的横版射击，MD初期机能的炫技之作",
+    "description": "《雷霆力量III》是让无数玩家第一次惊叹“MD画面真厉害”的射击游戏。多层视差卷轴、火焰流动的熔岩星、水下世界的波光，画面效果在1990年领先同期。\n\n开局可以自由选择五颗星球的攻略顺序，武器系统支持随时切换，配合可调节速度的机体，策略性十足。重摇滚配乐激昂澎湃，和画面完美契合。难度合理，是入门横版射击的上佳之选。\n\n它为后来的《IV》打下了坚实基础，至今仍被许多玩家视为系列中平衡性最好的一作。",
+    "highlights": [
+      "可自由选择攻略顺序的五颗星球",
+      "多层视差卷轴的炫目画面",
+      "随时切换的武器与速度调节",
+      "重摇滚风格配乐"
+    ],
+    "reviews": [
+      {
+        "source": "EGM",
+        "score": "33/40",
+        "quote": "画面与音效顶尖的射击游戏"
+      },
+      {
+        "source": "Fami通",
+        "score": "31/40",
+        "quote": "完成度极高的横版射击"
+      },
+      {
+        "source": "MegaTech",
+        "score": "89%",
+        "quote": "MD上最好的射击游戏之一"
+      }
+    ],
+    "editorScore": 8.6,
+    "is2D": true,
+    "screenshots": [
+      "images/md/md-thunder-force-iii-x1.png",
+      "images/md/md-thunder-force-iii-x2.png",
+      "images/md/md-thunder-force-iii-x3.png",
+      "images/md/md-thunder-force-iii-s1.png",
+      "images/md/md-thunder-force-iii-title.png"
+    ],
+    "cover": "images/md/md-thunder-force-iii-box.jpg"
   },
   {
     "id": "md-comix-zone",
@@ -785,7 +1474,7 @@
     "year": 1995,
     "developer": "Sega Technical Institute",
     "publisher": "Sega",
-    "genre": "清版动作",
+    "genre": "动作清版",
     "tags": [
       "像素",
       "美漫",
@@ -807,7 +1496,7 @@
         "quote": "独一无二的漫画式呈现，令人印象深刻"
       },
       {
-        "source": "Famitsu",
+        "source": "Fami通",
         "score": "30/40",
         "quote": "创意出众，演出效果新颖"
       },
@@ -820,11 +1509,168 @@
     "editorScore": 8.5,
     "is2D": true,
     "screenshots": [
-      "images/md/md-comix-zone-1.png",
-      "images/md/md-comix-zone-2.png",
-      "images/md/md-comix-zone-3.png"
+      "images/md/md-comix-zone-x1.png",
+      "images/md/md-comix-zone-x2.png",
+      "images/md/md-comix-zone-x3.png",
+      "images/md/md-comix-zone-s1.png",
+      "images/md/md-comix-zone-s2.png",
+      "images/md/md-comix-zone-title.png"
     ],
-    "coverShot": true
+    "cover": "images/md/md-comix-zone-box.jpg"
+  },
+  {
+    "id": "md-alien-soldier",
+    "title": "Alien Soldier",
+    "titleZh": "外星战士",
+    "titleJa": "エイリアンソルジャー",
+    "year": 1995,
+    "developer": "Treasure",
+    "publisher": "Sega",
+    "genre": "射击",
+    "tags": [
+      "像素",
+      "BOSS连战",
+      "高难度"
+    ],
+    "players": "1",
+    "tagline": "二十五关BOSS连战，硬核动作的极限挑战",
+    "description": "“专为MD核心玩家打造”——Treasure在开机画面上就这样宣告。《外星战士》几乎是一场长达二十五个阶段的BOSS连战，主角“史诗”可在地面与天花板之间自由反转，六种武器随时切换，还有闪避冲刺与“相位攻击”等高阶技巧。\n\n画面上，多关节巨型BOSS、旋转缩放、满屏爆炸让人瞠目结舌，很难相信这是1995年的16位游戏。难度极高，但每击败一个BOSS的成就感也无与伦比。\n\n如果你已经通关《火枪英雄》，那么这就是Treasure为你准备的终极考卷。",
+    "highlights": [
+      "二十五阶段近乎纯BOSS战",
+      "地面天花板自由反转的独特机动",
+      "六种武器与冲刺闪避等高阶技巧",
+      "Treasure巅峰级的机能展示"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "24/40",
+        "quote": "面向高手的硬核动作游戏"
+      },
+      {
+        "source": "Mean Machines Sega",
+        "score": "85/100",
+        "quote": "画面惊人，但难度只适合硬核玩家"
+      },
+      {
+        "source": "IGN",
+        "score": "8/10",
+        "quote": "Treasure最纯粹的动作杰作之一"
+      }
+    ],
+    "editorScore": 8.5,
+    "is2D": true,
+    "screenshots": [
+      "images/md/md-alien-soldier-x1.png",
+      "images/md/md-alien-soldier-x2.png",
+      "images/md/md-alien-soldier-x3.png",
+      "images/md/md-alien-soldier-s1.png",
+      "images/md/md-alien-soldier-title.png"
+    ],
+    "cover": "images/md/md-alien-soldier-box.jpg"
+  },
+  {
+    "id": "md-ecco-the-dolphin",
+    "title": "Ecco the Dolphin",
+    "titleZh": "海豚艾可",
+    "titleJa": "エコー・ザ・ドルフィン",
+    "year": 1992,
+    "developer": "Novotrade",
+    "publisher": "Sega",
+    "genre": "动作冒险",
+    "tags": [
+      "像素",
+      "海洋",
+      "氛围"
+    ],
+    "players": "1",
+    "tagline": "孤独的海豚穿越时空，16位时代的海洋诗篇",
+    "description": "一场风暴卷走了海豚艾可的族群，只剩它孤身寻找真相——这段旅程最终会穿越时空、抵达亚特兰蒂斯，甚至直面外星生物。《海豚艾可》没有一句多余的说明，只用流畅的游泳动画、深邃的海底场景与空灵的配乐，营造出孤独而神秘的氛围。\n\n玩法以探索和解谜为主：用声纳与其他鲸豚交流、查看地图，还要时刻注意浮出水面换气。难度颇高，却让每一次突破都格外难忘。\n\n它是那个年代最具艺术气质的游戏之一，至今仍让人回味无穷。",
+    "highlights": [
+      "流畅逼真的海豚游泳动画",
+      "声纳交流与换气的独特玩法",
+      "神秘深邃的科幻剧情",
+      "空灵氛围配乐"
+    ],
+    "reviews": [
+      {
+        "source": "CVG",
+        "score": "94/100",
+        "quote": "独一无二、美丽动人的作品"
+      },
+      {
+        "source": "MegaTech",
+        "score": "94%",
+        "quote": "获“Hyper Game”称号的出色冒险"
+      },
+      {
+        "source": "Sega-16",
+        "score": "10/10",
+        "quote": "MD上最具氛围感的经典"
+      }
+    ],
+    "editorScore": 8.4,
+    "is2D": true,
+    "screenshots": [
+      "images/md/md-ecco-the-dolphin-x1.png",
+      "images/md/md-ecco-the-dolphin-x2.png",
+      "images/md/md-ecco-the-dolphin-x3.png",
+      "images/md/md-ecco-the-dolphin-s1.png",
+      "images/md/md-ecco-the-dolphin-s2.png",
+      "images/md/md-ecco-the-dolphin-title.png"
+    ],
+    "cover": "images/md/md-ecco-the-dolphin-box.jpg"
+  },
+  {
+    "id": "md-wonder-boy-in-monster-world",
+    "title": "Wonder Boy in Monster World",
+    "titleZh": "神奇男孩 怪物世界",
+    "titleJa": "ワンダーボーイV モンスターワールドIII",
+    "year": 1991,
+    "developer": "Westone",
+    "publisher": "Sega",
+    "genre": "动作角色扮演",
+    "tags": [
+      "像素",
+      "横版",
+      "探索"
+    ],
+    "players": "1",
+    "tagline": "横版动作RPG的温馨冒险，买装备逛村庄",
+    "description": "少年冒险家沙恩为拯救被怪物入侵的“怪物世界”踏上旅程。《神奇男孩 怪物世界》把横版动作与RPG成长结合得恰到好处：在村庄里与居民交谈、到商店购买剑盾铠甲、收集金币与道具，再前往迷宫挑战BOSS。\n\n一路上会有矮人、小龙、妖精等伙伴加入，协助战斗与解谜；地下洞窟、海底宫殿、天空城等场景各具特色，背景音乐轻快动听，城镇气氛温馨宜人。存档、装备选择等设计也让冒险节奏十分舒适。\n\n喜欢像素小镇与轻量动作RPG的玩家，会在这里找到满满的幸福感。",
+    "highlights": [
+      "横版动作与RPG成长的完美结合",
+      "温馨的村庄、商店与居民",
+      "伙伴同行协助战斗解谜",
+      "丰富多样的迷宫场景"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "27/40",
+        "quote": "动作与RPG要素结合巧妙"
+      },
+      {
+        "source": "EGM",
+        "score": "25/40",
+        "quote": "画面可爱，但部分设计略显平淡"
+      },
+      {
+        "source": "Sega-16",
+        "score": "9/10",
+        "quote": "Monster World系列中最易上手的一作"
+      }
+    ],
+    "editorScore": 8.4,
+    "is2D": true,
+    "screenshots": [
+      "images/md/md-wonder-boy-in-monster-world-x1.png",
+      "images/md/md-wonder-boy-in-monster-world-x2.png",
+      "images/md/md-wonder-boy-in-monster-world-x3.png",
+      "images/md/md-wonder-boy-in-monster-world-s1.png",
+      "images/md/md-wonder-boy-in-monster-world-title.png"
+    ],
+    "cover": "images/md/md-wonder-boy-in-monster-world-box.jpg"
   },
   {
     "id": "md-light-crusader",
@@ -856,7 +1702,7 @@
         "quote": "谜题设计精巧，画面细致"
       },
       {
-        "source": "Famitsu",
+        "source": "Fami通",
         "score": "27/40",
         "quote": "Treasure风格的动作RPG，解谜比重较大"
       },
@@ -869,10 +1715,309 @@
     "editorScore": 8.3,
     "is2D": true,
     "screenshots": [
-      "images/md/md-light-crusader-1.png",
-      "images/md/md-light-crusader-2.png",
-      "images/md/md-light-crusader-3.png"
+      "images/md/md-light-crusader-x1.png",
+      "images/md/md-light-crusader-x2.png",
+      "images/md/md-light-crusader-x3.png",
+      "images/md/md-light-crusader-s1.png",
+      "images/md/md-light-crusader-s2.png",
+      "images/md/md-light-crusader-title.png"
     ],
-    "coverShot": true
+    "cover": "images/md/md-light-crusader-box.jpg"
+  },
+  {
+    "id": "md-musha",
+    "title": "MUSHA",
+    "titleZh": "武者阿雷斯塔",
+    "titleJa": "武者アレスタ",
+    "year": 1990,
+    "developer": "Compile",
+    "publisher": "Toaplan (JP) / Seismic (NA)",
+    "genre": "射击",
+    "tags": [
+      "像素",
+      "STG",
+      "和风机甲"
+    ],
+    "players": "1",
+    "tagline": "和风机甲纵版射击，Compile的硬派杰作",
+    "description": "Compile的“阿雷斯塔”系列在MD上的力作。玩家驾驶和风装甲机人“武者”，在古日本与科幻交织的世界中展开激战。纵版卷轴、高速爽快，主武器、副武器与可切换阵型的僚机组合丰富，火力全开时满屏弹幕极为过瘾。\n\n画面融合了日式武者盔甲与机械设定，敌人设计充满特色；摇滚风格的配乐节奏强烈，被许多玩家视为MD射击游戏音乐的代表作之一。\n\n美版发行量稀少，二手价一度水涨船高，如今已可在复刻合集中轻松体验，射击游戏爱好者别错过。",
+    "highlights": [
+      "和风盔甲与机甲融合的独特美术",
+      "可切换阵型的僚机系统",
+      "高速爽快的纵版射击",
+      "强劲的摇滚配乐"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "27/40",
+        "quote": "节奏爽快、完成度高的纵版射击"
+      },
+      {
+        "source": "Raze",
+        "score": "80%",
+        "quote": "画面与音乐出色的射击游戏"
+      },
+      {
+        "source": "Sega Pro",
+        "score": "80%",
+        "quote": "火力系统丰富，射击迷必玩"
+      }
+    ],
+    "editorScore": 8.3,
+    "is2D": true,
+    "screenshots": [
+      "images/md/md-musha-s1.png",
+      "images/md/md-musha-s2.png",
+      "images/md/md-musha-title.png"
+    ],
+    "cover": "images/md/md-musha-box.jpg"
+  },
+  {
+    "id": "md-shining-in-the-darkness",
+    "title": "Shining in the Darkness",
+    "titleZh": "光明与黑暗",
+    "titleJa": "シャイニング&ザ・ダクネス",
+    "year": 1991,
+    "developer": "Climax Entertainment / Sega",
+    "publisher": "Sega",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "3D迷宫",
+      "光明系列"
+    ],
+    "players": "1",
+    "tagline": "光明系列的起点，第一人称迷宫探索",
+    "description": "“光明”系列的原点！由高桥宏之、内藤宽等《勇者斗恶龙》老将参与打造，《光明与黑暗》是一款第一人称视角的迷宫探索RPG。主角为寻找失踪的公主与父亲，与伙伴深入古老的迷宫。\n\n迷宫画面流畅、怪物动画生动，城镇里的角色立绘与对话充满生气，酒馆、商店、武器铸造……熟悉的日式RPG乐趣一个不少。玩法纯粹，越往深处走越有“再往前一步”的冲动。\n\n日后《光明力量》系列的世界观与人设风格，正是从这里起步。喜欢传统地城RPG的朋友，值得回顾这部源头之作。",
+    "highlights": [
+      "第一人称3D迷宫探索",
+      "生动的怪物动画与角色立绘",
+      "传统日式RPG的城镇与成长乐趣",
+      "“光明”系列的起点"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "31/40",
+        "quote": "获得白银殿堂，画面与易玩性都受到好评"
+      },
+      {
+        "source": "Sega Pro",
+        "score": "93%",
+        "quote": "MD上最出色的迷宫RPG之一"
+      },
+      {
+        "source": "Sega Force",
+        "score": "90%",
+        "quote": "氛围出色、令人沉迷的冒险"
+      }
+    ],
+    "editorScore": 8.2,
+    "is2D": true,
+    "screenshots": [
+      "images/md/md-shining-in-the-darkness-x1.png",
+      "images/md/md-shining-in-the-darkness-x2.png",
+      "images/md/md-shining-in-the-darkness-x3.png",
+      "images/md/md-shining-in-the-darkness-s1.png",
+      "images/md/md-shining-in-the-darkness-s2.png",
+      "images/md/md-shining-in-the-darkness-title.png"
+    ],
+    "cover": "images/md/md-shining-in-the-darkness-box.jpg"
+  },
+  {
+    "id": "md-phantasy-star-iii",
+    "title": "Phantasy Star III: Generations of Doom",
+    "titleZh": "梦幻之星III 时之继承者",
+    "titleJa": "時の継承者 ファンタシースターIII",
+    "year": 1990,
+    "developer": "Sega",
+    "publisher": "Sega",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "世代传承",
+      "多结局"
+    ],
+    "players": "1",
+    "tagline": "三代人的命运抉择，系列最独特的异色作",
+    "description": "《梦幻之星III》大胆地抛开了前作的科幻舞台，换上剑与魔法的中世纪外衣——但真相远没有那么简单。游戏最大的创举是“世代系统”：主角在旅途中选择不同的伴侣结婚，下一代主角与剧情随之改变，三代传承共有四种结局。\n\n战斗画面采用侧视角，敌人造型颇具魄力；城镇与世界之间的连接方式也很有新意。虽然整体评价不及前后两作，但在1990年就玩起“婚姻决定命运”的多线叙事，这份胆识至今少见。\n\n想体验与众不同的RPG故事结构，不妨一试。",
+    "highlights": [
+      "独创世代传承系统，婚姻决定后代",
+      "三代主角、四种结局",
+      "剑与魔法外衣下隐藏科幻真相",
+      "系列中最具实验性的一作"
+    ],
+    "reviews": [
+      {
+        "source": "EGM",
+        "score": "32/40",
+        "quote": "世代系统新颖，故事分支令人想反复游玩"
+      },
+      {
+        "source": "MegaTech",
+        "score": "89%",
+        "quote": "规模宏大、充满新意的RPG"
+      },
+      {
+        "source": "Sega Power",
+        "score": "93%",
+        "quote": "MD上又一部值得投入的长篇RPG"
+      }
+    ],
+    "editorScore": 8.0,
+    "is2D": true,
+    "screenshots": [
+      "images/md/md-phantasy-star-iii-x1.png",
+      "images/md/md-phantasy-star-iii-x2.png",
+      "images/md/md-phantasy-star-iii-x3.png",
+      "images/md/md-phantasy-star-iii-s1.png",
+      "images/md/md-phantasy-star-iii-s2.png",
+      "images/md/md-phantasy-star-iii-title.png"
+    ],
+    "cover": "images/md/md-phantasy-star-iii-box.jpg"
+  },
+  {
+    "id": "md-warsong",
+    "title": "Warsong",
+    "titleZh": "梦幻模拟战",
+    "titleJa": "ラングリッサー",
+    "year": 1991,
+    "developer": "Career Soft",
+    "publisher": "NCS (Masaya) / Treco",
+    "genre": "战略角色扮演",
+    "tags": [
+      "像素",
+      "战棋",
+      "佣兵"
+    ],
+    "players": "1",
+    "tagline": "梦战系列的原点，佣兵战棋就此诞生",
+    "description": "《梦幻模拟战》系列的第一作（美版名《Warsong》）。巴尔迪亚王国的王子雷迪恩在国破家亡后举起反旗，带领将领们踏上复国之路。\n\n系列招牌的“指挥官+佣兵”系统在本作已经成型：雇佣士兵、利用兵种相克、让佣兵围绕指挥官获得加成，每一场战斗都是一次排兵布阵的考验。地图规模可观，战斗切入演出虽然朴素，却很有临场感。\n\n画面与系统不如续作完善，但作为一切的起点，它朴实而硬派的战棋乐趣依旧值得系列粉丝回顾。",
+    "highlights": [
+      "系列“指挥官+佣兵”系统的起点",
+      "王子复国的正统奇幻剧情",
+      "兵种相克与阵型策略",
+      "硬派扎实的战棋手感"
+    ],
+    "reviews": [
+      {
+        "source": "Sega-16",
+        "score": "8/10",
+        "quote": "扎实的战略RPG，奠定了系列的核心玩法"
+      }
+    ],
+    "editorScore": 8.0,
+    "is2D": true,
+    "screenshots": [
+      "images/md/md-warsong-x1.png",
+      "images/md/md-warsong-x2.png",
+      "images/md/md-warsong-x3.png",
+      "images/md/md-warsong-s1.png",
+      "images/md/md-warsong-title.png"
+    ],
+    "cover": "images/md/md-warsong-box.jpg"
+  },
+  {
+    "id": "md-quackshot",
+    "title": "QuackShot Starring Donald Duck",
+    "titleZh": "唐老鸭 宝藏大冒险",
+    "titleJa": "アイラブドナルドダック グルジア王の秘宝",
+    "year": 1991,
+    "developer": "Sega",
+    "publisher": "Sega",
+    "genre": "平台跳跃",
+    "tags": [
+      "像素",
+      "迪士尼",
+      "寻宝"
+    ],
+    "players": "1",
+    "tagline": "唐老鸭的环球寻宝之旅，皮搋子也能当武器",
+    "description": "唐老鸭发现了一张古老的藏宝图，带着三个侄子乘飞机周游世界寻宝！《唐老鸭 宝藏大冒险》以世界各地为舞台：从鸭堡出发，到墨西哥、特兰西瓦尼亚、印度王宫、南极……可以自由选择目的地，关卡之间还有道具和线索相互关联。\n\n唐老鸭的武器是一把能发射皮搋子的枪，皮搋子可以粘在墙上当踏板，还能吃辣椒进入“暴怒模式”横冲直撞，幽默感十足。画面延续了《幻想城堡》的精美水准，色彩丰富细腻。\n\n轻松愉快的冒险体验，适合想放松一下的2D玩家。",
+    "highlights": [
+      "自由选择目的地的环球寻宝",
+      "皮搋子枪可当踏板的巧妙设计",
+      "吃辣椒触发暴怒模式",
+      "精美的迪士尼风格画面"
+    ],
+    "reviews": [
+      {
+        "source": "CVG",
+        "score": "89/100",
+        "quote": "画面优美、充满幽默感的平台游戏"
+      },
+      {
+        "source": "EGM",
+        "score": "28/40",
+        "quote": "可爱有趣，但难度偏低"
+      },
+      {
+        "source": "Fami通",
+        "score": "24/40",
+        "quote": "迪士尼角色魅力十足"
+      }
+    ],
+    "editorScore": 8.0,
+    "is2D": true,
+    "screenshots": [
+      "images/md/md-quackshot-x1.png",
+      "images/md/md-quackshot-x2.png",
+      "images/md/md-quackshot-x3.png",
+      "images/md/md-quackshot-s1.png",
+      "images/md/md-quackshot-title.png"
+    ],
+    "cover": "images/md/md-quackshot-box.jpg"
+  },
+  {
+    "id": "md-sword-of-vermilion",
+    "title": "Sword of Vermilion",
+    "titleZh": "朱红之剑",
+    "titleJa": "ヴァーミリオン",
+    "year": 1989,
+    "developer": "Sega",
+    "publisher": "Sega",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "铃木裕",
+      "多视角"
+    ],
+    "players": "1",
+    "tagline": "铃木裕担纲制作，多种视角混搭的早期RPG",
+    "description": "由《Out Run》《太空哈利》的铃木裕领衔制作，《朱红之剑》是MD早期少见的大型RPG。王子在养父临终前得知身世，踏上寻找八枚指环、为父王复仇的旅程。\n\n游戏的最大特色是视角混搭：城镇采用俯视角，野外与迷宫切换为第一人称视角，遭遇敌人后又进入俯视角的即时动作战斗，BOSS战则变成横版对决。在1989年，这种大胆尝试相当新鲜。\n\n以今天的眼光看系统略显粗糙、练级较多，但作为MD初期的RPG大作，它承载着那个年代的野心与浪漫。",
+    "highlights": [
+      "铃木裕领衔的早期RPG大作",
+      "俯视角、第一人称与横版多视角混合",
+      "即时动作战斗与横版BOSS战",
+      "附带厚重攻略手册的经典体验"
+    ],
+    "reviews": [
+      {
+        "source": "CVG",
+        "score": "91%",
+        "quote": "画面与规模令人惊叹的RPG"
+      },
+      {
+        "source": "MegaTech",
+        "score": "93%",
+        "quote": "MD上早期最值得入手的RPG之一"
+      },
+      {
+        "source": "Sega-16",
+        "score": "5/10",
+        "quote": "野心可嘉，但以今天标准看系统较为粗糙"
+      }
+    ],
+    "editorScore": 7.6,
+    "is2D": true,
+    "screenshots": [
+      "images/md/md-sword-of-vermilion-x1.png",
+      "images/md/md-sword-of-vermilion-x2.png",
+      "images/md/md-sword-of-vermilion-x3.png",
+      "images/md/md-sword-of-vermilion-s1.png",
+      "images/md/md-sword-of-vermilion-title.png"
+    ],
+    "cover": "images/md/md-sword-of-vermilion-box.jpg"
   }
 ]

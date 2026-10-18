@@ -43,10 +43,13 @@
     "editorScore": 9.8,
     "is2D": true,
     "screenshots": [
-      "images/ps/ps-symphony-of-the-night-1.jpg",
-      "images/ps/ps-symphony-of-the-night-2.jpg"
+      "images/ps/ps-symphony-of-the-night-s1.png",
+      "images/ps/ps-symphony-of-the-night-s2.png",
+      "images/ps/ps-symphony-of-the-night-s3.png",
+      "images/ps/ps-symphony-of-the-night-x1.jpg",
+      "images/ps/ps-symphony-of-the-night-title.png"
     ],
-    "coverShot": true
+    "cover": "images/ps/ps-symphony-of-the-night-box.jpg"
   },
   {
     "id": "ps-chrono-cross",
@@ -91,10 +94,12 @@
     "editorScore": 9.6,
     "is2D": false,
     "screenshots": [
-      "images/ps/ps-chrono-cross-1.png",
-      "images/ps/ps-chrono-cross-2.png"
+      "images/ps/ps-chrono-cross-s1.png",
+      "images/ps/ps-chrono-cross-x1.png",
+      "images/ps/ps-chrono-cross-x2.png",
+      "images/ps/ps-chrono-cross-title.png"
     ],
-    "coverShot": true
+    "cover": "images/ps/ps-chrono-cross-box.jpg"
   },
   {
     "id": "ps-suikoden-ii",
@@ -140,10 +145,12 @@
     "editorScore": 9.6,
     "is2D": true,
     "screenshots": [
-      "images/ps/ps-suikoden-ii-1.jpg",
-      "images/ps/ps-suikoden-ii-2.jpg"
+      "images/ps/ps-suikoden-ii-s1.png",
+      "images/ps/ps-suikoden-ii-s2.png",
+      "images/ps/ps-suikoden-ii-x1.jpg",
+      "images/ps/ps-suikoden-ii-title.png"
     ],
-    "coverShot": true
+    "cover": "images/ps/ps-suikoden-ii-box.jpg"
   },
   {
     "id": "ps-final-fantasy-tactics",
@@ -153,7 +160,7 @@
     "year": 1997,
     "developer": "Square",
     "publisher": "Square",
-    "genre": "策略角色扮演",
+    "genre": "战略角色扮演",
     "tags": [
       "战棋",
       "职业系统",
@@ -189,10 +196,63 @@
     "editorScore": 9.5,
     "is2D": true,
     "screenshots": [
-      "images/ps/ps-final-fantasy-tactics-1.jpg",
-      "images/ps/ps-final-fantasy-tactics-2.jpg"
+      "images/ps/ps-final-fantasy-tactics-s1.png",
+      "images/ps/ps-final-fantasy-tactics-s2.png",
+      "images/ps/ps-final-fantasy-tactics-x1.jpg",
+      "images/ps/ps-final-fantasy-tactics-x2.jpg",
+      "images/ps/ps-final-fantasy-tactics-title.png"
     ],
-    "coverShot": true
+    "cover": "images/ps/ps-final-fantasy-tactics-box.jpg"
+  },
+  {
+    "id": "ps-final-fantasy-ix",
+    "title": "Final Fantasy IX",
+    "titleZh": "最终幻想IX",
+    "titleJa": "ファイナルファンタジーIX",
+    "year": 2000,
+    "developer": "Square",
+    "publisher": "Square",
+    "genre": "角色扮演",
+    "tags": [
+      "回归原点",
+      "水晶",
+      "童话"
+    ],
+    "players": "1",
+    "tagline": "水晶之下的告别演出，FF回归原点之作",
+    "description": "坂口博信口中\"最接近理想的FF\"！在3D写实化的七代、八代之后，SQUARE毅然回归奇幻原点：Q版比例的角色、中世纪城堡与飞空艇、四人战斗与ATB，一切都是老玩家熟悉的味道。\n\n盗贼团少年吉坦、渴望自由的公主嘉妮特、迷惘的黑魔导士比比……每一个角色都在旅途中追问\"活着的意义\"。比比的故事尤其令人动容，堪称全系列最催泪的篇章之一。预渲染背景如绘本般精致，植松伸夫亲自谱写的配乐多达百余首。\n\n作为PS上的最后一部正统FF，它是一封写给系列十五年历史的情书。今天重温，依旧温暖如初。",
+    "highlights": [
+      "回归中世纪奇幻与Q版人物的原点风格",
+      "比比等角色的动人成长故事",
+      "绘本般精致的预渲染背景",
+      "植松伸夫最得意的配乐之一"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "38/40",
+        "quote": "系列集大成之作，世界观与角色塑造均极为出色"
+      },
+      {
+        "source": "IGN",
+        "score": "9.2/10",
+        "quote": "向系列历史致敬的精彩RPG"
+      },
+      {
+        "source": "Metacritic",
+        "score": "94/100",
+        "quote": "获得媒体一致盛赞"
+      }
+    ],
+    "editorScore": 9.4,
+    "is2D": false,
+    "screenshots": [
+      "images/ps/ps-final-fantasy-ix-s1.png",
+      "images/ps/ps-final-fantasy-ix-s2.png",
+      "images/ps/ps-final-fantasy-ix-s3.png",
+      "images/ps/ps-final-fantasy-ix-title.png"
+    ],
+    "cover": "images/ps/ps-final-fantasy-ix-box.jpg"
   },
   {
     "id": "ps-valkyrie-profile",
@@ -237,10 +297,14 @@
     "editorScore": 9.3,
     "is2D": true,
     "screenshots": [
-      "images/ps/ps-valkyrie-profile-1.jpg",
-      "images/ps/ps-valkyrie-profile-2.jpg"
+      "images/ps/ps-valkyrie-profile-s1.png",
+      "images/ps/ps-valkyrie-profile-s2.png",
+      "images/ps/ps-valkyrie-profile-s3.png",
+      "images/ps/ps-valkyrie-profile-x1.jpg",
+      "images/ps/ps-valkyrie-profile-x2.jpg",
+      "images/ps/ps-valkyrie-profile-title.png"
     ],
-    "coverShot": true
+    "cover": "images/ps/ps-valkyrie-profile-box.jpg"
   },
   {
     "id": "ps-xenogears",
@@ -285,10 +349,12 @@
     "editorScore": 9.2,
     "is2D": true,
     "screenshots": [
-      "images/ps/ps-xenogears-1.jpg",
-      "images/ps/ps-xenogears-2.jpg"
+      "images/ps/ps-xenogears-s1.png",
+      "images/ps/ps-xenogears-s2.png",
+      "images/ps/ps-xenogears-x1.jpg",
+      "images/ps/ps-xenogears-title.png"
     ],
-    "coverShot": true
+    "cover": "images/ps/ps-xenogears-box.jpg"
   },
   {
     "id": "ps-legend-of-mana",
@@ -333,10 +399,13 @@
     "editorScore": 9.1,
     "is2D": true,
     "screenshots": [
-      "images/ps/ps-legend-of-mana-1.jpg",
-      "images/ps/ps-legend-of-mana-2.png"
+      "images/ps/ps-legend-of-mana-s1.png",
+      "images/ps/ps-legend-of-mana-s2.png",
+      "images/ps/ps-legend-of-mana-x1.jpg",
+      "images/ps/ps-legend-of-mana-x2.png",
+      "images/ps/ps-legend-of-mana-title.png"
     ],
-    "coverShot": true
+    "cover": "images/ps/ps-legend-of-mana-box.jpg"
   },
   {
     "id": "ps-alundra",
@@ -382,9 +451,12 @@
     "editorScore": 9.0,
     "is2D": true,
     "screenshots": [
-      "images/ps/ps-alundra-1.jpg"
+      "images/ps/ps-alundra-s1.png",
+      "images/ps/ps-alundra-x1.jpg",
+      "images/ps/ps-alundra-x2.jpg",
+      "images/ps/ps-alundra-title.png"
     ],
-    "coverShot": false
+    "cover": "images/ps/ps-alundra-box.jpg"
   },
   {
     "id": "ps-klonoa",
@@ -394,7 +466,7 @@
     "year": 1997,
     "developer": "Namco",
     "publisher": "Namco",
-    "genre": "横版动作",
+    "genre": "平台跳跃",
     "tags": [
       "2.5D",
       "平台跳跃",
@@ -429,10 +501,111 @@
     "editorScore": 9.0,
     "is2D": true,
     "screenshots": [
-      "images/ps/ps-klonoa-1.png",
-      "images/ps/ps-klonoa-2.jpg"
+      "images/ps/ps-klonoa-s1.png",
+      "images/ps/ps-klonoa-s2.png",
+      "images/ps/ps-klonoa-x1.png",
+      "images/ps/ps-klonoa-title.png"
     ],
-    "coverShot": true
+    "cover": "images/ps/ps-klonoa-box.jpg"
+  },
+  {
+    "id": "ps-grandia",
+    "title": "Grandia",
+    "titleZh": "格兰蒂亚",
+    "titleJa": "グランディア",
+    "year": 1999,
+    "developer": "Game Arts",
+    "publisher": "ESP / Sony Computer Entertainment",
+    "genre": "角色扮演",
+    "tags": [
+      "冒险",
+      "即时指令",
+      "热血"
+    ],
+    "players": "1",
+    "tagline": "冒险就是要出发！最纯粹的少年冒险之歌",
+    "description": "GAME ARTS倾注心血的冒险大作，从土星移植PS后终于让更多玩家见识它的魅力！少年冒险家贾斯汀怀抱成为冒险家的梦想，与青梅竹马的小苏一起出海，越过\"世界尽头之墙\"，揭开古代文明安古鲁的秘密。\n\n本作的战斗系统堪称一绝：IP行动条实时推进，抓准时机\"打断\"敌人的大招，让回合制战斗充满紧张的博弈感。2D精灵角色行走在可旋转的3D场景中，城镇生活气息浓厚，NPC对话丰富有趣。\n\n岩垂德行的配乐朝气蓬勃，整部作品洋溢着纯粹的冒险热情。厌倦了沉重剧情？那就来一场单纯的少年冒险吧！",
+    "highlights": [
+      "IP行动条与打断机制的经典战斗系统",
+      "2D角色+可旋转3D场景",
+      "洋溢少年冒险精神的故事",
+      "岩垂德行朝气蓬勃的配乐"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "32/40",
+        "quote": "战斗系统出色，冒险氛围浓厚"
+      },
+      {
+        "source": "GameSpot",
+        "score": "9.2/10",
+        "quote": "战斗系统是同类最佳之一，冒险感十足"
+      },
+      {
+        "source": "IGN",
+        "score": "9/10",
+        "quote": "PS上必玩的RPG之一"
+      }
+    ],
+    "editorScore": 9.0,
+    "is2D": true,
+    "screenshots": [
+      "images/ps/ps-grandia-s1.png",
+      "images/ps/ps-grandia-s2.png",
+      "images/ps/ps-grandia-s3.png",
+      "images/ps/ps-grandia-title.png"
+    ],
+    "cover": "images/ps/ps-grandia-box.jpg"
+  },
+  {
+    "id": "ps-star-ocean-the-second-story",
+    "title": "Star Ocean: The Second Story",
+    "titleZh": "星之海洋2",
+    "titleJa": "スターオーシャン セカンドストーリー",
+    "year": 1998,
+    "developer": "tri-Ace",
+    "publisher": "Enix",
+    "genre": "动作角色扮演",
+    "tags": [
+      "科幻",
+      "即时战斗",
+      "私人动作"
+    ],
+    "players": "1-2",
+    "tagline": "86种结局的星海奇缘，tri-Ace的即时RPG名作",
+    "description": "地球青年克洛德被传送装置送到未开化的星球，与当地少女蕾娜相遇——科幻与奇幻在此奇妙交汇！本作可在开头选择两位主角之一，故事视角随之改变。\n\n即时动作战斗爽快流畅，技能与必杀技组合多变；最受玩家津津乐道的是\"私人动作\"系统：在城镇中触发角色间的小事件，好感度变化将导向多达86种结局组合，重复游玩价值极高。料理、锻造、作曲等\"特技\"系统更是深不可测。\n\n2D精灵角色配上预渲染背景，樱庭统的配乐热血澎湃。一部可以玩上好几遍的RPG。",
+    "highlights": [
+      "多达86种结局组合",
+      "即时动作战斗爽快流畅",
+      "私人动作与好感度系统",
+      "深度十足的道具制作特技"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "33/40",
+        "quote": "系统丰富，重复游玩价值高"
+      },
+      {
+        "source": "IGN",
+        "score": "8.8/10",
+        "quote": "战斗爽快、系统庞大的优秀RPG"
+      },
+      {
+        "source": "GameSpot",
+        "score": "8.3/10",
+        "quote": "深度可观，值得RPG爱好者游玩"
+      }
+    ],
+    "editorScore": 9.0,
+    "is2D": true,
+    "screenshots": [
+      "images/ps/ps-star-ocean-the-second-story-s1.png",
+      "images/ps/ps-star-ocean-the-second-story-x1.jpg",
+      "images/ps/ps-star-ocean-the-second-story-title.png"
+    ],
+    "cover": "images/ps/ps-star-ocean-the-second-story-box.jpg"
   },
   {
     "id": "ps-breath-of-fire-iii",
@@ -477,10 +650,209 @@
     "editorScore": 8.9,
     "is2D": true,
     "screenshots": [
-      "images/ps/ps-breath-of-fire-iii-1.png",
-      "images/ps/ps-breath-of-fire-iii-2.png"
+      "images/ps/ps-breath-of-fire-iii-s1.png",
+      "images/ps/ps-breath-of-fire-iii-x1.png",
+      "images/ps/ps-breath-of-fire-iii-title.png"
     ],
-    "coverShot": true
+    "cover": "images/ps/ps-breath-of-fire-iii-box.jpg"
+  },
+  {
+    "id": "ps-saga-frontier-2",
+    "title": "SaGa Frontier 2",
+    "titleZh": "沙加开拓者2",
+    "titleJa": "サガ フロンティア2",
+    "year": 1999,
+    "developer": "Square",
+    "publisher": "Square",
+    "genre": "角色扮演",
+    "tags": [
+      "水彩画",
+      "双线叙事",
+      "硬派"
+    ],
+    "players": "1",
+    "tagline": "会动的水彩画卷，沙加系列最美的一章",
+    "description": "翻开这部作品，宛如翻开一本中世纪的水彩画册！SQUARE以手绘水彩风格描绘每一张背景，柔和的笔触与2D角色完美融合，至今仍被誉为PS上最美的游戏之一。\n\n故事分为两条主线：天生不能使用魔法的王子格斯塔夫，被逐出王国后凭借铁剑开辟霸业；年轻的挖掘者威尔则跨越数代人，追寻神秘的\"Egg\"。两条线以年表方式交错，横跨上百年的历史长卷令人沉醉。\n\n联携技、决斗系统依旧深度十足，滨涡正志的配乐典雅而优美。对美术有追求的玩家，绝不能错过。",
+    "highlights": [
+      "手绘水彩风格的顶级2D美术",
+      "横跨百年、双线交错的编年史叙事",
+      "连携技与一对一决斗系统",
+      "滨涡正志典雅的配乐"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "35/40",
+        "quote": "美丽的画面与独特的叙事结构令人着迷"
+      },
+      {
+        "source": "IGN",
+        "score": "7/10",
+        "quote": "画面令人惊叹，但系统较难上手"
+      },
+      {
+        "source": "Metacritic",
+        "score": "81/100",
+        "quote": "整体评价良好"
+      }
+    ],
+    "editorScore": 8.9,
+    "is2D": true,
+    "screenshots": [
+      "images/ps/ps-saga-frontier-2-s1.png",
+      "images/ps/ps-saga-frontier-2-s2.png",
+      "images/ps/ps-saga-frontier-2-title.png"
+    ],
+    "cover": "images/ps/ps-saga-frontier-2-box.jpg"
+  },
+  {
+    "id": "ps-tales-of-eternia",
+    "title": "Tales of Eternia",
+    "titleZh": "永恒传说",
+    "titleJa": "テイルズ オブ エターニア",
+    "year": 2000,
+    "developer": "Wolf Team",
+    "publisher": "Namco",
+    "genre": "动作角色扮演",
+    "tags": [
+      "像素",
+      "即时战斗",
+      "双星球"
+    ],
+    "players": "1-4",
+    "tagline": "两个世界的晶灵之歌，传说系列的2D巅峰",
+    "description": "传说系列在PS上的2D集大成之作！猎人少年里德在故乡因发尔遇见了来自另一个世界赛莱斯的少女梅尔迪，两个以\"晶灵之桥\"隔空相望的世界，正面临碰撞毁灭的危机。\n\n本作的2D像素表现达到系列顶峰：精灵细腻、背景华丽，战斗动画流畅至极。进化后的LMBS战斗系统加入空中连击，配合\"晶灵术\"召唤，节奏爽快；支持多人同时游玩，好友围坐电视前一同战斗的乐趣无可取代。\n\n料理、钓鱼、各种小游戏，再加上GARNET CROW演唱的主题曲，满满都是世纪末的青春回忆。",
+    "highlights": [
+      "系列2D像素画面的巅峰",
+      "加入空中连击的进化版LMBS",
+      "支持多人同乐的即时战斗",
+      "丰富的料理与小游戏要素"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "33/40",
+        "quote": "画面与战斗均有显著进化，完成度很高"
+      },
+      {
+        "source": "IGN",
+        "score": "8.5/10",
+        "quote": "节奏爽快的动作RPG，画面精美"
+      },
+      {
+        "source": "GameSpot",
+        "score": "7.1/10",
+        "quote": "战斗有趣，剧情较为传统"
+      }
+    ],
+    "editorScore": 8.9,
+    "is2D": true,
+    "screenshots": [
+      "images/ps/ps-tales-of-eternia-s1.png",
+      "images/ps/ps-tales-of-eternia-s2.png",
+      "images/ps/ps-tales-of-eternia-s3.png",
+      "images/ps/ps-tales-of-eternia-title.png"
+    ],
+    "cover": "images/ps/ps-tales-of-eternia-box.jpg"
+  },
+  {
+    "id": "ps-lunar-silver-star-story-complete",
+    "title": "Lunar: Silver Star Story Complete",
+    "titleZh": "露娜 银星传说",
+    "titleJa": "ルナ シルバースターストーリー",
+    "year": 1998,
+    "developer": "Game Arts",
+    "publisher": "Kadokawa Shoten / Working Designs",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "动画",
+      "冒险"
+    ],
+    "players": "1",
+    "tagline": "龙之大师的传说，动画与像素交织的不朽童话",
+    "description": "源自MEGA-CD名作的完全重制版！乡村少年亚雷斯梦想成为像传说中的\"龙之大师\"那样的英雄，与青梅竹马、歌声动人的露娜一同踏上旅程，却发现露娜的身世隐藏着惊天秘密。\n\n本作以精细的2D像素绘制城镇与迷宫，关键剧情则以大量动画过场演出，在当年极具冲击力。战斗中角色可自由移动走位，策略性强。性格鲜明的伙伴们——嘴贫的龙宝宝纳尔、自恋的魔法师纳什——让旅途笑料不断。\n\n这是一个关于勇气与爱情的纯粹故事，正适合怀念那个年代的你。",
+    "highlights": [
+      "精致2D像素与大量动画过场",
+      "讲究站位的回合战斗",
+      "个性鲜明、笑料不断的伙伴",
+      "纯粹动人的冒险爱情故事"
+    ],
+    "reviews": [
+      {
+        "source": "EGM",
+        "score": "36/40",
+        "quote": "重制非常成功，动画与音乐令人难忘"
+      },
+      {
+        "source": "GameSpot",
+        "score": "7.6/10",
+        "quote": "经典故事的出色重制"
+      },
+      {
+        "source": "IGN",
+        "score": "7.5/10",
+        "quote": "传统但充满魅力的RPG"
+      }
+    ],
+    "editorScore": 8.9,
+    "is2D": true,
+    "screenshots": [
+      "images/ps/ps-lunar-silver-star-story-complete-s1.png",
+      "images/ps/ps-lunar-silver-star-story-complete-s2.png",
+      "images/ps/ps-lunar-silver-star-story-complete-s3.png",
+      "images/ps/ps-lunar-silver-star-story-complete-title.png"
+    ],
+    "cover": "images/ps/ps-lunar-silver-star-story-complete-box.jpg"
+  },
+  {
+    "id": "ps-einhander",
+    "title": "Einhänder",
+    "titleZh": "独臂战机",
+    "titleJa": "アインハンダー",
+    "year": 1997,
+    "developer": "Square",
+    "publisher": "Square / Sony Computer Entertainment",
+    "genre": "射击",
+    "tags": [
+      "横版射击",
+      "SQUARE",
+      "武器夺取"
+    ],
+    "players": "1",
+    "tagline": "SQUARE唯一的射击游戏，独臂夺械的银色狂想",
+    "description": "谁说SQUARE只会做RPG？这部横版射击游戏，就是他们给STG迷的惊艳答卷！玩家驾驶月球军的独臂战机\"Einhänder\"，深入地球展开自杀式攻击。\n\n本作最大特色是那只\"机械臂\"：击毁敌机后可夺取其武器装在臂上，加特林、火箭炮、刀刃、霰弹……数十种武器各有用法，切换上下位置还能改变射击方向。3D多边形构筑的画面镜头运动华丽，在横版玩法中展现出电影般的魄力。\n\n关卡设计紧凑、BOSS战气势磅礴，配乐充满电子乐魅力。射击游戏爱好者务必一试！",
+    "highlights": [
+      "夺取敌人武器的机械臂系统",
+      "3D多边形的电影化镜头",
+      "气势磅礴的BOSS战",
+      "电子风格的出色配乐"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "31/40",
+        "quote": "SQUARE首部射击游戏，完成度令人惊喜"
+      },
+      {
+        "source": "IGN",
+        "score": "9/10",
+        "quote": "PS上最出色的射击游戏之一"
+      },
+      {
+        "source": "Metacritic",
+        "score": "89/100",
+        "quote": "获得媒体高度评价"
+      }
+    ],
+    "editorScore": 8.9,
+    "is2D": false,
+    "screenshots": [
+      "images/ps/ps-einhander-s1.png",
+      "images/ps/ps-einhander-s2.png",
+      "images/ps/ps-einhander-title.png"
+    ],
+    "cover": "images/ps/ps-einhander-box.jpg"
   },
   {
     "id": "ps-suikoden",
@@ -525,10 +897,13 @@
     "editorScore": 8.8,
     "is2D": true,
     "screenshots": [
-      "images/ps/ps-suikoden-1.jpg",
-      "images/ps/ps-suikoden-2.jpg"
+      "images/ps/ps-suikoden-s1.png",
+      "images/ps/ps-suikoden-s2.png",
+      "images/ps/ps-suikoden-s3.png",
+      "images/ps/ps-suikoden-x1.jpg",
+      "images/ps/ps-suikoden-title.png"
     ],
-    "coverShot": true
+    "cover": "images/ps/ps-suikoden-box.jpg"
   },
   {
     "id": "ps-street-fighter-alpha-3",
@@ -573,9 +948,11 @@
     "editorScore": 8.8,
     "is2D": true,
     "screenshots": [
-      "images/ps/ps-street-fighter-alpha-3-1.png"
+      "images/ps/ps-street-fighter-alpha-3-s1.png",
+      "images/ps/ps-street-fighter-alpha-3-x1.png",
+      "images/ps/ps-street-fighter-alpha-3-title.png"
     ],
-    "coverShot": true
+    "cover": "images/ps/ps-street-fighter-alpha-3-box.jpg"
   },
   {
     "id": "ps-breath-of-fire-iv",
@@ -620,10 +997,237 @@
     "editorScore": 8.8,
     "is2D": true,
     "screenshots": [
-      "images/ps/ps-breath-of-fire-iv-1.png",
-      "images/ps/ps-breath-of-fire-iv-2.png"
+      "images/ps/ps-breath-of-fire-iv-s1.png",
+      "images/ps/ps-breath-of-fire-iv-x1.png",
+      "images/ps/ps-breath-of-fire-iv-title.png"
     ],
-    "coverShot": true
+    "cover": "images/ps/ps-breath-of-fire-iv-box.jpg"
+  },
+  {
+    "id": "ps-tomba",
+    "title": "Tomba!",
+    "titleZh": "野猴子顿巴",
+    "titleJa": "俺!トンバ",
+    "year": 1997,
+    "developer": "Whoopee Camp",
+    "publisher": "Whoopee Camp / Sony Computer Entertainment",
+    "genre": "平台跳跃",
+    "tags": [
+      "2.5D",
+      "任务",
+      "探索"
+    ],
+    "players": "1",
+    "tagline": "粉红头发的野孩子，横版冒险的奇思妙想",
+    "description": "《魔界村》之父藤原得郎独立后的力作！粉红头发的野孩子顿巴，为了夺回爷爷留下的手镯，向霸占大地的\"恶猪\"们发起挑战。\n\n本作以横版动作为骨架，却融入了大量RPG式任务：帮村民找东西、解开机关、收集道具，完成的\"事件\"多达上百个。顿巴可以扑到敌人身上把它们甩飞，还能在画面的前后层之间穿梭，2D精灵与3D场景结合得别具一格。\n\n色彩明快、创意满满，节奏轻松又不失挑战性。它在当年销量不高，如今却被誉为PS上的隐藏神作。",
+    "highlights": [
+      "藤原得郎打造的创意横版动作",
+      "上百个RPG式事件任务",
+      "前后层穿梭的2.5D场景",
+      "明快可爱的美术风格"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "31/40",
+        "quote": "动作与冒险要素结合巧妙"
+      },
+      {
+        "source": "IGN",
+        "score": "8.7/10",
+        "quote": "充满创意又极具魅力的平台游戏"
+      },
+      {
+        "source": "GameSpot",
+        "score": "8/10",
+        "quote": "独特的任务系统令人耳目一新"
+      }
+    ],
+    "editorScore": 8.8,
+    "is2D": true,
+    "screenshots": [
+      "images/ps/ps-tomba-s1.png",
+      "images/ps/ps-tomba-s2.png",
+      "images/ps/ps-tomba-title.png"
+    ],
+    "cover": "images/ps/ps-tomba-box.jpg"
+  },
+  {
+    "id": "ps-metal-slug-x",
+    "title": "Metal Slug X",
+    "titleZh": "合金弹头X",
+    "titleJa": "メタルスラッグX",
+    "year": 2001,
+    "developer": "SNK",
+    "publisher": "SNK / Agetec",
+    "genre": "射击",
+    "tags": [
+      "像素",
+      "街机移植",
+      "双打"
+    ],
+    "players": "1-2",
+    "tagline": "像素爆破的极致美学，横版射击的教科书",
+    "description": "街机厅里最热门的横版射击游戏，完美移植到PS！基于《合金弹头2》全面重制，敌人配置、武器、关卡均重新调整，彻底解决了前作的拖慢问题，节奏更加火爆。\n\n手绘般的像素动画是本系列的灵魂：士兵惊恐逃窜、坦克被炸得四分五裂、木乃伊把你变成僵尸……每一帧都细腻得令人叹为观止。重机枪、火焰枪、激光枪、各类合金载具轮番登场，与好友双打更是爽快加倍。\n\nPS版还追加了战斗学校等任务模式。手痒了吗？投币——哦不，按下START吧！",
+    "highlights": [
+      "业界顶级的像素动画表现",
+      "丰富武器与合金载具",
+      "双人合作的爽快体验",
+      "PS版追加战斗学校模式"
+    ],
+    "reviews": [
+      {
+        "source": "GameSpot",
+        "score": "8.2/10",
+        "quote": "忠实再现街机版的火爆体验"
+      }
+    ],
+    "editorScore": 8.8,
+    "is2D": true,
+    "screenshots": [
+      "images/ps/ps-metal-slug-x-s1.png",
+      "images/ps/ps-metal-slug-x-x1.png",
+      "images/ps/ps-metal-slug-x-title.png"
+    ],
+    "cover": "images/ps/ps-metal-slug-x-box.jpg"
+  },
+  {
+    "id": "ps-lunar-2-eternal-blue-complete",
+    "title": "Lunar 2: Eternal Blue Complete",
+    "titleZh": "露娜2 永恒之蓝",
+    "titleJa": "ルナ2 エターナルブルー",
+    "year": 1999,
+    "developer": "Game Arts",
+    "publisher": "Kadokawa Shoten / Working Designs",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "动画",
+      "续作"
+    ],
+    "players": "1",
+    "tagline": "千年之后的蓝星少女，露娜传说的完美续章",
+    "description": "《银星传说》千年之后，热爱冒险的少年希罗在古代遗迹中遇见了来自\"蓝星\"的神秘少女露西娅。她肩负着阻止破坏神苏醒的使命，却对人类的情感一无所知……\n\n续作的剧情规模更大、人物更丰满，露西娅从冷漠到逐渐理解人心的转变细腻动人。2D像素画面与动画过场依旧是最大亮点，还增加了更多可游玩的支线内容和隐藏迷宫。\n\n战斗延续前作的走位系统，难度适中。如果你喜欢一代，那这部规模更大、情感更深的续作必定不会让你失望。",
+    "highlights": [
+      "更宏大的世界与剧情",
+      "女主角露西娅动人的情感成长",
+      "大量动画过场与2D像素画面",
+      "追加的支线与隐藏迷宫"
+    ],
+    "reviews": [
+      {
+        "source": "IGN",
+        "score": "8/10",
+        "quote": "剧情与人物更出色的优秀续作"
+      },
+      {
+        "source": "GameSpot",
+        "score": "7.3/10",
+        "quote": "充满魅力的经典RPG重制"
+      },
+      {
+        "source": "Metacritic",
+        "score": "86/100",
+        "quote": "获得媒体普遍好评"
+      }
+    ],
+    "editorScore": 8.8,
+    "is2D": true,
+    "screenshots": [
+      "images/ps/ps-lunar-2-eternal-blue-complete-s1.png",
+      "images/ps/ps-lunar-2-eternal-blue-complete-s2.png",
+      "images/ps/ps-lunar-2-eternal-blue-complete-title.png"
+    ],
+    "cover": "images/ps/ps-lunar-2-eternal-blue-complete-box.jpg"
+  },
+  {
+    "id": "ps-gradius-gaiden",
+    "title": "Gradius Gaiden",
+    "titleZh": "宇宙巡航舰外传",
+    "titleJa": "グラディウス外伝",
+    "year": 1997,
+    "developer": "Konami Computer Entertainment Tokyo",
+    "publisher": "Konami",
+    "genre": "射击",
+    "tags": [
+      "像素",
+      "横版射击",
+      "双打"
+    ],
+    "players": "1-2",
+    "tagline": "Gradius系列隐藏的最高杰作",
+    "description": "许多射击迷心中\"Gradius系列最佳\"的不是街机版，而是这款PS独占的外传！本作可选择四架战机，武装各异；还首创\"装备编辑\"功能，自己组合能量胶囊的强化路线。\n\n2D像素画面精致绚丽，关卡创意十足：泡泡星球、晶体迷宫、高速要塞……每一关都让人眼前一亮。经典的\"BOSS RUSH\"与要塞战一应俱全，还支持双人同时游玩，这在系列中颇为罕见。\n\n难度曲线比街机作品更友好，却依旧有足够深度让高手钻研。这是一部不应被埋没的STG杰作。",
+    "highlights": [
+      "四架战机与自定义强化路线",
+      "创意十足的关卡设计",
+      "支持双人同时游玩",
+      "难度曲线更友好"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "29/40",
+        "quote": "系列忠实粉丝会满意的出色作品"
+      }
+    ],
+    "editorScore": 8.8,
+    "is2D": true,
+    "screenshots": [
+      "images/ps/ps-gradius-gaiden-s1.png",
+      "images/ps/ps-gradius-gaiden-x1.png",
+      "images/ps/ps-gradius-gaiden-x2.png",
+      "images/ps/ps-gradius-gaiden-title.png"
+    ],
+    "cover": "images/ps/ps-gradius-gaiden-box.jpg"
+  },
+  {
+    "id": "ps-harvest-moon-back-to-nature",
+    "title": "Harvest Moon: Back to Nature",
+    "titleZh": "牧场物语 美妙人生",
+    "titleJa": "牧場物語 ハーベストムーン",
+    "year": 1999,
+    "developer": "Victor Interactive Software",
+    "publisher": "Victor Interactive Software / Natsume",
+    "genre": "模拟经营",
+    "tags": [
+      "种田",
+      "恋爱",
+      "慢生活"
+    ],
+    "players": "1",
+    "tagline": "春耕秋收的田园诗，慢生活游戏的鼻祖",
+    "description": "厌倦了打打杀杀？那就回到矿石镇，过一段日出而作、日落而息的田园生活吧！主角继承了爷爷荒废的农场，必须在三年内让它重焕生机。\n\n播种、浇水、收获，养鸡养牛，去山上采集、到矿洞挖宝，参加小镇的祭典……每一天都有忙不完的事。镇上的女孩们各有性格，提升好感、送礼、约会，最终可以结婚生子。四季更替中，你会发现自己早已爱上这座小镇。\n\n本作被公认为系列最经典的一作，今天《星露谷物语》等无数作品都能看到它的影子。",
+    "highlights": [
+      "经营农场的悠闲日常",
+      "四季变换与小镇祭典",
+      "恋爱、结婚与成家要素",
+      "影响深远的种田游戏经典"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "31/40",
+        "quote": "悠闲而充实的田园生活，令人沉迷"
+      },
+      {
+        "source": "GameSpot",
+        "score": "8.3/10",
+        "quote": "充满魅力的农场模拟游戏"
+      },
+      {
+        "source": "Metacritic",
+        "score": "82/100",
+        "quote": "获得媒体普遍好评"
+      }
+    ],
+    "editorScore": 8.7,
+    "is2D": true,
+    "screenshots": [
+      "images/ps/ps-harvest-moon-back-to-nature-s1.png",
+      "images/ps/ps-harvest-moon-back-to-nature-s2.png",
+      "images/ps/ps-harvest-moon-back-to-nature-title.png"
+    ],
+    "cover": "images/ps/ps-harvest-moon-back-to-nature-box.jpg"
   },
   {
     "id": "ps-wild-arms",
@@ -668,10 +1272,101 @@
     "editorScore": 8.6,
     "is2D": true,
     "screenshots": [
-      "images/ps/ps-wild-arms-1.png",
-      "images/ps/ps-wild-arms-2.png"
+      "images/ps/ps-wild-arms-s1.png",
+      "images/ps/ps-wild-arms-s2.png",
+      "images/ps/ps-wild-arms-x1.png",
+      "images/ps/ps-wild-arms-x2.png",
+      "images/ps/ps-wild-arms-title.png"
     ],
-    "coverShot": true
+    "cover": "images/ps/ps-wild-arms-box.jpg"
+  },
+  {
+    "id": "ps-tales-of-phantasia",
+    "title": "Tales of Phantasia",
+    "titleZh": "幻想传说",
+    "titleJa": "テイルズ オブ ファンタジア",
+    "year": 1998,
+    "developer": "Wolf Team",
+    "publisher": "Namco",
+    "genre": "动作角色扮演",
+    "tags": [
+      "像素",
+      "时空穿越",
+      "即时战斗"
+    ],
+    "players": "1-2",
+    "tagline": "穿越时空的剑与魔法，传说系列的原点",
+    "description": "传说系列的原点之作，从超任重制登陆PS！少年克雷斯的村庄遭到屠戮，为了打倒魔王达奥斯，他与伙伴们穿越过去与未来，在三个时代间展开冒险。\n\nPS版全面重绘了2D像素画面，增加了动画过场、战斗语音以及料理等新系统。LMBS即时战斗让剑士在前线砍杀、法师在后方吟唱，节奏明快。樱庭统的配乐与\"梦は終わらない\"主题曲更是经典。\n\n时空穿越的宏大剧情、魔王达奥斯背后的悲剧真相，至今读来仍令人感慨。想追溯传说系列的根源，从这里开始最合适。",
+    "highlights": [
+      "系列开山之作的强化重制版",
+      "跨越三个时代的时空冒险",
+      "LMBS即时横版战斗",
+      "樱庭统的经典配乐"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "29/40",
+        "quote": "超任名作的完善重制，画面与演出均有提升"
+      }
+    ],
+    "editorScore": 8.6,
+    "is2D": true,
+    "screenshots": [
+      "images/ps/ps-tales-of-phantasia-s1.png",
+      "images/ps/ps-tales-of-phantasia-s2.png",
+      "images/ps/ps-tales-of-phantasia-title.png"
+    ],
+    "cover": "images/ps/ps-tales-of-phantasia-box.jpg"
+  },
+  {
+    "id": "ps-silhouette-mirage",
+    "title": "Silhouette Mirage",
+    "titleZh": "剪影幻境",
+    "titleJa": "シルエットミラージュ",
+    "year": 1997,
+    "developer": "Treasure",
+    "publisher": "ESP / Working Designs",
+    "genre": "动作",
+    "tags": [
+      "像素",
+      "Treasure",
+      "属性切换"
+    ],
+    "players": "1",
+    "tagline": "Treasure出品，正反属性的像素狂想曲",
+    "description": "提到2D动作，就不能不提Treasure！本作主角夏娜身体左右分别带有\"剪影\"与\"幻影\"两种属性，转身即可切换攻击属性，对付同属性敌人只能吸取能量，必须面朝正确方向才能造成伤害——这种设计让每场战斗都像在解谜。\n\n抓投敌人、吸收敌人能力、购买武器……系统丰富又独特。Treasure招牌的巨大BOSS战依然华丽夸张，像素动画灵动而富有张力。\n\n虽然难度不低、风格古怪，但正是这份古怪让它成为Treasure迷心中的宝石。喜欢硬核2D动作的你，绝对值得一试。",
+    "highlights": [
+      "转身切换属性的独特战斗系统",
+      "Treasure招牌的巨大BOSS战",
+      "灵动夸张的像素动画",
+      "硬派而富有个性的设计"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "29/40",
+        "quote": "系统独特，充满Treasure风格"
+      },
+      {
+        "source": "IGN",
+        "score": "8.9/10",
+        "quote": "极具创意的2D动作游戏"
+      },
+      {
+        "source": "EGM",
+        "score": "8/10",
+        "quote": "个性十足的动作佳作"
+      }
+    ],
+    "editorScore": 8.6,
+    "is2D": true,
+    "screenshots": [
+      "images/ps/ps-silhouette-mirage-s1.png",
+      "images/ps/ps-silhouette-mirage-s2.png",
+      "images/ps/ps-silhouette-mirage-title.png"
+    ],
+    "cover": "images/ps/ps-silhouette-mirage-box.jpg"
   },
   {
     "id": "ps-tales-of-destiny",
@@ -716,10 +1411,149 @@
     "editorScore": 8.5,
     "is2D": true,
     "screenshots": [
-      "images/ps/ps-tales-of-destiny-1.jpg",
-      "images/ps/ps-tales-of-destiny-2.jpg"
+      "images/ps/ps-tales-of-destiny-s1.png",
+      "images/ps/ps-tales-of-destiny-s2.png",
+      "images/ps/ps-tales-of-destiny-x1.jpg",
+      "images/ps/ps-tales-of-destiny-title.png"
     ],
-    "coverShot": true
+    "cover": "images/ps/ps-tales-of-destiny-box.jpg"
+  },
+  {
+    "id": "ps-saga-frontier",
+    "title": "SaGa Frontier",
+    "titleZh": "沙加开拓者",
+    "titleJa": "サガ フロンティア",
+    "year": 1997,
+    "developer": "Square",
+    "publisher": "Square / Sony Computer Entertainment",
+    "genre": "角色扮演",
+    "tags": [
+      "多主角",
+      "自由剧本",
+      "像素"
+    ],
+    "players": "1",
+    "tagline": "七位主角七段人生，自由度爆表的沙加",
+    "description": "SQUARE\"沙加\"系列首次登陆PS！本作在开头可从七位主角中任选一人：失去肉身的少女阿塞璐丝、立志成为魔术师的布鲁、警察巡逻员红……每个人的故事、目标与结局都完全不同。\n\n自由剧本系统让你在\"区域\"间随意旅行，事件不按固定顺序展开；\"闪光\"学技、连携攻击、机器人吸收能力、怪物变身等成长方式五花八门，研究起来乐趣无穷。2D像素角色配合色彩缤纷的预渲染背景，充满科幻与奇幻混合的独特风味。\n\n伊藤贤治的配乐热血激昂，喜欢自由探索的玩家一定会沉迷其中。",
+    "highlights": [
+      "七位主角各自独立的剧本",
+      "自由剧本系统，事件顺序不固定",
+      "闪光、连携等独特成长战斗",
+      "伊藤贤治热血配乐"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "31/40",
+        "quote": "自由度极高的多主角RPG"
+      },
+      {
+        "source": "EGM",
+        "score": "8/10",
+        "quote": "系统丰富、可玩性强"
+      },
+      {
+        "source": "IGN",
+        "score": "7/10",
+        "quote": "内容丰富但缺乏引导"
+      }
+    ],
+    "editorScore": 8.5,
+    "is2D": true,
+    "screenshots": [
+      "images/ps/ps-saga-frontier-s1.png",
+      "images/ps/ps-saga-frontier-s2.png",
+      "images/ps/ps-saga-frontier-title.png"
+    ],
+    "cover": "images/ps/ps-saga-frontier-box.jpg"
+  },
+  {
+    "id": "ps-vandal-hearts",
+    "title": "Vandal Hearts",
+    "titleZh": "梵蒂尔之心",
+    "titleJa": "ヴァンダルハーツ ～失われた古代文明～",
+    "year": 1996,
+    "developer": "Konami Computer Entertainment Tokyo",
+    "publisher": "Konami",
+    "genre": "战略角色扮演",
+    "tags": [
+      "战棋",
+      "职业",
+      "剧情"
+    ],
+    "players": "1",
+    "tagline": "PS初期的战棋先锋，KONAMI的策略力作",
+    "description": "在《最终幻想战略版》问世之前，PS上的战棋玩家早已被这部KONAMI作品征服！青年阿什与伙伴们卷入革命后的政治阴谋，在动荡的国家中寻找正义。\n\n可旋转的3D斜视角地图上，可爱的2D精灵角色列阵对峙，地形高低差、背后攻击等要素讲究战术；角色可在关键时刻转职，特殊的\"隐藏职业\"更需要满足苛刻条件。关卡目标多样，有些地图还暗藏机关陷阱。\n\n节奏紧凑、难度适中，是入门战棋游戏的优秀选择。",
+    "highlights": [
+      "3D斜视角地图与2D精灵结合",
+      "讲究高低差与站位的战术",
+      "转职与隐藏职业系统",
+      "节奏紧凑、多样化的关卡目标"
+    ],
+    "reviews": [
+      {
+        "source": "EGM",
+        "score": "8.675/10",
+        "quote": "PS上最出色的策略RPG之一"
+      },
+      {
+        "source": "GameSpot",
+        "score": "7.1/10",
+        "quote": "扎实的战棋游戏，适合入门"
+      }
+    ],
+    "editorScore": 8.5,
+    "is2D": true,
+    "screenshots": [
+      "images/ps/ps-vandal-hearts-s1.png",
+      "images/ps/ps-vandal-hearts-s2.png",
+      "images/ps/ps-vandal-hearts-title.png"
+    ],
+    "cover": "images/ps/ps-vandal-hearts-box.jpg"
+  },
+  {
+    "id": "ps-darkstalkers-3",
+    "title": "Darkstalkers 3",
+    "titleZh": "恶魔战士3 救世主",
+    "titleJa": "ヴァンパイアセイヴァー EXエディション",
+    "year": 1998,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genre": "格斗",
+    "tags": [
+      "像素",
+      "对战",
+      "街机移植"
+    ],
+    "players": "1-2",
+    "tagline": "群魔乱舞的暗夜派对，卡普空最华丽的像素格斗",
+    "description": "如果说《街头霸王》是格斗游戏的正统，那《恶魔战士》就是它最狂野的另一面！吸血鬼迪米特里、魅魔莫丽卡、木乃伊、狼人、雪女……群魔齐聚，招式天马行空，动画夸张到令人捧腹。\n\n卡普空在本作展现了顶尖的像素动画功力，每个角色的动作帧数之多令人咋舌。独特的\"Dark Force\"系统和快节奏的连段让对战充满爆发力。PS版虽受内存限制，但依然收录了前作人气角色，内容相当充实。\n\n与朋友来一场妖怪大乱斗吧，那份街机厅的热血至今未曾冷却！",
+    "highlights": [
+      "卡普空顶尖的像素动画",
+      "妖魔鬼怪主题的个性角色",
+      "快节奏、高爆发的连段系统",
+      "PS版收录历代人气角色"
+    ],
+    "reviews": [
+      {
+        "source": "IGN",
+        "score": "8/10",
+        "quote": "画面与动作出色的格斗佳作"
+      },
+      {
+        "source": "GameSpot",
+        "score": "7.9/10",
+        "quote": "华丽而深邃的2D格斗"
+      }
+    ],
+    "editorScore": 8.5,
+    "is2D": true,
+    "screenshots": [
+      "images/ps/ps-darkstalkers-3-s1.png",
+      "images/ps/ps-darkstalkers-3-s2.png",
+      "images/ps/ps-darkstalkers-3-title.png"
+    ],
+    "cover": "images/ps/ps-darkstalkers-3-box.jpg"
   },
   {
     "id": "ps-mega-man-x4",
@@ -729,7 +1563,7 @@
     "year": 1997,
     "developer": "Capcom",
     "publisher": "Capcom",
-    "genre": "横版动作",
+    "genre": "动作",
     "tags": [
       "像素",
       "射击",
@@ -764,10 +1598,11 @@
     "editorScore": 8.4,
     "is2D": true,
     "screenshots": [
-      "images/ps/ps-mega-man-x4-1.jpg",
-      "images/ps/ps-mega-man-x4-2.jpg"
+      "images/ps/ps-mega-man-x4-s1.png",
+      "images/ps/ps-mega-man-x4-x1.jpg",
+      "images/ps/ps-mega-man-x4-title.png"
     ],
-    "coverShot": true
+    "cover": "images/ps/ps-mega-man-x4-box.jpg"
   },
   {
     "id": "ps-rayman",
@@ -777,7 +1612,7 @@
     "year": 1995,
     "developer": "Ubi Pictures",
     "publisher": "Ubi Soft",
-    "genre": "横版动作",
+    "genre": "平台跳跃",
     "tags": [
       "手绘",
       "平台跳跃",
@@ -807,10 +1642,106 @@
     "editorScore": 8.4,
     "is2D": true,
     "screenshots": [
-      "images/ps/ps-rayman-1.png",
-      "images/ps/ps-rayman-2.png"
+      "images/ps/ps-rayman-s1.png",
+      "images/ps/ps-rayman-s2.png",
+      "images/ps/ps-rayman-x1.png",
+      "images/ps/ps-rayman-title.png"
     ],
-    "coverShot": true
+    "cover": "images/ps/ps-rayman-box.jpg"
+  },
+  {
+    "id": "ps-mr-driller",
+    "title": "Mr. Driller",
+    "titleZh": "钻地小子",
+    "titleJa": "ミスタードリラー",
+    "year": 2000,
+    "developer": "Namco",
+    "publisher": "Namco",
+    "genre": "解谜",
+    "tags": [
+      "方块",
+      "街机移植",
+      "上手容易"
+    ],
+    "players": "1-2",
+    "tagline": "一路向下钻！NAMCO的方块解谜新经典",
+    "description": "NAMCO在世纪之交带来的超级上手的解谜游戏！主角是《挖金子》主角的儿子堀进，他要钻穿五彩方块，一路向地底深处挺进。\n\n玩法简单得只需方向键和一个按钮：同色方块会相连，钻掉支撑后上方方块会掉落并连锁消除。但小心被砸扁！更要命的是氧气不断减少，必须一边规划路线一边收集氧气胶囊。这种\"思考与速度并存\"的紧张感令人欲罢不能。\n\n可爱的2D画面、轻快的音乐，加上短小精悍的一局时间，非常适合随手来上几把。",
+    "highlights": [
+      "一个按钮就能玩的简单操作",
+      "速度与思考兼顾的氧气机制",
+      "可爱明快的2D画风",
+      "适合碎片时间的短局设计"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "32/40",
+        "quote": "简单易懂又充满深度的解谜游戏"
+      },
+      {
+        "source": "Edge",
+        "score": "8/10",
+        "quote": "设计精炼、令人上瘾"
+      }
+    ],
+    "editorScore": 8.4,
+    "is2D": true,
+    "screenshots": [
+      "images/ps/ps-mr-driller-s1.png",
+      "images/ps/ps-mr-driller-x1.png",
+      "images/ps/ps-mr-driller-title.png"
+    ],
+    "cover": "images/ps/ps-mr-driller-box.jpg"
+  },
+  {
+    "id": "ps-wild-arms-2",
+    "title": "Wild Arms 2",
+    "titleZh": "狂野历险2",
+    "titleJa": "ワイルドアームズ セカンドイグニッション",
+    "year": 1999,
+    "developer": "Media.Vision",
+    "publisher": "Sony Computer Entertainment",
+    "genre": "角色扮演",
+    "tags": [
+      "西部",
+      "解谜",
+      "英雄"
+    ],
+    "players": "1",
+    "tagline": "何谓英雄？荒野之上的第二次点火",
+    "description": "《狂野历险》续作，故事舞台是另一个版本的\"法尔加亚\"。青年阿谢尔加入了特殊部队\"ARMS\"，与伙伴们对抗恐怖组织\"奥德赛\"，并在战斗中不断追问\"英雄\"的真正意义。\n\n本作沿用2D角色与3D战斗的组合，迷宫中各角色拥有专属工具解谜，脑力挑战不减前作。六名可操作角色、丰富的召唤魔法与强力\"力量\"技能，让战斗更具策略性。成毛美智子的西部风配乐依旧回味悠长。\n\n剧情主题深刻，讨论英雄主义与牺牲，对于前作粉丝来说是不容错过的续篇。",
+    "highlights": [
+      "深刻探讨\"英雄\"意义的剧情",
+      "各角色专属工具的迷宫解谜",
+      "六名角色与丰富召唤魔法",
+      "延续西部风格的配乐"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "31/40",
+        "quote": "继承前作魅力，系统更丰富"
+      },
+      {
+        "source": "EGM",
+        "score": "7/10",
+        "quote": "解谜设计依旧有趣"
+      },
+      {
+        "source": "IGN",
+        "score": "6/10",
+        "quote": "画面略显过时，但内容丰富"
+      }
+    ],
+    "editorScore": 8.4,
+    "is2D": true,
+    "screenshots": [
+      "images/ps/ps-wild-arms-2-s1.png",
+      "images/ps/ps-wild-arms-2-s2.png",
+      "images/ps/ps-wild-arms-2-s3.png",
+      "images/ps/ps-wild-arms-2-title.png"
+    ],
+    "cover": "images/ps/ps-wild-arms-2-box.jpg"
   },
   {
     "id": "ps-abes-oddysee",
@@ -820,7 +1751,7 @@
     "year": 1997,
     "developer": "Oddworld Inhabitants",
     "publisher": "GT Interactive",
-    "genre": "平台解谜",
+    "genre": "平台跳跃",
     "tags": [
       "预渲染",
       "解谜",
@@ -855,9 +1786,111 @@
     "editorScore": 8.3,
     "is2D": true,
     "screenshots": [
-      "images/ps/ps-abes-oddysee-1.jpg",
-      "images/ps/ps-abes-oddysee-2.jpg"
+      "images/ps/ps-abes-oddysee-s1.png",
+      "images/ps/ps-abes-oddysee-s2.png",
+      "images/ps/ps-abes-oddysee-s3.png",
+      "images/ps/ps-abes-oddysee-x1.jpg",
+      "images/ps/ps-abes-oddysee-x2.jpg",
+      "images/ps/ps-abes-oddysee-title.png"
     ],
-    "coverShot": true
+    "cover": "images/ps/ps-abes-oddysee-box.jpg"
+  },
+  {
+    "id": "ps-mega-man-x5",
+    "title": "Mega Man X5",
+    "titleZh": "洛克人X5",
+    "titleJa": "ロックマンX5",
+    "year": 2000,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genre": "动作",
+    "tags": [
+      "像素",
+      "射击",
+      "多结局"
+    ],
+    "players": "1",
+    "tagline": "殖民卫星坠落倒计时，X与杰洛的宿命对决",
+    "description": "巨大殖民卫星\"欧拉\"正坠向地球，X与杰洛必须在倒计时结束前拯救人类！本作首次加入时间限制机制，玩家的选择将影响剧情走向，甚至决定X与杰洛之间的宿命结局。\n\n延续X4的双主角设计，X可装备多种盔甲，杰洛则以剑技连斩为主，各有乐趣。像素画面依旧精细，各BOSS关卡设计富有变化，追加的部件系统也增加了自定义空间。\n\n剧情是系列中最具戏剧张力的一作。如果你喜欢X4，那么X5那份更加悲壮的故事一定会让你难忘。",
+    "highlights": [
+      "倒计时机制与多结局剧情",
+      "X与杰洛双主角",
+      "多种盔甲与部件自定义",
+      "精细的像素关卡"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "27/40",
+        "quote": "双主角与剧情分支增加了重玩价值"
+      },
+      {
+        "source": "IGN",
+        "score": "8.5/10",
+        "quote": "系列水准之上的2D动作作品"
+      },
+      {
+        "source": "GameSpot",
+        "score": "7.1/10",
+        "quote": "熟悉的洛克人体验，内容扎实"
+      }
+    ],
+    "editorScore": 8.3,
+    "is2D": true,
+    "screenshots": [
+      "images/ps/ps-mega-man-x5-s1.png",
+      "images/ps/ps-mega-man-x5-s2.png",
+      "images/ps/ps-mega-man-x5-title.png"
+    ],
+    "cover": "images/ps/ps-mega-man-x5-box.jpg"
+  },
+  {
+    "id": "ps-mega-man-8",
+    "title": "Mega Man 8",
+    "titleZh": "洛克人8",
+    "titleJa": "ロックマン8 メタルヒーローズ",
+    "year": 1996,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genre": "动作",
+    "tags": [
+      "像素",
+      "射击",
+      "动画"
+    ],
+    "players": "1",
+    "tagline": "32位的蓝色轰炸机，经典洛克人华丽进化",
+    "description": "元祖洛克人系列首次登上32位主机！宇宙中坠落的神秘能量\"邪能\"被威利博士夺走，洛克人再度出击。\n\n本作像素画面色彩明艳、动画大幅增加，配合动画过场与语音，表现力远超FC时代。招牌的\"打倒BOSS获得武器\"系统依旧有趣，新增的弹跳球\"Mega Ball\"等武器创意十足；新加入的滑板关卡节奏飞快。\n\n难度相对友好，适合新手入门洛克人。可爱的画风与经典的关卡设计，让它成为一部轻松愉快的2D动作游戏。",
+    "highlights": [
+      "32位时代的华丽像素画面",
+      "动画过场与角色语音",
+      "创意十足的特殊武器",
+      "难度友好，适合入门"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "25/40",
+        "quote": "画面华丽，经典玩法得到继承"
+      },
+      {
+        "source": "GameSpot",
+        "score": "6.3/10",
+        "quote": "画面美观但变化不大"
+      },
+      {
+        "source": "IGN",
+        "score": "6/10",
+        "quote": "延续传统的洛克人作品"
+      }
+    ],
+    "editorScore": 8.0,
+    "is2D": true,
+    "screenshots": [
+      "images/ps/ps-mega-man-8-s1.png",
+      "images/ps/ps-mega-man-8-s2.png",
+      "images/ps/ps-mega-man-8-title.png"
+    ],
+    "cover": "images/ps/ps-mega-man-8-box.jpg"
   }
 ]

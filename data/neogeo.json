@@ -1,0 +1,1560 @@
+[
+  {
+    "id": "neogeo-metal-slug",
+    "title": "Metal Slug",
+    "titleZh": "合金弹头",
+    "titleJa": "メタルスラッグ",
+    "year": 1996,
+    "developer": "Nazca",
+    "publisher": "SNK",
+    "genre": "射击",
+    "tags": [
+      "像素",
+      "横版射击",
+      "手绘动画",
+      "双打"
+    ],
+    "players": "1-2",
+    "tagline": "像素动画的巅峰，一部会动的漫画",
+    "description": "1996年，一群从Irem出走的天才组成Nazca，把一辆圆滚滚的“合金弹头”战车开进了街机厅。玩家扮演马可和塔尔马，从丛林、雪山一路杀到要塞，手枪、重机枪、火箭筒轮番上阵，跳进战车更能一边跳跃一边开炮，爽快感满溢屏幕。\n\n本作最令人目瞪口呆的是它的像素动画：敌兵被打中会惊慌失措地逃跑，被烧时手舞足蹈，被救出的俘虏会脱裤子送你道具，每一帧都透着手绘的幽默与匠心。爆炸、碎片、坦克履带的动态细节，放在今天依旧是像素艺术的教科书。\n\n难度不低，但每一次“GAME OVER”都让人忍不住再投一个币。想知道2D像素到底能做到多精致？从初代合金弹头开始就对了。",
+    "highlights": [
+      "每一帧都有表情的像素动画，幽默感十足",
+      "可跳跃、可开炮的合金弹头战车",
+      "救出俘虏获取武器的经典设定",
+      "双人合作火力全开"
+    ],
+    "reviews": [
+      {
+        "source": "IGN（Wii Virtual Console版）",
+        "score": "8.5/10",
+        "quote": "SNK原汁原味的街机动作经典，至今依旧光彩夺目"
+      },
+      {
+        "source": "EGM（Neo Geo版）",
+        "score": "7.25/10",
+        "quote": "画面与动画惊人，但流程偏短、难度较高"
+      },
+      {
+        "source": "Jeuxvideo.com（Neo Geo版）",
+        "score": "19/20",
+        "quote": "堪称横版射击典范，画面与爽快感无可挑剔"
+      }
+    ],
+    "editorScore": 9.4,
+    "is2D": true,
+    "screenshots": [
+      "images/neogeo/neogeo-metal-slug-s1.png",
+      "images/neogeo/neogeo-metal-slug-x1.png",
+      "images/neogeo/neogeo-metal-slug-title.png"
+    ],
+    "cover": "images/neogeo/neogeo-metal-slug-box.jpg"
+  },
+  {
+    "id": "neogeo-metal-slug-x",
+    "title": "Metal Slug X",
+    "titleZh": "合金弹头X",
+    "titleJa": "メタルスラッグX",
+    "year": 1999,
+    "developer": "SNK",
+    "publisher": "SNK",
+    "genre": "射击",
+    "tags": [
+      "像素",
+      "横版射击",
+      "重制强化",
+      "双打"
+    ],
+    "players": "1-2",
+    "tagline": "二代的完全体，系列人气王",
+    "description": "《合金弹头X》是二代的“完全强化版”。SNK大刀阔斧地修正了二代臭名昭著的拖慢问题，重新编排敌人配置、加入更多武器与载具，还让玩家吃多了食物就会变成大胖子——胖子开枪火力更粗，却跑不快，幽默感一如既往。\n\n埃及沙漠里的木乃伊会把你变成木乃伊，外星人入侵篇章更让战场画风骤变。新增的铁蜥蜴、双发重机枪等武器让火力层次更丰富，最终BOSS战的大场面足以载入射击史。\n\n对于很多中国玩家而言，街机厅里那块“合金弹头X”的基板就是青春本身。若只能玩一部系列作，X版是最平衡、最爽快的选择。",
+    "highlights": [
+      "修正二代拖慢，节奏更爽快",
+      "吃多变胖、变木乃伊等搞笑状态",
+      "外星人入侵的史诗级终盘",
+      "新增武器与载具，火力层次丰富"
+    ],
+    "reviews": [
+      {
+        "source": "GameSpot（PS版）",
+        "score": "8.2/10",
+        "quote": "2D射击的爽快与幽默保留得相当完整"
+      },
+      {
+        "source": "Eurogamer（PS版）",
+        "score": "8/10",
+        "quote": "手绘画面与疯狂火力，依旧是街机射击的享受"
+      },
+      {
+        "source": "Metacritic（PS版）",
+        "score": "85/100",
+        "quote": "媒体普遍好评的经典移植"
+      }
+    ],
+    "editorScore": 9.3,
+    "is2D": true,
+    "screenshots": [
+      "images/neogeo/neogeo-metal-slug-x-s1.png",
+      "images/neogeo/neogeo-metal-slug-x-s2.png",
+      "images/neogeo/neogeo-metal-slug-x-title.png"
+    ],
+    "cover": "images/neogeo/neogeo-metal-slug-x-box.jpg"
+  },
+  {
+    "id": "neogeo-metal-slug-3",
+    "title": "Metal Slug 3",
+    "titleZh": "合金弹头3",
+    "titleJa": "メタルスラッグ3",
+    "year": 2000,
+    "developer": "SNK",
+    "publisher": "SNK",
+    "genre": "射击",
+    "tags": [
+      "像素",
+      "横版射击",
+      "分支路线",
+      "双打"
+    ],
+    "players": "1-2",
+    "tagline": "系列最大最疯狂的一作",
+    "description": "《合金弹头3》是Neo Geo上最庞大的一卡带之一：海底、丛林、雪原、太空，五大关每关都有分支路线，僵尸、巨蟹、雪人、外星人轮番登场。被僵尸咬了会变成僵尸，吐出的血柱居然是超强攻击；骑骆驼、开潜艇、驾驶飞行器，载具数量是历代之最。\n\n最终关从地面一路打上太空，长达二十多分钟的连续战斗堪称街机史上最长的“最终关”之一，既让人崩溃又让人热血沸腾。\n\n这是SNK像素工匠们在公司风雨飘摇之际交出的最后狂欢，满满的诚意与疯狂创意，值得反复挑战。",
+    "highlights": [
+      "每关多条分支路线，重玩价值极高",
+      "僵尸化、木乃伊化等变身状态",
+      "骆驼、潜艇、飞行器等大量载具",
+      "从地面打上太空的超长最终关"
+    ],
+    "reviews": [
+      {
+        "source": "GameSpot（Xbox版）",
+        "score": "7.5/10",
+        "quote": "内容丰富、创意十足，但对新手难度偏高"
+      },
+      {
+        "source": "Official Xbox Magazine（Xbox 360版）",
+        "score": "8/10",
+        "quote": "经典横版射击的完美收录"
+      },
+      {
+        "source": "Metacritic（Xbox 360版）",
+        "score": "78/100",
+        "quote": "整体评价良好"
+      }
+    ],
+    "editorScore": 9.3,
+    "is2D": true,
+    "screenshots": [
+      "images/neogeo/neogeo-metal-slug-3-s1.png",
+      "images/neogeo/neogeo-metal-slug-3-s2.png",
+      "images/neogeo/neogeo-metal-slug-3-s3.png",
+      "images/neogeo/neogeo-metal-slug-3-title.png"
+    ],
+    "cover": "images/neogeo/neogeo-metal-slug-3-box.jpg"
+  },
+  {
+    "id": "neogeo-kof-98",
+    "title": "The King of Fighters '98",
+    "titleZh": "拳皇98",
+    "titleJa": "ザ・キング・オブ・ファイターズ'98",
+    "year": 1998,
+    "developer": "SNK",
+    "publisher": "SNK",
+    "genre": "格斗",
+    "tags": [
+      "像素",
+      "3对3",
+      "梦幻对决",
+      "对战"
+    ],
+    "players": "1-2",
+    "tagline": "没有剧情的梦幻之战，系列最平衡",
+    "description": "“Dream Match Never Ends”——《拳皇98》放弃剧情，把历代人气角色一口气集结，草薙京、八神庵、特瑞、坂崎良齐聚一堂，还可选择每个角色的EX版本，在ADVANCED与EXTRA两种模式间切换手感。\n\n平衡性被公认是系列最佳之一，连段、取消、MAX超必杀的节奏行云流水。在90年代末的中国街机厅，《拳皇97》《拳皇98》几乎是格斗游戏的代名词，围观的人群和拍得山响的摇杆至今仍是一代人的记忆。\n\n二十多年过去，它依旧是格斗大赛和怀旧对战的常客。像素人物的手感与打击感，是3D时代难以复制的味道。",
+    "highlights": [
+      "史上豪华的全明星阵容",
+      "ADVANCED / EXTRA 双模式",
+      "系列公认最佳的平衡性",
+      "街机厅一代人的共同记忆"
+    ],
+    "reviews": [
+      {
+        "source": "Nintendo Life（Switch版）",
+        "score": "9/10",
+        "quote": "系列巅峰之作，至今依旧好玩"
+      },
+      {
+        "source": "GameSpot（DC版《Dream Match 1999》）",
+        "score": "8.6/10",
+        "quote": "2D格斗的精品，手感扎实"
+      },
+      {
+        "source": "IGN（DC版《Dream Match 1999》）",
+        "score": "8.4/10",
+        "quote": "角色众多、系统成熟的经典"
+      }
+    ],
+    "editorScore": 9.3,
+    "is2D": true,
+    "screenshots": [
+      "images/neogeo/neogeo-kof-98-s1.png",
+      "images/neogeo/neogeo-kof-98-s2.png",
+      "images/neogeo/neogeo-kof-98-s3.png",
+      "images/neogeo/neogeo-kof-98-title.png"
+    ],
+    "cover": "images/neogeo/neogeo-kof-98-box.jpg"
+  },
+  {
+    "id": "neogeo-garou-motw",
+    "title": "Garou: Mark of the Wolves",
+    "titleZh": "饿狼传说：狼之印记",
+    "titleJa": "餓狼 MARK OF THE WOLVES",
+    "year": 1999,
+    "developer": "SNK",
+    "publisher": "SNK",
+    "genre": "格斗",
+    "tags": [
+      "像素",
+      "2D格斗",
+      "精致动画",
+      "对战"
+    ],
+    "players": "1-2",
+    "tagline": "SNK格斗美学的终极形态",
+    "description": "十年后的南镇，特瑞已成长为洛克·霍华德的养父，新一代格斗家登场。《狼之印记》抛弃了前作的“二线移动”，引入Just Defend（精准防御）与T.O.P.系统，让攻防节奏高度紧张又极富策略。\n\n本作像素动画在Neo Geo上堪称顶峰：角色动作帧数多、流畅细腻，背景随时间变化，配乐爵士味十足。洛克、Kim兄弟、Gato、B. Jenet每个人都个性鲜明。\n\n它是SNK在破产前献上的最后一部饿狼作品，也是许多格斗迷心中最美的2D格斗游戏之一，直到今天仍活跃在比赛舞台上。",
+    "highlights": [
+      "Just Defend精准防御系统",
+      "T.O.P.能量系统增加战术变化",
+      "Neo Geo顶级的流畅像素动画",
+      "新世代南镇角色全员个性鲜明"
+    ],
+    "reviews": [
+      {
+        "source": "Metacritic（Dreamcast版）",
+        "score": "86/100",
+        "quote": "备受好评的2D格斗杰作"
+      },
+      {
+        "source": "TouchArcade（iOS ACA版）",
+        "score": "4.5/5",
+        "quote": "画面与手感依旧顶尖，经典格斗必玩"
+      }
+    ],
+    "editorScore": 9.3,
+    "is2D": true,
+    "screenshots": [
+      "images/neogeo/neogeo-garou-motw-s1.png",
+      "images/neogeo/neogeo-garou-motw-s2.png",
+      "images/neogeo/neogeo-garou-motw-s3.png",
+      "images/neogeo/neogeo-garou-motw-title.png"
+    ],
+    "cover": "images/neogeo/neogeo-garou-motw-box.jpg"
+  },
+  {
+    "id": "neogeo-samurai-shodown-2",
+    "title": "Samurai Shodown II",
+    "titleZh": "真侍魂 霸王丸地狱变",
+    "titleJa": "真サムライスピリッツ 覇王丸地獄変",
+    "year": 1994,
+    "developer": "SNK",
+    "publisher": "SNK",
+    "genre": "格斗",
+    "tags": [
+      "像素",
+      "武器格斗",
+      "和风",
+      "对战"
+    ],
+    "players": "1-2",
+    "tagline": "刀光一闪，胜负立分",
+    "description": "《真侍魂》是武器格斗类型的里程碑。霸王丸、娜可露露、橘右京、加尔福特……一刀砍下去就是三分之一条血，刀与刀相撞拼刀、被打飞兵器后的赤手空拳，每一招都带着生死一瞬的紧张感。\n\n续作在前作基础上加入怒气爆发、翻滚、伏地等新动作，画面镜头随距离缩放，和风背景与和乐配乐营造出浓郁的江户时代气氛。流血、断身的演出在当年冲击力十足。\n\n《侍魂》系列教会玩家：格斗不只是连段，更是等待与读心。这一作是公认的系列巅峰之一，至今仍被奉为经典。",
+    "highlights": [
+      "一刀定生死的武器格斗",
+      "镜头随距离缩放的动态画面",
+      "浓郁的和风美术与音乐",
+      "娜可露露等经典人气角色"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通（Neo Geo版）",
+        "score": "34/40",
+        "quote": "系统进化明显，对战乐趣大增"
+      },
+      {
+        "source": "EGM（Neo Geo版）",
+        "score": "36/40",
+        "quote": "画面与手感俱佳的武器格斗杰作"
+      },
+      {
+        "source": "GamePro（Neo Geo版）",
+        "score": "5/5",
+        "quote": "Neo Geo上最出色的格斗游戏之一"
+      }
+    ],
+    "editorScore": 9.2,
+    "is2D": true,
+    "screenshots": [
+      "images/neogeo/neogeo-samurai-shodown-2-s1.png",
+      "images/neogeo/neogeo-samurai-shodown-2-title.png"
+    ],
+    "cover": "images/neogeo/neogeo-samurai-shodown-2-box.jpg"
+  },
+  {
+    "id": "neogeo-last-blade-2",
+    "title": "The Last Blade 2",
+    "titleZh": "月华剑士2",
+    "titleJa": "幕末浪漫第二幕 月華の剣士 ～月に咲く華、散りゆく花～",
+    "year": 1998,
+    "developer": "SNK",
+    "publisher": "SNK",
+    "genre": "格斗",
+    "tags": [
+      "像素",
+      "武器格斗",
+      "幕末",
+      "唯美"
+    ],
+    "players": "1-2",
+    "tagline": "幕末浪漫，月下最美的剑戟",
+    "description": "如果说《侍魂》是武士的豪迈，那么《月华剑士》就是幕末的凄美。续作在“力”与“技”两种风格之外加入了“极”模式，连段系统更自由；“弹返”系统要求玩家在刀锋相接的瞬间按键反击，读心对决极具张力。\n\n像素画面绘制得如同浮世绘，樱花、月夜、雪景交织出诗意的幕末世界，每个角色的结局都带着淡淡的哀伤。音乐更是动人心弦，许多玩家听到片头曲就会想起那段月光。\n\n《月华剑士2》被许多格斗迷称为SNK最被低估的杰作，系统深度与艺术品味兼具，值得每一位2D爱好者细细品味。",
+    "highlights": [
+      "力/技/极三种战斗风格",
+      "高风险高回报的弹返系统",
+      "浮世绘般唯美的像素美术",
+      "凄美动人的幕末剧情与配乐"
+    ],
+    "reviews": [
+      {
+        "source": "IGN（Dreamcast版）",
+        "score": "8.7/10",
+        "quote": "SNK最精致的武器格斗之一"
+      },
+      {
+        "source": "GameSpot（Dreamcast版）",
+        "score": "8.1/10",
+        "quote": "画面优美、系统扎实的2D格斗"
+      },
+      {
+        "source": "Nintendo Life（Switch版）",
+        "score": "9/10",
+        "quote": "Neo Geo最出色的格斗游戏之一"
+      }
+    ],
+    "editorScore": 9.2,
+    "is2D": true,
+    "screenshots": [
+      "images/neogeo/neogeo-last-blade-2-s1.png",
+      "images/neogeo/neogeo-last-blade-2-s2.png",
+      "images/neogeo/neogeo-last-blade-2-title.png"
+    ],
+    "cover": "images/neogeo/neogeo-last-blade-2-box.jpg"
+  },
+  {
+    "id": "neogeo-blazing-star",
+    "title": "Blazing Star",
+    "titleZh": "闪耀之星",
+    "titleJa": "ブレイジングスター",
+    "year": 1998,
+    "developer": "Yumekobo",
+    "publisher": "SNK",
+    "genre": "射击",
+    "tags": [
+      "像素",
+      "横版射击",
+      "蓄力",
+      "双打"
+    ],
+    "players": "1-2",
+    "tagline": "Neo Geo最华丽的横版射击",
+    "description": "《闪耀之星》是《Pulstar》的续作，由Yumekobo（原Aicom）打造。六架性格各异的战机，按住射击键蓄力后释放强力攻击，越靠近敌人得分越高，“蓄力+贴脸”的玩法让每场战斗充满爆发感。\n\n预渲染的CG风格机体与背景在当年炫目无比，BOSS战规模宏大，配上激昂的摇滚配乐和略显搞笑的英语语音（“You're crazy!”），形成独特的气质。\n\n它是Neo Geo射击游戏的头牌，难度适中、爽快度极高，适合射击新手入门，也够老手钻研分数。",
+    "highlights": [
+      "六架个性战机任选",
+      "蓄力射击的爆发式玩法",
+      "华丽预渲染画面与巨型BOSS",
+      "热血摇滚配乐与魔性语音"
+    ],
+    "reviews": [
+      {
+        "source": "Nintendo Life（Switch版）",
+        "score": "9/10",
+        "quote": "Neo Geo最棒的射击游戏之一"
+      },
+      {
+        "source": "Pocket Gamer（iOS/Android版）",
+        "score": "9/10",
+        "quote": "华丽爽快，移植表现出色"
+      },
+      {
+        "source": "TouchArcade（iOS/Android版）",
+        "score": "4/5",
+        "quote": "经典横版射击，依旧好玩"
+      }
+    ],
+    "editorScore": 9.1,
+    "is2D": true,
+    "screenshots": [
+      "images/neogeo/neogeo-blazing-star-s1.png",
+      "images/neogeo/neogeo-blazing-star-title.png"
+    ],
+    "cover": "images/neogeo/neogeo-blazing-star-box.jpg"
+  },
+  {
+    "id": "neogeo-last-blade",
+    "title": "The Last Blade",
+    "titleZh": "月华剑士",
+    "titleJa": "幕末浪漫 月華の剣士",
+    "year": 1997,
+    "developer": "SNK",
+    "publisher": "SNK",
+    "genre": "格斗",
+    "tags": [
+      "像素",
+      "武器格斗",
+      "幕末",
+      "唯美"
+    ],
+    "players": "1-2",
+    "tagline": "月光下的第一幕",
+    "description": "1997年，SNK在《侍魂》之外开辟了另一条剑戟之路——《月华剑士》。故事发生在幕末动荡的日本，地狱门开启，剑客们为了各自的执念拔刀相向。\n\n本作开创了“力”与“技”两种风格选择：力型擅长超必杀，技型可自由连段；独特的“弹返”可以化解对手攻击并反击，奠定了系列的读心对战基础。每位角色的故事都细腻动人，楓、守矢、鷲塚庆一郎的羁绊令人难忘。\n\n美术与音乐是本作的灵魂：落樱、月夜、川流，像素画面美得像一幅流动的日本画。虽然续作更完善，初代的意境同样不可错过。",
+    "highlights": [
+      "力/技两种战斗风格",
+      "弹返系统开创读心对战",
+      "诗意的幕末世界观",
+      "唯美的像素美术与配乐"
+    ],
+    "reviews": [
+      {
+        "source": "AllGame（Neo Geo版）",
+        "score": "4/5",
+        "quote": "画面精美、系统独特的武器格斗"
+      },
+      {
+        "source": "GameSpot（PS版）",
+        "score": "8.1/10",
+        "quote": "剧情和美术令人印象深刻"
+      },
+      {
+        "source": "Nintendo Life（Switch版）",
+        "score": "9/10",
+        "quote": "SNK最被低估的格斗杰作"
+      }
+    ],
+    "editorScore": 9.0,
+    "is2D": true,
+    "screenshots": [
+      "images/neogeo/neogeo-last-blade-s1.png",
+      "images/neogeo/neogeo-last-blade-s2.png",
+      "images/neogeo/neogeo-last-blade-s3.png",
+      "images/neogeo/neogeo-last-blade-title.png"
+    ],
+    "cover": "images/neogeo/neogeo-last-blade-box.jpg"
+  },
+  {
+    "id": "neogeo-kof-97",
+    "title": "The King of Fighters '97",
+    "titleZh": "拳皇97",
+    "titleJa": "ザ・キング・オブ・ファイターズ'97",
+    "year": 1997,
+    "developer": "SNK",
+    "publisher": "SNK",
+    "genre": "格斗",
+    "tags": [
+      "像素",
+      "3对3",
+      "大蛇篇",
+      "对战"
+    ],
+    "players": "1-2",
+    "tagline": "大蛇篇终章，中国街机厅之王",
+    "description": "《拳皇97》是“大蛇篇”的最终章。八神庵、草薙京、神乐千鹤三神器集结对抗大蛇一族，七枷社、夏尔米、克里斯组成的新八杰集团个性鲜明，暴走庵、暴走莉安娜更成为隐藏角色的经典。\n\n本作首次加入ADVANCED与EXTRA两种模式，连段和超必杀爽快感十足。虽然平衡性存在一些问题（某些角色强得离谱），但正是这种“无限连”“秒杀”的狂野让它在中国街机厅成为传说。\n\n“97”这个数字在一代中国玩家心中分量极重。无论技术高低，三人一队摇杆对决的热血，至今仍值得重温。",
+    "highlights": [
+      "大蛇篇剧情高潮与结局",
+      "ADVANCED / EXTRA 双模式首次登场",
+      "暴走庵等经典隐藏角色",
+      "在中国拥有无可比拟的人气"
+    ],
+    "reviews": [
+      {
+        "source": "AllGame（Neo Geo版）",
+        "score": "4/5",
+        "quote": "系列成熟之作，阵容与系统都很出色"
+      },
+      {
+        "source": "Nintendo Life（Wii Virtual Console版）",
+        "score": "8/10",
+        "quote": "大蛇篇最佳的一作，至今仍是粉丝心头好"
+      }
+    ],
+    "editorScore": 9.0,
+    "is2D": true,
+    "screenshots": [
+      "images/neogeo/neogeo-kof-97-s1.png",
+      "images/neogeo/neogeo-kof-97-s2.png",
+      "images/neogeo/neogeo-kof-97-s3.png",
+      "images/neogeo/neogeo-kof-97-title.png"
+    ],
+    "cover": "images/neogeo/neogeo-kof-97-box.jpg"
+  },
+  {
+    "id": "neogeo-samurai-shodown",
+    "title": "Samurai Shodown",
+    "titleZh": "侍魂",
+    "titleJa": "サムライスピリッツ",
+    "year": 1993,
+    "developer": "SNK",
+    "publisher": "SNK",
+    "genre": "格斗",
+    "tags": [
+      "像素",
+      "武器格斗",
+      "和风",
+      "开山之作"
+    ],
+    "players": "1-2",
+    "tagline": "武器格斗的开山鼻祖",
+    "description": "1993年，当格斗游戏还在比拼拳脚时，《侍魂》把刀剑带进了街机厅。霸王丸、娜可露露、牙神幻十郎、橘右京——每一刀都可能削去对手大半条血，这种一击必杀的紧张感前所未有。\n\n镜头会随两人距离推近拉远，背景中不时有快递员抛出补给，怒气槽满后攻击力暴增。浓郁的和风美术、尺八与太鼓交织的配乐，让本作在Gamest大赏中横扫年度大奖。\n\n今天看来系统虽简单，但那种拔刀对峙、屏息等待破绽的感觉，依旧是格斗游戏中最纯粹的乐趣。",
+    "highlights": [
+      "开创武器格斗类型",
+      "镜头随距离缩放的动态画面",
+      "怒气系统与一击重伤的紧张感",
+      "Gamest大赏年度最佳游戏"
+    ],
+    "reviews": [
+      {
+        "source": "Computer and Video Games（Neo Geo版）",
+        "score": "90%",
+        "quote": "画面与格斗手感都令人赞叹"
+      },
+      {
+        "source": "Nintendo Life（Switch版）",
+        "score": "8/10",
+        "quote": "武器格斗的奇妙开端，至今依旧好玩"
+      }
+    ],
+    "editorScore": 8.9,
+    "is2D": true,
+    "screenshots": [
+      "images/neogeo/neogeo-samurai-shodown-s1.png",
+      "images/neogeo/neogeo-samurai-shodown-s2.png",
+      "images/neogeo/neogeo-samurai-shodown-s3.png",
+      "images/neogeo/neogeo-samurai-shodown-title.png"
+    ],
+    "cover": "images/neogeo/neogeo-samurai-shodown-box.jpg"
+  },
+  {
+    "id": "neogeo-fatal-fury-special",
+    "title": "Fatal Fury Special",
+    "titleZh": "饿狼传说SPECIAL",
+    "titleJa": "餓狼伝説スペシャル",
+    "year": 1993,
+    "developer": "SNK",
+    "publisher": "SNK",
+    "genre": "格斗",
+    "tags": [
+      "像素",
+      "2D格斗",
+      "二线移动",
+      "对战"
+    ],
+    "players": "1-2",
+    "tagline": "饿狼系列第一次真正封神",
+    "description": "《饿狼传说SPECIAL》是二代的强化版：可选角色增至15人，四天王全员开放，连段系统得到改进，节奏比二代快了许多。打通全关且条件达成，还能与隐藏角色——《龙虎之拳》的坂崎良一战，这一“跨作品客串”在当年轰动一时。\n\n饿狼标志性的“二线移动”让角色可以在前后两条线间闪躲，战斗充满变化。特瑞的“Power Wave”、不知火舞的扇子、吉斯的“雷光拳”，都在这一作中成为经典。\n\n它是SNK格斗黄金时代的起点之一，也是后来《拳皇》诞生的基石。",
+    "highlights": [
+      "15名可选角色，四天王全员开放",
+      "隐藏BOSS坂崎良跨作品登场",
+      "二线移动的独特战斗系统",
+      "连段与节奏大幅改进"
+    ],
+    "reviews": [
+      {
+        "source": "Edge（Neo Geo版）",
+        "score": "8/10",
+        "quote": "节奏与系统全面进化的强化版"
+      },
+      {
+        "source": "EGM（Neo Geo版）",
+        "score": "34/40",
+        "quote": "Neo Geo上的格斗精品"
+      },
+      {
+        "source": "Digital Press（Neo Geo版）",
+        "score": "9/10",
+        "quote": "饿狼系列最佳之一"
+      }
+    ],
+    "editorScore": 8.8,
+    "is2D": true,
+    "screenshots": [
+      "images/neogeo/neogeo-fatal-fury-special-s1.png",
+      "images/neogeo/neogeo-fatal-fury-special-s2.png",
+      "images/neogeo/neogeo-fatal-fury-special-s3.png",
+      "images/neogeo/neogeo-fatal-fury-special-title.png"
+    ],
+    "cover": "images/neogeo/neogeo-fatal-fury-special-box.jpg"
+  },
+  {
+    "id": "neogeo-twinkle-star-sprites",
+    "title": "Twinkle Star Sprites",
+    "titleZh": "星之少女",
+    "titleJa": "ティンクルスタースプライツ",
+    "year": 1996,
+    "developer": "ADK",
+    "publisher": "SNK",
+    "genre": "射击",
+    "tags": [
+      "像素",
+      "对战射击",
+      "可爱",
+      "双打"
+    ],
+    "players": "1-2",
+    "tagline": "可爱外表下的硬核对战射击",
+    "description": "《星之少女》是一款独一无二的“对战型纵版射击”。屏幕左右分割，双方各自射击飞来的敌人，连锁爆炸会把“攻击弹”送到对手那边，越连越多，场面越混乱，直到某一方被弹幕淹没。\n\n画面是可爱的魔法少女风，角色设计甜美，配乐轻快，但对战深度相当惊人：何时攻击、何时防守、如何反弹对方的攻击弹，都是高手研究的课题。\n\nADK用这部作品证明了射击游戏也可以是“对战游戏”。如果你身边有朋友，它会成为最欢乐也最激烈的双人游戏之一。",
+    "highlights": [
+      "独创的分屏对战射击玩法",
+      "连锁爆炸反击对手",
+      "可爱的魔法少女画风",
+      "上手容易、深度惊人"
+    ],
+    "reviews": [
+      {
+        "source": "AllGame（Neo Geo版）",
+        "score": "4/5",
+        "quote": "可爱又紧张的独特对战射击"
+      },
+      {
+        "source": "Consoles+（Neo Geo版）",
+        "score": "85%",
+        "quote": "创意十足的双人对战佳作"
+      }
+    ],
+    "editorScore": 8.8,
+    "is2D": true,
+    "screenshots": [
+      "images/neogeo/neogeo-twinkle-star-sprites-s1.png",
+      "images/neogeo/neogeo-twinkle-star-sprites-x1.png",
+      "images/neogeo/neogeo-twinkle-star-sprites-title.png"
+    ],
+    "cover": "images/neogeo/neogeo-twinkle-star-sprites-box.jpg"
+  },
+  {
+    "id": "neogeo-aero-fighters-2",
+    "title": "Aero Fighters 2",
+    "titleZh": "四国战机2",
+    "titleJa": "ソニックウイングス2",
+    "year": 1994,
+    "developer": "Video System",
+    "publisher": "SNK",
+    "genre": "射击",
+    "tags": [
+      "像素",
+      "纵版射击",
+      "个性角色",
+      "双打"
+    ],
+    "players": "1-2",
+    "tagline": "环游世界的空战爽游",
+    "description": "《四国战机2》（日版名《Sonic Wings 2》）是Video System的招牌纵版射击。玩家可从各国飞行员中挑选——美国、日本、瑞典、俄罗斯，甚至还有一只驾驶战机的小狗Pooch和忍者——每架飞机火力与保险炸弹截然不同。\n\n关卡遍布世界各地：东京、纽约、澳大利亚、喜马拉雅……双人合作时，不同搭档组合还会出现专属的搞笑对话与结局，耐玩度极高。\n\n节奏明快、子弹不过分密集，是一款老少咸宜的“街机厅入门射击”，也是Neo Geo射击阵容中的中坚。",
+    "highlights": [
+      "多国个性飞行员与专属战机",
+      "世界各地的多彩关卡",
+      "双人组合专属对话与结局",
+      "节奏明快、适合新手"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通（Neo Geo版）",
+        "score": "28/40",
+        "quote": "手感爽快的正统纵版射击"
+      },
+      {
+        "source": "Nintendo Life（Switch版）",
+        "score": "9/10",
+        "quote": "Neo Geo最佳射击游戏之一"
+      }
+    ],
+    "editorScore": 8.6,
+    "is2D": true,
+    "screenshots": [
+      "images/neogeo/neogeo-aero-fighters-2-s1.png",
+      "images/neogeo/neogeo-aero-fighters-2-title.png"
+    ],
+    "cover": "images/neogeo/neogeo-aero-fighters-2-box.jpg"
+  },
+  {
+    "id": "neogeo-shock-troopers",
+    "title": "Shock Troopers",
+    "titleZh": "雷霆特攻队",
+    "titleJa": "ショックトルーパーズ",
+    "year": 1997,
+    "developer": "Saurus",
+    "publisher": "SNK",
+    "genre": "射击",
+    "tags": [
+      "像素",
+      "俯视射击",
+      "佣兵小队",
+      "双打"
+    ],
+    "players": "1-2",
+    "tagline": "Neo Geo版的《魂斗罗》俯视战场",
+    "description": "《雷霆特攻队》是Saurus打造的俯视角动作射击。八名佣兵各有特长，可选择“单人”模式或“三人小队”模式，后者能随时切换队员，战术多样。三条路线通往最终目标，分支丰富。\n\n画面是Neo Geo后期的高水准：爆炸、破坏、坦克与直升机层出不穷，可以翻滚闪避，节奏紧凑火爆。配乐热血，敌兵多到令人窒息，却从不让人觉得乏味。\n\n如果你喜欢《合金弹头》的爆破快感，又想尝试俯视角的自由移动，这部作品会给你大大的惊喜。",
+    "highlights": [
+      "八名佣兵与单人/小队两种模式",
+      "三条分支路线",
+      "翻滚闪避的流畅操作",
+      "火爆的爆炸与破坏演出"
+    ],
+    "reviews": [
+      {
+        "source": "Nintendo Life（Wii Virtual Console版）",
+        "score": "7/10",
+        "quote": "紧张又火爆的跑射动作体验"
+      }
+    ],
+    "editorScore": 8.6,
+    "is2D": true,
+    "screenshots": [
+      "images/neogeo/neogeo-shock-troopers-s1.png",
+      "images/neogeo/neogeo-shock-troopers-s2.png",
+      "images/neogeo/neogeo-shock-troopers-title.png"
+    ],
+    "cover": "images/neogeo/neogeo-shock-troopers-box.jpg"
+  },
+  {
+    "id": "neogeo-windjammers",
+    "title": "Windjammers",
+    "titleZh": "飞盘对决",
+    "titleJa": "フライングパワーディスク",
+    "year": 1994,
+    "developer": "Data East",
+    "publisher": "Data East",
+    "genre": "体育",
+    "tags": [
+      "像素",
+      "对战",
+      "飞盘",
+      "派对"
+    ],
+    "players": "1-2",
+    "tagline": "街机厅里的“空气曲棍球”神作",
+    "description": "《飞盘对决》把沙滩飞盘做成了极其纯粹的对战游戏。六名来自不同国家的选手，有的力量型、有的速度型，用曲线球、反弹球、超级必杀投掷把飞盘砸进对手的得分区。\n\n规则一分钟就能学会，但高手对决的速度与心理战让人肾上腺素飙升。90年代风格的明快画面和动感音乐，让整个游戏洋溢着阳光沙滩的气息。\n\n本作在近年意外翻红，成为格斗游戏大赛的余兴项目，甚至推出了续作。和朋友一起玩，绝对是Neo Geo上最欢乐的时光之一。",
+    "highlights": [
+      "一分钟上手的简单规则",
+      "力量/速度型选手差异明显",
+      "超级必杀投掷与曲线飞盘",
+      "近年复兴的电竞人气作"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通（Neo Geo版）",
+        "score": "28/40",
+        "quote": "简单易懂又热血的对战体育游戏"
+      },
+      {
+        "source": "Nintendo Life（Switch版）",
+        "score": "8/10",
+        "quote": "双人对战乐趣无穷的经典"
+      },
+      {
+        "source": "Jeuxvideo.com（Neo Geo版）",
+        "score": "17/20",
+        "quote": "快节奏、极具上瘾性的对战"
+      }
+    ],
+    "editorScore": 8.6,
+    "is2D": true,
+    "screenshots": [
+      "images/neogeo/neogeo-windjammers-s1.png",
+      "images/neogeo/neogeo-windjammers-x1.png",
+      "images/neogeo/neogeo-windjammers-title.png"
+    ],
+    "cover": "images/neogeo/neogeo-windjammers-box.jpg"
+  },
+  {
+    "id": "neogeo-sengoku-3",
+    "title": "Sengoku 3",
+    "titleZh": "战国传承2001",
+    "titleJa": "戦国伝承2001",
+    "year": 2001,
+    "developer": "Noise Factory",
+    "publisher": "SNK",
+    "genre": "动作清版",
+    "tags": [
+      "像素",
+      "清版",
+      "忍者",
+      "双打"
+    ],
+    "players": "1-2",
+    "tagline": "Neo Geo最后的华丽清版",
+    "description": "《战国传承2001》是系列第三作，由Noise Factory开发，与前两作的风格截然不同。四名忍者与剑客在现代都市与幻想战国之间穿梭，对抗复活的魔王。\n\n本作的核心是连段系统：轻重攻击组合、空中连击、必杀技衔接，打击感媲美格斗游戏。画面流畅精致，敌人种类繁多，双人合作时的连携更是爽快无比。\n\n作为Neo Geo末期的清版作品，它展现了2D像素动作的成熟形态，被许多玩家视为Neo Geo最好的清版游戏之一。",
+    "highlights": [
+      "格斗游戏般的连段系统",
+      "四名风格迥异的角色",
+      "精致流畅的Neo Geo末期画面",
+      "双人合作爽快感十足"
+    ],
+    "reviews": [
+      {
+        "source": "Nintendo Life（Switch版）",
+        "score": "9/10",
+        "quote": "Neo Geo最出色的清版动作之一"
+      },
+      {
+        "source": "Nintendo Life（Wii Virtual Console版）",
+        "score": "8/10",
+        "quote": "爽快的连段与精美画面"
+      }
+    ],
+    "editorScore": 8.5,
+    "is2D": true,
+    "screenshots": [
+      "images/neogeo/neogeo-sengoku-3-s1.png",
+      "images/neogeo/neogeo-sengoku-3-s2.png",
+      "images/neogeo/neogeo-sengoku-3-s3.png",
+      "images/neogeo/neogeo-sengoku-3-title.png"
+    ],
+    "cover": "images/neogeo/neogeo-sengoku-3-box.jpg"
+  },
+  {
+    "id": "neogeo-waku-waku-7",
+    "title": "Waku Waku 7",
+    "titleZh": "超级战斗7",
+    "titleJa": "わくわく7",
+    "year": 1996,
+    "developer": "Sunsoft",
+    "publisher": "Sunsoft",
+    "genre": "格斗",
+    "tags": [
+      "像素",
+      "2D格斗",
+      "恶搞",
+      "动画风"
+    ],
+    "players": "1-2",
+    "tagline": "Sunsoft的欢乐格斗冷门神作",
+    "description": "《Waku Waku 7》是Sunsoft在Neo Geo上推出的格斗游戏，七名角色争夺七颗“Waku Waku球”。角色全是对动漫的爱意恶搞：机器人、兽人、魔法少女、熊猫……每个人的必杀技都夸张又搞笑。\n\n画面色彩明快、动画帧数极多，角色胜利动作与对话充满喜感。“Harahara攻击”可以在对手倒地时追打，系统虽然简单却不失深度。\n\n它在当年没有《拳皇》那样的人气，却在今天被视为“隐藏的宝石”。如果你喜欢动画风格的2D格斗，这款作品不容错过。",
+    "highlights": [
+      "对动漫文化的满满致敬与恶搞",
+      "色彩明快、帧数丰富的动画",
+      "夸张搞笑的必杀技演出",
+      "Neo Geo上的隐藏宝石"
+    ],
+    "reviews": [
+      {
+        "source": "AllGame（Neo Geo版）",
+        "score": "4.5/5",
+        "quote": "画面精美、充满幽默的格斗佳作"
+      },
+      {
+        "source": "Nintendo Life（Switch版）",
+        "score": "8/10",
+        "quote": "被低估的欢乐格斗游戏"
+      }
+    ],
+    "editorScore": 8.4,
+    "is2D": true,
+    "screenshots": [
+      "images/neogeo/neogeo-waku-waku-7-s1.png",
+      "images/neogeo/neogeo-waku-waku-7-x1.png",
+      "images/neogeo/neogeo-waku-waku-7-title.png"
+    ],
+    "cover": "images/neogeo/neogeo-waku-waku-7-box.jpg"
+  },
+  {
+    "id": "neogeo-neo-turf-masters",
+    "title": "Neo Turf Masters",
+    "titleZh": "Neo Geo高尔夫",
+    "titleJa": "ビッグトーナメントゴルフ",
+    "year": 1996,
+    "developer": "Nazca",
+    "publisher": "SNK",
+    "genre": "体育",
+    "tags": [
+      "像素",
+      "高尔夫",
+      "街机",
+      "轻松"
+    ],
+    "players": "1-4",
+    "tagline": "把高尔夫做成了爽快街机游戏",
+    "description": "出自《合金弹头》开发商Nazca之手的《Neo Turf Masters》，把慢节奏的高尔夫做得像动作游戏一样爽快。六名国籍各异的选手，挥杆力度与弧线各有特点，三按键的简单操作就能打出漂亮的弧线球。\n\n球场遍布美国、日本、德国、澳大利亚等地，绿意盎然的像素画面与轻快的音乐让人心旷神怡。一杆进洞时的欢呼与演出至今仍令人兴奋。\n\n如果你从未对高尔夫游戏感兴趣，这款作品会改变你的想法——它简单、快速，又充满技巧。",
+    "highlights": [
+      "简单爽快的三键操作",
+      "世界各地的风景球场",
+      "Nazca出品的精致像素画面",
+      "支持多人轮流对战"
+    ],
+    "reviews": [
+      {
+        "source": "IGN（Wii Virtual Console版）",
+        "score": "7.5/10",
+        "quote": "节奏飞快、充满SNK街机风格的高尔夫"
+      }
+    ],
+    "editorScore": 8.4,
+    "is2D": true,
+    "screenshots": [
+      "images/neogeo/neogeo-neo-turf-masters-s1.png",
+      "images/neogeo/neogeo-neo-turf-masters-x1.png",
+      "images/neogeo/neogeo-neo-turf-masters-title.png"
+    ],
+    "cover": "images/neogeo/neogeo-neo-turf-masters-box.jpg"
+  },
+  {
+    "id": "neogeo-super-sidekicks-3",
+    "title": "Super Sidekicks 3: The Next Glory",
+    "titleZh": "得点王3",
+    "titleJa": "得点王3 栄光への挑戦",
+    "year": 1995,
+    "developer": "SNK",
+    "publisher": "SNK",
+    "genre": "体育",
+    "tags": [
+      "像素",
+      "足球",
+      "街机",
+      "双打"
+    ],
+    "players": "1-2",
+    "tagline": "街机足球的热血巅峰",
+    "description": "《得点王》系列是Neo Geo上的足球招牌，第三作收录了全球64支国家队，从欧洲豪强到亚洲劲旅应有尽有。操作简洁：传球、射门、铲球，配合华丽的特写射门演出，热血感爆棚。\n\n画面在前作基础上大幅提升，球员动作更加流畅，进球后的特写和球迷欢呼让人沉浸其中。节奏极快，一场比赛几分钟就能分出胜负，最适合街机厅里和朋友较量。\n\n它没有模拟足球的复杂系统，却有着纯粹的竞技快感。对于90年代的玩家来说，“得点王”就是足球游戏的代名词之一。",
+    "highlights": [
+      "收录64支国家队",
+      "简洁明快的操作",
+      "华丽的射门特写演出",
+      "适合双人对战的快节奏比赛"
+    ],
+    "reviews": [
+      {
+        "source": "GamePro（Neo Geo版）",
+        "score": "18/20",
+        "quote": "节奏飞快、画面出色的街机足球"
+      },
+      {
+        "source": "EGM（Neo Geo版）",
+        "score": "8/10",
+        "quote": "系列进化明显的足球佳作"
+      }
+    ],
+    "editorScore": 8.2,
+    "is2D": true,
+    "screenshots": [
+      "images/neogeo/neogeo-super-sidekicks-3-s1.png",
+      "images/neogeo/neogeo-super-sidekicks-3-x1.png",
+      "images/neogeo/neogeo-super-sidekicks-3-title.png"
+    ],
+    "cover": "images/neogeo/neogeo-super-sidekicks-3-box.jpg"
+  },
+  {
+    "id": "neogeo-pulstar",
+    "title": "Pulstar",
+    "titleZh": "脉冲之星",
+    "titleJa": "パルスター",
+    "year": 1995,
+    "developer": "Aicom",
+    "publisher": "SNK",
+    "genre": "射击",
+    "tags": [
+      "像素",
+      "横版射击",
+      "预渲染",
+      "硬核"
+    ],
+    "players": "1",
+    "tagline": "Neo Geo上的《R-Type》继承者",
+    "description": "《Pulstar》由Aicom开发，明显受到《R-Type》的影响：蓄力射击、跟随机体的辅助单元，以及考验记忆与走位的关卡设计。但它有着自己的独特魅力——预渲染的CG风格画面在1995年令人惊叹，生物机械风格的敌人诡异又华丽。\n\n难度相当硬核，需要反复练习记住敌人的出现位置。每关的BOSS设计宏大，配乐氛围感十足，营造出孤独太空战士的史诗感。\n\n作为续作《闪耀之星》的前身，它更偏向冷静、战术性的射击体验，适合喜欢挑战的射击老手。",
+    "highlights": [
+      "《R-Type》风格的蓄力射击",
+      "1995年惊艳的预渲染画面",
+      "生物机械风格的敌人设计",
+      "硬核的记忆型关卡"
+    ],
+    "reviews": [
+      {
+        "source": "Nintendo Life（Wii Virtual Console版）",
+        "score": "7/10",
+        "quote": "画面出色，但偶有拖慢与辨识问题"
+      },
+      {
+        "source": "TouchArcade（iOS ACA版）",
+        "score": "4.5/5",
+        "quote": "Neo Geo最出色的传统射击游戏之一"
+      }
+    ],
+    "editorScore": 8.2,
+    "is2D": true,
+    "screenshots": [
+      "images/neogeo/neogeo-pulstar-s1.png",
+      "images/neogeo/neogeo-pulstar-x1.png",
+      "images/neogeo/neogeo-pulstar-title.png"
+    ],
+    "cover": "images/neogeo/neogeo-pulstar-box.jpg"
+  },
+  {
+    "id": "neogeo-magical-drop-3",
+    "title": "Magical Drop III",
+    "titleZh": "魔法气泡3",
+    "titleJa": "マジカルドロップIII",
+    "year": 1997,
+    "developer": "Data East",
+    "publisher": "Data East",
+    "genre": "解谜",
+    "tags": [
+      "像素",
+      "消除",
+      "塔罗牌",
+      "对战"
+    ],
+    "players": "1-2",
+    "tagline": "手速与脑速齐飞的消除对战",
+    "description": "《魔法气泡3》是Data East的高速消除游戏。玩家操控小丑在屏幕底部抓取、扔出彩色气泡，三个以上同色相连即可消除，连锁会给对手送去大量气泡，节奏比《俄罗斯方块》《噗哟噗哟》都要快。\n\n角色以塔罗牌为原型，“魔术师”“女祭司”“恋人”等人物造型可爱，每人都有专属的故事模式。音乐改编自古典名曲，轻快俏皮。\n\n本作被认为是系列最佳，上手简单但越玩越快，双人对战时堪称“手指格斗”。益智游戏爱好者不可错过。",
+    "highlights": [
+      "极速的抓取-抛出消除玩法",
+      "连锁攻击对手的对战系统",
+      "塔罗牌主题的可爱角色",
+      "古典名曲改编的配乐"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通（世嘉土星版）",
+        "score": "25/40",
+        "quote": "爽快的高速消除益智"
+      },
+      {
+        "source": "Neo Geo Freak（街机版）",
+        "score": "15/20",
+        "quote": "系列成熟之作，对战乐趣十足"
+      }
+    ],
+    "editorScore": 8.2,
+    "is2D": true,
+    "screenshots": [
+      "images/neogeo/neogeo-magical-drop-3-s1.png",
+      "images/neogeo/neogeo-magical-drop-3-x1.png",
+      "images/neogeo/neogeo-magical-drop-3-title.png"
+    ],
+    "cover": "images/neogeo/neogeo-magical-drop-3-box.jpg"
+  },
+  {
+    "id": "neogeo-kof-2002",
+    "title": "The King of Fighters 2002",
+    "titleZh": "拳皇2002",
+    "titleJa": "ザ・キング・オブ・ファイターズ2002",
+    "year": 2002,
+    "developer": "Eolith",
+    "publisher": "Playmore",
+    "genre": "格斗",
+    "tags": [
+      "像素",
+      "3对3",
+      "梦幻对决",
+      "对战"
+    ],
+    "players": "1-2",
+    "tagline": "回归3对3的又一部梦幻之战",
+    "description": "在SNK破产风波后，韩国Eolith接手开发了《拳皇2002》。本作取消了前几作的“援护者”系统，回归纯粹的3对3团队战，同时引入“MAX发动”系统：消耗能量进入强化状态，可以用取消技把必杀与超必杀串成华丽长连段。\n\n与《98》一样，这是一部无剧情的“梦幻对决”，人物阵容横跨历代，大蛇八杰集团、K'组、斩首队悉数登场。爆发式的连段让本作成为对战圈的常客，中国玩家对它的熟悉程度不亚于《97》。\n\n虽然画面复用了不少旧素材，平衡性也有争议，但连段的创造力与对战热度让它至今仍拥有大量拥趸。",
+    "highlights": [
+      "回归纯粹的3对3团队战",
+      "MAX发动带来的华丽长连段",
+      "历代角色大集合的梦幻阵容",
+      "在中国对战圈拥有极高人气"
+    ],
+    "reviews": [
+      {
+        "source": "TouchArcade（iOS ACA版）",
+        "score": "3.5/5",
+        "quote": "连段系统爽快，但画面素材略显陈旧"
+      }
+    ],
+    "editorScore": 8.1,
+    "is2D": true,
+    "screenshots": [
+      "images/neogeo/neogeo-kof-2002-s1.png",
+      "images/neogeo/neogeo-kof-2002-s2.png",
+      "images/neogeo/neogeo-kof-2002-title.png"
+    ],
+    "cover": "images/neogeo/neogeo-kof-2002-box.jpg"
+  },
+  {
+    "id": "neogeo-art-of-fighting-2",
+    "title": "Art of Fighting 2",
+    "titleZh": "龙虎之拳2",
+    "titleJa": "龍虎の拳2",
+    "year": 1994,
+    "developer": "SNK",
+    "publisher": "SNK",
+    "genre": "格斗",
+    "tags": [
+      "像素",
+      "2D格斗",
+      "缩放镜头",
+      "硬派"
+    ],
+    "players": "1-2",
+    "tagline": "镜头拉近的硬派拳脚",
+    "description": "《龙虎之拳2》延续了前作硬派的格斗风格：坂崎良、罗伯特、尤莉与全新的对手们在南镇展开较量，最终对决的是年轻时的吉斯·霍华德。\n\n系列招牌的“气力槽”让必杀技需要消耗能量，玩家可以通过挑衅削减对手气力；角色被打会脸部肿胀，镜头随距离大幅缩放，人物立绘巨大，在当年视觉冲击力极强。\n\n本作难度以高著称，电脑AI凶狠，但这正是那个年代的硬核魅力。它也是SNK格斗世界观走向交织的重要一环，南镇的故事从这里与《饿狼传说》紧紧相连。",
+    "highlights": [
+      "巨大角色与镜头缩放",
+      "气力槽与挑衅系统",
+      "被打肿脸的写实演出",
+      "年轻吉斯登场的隐藏BOSS"
+    ],
+    "reviews": [
+      {
+        "source": "Computer and Video Games（Neo Geo版）",
+        "score": "95%",
+        "quote": "画面与格斗系统令人惊艳"
+      },
+      {
+        "source": "EGM（Neo Geo版）",
+        "score": "30/40",
+        "quote": "硬派风格的进化续作"
+      }
+    ],
+    "editorScore": 8.0,
+    "is2D": true,
+    "screenshots": [
+      "images/neogeo/neogeo-art-of-fighting-2-s1.png",
+      "images/neogeo/neogeo-art-of-fighting-2-s2.png",
+      "images/neogeo/neogeo-art-of-fighting-2-title.png"
+    ],
+    "cover": "images/neogeo/neogeo-art-of-fighting-2-box.jpg"
+  },
+  {
+    "id": "neogeo-kizuna-encounter",
+    "title": "Kizuna Encounter: Super Tag Battle",
+    "titleZh": "风云 超级换人格斗",
+    "titleJa": "風雲スーパータッグバトル",
+    "year": 1996,
+    "developer": "SNK",
+    "publisher": "SNK",
+    "genre": "格斗",
+    "tags": [
+      "像素",
+      "换人对战",
+      "稀有",
+      "二线移动"
+    ],
+    "players": "1-2",
+    "tagline": "Neo Geo上的2对2换人先驱",
+    "description": "《风云 超级换人格斗》是《风云默示录》的续作，也是最早的“换人对战”格斗游戏之一。玩家选择两名角色组队，在战斗中可随时站进场边的“交换区”换人，休息中的队友能缓慢恢复体力。\n\n角色多数手持武器，战斗节奏兼具《侍魂》的重量感与《拳皇》的连段感。保留了“二线移动”元素，让战场更有层次。画面色彩浓烈，背景细节丰富。\n\n欧版AES卡带据说仅有极少量流通，曾是收藏界的传奇。如今通过复刻版人人都能体验这款被埋没的佳作。",
+    "highlights": [
+      "早期的2对2换人格斗系统",
+      "场边交换区与体力恢复机制",
+      "武器格斗与连段结合",
+      "欧版卡带的收藏传奇"
+    ],
+    "reviews": [
+      {
+        "source": "TouchArcade（iOS ACA版）",
+        "score": "4/5",
+        "quote": "比前作《风云默示录》改进明显的换人格斗"
+      }
+    ],
+    "editorScore": 7.9,
+    "is2D": true,
+    "screenshots": [
+      "images/neogeo/neogeo-kizuna-encounter-s1.png",
+      "images/neogeo/neogeo-kizuna-encounter-x1.png",
+      "images/neogeo/neogeo-kizuna-encounter-title.png"
+    ],
+    "cover": "images/neogeo/neogeo-kizuna-encounter-box.jpg"
+  },
+  {
+    "id": "neogeo-top-hunter",
+    "title": "Top Hunter: Roddy & Cathy",
+    "titleZh": "无赖战士",
+    "titleJa": "トップハンター ロディー＆キャシー",
+    "year": 1994,
+    "developer": "SNK",
+    "publisher": "SNK",
+    "genre": "动作",
+    "tags": [
+      "像素",
+      "横版动作",
+      "二线移动",
+      "双打"
+    ],
+    "players": "1-2",
+    "tagline": "可爱画风的星际赏金猎人",
+    "description": "《无赖战士》是SNK的横版动作游戏，主角是赏金猎人罗迪与凯茜。他们使用伸缩拳臂攻击敌人，可以抓住敌人扔出去，还能驾驶机器人战斗，并在前后两条线之间切换，和《饿狼传说》的二线移动颇有异曲同工之妙。\n\n四颗星球分别对应风、火、水、森林主题，关卡可自由选择顺序。画面明亮可爱，敌人和BOSS造型充满卡通趣味，双人合作更是热闹非凡。\n\n它是Neo Geo上少见的轻松型动作游戏，难度适中，适合与朋友一起度过一个快乐的下午。",
+    "highlights": [
+      "伸缩拳臂与投掷攻击",
+      "可驾驶的机器人",
+      "前后二线移动的关卡设计",
+      "明亮可爱的卡通画风"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通（Neo Geo版）",
+        "score": "24/40",
+        "quote": "轻松有趣的横版动作"
+      },
+      {
+        "source": "EGM（Neo Geo版）",
+        "score": "7/10",
+        "quote": "画面可爱、双人合作乐趣十足"
+      },
+      {
+        "source": "Nintendo Life（Wii Virtual Console版）",
+        "score": "8/10",
+        "quote": "被低估的SNK动作佳作"
+      }
+    ],
+    "editorScore": 7.8,
+    "is2D": true,
+    "screenshots": [
+      "images/neogeo/neogeo-top-hunter-s1.png",
+      "images/neogeo/neogeo-top-hunter-s2.png",
+      "images/neogeo/neogeo-top-hunter-title.png"
+    ],
+    "cover": "images/neogeo/neogeo-top-hunter-box.jpg"
+  },
+  {
+    "id": "neogeo-ninja-masters",
+    "title": "Ninja Master's: Haoh-Ninpo-Cho",
+    "titleZh": "忍者大师 霸王忍法帖",
+    "titleJa": "NINJA MASTER'S 覇王忍法帖",
+    "year": 1996,
+    "developer": "ADK",
+    "publisher": "SNK",
+    "genre": "格斗",
+    "tags": [
+      "像素",
+      "武器格斗",
+      "忍者",
+      "战国"
+    ],
+    "players": "1-2",
+    "tagline": "ADK最后的忍者格斗绝唱",
+    "description": "《忍者大师》是ADK在Neo Geo上的最后一款格斗游戏。故事发生在战国时代，忍者们对抗织田信长。本作最大的特色是可以随时拔刀或收刀：持武器时攻击力强、有独特招式，空手时速度快、可连段，两种风格自由切换。\n\n画面细腻，和风背景精美，角色动作流畅。连段系统颇具深度，可以用“连舞”系统打出一套华丽的组合技。\n\n它在当年被《拳皇》《侍魂》的光芒掩盖，但今天看来系统独特、手感扎实，是值得挖掘的冷门佳作。",
+    "highlights": [
+      "持刀/空手两种风格随时切换",
+      "连舞系统华丽连段",
+      "战国忍者主题的和风美术",
+      "ADK谢幕之作"
+    ],
+    "reviews": [
+      {
+        "source": "Nintendo Life（Wii Virtual Console版）",
+        "score": "8/10",
+        "quote": "Neo Geo上最独特的格斗游戏之一"
+      },
+      {
+        "source": "TouchArcade（iOS ACA版）",
+        "score": "3.5/5",
+        "quote": "系统有趣的冷门武器格斗"
+      }
+    ],
+    "editorScore": 7.8,
+    "is2D": true,
+    "screenshots": [
+      "images/neogeo/neogeo-ninja-masters-s1.png",
+      "images/neogeo/neogeo-ninja-masters-x1.png",
+      "images/neogeo/neogeo-ninja-masters-title.png"
+    ],
+    "cover": "images/neogeo/neogeo-ninja-masters-box.jpg"
+  },
+  {
+    "id": "neogeo-puzzle-bobble",
+    "title": "Puzzle Bobble",
+    "titleZh": "泡泡龙",
+    "titleJa": "パズルボブル",
+    "year": 1994,
+    "developer": "Taito",
+    "publisher": "SNK",
+    "genre": "解谜",
+    "tags": [
+      "像素",
+      "消除",
+      "可爱",
+      "对战"
+    ],
+    "players": "1-2",
+    "tagline": "人人都会爱上的泡泡射击",
+    "description": "《泡泡龙》是Taito以《泡泡龙》（Bubble Bobble）中的恐龙兄弟为主角打造的益智游戏。玩家控制底部的发射器，瞄准角度发射彩色泡泡，三个以上同色相连即可消除，悬空的泡泡也会一并掉落。\n\n利用墙壁反弹的“擦边球”是游戏的精髓，规则简单到小孩都能马上理解，但想要一次性打落一大片泡泡则需要精确计算。双人对战模式中，消除的泡泡会送到对手那边，紧张又欢乐。\n\nNeo Geo版让这款游戏走进了全世界的街机厅，它的魅力超越了年龄与国界，是永恒的经典。",
+    "highlights": [
+      "简单直观的瞄准射击消除",
+      "利用墙壁反弹的技巧",
+      "可爱的恐龙兄弟",
+      "欢乐的双人对战"
+    ],
+    "reviews": [
+      {
+        "source": "AllGame（街机版）",
+        "score": "3.5/5",
+        "quote": "简单又令人上瘾的益智游戏"
+      },
+      {
+        "source": "EGM（SFC版）",
+        "score": "39/50",
+        "quote": "老少咸宜的益智佳作"
+      }
+    ],
+    "editorScore": 7.8,
+    "is2D": true,
+    "screenshots": [
+      "images/neogeo/neogeo-puzzle-bobble-s1.png",
+      "images/neogeo/neogeo-puzzle-bobble-title.png"
+    ],
+    "cover": "images/neogeo/neogeo-puzzle-bobble-box.jpg"
+  },
+  {
+    "id": "neogeo-world-heroes-perfect",
+    "title": "World Heroes Perfect",
+    "titleZh": "世界英雄完美版",
+    "titleJa": "ワールドヒーローズパーフェクト",
+    "year": 1995,
+    "developer": "ADK",
+    "publisher": "SNK",
+    "genre": "格斗",
+    "tags": [
+      "像素",
+      "2D格斗",
+      "历史人物",
+      "恶搞"
+    ],
+    "players": "1-2",
+    "tagline": "历史名人的时空大乱斗",
+    "description": "《世界英雄》系列让历史与传说中的人物穿越时空同台较量：成吉思汗、贞德、拉斯普京、服部半藏、风魔小太郎……完美版是系列的最终作，集结了历代角色并大幅改进系统。\n\n本作引入了“Hero Gauge”超必杀系统和“Perfect Guard”精准防御，每个角色都获得了新的必杀技。画面比前作精致许多，背景充满异国风情。\n\n虽然常被视为“《街头霸王》的模仿者”，但它的恶搞精神和天马行空的角色设计自成一格。完美版是体验这个系列的最佳选择。",
+    "highlights": [
+      "历史名人穿越时空对决",
+      "Hero Gauge超必杀系统",
+      "历代角色集大成",
+      "GamePro年度最佳Neo Geo游戏"
+    ],
+    "reviews": [
+      {
+        "source": "EGM（Neo Geo版）",
+        "score": "8.5/10",
+        "quote": "系列最完善的一作"
+      },
+      {
+        "source": "Nintendo Life（Switch版）",
+        "score": "7/10",
+        "quote": "有趣的历史名人格斗，系统略显陈旧"
+      }
+    ],
+    "editorScore": 7.7,
+    "is2D": true,
+    "screenshots": [
+      "images/neogeo/neogeo-world-heroes-perfect-s1.png",
+      "images/neogeo/neogeo-world-heroes-perfect-x1.png",
+      "images/neogeo/neogeo-world-heroes-perfect-title.png"
+    ],
+    "cover": "images/neogeo/neogeo-world-heroes-perfect-box.jpg"
+  },
+  {
+    "id": "neogeo-burning-fight",
+    "title": "Burning Fight",
+    "titleZh": "热血快打",
+    "titleJa": "バーニングファイト",
+    "year": 1991,
+    "developer": "SNK",
+    "publisher": "SNK",
+    "genre": "动作清版",
+    "tags": [
+      "像素",
+      "清版",
+      "都市",
+      "双打"
+    ],
+    "players": "1-2",
+    "tagline": "Neo Geo早期的《快打旋风》",
+    "description": "《热血快打》是SNK在Neo Geo早期推出的清版动作游戏，明显受到《快打旋风》的启发。三名警察——硬汉杜克、拳手比利、功夫高手龙——在纽约和大阪的街头扫荡黑帮。\n\n画面在1991年算得上相当华丽，角色体型巨大，背景中的可破坏物品与武器丰富，汽车、电话亭都能砸烂。节奏虽然慢于后来的清版作品，但打击感扎实。\n\n作为Neo Geo最早期的作品之一，它展现了“巨大角色”这一Neo Geo招牌。对清版游戏史感兴趣的玩家值得一试。",
+    "highlights": [
+      "三名风格各异的主角",
+      "巨大角色与可破坏场景",
+      "纽约到大阪的都市冒险",
+      "Neo Geo早期的清版代表作"
+    ],
+    "reviews": [
+      {
+        "source": "Computer and Video Games（Neo Geo版）",
+        "score": "92/100",
+        "quote": "画面令人惊叹的清版动作"
+      },
+      {
+        "source": "GamePro（Neo Geo版）",
+        "score": "24/25",
+        "quote": "Neo Geo上出色的清版游戏"
+      }
+    ],
+    "editorScore": 7.5,
+    "is2D": true,
+    "screenshots": [
+      "images/neogeo/neogeo-burning-fight-s1.png",
+      "images/neogeo/neogeo-burning-fight-s2.png",
+      "images/neogeo/neogeo-burning-fight-s3.png",
+      "images/neogeo/neogeo-burning-fight-title.png"
+    ],
+    "cover": "images/neogeo/neogeo-burning-fight-box.jpg"
+  },
+  {
+    "id": "neogeo-matrimelee",
+    "title": "Matrimelee",
+    "titleZh": "新豪血寺一族 斗婚",
+    "titleJa": "新豪血寺一族 闘婚 Matrimelee",
+    "year": 2002,
+    "developer": "Noise Factory / Atlus",
+    "publisher": "Playmore",
+    "genre": "格斗",
+    "tags": [
+      "像素",
+      "2D格斗",
+      "恶搞",
+      "豪血寺"
+    ],
+    "players": "1-2",
+    "tagline": "豪血寺一族的Neo Geo狂欢婚礼",
+    "description": "《斗婚》是Atlus《豪血寺一族》系列在Neo Geo上的作品，由Noise Factory开发。豪血寺家族再次为了争夺家主之位大打出手，这次的奖品是与王子结婚——一场荒诞的“比武招亲”。\n\n系列招牌的恶搞风格全面保留：会变身成年轻美女的老奶奶、肌肉夸张的怪人、匪夷所思的必杀技，台词与胜利动作处处是笑点。画面精致，帧数丰富。\n\n作为Neo Geo末期的作品，它的手感与画面都相当成熟，喜欢搞笑格斗的玩家会玩得非常开心。",
+    "highlights": [
+      "豪血寺一族的恶搞风格",
+      "比武招亲的荒诞剧情",
+      "Neo Geo末期的成熟画面",
+      "丰富的角色与必杀技演出"
+    ],
+    "reviews": [
+      {
+        "source": "HardCore Gamers（Neo Geo版）",
+        "score": "8/10",
+        "quote": "画面精致、充满恶搞精神的格斗游戏"
+      }
+    ],
+    "editorScore": 7.4,
+    "is2D": true,
+    "screenshots": [
+      "images/neogeo/neogeo-matrimelee-s1.png",
+      "images/neogeo/neogeo-matrimelee-title.png"
+    ],
+    "cover": "images/neogeo/neogeo-matrimelee-box.jpg"
+  },
+  {
+    "id": "neogeo-robo-army",
+    "title": "Robo Army",
+    "titleZh": "机器人军团",
+    "titleJa": "ロボアーミー",
+    "year": 1991,
+    "developer": "SNK",
+    "publisher": "SNK",
+    "genre": "动作清版",
+    "tags": [
+      "像素",
+      "清版",
+      "机器人",
+      "双打"
+    ],
+    "players": "1-2",
+    "tagline": "变身装甲车的机器人清版",
+    "description": "《机器人军团》是SNK早期的清版动作游戏，主角是两名机器人战士，要对抗疯狂科学家的机器人大军。最酷的设定是：主角可以变身成装甲车高速冲撞敌人！\n\n敌人被打爆时会碎裂成零件四散飞溅，打击感十足。画面风格是80年代末科幻动画的味道，金属质感的像素绘制得相当用心。\n\n系统虽然简单，但作为一款爽快的双人清版游戏，它依旧能带来轻松的乐趣。",
+    "highlights": [
+      "可变身装甲车的机器人主角",
+      "打爆后零件四散的爽快感",
+      "科幻动画风格美术",
+      "双人合作清版"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通（Neo Geo版）",
+        "score": "23/40",
+        "quote": "简单的清版动作"
+      },
+      {
+        "source": "GamePro（Neo Geo版）",
+        "score": "20/25",
+        "quote": "爽快的机器人清版"
+      },
+      {
+        "source": "Computer and Video Games（Neo Geo版）",
+        "score": "84/100",
+        "quote": "画面出色的动作游戏"
+      }
+    ],
+    "editorScore": 7.2,
+    "is2D": true,
+    "screenshots": [
+      "images/neogeo/neogeo-robo-army-s1.png",
+      "images/neogeo/neogeo-robo-army-x1.png",
+      "images/neogeo/neogeo-robo-army-title.png"
+    ],
+    "cover": "images/neogeo/neogeo-robo-army-box.jpg"
+  },
+  {
+    "id": "neogeo-breakers-revenge",
+    "title": "Breakers Revenge",
+    "titleZh": "破坏者复仇",
+    "titleJa": "ブレイカーズリベンジ",
+    "year": 1998,
+    "developer": "Visco",
+    "publisher": "Visco",
+    "genre": "格斗",
+    "tags": [
+      "像素",
+      "2D格斗",
+      "冷门",
+      "对战"
+    ],
+    "players": "1-2",
+    "tagline": "Visco的冷门格斗遗珠",
+    "description": "《破坏者复仇》是Visco的《Breakers》强化版，在Neo Geo上推出。十名来自世界各地的格斗家参加神秘的格斗大会，角色设计融合中国功夫、印度瑜伽、阿拉伯魔法等元素。\n\n本作手感接近《街头霸王》系列，节奏明快、连段流畅，并加入了新角色和平衡性调整。画面精致，背景色彩丰富。\n\n它在当年几乎被《拳皇》的光芒完全掩盖，但在对战圈中逐渐获得了好评。如果你想发掘Neo Geo的冷门格斗，这款不容错过。",
+    "highlights": [
+      "接近街霸系的流畅手感",
+      "多元文化的角色设计",
+      "前作基础上的平衡调整",
+      "被埋没的格斗遗珠"
+    ],
+    "reviews": [
+      {
+        "source": "Neo Geo Freak（街机版）",
+        "score": "10/20",
+        "quote": "手感扎实但缺乏新意"
+      }
+    ],
+    "editorScore": 7.0,
+    "is2D": true,
+    "screenshots": [
+      "images/neogeo/neogeo-breakers-revenge-s1.png",
+      "images/neogeo/neogeo-breakers-revenge-x1.png",
+      "images/neogeo/neogeo-breakers-revenge-title.png"
+    ],
+    "cover": "images/neogeo/neogeo-breakers-revenge-box.jpg"
+  },
+  {
+    "id": "neogeo-nightmare-in-the-dark",
+    "title": "Nightmare in the Dark",
+    "titleZh": "黑暗中的噩梦",
+    "titleJa": "ナイトメア・イン・ザ・ダーク",
+    "year": 2000,
+    "developer": "AM Factory",
+    "publisher": "Eleven / Gavaking",
+    "genre": "平台跳跃",
+    "tags": [
+      "像素",
+      "雪人兄弟式",
+      "万圣节",
+      "双打"
+    ],
+    "players": "1-2",
+    "tagline": "万圣节风格的《雪人兄弟》",
+    "description": "《Nightmare in the Dark》是Neo Geo上的固定画面平台动作游戏，玩法类似《雪人兄弟》。玩家扮演一名掘墓人，用火焰把怪物烧成火球，再把火球踢出去撞倒其他怪物。\n\n画面是阴森又可爱的万圣节风格：墓地、鬼屋、城堡，南瓜灯与幽灵在像素中跳动，色彩丰富、动画细腻。BOSS战设计有趣，双人合作时更加热闹。\n\n它是Neo Geo上罕见的此类游戏，卡带十分稀少，但游戏本身轻松好玩。适合喜欢《雪人兄弟》或《泡泡龙》的玩家。",
+    "highlights": [
+      "《雪人兄弟》式的火球踢击玩法",
+      "阴森可爱的万圣节美术",
+      "丰富的BOSS战",
+      "Neo Geo上罕见的固定画面动作"
+    ],
+    "reviews": [
+      {
+        "source": "Infinity Retro",
+        "score": "7/10",
+        "quote": "画面讨喜、主题有趣，但玩法原创性不足"
+      }
+    ],
+    "editorScore": 7.0,
+    "is2D": true,
+    "screenshots": [
+      "images/neogeo/neogeo-nightmare-in-the-dark-s1.png",
+      "images/neogeo/neogeo-nightmare-in-the-dark-title.png"
+    ],
+    "cover": "images/neogeo/neogeo-nightmare-in-the-dark-box.jpg"
+  }
+]

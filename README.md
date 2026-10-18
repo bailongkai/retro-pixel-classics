@@ -1,6 +1,6 @@
 # 像素宝典 PIXEL CLASSICS
 
-怀旧游戏推荐特辑 —— 以 90 年代游戏杂志风格，收录 GB / GBA / SFC / MD / SS / PS / DC / PS2 八大平台的 2D 名作推荐、介绍、媒体评价与游戏截图。
+怀旧游戏推荐特辑 —— 以 90 年代游戏杂志风格，收录 FC / SFC / GB / GBA / NDS / MD / MCD / GG / SS / DC / PS / PS2 / PSP / PCE / NEO·GEO / NGP / WS 共 17 个平台、近 600 款 2D 名作的推荐、介绍、媒体评价、游戏截图与包装。
 
 - 纯静态站点（HTML + CSS + 原生 JS），无需构建，直接部署到 GitHub Pages
 - 适配手机与桌面
@@ -22,6 +22,15 @@ fonts/              Press Start 2P 像素字体（SIL OFL）
 ```bash
 python3 -m http.server 8000
 # 打开 http://localhost:8000
+```
+
+## 工具
+
+```bash
+python3 tools/thumbs.py <平台> --list "游戏名"            # 在 libretro-thumbnails 中查找
+python3 tools/thumbs.py <平台> <id> "精确名称 (Japan)"     # 下载游戏画面/标题画面/包装
+python3 tools/validate.py [平台]                         # 校验数据与图片
+python3 tools/dedupe.py [--apply] [平台]                  # 去除重复截图（需要 Pillow）
 ```
 
 ## 添加游戏

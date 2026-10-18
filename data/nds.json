@@ -1,0 +1,1727 @@
+[
+  {
+    "id": "nds-chrono-trigger",
+    "title": "Chrono Trigger",
+    "titleZh": "时空之轮",
+    "titleJa": "クロノ・トリガー",
+    "year": 2008,
+    "developer": "Square Enix",
+    "publisher": "Square Enix",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "穿越时空",
+      "多结局"
+    ],
+    "players": "1",
+    "tagline": "梦幻团队的永恒杰作，双屏重生",
+    "description": "堀井雄二、坂口博信、鸟山明——三位传奇联手打造的《时空之轮》，是所有RPG玩家心中绕不过去的那座高峰。DS版忠实还原了SFC原版的像素画面，克罗诺、玛尔、青蛙在原始时代、中世纪与末日未来之间穿梭，每一个时代都是一幅精雕细琢的像素画卷。\n\n“Active Time Battle”加上无缝的场景战斗和双人、三人合体技，让战斗节奏紧凑又充满策略；“强くてニューゲーム”（继承周目）配合十几种结局，让人一玩再玩。DS版还新增了“异次元的迷宫”、“彼方的遗迹”等追加内容，并收录了PS版的动画过场，下屏显示地图与菜单，操作更为顺手。\n\n光田康典的配乐更是不朽——《风之憧憬》《时之回廊》一响起，多少人瞬间回到少年时代。如果你从未通关过这部作品，DS版就是最好的入口。",
+    "highlights": [
+      "鸟山明人设 + 光田康典配乐的黄金组合",
+      "合体技与无缝战斗系统",
+      "十余种结局与继承周目",
+      "追加迷宫与PS版动画过场"
+    ],
+    "reviews": [
+      {
+        "source": "Metacritic",
+        "score": "92/100",
+        "quote": "经典的重生，依然是史上最伟大的RPG之一"
+      },
+      {
+        "source": "Eurogamer",
+        "score": "10/10",
+        "quote": "十余年过去，它的魔力分毫未减"
+      },
+      {
+        "source": "IGN",
+        "score": "8.8/10",
+        "quote": "原汁原味的移植，新增内容锦上添花"
+      }
+    ],
+    "editorScore": 9.6,
+    "is2D": true,
+    "screenshots": [
+      "images/nds/nds-chrono-trigger-s1.png",
+      "images/nds/nds-chrono-trigger-title.png"
+    ],
+    "cover": "images/nds/nds-chrono-trigger-box.jpg"
+  },
+  {
+    "id": "nds-dragon-quest-v",
+    "title": "Dragon Quest V: Hand of the Heavenly Bride",
+    "titleZh": "勇者斗恶龙V 天空的新娘",
+    "titleJa": "ドラゴンクエストV 天空の花嫁",
+    "year": 2008,
+    "developer": "ArtePiazza",
+    "publisher": "Square Enix",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "怪物收集",
+      "人生史诗"
+    ],
+    "players": "1",
+    "tagline": "三代人的史诗，最动人的勇者斗恶龙",
+    "description": "从襁褓中的婴儿到为人父，《勇者斗恶龙V》用一整个人生来讲述冒险。主角跟随父亲帕帕斯周游世界，经历童年的欢乐、少年的奴隶岁月、青年的婚姻抉择——比安卡还是芙罗拉？这个问题让日本玩家争论了二十年。\n\nDS版由ArtePiazza操刀，采用3D场景搭配2D点阵角色的表现方式，视角可自由旋转，鸟山明笔下的角色以可爱的像素小人登场。可以收服魔物同伴的系统是后来《勇者斗恶龙怪兽篇》乃至《口袋妖怪》的先驱，史莱姆骑士、杀人豹都能成为你的忠实战友。DS版还新增了第三位新娘候选人黛博拉。\n\n这是一部关于家庭、传承与命运的RPG。剧情里那些令人心碎的转折，即便放在今天也能让人泪流满面。",
+    "highlights": [
+      "跨越三代人的家族史诗",
+      "收服魔物同伴系统",
+      "经典的“新娘抉择”，DS版新增黛博拉",
+      "旋转3D场景与像素角色"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "36/40",
+        "quote": "四位编辑全给9分，经典名作的完美重制"
+      },
+      {
+        "source": "Metacritic",
+        "score": "84/100",
+        "quote": "历久弥新的叙事让它在今天依然动人"
+      },
+      {
+        "source": "IGN",
+        "score": "8.9/10",
+        "quote": "系列最好的故事之一，值得每个RPG迷体验"
+      }
+    ],
+    "editorScore": 9.5,
+    "is2D": true,
+    "screenshots": [
+      "images/nds/nds-dragon-quest-v-s1.png",
+      "images/nds/nds-dragon-quest-v-s2.png",
+      "images/nds/nds-dragon-quest-v-title.png"
+    ],
+    "cover": "images/nds/nds-dragon-quest-v-box.jpg"
+  },
+  {
+    "id": "nds-castlevania-dawn-of-sorrow",
+    "title": "Castlevania: Dawn of Sorrow",
+    "titleZh": "恶魔城 苍月十字架",
+    "titleJa": "悪魔城ドラキュラ 蒼月の十字架",
+    "year": 2005,
+    "developer": "Konami",
+    "publisher": "Konami",
+    "genre": "动作角色扮演",
+    "tags": [
+      "像素",
+      "银河恶魔城",
+      "灵魂收集"
+    ],
+    "players": "1",
+    "tagline": "DS最强银河恶魔城，灵魂系统再进化",
+    "description": "接续GBA名作《晓月圆舞曲》，来须苍真再次踏入魔王城。五十嵐孝司团队把GBA时代积累的经验全部倾注在DS上：更高的分辨率、更大的Boss、更流畅的动画，整座城堡的像素美术令人叹为观止。\n\n核心的“战术灵魂”系统得到进一步强化：击败敌人有几率吸收其灵魂，转化为攻击、召唤、能力强化等上百种技能，还可以用灵魂强化武器。触屏的“魔封阵”在Boss战中要求你在下屏快速画出符文，虽有争议却也颇为新鲜。山根美智留的配乐依然华丽激昂。\n\n探索、收集、成长三者咬合得天衣无缝。想知道“银河恶魔城”类型的巅峰在哪里？请从这里开始。",
+    "highlights": [
+      "上百种灵魂技能自由搭配",
+      "细腻的高分辨率像素美术",
+      "触屏魔封阵Boss战",
+      "多结局与隐藏模式"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "33/40",
+        "quote": "继承前作精髓，收集要素丰富耐玩"
+      },
+      {
+        "source": "Metacritic",
+        "score": "89/100",
+        "quote": "DS上最出色的动作冒险之一"
+      },
+      {
+        "source": "IGN",
+        "score": "9.3/10",
+        "quote": "年度DS最佳冒险游戏，探索乐趣无与伦比"
+      }
+    ],
+    "editorScore": 9.4,
+    "is2D": true,
+    "screenshots": [
+      "images/nds/nds-castlevania-dawn-of-sorrow-s1.png",
+      "images/nds/nds-castlevania-dawn-of-sorrow-title.png"
+    ],
+    "cover": "images/nds/nds-castlevania-dawn-of-sorrow-box.jpg"
+  },
+  {
+    "id": "nds-the-world-ends-with-you",
+    "title": "The World Ends with You",
+    "titleZh": "美妙世界",
+    "titleJa": "すばらしきこのせかい",
+    "year": 2007,
+    "developer": "Square Enix / Jupiter",
+    "publisher": "Square Enix",
+    "genre": "动作角色扮演",
+    "tags": [
+      "双屏战斗",
+      "涩谷",
+      "潮流美术"
+    ],
+    "players": "1",
+    "tagline": "涩谷街头的死神游戏，双屏同时开战",
+    "description": "醒来时，少年音羽寝转发现自己身处涩谷十字路口，手中握着一枚刻着骷髅的徽章——他已被卷入为期七天的“死神游戏”。《美妙世界》出自《王国之心》团队之手，野村哲也与小林元的街头潮流美术、石元丈晴的摇滚电子配乐，把涩谷109、宇田川町描绘得活力四射。\n\n最惊人的是战斗：玩家用触控笔在下屏操纵音羽，以划、点、拖等手势发动各种徽章技能；同时用十字键操控上屏的搭档。两块屏幕同时战斗，初上手手忙脚乱，熟练后却爽快至极。时装品牌、食物消化、等级可升可降换取掉宝率，系统深度惊人。\n\n这是一部只有DS才能诞生的作品，也是Square Enix在掌机上最具胆识的原创之作。",
+    "highlights": [
+      "上下双屏同步操控的革新战斗",
+      "街头潮流的涩谷美术风格",
+      "超过三百种徽章与时装系统",
+      "关于“与他人相连”的成长故事"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "35/40",
+        "quote": "独特的世界观与双屏战斗令人耳目一新"
+      },
+      {
+        "source": "Metacritic",
+        "score": "88/100",
+        "quote": "大胆而新鲜，DS上最具创意的RPG"
+      },
+      {
+        "source": "IGN",
+        "score": "9/10",
+        "quote": "本应是噱头的设计却完美地融合在一起"
+      }
+    ],
+    "editorScore": 9.4,
+    "is2D": true,
+    "screenshots": [
+      "images/nds/nds-the-world-ends-with-you-s1.png",
+      "images/nds/nds-the-world-ends-with-you-title.png"
+    ],
+    "cover": "images/nds/nds-the-world-ends-with-you-box.jpg"
+  },
+  {
+    "id": "nds-mario-luigi-bowsers-inside-story",
+    "title": "Mario & Luigi: Bowser's Inside Story",
+    "titleZh": "马里奥与路易RPG3",
+    "titleJa": "マリオ&ルイージRPG3!!!",
+    "year": 2009,
+    "developer": "AlphaDream",
+    "publisher": "Nintendo",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "搞笑",
+      "动作指令"
+    ],
+    "players": "1",
+    "tagline": "钻进库巴肚子里冒险！爆笑RPG巅峰",
+    "description": "库巴误吞了怪蘑菇，结果把马里奥兄弟连同半个城堡吸进了肚子里——AlphaDream的脑洞就是这么疯狂。本作中你要同时操控两组人马：上屏是在蘑菇王国横冲直撞的库巴，下屏则是在库巴体内奔走的马里奥兄弟，两边的行动会互相影响。\n\n系列招牌的“动作指令”战斗依然精彩：看准时机按键闪避与反击，每一场战斗都像节奏游戏般紧张有趣。库巴巨大化后的竖持DS大战更是名场面。像素角色的表情动作极其丰富，台词笑点密集，连反派都写得可爱至极。\n\n它是DS上评价最高的RPG之一，也是让人从头笑到尾的冒险。",
+    "highlights": [
+      "双线操控：库巴与体内的马里奥兄弟",
+      "时机判定的动作指令战斗",
+      "竖持DS的巨大库巴Boss战",
+      "密集笑点与鲜活像素演出"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "35/40",
+        "quote": "两条线交错推进，构思巧妙"
+      },
+      {
+        "source": "Metacritic",
+        "score": "90/100",
+        "quote": "系列最佳，幽默与系统完美结合"
+      },
+      {
+        "source": "IGN",
+        "score": "9.5/10",
+        "quote": "DS上最好玩的RPG之一"
+      }
+    ],
+    "editorScore": 9.3,
+    "is2D": true,
+    "screenshots": [
+      "images/nds/nds-mario-luigi-bowsers-inside-story-s1.png",
+      "images/nds/nds-mario-luigi-bowsers-inside-story-title.png"
+    ],
+    "cover": "images/nds/nds-mario-luigi-bowsers-inside-story-box.jpg"
+  },
+  {
+    "id": "nds-pokemon-heartgold-soulsilver",
+    "title": "Pokémon HeartGold & SoulSilver",
+    "titleZh": "精灵宝可梦 心金·魂银",
+    "titleJa": "ポケットモンスター ハートゴールド・ソウルシルバー",
+    "year": 2009,
+    "developer": "Game Freak",
+    "publisher": "Nintendo / The Pokémon Company",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "收集",
+      "重制"
+    ],
+    "players": "1-2",
+    "tagline": "城都十年再归来，系列最完美的重制",
+    "description": "金银版曾让一代人在城都地区流连忘返，而DS上的“心金魂银”则是一次几乎无可挑剔的重制。城都与关都两大地区、十六枚徽章、最终在白银山顶对决红——这份分量在系列中至今罕有对手。\n\n画面沿用DS第四世代的2D俯视风格，城镇细节大幅丰富；最受欢迎的新要素是“宝可梦跟随”：你队伍第一只宝可梦会一直跟在身后走，和它对话还会有各种反应。附赠的计步器“PokéWalker”让你把宝可梦带出门散步，回忆满满。\n\n如果只能挑一部掌机宝可梦来重温，很多老玩家都会选这一部。",
+    "highlights": [
+      "城都 + 关都两大地区，十六枚徽章",
+      "全493只宝可梦可跟随主角行走",
+      "白银山顶对决传说中的红",
+      "同捆计步器PokéWalker"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "37/40",
+        "quote": "原作的乐趣加上丰富的新要素，令人满足"
+      },
+      {
+        "source": "Metacritic",
+        "score": "87/100",
+        "quote": "DS上评价最高的宝可梦之一"
+      },
+      {
+        "source": "Nintendo Power",
+        "score": "9.5/10",
+        "quote": "迄今最出色的宝可梦游戏"
+      }
+    ],
+    "editorScore": 9.3,
+    "is2D": true,
+    "screenshots": [
+      "images/nds/nds-pokemon-heartgold-soulsilver-s1.png",
+      "images/nds/nds-pokemon-heartgold-soulsilver-s2.png",
+      "images/nds/nds-pokemon-heartgold-soulsilver-title.png"
+    ],
+    "cover": "images/nds/nds-pokemon-heartgold-soulsilver-box.jpg"
+  },
+  {
+    "id": "nds-castlevania-order-of-ecclesia",
+    "title": "Castlevania: Order of Ecclesia",
+    "titleZh": "恶魔城 被夺走的刻印",
+    "titleJa": "悪魔城ドラキュラ 奪われた刻印",
+    "year": 2008,
+    "developer": "Konami",
+    "publisher": "Konami",
+    "genre": "动作角色扮演",
+    "tags": [
+      "像素",
+      "银河恶魔城",
+      "高难度"
+    ],
+    "players": "1",
+    "tagline": "DS恶魔城压轴之作，硬派女主刻印之舞",
+    "description": "DS恶魔城三部曲的最后一作，也是最具野心的一作。主角夏诺雅是秘密结社“Ecclesia”的女战士，凭借吸收“刻印”的能力作战——双手各装备一种刻印，交替出招便能打出华丽连段。\n\n本作舍弃了单一城堡结构，改为在世界地图上探索村庄、森林、灯塔、海底等多个关卡，后期才进入德古拉城。难度明显提升，Boss战讲究观察与走位，颇有初代恶魔城的硬派风骨。营救村民的支线也让世界更具生活气息。哥特与古典交融的人设配合细腻的像素动画，美术水准是系列巅峰。\n\n喜欢挑战的玩家，一定不能错过这部“被低估的杰作”。",
+    "highlights": [
+      "左右手刻印组合的连段系统",
+      "多关卡世界地图结构",
+      "硬派难度与高质量Boss战",
+      "营救村民的支线任务"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "30/40",
+        "quote": "难度偏高但手感扎实，适合核心玩家"
+      },
+      {
+        "source": "Metacritic",
+        "score": "85/100",
+        "quote": "回归硬派挑战的优秀恶魔城"
+      },
+      {
+        "source": "IGN",
+        "score": "9/10",
+        "quote": "年度DS最佳平台游戏"
+      }
+    ],
+    "editorScore": 9.2,
+    "is2D": true,
+    "screenshots": [
+      "images/nds/nds-castlevania-order-of-ecclesia-s1.png",
+      "images/nds/nds-castlevania-order-of-ecclesia-title.png"
+    ],
+    "cover": "images/nds/nds-castlevania-order-of-ecclesia-box.jpg"
+  },
+  {
+    "id": "nds-dragon-quest-ix",
+    "title": "Dragon Quest IX: Sentinels of the Starry Skies",
+    "titleZh": "勇者斗恶龙IX 星空的守护者",
+    "titleJa": "ドラゴンクエストIX 星空の守り人",
+    "year": 2009,
+    "developer": "Level-5",
+    "publisher": "Square Enix",
+    "genre": "角色扮演",
+    "tags": [
+      "多人联机",
+      "自建角色",
+      "刷宝"
+    ],
+    "players": "1-4",
+    "tagline": "Fami通满分！掌机上的国民RPG",
+    "description": "系列正统续作首次登陆掌机，就拿下了Fami通40分满分。本作由Level-5开发，玩家扮演从天界坠落的“守护天使”，在人间帮助陌生人、收集“星之果实”，以一个个单元剧般的小故事串起整个世界。\n\n与以往不同，所有队友都可以自由创建：职业、发型、装备一应俱全，换上的装备会直接显示在角色身上，“换装”成为最大乐趣之一。最多四人本地联机共同冒险，“擦肩通信”交换藏宝图更在日本掀起了街头热潮，秋叶原一时人满为患。\n\n三维画面舍弃了点阵，但鸟山明的怪物依然活灵活现。藏宝图迷宫与转职系统让它成为能玩上几百小时的“无底洞”。",
+    "highlights": [
+      "Fami通40分满分",
+      "队友自由创建与装备外观反映",
+      "最多四人本地联机",
+      "擦肩通信交换藏宝图"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "40/40",
+        "quote": "系列首个满分，掌机RPG的新标杆"
+      },
+      {
+        "source": "Metacritic",
+        "score": "87/100",
+        "quote": "内容极其丰富，能让人沉迷数百小时"
+      },
+      {
+        "source": "Eurogamer",
+        "score": "9/10",
+        "quote": "传统与创新兼备的出色作品"
+      }
+    ],
+    "editorScore": 9.1,
+    "is2D": false,
+    "screenshots": [
+      "images/nds/nds-dragon-quest-ix-s1.png",
+      "images/nds/nds-dragon-quest-ix-s2.png",
+      "images/nds/nds-dragon-quest-ix-title.png"
+    ],
+    "cover": "images/nds/nds-dragon-quest-ix-box.jpg"
+  },
+  {
+    "id": "nds-radiant-historia",
+    "title": "Radiant Historia",
+    "titleZh": "光辉物语",
+    "titleJa": "ラジアントヒストリア",
+    "year": 2010,
+    "developer": "Atlus",
+    "publisher": "Atlus",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "时间线",
+      "战棋式战斗"
+    ],
+    "players": "1",
+    "tagline": "穿梭平行历史，ATLUS隐藏神作",
+    "description": "这是DS末期最被低估的RPG之一。情报员斯托克获得了神秘的“白色编年史”，能在“正史”与“异史”两条平行时间线间往返，并跳回过去的关键节点改写选择。一条线上的情报与技能，往往是打开另一条线僵局的钥匙——这种叙事结构让人联想到《时空之轮》，又有自己的精巧。\n\n战斗采用3×3格子阵型：敌人站在格子上，你可以用技能把它们推到同一格，再集中火力连击，回合顺序还能与队友交换，策略性极强。下村阳子的配乐大气磅礴，像素角色与背景画面在DS上也属顶级。\n\n喜欢精致剧情与烧脑战斗的玩家，这是一部必须补课的作品。",
+    "highlights": [
+      "正史与异史双时间线穿梭",
+      "推挤敌人的3×3格子战斗",
+      "下村阳子操刀配乐",
+      "大量分歧与多结局"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "34/40",
+        "quote": "时间线系统的设计十分出色"
+      },
+      {
+        "source": "Metacritic",
+        "score": "85/100",
+        "quote": "2011年DS评价最高的作品之一"
+      },
+      {
+        "source": "Eurogamer",
+        "score": "9/10",
+        "quote": "复古而聪明的RPG佳作"
+      }
+    ],
+    "editorScore": 9.1,
+    "is2D": true,
+    "screenshots": [
+      "images/nds/nds-radiant-historia-s1.png",
+      "images/nds/nds-radiant-historia-title.png"
+    ],
+    "cover": "images/nds/nds-radiant-historia-box.jpg"
+  },
+  {
+    "id": "nds-castlevania-portrait-of-ruin",
+    "title": "Castlevania: Portrait of Ruin",
+    "titleZh": "恶魔城 废墟肖像",
+    "titleJa": "悪魔城ドラキュラ ギャラリー オブ ラビリンス",
+    "year": 2006,
+    "developer": "Konami",
+    "publisher": "Konami",
+    "genre": "动作角色扮演",
+    "tags": [
+      "像素",
+      "银河恶魔城",
+      "双主角"
+    ],
+    "players": "1-2",
+    "tagline": "双主角搭档闯画中世界",
+    "description": "1944年，二战硝烟中的欧洲，德古拉城再度复活。猎人乔纳森与魔法少女夏洛特携手闯入城堡，本作最大的特色就是“双主角系统”：随时切换操控，或召唤搭档同时出击，两人合体技威力惊人，部分谜题也需要二人配合解开。\n\n城堡中挂着数幅神秘画作，进入后便是沙漠、伦敦街头、马戏团等风格迥异的“画中世界”，大大拓宽了场景多样性。支线任务、隐藏角色模式，以及与好友联机的Boss Rush，让耐玩度更上一层楼。山根美智留与古代祐三的配乐获得IGN年度DS最佳原声。\n\n如果说《苍月》是精致的延续，那么《废墟肖像》就是充满新意的变奏。",
+    "highlights": [
+      "乔纳森与夏洛特双主角切换与合体技",
+      "风格迥异的“画中世界”",
+      "大量支线任务与隐藏模式",
+      "IGN年度DS最佳原声"
+    ],
+    "reviews": [
+      {
+        "source": "Metacritic",
+        "score": "85/100",
+        "quote": "双主角为系列注入了新鲜感"
+      },
+      {
+        "source": "IGN",
+        "score": "8.9/10",
+        "quote": "精致而充实的银河恶魔城"
+      },
+      {
+        "source": "GameSpot",
+        "score": "8.3/10",
+        "quote": "画中世界让场景更加丰富多彩"
+      }
+    ],
+    "editorScore": 9.0,
+    "is2D": true,
+    "screenshots": [
+      "images/nds/nds-castlevania-portrait-of-ruin-s1.png",
+      "images/nds/nds-castlevania-portrait-of-ruin-title.png"
+    ],
+    "cover": "images/nds/nds-castlevania-portrait-of-ruin-box.jpg"
+  },
+  {
+    "id": "nds-osu-tatakae-ouendan",
+    "title": "Osu! Tatakae! Ouendan",
+    "titleZh": "押忍！战斗！应援团",
+    "titleJa": "押忍!闘え!応援団",
+    "year": 2005,
+    "developer": "iNiS",
+    "publisher": "Nintendo",
+    "genre": "音乐",
+    "tags": [
+      "触屏",
+      "热血",
+      "日版独占"
+    ],
+    "players": "1-4",
+    "tagline": "热血燃烧！用触控笔为全世界应援",
+    "description": "考试前夜的考生、被追债的拉面店老板、苦恋的少女……只要有人陷入困境，喊一声“应援团！”，三名身穿立领学生服的男子汉就会从天而降，用J-POP的节奏为他们加油打气！\n\n玩法是纯粹的触屏节奏游戏：跟随音乐点击圆圈、拖动滑条、旋转转盘，节奏越准，上屏漫画里的主人公就越能逆转困境。B'z、橙色乐团、L'Arc~en~Ciel等名曲配上夸张热血的漫画演出，每一关都是一部燃到爆的短剧。最高难度“团长”模式足以让最自负的玩家哭泣。\n\n本作催生了欧美版《精英节拍特工》，还启发了后来风靡全球的osu!。日版独占却成了无数海外玩家进口DS的理由。",
+    "highlights": [
+      "精准触屏节奏玩法",
+      "漫画分格式热血剧情演出",
+      "收录大量J-POP名曲",
+      "启发了osu!的传奇之作"
+    ],
+    "reviews": [
+      {
+        "source": "Nintendo World Report",
+        "score": "9/10",
+        "quote": "热血又上瘾，进口玩家绝不能错过"
+      }
+    ],
+    "editorScore": 9.0,
+    "is2D": true,
+    "screenshots": [
+      "images/nds/nds-osu-tatakae-ouendan-s1.png",
+      "images/nds/nds-osu-tatakae-ouendan-s2.png",
+      "images/nds/nds-osu-tatakae-ouendan-title.png"
+    ],
+    "cover": "images/nds/nds-osu-tatakae-ouendan-box.jpg"
+  },
+  {
+    "id": "nds-final-fantasy-iv",
+    "title": "Final Fantasy IV",
+    "titleZh": "最终幻想IV",
+    "titleJa": "ファイナルファンタジーIV",
+    "year": 2007,
+    "developer": "Matrix Software",
+    "publisher": "Square Enix",
+    "genre": "角色扮演",
+    "tags": [
+      "3D重制",
+      "剧情向",
+      "ATB"
+    ],
+    "players": "1",
+    "tagline": "暗黑骑士的赎罪之旅，全3D再诠释",
+    "description": "塞西尔从暗黑骑士到圣骑士的蜕变，是FF系列最经典的剧本之一。DS版由Matrix Software以全3D重制，加入了全语音过场，凯恩、罗莎、利迪亚等角色的情感刻画比SFC原版更加细腻。\n\n系统方面加入了可自由组合能力的“デカント能力”继承系统，以及动态的ATB战斗，难度整体提升，Boss战相当考验配置。下屏实时显示地图，迷宫探索更为方便；植松伸夫的旋律经过重新编曲，《赤翼》《爱的主题》依然令人动容。\n\n对于熟悉原版的老玩家，这是一次新鲜的重温；对于新玩家，它也是踏入FF世界的绝佳起点。",
+    "highlights": [
+      "全3D重制并加入语音过场",
+      "能力继承“デカント”系统",
+      "难度提升的硬派ATB战斗",
+      "植松伸夫名曲重新编曲"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "35/40",
+        "quote": "全面强化的重制，原作粉丝也能乐在其中"
+      },
+      {
+        "source": "Metacritic",
+        "score": "85/100",
+        "quote": "经典故事以全新面貌焕发光彩"
+      },
+      {
+        "source": "GameSpot",
+        "score": "9/10",
+        "quote": "具挑战性又充满情感的出色重制"
+      }
+    ],
+    "editorScore": 8.9,
+    "is2D": false,
+    "screenshots": [
+      "images/nds/nds-final-fantasy-iv-s1.png",
+      "images/nds/nds-final-fantasy-iv-title.png"
+    ],
+    "cover": "images/nds/nds-final-fantasy-iv-box.jpg"
+  },
+  {
+    "id": "nds-dragon-quest-iv",
+    "title": "Dragon Quest IV: Chapters of the Chosen",
+    "titleZh": "勇者斗恶龙IV 被引导的人们",
+    "titleJa": "ドラゴンクエストIV 導かれし者たち",
+    "year": 2007,
+    "developer": "ArtePiazza",
+    "publisher": "Square Enix",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "章节制",
+      "群像剧"
+    ],
+    "players": "1",
+    "tagline": "五章群像汇成一部勇者史诗",
+    "description": "《勇者斗恶龙IV》首创的“章节制”叙事至今仍让人叫绝：王宫战士莱恩、公主爱丽娜、武器商人特鲁内克、舞娘姐妹玛妮雅与米妮雅……每章换一位主角，最终在第五章与勇者汇合，共同对抗魔族之王。\n\nDS版延续了PS版重制的追加内容，第六章揭示了反派皮萨罗的悲剧，也让这个故事更加完整。3D场景配合2D像素角色，可旋转视角探索城镇，鸟山明的角色在点阵中依然神采奕奕。特鲁内克的商人章节尤其讨喜——开店赚钱的玩法后来衍生出了整个“不可思议迷宫”系列。\n\n美版首次以英文完整呈现，各地方言化的翻译也广受好评。",
+    "highlights": [
+      "五章群像叙事的开创者",
+      "DS版收录第六章与移民之镇",
+      "3D场景与像素角色结合",
+      "特鲁内克商人章节别具趣味"
+    ],
+    "reviews": [
+      {
+        "source": "Metacritic",
+        "score": "80/100",
+        "quote": "依然魅力十足的经典RPG"
+      },
+      {
+        "source": "IGN",
+        "score": "8/10",
+        "quote": "节奏老派但角色鲜活迷人"
+      },
+      {
+        "source": "GameSpot",
+        "score": "8/10",
+        "quote": "章节叙事至今仍令人印象深刻"
+      }
+    ],
+    "editorScore": 8.9,
+    "is2D": true,
+    "screenshots": [
+      "images/nds/nds-dragon-quest-iv-s1.png",
+      "images/nds/nds-dragon-quest-iv-s2.png",
+      "images/nds/nds-dragon-quest-iv-title.png"
+    ],
+    "cover": "images/nds/nds-dragon-quest-iv-box.jpg"
+  },
+  {
+    "id": "nds-dragon-quest-vi",
+    "title": "Dragon Quest VI: Realms of Revelation",
+    "titleZh": "勇者斗恶龙VI 幻之大地",
+    "titleJa": "ドラゴンクエストVI 幻の大地",
+    "year": 2010,
+    "developer": "ArtePiazza",
+    "publisher": "Square Enix",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "转职",
+      "双重世界"
+    ],
+    "players": "1",
+    "tagline": "现实与梦境交错，转职系统集大成",
+    "description": "天空三部曲的最终章，“现实世界”与“梦之世界”两张地图交错展开——你在梦中经历的一切，竟与现实中的自己息息相关。寻找“真正的自己”这一主题，在系列中显得格外深邃。\n\n本作的转职系统极具深度：战士、魔法使、僧侣等基础职业熟练后可转为战士+武斗家的“战神”、魔法使+僧侣的“贤者”等上级职业，最终成为“勇者”。DS版首次让本作正式登陆欧美，并加入了史莱姆竞技场等新内容。\n\n3D可旋转的城镇与2D点阵角色相得益彰，杉山浩一的《幻之大地》序曲宏大悠远。想体验SFC时代最庞大的勇者斗恶龙，这是不二之选。",
+    "highlights": [
+      "现实与梦境双世界探索",
+      "层层进阶的转职系统",
+      "DS版新增史莱姆竞技场",
+      "首次正式欧美发售"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "34/40",
+        "quote": "转职系统深度十足，可玩性很高"
+      },
+      {
+        "source": "Metacritic",
+        "score": "78/100",
+        "quote": "庞大而传统的RPG冒险"
+      },
+      {
+        "source": "Game Informer",
+        "score": "8.5/10",
+        "quote": "梦境与现实的设定引人入胜"
+      }
+    ],
+    "editorScore": 8.8,
+    "is2D": true,
+    "screenshots": [
+      "images/nds/nds-dragon-quest-vi-s1.png",
+      "images/nds/nds-dragon-quest-vi-title.png"
+    ],
+    "cover": "images/nds/nds-dragon-quest-vi-box.jpg"
+  },
+  {
+    "id": "nds-zelda-phantom-hourglass",
+    "title": "The Legend of Zelda: Phantom Hourglass",
+    "titleZh": "塞尔达传说 梦幻沙漏",
+    "titleJa": "ゼルダの伝説 夢幻の砂時計",
+    "year": 2007,
+    "developer": "Nintendo EAD",
+    "publisher": "Nintendo",
+    "genre": "动作冒险",
+    "tags": [
+      "触屏操作",
+      "卡通渲染",
+      "解谜"
+    ],
+    "players": "1-2",
+    "tagline": "全触屏操作的风之杖续篇",
+    "description": "延续《风之杖》的卡通渲染画风，林克为救出被幽灵船掳走的泰特拉，再次扬帆出海。本作大胆地采用全触控笔操作：点哪里林克就走到哪里，画线丢回旋镖、画出炸弹虫的飞行轨迹，DS的特性被用到了极致。\n\n最令人称道的是能在地图上直接用笔做笔记——谜题的线索可以随手画在下屏，许多机关甚至需要合上DS屏幕、对麦克风吹气才能解开，这种“打破第四面墙”的设计充满任天堂式的童趣。贯穿全篇的“海王神殿”限时探索虽有争议，却也带来紧张感。\n\nFami通给出39分的超高评价，它是塞尔达系列在掌机上的大胆试验。",
+    "highlights": [
+      "全触控笔操作的塞尔达",
+      "在地图上自由书写笔记",
+      "合盖、吹麦克风等巧妙机关",
+      "卡通渲染的海洋冒险"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "39/40",
+        "quote": "触屏操作与塞尔达完美融合"
+      },
+      {
+        "source": "Metacritic",
+        "score": "90/100",
+        "quote": "获得普遍赞誉的掌机塞尔达"
+      },
+      {
+        "source": "GameSpot",
+        "score": "9/10",
+        "quote": "直觉的触控操作令人惊艳"
+      }
+    ],
+    "editorScore": 8.8,
+    "is2D": false,
+    "screenshots": [
+      "images/nds/nds-zelda-phantom-hourglass-s1.png",
+      "images/nds/nds-zelda-phantom-hourglass-s2.png",
+      "images/nds/nds-zelda-phantom-hourglass-title.png"
+    ],
+    "cover": "images/nds/nds-zelda-phantom-hourglass-box.jpg"
+  },
+  {
+    "id": "nds-kirby-super-star-ultra",
+    "title": "Kirby Super Star Ultra",
+    "titleZh": "星之卡比 超究极豪华版",
+    "titleJa": "星のカービィ ウルトラスーパーデラックス",
+    "year": 2008,
+    "developer": "HAL Laboratory",
+    "publisher": "Nintendo",
+    "genre": "平台跳跃",
+    "tags": [
+      "像素",
+      "合作",
+      "合集"
+    ],
+    "players": "1-4",
+    "tagline": "八合一的卡比嘉年华，满满诚意",
+    "description": "SFC名作《星之卡比 超级豪华版》的DS强化重制。“春风”“格斗大会”“宝藏大作战”“银河许愿”等多部小游戏式的冒险被打包在一起，每一部玩法都不尽相同，宛如一场卡比嘉年华。\n\n复制能力不仅能吸收敌人技能，还能把能力变成搭档“帮手”，与朋友一起冒险。DS版画面全面重绘，色彩鲜艳、动画灵动，并新增了“魅塔骑士之怒”后的“魅塔骑士 Ultra”、“帝帝帝大王的复仇”、“真·格斗大会”等全新模式，以及触屏小游戏。\n\n上手轻松，深挖起来又有不少挑战，这是最适合与家人朋友分享的卡比。",
+    "highlights": [
+      "多部风格各异的冒险合集",
+      "复制能力与“帮手”合作系统",
+      "全新追加模式与真·格斗大会",
+      "全面重绘的明亮像素画面"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "32/40",
+        "quote": "名作的强化复刻，内容充实"
+      },
+      {
+        "source": "Metacritic",
+        "score": "76/100",
+        "quote": "画面华丽，难度偏易但乐趣十足"
+      },
+      {
+        "source": "Nintendo Power",
+        "score": "9/10",
+        "quote": "经典回归，追加内容很有诚意"
+      }
+    ],
+    "editorScore": 8.8,
+    "is2D": true,
+    "screenshots": [
+      "images/nds/nds-kirby-super-star-ultra-s1.png",
+      "images/nds/nds-kirby-super-star-ultra-title.png"
+    ],
+    "cover": "images/nds/nds-kirby-super-star-ultra-box.jpg"
+  },
+  {
+    "id": "nds-new-super-mario-bros",
+    "title": "New Super Mario Bros.",
+    "titleZh": "新超级马里奥兄弟",
+    "titleJa": "Newスーパーマリオブラザーズ",
+    "year": 2006,
+    "developer": "Nintendo EAD",
+    "publisher": "Nintendo",
+    "genre": "平台跳跃",
+    "tags": [
+      "横版",
+      "2.5D",
+      "多人对战"
+    ],
+    "players": "1-4",
+    "tagline": "马里奥重返横版，千万销量的回归",
+    "description": "自《超级马里奥世界》之后，正统横版马里奥沉寂了十五年。DS上的这一作让一切回到原点：奔跑、跳跃、踩扁栗宝宝、钻进水管——熟悉的手感一上手就让人会心一笑。\n\n画面采用3D建模搭配横版玩法的“2.5D”表现。新道具“巨大蘑菇”让马里奥变身巨人横扫关卡、撞碎水管；“迷你蘑菇”则能让他走在水面上、钻进隐藏小水管，通往秘密路线。八个世界、隐藏关卡与星币收集，内容丰富扎实；双人马里奥对路易的对战模式和大量触屏小游戏，也让它成为聚会神器。\n\n全球超过三千万份的销量证明：好玩的横版平台游戏，永远不会过时。",
+    "highlights": [
+      "横版马里奥十五年后回归",
+      "巨大蘑菇与迷你蘑菇新道具",
+      "星币收集与隐藏路线",
+      "马里奥对路易对战与触屏小游戏"
+    ],
+    "reviews": [
+      {
+        "source": "Metacritic",
+        "score": "89/100",
+        "quote": "横版马里奥的辉煌回归"
+      },
+      {
+        "source": "IGN",
+        "score": "9.5/10",
+        "quote": "DS上必玩的平台游戏"
+      },
+      {
+        "source": "GameSpot",
+        "score": "9/10",
+        "quote": "关卡设计精巧，乐趣十足"
+      }
+    ],
+    "editorScore": 8.7,
+    "is2D": false,
+    "screenshots": [
+      "images/nds/nds-new-super-mario-bros-s1.png",
+      "images/nds/nds-new-super-mario-bros-s2.png",
+      "images/nds/nds-new-super-mario-bros-title.png"
+    ],
+    "cover": "images/nds/nds-new-super-mario-bros-box.jpg"
+  },
+  {
+    "id": "nds-phoenix-wright-ace-attorney",
+    "title": "Phoenix Wright: Ace Attorney",
+    "titleZh": "逆转裁判 苏醒的逆转",
+    "titleJa": "逆転裁判 蘇る逆転",
+    "year": 2005,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genre": "冒险",
+    "tags": [
+      "像素",
+      "法庭推理",
+      "文字冒险"
+    ],
+    "players": "1",
+    "tagline": "异议！用矛盾击碎谎言的法庭大戏",
+    "description": "新人律师成步堂龙一站上法庭，面对咄咄逼人的检察官御剑怜侍——这部GBA名作的DS移植版，让“异议あり！”响彻全世界。玩法分为“侦探”与“法庭”两部分：先在案发现场调查、收集证物，再在法庭上质询证人，找出证词与证据之间的矛盾，一举翻盘。\n\nDS版最大的亮点是全新的第五章“苏醒的逆转”：加入了触屏调查证物、喷鲁米诺试剂、对着麦克风大喊“异议！”等专为DS设计的玩法，篇幅几乎等于一部新作。巧舟的剧本悬念迭起又笑料百出，像素角色的夸张动作与配乐更是神来之笔。\n\n这是让无数玩家爱上文字推理游戏的启蒙之作。",
+    "highlights": [
+      "质询证人、出示证据的法庭玩法",
+      "DS专属全新第五章",
+      "对着麦克风喊“异议！”",
+      "巧舟笔下的悬念与幽默"
+    ],
+    "reviews": [
+      {
+        "source": "Metacritic",
+        "score": "81/100",
+        "quote": "独特的法庭推理体验令人着迷"
+      },
+      {
+        "source": "GameSpot",
+        "score": "8.8/10",
+        "quote": "剧本出色，角色个性鲜明"
+      },
+      {
+        "source": "IGN",
+        "score": "7.8/10",
+        "quote": "充满魅力的推理冒险"
+      }
+    ],
+    "editorScore": 8.7,
+    "is2D": true,
+    "screenshots": [
+      "images/nds/nds-phoenix-wright-ace-attorney-s1.png",
+      "images/nds/nds-phoenix-wright-ace-attorney-title.png"
+    ],
+    "cover": "images/nds/nds-phoenix-wright-ace-attorney-box.jpg"
+  },
+  {
+    "id": "nds-professor-layton-curious-village",
+    "title": "Professor Layton and the Curious Village",
+    "titleZh": "雷顿教授与不可思议的小镇",
+    "titleJa": "レイトン教授と不思議な町",
+    "year": 2007,
+    "developer": "Level-5",
+    "publisher": "Nintendo / Level-5",
+    "genre": "解谜",
+    "tags": [
+      "解谜",
+      "动画过场",
+      "英伦风"
+    ],
+    "players": "1",
+    "tagline": "英伦绅士的百道谜题之旅",
+    "description": "“英国绅士不会对谜题置之不理。”头戴高礼帽的雷顿教授与助手路克来到小镇圣米修恩，调查富豪遗嘱中提到的“金色苹果”。然而镇上的居民个个古怪，一言不合就丢给你一道谜题。\n\n全作收录一百多道谜题：火柴棒、滑块、逻辑推理、脑筋急转弯……用触控笔在下屏写写画画，答对时的“叮”声令人上瘾。浓郁欧洲绘本风的手绘背景、吉卜力风格的动画过场与手风琴配乐，营造出温暖又神秘的氛围。小镇背后的真相更是出人意料。\n\n它开创了DS上的“雷顿热潮”，也是全年龄段都能享受的智力冒险。",
+    "highlights": [
+      "一百多道风格多样的谜题",
+      "手绘欧洲绘本风美术",
+      "高质量动画过场",
+      "出人意料的小镇真相"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "33/40",
+        "quote": "谜题设计精巧，演出质量很高"
+      },
+      {
+        "source": "Metacritic",
+        "score": "85/100",
+        "quote": "冒险与解谜的完美结合"
+      },
+      {
+        "source": "GameSpot",
+        "score": "9/10",
+        "quote": "迷人而烧脑的解谜佳作"
+      }
+    ],
+    "editorScore": 8.6,
+    "is2D": true,
+    "screenshots": [
+      "images/nds/nds-professor-layton-curious-village-s1.png",
+      "images/nds/nds-professor-layton-curious-village-title.png"
+    ],
+    "cover": "images/nds/nds-professor-layton-curious-village-box.jpg"
+  },
+  {
+    "id": "nds-devil-survivor",
+    "title": "Shin Megami Tensei: Devil Survivor",
+    "titleZh": "女神异闻录 恶魔幸存者",
+    "titleJa": "女神異聞録デビルサバイバー",
+    "year": 2009,
+    "developer": "Atlus",
+    "publisher": "Atlus",
+    "genre": "战略角色扮演",
+    "tags": [
+      "像素",
+      "战棋",
+      "恶魔收集"
+    ],
+    "players": "1",
+    "tagline": "封锁东京七日，生死倒计时",
+    "description": "东京山手线内突然被封锁，恶魔在街头横行，而主角与伙伴们手中的改造掌机COMP竟能召唤恶魔。更可怕的是，“死相”显示每个人头上都悬着倒计时——七天之内，你必须在混乱中活下去，并决定人类的命运。\n\n本作把战棋与真女神转生的回合制战斗巧妙融合：在地图上移动单位，接敌后切换为第一人称的“按回合指令”战斗，每名角色带两只恶魔同行。拍卖行竞标恶魔、恶魔合体继承技能、“破解”敌人技能的系统，深度令人着迷。金子一马式的恶魔设计与铃木雄史的配乐张力十足。\n\n时间制的多结局剧本紧张压抑，每个选择都关乎同伴生死，是DS上最出色的SRPG之一。",
+    "highlights": [
+      "战棋地图与回合指令战斗融合",
+      "恶魔竞拍与合体继承",
+      "七天倒计时的时间制剧本",
+      "多条路线与多结局"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "33/40",
+        "quote": "战棋与真女神转生的融合很成功"
+      },
+      {
+        "source": "Metacritic",
+        "score": "84/100",
+        "quote": "深度十足的策略RPG"
+      },
+      {
+        "source": "GameSpot",
+        "score": "9/10",
+        "quote": "引人入胜的剧情与精妙系统"
+      }
+    ],
+    "editorScore": 8.6,
+    "is2D": true,
+    "screenshots": [
+      "images/nds/nds-devil-survivor-s1.png",
+      "images/nds/nds-devil-survivor-title.png"
+    ],
+    "cover": "images/nds/nds-devil-survivor-box.jpg"
+  },
+  {
+    "id": "nds-fire-emblem-shin-monshou-no-nazo",
+    "title": "Fire Emblem: New Mystery of the Emblem",
+    "titleZh": "火焰纹章 新·纹章之谜 ～光与影的英雄～",
+    "titleJa": "ファイアーエムブレム 新・紋章の謎 ～光と影の英雄～",
+    "year": 2010,
+    "developer": "Intelligent Systems",
+    "publisher": "Nintendo",
+    "genre": "战略角色扮演",
+    "tags": [
+      "像素",
+      "战棋",
+      "日版独占"
+    ],
+    "players": "1-2",
+    "tagline": "纹章之谜重制，自创主角登场",
+    "description": "SFC名作《纹章之谜》第二部的DS重制版。玛尔斯王子再次为了阿卡内亚大陆的和平而战，而这次，玩家可以创建属于自己的“主人公”——一名出身阿利蒂亚的新兵，以近卫骑士的身份参与战争，并引出全新的序章与支援对话。\n\n经典的武器相克、转职、永久死亡等硬派要素悉数保留，新增“休闲模式”让阵亡角色在战后复活，降低新手门槛；而最高难度“ルナティック”则足以让老手抓狂。兵种可在章节间自由切换，搭配无线联机对战与道具商店，策略组合更加多样。\n\n本作日版独占，但民间英化让海外玩家也能体验这部纹章系列的过渡之作。",
+    "highlights": [
+      "自创主人公与全新序章",
+      "休闲模式降低门槛，ルナティック极限挑战",
+      "章节间兵种自由切换",
+      "支援对话丰富角色刻画"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "34/40",
+        "quote": "新剧情与支援对话融合得很自然"
+      },
+      {
+        "source": "RPGamer",
+        "score": "3.5/5",
+        "quote": "休闲模式与章节设计值得称赞"
+      }
+    ],
+    "editorScore": 8.6,
+    "is2D": true,
+    "screenshots": [
+      "images/nds/nds-fire-emblem-shin-monshou-no-nazo-s1.png",
+      "images/nds/nds-fire-emblem-shin-monshou-no-nazo-s2.png",
+      "images/nds/nds-fire-emblem-shin-monshou-no-nazo-title.png"
+    ],
+    "cover": "images/nds/nds-fire-emblem-shin-monshou-no-nazo-box.jpg"
+  },
+  {
+    "id": "nds-kirby-canvas-curse",
+    "title": "Kirby: Canvas Curse",
+    "titleZh": "触摸！星之卡比",
+    "titleJa": "タッチ!カービィ",
+    "year": 2005,
+    "developer": "HAL Laboratory",
+    "publisher": "Nintendo",
+    "genre": "平台跳跃",
+    "tags": [
+      "触屏",
+      "画线",
+      "创意"
+    ],
+    "players": "1",
+    "tagline": "用画笔开路，DS第一部真正的杰作",
+    "description": "魔女把卡比变成了一颗圆球，无法自己行走——于是你得拿起触控笔，在屏幕上画出彩虹线条，为它铺路、搭桥、挡住攻击。点一下卡比让它冲刺，点敌人让它们眩晕后吸收能力，一切只靠一支笔。\n\n这个简单的点子却衍生出惊人的关卡深度：如何画出最短的路线、如何在墨水耗尽前越过障碍、如何利用斜坡加速，都需要动脑与手速并用。黏土风的手绘画面色彩明艳，Boss战还会变成画画、赛跑等各式各样的小游戏。\n\n1UP评价它是“DS上第一部伟大的游戏”。它证明了触屏不只是噱头，而能催生全新的游戏方式。",
+    "highlights": [
+      "只用触控笔画线操控卡比",
+      "兼顾速度与路线规划的关卡",
+      "风格多变的Boss小游戏",
+      "鲜艳的手绘黏土风画面"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "34/40",
+        "quote": "触屏操作的乐趣被发挥得淋漓尽致"
+      },
+      {
+        "source": "Metacritic",
+        "score": "86/100",
+        "quote": "对平台游戏的一次漂亮重塑"
+      },
+      {
+        "source": "IGN",
+        "score": "9/10",
+        "quote": "创意十足、上手即爱"
+      }
+    ],
+    "editorScore": 8.5,
+    "is2D": true,
+    "screenshots": [
+      "images/nds/nds-kirby-canvas-curse-s1.png",
+      "images/nds/nds-kirby-canvas-curse-title.png"
+    ],
+    "cover": "images/nds/nds-kirby-canvas-curse-box.jpg"
+  },
+  {
+    "id": "nds-contra-4",
+    "title": "Contra 4",
+    "titleZh": "魂斗罗4",
+    "titleJa": "",
+    "year": 2007,
+    "developer": "WayForward Technologies",
+    "publisher": "Konami",
+    "genre": "射击",
+    "tags": [
+      "像素",
+      "横版射击",
+      "高难度"
+    ],
+    "players": "1-2",
+    "tagline": "双屏纵贯的硬核魂斗罗回归",
+    "description": "由WayForward操刀的《魂斗罗4》是一封写给老玩家的情书：纯正的2D像素画面、一击毙命的硬派难度、震耳欲聋的爆炸——它让魂斗罗回到了FC与SFC时代的巅峰状态。\n\nDS的上下双屏被用作一整块垂直战场：子弹从上方倾泻而下，你需要用新加入的钩爪在两屏之间攀爬跳跃。经典武器“S弹”回归，并能二次升级；还可同时携带两种武器随时切换。俯视视角关卡、致敬前作的Boss和场景比比皆是，解锁要素还包括初代魂斗罗与超级魂斗罗的完整移植。\n\n简单难度都足以让人手心冒汗，困难模式则是名副其实的地狱。硬核射击爱好者必入。",
+    "highlights": [
+      "双屏组成纵向巨大战场",
+      "钩爪攀爬与双武器切换",
+      "满满致敬历代的关卡与Boss",
+      "可解锁初代与超级魂斗罗"
+    ],
+    "reviews": [
+      {
+        "source": "Metacritic",
+        "score": "83/100",
+        "quote": "向系列根源的漂亮回归"
+      },
+      {
+        "source": "Game Informer",
+        "score": "9.25/10",
+        "quote": "硬派又爽快的经典横版射击"
+      },
+      {
+        "source": "Fami通",
+        "score": "28/40",
+        "quote": "难度极高，适合核心动作玩家"
+      }
+    ],
+    "editorScore": 8.5,
+    "is2D": true,
+    "screenshots": [
+      "images/nds/nds-contra-4-s1.png",
+      "images/nds/nds-contra-4-title.png"
+    ],
+    "cover": "images/nds/nds-contra-4-box.jpg"
+  },
+  {
+    "id": "nds-mega-man-zx",
+    "title": "Mega Man ZX",
+    "titleZh": "洛克人ZX",
+    "titleJa": "ロックマンZX",
+    "year": 2006,
+    "developer": "Inti Creates",
+    "publisher": "Capcom",
+    "genre": "动作",
+    "tags": [
+      "像素",
+      "银河恶魔城",
+      "变身"
+    ],
+    "players": "1",
+    "tagline": "Z与X的意志合一，开放世界洛克人",
+    "description": "《洛克人Zero》系列两百年后的世界，运送员少年万（或少女艾尔）意外获得了蕴含“X”与“Zero”意志的生体金属，变身为洛克人投入战斗。Inti Creates在本作中首次让洛克人采用互相连通的“银河恶魔城”式地图，任务式推进，自由探索。\n\n击败Boss后获得其生体金属，就能变身为六种不同形态：火焰剑士、冰之枪手、雷电忍者、风之弓手……每种形态都有独特的移动能力与攻击方式，探索地图时也要灵活切换。精细的像素动画与紧凑的动作手感，延续了Zero系列的高水准。\n\n男女主角路线可选，剧情串联起整个洛克人宇宙，是系列粉丝不可错过的一作。",
+    "highlights": [
+      "相互连通的大地图探索",
+      "六种生体金属变身形态",
+      "男女双主角可选",
+      "继承Zero系列的高水准动作"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "31/40",
+        "quote": "变身系统丰富，动作手感扎实"
+      },
+      {
+        "source": "Metacritic",
+        "score": "76/100",
+        "quote": "关卡设计与表现令人满意"
+      },
+      {
+        "source": "IGN",
+        "score": "8.2/10",
+        "quote": "充满乐趣的洛克人新方向"
+      }
+    ],
+    "editorScore": 8.4,
+    "is2D": true,
+    "screenshots": [
+      "images/nds/nds-mega-man-zx-s1.png",
+      "images/nds/nds-mega-man-zx-title.png"
+    ],
+    "cover": "images/nds/nds-mega-man-zx-box.jpg"
+  },
+  {
+    "id": "nds-smt-strange-journey",
+    "title": "Shin Megami Tensei: Strange Journey",
+    "titleZh": "真·女神转生 奇妙之旅",
+    "titleJa": "真・女神転生 STRANGE JOURNEY",
+    "year": 2009,
+    "developer": "Atlus",
+    "publisher": "Atlus",
+    "genre": "角色扮演",
+    "tags": [
+      "迷宫探索",
+      "恶魔合体",
+      "硬派"
+    ],
+    "players": "1",
+    "tagline": "南极黑洞中的科幻地狱之旅",
+    "description": "南极上空出现了吞噬一切的神秘空间“施瓦兹华德”，联合国组建的调查队乘坐装甲舰驶入其中，迎接他们的却是满是恶魔的异界。《奇妙之旅》把真女神转生的世界观搬进了硬科幻舞台，氛围压抑而独特。\n\n玩法回归系列根源的第一人称3D迷宫探索，配合“恶魔交涉”“恶魔合体”两大招牌系统：与恶魔对话谈判使其成为伙伴，再将它们合体为更强大的存在。新增的“恶魔源”继承技能、属性相克的“连携攻击”让战斗更具策略；地图的陷阱与机关则十分考验耐心。土居政之的人设与金子一马的恶魔交相辉映。\n\n秩序、混沌、中立三条路线的抉择，是整个系列最为沉重的哲学命题之一。",
+    "highlights": [
+      "南极异界的硬科幻设定",
+      "恶魔交涉与合体系统",
+      "第一人称迷宫与机关解谜",
+      "秩序/混沌/中立三结局"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "36/40",
+        "quote": "当时真女神转生系列在Fami通的最高分"
+      },
+      {
+        "source": "Metacritic",
+        "score": "80/100",
+        "quote": "硬派而深邃的迷宫RPG"
+      },
+      {
+        "source": "IGN",
+        "score": "8.5/10",
+        "quote": "独特的氛围与扎实的系统"
+      }
+    ],
+    "editorScore": 8.4,
+    "is2D": false,
+    "screenshots": [
+      "images/nds/nds-smt-strange-journey-s1.png",
+      "images/nds/nds-smt-strange-journey-x1.png",
+      "images/nds/nds-smt-strange-journey-x2.jpg"
+    ],
+    "cover": "images/nds/nds-smt-strange-journey-box.jpg"
+  },
+  {
+    "id": "nds-mega-man-zx-advent",
+    "title": "Mega Man ZX Advent",
+    "titleZh": "洛克人ZX 降临",
+    "titleJa": "ロックマンZX アドベント",
+    "year": 2007,
+    "developer": "Inti Creates",
+    "publisher": "Capcom",
+    "genre": "动作",
+    "tags": [
+      "像素",
+      "变身",
+      "Boss能力"
+    ],
+    "players": "1",
+    "tagline": "变身Boss本体，ZX系列的完全进化",
+    "description": "前作两年后，新主角格雷（或艾休）被卷入一场关于“洛克人游戏”的阴谋。本作最大的革新是“A形态”：击败Boss后，主角可以直接变身成该Boss本体，获得其独特的能力——变成巨大的螃蟹钻地、变成狼人飞奔、变成飞蛾穿行，每种形态都改变了探索方式。\n\n锁定射击、多重变身切换让战斗更加多样，任务结构也比前作更清晰，减少了迷路的烦恼。像素画面与过场动画全面提升，上一作的万和艾尔也会登场。\n\n它是洛克人在DS上的最终一作，也是Inti Creates像素动作功力的集大成展示。",
+    "highlights": [
+      "变身为Boss本体的A形态",
+      "十余种形态改变探索方式",
+      "更清晰的任务结构",
+      "前作主角客串登场"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "31/40",
+        "quote": "变身要素丰富，系统进化明显"
+      },
+      {
+        "source": "Metacritic",
+        "score": "78/100",
+        "quote": "瑕不掩瑜的优秀续作"
+      },
+      {
+        "source": "IGN",
+        "score": "8/10",
+        "quote": "优点远远盖过缺点"
+      }
+    ],
+    "editorScore": 8.3,
+    "is2D": true,
+    "screenshots": [
+      "images/nds/nds-mega-man-zx-advent-s1.png",
+      "images/nds/nds-mega-man-zx-advent-title.png"
+    ],
+    "cover": "images/nds/nds-mega-man-zx-advent-box.jpg"
+  },
+  {
+    "id": "nds-disgaea-ds",
+    "title": "Disgaea DS",
+    "titleZh": "魔界战记DS",
+    "titleJa": "魔界戦記ディスガイア 魔界の王子と赤い月",
+    "year": 2008,
+    "developer": "Nippon Ichi Software",
+    "publisher": "Nippon Ichi Software / NIS America",
+    "genre": "战略角色扮演",
+    "tags": [
+      "像素",
+      "战棋",
+      "刷级"
+    ],
+    "players": "1",
+    "tagline": "等级上限9999，最疯狂的战棋",
+    "description": "魔界王子拉哈尔从两年的沉睡中醒来，发现父亲已死、魔界大乱。于是他带着毒舌女仆艾特娜与一群“噗哩尼”（企鹅恶魔），踏上了夺回魔王宝座的旅程。日本一的招牌作品移植到DS，搞笑的剧情与夸张的人设一点没变。\n\n战棋玩法看似传统，内里却疯狂无比：把单位举起来扔、堆叠“塔状”合体攻击、利用地形“地理效应”连锁消除；等级上限9999，伤害数字能飙到上亿。“道具界”中可以进入任何一件道具内部刷级，“暗黑议会”能贿赂议员通过各种奇怪议案。DS版还收录了PS2版追加的“艾特娜模式”。\n\n这是一款能让你玩上几百小时的“刷刷刷”战棋，一旦入坑就难以自拔。",
+    "highlights": [
+      "等级上限9999的极限养成",
+      "举起投掷与塔状合体攻击",
+      "可进入道具内部的“道具界”",
+      "收录艾特娜模式"
+    ],
+    "reviews": [
+      {
+        "source": "Metacritic",
+        "score": "82/100",
+        "quote": "内容丰富的出色移植"
+      },
+      {
+        "source": "IGN",
+        "score": "9/10",
+        "quote": "掌机上深度惊人的战棋游戏"
+      },
+      {
+        "source": "GameSpot",
+        "score": "8/10",
+        "quote": "疯狂的系统依然令人着迷"
+      }
+    ],
+    "editorScore": 8.3,
+    "is2D": true,
+    "screenshots": [
+      "images/nds/nds-disgaea-ds-s1.png",
+      "images/nds/nds-disgaea-ds-title.png"
+    ],
+    "cover": "images/nds/nds-disgaea-ds-box.jpg"
+  },
+  {
+    "id": "nds-final-fantasy-iii",
+    "title": "Final Fantasy III",
+    "titleZh": "最终幻想III",
+    "titleJa": "ファイナルファンタジーIII",
+    "year": 2006,
+    "developer": "Matrix Software",
+    "publisher": "Square Enix",
+    "genre": "角色扮演",
+    "tags": [
+      "3D重制",
+      "职业系统",
+      "王道"
+    ],
+    "players": "1",
+    "tagline": "十八年首度重制，职业系统的起点",
+    "description": "FC版《最终幻想III》在日本是传说级名作，却因种种原因迟迟未能移植——直到2006年，DS上的全3D重制版终于让全世界玩家见到了它的真容。四名光之战士被水晶选中，踏上拯救世界的旅程。\n\nDS版为四位主角赋予了鲜明的名字与个性（卢涅斯、阿尔克斯、蕾芙亚、英格斯），补充了剧情。系列标志性的“职业系统”在此诞生：骑士、黑魔导士、召唤士、龙骑士、忍者、贤者……随时转职，打造自己的队伍。难度保留了FC时代的硬派，最终迷宫的长度堪称一大考验。\n\n这是FF系列职业体系的源头，也是研究系列演化史不可不玩的一作。",
+    "highlights": [
+      "FF职业系统的起源",
+      "四位主角重新赋予个性",
+      "全3D重制与CG开场",
+      "硬派的最终迷宫"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "34/40",
+        "quote": "经典名作的精心重制"
+      },
+      {
+        "source": "Metacritic",
+        "score": "77/100",
+        "quote": "老派但充满魅力的RPG"
+      },
+      {
+        "source": "IGN",
+        "score": "7.8/10",
+        "quote": "职业系统依然有趣，难度颇为硬核"
+      }
+    ],
+    "editorScore": 8.2,
+    "is2D": false,
+    "screenshots": [
+      "images/nds/nds-final-fantasy-iii-s1.png",
+      "images/nds/nds-final-fantasy-iii-title.png"
+    ],
+    "cover": "images/nds/nds-final-fantasy-iii-box.jpg"
+  },
+  {
+    "id": "nds-etrian-odyssey",
+    "title": "Etrian Odyssey",
+    "titleZh": "世界树的迷宫",
+    "titleJa": "世界樹の迷宮",
+    "year": 2007,
+    "developer": "Atlus / Lancarse",
+    "publisher": "Atlus",
+    "genre": "角色扮演",
+    "tags": [
+      "迷宫探索",
+      "手绘地图",
+      "高难度"
+    ],
+    "players": "1",
+    "tagline": "拿起笔，亲手绘制世界树的地图",
+    "description": "在小镇艾托利亚的地底，一棵巨大的“世界树”扎根于深邃迷宫之中。冒险者们组成公会，自创角色，一层一层向下探索——这是向《巫术》等古典迷宫RPG的致敬之作。\n\n最大的创意是“手绘地图”：下屏是一张空白的方格纸，你需要用触控笔亲手画出墙壁、门和宝箱、陷阱，标记捷径与危险。这种“自己当地图测绘员”的体验，让探索充满了真实的冒险感。游荡于迷宫中的强敌“F.O.E”是无数玩家的噩梦，必须观察其移动规律才能避开。日向悠二的人设与古代祐三用FM音源风格创作的配乐，为本作注入了复古灵魂。\n\n难度很高，但每一次活着走出迷宫的成就感无与伦比。",
+    "highlights": [
+      "用触控笔亲手绘制迷宫地图",
+      "可怕的游荡强敌F.O.E",
+      "自由组建公会与技能树",
+      "古代祐三的复古风配乐"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "32/40",
+        "quote": "复古迷宫RPG的魅力十足"
+      },
+      {
+        "source": "Metacritic",
+        "score": "75/100",
+        "quote": "硬派难度适合核心玩家"
+      },
+      {
+        "source": "GameSpot",
+        "score": "7.8/10",
+        "quote": "经典迷宫探索的现代复兴"
+      }
+    ],
+    "editorScore": 8.2,
+    "is2D": false,
+    "screenshots": [
+      "images/nds/nds-etrian-odyssey-s1.png",
+      "images/nds/nds-etrian-odyssey-title.png"
+    ],
+    "cover": "images/nds/nds-etrian-odyssey-box.jpg"
+  },
+  {
+    "id": "nds-hotel-dusk",
+    "title": "Hotel Dusk: Room 215",
+    "titleZh": "黄昏旅店 215号房",
+    "titleJa": "ウィッシュルーム 天使の記憶",
+    "year": 2007,
+    "developer": "Cing",
+    "publisher": "Nintendo",
+    "genre": "冒险",
+    "tags": [
+      "推理",
+      "手绘素描",
+      "竖持"
+    ],
+    "players": "1",
+    "tagline": "像读小说一样，竖持DS的黑色推理",
+    "description": "1979年冬，前警探凯尔·海德以推销员的身份投宿洛杉矶郊外一家破旧的旅馆“黄昏旅店”。他在寻找三年前背叛自己的搭档——而这家旅店的每一位住客似乎都藏着秘密。\n\n玩家需要把DS像书本一样竖着拿，左屏显示铅笔素描风格的人物，右屏操作3D场景。这些人物采用转描动画技术，黑白线条会随情绪微妙变化，表情极富张力。调查、对话、质问，以及许多利用触屏与DS机能的谜题，环环相扣。剧本有着浓厚的美式黑色电影气息，台词成熟老练。\n\n节奏缓慢、偏重文字，却是DS上最具文学气质的冒险游戏之一。",
+    "highlights": [
+      "竖持DS的书本式操作",
+      "转描动画的铅笔素描人物",
+      "美式黑色电影风格剧本",
+      "利用DS机能的巧妙谜题"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "33/40",
+        "quote": "独特的画风与氛围令人印象深刻"
+      },
+      {
+        "source": "Metacritic",
+        "score": "78/100",
+        "quote": "对白出色的成熟冒险游戏"
+      },
+      {
+        "source": "GameSpot",
+        "score": "8.2/10",
+        "quote": "引人入胜的故事与人物"
+      }
+    ],
+    "editorScore": 8.1,
+    "is2D": false,
+    "screenshots": [
+      "images/nds/nds-hotel-dusk-s1.png",
+      "images/nds/nds-hotel-dusk-s2.png",
+      "images/nds/nds-hotel-dusk-title.png"
+    ],
+    "cover": "images/nds/nds-hotel-dusk-box.jpg"
+  },
+  {
+    "id": "nds-golden-sun-dark-dawn",
+    "title": "Golden Sun: Dark Dawn",
+    "titleZh": "黄金太阳 漆黑的黎明",
+    "titleJa": "黄金の太陽 漆黒なる夜明け",
+    "year": 2010,
+    "developer": "Camelot Software Planning",
+    "publisher": "Nintendo",
+    "genre": "角色扮演",
+    "tags": [
+      "精灵",
+      "解谜",
+      "3D"
+    ],
+    "players": "1",
+    "tagline": "GBA名作续篇，精灵与谜题的回归",
+    "description": "GBA上的《黄金太阳》系列以华丽的画面与精巧的迷宫解谜著称，时隔八年，续作终于登陆DS。故事发生在前作三十年后，主角是前作英雄们的子女，他们为了修理飞行器而踏上冒险，却卷入了世界巨变的漩涡。\n\n系列招牌的“精灵（Djinn）”系统依然出色：收集各属性的精灵装备在角色身上，可改变职业与能力，召唤时华丽的演出令人目不暇接。迷宫中需使用“精神力”移动石块、冻结水柱、操纵藤蔓，解谜设计延续了Camelot的高水准。画面改为全3D，桜庭统的配乐依旧动听。\n\n剧情节奏偏慢、结局留有悬念，但对系列粉丝而言，重返威亚德大陆本身就是一种幸福。",
+    "highlights": [
+      "精灵收集与职业变化系统",
+      "利用精神力的迷宫解谜",
+      "华丽的召唤演出",
+      "前作英雄后代的新篇章"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "33/40",
+        "quote": "系列特色得到良好继承"
+      },
+      {
+        "source": "Metacritic",
+        "score": "79/100",
+        "quote": "扎实的续作，解谜依然出色"
+      },
+      {
+        "source": "Edge",
+        "score": "8/10",
+        "quote": "精致的传统RPG"
+      }
+    ],
+    "editorScore": 8.0,
+    "is2D": false,
+    "screenshots": [
+      "images/nds/nds-golden-sun-dark-dawn-s1.png",
+      "images/nds/nds-golden-sun-dark-dawn-s2.png",
+      "images/nds/nds-golden-sun-dark-dawn-title.png"
+    ],
+    "cover": "images/nds/nds-golden-sun-dark-dawn-box.jpg"
+  },
+  {
+    "id": "nds-infinite-space",
+    "title": "Infinite Space",
+    "titleZh": "无限宇宙",
+    "titleJa": "INFINITE SPACE",
+    "year": 2009,
+    "developer": "Nude Maker / PlatinumGames",
+    "publisher": "Sega",
+    "genre": "角色扮演",
+    "tags": [
+      "太空歌剧",
+      "舰船设计",
+      "硬核"
+    ],
+    "players": "1",
+    "tagline": "白金工作室出品的硬核太空史诗",
+    "description": "少年尤里梦想飞向星空，于是他登上了自己的第一艘飞船——由此开启一段横跨两个星系、长达数十小时的太空歌剧。《无限宇宙》由白金工作室与Nude Maker合作开发，剧本作者是《钢铁苍穹》的河野一二三，可招募的船员多达150余人。\n\n核心乐趣在于舰船设计：购买船体蓝图，在网格中摆放主炮、引擎、舰桥、医疗舱等模块，像拼图一样打造自己的舰队。战斗则是实时推进的指令制，蓄能后在恰当时机选择“攻击”“闪避”“弹幕”，颇有石头剪刀布的心理战意味。中后期还能派出战斗机、进行白刃战。\n\n难度不低、上手门槛也高，但它的规模与野心在掌机上前所未有，是真正的隐藏神作。",
+    "highlights": [
+      "模块拼装式舰船设计",
+      "150余名可招募船员",
+      "实时指令制舰队战斗",
+      "跨越两个星系的太空歌剧"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "34/40",
+        "quote": "规模宏大的太空冒险"
+      },
+      {
+        "source": "Metacritic",
+        "score": "75/100",
+        "quote": "野心勃勃但门槛较高"
+      },
+      {
+        "source": "Edge",
+        "score": "8/10",
+        "quote": "深度与规模令人惊叹"
+      }
+    ],
+    "editorScore": 8.0,
+    "is2D": false,
+    "screenshots": [
+      "images/nds/nds-infinite-space-s1.png",
+      "images/nds/nds-infinite-space-x1.png",
+      "images/nds/nds-infinite-space-x2.jpg"
+    ],
+    "cover": "images/nds/nds-infinite-space-box.jpg"
+  },
+  {
+    "id": "nds-four-heroes-of-light",
+    "title": "Final Fantasy: The 4 Heroes of Light",
+    "titleZh": "光之四战士 最终幻想外传",
+    "titleJa": "光の4戦士 -ファイナルファンタジー外伝-",
+    "year": 2009,
+    "developer": "Matrix Software",
+    "publisher": "Square Enix",
+    "genre": "角色扮演",
+    "tags": [
+      "绘本风",
+      "王道",
+      "皇冠系统"
+    ],
+    "players": "1-4",
+    "tagline": "绘本风格的复古FF，回归最初的冒险",
+    "description": "四位少年少女从同一座王国出发，踏上拯救世界的旅程——听起来像是1980年代的FC RPG，而这正是本作的用意。《光之四战士》由FF3、FF4 DS版的Matrix Software开发，吉田明彦负责美术，整个世界宛如会动的立体绘本，温柔而梦幻。\n\n系统做了大胆的精简与改造：没有MP，所有行动都消耗共用的“BP”；更换“皇冠”就能转换职业，收集宝石强化皇冠解锁更多技能。战斗中无法指定攻击目标，反而带来独特的节奏。剧情前期四人常常分头行动，各自经历成长。\n\n它献给所有怀念“最初的那份感动”的玩家。",
+    "highlights": [
+      "吉田明彦的立体绘本风美术",
+      "BP共享行动点数系统",
+      "更换皇冠转职的成长体系",
+      "最多四人联机挑战"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "33/40",
+        "quote": "故事、音乐与玩法都令人满意"
+      },
+      {
+        "source": "Metacritic",
+        "score": "71/100",
+        "quote": "复古风格褒贬不一"
+      },
+      {
+        "source": "IGN",
+        "score": "8/10",
+        "quote": "带有SFC时代味道的独特作品"
+      }
+    ],
+    "editorScore": 7.9,
+    "is2D": false,
+    "screenshots": [
+      "images/nds/nds-four-heroes-of-light-s1.png",
+      "images/nds/nds-four-heroes-of-light-title.png"
+    ],
+    "cover": "images/nds/nds-four-heroes-of-light-box.jpg"
+  },
+  {
+    "id": "nds-summon-night-twin-age",
+    "title": "Summon Night: Twin Age",
+    "titleZh": "召唤之夜 双子时代",
+    "titleJa": "サモンナイト ツインエイジ 精霊たちの声",
+    "year": 2007,
+    "developer": "Flight-Plan",
+    "publisher": "Banpresto / Atlus",
+    "genre": "动作角色扮演",
+    "tags": [
+      "像素",
+      "双主角",
+      "动漫风"
+    ],
+    "players": "1",
+    "tagline": "双子召唤师的手绘系ARPG",
+    "description": "《召唤之夜》系列向来以战棋玩法著称，而DS上的《双子时代》则大胆转型为俯视角动作RPG。在孤岛“约拉诺”上，人类与亚人共同生活，少年阿尔诺与少女雷伊卡这对兄妹般的搭档，为了守护岛上的精灵而踏上旅程。\n\n战斗全程用触控笔操作：点哪里走哪里，点敌人就发动攻击，技能则从下屏快捷栏释放，并可随时切换操纵两位主角。技能树与装备系统相当丰富。最大的亮点是明亮的动漫风人设与细腻的像素动画，色彩柔和，整个世界像一本温暖的童话绘本。\n\n战斗手感略显简单，却是一部充满温情、最贴近“日式田园ARPG”气质的作品。",
+    "highlights": [
+      "系列首次转型动作RPG",
+      "全触控笔操作的战斗",
+      "双主角切换与技能树",
+      "温暖明亮的像素美术"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "33/40",
+        "quote": "可爱的角色与易上手的系统"
+      },
+      {
+        "source": "Metacritic",
+        "score": "73/100",
+        "quote": "简单但迷人的冒险"
+      },
+      {
+        "source": "IGN",
+        "score": "8.2/10",
+        "quote": "美术漂亮，特效出色，自定义深度足"
+      }
+    ],
+    "editorScore": 7.8,
+    "is2D": true,
+    "screenshots": [
+      "images/nds/nds-summon-night-twin-age-s1.png",
+      "images/nds/nds-summon-night-twin-age-x1.jpg",
+      "images/nds/nds-summon-night-twin-age-x2.jpg",
+      "images/nds/nds-summon-night-twin-age-x3.jpg"
+    ],
+    "cover": "images/nds/nds-summon-night-twin-age-box.jpg"
+  },
+  {
+    "id": "nds-glory-of-heracles",
+    "title": "Glory of Heracles",
+    "titleZh": "赫拉克勒斯的荣光 灵魂的证明",
+    "titleJa": "ヘラクレスの栄光 魂の証明",
+    "year": 2008,
+    "developer": "Paon",
+    "publisher": "Nintendo",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "希腊神话",
+      "回合制"
+    ],
+    "players": "1",
+    "tagline": "希腊神话里的失忆少年，老牌RPG复活",
+    "description": "FC与SFC时代的老牌RPG《赫拉克勒斯的荣光》在DS上复活。一名失去记忆的少年在海滩醒来，被人认作大英雄赫拉克勒斯——然而真正的赫拉克勒斯似乎另有其人，而他自己竟是不死之身。围绕记忆与灵魂的谜团，一场希腊神话之旅就此展开。\n\n本作由前Data East成员参与编剧，剧情扎实动人。战斗采用回合制，并加入了前后排站位等改良，传统中带有新意。像素画面清爽细致，希腊风格的神殿、海岛与神祇设计别有风味。\n\n它也许称不上一流大作，却是一部朴素、温暖、值得慢慢品味的王道RPG。",
+    "highlights": [
+      "希腊神话背景的失忆少年故事",
+      "前Data East成员参与编剧",
+      "前后排站位的回合制战斗",
+      "清爽细致的希腊风像素画面"
+    ],
+    "reviews": [
+      {
+        "source": "Metacritic",
+        "score": "69/100",
+        "quote": "传统而扎实，节奏偏慢"
+      },
+      {
+        "source": "IGN",
+        "score": "6/10",
+        "quote": "剧情不错但系统略显陈旧"
+      }
+    ],
+    "editorScore": 7.7,
+    "is2D": true,
+    "screenshots": [
+      "images/nds/nds-glory-of-heracles-s1.png",
+      "images/nds/nds-glory-of-heracles-x1.jpg",
+      "images/nds/nds-glory-of-heracles-x2.jpg",
+      "images/nds/nds-glory-of-heracles-x3.jpg"
+    ],
+    "cover": "images/nds/nds-glory-of-heracles-box.jpg"
+  },
+  {
+    "id": "nds-sands-of-destruction",
+    "title": "Sands of Destruction",
+    "titleZh": "世界毁灭",
+    "titleJa": "ワールドデストラクション 導かれし意思",
+    "year": 2008,
+    "developer": "imageepoch",
+    "publisher": "Sega",
+    "genre": "角色扮演",
+    "tags": [
+      "光田康典",
+      "兽人世界",
+      "连段战斗"
+    ],
+    "players": "1",
+    "tagline": "誓要毁灭世界的另类主角",
+    "description": "在一个由兽人统治、人类沦为奴隶的世界里，少年基里克与神秘少女莫尔特相遇——而莫尔特的目标，竟是“毁灭世界”。这种反英雄式的设定，让《世界毁灭》在众多王道RPG中显得与众不同。\n\n本作由imageepoch开发，《时空之轮》作曲家光田康典担纲配乐，《异度装甲》的田中久仁彦负责人设。战斗采用连段式的“コンボ”系统：用不同按键组合打出上挑、下砸、浮空连击，把敌人打上天再追击，颇具动作感。3D场景中穿梭的是可爱的2D角色。\n\n剧情与平衡性评价不一，但光田康典的音乐获得了一致好评，是一部值得为原声去尝试的冷门作品。",
+    "highlights": [
+      "“毁灭世界”的反英雄设定",
+      "光田康典配乐、田中久仁彦人设",
+      "浮空连段式战斗",
+      "同期推出动画版"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "31/40",
+        "quote": "世界观独特，配乐出众"
+      },
+      {
+        "source": "Metacritic",
+        "score": "63/100",
+        "quote": "评价褒贬不一，音乐获一致称赞"
+      },
+      {
+        "source": "Nintendo Life",
+        "score": "8/10",
+        "quote": "被低估的有趣RPG"
+      }
+    ],
+    "editorScore": 7.5,
+    "is2D": false,
+    "screenshots": [
+      "images/nds/nds-sands-of-destruction-s1.png",
+      "images/nds/nds-sands-of-destruction-s2.png",
+      "images/nds/nds-sands-of-destruction-title.png"
+    ],
+    "cover": "images/nds/nds-sands-of-destruction-box.jpg"
+  }
+]
