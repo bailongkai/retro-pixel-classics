@@ -477,3 +477,10 @@ img.px {
 .style-panel.s3 { background: var(--yellow); }
 .style-panel p { margin: 10px 0 0; font-size: 14px; font-weight: 700; }
 .toolbar select[data-style] { background: var(--yellow); }
+.style-star {
+  position: absolute; left: 6px; bottom: 30px;
+  font-size: 30px; line-height: 1; color: var(--yellow);
+  -webkit-text-stroke: 2px var(--ink); paint-order: stroke fill;
+  text-shadow: 2px 2px 0 var(--ink);
+}
+@media (max-width: 600px) { .style-star { font-size: 24px; bottom: 24px; left: 4px; } }
