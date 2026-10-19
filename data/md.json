@@ -2416,6 +2416,10 @@
       "images/md/md-rent-a-hero-x1.png",
       "images/md/md-rent-a-hero-x2.png",
       "images/md/md-rent-a-hero-m1.jpg",
+      "images/md/md-rent-a-hero-y1.png",
+      "images/md/md-rent-a-hero-y2.jpg",
+      "images/md/md-rent-a-hero-y3.png",
+      "images/md/md-rent-a-hero-y4.png",
       "images/md/md-rent-a-hero-title.png"
     ],
     "cover": "images/md/md-rent-a-hero-box.jpg",
@@ -2557,6 +2561,9 @@
       "images/md/md-arcus-odyssey-s1.png",
       "images/md/md-arcus-odyssey-s2.png",
       "images/md/md-arcus-odyssey-m1.png",
+      "images/md/md-arcus-odyssey-y1.png",
+      "images/md/md-arcus-odyssey-y2.png",
+      "images/md/md-arcus-odyssey-y3.png",
       "images/md/md-arcus-odyssey-title.png"
     ],
     "cover": "images/md/md-arcus-odyssey-box.jpg",
@@ -2598,6 +2605,11 @@
     "screenshots": [
       "images/md/md-sorcerers-kingdom-s1.png",
       "images/md/md-sorcerers-kingdom-s2.png",
+      "images/md/md-sorcerers-kingdom-y1.png",
+      "images/md/md-sorcerers-kingdom-y2.png",
+      "images/md/md-sorcerers-kingdom-y3.png",
+      "images/md/md-sorcerers-kingdom-y4.png",
+      "images/md/md-sorcerers-kingdom-y5.png",
       "images/md/md-sorcerers-kingdom-title.png"
     ],
     "cover": "images/md/md-sorcerers-kingdom-box.jpg",

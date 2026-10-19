@@ -205,7 +205,10 @@
     "screenshots": [
       "images/psp/psp-trails-in-the-sky-sc-x1.jpg",
       "images/psp/psp-trails-in-the-sky-sc-x2.jpg",
-      "images/psp/psp-trails-in-the-sky-sc-x3.jpg"
+      "images/psp/psp-trails-in-the-sky-sc-x3.jpg",
+      "images/psp/psp-trails-in-the-sky-sc-y1.jpg",
+      "images/psp/psp-trails-in-the-sky-sc-y2.jpg",
+      "images/psp/psp-trails-in-the-sky-sc-y3.jpg"
     ],
     "cover": "images/psp/psp-trails-in-the-sky-sc-box.jpg",
     "styleMatch": 3,
@@ -253,6 +256,8 @@
       "images/psp/psp-suikoden-1-2-s1.png",
       "images/psp/psp-suikoden-1-2-x1.jpg",
       "images/psp/psp-suikoden-1-2-x2.png",
+      "images/psp/psp-suikoden-1-2-y1.jpg",
+      "images/psp/psp-suikoden-1-2-y2.jpg",
       "images/psp/psp-suikoden-1-2-title.png"
     ],
     "cover": "images/psp/psp-suikoden-1-2-box.jpg",
@@ -1130,6 +1135,8 @@
       "images/psp/psp-trails-in-the-sky-3rd-s1.png",
       "images/psp/psp-trails-in-the-sky-3rd-x1.jpg",
       "images/psp/psp-trails-in-the-sky-3rd-x2.jpg",
+      "images/psp/psp-trails-in-the-sky-3rd-y1.jpg",
+      "images/psp/psp-trails-in-the-sky-3rd-y2.jpg",
       "images/psp/psp-trails-in-the-sky-3rd-title.png"
     ],
     "cover": "images/psp/psp-trails-in-the-sky-3rd-box.jpg",
@@ -1485,6 +1492,9 @@
     "screenshots": [
       "images/psp/psp-tales-of-phantasia-fve-s1.png",
       "images/psp/psp-tales-of-phantasia-fve-x1.png",
+      "images/psp/psp-tales-of-phantasia-fve-y1.jpg",
+      "images/psp/psp-tales-of-phantasia-fve-y2.jpg",
+      "images/psp/psp-tales-of-phantasia-fve-y3.jpg",
       "images/psp/psp-tales-of-phantasia-fve-title.png"
     ],
     "cover": "images/psp/psp-tales-of-phantasia-fve-box.jpg",
@@ -1685,6 +1695,9 @@
       "images/psp/psp-tengai-makyou-4-s1.png",
       "images/psp/psp-tengai-makyou-4-x1.png",
       "images/psp/psp-tengai-makyou-4-m1.jpg",
+      "images/psp/psp-tengai-makyou-4-y1.jpg",
+      "images/psp/psp-tengai-makyou-4-y2.jpg",
+      "images/psp/psp-tengai-makyou-4-y3.jpg",
       "images/psp/psp-tengai-makyou-4-title.png"
     ],
     "cover": "images/psp/psp-tengai-makyou-4-box.jpg",
@@ -1832,7 +1845,9 @@
     "screenshots": [
       "images/psp/psp-star-ocean-first-departure-s1.png",
       "images/psp/psp-star-ocean-first-departure-x1.png",
-      "images/psp/psp-star-ocean-first-departure-x2.jpg"
+      "images/psp/psp-star-ocean-first-departure-x2.jpg",
+      "images/psp/psp-star-ocean-first-departure-y1.jpg",
+      "images/psp/psp-star-ocean-first-departure-y2.jpg"
     ],
     "cover": "images/psp/psp-star-ocean-first-departure-box.jpg",
     "styleMatch": 3,
@@ -1927,7 +1942,10 @@
     "screenshots": [
       "images/psp/psp-popolocrois-s1.png",
       "images/psp/psp-popolocrois-x1.png",
-      "images/psp/psp-popolocrois-m1.png"
+      "images/psp/psp-popolocrois-m1.png",
+      "images/psp/psp-popolocrois-y1.jpg",
+      "images/psp/psp-popolocrois-y2.jpg",
+      "images/psp/psp-popolocrois-y3.jpg"
     ],
     "cover": "images/psp/psp-popolocrois-box.jpg",
     "styleMatch": 3,
@@ -1975,6 +1993,9 @@
       "images/psp/psp-ff2-anniversary-s1.png",
       "images/psp/psp-ff2-anniversary-s2.png",
       "images/psp/psp-ff2-anniversary-s3.png",
+      "images/psp/psp-ff2-anniversary-y1.png",
+      "images/psp/psp-ff2-anniversary-y2.jpg",
+      "images/psp/psp-ff2-anniversary-y3.jpg",
       "images/psp/psp-ff2-anniversary-title.png"
     ],
     "cover": "images/psp/psp-ff2-anniversary-box.jpg",

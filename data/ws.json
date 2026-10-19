@@ -30,6 +30,8 @@
       "images/ws/ws-final-fantasy-iv-x1.jpg",
       "images/ws/ws-final-fantasy-iv-s1.png",
       "images/ws/ws-final-fantasy-iv-m1.jpg",
+      "images/ws/ws-final-fantasy-iv-y1.png",
+      "images/ws/ws-final-fantasy-iv-y2.png",
       "images/ws/ws-final-fantasy-iv-title.png"
     ],
     "cover": "images/ws/ws-final-fantasy-iv-box.jpg",
@@ -73,6 +75,8 @@
       "images/ws/ws-riviera-s1.png",
       "images/ws/ws-riviera-s2.png",
       "images/ws/ws-riviera-m1.jpg",
+      "images/ws/ws-riviera-y1.png",
+      "images/ws/ws-riviera-y2.png",
       "images/ws/ws-riviera-title.png"
     ],
     "cover": "images/ws/ws-riviera-box.jpg",
@@ -115,6 +119,9 @@
     "screenshots": [
       "images/ws/ws-front-mission-s1.png",
       "images/ws/ws-front-mission-x1.png",
+      "images/ws/ws-front-mission-y1.png",
+      "images/ws/ws-front-mission-y2.png",
+      "images/ws/ws-front-mission-y3.png",
       "images/ws/ws-front-mission-title.png"
     ],
     "cover": "images/ws/ws-front-mission-box.jpg",
@@ -157,6 +164,9 @@
     "screenshots": [
       "images/ws/ws-romancing-saga-s1.png",
       "images/ws/ws-romancing-saga-x1.png",
+      "images/ws/ws-romancing-saga-y1.png",
+      "images/ws/ws-romancing-saga-y2.png",
+      "images/ws/ws-romancing-saga-y3.png",
       "images/ws/ws-romancing-saga-title.png"
     ],
     "cover": "images/ws/ws-romancing-saga-box.jpg",
@@ -291,6 +301,9 @@
     "screenshots": [
       "images/ws/ws-final-fantasy-s1.png",
       "images/ws/ws-final-fantasy-x1.png",
+      "images/ws/ws-final-fantasy-y1.png",
+      "images/ws/ws-final-fantasy-y2.png",
+      "images/ws/ws-final-fantasy-y3.png",
       "images/ws/ws-final-fantasy-title.png"
     ],
     "cover": "images/ws/ws-final-fantasy-box.jpg",
@@ -379,6 +392,9 @@
     "screenshots": [
       "images/ws/ws-final-fantasy-ii-s1.png",
       "images/ws/ws-final-fantasy-ii-x1.png",
+      "images/ws/ws-final-fantasy-ii-y1.png",
+      "images/ws/ws-final-fantasy-ii-y2.png",
+      "images/ws/ws-final-fantasy-ii-y3.png",
       "images/ws/ws-final-fantasy-ii-title.png"
     ],
     "cover": "images/ws/ws-final-fantasy-ii-box.jpg",
@@ -415,6 +431,8 @@
     "screenshots": [
       "images/ws/ws-star-hearts-s1.png",
       "images/ws/ws-star-hearts-x1.png",
+      "images/ws/ws-star-hearts-y1.png",
+      "images/ws/ws-star-hearts-y2.png",
       "images/ws/ws-star-hearts-title.png"
     ],
     "cover": "images/ws/ws-star-hearts-box.jpg",
@@ -581,6 +599,8 @@
       "images/ws/ws-chocobo-dungeon-s1.png",
       "images/ws/ws-chocobo-dungeon-s2.png",
       "images/ws/ws-chocobo-dungeon-m1.png",
+      "images/ws/ws-chocobo-dungeon-y1.png",
+      "images/ws/ws-chocobo-dungeon-y2.png",
       "images/ws/ws-chocobo-dungeon-title.png"
     ],
     "cover": "images/ws/ws-chocobo-dungeon-box.jpg",
@@ -698,6 +718,7 @@
       "images/ws/ws-medarot-perfect-kabuto-s1.png",
       "images/ws/ws-medarot-perfect-kabuto-x1.png",
       "images/ws/ws-medarot-perfect-kabuto-m1.png",
+      "images/ws/ws-medarot-perfect-kabuto-y1.png",
       "images/ws/ws-medarot-perfect-kabuto-title.png"
     ],
     "cover": "images/ws/ws-medarot-perfect-kabuto-box.jpg",
@@ -810,6 +831,9 @@
     "screenshots": [
       "images/ws/ws-arc-the-lad-kishin-fukkatsu-s1.png",
       "images/ws/ws-arc-the-lad-kishin-fukkatsu-x1.png",
+      "images/ws/ws-arc-the-lad-kishin-fukkatsu-y1.png",
+      "images/ws/ws-arc-the-lad-kishin-fukkatsu-y2.png",
+      "images/ws/ws-arc-the-lad-kishin-fukkatsu-y3.png",
       "images/ws/ws-arc-the-lad-kishin-fukkatsu-title.png"
     ],
     "cover": "images/ws/ws-arc-the-lad-kishin-fukkatsu-box.jpg",
@@ -883,6 +907,9 @@
     "screenshots": [
       "images/ws/ws-dark-eyes-s1.png",
       "images/ws/ws-dark-eyes-x1.png",
+      "images/ws/ws-dark-eyes-y1.png",
+      "images/ws/ws-dark-eyes-y2.png",
+      "images/ws/ws-dark-eyes-y3.png",
       "images/ws/ws-dark-eyes-title.png"
     ],
     "cover": "images/ws/ws-dark-eyes-box.jpg",
@@ -920,6 +947,8 @@
       "images/ws/ws-digimon-anode-tamer-s1.png",
       "images/ws/ws-digimon-anode-tamer-x1.jpg",
       "images/ws/ws-digimon-anode-tamer-m1.png",
+      "images/ws/ws-digimon-anode-tamer-y1.png",
+      "images/ws/ws-digimon-anode-tamer-y2.png",
       "images/ws/ws-digimon-anode-tamer-title.png"
     ],
     "cover": "images/ws/ws-digimon-anode-tamer-box.jpg",

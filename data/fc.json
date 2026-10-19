@@ -711,6 +711,10 @@
     "screenshots": [
       "images/fc/fc-fire-emblem-s1.png",
       "images/fc/fc-fire-emblem-x1.png",
+      "images/fc/fc-fire-emblem-y1.jpg",
+      "images/fc/fc-fire-emblem-y2.jpg",
+      "images/fc/fc-fire-emblem-y3.png",
+      "images/fc/fc-fire-emblem-y4.png",
       "images/fc/fc-fire-emblem-title.png"
     ],
     "cover": "images/fc/fc-fire-emblem-box.jpg",
@@ -1121,6 +1125,9 @@
       "images/fc/fc-megami-tensei-ii-s1.png",
       "images/fc/fc-megami-tensei-ii-s2.png",
       "images/fc/fc-megami-tensei-ii-m1.png",
+      "images/fc/fc-megami-tensei-ii-y1.png",
+      "images/fc/fc-megami-tensei-ii-y2.png",
+      "images/fc/fc-megami-tensei-ii-y3.png",
       "images/fc/fc-megami-tensei-ii-title.png"
     ],
     "cover": "images/fc/fc-megami-tensei-ii-box.jpg",
@@ -2362,6 +2369,10 @@
       "images/fc/fc-little-ninja-brothers-s1.png",
       "images/fc/fc-little-ninja-brothers-s2.png",
       "images/fc/fc-little-ninja-brothers-m1.png",
+      "images/fc/fc-little-ninja-brothers-y1.png",
+      "images/fc/fc-little-ninja-brothers-y2.png",
+      "images/fc/fc-little-ninja-brothers-y3.png",
+      "images/fc/fc-little-ninja-brothers-y4.png",
       "images/fc/fc-little-ninja-brothers-title.png"
     ],
     "cover": "images/fc/fc-little-ninja-brothers-box.jpg"

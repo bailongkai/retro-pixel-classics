@@ -761,6 +761,8 @@
       "images/gb/gb-dragon-warrior-1-2-s1.png",
       "images/gb/gb-dragon-warrior-1-2-x1.png",
       "images/gb/gb-dragon-warrior-1-2-x2.png",
+      "images/gb/gb-dragon-warrior-1-2-y1.png",
+      "images/gb/gb-dragon-warrior-1-2-y2.png",
       "images/gb/gb-dragon-warrior-1-2-title.png"
     ],
     "cover": "images/gb/gb-dragon-warrior-1-2-box.jpg",
@@ -863,6 +865,8 @@
       "images/gb/gb-kaeru-no-tame-s1.png",
       "images/gb/gb-kaeru-no-tame-x1.png",
       "images/gb/gb-kaeru-no-tame-x2.png",
+      "images/gb/gb-kaeru-no-tame-y1.png",
+      "images/gb/gb-kaeru-no-tame-y2.png",
       "images/gb/gb-kaeru-no-tame-title.png"
     ],
     "cover": "images/gb/gb-kaeru-no-tame-box.jpg",
@@ -915,6 +919,8 @@
       "images/gb/gb-dragon-warrior-monsters-s1.png",
       "images/gb/gb-dragon-warrior-monsters-x1.png",
       "images/gb/gb-dragon-warrior-monsters-x2.png",
+      "images/gb/gb-dragon-warrior-monsters-y1.png",
+      "images/gb/gb-dragon-warrior-monsters-y2.png",
       "images/gb/gb-dragon-warrior-monsters-title.png"
     ],
     "cover": "images/gb/gb-dragon-warrior-monsters-box.jpg",
@@ -1721,6 +1727,9 @@
       "images/gb/gb-final-fantasy-legend-s1.png",
       "images/gb/gb-final-fantasy-legend-s2.png",
       "images/gb/gb-final-fantasy-legend-m1.png",
+      "images/gb/gb-final-fantasy-legend-y1.png",
+      "images/gb/gb-final-fantasy-legend-y2.png",
+      "images/gb/gb-final-fantasy-legend-y3.png",
       "images/gb/gb-final-fantasy-legend-title.png"
     ],
     "cover": "images/gb/gb-final-fantasy-legend-box.jpg",
@@ -2097,6 +2106,8 @@
       "images/gb/gb-magi-nation-s1.png",
       "images/gb/gb-magi-nation-x1.png",
       "images/gb/gb-magi-nation-m1.png",
+      "images/gb/gb-magi-nation-y1.png",
+      "images/gb/gb-magi-nation-y2.png",
       "images/gb/gb-magi-nation-title.png"
     ],
     "cover": "images/gb/gb-magi-nation-box.jpg"
@@ -2248,6 +2259,8 @@
       "images/gb/gb-devil-children-s1.png",
       "images/gb/gb-devil-children-x1.png",
       "images/gb/gb-devil-children-m1.png",
+      "images/gb/gb-devil-children-y1.png",
+      "images/gb/gb-devil-children-y2.png",
       "images/gb/gb-devil-children-title.png"
     ],
     "cover": "images/gb/gb-devil-children-box.jpg"
@@ -2505,6 +2518,8 @@
       "images/gb/gb-bomberman-quest-s1.png",
       "images/gb/gb-bomberman-quest-s2.png",
       "images/gb/gb-bomberman-quest-s3.png",
+      "images/gb/gb-bomberman-quest-y1.png",
+      "images/gb/gb-bomberman-quest-y2.png",
       "images/gb/gb-bomberman-quest-title.png"
     ],
     "cover": "images/gb/gb-bomberman-quest-box.jpg"
@@ -2556,6 +2571,9 @@
     "screenshots": [
       "images/gb/gb-lufia-legend-returns-s1.png",
       "images/gb/gb-lufia-legend-returns-s2.png",
+      "images/gb/gb-lufia-legend-returns-y1.png",
+      "images/gb/gb-lufia-legend-returns-y2.png",
+      "images/gb/gb-lufia-legend-returns-y3.png",
       "images/gb/gb-lufia-legend-returns-title.png"
     ],
     "cover": "images/gb/gb-lufia-legend-returns-box.jpg"
@@ -2607,6 +2625,9 @@
     "screenshots": [
       "images/gb/gb-robopon-sun-s1.png",
       "images/gb/gb-robopon-sun-x1.png",
+      "images/gb/gb-robopon-sun-y1.png",
+      "images/gb/gb-robopon-sun-y2.png",
+      "images/gb/gb-robopon-sun-y3.png",
       "images/gb/gb-robopon-sun-title.png"
     ],
     "cover": "images/gb/gb-robopon-sun-box.jpg"

@@ -138,6 +138,8 @@
     "screenshots": [
       "images/gg/gg-wonder-boy-dragons-trap-s1.png",
       "images/gg/gg-wonder-boy-dragons-trap-s2.png",
+      "images/gg/gg-wonder-boy-dragons-trap-y1.png",
+      "images/gg/gg-wonder-boy-dragons-trap-y2.png",
       "images/gg/gg-wonder-boy-dragons-trap-title.png"
     ],
     "cover": "images/gg/gg-wonder-boy-dragons-trap-box.jpg",
@@ -335,6 +337,8 @@
       "images/gg/gg-sylvan-tale-s1.png",
       "images/gg/gg-sylvan-tale-s2.png",
       "images/gg/gg-sylvan-tale-m1.png",
+      "images/gg/gg-sylvan-tale-y1.png",
+      "images/gg/gg-sylvan-tale-y2.png",
       "images/gg/gg-sylvan-tale-title.png"
     ],
     "cover": "images/gg/gg-sylvan-tale-box.jpg",
@@ -1083,6 +1087,8 @@
       "images/gg/gg-crystal-warriors-s1.png",
       "images/gg/gg-crystal-warriors-x1.png",
       "images/gg/gg-crystal-warriors-m1.jpg",
+      "images/gg/gg-crystal-warriors-y1.png",
+      "images/gg/gg-crystal-warriors-y2.png",
       "images/gg/gg-crystal-warriors-title.png"
     ],
     "cover": "images/gg/gg-crystal-warriors-box.jpg",
@@ -1130,6 +1136,9 @@
     "screenshots": [
       "images/gg/gg-royal-stone-s1.png",
       "images/gg/gg-royal-stone-s2.png",
+      "images/gg/gg-royal-stone-y1.png",
+      "images/gg/gg-royal-stone-y2.png",
+      "images/gg/gg-royal-stone-y3.png",
       "images/gg/gg-royal-stone-title.png"
     ],
     "cover": "images/gg/gg-royal-stone-box.jpg",
@@ -1272,6 +1281,8 @@
       "images/gg/gg-phantasy-star-gaiden-s1.png",
       "images/gg/gg-phantasy-star-gaiden-x1.png",
       "images/gg/gg-phantasy-star-gaiden-x2.png",
+      "images/gg/gg-phantasy-star-gaiden-y1.png",
+      "images/gg/gg-phantasy-star-gaiden-y2.png",
       "images/gg/gg-phantasy-star-gaiden-title.png"
     ],
     "cover": "images/gg/gg-phantasy-star-gaiden-box.jpg",
@@ -1515,6 +1526,9 @@
     "screenshots": [
       "images/gg/gg-magic-knight-rayearth-s1.png",
       "images/gg/gg-magic-knight-rayearth-x1.png",
+      "images/gg/gg-magic-knight-rayearth-y1.png",
+      "images/gg/gg-magic-knight-rayearth-y2.png",
+      "images/gg/gg-magic-knight-rayearth-y3.png",
       "images/gg/gg-magic-knight-rayearth-title.png"
     ],
     "cover": "images/gg/gg-magic-knight-rayearth-box.jpg",
@@ -1619,6 +1633,11 @@
     "screenshots": [
       "images/gg/gg-eternal-legend-s1.png",
       "images/gg/gg-eternal-legend-x1.jpg",
+      "images/gg/gg-eternal-legend-y1.png",
+      "images/gg/gg-eternal-legend-y2.png",
+      "images/gg/gg-eternal-legend-y3.png",
+      "images/gg/gg-eternal-legend-y4.png",
+      "images/gg/gg-eternal-legend-y5.png",
       "images/gg/gg-eternal-legend-title.png"
     ],
     "cover": "images/gg/gg-eternal-legend-box.jpg"
@@ -1667,6 +1686,7 @@
       "images/gg/gg-magic-knight-rayearth-2-s1.png",
       "images/gg/gg-magic-knight-rayearth-2-x1.png",
       "images/gg/gg-magic-knight-rayearth-2-x2.png",
+      "images/gg/gg-magic-knight-rayearth-2-y1.png",
       "images/gg/gg-magic-knight-rayearth-2-title.png"
     ],
     "cover": "images/gg/gg-magic-knight-rayearth-2-box.jpg"

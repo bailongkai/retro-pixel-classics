@@ -210,6 +210,9 @@
       "images/nds/nds-the-world-ends-with-you-s1.png",
       "images/nds/nds-the-world-ends-with-you-x1.png",
       "images/nds/nds-the-world-ends-with-you-m1.jpg",
+      "images/nds/nds-the-world-ends-with-you-y1.jpg",
+      "images/nds/nds-the-world-ends-with-you-y2.jpg",
+      "images/nds/nds-the-world-ends-with-you-y3.jpg",
       "images/nds/nds-the-world-ends-with-you-title.png"
     ],
     "cover": "images/nds/nds-the-world-ends-with-you-box.jpg",
@@ -792,6 +795,9 @@
       "images/nds/nds-dragon-quest-iv-s1.png",
       "images/nds/nds-dragon-quest-iv-s2.png",
       "images/nds/nds-dragon-quest-iv-m1.png",
+      "images/nds/nds-dragon-quest-iv-y1.jpg",
+      "images/nds/nds-dragon-quest-iv-y2.jpg",
+      "images/nds/nds-dragon-quest-iv-y3.jpg",
       "images/nds/nds-dragon-quest-iv-title.png"
     ],
     "cover": "images/nds/nds-dragon-quest-iv-box.jpg",
@@ -844,6 +850,9 @@
       "images/nds/nds-dragon-quest-vi-s1.png",
       "images/nds/nds-dragon-quest-vi-x1.png",
       "images/nds/nds-dragon-quest-vi-x2.png",
+      "images/nds/nds-dragon-quest-vi-y1.jpg",
+      "images/nds/nds-dragon-quest-vi-y2.jpg",
+      "images/nds/nds-dragon-quest-vi-y3.jpg",
       "images/nds/nds-dragon-quest-vi-title.png"
     ],
     "cover": "images/nds/nds-dragon-quest-vi-box.jpg",
@@ -1266,8 +1275,11 @@
     "is2D": true,
     "screenshots": [
       "images/nds/nds-fire-emblem-shin-monshou-no-nazo-s1.png",
-      "images/nds/nds-fire-emblem-shin-monshou-no-nazo-s2.png",
       "images/nds/nds-fire-emblem-shin-monshou-no-nazo-m1.jpg",
+      "images/nds/nds-fire-emblem-shin-monshou-no-nazo-y1.jpg",
+      "images/nds/nds-fire-emblem-shin-monshou-no-nazo-y2.jpg",
+      "images/nds/nds-fire-emblem-shin-monshou-no-nazo-y3.jpg",
+      "images/nds/nds-fire-emblem-shin-monshou-no-nazo-y4.jpg",
       "images/nds/nds-fire-emblem-shin-monshou-no-nazo-title.png"
     ],
     "cover": "images/nds/nds-fire-emblem-shin-monshou-no-nazo-box.jpg",
@@ -1687,6 +1699,9 @@
     "screenshots": [
       "images/nds/nds-disgaea-ds-s1.png",
       "images/nds/nds-disgaea-ds-x1.png",
+      "images/nds/nds-disgaea-ds-y1.jpg",
+      "images/nds/nds-disgaea-ds-y2.jpg",
+      "images/nds/nds-disgaea-ds-y3.jpg",
       "images/nds/nds-disgaea-ds-title.png"
     ],
     "cover": "images/nds/nds-disgaea-ds-box.jpg",
@@ -1792,6 +1807,10 @@
       "images/nds/nds-lunar-knights-s1.png",
       "images/nds/nds-lunar-knights-x1.png",
       "images/nds/nds-lunar-knights-x2.jpg",
+      "images/nds/nds-lunar-knights-y1.png",
+      "images/nds/nds-lunar-knights-y2.png",
+      "images/nds/nds-lunar-knights-y3.jpg",
+      "images/nds/nds-lunar-knights-y4.jpg",
       "images/nds/nds-lunar-knights-title.png"
     ],
     "cover": "images/nds/nds-lunar-knights-box.jpg",
@@ -1952,6 +1971,10 @@
       "images/nds/nds-rune-factory-s1.png",
       "images/nds/nds-rune-factory-s2.png",
       "images/nds/nds-rune-factory-m1.jpg",
+      "images/nds/nds-rune-factory-y1.png",
+      "images/nds/nds-rune-factory-y2.png",
+      "images/nds/nds-rune-factory-y3.png",
+      "images/nds/nds-rune-factory-y4.png",
       "images/nds/nds-rune-factory-title.png"
     ],
     "cover": "images/nds/nds-rune-factory-box.jpg",
@@ -2003,6 +2026,10 @@
     "screenshots": [
       "images/nds/nds-shiren-the-wanderer-s1.png",
       "images/nds/nds-shiren-the-wanderer-x1.png",
+      "images/nds/nds-shiren-the-wanderer-y1.jpg",
+      "images/nds/nds-shiren-the-wanderer-y2.jpg",
+      "images/nds/nds-shiren-the-wanderer-y3.jpg",
+      "images/nds/nds-shiren-the-wanderer-y4.jpg",
       "images/nds/nds-shiren-the-wanderer-title.png"
     ],
     "cover": "images/nds/nds-shiren-the-wanderer-box.jpg",
@@ -2361,6 +2388,9 @@
     "screenshots": [
       "images/nds/nds-children-of-mana-s1.png",
       "images/nds/nds-children-of-mana-x1.jpg",
+      "images/nds/nds-children-of-mana-y1.jpg",
+      "images/nds/nds-children-of-mana-y2.jpg",
+      "images/nds/nds-children-of-mana-y3.jpg",
       "images/nds/nds-children-of-mana-title.png"
     ],
     "cover": "images/nds/nds-children-of-mana-box.jpg",
@@ -2412,6 +2442,10 @@
     "screenshots": [
       "images/nds/nds-sands-of-destruction-s1.png",
       "images/nds/nds-sands-of-destruction-s2.png",
+      "images/nds/nds-sands-of-destruction-y1.jpg",
+      "images/nds/nds-sands-of-destruction-y2.jpg",
+      "images/nds/nds-sands-of-destruction-y3.jpg",
+      "images/nds/nds-sands-of-destruction-y4.jpg",
       "images/nds/nds-sands-of-destruction-title.png"
     ],
     "cover": "images/nds/nds-sands-of-destruction-box.jpg",

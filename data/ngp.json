@@ -702,7 +702,8 @@
     "screenshots": [
       "images/ngp/ngp-kikou-seiki-unitron-s1.png",
       "images/ngp/ngp-kikou-seiki-unitron-x2.jpg",
-      "images/ngp/ngp-kikou-seiki-unitron-m1.jpg",
+      "images/ngp/ngp-kikou-seiki-unitron-y1.png",
+      "images/ngp/ngp-kikou-seiki-unitron-y2.png",
       "images/ngp/ngp-kikou-seiki-unitron-title.png"
     ],
     "cover": "images/ngp/ngp-kikou-seiki-unitron-box.jpg",
@@ -969,6 +970,8 @@
       "images/ngp/ngp-evolution-s1.png",
       "images/ngp/ngp-evolution-x1.jpg",
       "images/ngp/ngp-evolution-m1.png",
+      "images/ngp/ngp-evolution-y1.png",
+      "images/ngp/ngp-evolution-y2.png",
       "images/ngp/ngp-evolution-title.png"
     ],
     "cover": "images/ngp/ngp-evolution-box.jpg",

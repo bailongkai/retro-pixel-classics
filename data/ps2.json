@@ -44,6 +44,9 @@
     "screenshots": [
       "images/ps2/ps2-odin-sphere-s1.png",
       "images/ps2/ps2-odin-sphere-x1.jpg",
+      "images/ps2/ps2-odin-sphere-y1.jpg",
+      "images/ps2/ps2-odin-sphere-y2.jpg",
+      "images/ps2/ps2-odin-sphere-y3.jpg",
       "images/ps2/ps2-odin-sphere-title.png"
     ],
     "cover": "images/ps2/ps2-odin-sphere-box.jpg",
@@ -895,6 +898,9 @@
       "images/ps2/ps2-phantom-brave-s1.png",
       "images/ps2/ps2-phantom-brave-x1.jpg",
       "images/ps2/ps2-phantom-brave-x2.jpg",
+      "images/ps2/ps2-phantom-brave-y1.jpg",
+      "images/ps2/ps2-phantom-brave-y2.jpg",
+      "images/ps2/ps2-phantom-brave-y3.jpg",
       "images/ps2/ps2-phantom-brave-title.png"
     ],
     "cover": "images/ps2/ps2-phantom-brave-box.jpg",
@@ -983,8 +989,10 @@
     "is2D": true,
     "screenshots": [
       "images/ps2/ps2-tales-of-destiny-s1.png",
-      "images/ps2/ps2-tales-of-destiny-x2.jpg",
-      "images/ps2/ps2-tales-of-destiny-x3.jpg"
+      "images/ps2/ps2-tales-of-destiny-x3.jpg",
+      "images/ps2/ps2-tales-of-destiny-y1.jpg",
+      "images/ps2/ps2-tales-of-destiny-y2.jpg",
+      "images/ps2/ps2-tales-of-destiny-y3.jpg"
     ],
     "cover": "images/ps2/ps2-tales-of-destiny-box.jpg",
     "styleMatch": 3,
@@ -1396,7 +1404,10 @@
     "screenshots": [
       "images/ps2/ps2-summon-night-3-x1.jpg",
       "images/ps2/ps2-summon-night-3-x2.jpg",
-      "images/ps2/ps2-summon-night-3-x3.jpg"
+      "images/ps2/ps2-summon-night-3-x3.jpg",
+      "images/ps2/ps2-summon-night-3-y1.jpg",
+      "images/ps2/ps2-summon-night-3-y2.jpg",
+      "images/ps2/ps2-summon-night-3-y3.jpg"
     ],
     "cover": "images/ps2/ps2-summon-night-3-box.jpg",
     "styleMatch": 2,
@@ -1482,6 +1493,10 @@
       "images/ps2/ps2-growlanser-iv-s1.png",
       "images/ps2/ps2-growlanser-iv-x1.png",
       "images/ps2/ps2-growlanser-iv-m1.jpg",
+      "images/ps2/ps2-growlanser-iv-y1.jpg",
+      "images/ps2/ps2-growlanser-iv-y2.jpg",
+      "images/ps2/ps2-growlanser-iv-y3.jpg",
+      "images/ps2/ps2-growlanser-iv-y4.jpg",
       "images/ps2/ps2-growlanser-iv-title.png"
     ],
     "cover": "images/ps2/ps2-growlanser-iv-box.jpg",
@@ -1745,7 +1760,10 @@
     "is2D": true,
     "screenshots": [
       "images/ps2/ps2-lilie-no-atelier-s1.png",
-      "images/ps2/ps2-lilie-no-atelier-x1.jpg"
+      "images/ps2/ps2-lilie-no-atelier-x1.jpg",
+      "images/ps2/ps2-lilie-no-atelier-y1.jpg",
+      "images/ps2/ps2-lilie-no-atelier-y2.jpg",
+      "images/ps2/ps2-lilie-no-atelier-y3.jpg"
     ],
     "cover": "images/ps2/ps2-lilie-no-atelier-box.jpg",
     "styleMatch": 3,
@@ -1957,6 +1975,10 @@
     "screenshots": [
       "images/ps2/ps2-mana-khemia-s1.png",
       "images/ps2/ps2-mana-khemia-x1.png",
+      "images/ps2/ps2-mana-khemia-y1.jpg",
+      "images/ps2/ps2-mana-khemia-y2.jpg",
+      "images/ps2/ps2-mana-khemia-y3.jpg",
+      "images/ps2/ps2-mana-khemia-y4.jpg",
       "images/ps2/ps2-mana-khemia-title.png"
     ],
     "cover": "images/ps2/ps2-mana-khemia-box.jpg",

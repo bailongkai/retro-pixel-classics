@@ -88,8 +88,11 @@
     "editorScore": 9.6,
     "is2D": true,
     "screenshots": [
-      "images/pce/pce-tengai-makyou-ii-manjimaru-s1.png",
       "images/pce/pce-tengai-makyou-ii-manjimaru-x1.png",
+      "images/pce/pce-tengai-makyou-ii-manjimaru-y1.png",
+      "images/pce/pce-tengai-makyou-ii-manjimaru-y2.png",
+      "images/pce/pce-tengai-makyou-ii-manjimaru-y3.png",
+      "images/pce/pce-tengai-makyou-ii-manjimaru-y4.png",
       "images/pce/pce-tengai-makyou-ii-manjimaru-title.png"
     ],
     "cover": "images/pce/pce-tengai-makyou-ii-manjimaru-box.jpg",
@@ -274,7 +277,10 @@
     "is2D": true,
     "screenshots": [
       "images/pce/pce-kaze-no-densetsu-xanadu-x1.png",
-      "images/pce/pce-kaze-no-densetsu-xanadu-s1.png",
+      "images/pce/pce-kaze-no-densetsu-xanadu-y1.png",
+      "images/pce/pce-kaze-no-densetsu-xanadu-y2.png",
+      "images/pce/pce-kaze-no-densetsu-xanadu-y3.png",
+      "images/pce/pce-kaze-no-densetsu-xanadu-y4.png",
       "images/pce/pce-kaze-no-densetsu-xanadu-title.png"
     ],
     "cover": "images/pce/pce-kaze-no-densetsu-xanadu-box.jpg",
@@ -1174,6 +1180,9 @@
       "images/pce/pce-ys-iii-x1.png",
       "images/pce/pce-ys-iii-x2.jpg",
       "images/pce/pce-ys-iii-x3.jpg",
+      "images/pce/pce-ys-iii-y1.png",
+      "images/pce/pce-ys-iii-y2.png",
+      "images/pce/pce-ys-iii-y3.png",
       "images/pce/pce-ys-iii-title.png"
     ],
     "cover": "images/pce/pce-ys-iii-box.jpg",
@@ -1349,6 +1358,9 @@
       "images/pce/pce-tenshi-no-uta-s1.png",
       "images/pce/pce-tenshi-no-uta-x1.png",
       "images/pce/pce-tenshi-no-uta-x2.png",
+      "images/pce/pce-tenshi-no-uta-y1.png",
+      "images/pce/pce-tenshi-no-uta-y2.png",
+      "images/pce/pce-tenshi-no-uta-y3.png",
       "images/pce/pce-tenshi-no-uta-title.png"
     ],
     "cover": "images/pce/pce-tenshi-no-uta-box.jpg",
@@ -1570,7 +1582,11 @@
     "is2D": true,
     "screenshots": [
       "images/pce/pce-legend-of-heroes-ii-s1.png",
-      "images/pce/pce-legend-of-heroes-ii-x1.png",
+      "images/pce/pce-legend-of-heroes-ii-y1.png",
+      "images/pce/pce-legend-of-heroes-ii-y2.png",
+      "images/pce/pce-legend-of-heroes-ii-y3.png",
+      "images/pce/pce-legend-of-heroes-ii-y4.png",
+      "images/pce/pce-legend-of-heroes-ii-y5.png",
       "images/pce/pce-legend-of-heroes-ii-title.png"
     ],
     "cover": "images/pce/pce-legend-of-heroes-ii-box.jpg",
@@ -1662,6 +1678,9 @@
       "images/pce/pce-legend-of-heroes-s1.png",
       "images/pce/pce-legend-of-heroes-s2.png",
       "images/pce/pce-legend-of-heroes-m1.png",
+      "images/pce/pce-legend-of-heroes-y1.png",
+      "images/pce/pce-legend-of-heroes-y2.png",
+      "images/pce/pce-legend-of-heroes-y3.png",
       "images/pce/pce-legend-of-heroes-title.png"
     ],
     "cover": "images/pce/pce-legend-of-heroes-box.jpg",
@@ -1735,6 +1754,9 @@
       "images/pce/pce-lodoss-war-s1.png",
       "images/pce/pce-lodoss-war-x1.png",
       "images/pce/pce-lodoss-war-m1.jpg",
+      "images/pce/pce-lodoss-war-y1.png",
+      "images/pce/pce-lodoss-war-y2.png",
+      "images/pce/pce-lodoss-war-y3.png",
       "images/pce/pce-lodoss-war-title.png"
     ],
     "cover": "images/pce/pce-lodoss-war-box.jpg",
@@ -1770,6 +1792,9 @@
     "screenshots": [
       "images/pce/pce-gulliver-boy-x1.png",
       "images/pce/pce-gulliver-boy-x2.png",
+      "images/pce/pce-gulliver-boy-y1.png",
+      "images/pce/pce-gulliver-boy-y2.png",
+      "images/pce/pce-gulliver-boy-y3.png",
       "images/pce/pce-gulliver-boy-title.png"
     ],
     "cover": "images/pce/pce-gulliver-boy-box.jpg",
@@ -1856,6 +1881,10 @@
       "images/pce/pce-cosmic-fantasy-3-s1.png",
       "images/pce/pce-cosmic-fantasy-3-x1.png",
       "images/pce/pce-cosmic-fantasy-3-m1.png",
+      "images/pce/pce-cosmic-fantasy-3-y1.png",
+      "images/pce/pce-cosmic-fantasy-3-y2.png",
+      "images/pce/pce-cosmic-fantasy-3-y3.png",
+      "images/pce/pce-cosmic-fantasy-3-y4.png",
       "images/pce/pce-cosmic-fantasy-3-title.png"
     ],
     "cover": "images/pce/pce-cosmic-fantasy-3-box.jpg",

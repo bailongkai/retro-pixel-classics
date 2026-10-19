@@ -711,6 +711,10 @@
       "images/ss/ss-castlevania-sotn-s1.png",
       "images/ss/ss-castlevania-sotn-x1.png",
       "images/ss/ss-castlevania-sotn-x2.png",
+      "images/ss/ss-castlevania-sotn-y1.jpg",
+      "images/ss/ss-castlevania-sotn-y2.jpg",
+      "images/ss/ss-castlevania-sotn-y3.png",
+      "images/ss/ss-castlevania-sotn-y4.png",
       "images/ss/ss-castlevania-sotn-title.png"
     ],
     "cover": "images/ss/ss-castlevania-sotn-box.jpg",
@@ -1153,6 +1157,11 @@
       "images/ss/ss-phantasy-star-collection-s1.png",
       "images/ss/ss-phantasy-star-collection-x1.png",
       "images/ss/ss-phantasy-star-collection-x2.png",
+      "images/ss/ss-phantasy-star-collection-y1.jpg",
+      "images/ss/ss-phantasy-star-collection-y2.jpg",
+      "images/ss/ss-phantasy-star-collection-y3.png",
+      "images/ss/ss-phantasy-star-collection-y4.png",
+      "images/ss/ss-phantasy-star-collection-y5.jpg",
       "images/ss/ss-phantasy-star-collection-title.png"
     ],
     "cover": "images/ss/ss-phantasy-star-collection-box.jpg",
@@ -1434,6 +1443,9 @@
       "images/ss/ss-lunar-sssc-s1.png",
       "images/ss/ss-lunar-sssc-x1.jpg",
       "images/ss/ss-lunar-sssc-x2.jpg",
+      "images/ss/ss-lunar-sssc-y1.jpg",
+      "images/ss/ss-lunar-sssc-y2.png",
+      "images/ss/ss-lunar-sssc-y3.jpg",
       "images/ss/ss-lunar-sssc-title.png"
     ],
     "cover": "images/ss/ss-lunar-sssc-box.jpg",
@@ -1524,6 +1536,10 @@
       "images/ss/ss-falcom-classics-2-s1.png",
       "images/ss/ss-falcom-classics-2-x1.png",
       "images/ss/ss-falcom-classics-2-x2.png",
+      "images/ss/ss-falcom-classics-2-y1.png",
+      "images/ss/ss-falcom-classics-2-y2.jpg",
+      "images/ss/ss-falcom-classics-2-y3.png",
+      "images/ss/ss-falcom-classics-2-y4.png",
       "images/ss/ss-falcom-classics-2-title.png"
     ],
     "cover": "images/ss/ss-falcom-classics-2-box.jpg",
@@ -2321,6 +2337,11 @@
     "screenshots": [
       "images/ss/ss-linkle-liver-story-s1.png",
       "images/ss/ss-linkle-liver-story-x1.png",
+      "images/ss/ss-linkle-liver-story-y1.jpg",
+      "images/ss/ss-linkle-liver-story-y2.jpg",
+      "images/ss/ss-linkle-liver-story-y3.jpg",
+      "images/ss/ss-linkle-liver-story-y4.jpg",
+      "images/ss/ss-linkle-liver-story-y5.jpg",
       "images/ss/ss-linkle-liver-story-title.png"
     ],
     "cover": "images/ss/ss-linkle-liver-story-box.jpg",

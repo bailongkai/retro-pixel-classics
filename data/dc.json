@@ -1524,6 +1524,8 @@
     "screenshots": [
       "images/dc/dc-sakura-taisen-s1.png",
       "images/dc/dc-sakura-taisen-x1.png",
+      "images/dc/dc-sakura-taisen-y1.jpg",
+      "images/dc/dc-sakura-taisen-y2.jpg",
       "images/dc/dc-sakura-taisen-title.png"
     ],
     "cover": "images/dc/dc-sakura-taisen-box.jpg"
@@ -1903,6 +1905,9 @@
       "images/dc/dc-silver-s1.png",
       "images/dc/dc-silver-x1.jpg",
       "images/dc/dc-silver-x2.jpg",
+      "images/dc/dc-silver-y1.jpg",
+      "images/dc/dc-silver-y2.png",
+      "images/dc/dc-silver-y3.jpg",
       "images/dc/dc-silver-title.png"
     ],
     "cover": "images/dc/dc-silver-box.jpg"
