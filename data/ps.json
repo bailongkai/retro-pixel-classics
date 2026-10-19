@@ -2429,6 +2429,50 @@
     "cover": "images/ps/ps-azure-dreams-box.webp"
   },
   {
+    "id": "ps-little-princess",
+    "title": "Little Princess: Marl Oukoku no Ningyou Hime 2",
+    "titleZh": "小公主 玛尔王国的人偶公主2",
+    "titleJa": "リトルプリンセス マール王国の人形姫2",
+    "year": 1999,
+    "developer": "Nippon Ichi Software",
+    "publisher": "Nippon Ichi Software",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "音乐剧",
+      "童话"
+    ],
+    "players": "1",
+    "tagline": "会唱歌的童话续篇，日本一最甜的像素绘本",
+    "description": "《玛尔王国的人偶公主》的续作，这一次的主角是柯尔奈特与王子的女儿——活泼过头的小公主克露露！为了寻找属于自己的\"白马王子\"，这位不按常理出牌的公主踏上了一场笑料百出的冒险。\n\n日本一将2D像素美术推向新高度：斜俯视角的城镇、宫殿与森林色彩明艳，角色动作丰富可爱，宛如一本会动的童话绘本。剧情中依旧穿插大量原创歌曲，佐藤天平的音乐让整部作品像一出欢乐的音乐剧。战斗简单轻松，重点在于享受故事与画面。\n\n前作角色纷纷客串，粉丝会心一笑。想看PS上最精致可爱的像素画面？就是它了。",
+    "highlights": [
+      "斜俯视角的精致2D像素城镇",
+      "剧情中穿插原创歌曲的音乐剧演出",
+      "活泼搞笑的小公主主角",
+      "前作角色纷纷客串登场"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "白银殿堂",
+        "quote": "获得Fami通交叉评测白银殿堂认证，童话风RPG续作佳品"
+      }
+    ],
+    "editorScore": 8.4,
+    "is2D": true,
+    "screenshots": [
+      "images/ps/ps-little-princess-s1.webp",
+      "images/ps/ps-little-princess-x1.webp",
+      "images/ps/ps-little-princess-x2.webp",
+      "images/ps/ps-little-princess-x4.webp",
+      "images/ps/ps-little-princess-x6.webp",
+      "images/ps/ps-little-princess-title.webp"
+    ],
+    "cover": "images/ps/ps-little-princess-box.webp",
+    "styleMatch": 3,
+    "styleNote": "斜俯视角像素城镇宫殿，可自由漫步"
+  },
+  {
     "id": "ps-abes-oddysee",
     "title": "Oddworld: Abe's Oddysee",
     "titleZh": "奇异世界：阿比逃亡记",
@@ -2539,6 +2583,160 @@
     "styleNote": "横版像素动作，无城镇"
   },
   {
+    "id": "ps-ore-no-shikabane",
+    "title": "Ore no Shikabane wo Koete Yuke",
+    "titleZh": "踏着我的尸体前进",
+    "titleJa": "俺の屍を越えてゆけ",
+    "year": 1999,
+    "developer": "Alfa System / MARS Corporation",
+    "publisher": "Sony Computer Entertainment",
+    "genre": "角色扮演",
+    "tags": [
+      "和风",
+      "家族传承",
+      "日版独占"
+    ],
+    "players": "1",
+    "tagline": "短命一族的血脉接力，和风RPG的异色杰作",
+    "description": "平安时代的京都，一个武士家族被恶鬼朱点童子下了两道诅咒：\"短命之咒\"让族人只能活两年左右，\"断种之咒\"让他们无法与人类结合生子。为了复仇，家族只能与天上的神明\"交神\"，一代又一代地把意志传承下去。\n\n玩家扮演的不是单个英雄，而是整个家族：培养子嗣、选择交神对象、分配修行与出阵……亲手送走一位位族人的离别场面令人心酸。和风浮世绘般的2D美术独具韵味，战斗采用回合制，迷宫探索则限制在有限的月份内。\n\n由桝田省治策划，被誉为\"PS上最感人的RPG之一\"。一款真正与众不同的作品。",
+    "highlights": [
+      "跨越世代的家族传承系统",
+      "\"交神\"与短命诅咒的独特设定",
+      "和风浮世绘般的2D美术",
+      "离别与传承带来的强烈情感冲击"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "28/40",
+        "quote": "独特的家族传承系统令人印象深刻"
+      }
+    ],
+    "editorScore": 8.3,
+    "is2D": true,
+    "screenshots": [
+      "images/ps/ps-ore-no-shikabane-s1.webp",
+      "images/ps/ps-ore-no-shikabane-x2.webp",
+      "images/ps/ps-ore-no-shikabane-x3.webp",
+      "images/ps/ps-ore-no-shikabane-x4.webp",
+      "images/ps/ps-ore-no-shikabane-x5.webp",
+      "images/ps/ps-ore-no-shikabane-x6.webp",
+      "images/ps/ps-ore-no-shikabane-title.webp"
+    ],
+    "cover": "images/ps/ps-ore-no-shikabane-box.webp",
+    "styleMatch": 2,
+    "styleNote": "和风2D像素RPG，京都城镇为菜单式"
+  },
+  {
+    "id": "ps-saiyuki-journey-west",
+    "title": "Saiyuki: Journey West",
+    "titleZh": "西游记",
+    "titleJa": "西遊記",
+    "year": 1999,
+    "developer": "Koei",
+    "publisher": "Koei",
+    "genre": "战略角色扮演",
+    "tags": [
+      "像素",
+      "战棋",
+      "中国神话"
+    ],
+    "players": "1",
+    "tagline": "取经路上八十一难，光荣的西游战棋",
+    "description": "光荣以《西游记》为题材打造的战棋RPG！玩家扮演护送三藏法师西行取经的\"护法\"，率领孙悟空、猪八戒、沙悟净等伙伴，一路降妖伏魔。\n\n战斗采用斜视角战棋形式，像素角色细腻生动。最大的特色是\"变身\"系统：主角可变身为强大的神兽形态，扭转战局；还能召唤各路神仙助阵。旅途中经过各地城镇，可购买装备、招募伙伴，剧情忠于原著又有不少原创发挥。\n\n难度适中、节奏轻快，是喜欢中国神话题材与战棋游戏的玩家不可错过的冷门佳作。",
+    "highlights": [
+      "西游记题材的战棋RPG",
+      "主角变身神兽的逆转系统",
+      "召唤神仙助阵",
+      "细腻的像素角色与斜视角战场"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "31/40",
+        "quote": "西游题材与战棋系统结合得很好"
+      },
+      {
+        "source": "IGN",
+        "score": "8.4/10",
+        "quote": "被低估的优秀战略RPG"
+      },
+      {
+        "source": "GameSpot",
+        "score": "8.1/10",
+        "quote": "易于上手又不乏深度的战棋游戏"
+      }
+    ],
+    "editorScore": 8.3,
+    "is2D": true,
+    "screenshots": [
+      "images/ps/ps-saiyuki-journey-west-s1.webp",
+      "images/ps/ps-saiyuki-journey-west-x1.webp",
+      "images/ps/ps-saiyuki-journey-west-x2.webp",
+      "images/ps/ps-saiyuki-journey-west-x3.webp",
+      "images/ps/ps-saiyuki-journey-west-m1.webp",
+      "images/ps/ps-saiyuki-journey-west-m2.webp",
+      "images/ps/ps-saiyuki-journey-west-title.webp"
+    ],
+    "cover": "images/ps/ps-saiyuki-journey-west-box.webp",
+    "styleMatch": 2,
+    "styleNote": "像素战棋，城镇为菜单式"
+  },
+  {
+    "id": "ps-gunners-heaven",
+    "title": "Rapid Reload",
+    "titleZh": "枪手天堂",
+    "titleJa": "ガンナーズヘヴン",
+    "year": 1995,
+    "developer": "Media.Vision",
+    "publisher": "Sony Computer Entertainment",
+    "genre": "动作",
+    "tags": [
+      "像素",
+      "横版射击",
+      "高速"
+    ],
+    "players": "1",
+    "tagline": "PS版的火枪英雄，像素爆炸的弹幕狂欢",
+    "description": "PS发售初期就登场的横版射击动作游戏，被许多玩家称作\"PS上的《火枪英雄》\"！主角阿克塞尔与露卡两位赏金猎人，为了争夺神秘宝物\"潘多拉\"而闯入敌阵。\n\n画面以精致的2D像素绘制，爆炸与弹幕铺天盖地，节奏极快。四种武器可随时切换，钩爪可以挂在天花板上射击，BOSS战更是一场比一场夸张。由《狂野历险》的Media.Vision开发，音乐同样充满活力。\n\n游戏流程较短但难度不低，在欧洲以《Rapid Reload》之名发售，北美则从未推出。想找一款纯粹爽快的2D射击动作，它绝对值得一试。",
+    "highlights": [
+      "\"PS版火枪英雄\"式的高速射击动作",
+      "四种武器随时切换",
+      "满屏爆炸与华丽BOSS战",
+      "PS初期的2D像素佳作"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "26/40",
+        "quote": "节奏爽快的射击动作，但流程偏短"
+      },
+      {
+        "source": "CVG",
+        "score": "89/100",
+        "quote": "画面火爆、手感爽快的出色动作游戏"
+      },
+      {
+        "source": "Edge",
+        "score": "6/10",
+        "quote": "动作火爆，但缺乏新意"
+      }
+    ],
+    "editorScore": 8.1,
+    "is2D": true,
+    "screenshots": [
+      "images/ps/ps-gunners-heaven-s1.webp",
+      "images/ps/ps-gunners-heaven-x1.webp",
+      "images/ps/ps-gunners-heaven-x2.webp",
+      "images/ps/ps-gunners-heaven-x3.webp",
+      "images/ps/ps-gunners-heaven-m1.webp",
+      "images/ps/ps-gunners-heaven-title.webp"
+    ],
+    "cover": "images/ps/ps-gunners-heaven-box.webp",
+    "styleMatch": 1,
+    "styleNote": "横版像素射击动作，无城镇"
+  },
+  {
     "id": "ps-mega-man-8",
     "title": "Mega Man 8",
     "titleZh": "洛克人8",
@@ -2647,6 +2845,99 @@
       "images/ps/ps-thousand-arms-title.webp"
     ],
     "cover": "images/ps/ps-thousand-arms-box.webp"
+  },
+  {
+    "id": "ps-harmful-park",
+    "title": "Harmful Park",
+    "titleZh": "危险乐园",
+    "titleJa": "ハームフルパーク",
+    "year": 1997,
+    "developer": "Sky Think System",
+    "publisher": "Sky Think System",
+    "genre": "射击",
+    "tags": [
+      "像素",
+      "可爱",
+      "横版射击"
+    ],
+    "players": "1-2",
+    "tagline": "糖果与蛋糕满天飞，最可爱的游乐园射击",
+    "description": "一座被疯狂科学家改造的游乐园，到处都是会攻击人的甜点、玩具和机械！两位少女驾驶飞行器，要拯救被占领的乐园。\n\n这是一款充满童趣的横版射击游戏：武器包括果冻弹、蛋糕炸弹、豆子炮等零食系弹药，敌人有巨大的布丁、过山车、旋转木马……色彩缤纷的2D像素画面宛如一场嘉年华，每个关卡都充满意想不到的笑点。支持双人同时游玩，乐趣倍增。\n\n本作只在日本发售，产量稀少，如今已是收藏家追捧的珍品。想体验一下\"可爱系射击\"的极致？就是它了。",
+    "highlights": [
+      "游乐园主题的可爱横版射击",
+      "零食系武器与奇葩敌人",
+      "色彩缤纷的2D像素画面",
+      "支持双人同时游玩"
+    ],
+    "reviews": [
+      {
+        "source": "电击PlayStation",
+        "score": "75/100, 80/100",
+        "quote": "可爱的画风与有趣的关卡设计获得好评"
+      }
+    ],
+    "editorScore": 8.0,
+    "is2D": true,
+    "screenshots": [
+      "images/ps/ps-harmful-park-s1.webp",
+      "images/ps/ps-harmful-park-x1.webp",
+      "images/ps/ps-harmful-park-x2.webp",
+      "images/ps/ps-harmful-park-x3.webp",
+      "images/ps/ps-harmful-park-title.webp"
+    ],
+    "cover": "images/ps/ps-harmful-park-box.webp",
+    "styleMatch": 0,
+    "styleNote": "横版射击，类型不同"
+  },
+  {
+    "id": "ps-panzer-bandit",
+    "title": "Panzer Bandit",
+    "titleZh": "装甲强盗",
+    "titleJa": "パンツァーバンディット",
+    "year": 1997,
+    "developer": "Fill-in-Cafe",
+    "publisher": "Banpresto",
+    "genre": "动作清版",
+    "tags": [
+      "像素",
+      "格斗",
+      "双打"
+    ],
+    "players": "1-2",
+    "tagline": "格斗游戏般的连段，PS上的像素清版佳作",
+    "description": "由Fill-in-Cafe开发的横版清版动作游戏，在PS上颇为少见！为了阻止邪恶博士的阴谋，主角们闯入一个个关卡，用拳脚击败成群敌人与巨型机械BOSS。\n\n本作的战斗手感接近格斗游戏：搓招必杀技、空中连段、投技一应俱全，打出高连击数时爽快感满点。2D像素角色动作丰富，特效华丽，关卡风格多变；可选择多名性格各异的角色，支持双人合作。\n\n虽然只在日本发售、当年销量不高，但它如今被誉为PS上最值得一玩的像素清版游戏之一。喜欢《怒之铁拳》的朋友千万别错过。",
+    "highlights": [
+      "格斗游戏式的搓招与连段",
+      "华丽的2D像素动作与特效",
+      "多名个性角色可选",
+      "支持双人合作"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "26/40",
+        "quote": "格斗式的操作颇具深度"
+      },
+      {
+        "source": "电击PlayStation",
+        "score": "90/100, 60/100",
+        "quote": "评价两极，但动作手感获得好评"
+      }
+    ],
+    "editorScore": 8.0,
+    "is2D": true,
+    "screenshots": [
+      "images/ps/ps-panzer-bandit-s1.webp",
+      "images/ps/ps-panzer-bandit-x1.webp",
+      "images/ps/ps-panzer-bandit-x2.webp",
+      "images/ps/ps-panzer-bandit-x3.webp",
+      "images/ps/ps-panzer-bandit-m1.webp",
+      "images/ps/ps-panzer-bandit-m2.webp",
+      "images/ps/ps-panzer-bandit-title.webp"
+    ],
+    "cover": "images/ps/ps-panzer-bandit-box.webp",
+    "styleMatch": 1,
+    "styleNote": "横版像素清版动作，无城镇"
   },
   {
     "id": "ps-rhapsody",

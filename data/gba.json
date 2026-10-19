@@ -2009,6 +2009,87 @@
     "styleNote": "像素机战战棋，无城镇探索"
   },
   {
+    "id": "gba-oriental-blue",
+    "title": "Oriental Blue: Ao no Tengai",
+    "titleZh": "东方之蓝 青之天外",
+    "titleJa": "オリエンタルブルー 青の天外",
+    "year": 2003,
+    "developer": "Red Entertainment / Hudson Soft",
+    "publisher": "Nintendo",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "东方幻想",
+      "自由剧本",
+      "日版独占"
+    ],
+    "players": "1",
+    "tagline": "天外魔境异色篇，东方绘卷般的像素世界",
+    "description": "《天外魔境》系列一向以“伪日本”的奇想世界观闻名，而GBA上的《青之天外》把舞台扩展到整个东亚：仿照日本、中国、蒙古、西藏与东南亚的诸国风光，在像素画面中铺展成一幅色彩浓郁的东方绘卷。\n\n玩家可选择少年天乱或少女葵作为主角，在俯视角的城镇、寺院与原野间自由旅行。本作采用自由剧本制，事件推进顺序与选择都会影响旅途走向，伙伴招募也随之变化；回合制战斗中妖怪造型夸张生动，颇有系列一贯的怪诞趣味。\n\n原本计划的续作“红之天外”最终未能问世，让本作更显珍贵。喜欢和风、中国风像素RPG的玩家，这是一块被埋没的宝石。",
+    "highlights": [
+      "横跨东亚诸国的东方奇幻世界",
+      "男女主角可选",
+      "自由剧本制，选择影响旅程",
+      "造型夸张的妖怪与回合制战斗"
+    ],
+    "reviews": [],
+    "editorScore": 8.6,
+    "is2D": true,
+    "screenshots": [
+      "images/gba/gba-oriental-blue-s1.webp",
+      "images/gba/gba-oriental-blue-x1.webp",
+      "images/gba/gba-oriental-blue-x2.webp",
+      "images/gba/gba-oriental-blue-x3.webp",
+      "images/gba/gba-oriental-blue-title.webp"
+    ],
+    "cover": "images/gba/gba-oriental-blue-box.webp",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素JRPG，东方城镇自由探索"
+  },
+  {
+    "id": "gba-tomato-adventure",
+    "title": "Tomato Adventure",
+    "titleZh": "番茄大冒险",
+    "titleJa": "トマトアドベンチャー",
+    "year": 2002,
+    "developer": "AlphaDream",
+    "publisher": "Nintendo",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "童话",
+      "小游戏战斗",
+      "日版独占"
+    ],
+    "players": "1",
+    "tagline": "马里奥RPG前传般的酸甜童话RPG",
+    "description": "在打造《马里奥与路易吉RPG》之前，AlphaDream先在GBA上推出了这款充满童趣的原创RPG。故事发生在番茄当道的“番茄酱王国”，讨厌番茄的少年德米尔，为了救回被抓走的青梅竹马，踏上了挑战国王的冒险。\n\n画面色彩鲜艳、角色圆润可爱，俯视角的村镇里尽是古怪又可爱的居民。最大特色是“机关（Gimmick）”战斗：每种攻击都是一个需要即时操作的小游戏，转圈、连打、看准时机按键，打得好伤害就高——日后马里奥RPG动作指令的雏形在此可见。\n\n本作只在日本发售，Fami通评测中四位编辑都选为当月推荐，是GBA早期最有个性的RPG之一。",
+    "highlights": [
+      "AlphaDream在马里奥RPG前的原创作品",
+      "以小游戏操作发动攻击的战斗",
+      "色彩鲜艳的童话像素世界",
+      "可收集与升级的多种“机关”"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "33/40",
+        "quote": "四位编辑一致推荐，童趣与系统创意兼具"
+      }
+    ],
+    "editorScore": 8.6,
+    "is2D": true,
+    "screenshots": [
+      "images/gba/gba-tomato-adventure-s1.webp",
+      "images/gba/gba-tomato-adventure-s2.webp",
+      "images/gba/gba-tomato-adventure-x1.webp",
+      "images/gba/gba-tomato-adventure-title.webp"
+    ],
+    "cover": "images/gba/gba-tomato-adventure-box.webp",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG，童话村镇自由探索"
+  },
+  {
     "id": "gba-drill-dozer",
     "title": "Drill Dozer",
     "titleZh": "钻头少女",
@@ -2832,6 +2913,62 @@
     "styleNote": "俯视角像素JRPG，城镇与大地图"
   },
   {
+    "id": "gba-hamtaro-ham-ham-heartbreak",
+    "title": "Hamtaro: Ham-Ham Heartbreak",
+    "titleZh": "哈姆太郎 爱心大冒险",
+    "titleJa": "とっとこハム太郎3 ラブラブ大冒険でちゅ",
+    "year": 2002,
+    "developer": "Pax Softnica",
+    "publisher": "Nintendo",
+    "genre": "冒险",
+    "tags": [
+      "像素",
+      "可爱",
+      "解谜",
+      "收集词汇"
+    ],
+    "players": "1",
+    "tagline": "仓鼠也有爱情烦恼！可爱满分的俯视角冒险",
+    "description": "别被动画授权的外表骗了，这款《哈姆太郎》是GBA上相当有口碑的冒险游戏。坏心眼的仓鼠“史班特”把仓鼠情侣们拆散，哈姆太郎和小蝶要跑遍小镇的公园、学校、海边，帮大家重修旧好。\n\n本作的核心是“仓鼠语”：通过与居民交谈学会各种“动作词汇”，比如挖洞、跳舞、打招呼，再在合适的地方使用它们来解谜。搜集上百个词汇和可爱的动作动画，乐趣十足。\n\n俯视角的小镇画面明亮细腻，节奏轻松，适合想放松心情或与孩子一同游玩的玩家。",
+    "highlights": [
+      "学习“仓鼠语”词汇来解谜的独特玩法",
+      "俯视角小镇与多个场景自由探索",
+      "上百种可爱动作动画",
+      "轻松温馨的剧情"
+    ],
+    "reviews": [
+      {
+        "source": "IGN",
+        "score": "8/10",
+        "quote": "面向低龄却设计巧妙，大人也能乐在其中"
+      },
+      {
+        "source": "Eurogamer",
+        "score": "8/10",
+        "quote": "可爱迷人、出乎意料的冒险佳作"
+      },
+      {
+        "source": "Fami通",
+        "score": "29/40",
+        "quote": "可爱的仓鼠世界与词汇收集玩法"
+      }
+    ],
+    "editorScore": 8.0,
+    "is2D": true,
+    "screenshots": [
+      "images/gba/gba-hamtaro-ham-ham-heartbreak-s1.webp",
+      "images/gba/gba-hamtaro-ham-ham-heartbreak-s2.png",
+      "images/gba/gba-hamtaro-ham-ham-heartbreak-s3.webp",
+      "images/gba/gba-hamtaro-ham-ham-heartbreak-x1.webp",
+      "images/gba/gba-hamtaro-ham-ham-heartbreak-x2.webp",
+      "images/gba/gba-hamtaro-ham-ham-heartbreak-m1.webp",
+      "images/gba/gba-hamtaro-ham-ham-heartbreak-title.png"
+    ],
+    "cover": "images/gba/gba-hamtaro-ham-ham-heartbreak-box.webp",
+    "styleMatch": 2,
+    "styleNote": "俯视角像素小镇冒险，无战斗与商店"
+  },
+  {
     "id": "gba-lufia-ruins-of-lore",
     "title": "Lufia: The Ruins of Lore",
     "titleZh": "苏醒的遗迹 艾斯特波利斯外传",
@@ -2886,5 +3023,56 @@
     "cover": "images/gba/gba-lufia-ruins-of-lore-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素JRPG，城镇迷宫道具解谜"
+  },
+  {
+    "id": "gba-cima-the-enemy",
+    "title": "CIMA: The Enemy",
+    "titleZh": "CIMA 边境物语",
+    "titleJa": "フロンティアストーリーズ",
+    "year": 2003,
+    "developer": "Neverland",
+    "publisher": "Natsume / Marvelous Entertainment",
+    "genre": "动作角色扮演",
+    "tags": [
+      "像素",
+      "护送",
+      "斜视角",
+      "隐藏佳作"
+    ],
+    "players": "1",
+    "tagline": "护送乘客闯险境的异色ARPG",
+    "description": "出自《艾斯特波利斯》系列开发商Neverland之手，《CIMA》讲述在边境铁路上担任“守护者”的少年亚克，要保护一群被神秘种族“CIMA”掳走的乘客平安脱险。\n\n游戏以斜视角像素画面呈现，玩家要在迷宫中同时指挥多名乘客：下达跟随、等待、分组移动的指令，利用每位乘客的特殊能力开启机关，同时击退来袭的CIMA。战斗是即时动作，而护送调度又带有浓厚的策略味道。\n\n玩法独特、难度不低，系统需要一点时间适应，但掌握后颇有成就感，是GBA上少有人知的创意之作。",
+    "highlights": [
+      "护送多名乘客的策略调度",
+      "即时动作战斗",
+      "每位乘客都有独特能力",
+      "Neverland出品的冷门佳作"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "31/40",
+        "quote": "护送玩法新颖，策略性十足"
+      },
+      {
+        "source": "Game Informer",
+        "score": "8/10",
+        "quote": "独特又富挑战性的动作RPG"
+      },
+      {
+        "source": "IGN",
+        "score": "6/10",
+        "quote": "创意不错，但操控略显繁琐"
+      }
+    ],
+    "editorScore": 7.9,
+    "is2D": true,
+    "screenshots": [
+      "images/gba/gba-cima-the-enemy-s1.webp",
+      "images/gba/gba-cima-the-enemy-title.webp"
+    ],
+    "cover": "images/gba/gba-cima-the-enemy-box.webp",
+    "styleMatch": 2,
+    "styleNote": "斜视角像素ARPG，迷宫护送无城镇"
   }
 ]

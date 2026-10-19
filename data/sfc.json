@@ -705,6 +705,61 @@
     "styleNote": "俯视角像素城镇与世界地图"
   },
   {
+    "id": "sfc-tales-of-phantasia",
+    "title": "Tales of Phantasia",
+    "titleZh": "幻想传说",
+    "titleJa": "テイルズ オブ ファンタジア",
+    "year": 1995,
+    "developer": "Wolf Team",
+    "publisher": "Namco",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "即时战斗",
+      "主题歌"
+    ],
+    "players": "1",
+    "tagline": "会唱歌的卡带，传说系列的起点",
+    "description": "开机画面响起吉田由香里演唱的主题歌《梦は终わらない》，所有人都惊呆了——一盘SFC卡带居然能唱歌！《幻想传说》以48Mbit大容量，把语音、动画与华丽像素画面塞进了16位机，被誉为SFC机能极限之作。\n\n少年克雷斯为了向魔王达奥斯复仇，穿越过去与未来，与弓箭手、召唤师、魔法使们并肩作战。独创的“线性动作战斗系统（LMBS）”让战斗像格斗游戏一样即时操作，连招、奥义爽快至极。俯视角的村镇与原野色彩鲜艳，藤岛康介的人设更是迷倒一片。\n\n这是“传说”系列的开山之作，也是所有日式ARPG爱好者必须朝圣的经典。",
+    "highlights": [
+      "SFC卡带实现主题歌演唱",
+      "即时动作战斗系统LMBS",
+      "穿越时空的史诗剧情",
+      "藤岛康介人物设计"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "30/40",
+        "quote": "编辑给出8、6、9、7，惊叹其技术表现"
+      },
+      {
+        "source": "GameFan",
+        "score": "258/300",
+        "quote": "三位评测员对进口版给予高度评价"
+      },
+      {
+        "source": "Cubed3",
+        "score": "9/10",
+        "quote": "回顾评测称其为16位RPG的杰作"
+      }
+    ],
+    "editorScore": 9.3,
+    "is2D": true,
+    "screenshots": [
+      "images/sfc/sfc-tales-of-phantasia-s1.webp",
+      "images/sfc/sfc-tales-of-phantasia-x1.webp",
+      "images/sfc/sfc-tales-of-phantasia-x2.webp",
+      "images/sfc/sfc-tales-of-phantasia-x3.webp",
+      "images/sfc/sfc-tales-of-phantasia-x4.webp",
+      "images/sfc/sfc-tales-of-phantasia-m1.webp",
+      "images/sfc/sfc-tales-of-phantasia-title.webp"
+    ],
+    "cover": "images/sfc/sfc-tales-of-phantasia-box.webp",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG，村镇原野自由探索"
+  },
+  {
     "id": "sfc-fire-emblem-genealogy",
     "title": "Fire Emblem: Genealogy of the Holy War",
     "titleZh": "火焰纹章：圣战之系谱",
@@ -1973,6 +2028,43 @@
     "styleNote": "俯视角像素RPG，城镇迷宫精致"
   },
   {
+    "id": "sfc-metal-max-returns",
+    "title": "Metal Max Returns",
+    "titleZh": "重装机兵 Returns",
+    "titleJa": "メタルマックスリターンズ",
+    "year": 1995,
+    "developer": "Kuusoukagaku / Crea-Tech",
+    "publisher": "Data East",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "战车改装",
+      "自由度"
+    ],
+    "players": "1",
+    "tagline": "“屠龙已经厌倦了！”战车猎人归来",
+    "description": "“屠龙已经厌倦了！”——这句宣传语是《重装机兵》系列的灵魂。在被战争摧毁的末世荒原上，一心想成为“怪物猎人”的少年离家出走，与机械师、战士结伴，驾驶战车追捕悬赏怪物。\n\n本作是FC名作的SFC重制版，画面与音乐全面强化，战斗加入了背景，难度也更加友好。最大的魅力是极高的自由度：没有强制的主线，你可以四处接悬赏、改造战车的底盘、引擎、主炮与副炮，甚至随时回家结束游戏。俯视角的废墟小镇、酒吧与商店充满末日风情。\n\n“重装机兵”在国内拥有无数老粉，这一版是体验初代故事的最佳选择。",
+    "highlights": [
+      "战车自由改装",
+      "悬赏通缉怪物猎杀",
+      "无强制主线的高自由度",
+      "末世废土风格的城镇"
+    ],
+    "reviews": [],
+    "editorScore": 8.8,
+    "is2D": true,
+    "screenshots": [
+      "images/sfc/sfc-metal-max-returns-s1.webp",
+      "images/sfc/sfc-metal-max-returns-x1.webp",
+      "images/sfc/sfc-metal-max-returns-x2.webp",
+      "images/sfc/sfc-metal-max-returns-x3.webp",
+      "images/sfc/sfc-metal-max-returns-title.webp"
+    ],
+    "cover": "images/sfc/sfc-metal-max-returns-box.webp",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG，废土城镇自由探索"
+  },
+  {
     "id": "sfc-tengai-makyou-zero",
     "title": "Tengai Makyō Zero",
     "titleZh": "天外魔境ZERO",
@@ -2121,6 +2213,49 @@
     "cover": "images/sfc/sfc-bahamut-lagoon-box.webp",
     "styleMatch": 2,
     "styleNote": "俯视战棋+可走动的飞空艇据点"
+  },
+  {
+    "id": "sfc-marvelous",
+    "title": "Marvelous: Mouhitotsu no Takarajima",
+    "titleZh": "奇妙的另一座宝岛",
+    "titleJa": "マーヴェラス 〜もうひとつの宝島〜",
+    "year": 1996,
+    "developer": "Nintendo R&D2 / SRD",
+    "publisher": "Nintendo",
+    "genre": "动作冒险",
+    "tags": [
+      "俯视角",
+      "解谜",
+      "三人协作"
+    ],
+    "players": "1",
+    "tagline": "青沼英二的塞尔达前传",
+    "description": "《塞尔达传说》系列制作人青沼英二的导演处女作！传说海盗马维里克在岛上留下了名为“Marvelous”的宝藏，三个参加夏令营的12岁少年迪昂、马克斯和杰克意外来到这座岛，展开了一场寻宝大冒险。\n\n游戏使用了《众神的三角力量》的引擎，俯视角的画面与操作手感一脉相承。最大的特色是三人协作：迪昂身材小跑得快、马克斯力气大、杰克能用工具，切换领头人、配合解谜是游戏的核心乐趣，充满童年夏令营的冒险气息。\n\n正因为这部作品，宫本茂才邀请青沼加入了《时之笛》团队。想知道塞尔达后来的灵魂人物从哪里起步，就来岛上看看吧！",
+    "highlights": [
+      "青沼英二导演处女作",
+      "沿用塞尔达神三引擎",
+      "三位少年各具特长协作解谜",
+      "夏令营寻宝的童趣冒险"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "29/40",
+        "quote": "编辑肯定其丰富的解谜与亲切的氛围"
+      }
+    ],
+    "editorScore": 8.7,
+    "is2D": true,
+    "screenshots": [
+      "images/sfc/sfc-marvelous-s1.webp",
+      "images/sfc/sfc-marvelous-x1.webp",
+      "images/sfc/sfc-marvelous-x2.webp",
+      "images/sfc/sfc-marvelous-x3.webp",
+      "images/sfc/sfc-marvelous-title.webp"
+    ],
+    "cover": "images/sfc/sfc-marvelous-box.webp",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素冒险，营地与岛屿探索"
   },
   {
     "id": "sfc-romancing-saga",
@@ -2328,6 +2463,49 @@
     "styleNote": "俯视角像素RPG，可经营自己的村庄"
   },
   {
+    "id": "sfc-energy-breaker",
+    "title": "Energy Breaker",
+    "titleZh": "能量破坏者",
+    "titleJa": "エナジーブレイカー",
+    "year": 1996,
+    "developer": "Neverland",
+    "publisher": "Taito",
+    "genre": "战略角色扮演",
+    "tags": [
+      "像素",
+      "斜视角",
+      "战棋"
+    ],
+    "players": "1",
+    "tagline": "古大陆物语团队的斜视角战棋RPG",
+    "description": "出自《古大陆物语》开发商Neverland之手，《能量破坏者》是一部独特的“RPG与战棋混血”作品。它把传统RPG的城镇冒险与战棋战斗无缝结合，在当年别具一格。\n\n战斗之外，你可以在斜视角的立体城镇中自由行走、与居民交谈、逛商店；遇敌时则直接在当前场景展开网格战棋战斗，过渡自然流畅。精致的立体感像素画面在SFC末期堪称一绝，城镇中的喷泉、木屋与石板路充满温馨的童话气息。\n\n本作仅在日本发售，近年随着汉化与英文补丁的出现才重新被发掘。喜欢战棋又喜欢逛城镇的你，不要错过！",
+    "highlights": [
+      "城镇自由探索+网格战棋",
+      "斜视角立体像素画面",
+      "RPG与战棋的无缝融合",
+      "SFC末期的隐藏佳作"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "30/40",
+        "quote": "获白银殿堂，编辑肯定其系统融合"
+      }
+    ],
+    "editorScore": 8.6,
+    "is2D": true,
+    "screenshots": [
+      "images/sfc/sfc-energy-breaker-s1.webp",
+      "images/sfc/sfc-energy-breaker-x1.webp",
+      "images/sfc/sfc-energy-breaker-x2.webp",
+      "images/sfc/sfc-energy-breaker-x3.webp",
+      "images/sfc/sfc-energy-breaker-title.webp"
+    ],
+    "cover": "images/sfc/sfc-energy-breaker-box.webp",
+    "styleMatch": 2,
+    "styleNote": "斜视角可逛城镇，但战斗为战棋"
+  },
+  {
     "id": "sfc-axelay",
     "title": "Axelay",
     "titleZh": "阿克雷",
@@ -2477,6 +2655,49 @@
     "styleNote": "俯视角像素RPG，村镇与世界地图"
   },
   {
+    "id": "sfc-gunmans-proof",
+    "title": "Gunple: Gunman's Proof",
+    "titleZh": "枪手的证明",
+    "titleJa": "ガンプル -ガンマンズ・プルーフ-",
+    "year": 1997,
+    "developer": "Lenar",
+    "publisher": "ASCII",
+    "genre": "动作冒险",
+    "tags": [
+      "俯视角",
+      "西部",
+      "塞尔达式"
+    ],
+    "players": "1",
+    "tagline": "西部牛仔版的塞尔达",
+    "description": "1880年，美国西部附近的“奇异岛”上坠落了两颗陨石，怪物开始袭击居民。牧场少年眼看着一艘外星飞船坠毁，从中走出自称“宇宙警长”的零——原来星际罪犯德米逃到了岛上！于是，零附身少年，一场西部枪战冒险就此展开。\n\n玩法与《众神的三角力量》一脉相承：八座迷宫、宝箱、商店升级武器，但主角手中的不是剑而是枪——八方向射击，L/R键还能横移扫射，手枪、霰弹枪、冲锋枪、火焰喷射器一应俱全。搞笑的剧情颇有《地球冒险》的味道。\n\n本作与《最终幻想7》同一天在日本发售，因此几乎被埋没。Retro Gamer、1UP等媒体都将它列为必玩的SFC进口游戏。",
+    "highlights": [
+      "塞尔达式的迷宫与道具",
+      "八方向射击与横移扫射",
+      "荒诞幽默的西部科幻剧情",
+      "被埋没的SFC末期佳作"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "26/40",
+        "quote": "四位编辑认可其扎实的塞尔达式玩法"
+      }
+    ],
+    "editorScore": 8.5,
+    "is2D": true,
+    "screenshots": [
+      "images/sfc/sfc-gunmans-proof-s1.webp",
+      "images/sfc/sfc-gunmans-proof-x1.webp",
+      "images/sfc/sfc-gunmans-proof-x2.webp",
+      "images/sfc/sfc-gunmans-proof-x3.webp",
+      "images/sfc/sfc-gunmans-proof-title.webp"
+    ],
+    "cover": "images/sfc/sfc-gunmans-proof-box.webp",
+    "styleMatch": 3,
+    "styleNote": "俯视角动作冒险，西部小镇与迷宫"
+  },
+  {
     "id": "sfc-treasure-hunter-g",
     "title": "Treasure Hunter G",
     "titleZh": "宝藏猎人G",
@@ -2580,6 +2801,93 @@
     "cover": "images/sfc/sfc-secret-of-evermore-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素ARPG，圣剑式城镇探索"
+  },
+  {
+    "id": "sfc-arabian-nights",
+    "title": "Arabian Nights: Sabaku no Seirei Ou",
+    "titleZh": "阿拉伯之夜：沙漠的精灵王",
+    "titleJa": "アラビアンナイト 〜砂漠の精霊王〜",
+    "year": 1996,
+    "developer": "Pandora Box",
+    "publisher": "Takara",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "一千零一夜",
+      "卡牌"
+    ],
+    "players": "1",
+    "tagline": "孤女与精灵王的沙漠童话",
+    "description": "一千零一夜的世界，在SFC上华丽展开！百年前，精灵王伊夫利特被所罗门封印在“契约之戒”中，必须实现一千个愿望才能重获自由。如今，集市小镇的孤女修克兰捡到了这枚戒指，用最后一个愿望许下“故乡和平”，于是一人一精灵踏上了旅程。\n\n战斗采用传统回合制，但独特的“结界卡”系统大大增加了策略性：九种属性、五个等级的卡牌可在每回合开始时发动，等级越低效果反而越强，还有“逆转”用的0级卡。修克兰随身携带的日记记录着事件，帮助你在高自由度的世界中找到方向，多结局设计也耐人寻味。\n\n金色沙漠、帐篷集市与宫殿的像素画面充满异域风情，是SFC末期一颗璀璨的遗珠。",
+    "highlights": [
+      "一千零一夜题材的异域世界",
+      "策略十足的结界卡系统",
+      "高自由度与多结局",
+      "华丽的沙漠集市像素画面"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "26/40",
+        "quote": "编辑肯定其卡牌战斗的创意"
+      }
+    ],
+    "editorScore": 8.4,
+    "is2D": true,
+    "screenshots": [
+      "images/sfc/sfc-arabian-nights-s1.webp",
+      "images/sfc/sfc-arabian-nights-x1.webp",
+      "images/sfc/sfc-arabian-nights-x2.webp",
+      "images/sfc/sfc-arabian-nights-x3.webp",
+      "images/sfc/sfc-arabian-nights-x4.webp",
+      "images/sfc/sfc-arabian-nights-title.png"
+    ],
+    "cover": "images/sfc/sfc-arabian-nights-box.webp",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG，沙漠集市城镇探索"
+  },
+  {
+    "id": "sfc-chaos-seed",
+    "title": "Chaos Seed",
+    "titleZh": "混沌之种：风水回廊记",
+    "titleJa": "カオスシード 〜風水回廊記〜",
+    "year": 1996,
+    "developer": "Neverland",
+    "publisher": "Taito",
+    "genre": "动作角色扮演",
+    "tags": [
+      "俯视角",
+      "风水",
+      "地城经营"
+    ],
+    "players": "1",
+    "tagline": "挖掘洞穴、调和风水的仙人之道",
+    "description": "一部奇思妙想的融合之作！在《混沌之种》中，你扮演一名仙人，要在大地深处挖掘洞窟、建造房间，以“风水”之力净化被污染的地脉。这既是一款俯视角动作RPG，又是一款地下城建设模拟游戏。\n\n玩家需要在限定的时间内规划洞窟布局，设置能产生能量的房间、培育守护的仙兽，同时亲自上阵击退入侵的敌人。资源管理、风水相生相克与即时战斗交织在一起，节奏紧张而充满策略性。东方神话与道家色彩浓郁的世界观更是罕见。\n\n本作后来移植到土星，但SFC原版仍是很多玩家心中的独特神作。喜欢《地下城守护者》式玩法的朋友，一定会被它迷住。",
+    "highlights": [
+      "动作RPG与地城建设融合",
+      "风水相生相克的策略系统",
+      "道家仙侠题材",
+      "限时规划的紧张节奏"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "29/40",
+        "quote": "编辑认可其独特的玩法融合"
+      }
+    ],
+    "editorScore": 8.3,
+    "is2D": true,
+    "screenshots": [
+      "images/sfc/sfc-chaos-seed-s1.webp",
+      "images/sfc/sfc-chaos-seed-x1.webp",
+      "images/sfc/sfc-chaos-seed-x2.webp",
+      "images/sfc/sfc-chaos-seed-x3.webp",
+      "images/sfc/sfc-chaos-seed-title.webp"
+    ],
+    "cover": "images/sfc/sfc-chaos-seed-box.webp",
+    "styleMatch": 2,
+    "styleNote": "俯视角像素，但以地城建设为主"
   },
   {
     "id": "sfc-ys-v",
@@ -2865,5 +3173,48 @@
     "cover": "images/sfc/sfc-ys-iv-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素ARPG，村庄森林遗迹"
+  },
+  {
+    "id": "sfc-lennus-ii",
+    "title": "Lennus II: Fuuin no Shito",
+    "titleZh": "雷纳斯2：封印的使徒",
+    "titleJa": "レナスII 封印の使徒",
+    "year": 1996,
+    "developer": "Copya System",
+    "publisher": "Asmik",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "异世界",
+      "精灵"
+    ],
+    "players": "1",
+    "tagline": "异星卫星上的奇幻史诗",
+    "description": "《帕拉丁之旅（Lennus）》的续作，舞台转移到环绕行星“雷加”运转的另一颗卫星“埃尔兹”。主人公法鲁斯在这片奇特的大地上展开冒险，与形形色色的佣兵伙伴并肩作战。\n\n本作的美术风格独树一帜：色调怪异而迷幻，城镇、遗迹与生物都带着浓厚的异星气息，Fami通的滨村通信评价其“世界观完整得仿佛已延续了好几代”。田中公平创作的配乐更有两首被东京爱乐乐团收录演奏。精灵培养系统也颇具乐趣。\n\n本作销量惨淡，导致第三作胎死腹中，却也因此成为RPG收藏家心中的冷门珍品。",
+    "highlights": [
+      "独特迷幻的异星美术风格",
+      "佣兵伙伴招募",
+      "精灵培养系统",
+      "田中公平的交响配乐"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "23/40",
+        "quote": "编辑称赞其独特画风与世界观，但认为战斗略显单调"
+      }
+    ],
+    "editorScore": 7.8,
+    "is2D": true,
+    "screenshots": [
+      "images/sfc/sfc-lennus-ii-s1.webp",
+      "images/sfc/sfc-lennus-ii-x1.webp",
+      "images/sfc/sfc-lennus-ii-x2.webp",
+      "images/sfc/sfc-lennus-ii-x3.webp",
+      "images/sfc/sfc-lennus-ii-title.webp"
+    ],
+    "cover": "images/sfc/sfc-lennus-ii-box.webp",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG，异星风格城镇"
   }
 ]

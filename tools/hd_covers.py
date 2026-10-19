@@ -127,8 +127,9 @@ def download(plats):
                 continue
             rel = f"images/{p}/{g['id']}-box.jpg"
             dst = os.path.join(ROOT, rel)
-            if g.get("cover") == rel and os.path.exists(dst):
-                out = subprocess.run(["sips", "-g", "pixelWidth", "-g", "pixelHeight", dst], capture_output=True, text=True).stdout
+            cur = os.path.join(ROOT, g["cover"]) if g.get("cover") else ""
+            if cur and os.path.exists(cur):  # any format (.jpg/.webp): skip if already HD
+                out = subprocess.run(["sips", "-g", "pixelWidth", "-g", "pixelHeight", cur], capture_output=True, text=True).stdout
                 if max(int(x) for x in re.findall(r"pixel(?:Width|Height): (\d+)", out)) > 520:
                     continue  # already HD
             tmp = dst + ".src"

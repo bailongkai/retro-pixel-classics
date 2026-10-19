@@ -1724,6 +1724,59 @@
     "styleNote": "像素战棋RPG，以战场为主"
   },
   {
+    "id": "ss-nanatsu-kaze-no-shima",
+    "title": "Nanatsu Kaze no Shima Monogatari",
+    "titleZh": "七风岛物语",
+    "titleJa": "七ツ風の島物語",
+    "year": 1997,
+    "developer": "Givro Corporation",
+    "publisher": "Enix",
+    "genre": "冒险",
+    "tags": [
+      "手绘",
+      "童话",
+      "解谜"
+    ],
+    "players": "1",
+    "tagline": "会动的绘本，土星最美的2D画卷之一",
+    "description": "如果要评选“世嘉土星上最美的2D游戏”，《七风岛物语》一定榜上有名！Enix发行的这部作品，每一个场景都像是精心手绘的绘本插画：巨树之下的村落、温暖的木屋、阳光穿过的森林，柔和的色彩让人仿佛置身童话。\n\n玩家扮演小龙“加乌普”，在神秘的岛屿上与居民交流、收集道具、借助“七种传说之风”的力量破解难关。玩法融合了解谜冒险与轻度平台动作，节奏悠闲而温馨。\n\n它不追求刺激，而是一段可以慢慢品味的旅程。仅在日本发售、存量稀少，却是2D美术爱好者心中的珍宝。",
+    "highlights": [
+      "绘本般精致的手绘2D画面",
+      "借助七种风之力解开谜题",
+      "温馨悠闲的童话冒险",
+      "Enix发行的日版独占珍品"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "29/40",
+        "quote": "四位编辑给出7/8/8/6，画面之美备受称赞"
+      },
+      {
+        "source": "Joypad",
+        "score": "98%",
+        "quote": "有史以来最华丽的2D游戏之一"
+      },
+      {
+        "source": "Sega Saturn Magazine (日)",
+        "score": "7.0/10",
+        "quote": "风格独特的绘本式冒险"
+      }
+    ],
+    "editorScore": 8.4,
+    "is2D": true,
+    "screenshots": [
+      "images/ss/ss-nanatsu-kaze-no-shima-s1.webp",
+      "images/ss/ss-nanatsu-kaze-no-shima-x1.webp",
+      "images/ss/ss-nanatsu-kaze-no-shima-x2.webp",
+      "images/ss/ss-nanatsu-kaze-no-shima-x3.webp",
+      "images/ss/ss-nanatsu-kaze-no-shima-title.webp"
+    ],
+    "cover": "images/ss/ss-nanatsu-kaze-no-shima-box.webp",
+    "styleMatch": 1,
+    "styleNote": "手绘横版冒险，画风美但非俯视角"
+  },
+  {
     "id": "ss-magic-knight-rayearth",
     "title": "Magic Knight Rayearth",
     "titleZh": "魔法骑士雷阿斯",
@@ -2152,6 +2205,59 @@
     "styleNote": "像素战略RPG，以大地图与战场为主"
   },
   {
+    "id": "ss-cotton-2",
+    "title": "Cotton 2: Magical Night Dreams",
+    "titleZh": "棉花小魔女2",
+    "titleJa": "コットン2",
+    "year": 1997,
+    "developer": "Success",
+    "publisher": "Success",
+    "genre": "射击",
+    "tags": [
+      "像素",
+      "可爱",
+      "双人"
+    ],
+    "players": "1-2",
+    "tagline": "小魔女的夜空大冒险，色彩斑斓的横版射击",
+    "description": "骑着扫帚、贪吃“柳树糖”的小魔女棉花又回来了！《棉花小魔女2》是一款色彩缤纷的横版射击游戏，月夜下的古堡、深林与峡谷层次丰富，卡通风格的像素画面可爱又华丽。\n\n本作加入了生命槽，还能抓住敌人和子弹化作护盾或投掷出去，搭配元素水晶强化的魔法攻击，玩法远比一般射击游戏多样。双人同玩时还能选择对手角色艾普莉，热闹程度翻倍。\n\n土星版加入了独占的“Saturn模式”，是喜欢可爱风射击的玩家不可错过的一作。",
+    "highlights": [
+      "抓取敌人与子弹作为武器",
+      "元素水晶强化魔法",
+      "可爱华丽的卡通像素画面",
+      "支持双人合作"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "25/40",
+        "quote": "四位编辑给出7/6/6/6"
+      },
+      {
+        "source": "Joypad",
+        "score": "91%",
+        "quote": "高品质的街机移植，色彩鲜艳、节奏明快"
+      },
+      {
+        "source": "Sega Saturn Magazine (日)",
+        "score": "7.0/10",
+        "quote": "可爱风格的射击佳作"
+      }
+    ],
+    "editorScore": 8.2,
+    "is2D": true,
+    "screenshots": [
+      "images/ss/ss-cotton-2-s1.webp",
+      "images/ss/ss-cotton-2-x1.webp",
+      "images/ss/ss-cotton-2-x2.webp",
+      "images/ss/ss-cotton-2-x3.webp",
+      "images/ss/ss-cotton-2-title.webp"
+    ],
+    "cover": "images/ss/ss-cotton-2-box.webp",
+    "styleMatch": 0,
+    "styleNote": "横版射击游戏"
+  },
+  {
     "id": "ss-shining-wisdom",
     "title": "Shining Wisdom",
     "titleZh": "光明智慧",
@@ -2298,6 +2404,59 @@
     "styleNote": "2.5D横版平台动作"
   },
   {
+    "id": "ss-cotton-boomerang",
+    "title": "Cotton Boomerang",
+    "titleZh": "棉花小魔女 回旋镖",
+    "titleJa": "コットンブーメラン",
+    "year": 1998,
+    "developer": "Success",
+    "publisher": "Success",
+    "genre": "射击",
+    "tags": [
+      "像素",
+      "可爱",
+      "多角色"
+    ],
+    "players": "1-2",
+    "tagline": "多角色接力出击的棉花2加强版",
+    "description": "《棉花小魔女回旋镖》是《棉花2》的街机强化版：最多可选择三名角色组成队伍，被击中后由下一位队员接力上阵，像回旋镖一样轮番登场，策略与乐趣都大大增加。\n\n关卡布局、计分系统和画面都经过重新调整，新增角色各具特色的攻击方式。月夜古堡、奇幻森林等场景依旧华丽，抓取敌人投掷的独特玩法也得以保留。\n\n喜欢《棉花2》的玩家，这款加强版能带来更多新鲜感；初次接触的玩家也能从这里感受Success独特的可爱射击风格。",
+    "highlights": [
+      "三名角色组队接力",
+      "新增角色与计分系统",
+      "重新编排的关卡",
+      "保留抓取投掷玩法"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "27/40",
+        "quote": "内容充实的加强版"
+      },
+      {
+        "source": "Saturn Fan",
+        "score": "21/30",
+        "quote": "适合系列粉丝"
+      },
+      {
+        "source": "Sega Saturn Magazine (日)",
+        "score": "7.0/10",
+        "quote": "稳定的射击作品"
+      }
+    ],
+    "editorScore": 8.0,
+    "is2D": true,
+    "screenshots": [
+      "images/ss/ss-cotton-boomerang-s1.webp",
+      "images/ss/ss-cotton-boomerang-x1.webp",
+      "images/ss/ss-cotton-boomerang-x2.webp",
+      "images/ss/ss-cotton-boomerang-x3.webp",
+      "images/ss/ss-cotton-boomerang-title.webp"
+    ],
+    "cover": "images/ss/ss-cotton-boomerang-box.webp",
+    "styleMatch": 0,
+    "styleNote": "横版射击游戏"
+  },
+  {
     "id": "ss-linkle-liver-story",
     "title": "Linkle Liver Story",
     "titleZh": "林克尔利佛物语",
@@ -2385,5 +2544,39 @@
     "cover": "images/ss/ss-mahou-gakuen-lunar-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素RPG，学园与城镇漫步"
+  },
+  {
+    "id": "ss-terra-phantastica",
+    "title": "Terra Phantastica",
+    "titleZh": "幻想大地",
+    "titleJa": "テラ ファンタスティカ",
+    "year": 1996,
+    "developer": "Chime / Heat Think",
+    "publisher": "Sega",
+    "genre": "战略角色扮演",
+    "tags": [
+      "战棋",
+      "像素",
+      "养育王子"
+    ],
+    "players": "1",
+    "tagline": "女骑士守护王子，土星冷门战棋佳作",
+    "description": "《幻想大地》是一款带有《皇家骑士团》风味的斜视角战棋RPG：女主角肩负着养育年幼王子、同时保卫王国的双重使命，故事既有战争的严酷，也有温情的成长线。\n\n战斗在格子地图上展开，每支部队由一名队长和多名士兵组成，可以调整阵形、撤退、包抄，一场交战往往持续多个回合，策略味浓厚。像素角色在斜视角战场上活灵活现，中世纪欧洲风格的美术朴素而耐看。\n\n本作知名度不高，但对于喜欢战棋的玩家，它是土星上一颗值得挖掘的冷门宝石。",
+    "highlights": [
+      "队长带领士兵的部队编成",
+      "可调整阵形的多回合交战",
+      "养育王子的独特剧情",
+      "中世纪欧洲风格像素美术"
+    ],
+    "reviews": [],
+    "editorScore": 7.8,
+    "is2D": true,
+    "screenshots": [
+      "images/ss/ss-terra-phantastica-s1.webp",
+      "images/ss/ss-terra-phantastica-title.webp"
+    ],
+    "cover": "images/ss/ss-terra-phantastica-box.webp",
+    "styleMatch": 2,
+    "styleNote": "斜视角像素战棋，无城镇自由漫步"
   }
 ]

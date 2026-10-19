@@ -473,6 +473,53 @@
     "styleNote": "俯视角像素城镇与室内，自由探索"
   },
   {
+    "id": "pce-sapphire",
+    "title": "Ginga Fukei Densetsu Sapphire",
+    "titleZh": "银河女警传说 蓝宝石",
+    "titleJa": "銀河婦警伝説サファイア",
+    "year": 1995,
+    "developer": "CAProduction",
+    "publisher": "Hudson Soft",
+    "genre": "射击",
+    "tags": [
+      "像素",
+      "纵版射击",
+      "珍品",
+      "Arcade CD-ROM²"
+    ],
+    "players": "1-2",
+    "tagline": "PCE射击的终极绝唱，传说中的天价珍品",
+    "description": "1995年末，PC Engine已近黄昏，哈德森却拿出了一张让所有射击迷屏住呼吸的光盘——《银河女警传说 蓝宝石》。开发者是打造《雷电之门》《雷霆领主》的CAProduction，人设由《银河大小姐传说优娜》的明贵美加操刀，必须搭配Arcade Card才能运行。\n\n画面堪称PCE机能的极限展示：多层卷轴的未来都市、熊熊燃烧的巨龙、伪3D旋转的巨型战舰，满屏的爆炸与弹幕几乎让人忘记这是一台8位主机。T's Music的CD音轨激昂澎湃，动画过场极尽华丽，还支持双人同时游戏。\n\n当年Fami通的评价并不高，嫌它难度过高、玩法缺乏新意；但多年后，Hardcore Gaming 101称它为“PC Engine终极射击”。由于发行量极少，原版卡带早已身价暴涨，如今可在PSP合集中一睹风采。",
+    "highlights": [
+      "CAProduction打造，PCE机能的极限展示",
+      "明贵美加人设与华丽动画过场",
+      "支持双人同时游戏",
+      "原版是收藏界著名的天价珍品"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "19/40",
+        "quote": "画面华丽，但难度偏高、玩法缺少新意"
+      }
+    ],
+    "editorScore": 8.7,
+    "is2D": true,
+    "screenshots": [
+      "images/pce/pce-sapphire-m1.webp",
+      "images/pce/pce-sapphire-m2.webp",
+      "images/pce/pce-sapphire-m3.webp",
+      "images/pce/pce-sapphire-m4.webp",
+      "images/pce/pce-sapphire-m5.webp",
+      "images/pce/pce-sapphire-s1.webp",
+      "images/pce/pce-sapphire-s2.webp",
+      "images/pce/pce-sapphire-title.webp"
+    ],
+    "cover": "images/pce/pce-sapphire-box.webp",
+    "styleMatch": 0,
+    "styleNote": "纵版射击游戏，与俯视角RPG无关"
+  },
+  {
     "id": "pce-neutopia",
     "title": "Neutopia",
     "titleZh": "纽特皮亚",
@@ -1368,6 +1415,62 @@
     "styleNote": "俯视角像素村落与森林，自由行走"
   },
   {
+    "id": "pce-nexzr",
+    "title": "Nexzr",
+    "titleZh": "奈克斯扎尔",
+    "titleJa": "ネクスザール",
+    "year": 1992,
+    "developer": "Inter State (Kaneko)",
+    "publisher": "Naxat Soft",
+    "genre": "射击",
+    "tags": [
+      "像素",
+      "纵版射击",
+      "SUPER CD-ROM²"
+    ],
+    "players": "1",
+    "tagline": "宇宙空间的极速纵版射击，火力全开",
+    "description": "《奈克斯扎尔》是Naxat Soft在SUPER CD-ROM²上推出的纵版射击，由金子制作所旗下的Inter State开发。1992年底登场，凭借华丽的太空场景和高速卷轴迅速成为射击迷之间口耳相传的佳作。\n\n巨大的地球与月球在背景中缓缓转动，敌方舰队编队从画面四方涌来，满屏的蓝色子弹与爆炸光晕层层叠叠，视觉冲击力极强。拾取道具即可切换多种主武器，火力调配讲究策略，节奏明快爽利。\n\n它还推出过Summer Carnival竞赛用的“时间攻略版”，足见其冲分乐趣。如果你迷恋《GUNHED》那种纯粹的速度与火力，这张光盘不容错过。",
+    "highlights": [
+      "华丽的行星背景与高速卷轴",
+      "多种主武器切换，火力调配讲究",
+      "CD音源的激昂配乐",
+      "曾推出Summer Carnival竞赛特别版"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "22/40",
+        "quote": "画面出色但玩法较为传统"
+      },
+      {
+        "source": "Hippon Super!",
+        "score": "9/10",
+        "quote": "速度与火力俱佳的爽快射击"
+      },
+      {
+        "source": "丸胜PC Engine",
+        "score": "30/40",
+        "quote": "华丽而扎实的纵版射击"
+      }
+    ],
+    "editorScore": 8.2,
+    "is2D": true,
+    "screenshots": [
+      "images/pce/pce-nexzr-m1.webp",
+      "images/pce/pce-nexzr-m2.webp",
+      "images/pce/pce-nexzr-m3.webp",
+      "images/pce/pce-nexzr-m4.webp",
+      "images/pce/pce-nexzr-m5.webp",
+      "images/pce/pce-nexzr-s1.webp",
+      "images/pce/pce-nexzr-s2.webp",
+      "images/pce/pce-nexzr-title.webp"
+    ],
+    "cover": "images/pce/pce-nexzr-box.webp",
+    "styleMatch": 0,
+    "styleNote": "纵版射击游戏，与俯视角RPG无关"
+  },
+  {
     "id": "pce-splatterhouse",
     "title": "Splatterhouse",
     "titleZh": "恐怖之屋",
@@ -1592,6 +1695,57 @@
     "cover": "images/pce/pce-legend-of-heroes-ii-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素城镇与原野，王道RPG"
+  },
+  {
+    "id": "pce-sylphia",
+    "title": "Sylphia",
+    "titleZh": "希尔菲亚",
+    "titleJa": "シルフィア",
+    "year": 1993,
+    "developer": "Compile",
+    "publisher": "Tonkin House",
+    "genre": "射击",
+    "tags": [
+      "像素",
+      "纵版射击",
+      "希腊神话",
+      "珍品"
+    ],
+    "players": "1",
+    "tagline": "有翼少女飞越希腊神话，唯美的纵版射击",
+    "description": "不是战机，而是一位背生双翼的少女！《希尔菲亚》让你操纵一位背生双翼的少女，穿越以希腊神话为背景的奇幻世界。石柱林立的神殿、蜿蜒的峡谷河流、怪物出没的森林与海洋，像素描绘细腻唯美，充满浪漫色彩。\n\n玩法是经典的纵版射击，拾取道具强化与切换攻击方式，弹幕之间灵巧穿梭。难度相对温和，节奏舒缓，配合CD音源的优美旋律，与其说是在战斗，不如说是在欣赏一幅流动的神话画卷。\n\n本作由托金屋发行，发行量不大，如今已是高价稀有软件。它也许不是最硬派的射击，但独特的题材与美术风格，让它在PCE众多射击中别具一格。",
+    "highlights": [
+      "有翼少女主角，希腊神话题材",
+      "唯美细腻的奇幻场景像素",
+      "难度温和，节奏舒缓",
+      "稀有高价的收藏珍品"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "25/40",
+        "quote": "画面优美，题材新颖"
+      },
+      {
+        "source": "月刊PC Engine",
+        "score": "80/100",
+        "quote": "美术风格独特的纵版射击"
+      }
+    ],
+    "editorScore": 8.0,
+    "is2D": true,
+    "screenshots": [
+      "images/pce/pce-sylphia-m1.webp",
+      "images/pce/pce-sylphia-m2.webp",
+      "images/pce/pce-sylphia-m3.webp",
+      "images/pce/pce-sylphia-m4.webp",
+      "images/pce/pce-sylphia-m5.webp",
+      "images/pce/pce-sylphia-s1.webp",
+      "images/pce/pce-sylphia-title.webp"
+    ],
+    "cover": "images/pce/pce-sylphia-box.webp",
+    "styleMatch": 0,
+    "styleNote": "纵版射击游戏，与俯视角RPG无关"
   },
   {
     "id": "pce-cosmic-fantasy-2",

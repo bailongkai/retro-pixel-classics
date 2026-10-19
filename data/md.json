@@ -1684,6 +1684,61 @@
     "styleNote": "横版像素BOSS连战，仅画风相近"
   },
   {
+    "id": "md-ranger-x",
+    "title": "Ranger X",
+    "titleZh": "游骑兵X",
+    "titleJa": "エクスランザー",
+    "year": 1993,
+    "developer": "GAU Entertainment",
+    "publisher": "Sega",
+    "genre": "射击",
+    "tags": [
+      "像素",
+      "机甲",
+      "视差卷轴"
+    ],
+    "players": "1",
+    "tagline": "机甲与摩托合体作战，MD机能的炫技名作",
+    "description": "《游骑兵X》（日版名《Ex-Ranza》）一登场就让玩家惊呼“这是MD？”。玩家操纵人形机甲“游骑兵”，配合可遥控的支援摩托“Ex-Up”并肩作战，机甲背负喷射器可以自由悬浮，360度转向射击，行动自由度远超一般横版射击。\n\n画面是本作最大的卖点：多层视差卷轴、旋转缩放效果、光源变化与巨大的敌方机械，在1993年堪称技术奇迹。每关的任务是摧毁指定目标，地图开阔，可以自由选择进攻路线。\n\n流程不长但浓度极高，至今仍是展示MD机能极限的代表作之一。",
+    "highlights": [
+      "机甲与遥控支援摩托协同作战",
+      "喷射悬浮与全方向射击",
+      "多层视差卷轴与光影特效",
+      "摧毁目标的开放式关卡"
+    ],
+    "reviews": [
+      {
+        "source": "CVG",
+        "score": "93/100",
+        "quote": "画面技术令人叹为观止的动作射击"
+      },
+      {
+        "source": "Mean Machines Sega",
+        "score": "92/100",
+        "quote": "MD上最出色的机甲动作游戏之一"
+      },
+      {
+        "source": "EGM",
+        "score": "31/40",
+        "quote": "特效惊人，但流程偏短"
+      }
+    ],
+    "editorScore": 8.5,
+    "is2D": true,
+    "screenshots": [
+      "images/md/md-ranger-x-x1.webp",
+      "images/md/md-ranger-x-x2.webp",
+      "images/md/md-ranger-x-x3.webp",
+      "images/md/md-ranger-x-x4.webp",
+      "images/md/md-ranger-x-s1.webp",
+      "images/md/md-ranger-x-s2.webp",
+      "images/md/md-ranger-x-title.webp"
+    ],
+    "cover": "images/md/md-ranger-x-box.webp",
+    "styleMatch": 1,
+    "styleNote": "横版像素机甲动作射击，无城镇探索"
+  },
+  {
     "id": "md-ecco-the-dolphin",
     "title": "Ecco the Dolphin",
     "titleZh": "海豚艾可",
@@ -1792,6 +1847,61 @@
     "cover": "images/md/md-wonder-boy-in-monster-world-box.webp",
     "styleMatch": 2,
     "styleNote": "横版动作RPG，有村庄商店但为侧视角"
+  },
+  {
+    "id": "md-pulseman",
+    "title": "Pulseman",
+    "titleZh": "脉冲人",
+    "titleJa": "パルスマン",
+    "year": 1994,
+    "developer": "Game Freak",
+    "publisher": "Sega",
+    "genre": "平台跳跃",
+    "tags": [
+      "像素",
+      "Game Freak",
+      "电光冲刺"
+    ],
+    "players": "1",
+    "tagline": "宝可梦之父的电光英雄，高速平台动作杰作",
+    "description": "在《宝可梦》问世之前，Game Freak在MD上交出了这部充满灵气的作品。脉冲人是半人半电子的英雄，能在电线中穿梭、蓄满电力后化身“电光球”在墙壁间高速弹射，速度感与操作感别具一格。\n\n关卡穿梭于现实城市与电脑网络空间之间，色彩鲜艳、像素动画流畅，背景还有大量数字采样音效与动感配乐。BOSS战设计巧妙，难度适中偏高，越熟练越能体会到“电光飞驰”的爽快。\n\n当年仅在日本发售，美国只有Sega Channel配信，如今已在多款合集中复刻，平台动作迷一定要补上这一课。",
+    "highlights": [
+      "Game Freak在宝可梦之前的作品",
+      "电线穿梭与电光球弹射玩法",
+      "现实与网络空间交错的关卡",
+      "鲜艳流畅的像素动画"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "24/40",
+        "quote": "操作新颖但上手需要时间"
+      },
+      {
+        "source": "IGN",
+        "score": "8/10",
+        "quote": "被埋没多年的平台动作佳作"
+      },
+      {
+        "source": "Nintendo Life",
+        "score": "8/10",
+        "quote": "Game Freak早期功力的绝佳证明"
+      }
+    ],
+    "editorScore": 8.4,
+    "is2D": true,
+    "screenshots": [
+      "images/md/md-pulseman-x1.webp",
+      "images/md/md-pulseman-x2.webp",
+      "images/md/md-pulseman-x3.webp",
+      "images/md/md-pulseman-x4.webp",
+      "images/md/md-pulseman-s1.webp",
+      "images/md/md-pulseman-m1.webp",
+      "images/md/md-pulseman-title.png"
+    ],
+    "cover": "images/md/md-pulseman-box.webp",
+    "styleMatch": 1,
+    "styleNote": "横版像素平台跳跃，无城镇探索"
   },
   {
     "id": "md-light-crusader",
@@ -1957,6 +2067,61 @@
     "cover": "images/md/md-shining-in-the-darkness-box.webp",
     "styleMatch": 2,
     "styleNote": "像素城镇+第一人称迷宫，视角不同"
+  },
+  {
+    "id": "md-battle-mania-daiginjou",
+    "title": "Battle Mania Daiginjou",
+    "titleZh": "战斗狂热 大吟酿",
+    "titleJa": "バトルマニア大吟醸",
+    "year": 1993,
+    "developer": "Vic Tokai",
+    "publisher": "Vic Tokai",
+    "genre": "射击",
+    "tags": [
+      "像素",
+      "STG",
+      "搞笑"
+    ],
+    "players": "1",
+    "tagline": "双少女的无厘头横版射击，MD末代奇珍",
+    "description": "《战斗狂热 大吟酿》是Vic Tokai射击游戏《战斗狂热》的续作，主角是两名性格火爆的少女佣兵羽衣与舞，一人前进射击、另一人可切换朝向掩护后方，操作独特。\n\n画面是这款游戏最惊人的地方：多层卷轴、光栅扭曲、旋转缩放，再加上丰富的过场插画与满屏的吐槽对话，放在MD末期也极为亮眼。关卡主题天马行空，从城市废墟到奇异的异空间，配乐动感十足。\n\n当年只在日本发售且数量稀少，二手价格一度飙升，被收藏家奉为MD最强射击之一，如今已有复刻版可以轻松体验。",
+    "highlights": [
+      "双少女主角，可前后切换射击",
+      "光栅扭曲与多层卷轴特效",
+      "大量过场插画与吐槽对话",
+      "日本限定的收藏级名作"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "23/40",
+        "quote": "画面出色、充满幽默感的射击游戏"
+      },
+      {
+        "source": "Beep! MegaDrive",
+        "score": "6.5/10",
+        "quote": "演出丰富，系统较为传统"
+      },
+      {
+        "source": "Sega-16",
+        "score": "10/10",
+        "quote": "MD上最出色的射击游戏之一"
+      }
+    ],
+    "editorScore": 8.2,
+    "is2D": true,
+    "screenshots": [
+      "images/md/md-battle-mania-daiginjou-x1.webp",
+      "images/md/md-battle-mania-daiginjou-x2.webp",
+      "images/md/md-battle-mania-daiginjou-x3.webp",
+      "images/md/md-battle-mania-daiginjou-x4.webp",
+      "images/md/md-battle-mania-daiginjou-s1.webp",
+      "images/md/md-battle-mania-daiginjou-m1.jpg",
+      "images/md/md-battle-mania-daiginjou-title.webp"
+    ],
+    "cover": "images/md/md-battle-mania-daiginjou-box.webp",
+    "styleMatch": 0,
+    "styleNote": "横版射击游戏，与参考图玩法无关"
   },
   {
     "id": "md-phantasy-star-iii",
@@ -2261,6 +2426,114 @@
     "cover": "images/md/md-pier-solar-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素城镇，正统16位日式RPG"
+  },
+  {
+    "id": "md-gleylancer",
+    "title": "Gleylancer",
+    "titleZh": "格雷兰瑟",
+    "titleJa": "グレイランサー",
+    "year": 1992,
+    "developer": "NCS Corporation",
+    "publisher": "Masaya",
+    "genre": "射击",
+    "tags": [
+      "像素",
+      "STG",
+      "僚机阵型"
+    ],
+    "players": "1",
+    "tagline": "七种僚机阵型的少女机师太空射击",
+    "description": "Masaya出品的横版射击《格雷兰瑟》，主角是为营救父亲而偷开实验战机的少女露西亚。本作最有特色的是“僚机阵型”系统：开局可从七种模式中选择两架僚机的行动方式——跟随、反向、搜寻、自由瞄准……搭配不同武器，打法完全不同。\n\n日式动画风格的过场演出在当时颇为少见，剧情也富有感染力。画面多层卷轴流畅，敌人设计扎实，难度适中，适合射击入门者。\n\n原版仅在日本发售，如今已登陆多个现代平台，是MD射击遗珠中最易接触的一部。",
+    "highlights": [
+      "七种僚机阵型自由选择",
+      "日式动画风过场与剧情",
+      "多层卷轴的流畅画面",
+      "难度适中，适合入门"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "22/40",
+        "quote": "僚机系统有新意的横版射击"
+      },
+      {
+        "source": "Mega Drive Advanced Gaming",
+        "score": "89%",
+        "quote": "画面音乐俱佳的射击游戏"
+      },
+      {
+        "source": "Nintendo Life",
+        "score": "9/10",
+        "quote": "复刻版证明它是被低估的射击佳作"
+      }
+    ],
+    "editorScore": 8.0,
+    "is2D": true,
+    "screenshots": [
+      "images/md/md-gleylancer-x1.webp",
+      "images/md/md-gleylancer-x2.webp",
+      "images/md/md-gleylancer-x3.webp",
+      "images/md/md-gleylancer-x4.webp",
+      "images/md/md-gleylancer-s1.webp",
+      "images/md/md-gleylancer-title.webp"
+    ],
+    "cover": "images/md/md-gleylancer-box.webp",
+    "styleMatch": 0,
+    "styleNote": "横版射击游戏，与参考图玩法无关"
+  },
+  {
+    "id": "md-twinkle-tale",
+    "title": "Twinkle Tale",
+    "titleZh": "星光物语",
+    "titleJa": "トウィンクルテイル",
+    "year": 1992,
+    "developer": "ZAP Corporation",
+    "publisher": "Wonder Amusement Studio",
+    "genre": "射击",
+    "tags": [
+      "像素",
+      "俯视角",
+      "魔法少女"
+    ],
+    "players": "1",
+    "tagline": "俯视角魔法少女射击，童话绘本般的冒险",
+    "description": "小魔法师萨雅为了寻回被夺走的魔法宝珠，踏上穿越森林、洞窟与城堡的旅程。《星光物语》是一款俯视角的奇幻射击游戏，玩家可自由在八个方向移动，同时用三种魔法射击敌人，还能锁定射击方向边走边打。\n\n画面是最大亮点：色彩丰富的童话森林、精致的像素角色与大型BOSS，配上温柔动听的配乐，宛如一本会动的绘本。关卡长而充实，难度不低，需要合理运用魔法切换与炸弹。\n\n当年发行量很少、价格昂贵，如今已被视为MD上画面最可爱的隐藏名作之一。",
+    "highlights": [
+      "俯视角八方向自由移动射击",
+      "三种魔法切换与方向锁定",
+      "童话绘本般的像素画面",
+      "发行量稀少的隐藏名作"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "21/40",
+        "quote": "画面可爱但难度偏高"
+      },
+      {
+        "source": "Beep! MegaDrive",
+        "score": "6.75/10",
+        "quote": "奇幻氛围出色的射击游戏"
+      },
+      {
+        "source": "Mean Machines Sega",
+        "score": "88/100",
+        "quote": "画面精美、内容充实的俯视角射击"
+      }
+    ],
+    "editorScore": 7.9,
+    "is2D": true,
+    "screenshots": [
+      "images/md/md-twinkle-tale-x1.webp",
+      "images/md/md-twinkle-tale-x2.webp",
+      "images/md/md-twinkle-tale-x3.webp",
+      "images/md/md-twinkle-tale-x4.webp",
+      "images/md/md-twinkle-tale-m1.webp",
+      "images/md/md-twinkle-tale-title.png"
+    ],
+    "cover": "images/md/md-twinkle-tale-box.webp",
+    "styleMatch": 1,
+    "styleNote": "俯视角奇幻像素画面，但为射击无城镇"
   },
   {
     "id": "md-surging-aura",

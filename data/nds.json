@@ -578,6 +578,10 @@
     "screenshots": [
       "images/nds/nds-osu-tatakae-ouendan-s1.webp",
       "images/nds/nds-osu-tatakae-ouendan-s2.webp",
+      "images/nds/nds-osu-tatakae-ouendan-m1.webp",
+      "images/nds/nds-osu-tatakae-ouendan-m2.webp",
+      "images/nds/nds-osu-tatakae-ouendan-m3.webp",
+      "images/nds/nds-osu-tatakae-ouendan-m4.webp",
       "images/nds/nds-osu-tatakae-ouendan-title.webp"
     ],
     "cover": "images/nds/nds-osu-tatakae-ouendan-box.webp",
@@ -2194,6 +2198,61 @@
     "styleNote": "3D太空舰队战"
   },
   {
+    "id": "nds-contact",
+    "title": "Contact",
+    "titleZh": "联络",
+    "titleJa": "Contact",
+    "year": 2006,
+    "developer": "Grasshopper Manufacture",
+    "publisher": "Marvelous Entertainment / Atlus",
+    "genre": "动作角色扮演",
+    "tags": [
+      "像素",
+      "打破第四面墙",
+      "换装"
+    ],
+    "players": "1",
+    "tagline": "博士隔着屏幕找你求救的怪诞RPG",
+    "description": "上屏是一位白发博士的像素实验室，他时常转过身来，直接对着“你”——拿着DS的玩家——说话；下屏则是被博士拉来帮忙的少年泰瑞，在一片片色彩浓郁的岛屿上冒险。Grasshopper Manufacture出品的《Contact》，从开场就宣告它不是一款普通的RPG。\n\n冒险本身是俯视角的2D像素ARPG：泰瑞在海岛、森林、遗迹间自由奔走，靠近敌人便自动挥拳攻击，属性则随行动成长——挨打越多防御越高，出手越多力量越强。八种“职业服装”可随时更换，厨师装能把食材组合成料理，盗贼装能偷窃；形似贴纸的“贴花”道具则能发动强力效果。背景采用写实风的手绘画面，与上屏复古的8bit点阵实验室形成鲜明对比。\n\n系统略显粗糙、难度曲线起伏较大，但它关于“玩家与游戏角色关系”的元叙事，在2006年极具前卫精神，是DS上最具个性的邪典作品之一。",
+    "highlights": [
+      "博士直接对玩家说话的元叙事",
+      "上屏8bit实验室与下屏冒险双画风",
+      "八种服装切换职业能力",
+      "属性随行动自然成长"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "33/40",
+        "quote": "独特的世界观与演出别具一格"
+      },
+      {
+        "source": "Metacritic",
+        "score": "73/100",
+        "quote": "创意十足但系统略显粗糙"
+      },
+      {
+        "source": "IGN",
+        "score": "7.5/10",
+        "quote": "怪诞又迷人的另类RPG"
+      }
+    ],
+    "editorScore": 8.0,
+    "is2D": true,
+    "screenshots": [
+      "images/nds/nds-contact-s1.webp",
+      "images/nds/nds-contact-x1.webp",
+      "images/nds/nds-contact-x2.webp",
+      "images/nds/nds-contact-x3.webp",
+      "images/nds/nds-contact-x4.webp",
+      "images/nds/nds-contact-x5.webp",
+      "images/nds/nds-contact-title.webp"
+    ],
+    "cover": "images/nds/nds-contact-box.webp",
+    "styleMatch": 3,
+    "styleNote": "俯视像素ARPG，岛屿城镇自由探索"
+  },
+  {
     "id": "nds-four-heroes-of-light",
     "title": "Final Fantasy: The 4 Heroes of Light",
     "titleZh": "光之四战士 最终幻想外传",
@@ -2242,6 +2301,61 @@
     "cover": "images/nds/nds-four-heroes-of-light-box.webp",
     "styleMatch": 0,
     "styleNote": "3D绘本风画面"
+  },
+  {
+    "id": "nds-magical-starsign",
+    "title": "Magical Starsign",
+    "titleZh": "魔法星座",
+    "titleJa": "マジカルバケーション 5つの星がならぶとき",
+    "year": 2006,
+    "developer": "Brownie Brown",
+    "publisher": "Nintendo",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "魔法学院",
+      "星位战斗"
+    ],
+    "players": "1",
+    "tagline": "魔法学院的星际修学旅行",
+    "description": "GBA名作《魔法假期》的续篇，由《MOTHER3》的Brownie Brown打造。在魔法学院“鬼火学院”，一群主修不同属性的学生得知老师失踪，于是乘坐火箭飞向宇宙，踏上横跨多颗行星的冒险——一个充满童趣的魔法学园故事。\n\n画面是Brownie Brown招牌的柔和像素风格：Q版的学生们在俯视角的城镇、森林、沙漠星球上自由行走，色彩明亮、细节可爱，堪称DS上最温柔的点阵画面之一。战斗最大的特色是“星位系统”：七种属性分别对应七颗行星，下屏会显示行星的运行位置，属性对应的行星处于有利位置时，魔法威力翻倍。前后排站位也会影响攻防。\n\n战斗系统偏简单、遇敌率偏高，但幽默的文本与个性鲜明的同学们，让这趟“宇宙修学旅行”温暖又难忘。",
+    "highlights": [
+      "Brownie Brown的柔和像素美术",
+      "行星位置影响属性的星位战斗",
+      "魔法学院群像与幽默文本",
+      "GBA《魔法假期》精神续作"
+    ],
+    "reviews": [
+      {
+        "source": "Metacritic",
+        "score": "69/100",
+        "quote": "文本幽默但战斗略显单调"
+      },
+      {
+        "source": "Eurogamer",
+        "score": "8/10",
+        "quote": "任何RPG爱好者都值得一试"
+      },
+      {
+        "source": "IGN",
+        "score": "7.5/10",
+        "quote": "可爱迷人的传统RPG"
+      }
+    ],
+    "editorScore": 7.9,
+    "is2D": true,
+    "screenshots": [
+      "images/nds/nds-magical-starsign-s1.webp",
+      "images/nds/nds-magical-starsign-x1.webp",
+      "images/nds/nds-magical-starsign-x2.webp",
+      "images/nds/nds-magical-starsign-x3.webp",
+      "images/nds/nds-magical-starsign-x4.webp",
+      "images/nds/nds-magical-starsign-m1.webp",
+      "images/nds/nds-magical-starsign-title.webp"
+    ],
+    "cover": "images/nds/nds-magical-starsign-box.webp",
+    "styleMatch": 3,
+    "styleNote": "俯视像素RPG，学院与星球城镇探索"
   },
   {
     "id": "nds-summon-night-twin-age",

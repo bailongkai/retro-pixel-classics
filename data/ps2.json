@@ -1770,6 +1770,53 @@
     "styleNote": "斜视角2D点阵小镇，可自由逛店"
   },
   {
+    "id": "ps2-espgaluda",
+    "title": "ESP Galuda",
+    "titleZh": "弹幕少女",
+    "titleJa": "エスプガルーダ",
+    "year": 2004,
+    "developer": "Cave / Arika",
+    "publisher": "Arika",
+    "genre": "射击",
+    "tags": [
+      "弹幕",
+      "纵版",
+      "街机移植"
+    ],
+    "players": "1-2",
+    "tagline": "觉醒吧！把子弹变成金块的弹幕美学",
+    "description": "CAVE弹幕射击的代表作之一。少年阿盖哈与少女修丝丝是被称为「Galuda」的人造兵器，为了反抗企图统治世界的帝国而战。\n\n本作最核心的系统是「觉醒」：消耗绿宝石进入觉醒状态后，时间流逝变慢、敌弹在击破敌人时转化为金块，满屏子弹瞬间化作闪闪发光的得分。哥特式蒸汽朋克风格的关卡、精致的2D点阵与华丽爆炸，让每一关都像一幅流动的画。PS2版由Arika移植，追加了Arrange模式，是弹幕入门与收藏的佳作。",
+    "highlights": [
+      "「觉醒」慢动作+敌弹变金块",
+      "哥特蒸汽朋克美术",
+      "CAVE精致2D点阵",
+      "PS2版追加Arrange模式"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "29/40",
+        "quote": "移植度高，追加要素丰富"
+      },
+      {
+        "source": "Edge",
+        "score": "8/10",
+        "quote": "兼具美感与深度的弹幕射击"
+      }
+    ],
+    "editorScore": 8.0,
+    "is2D": true,
+    "screenshots": [
+      "images/ps2/ps2-espgaluda-s1.webp",
+      "images/ps2/ps2-espgaluda-x1.webp",
+      "images/ps2/ps2-espgaluda-x2.webp",
+      "images/ps2/ps2-espgaluda-title.webp"
+    ],
+    "cover": "images/ps2/ps2-espgaluda-box.webp",
+    "styleMatch": 0,
+    "styleNote": "纵版弹幕射击，非RPG"
+  },
+  {
     "id": "ps2-mega-man-x-collection",
     "title": "Mega Man X Collection",
     "titleZh": "洛克人X合集",
@@ -2036,6 +2083,66 @@
     "styleNote": "2D角色在3D场景中探索城镇"
   },
   {
+    "id": "ps2-stella-deus",
+    "title": "Stella Deus: The Gate of Eternity",
+    "titleZh": "星神：永恒之门",
+    "titleJa": "ステラデウス",
+    "year": 2004,
+    "developer": "Atlus / Pinegrow",
+    "publisher": "Atlus",
+    "genre": "战略角色扮演",
+    "tags": [
+      "手绘立绘",
+      "斜视角战棋",
+      "瘴气末世"
+    ],
+    "players": "1",
+    "tagline": "瘴气吞噬大地，油画般的末世战棋",
+    "description": "世界正被名为「瘴气」的灰雾一点点吞没，人们只能依靠炼金术与信仰苟活。少年斯皮卡与伙伴们一路追寻传说中的「永恒之门」，却逐渐揭开教团与帝国背后的阴谋。\n\n《星神》由Atlus与Pinegrow联合开发，水野良监修剧本、副岛成记担任人设，2D精灵角色站在斜视角立体地图上，配合AP行动点数与「合作攻击」展开攻防。它最大的看点是美术：仿佛手绘油画的场景与人物立绘，末世的萧瑟氛围配上崎元仁与岩田匡治的管弦乐，在PS2战棋中独树一帜。系统不算复杂，适合想体验经典日式SRPG的玩家。",
+    "highlights": [
+      "油画质感的手绘美术",
+      "2D角色+斜视角战棋地图",
+      "崎元仁、岩田匡治配乐",
+      "副岛成记人设、水野良监修剧本"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "31/40",
+        "quote": "画面风格独特，战棋系统扎实"
+      },
+      {
+        "source": "IGN",
+        "score": "7.7/10",
+        "quote": "美术动人的传统战略RPG"
+      },
+      {
+        "source": "GameSpot",
+        "score": "7.5/10",
+        "quote": "画面与配乐出色，系统略显保守"
+      },
+      {
+        "source": "Metacritic",
+        "score": "75/100",
+        "quote": "获得普遍好评"
+      }
+    ],
+    "editorScore": 7.8,
+    "is2D": true,
+    "screenshots": [
+      "images/ps2/ps2-stella-deus-s1.webp",
+      "images/ps2/ps2-stella-deus-x1.webp",
+      "images/ps2/ps2-stella-deus-x2.webp",
+      "images/ps2/ps2-stella-deus-x3.webp",
+      "images/ps2/ps2-stella-deus-x4.webp",
+      "images/ps2/ps2-stella-deus-m1.webp",
+      "images/ps2/ps2-stella-deus-title.webp"
+    ],
+    "cover": "images/ps2/ps2-stella-deus-box.webp",
+    "styleMatch": 2,
+    "styleNote": "2D角色斜视角战棋，城镇为菜单"
+  },
+  {
     "id": "ps2-arcana-heart",
     "title": "Arcana Heart",
     "titleZh": "圣灵心传说",
@@ -2188,6 +2295,47 @@
     "cover": "images/ps2/ps2-mana-khemia-2-box.webp",
     "styleMatch": 2,
     "styleNote": "2D角色在3D校园中探索"
+  },
+  {
+    "id": "ps2-ibara",
+    "title": "Ibara",
+    "titleZh": "铸蔷薇",
+    "titleJa": "鋳薔薇",
+    "year": 2006,
+    "developer": "Cave",
+    "publisher": "Taito",
+    "genre": "射击",
+    "tags": [
+      "弹幕",
+      "纵版",
+      "高难度"
+    ],
+    "players": "1-2",
+    "tagline": "硝烟与玫瑰，CAVE最硬派的战机",
+    "description": "由《怒首领蜂》系列的池田恒基操刀，《铸蔷薇》是CAVE作品中风格最硬派的一部：灰暗的写实战场、满天的炮火与爆炸碎片，配上「玫瑰」主题的反派五姐妹，形成了强烈的视觉反差。\n\n游戏以复杂的计分系统和极高难度著称，敌弹颜色与背景接近，需要极强的观察力。PS2版加入了重新调整平衡的Arrange模式，让本作更容易上手。画面密度与爆炸特效堪称2D射击的顶点之一，喜欢挑战的弹幕老手一定要试试。",
+    "highlights": [
+      "写实硬派的2D战场美术",
+      "玫瑰五姐妹的反派设定",
+      "PS2版追加Arrange模式",
+      "高难度与深度计分系统"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "26/40",
+        "quote": "硬派爽快，但门槛较高"
+      }
+    ],
+    "editorScore": 7.4,
+    "is2D": true,
+    "screenshots": [
+      "images/ps2/ps2-ibara-s1.webp",
+      "images/ps2/ps2-ibara-x2.webp",
+      "images/ps2/ps2-ibara-title.webp"
+    ],
+    "cover": "images/ps2/ps2-ibara-box.webp",
+    "styleMatch": 0,
+    "styleNote": "纵版弹幕射击，非RPG"
   },
   {
     "id": "ps2-atelier-iris-3",
