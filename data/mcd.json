@@ -43,13 +43,13 @@
     "editorScore": 9.5,
     "is2D": true,
     "screenshots": [
-      "images/mcd/mcd-lunar-eternal-blue-s1.png",
-      "images/mcd/mcd-lunar-eternal-blue-s2.png",
-      "images/mcd/mcd-lunar-eternal-blue-m1.jpg",
-      "images/mcd/mcd-lunar-eternal-blue-m2.jpg",
-      "images/mcd/mcd-lunar-eternal-blue-title.png"
+      "images/mcd/mcd-lunar-eternal-blue-s1.webp",
+      "images/mcd/mcd-lunar-eternal-blue-s2.webp",
+      "images/mcd/mcd-lunar-eternal-blue-m1.webp",
+      "images/mcd/mcd-lunar-eternal-blue-m2.webp",
+      "images/mcd/mcd-lunar-eternal-blue-title.webp"
     ],
-    "cover": "images/mcd/mcd-lunar-eternal-blue-box.jpg",
+    "cover": "images/mcd/mcd-lunar-eternal-blue-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素城镇与原野，可自由探索"
   },
@@ -97,15 +97,15 @@
     "editorScore": 9.4,
     "is2D": true,
     "screenshots": [
-      "images/mcd/mcd-lunar-the-silver-star-s1.png",
-      "images/mcd/mcd-lunar-the-silver-star-s2.png",
-      "images/mcd/mcd-lunar-the-silver-star-m1.png",
-      "images/mcd/mcd-lunar-the-silver-star-m2.jpg",
-      "images/mcd/mcd-lunar-the-silver-star-m3.png",
-      "images/mcd/mcd-lunar-the-silver-star-m4.png",
-      "images/mcd/mcd-lunar-the-silver-star-title.png"
+      "images/mcd/mcd-lunar-the-silver-star-s1.webp",
+      "images/mcd/mcd-lunar-the-silver-star-s2.webp",
+      "images/mcd/mcd-lunar-the-silver-star-m1.webp",
+      "images/mcd/mcd-lunar-the-silver-star-m2.webp",
+      "images/mcd/mcd-lunar-the-silver-star-m3.webp",
+      "images/mcd/mcd-lunar-the-silver-star-m4.webp",
+      "images/mcd/mcd-lunar-the-silver-star-title.webp"
     ],
-    "cover": "images/mcd/mcd-lunar-the-silver-star-box.jpg",
+    "cover": "images/mcd/mcd-lunar-the-silver-star-box.webp",
     "styleMatch": 3,
     "styleNote": "经典俯视角JRPG，村庄商店一应俱全"
   },
@@ -153,15 +153,15 @@
     "editorScore": 9.3,
     "is2D": true,
     "screenshots": [
-      "images/mcd/mcd-snatcher-s1.png",
-      "images/mcd/mcd-snatcher-m1.jpg",
-      "images/mcd/mcd-snatcher-m2.jpg",
-      "images/mcd/mcd-snatcher-m3.jpg",
-      "images/mcd/mcd-snatcher-m4.jpg",
-      "images/mcd/mcd-snatcher-m5.jpg",
-      "images/mcd/mcd-snatcher-title.png"
+      "images/mcd/mcd-snatcher-s1.webp",
+      "images/mcd/mcd-snatcher-m1.webp",
+      "images/mcd/mcd-snatcher-m2.webp",
+      "images/mcd/mcd-snatcher-m3.webp",
+      "images/mcd/mcd-snatcher-m4.webp",
+      "images/mcd/mcd-snatcher-m5.webp",
+      "images/mcd/mcd-snatcher-title.webp"
     ],
-    "cover": "images/mcd/mcd-snatcher-box.jpg",
+    "cover": "images/mcd/mcd-snatcher-box.webp",
     "styleMatch": 1,
     "styleNote": "指令式文字冒险，像素风格相近"
   },
@@ -209,15 +209,15 @@
     "editorScore": 9.2,
     "is2D": true,
     "screenshots": [
-      "images/mcd/mcd-sonic-cd-s1.png",
-      "images/mcd/mcd-sonic-cd-s2.png",
-      "images/mcd/mcd-sonic-cd-s3.png",
-      "images/mcd/mcd-sonic-cd-m1.png",
-      "images/mcd/mcd-sonic-cd-m2.png",
-      "images/mcd/mcd-sonic-cd-m3.png",
-      "images/mcd/mcd-sonic-cd-title.png"
+      "images/mcd/mcd-sonic-cd-s1.webp",
+      "images/mcd/mcd-sonic-cd-s2.webp",
+      "images/mcd/mcd-sonic-cd-s3.webp",
+      "images/mcd/mcd-sonic-cd-m1.webp",
+      "images/mcd/mcd-sonic-cd-m2.webp",
+      "images/mcd/mcd-sonic-cd-m3.webp",
+      "images/mcd/mcd-sonic-cd-title.webp"
     ],
-    "cover": "images/mcd/mcd-sonic-cd-box.jpg",
+    "cover": "images/mcd/mcd-sonic-cd-box.webp",
     "styleMatch": 1,
     "styleNote": "横版平台跳跃，仅同时代像素风"
   },
@@ -265,15 +265,15 @@
     "editorScore": 8.8,
     "is2D": true,
     "screenshots": [
-      "images/mcd/mcd-popful-mail-s1.png",
-      "images/mcd/mcd-popful-mail-s2.png",
-      "images/mcd/mcd-popful-mail-m1.png",
-      "images/mcd/mcd-popful-mail-m2.png",
-      "images/mcd/mcd-popful-mail-m3.png",
-      "images/mcd/mcd-popful-mail-m4.png",
-      "images/mcd/mcd-popful-mail-title.png"
+      "images/mcd/mcd-popful-mail-s1.webp",
+      "images/mcd/mcd-popful-mail-s2.webp",
+      "images/mcd/mcd-popful-mail-m1.webp",
+      "images/mcd/mcd-popful-mail-m2.webp",
+      "images/mcd/mcd-popful-mail-m3.webp",
+      "images/mcd/mcd-popful-mail-m4.webp",
+      "images/mcd/mcd-popful-mail-title.webp"
     ],
-    "cover": "images/mcd/mcd-popful-mail-box.jpg",
+    "cover": "images/mcd/mcd-popful-mail-box.webp",
     "styleMatch": 2,
     "styleNote": "有城镇商店的ARPG，但为横版视角"
   },
@@ -316,15 +316,15 @@
     "editorScore": 8.7,
     "is2D": true,
     "screenshots": [
-      "images/mcd/mcd-shining-force-cd-s1.png",
-      "images/mcd/mcd-shining-force-cd-s2.png",
-      "images/mcd/mcd-shining-force-cd-s3.png",
-      "images/mcd/mcd-shining-force-cd-m1.png",
-      "images/mcd/mcd-shining-force-cd-m2.png",
-      "images/mcd/mcd-shining-force-cd-m3.png",
-      "images/mcd/mcd-shining-force-cd-title.png"
+      "images/mcd/mcd-shining-force-cd-s1.webp",
+      "images/mcd/mcd-shining-force-cd-s2.webp",
+      "images/mcd/mcd-shining-force-cd-s3.webp",
+      "images/mcd/mcd-shining-force-cd-m1.webp",
+      "images/mcd/mcd-shining-force-cd-m2.webp",
+      "images/mcd/mcd-shining-force-cd-m3.webp",
+      "images/mcd/mcd-shining-force-cd-title.webp"
     ],
-    "cover": "images/mcd/mcd-shining-force-cd-box.jpg",
+    "cover": "images/mcd/mcd-shining-force-cd-box.webp",
     "styleMatch": 2,
     "styleNote": "像素战棋RPG，几乎没有自由城镇探索"
   },
@@ -367,15 +367,15 @@
     "editorScore": 8.7,
     "is2D": true,
     "screenshots": [
-      "images/mcd/mcd-earthworm-jim-special-edition-s1.png",
-      "images/mcd/mcd-earthworm-jim-special-edition-s2.png",
-      "images/mcd/mcd-earthworm-jim-special-edition-s3.png",
-      "images/mcd/mcd-earthworm-jim-special-edition-m1.png",
-      "images/mcd/mcd-earthworm-jim-special-edition-m2.png",
-      "images/mcd/mcd-earthworm-jim-special-edition-m3.png",
-      "images/mcd/mcd-earthworm-jim-special-edition-title.png"
+      "images/mcd/mcd-earthworm-jim-special-edition-s1.webp",
+      "images/mcd/mcd-earthworm-jim-special-edition-s2.webp",
+      "images/mcd/mcd-earthworm-jim-special-edition-s3.webp",
+      "images/mcd/mcd-earthworm-jim-special-edition-m1.webp",
+      "images/mcd/mcd-earthworm-jim-special-edition-m2.webp",
+      "images/mcd/mcd-earthworm-jim-special-edition-m3.webp",
+      "images/mcd/mcd-earthworm-jim-special-edition-title.webp"
     ],
-    "cover": "images/mcd/mcd-earthworm-jim-special-edition-box.jpg",
+    "cover": "images/mcd/mcd-earthworm-jim-special-edition-box.webp",
     "styleMatch": 1,
     "styleNote": "横版平台跳跃，手绘动画风"
   },
@@ -423,15 +423,15 @@
     "editorScore": 8.6,
     "is2D": true,
     "screenshots": [
-      "images/mcd/mcd-final-fight-cd-s1.png",
-      "images/mcd/mcd-final-fight-cd-s2.png",
-      "images/mcd/mcd-final-fight-cd-m1.png",
-      "images/mcd/mcd-final-fight-cd-m2.png",
-      "images/mcd/mcd-final-fight-cd-m3.png",
-      "images/mcd/mcd-final-fight-cd-m4.png",
-      "images/mcd/mcd-final-fight-cd-title.png"
+      "images/mcd/mcd-final-fight-cd-s1.webp",
+      "images/mcd/mcd-final-fight-cd-s2.webp",
+      "images/mcd/mcd-final-fight-cd-m1.webp",
+      "images/mcd/mcd-final-fight-cd-m2.webp",
+      "images/mcd/mcd-final-fight-cd-m3.webp",
+      "images/mcd/mcd-final-fight-cd-m4.webp",
+      "images/mcd/mcd-final-fight-cd-title.webp"
     ],
-    "cover": "images/mcd/mcd-final-fight-cd-box.jpg",
+    "cover": "images/mcd/mcd-final-fight-cd-box.webp",
     "styleMatch": 1,
     "styleNote": "横版清版动作，无探索要素"
   },
@@ -479,15 +479,15 @@
     "editorScore": 8.5,
     "is2D": true,
     "screenshots": [
-      "images/mcd/mcd-robo-aleste-s1.png",
-      "images/mcd/mcd-robo-aleste-s2.png",
-      "images/mcd/mcd-robo-aleste-m1.png",
-      "images/mcd/mcd-robo-aleste-m2.png",
-      "images/mcd/mcd-robo-aleste-m3.png",
-      "images/mcd/mcd-robo-aleste-m4.png",
-      "images/mcd/mcd-robo-aleste-title.png"
+      "images/mcd/mcd-robo-aleste-s1.webp",
+      "images/mcd/mcd-robo-aleste-s2.webp",
+      "images/mcd/mcd-robo-aleste-m1.webp",
+      "images/mcd/mcd-robo-aleste-m2.webp",
+      "images/mcd/mcd-robo-aleste-m3.webp",
+      "images/mcd/mcd-robo-aleste-m4.webp",
+      "images/mcd/mcd-robo-aleste-title.webp"
     ],
-    "cover": "images/mcd/mcd-robo-aleste-box.jpg",
+    "cover": "images/mcd/mcd-robo-aleste-box.webp",
     "styleMatch": 0,
     "styleNote": "纵版射击游戏"
   },
@@ -535,15 +535,15 @@
     "editorScore": 8.4,
     "is2D": true,
     "screenshots": [
-      "images/mcd/mcd-ecco-the-dolphin-cd-s1.png",
-      "images/mcd/mcd-ecco-the-dolphin-cd-s2.png",
-      "images/mcd/mcd-ecco-the-dolphin-cd-s3.png",
-      "images/mcd/mcd-ecco-the-dolphin-cd-m1.png",
-      "images/mcd/mcd-ecco-the-dolphin-cd-m2.png",
-      "images/mcd/mcd-ecco-the-dolphin-cd-m3.png",
-      "images/mcd/mcd-ecco-the-dolphin-cd-title.png"
+      "images/mcd/mcd-ecco-the-dolphin-cd-s1.webp",
+      "images/mcd/mcd-ecco-the-dolphin-cd-s2.webp",
+      "images/mcd/mcd-ecco-the-dolphin-cd-s3.webp",
+      "images/mcd/mcd-ecco-the-dolphin-cd-m1.webp",
+      "images/mcd/mcd-ecco-the-dolphin-cd-m2.webp",
+      "images/mcd/mcd-ecco-the-dolphin-cd-m3.webp",
+      "images/mcd/mcd-ecco-the-dolphin-cd-title.webp"
     ],
-    "cover": "images/mcd/mcd-ecco-the-dolphin-cd-box.jpg",
+    "cover": "images/mcd/mcd-ecco-the-dolphin-cd-box.webp",
     "styleMatch": 1,
     "styleNote": "横版水下动作冒险，无城镇"
   },
@@ -591,15 +591,15 @@
     "editorScore": 8.3,
     "is2D": true,
     "screenshots": [
-      "images/mcd/mcd-keio-flying-squadron-s1.png",
-      "images/mcd/mcd-keio-flying-squadron-s2.png",
-      "images/mcd/mcd-keio-flying-squadron-m1.png",
-      "images/mcd/mcd-keio-flying-squadron-m2.png",
-      "images/mcd/mcd-keio-flying-squadron-m3.png",
-      "images/mcd/mcd-keio-flying-squadron-m4.png",
-      "images/mcd/mcd-keio-flying-squadron-title.png"
+      "images/mcd/mcd-keio-flying-squadron-s1.webp",
+      "images/mcd/mcd-keio-flying-squadron-s2.webp",
+      "images/mcd/mcd-keio-flying-squadron-m1.webp",
+      "images/mcd/mcd-keio-flying-squadron-m2.webp",
+      "images/mcd/mcd-keio-flying-squadron-m3.webp",
+      "images/mcd/mcd-keio-flying-squadron-m4.webp",
+      "images/mcd/mcd-keio-flying-squadron-title.webp"
     ],
-    "cover": "images/mcd/mcd-keio-flying-squadron-box.jpg",
+    "cover": "images/mcd/mcd-keio-flying-squadron-box.webp",
     "styleMatch": 0,
     "styleNote": "横版射击游戏"
   },
@@ -637,14 +637,14 @@
     "editorScore": 8.3,
     "is2D": true,
     "screenshots": [
-      "images/mcd/mcd-shin-megami-tensei-s1.png",
-      "images/mcd/mcd-shin-megami-tensei-x1.png",
-      "images/mcd/mcd-shin-megami-tensei-x2.png",
-      "images/mcd/mcd-shin-megami-tensei-m2.png",
-      "images/mcd/mcd-shin-megami-tensei-m3.png",
-      "images/mcd/mcd-shin-megami-tensei-title.png"
+      "images/mcd/mcd-shin-megami-tensei-s1.webp",
+      "images/mcd/mcd-shin-megami-tensei-x1.webp",
+      "images/mcd/mcd-shin-megami-tensei-x2.webp",
+      "images/mcd/mcd-shin-megami-tensei-m2.webp",
+      "images/mcd/mcd-shin-megami-tensei-m3.webp",
+      "images/mcd/mcd-shin-megami-tensei-title.webp"
     ],
-    "cover": "images/mcd/mcd-shin-megami-tensei-box.jpg",
+    "cover": "images/mcd/mcd-shin-megami-tensei-box.webp",
     "styleMatch": 2,
     "styleNote": "第一人称迷宫为主，配俯视大地图"
   },
@@ -692,15 +692,15 @@
     "editorScore": 8.2,
     "is2D": false,
     "screenshots": [
-      "images/mcd/mcd-silpheed-s1.png",
-      "images/mcd/mcd-silpheed-s2.png",
-      "images/mcd/mcd-silpheed-s3.png",
-      "images/mcd/mcd-silpheed-m1.png",
-      "images/mcd/mcd-silpheed-m2.png",
-      "images/mcd/mcd-silpheed-m3.png",
-      "images/mcd/mcd-silpheed-title.png"
+      "images/mcd/mcd-silpheed-s1.webp",
+      "images/mcd/mcd-silpheed-s2.webp",
+      "images/mcd/mcd-silpheed-s3.webp",
+      "images/mcd/mcd-silpheed-m1.webp",
+      "images/mcd/mcd-silpheed-m2.webp",
+      "images/mcd/mcd-silpheed-m3.webp",
+      "images/mcd/mcd-silpheed-title.webp"
     ],
-    "cover": "images/mcd/mcd-silpheed-box.jpg",
+    "cover": "images/mcd/mcd-silpheed-box.webp",
     "styleMatch": 0,
     "styleNote": "多边形纵版射击"
   },
@@ -743,15 +743,15 @@
     "editorScore": 8.0,
     "is2D": true,
     "screenshots": [
-      "images/mcd/mcd-lords-of-thunder-s1.png",
-      "images/mcd/mcd-lords-of-thunder-s2.png",
-      "images/mcd/mcd-lords-of-thunder-m1.png",
-      "images/mcd/mcd-lords-of-thunder-m2.png",
-      "images/mcd/mcd-lords-of-thunder-m3.png",
-      "images/mcd/mcd-lords-of-thunder-m4.png",
-      "images/mcd/mcd-lords-of-thunder-title.png"
+      "images/mcd/mcd-lords-of-thunder-s1.webp",
+      "images/mcd/mcd-lords-of-thunder-s2.webp",
+      "images/mcd/mcd-lords-of-thunder-m1.webp",
+      "images/mcd/mcd-lords-of-thunder-m2.webp",
+      "images/mcd/mcd-lords-of-thunder-m3.webp",
+      "images/mcd/mcd-lords-of-thunder-m4.webp",
+      "images/mcd/mcd-lords-of-thunder-title.webp"
     ],
-    "cover": "images/mcd/mcd-lords-of-thunder-box.jpg",
+    "cover": "images/mcd/mcd-lords-of-thunder-box.webp",
     "styleMatch": 0,
     "styleNote": "横版射击游戏"
   },
@@ -789,15 +789,15 @@
     "editorScore": 7.8,
     "is2D": true,
     "screenshots": [
-      "images/mcd/mcd-vay-s1.png",
-      "images/mcd/mcd-vay-x1.png",
-      "images/mcd/mcd-vay-m1.png",
-      "images/mcd/mcd-vay-m2.png",
-      "images/mcd/mcd-vay-m3.png",
-      "images/mcd/mcd-vay-m4.png",
-      "images/mcd/mcd-vay-title.png"
+      "images/mcd/mcd-vay-s1.webp",
+      "images/mcd/mcd-vay-x1.webp",
+      "images/mcd/mcd-vay-m1.webp",
+      "images/mcd/mcd-vay-m2.webp",
+      "images/mcd/mcd-vay-m3.webp",
+      "images/mcd/mcd-vay-m4.webp",
+      "images/mcd/mcd-vay-title.webp"
     ],
-    "cover": "images/mcd/mcd-vay-box.jpg",
+    "cover": "images/mcd/mcd-vay-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素村庄，标准日式RPG探索"
   },
@@ -835,15 +835,15 @@
     "editorScore": 7.7,
     "is2D": true,
     "screenshots": [
-      "images/mcd/mcd-illusion-city-s1.png",
-      "images/mcd/mcd-illusion-city-x1.png",
-      "images/mcd/mcd-illusion-city-m1.png",
-      "images/mcd/mcd-illusion-city-m2.png",
-      "images/mcd/mcd-illusion-city-m3.png",
-      "images/mcd/mcd-illusion-city-m4.png",
-      "images/mcd/mcd-illusion-city-title.png"
+      "images/mcd/mcd-illusion-city-s1.webp",
+      "images/mcd/mcd-illusion-city-x1.webp",
+      "images/mcd/mcd-illusion-city-m1.webp",
+      "images/mcd/mcd-illusion-city-m2.webp",
+      "images/mcd/mcd-illusion-city-m3.webp",
+      "images/mcd/mcd-illusion-city-m4.webp",
+      "images/mcd/mcd-illusion-city-title.webp"
     ],
-    "cover": "images/mcd/mcd-illusion-city-box.jpg",
+    "cover": "images/mcd/mcd-illusion-city-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角城市街景，可自由行走与对话"
   },
@@ -891,15 +891,15 @@
     "editorScore": 7.6,
     "is2D": true,
     "screenshots": [
-      "images/mcd/mcd-dark-wizard-s1.png",
-      "images/mcd/mcd-dark-wizard-x1.png",
-      "images/mcd/mcd-dark-wizard-m1.png",
-      "images/mcd/mcd-dark-wizard-m2.png",
-      "images/mcd/mcd-dark-wizard-m3.png",
-      "images/mcd/mcd-dark-wizard-m4.png",
-      "images/mcd/mcd-dark-wizard-title.png"
+      "images/mcd/mcd-dark-wizard-s1.webp",
+      "images/mcd/mcd-dark-wizard-x1.webp",
+      "images/mcd/mcd-dark-wizard-m1.webp",
+      "images/mcd/mcd-dark-wizard-m2.webp",
+      "images/mcd/mcd-dark-wizard-m3.webp",
+      "images/mcd/mcd-dark-wizard-m4.webp",
+      "images/mcd/mcd-dark-wizard-title.webp"
     ],
-    "cover": "images/mcd/mcd-dark-wizard-box.jpg",
+    "cover": "images/mcd/mcd-dark-wizard-box.webp",
     "styleMatch": 2,
     "styleNote": "六角格战略RPG，城镇以占领为主"
   },
@@ -937,15 +937,15 @@
     "editorScore": 7.5,
     "is2D": true,
     "screenshots": [
-      "images/mcd/mcd-heart-of-the-alien-s1.png",
-      "images/mcd/mcd-heart-of-the-alien-s2.png",
-      "images/mcd/mcd-heart-of-the-alien-m1.png",
-      "images/mcd/mcd-heart-of-the-alien-m2.png",
-      "images/mcd/mcd-heart-of-the-alien-m3.png",
-      "images/mcd/mcd-heart-of-the-alien-m4.png",
-      "images/mcd/mcd-heart-of-the-alien-title.png"
+      "images/mcd/mcd-heart-of-the-alien-s1.webp",
+      "images/mcd/mcd-heart-of-the-alien-s2.webp",
+      "images/mcd/mcd-heart-of-the-alien-m1.webp",
+      "images/mcd/mcd-heart-of-the-alien-m2.webp",
+      "images/mcd/mcd-heart-of-the-alien-m3.webp",
+      "images/mcd/mcd-heart-of-the-alien-m4.webp",
+      "images/mcd/mcd-heart-of-the-alien-title.webp"
     ],
-    "cover": "images/mcd/mcd-heart-of-the-alien-box.jpg",
+    "cover": "images/mcd/mcd-heart-of-the-alien-box.webp",
     "styleMatch": 1,
     "styleNote": "电影式横版动作，矢量画面"
   },
@@ -983,15 +983,15 @@
     "editorScore": 7.4,
     "is2D": true,
     "screenshots": [
-      "images/mcd/mcd-yumimi-mix-s1.png",
-      "images/mcd/mcd-yumimi-mix-x1.png",
-      "images/mcd/mcd-yumimi-mix-x2.png",
-      "images/mcd/mcd-yumimi-mix-m1.png",
-      "images/mcd/mcd-yumimi-mix-m2.png",
-      "images/mcd/mcd-yumimi-mix-m3.png",
-      "images/mcd/mcd-yumimi-mix-title.png"
+      "images/mcd/mcd-yumimi-mix-s1.webp",
+      "images/mcd/mcd-yumimi-mix-x1.webp",
+      "images/mcd/mcd-yumimi-mix-x2.webp",
+      "images/mcd/mcd-yumimi-mix-m1.webp",
+      "images/mcd/mcd-yumimi-mix-m2.webp",
+      "images/mcd/mcd-yumimi-mix-m3.webp",
+      "images/mcd/mcd-yumimi-mix-title.webp"
     ],
-    "cover": "images/mcd/mcd-yumimi-mix-box.jpg",
+    "cover": "images/mcd/mcd-yumimi-mix-box.webp",
     "styleMatch": 1,
     "styleNote": "互动动画冒险，无自由探索"
   },
@@ -1034,15 +1034,15 @@
     "editorScore": 7.4,
     "is2D": true,
     "screenshots": [
-      "images/mcd/mcd-sol-feace-s1.png",
-      "images/mcd/mcd-sol-feace-s2.png",
-      "images/mcd/mcd-sol-feace-s3.png",
-      "images/mcd/mcd-sol-feace-m1.png",
-      "images/mcd/mcd-sol-feace-m2.png",
-      "images/mcd/mcd-sol-feace-m3.png",
-      "images/mcd/mcd-sol-feace-title.png"
+      "images/mcd/mcd-sol-feace-s1.webp",
+      "images/mcd/mcd-sol-feace-s2.webp",
+      "images/mcd/mcd-sol-feace-s3.webp",
+      "images/mcd/mcd-sol-feace-m1.webp",
+      "images/mcd/mcd-sol-feace-m2.webp",
+      "images/mcd/mcd-sol-feace-m3.webp",
+      "images/mcd/mcd-sol-feace-title.webp"
     ],
-    "cover": "images/mcd/mcd-sol-feace-box.jpg",
+    "cover": "images/mcd/mcd-sol-feace-box.webp",
     "styleMatch": 0,
     "styleNote": "横版射击游戏"
   },
@@ -1090,15 +1090,15 @@
     "editorScore": 7.3,
     "is2D": true,
     "screenshots": [
-      "images/mcd/mcd-time-gal-s1.png",
-      "images/mcd/mcd-time-gal-s2.png",
-      "images/mcd/mcd-time-gal-s3.png",
-      "images/mcd/mcd-time-gal-m1.png",
-      "images/mcd/mcd-time-gal-m2.png",
-      "images/mcd/mcd-time-gal-m3.png",
-      "images/mcd/mcd-time-gal-title.png"
+      "images/mcd/mcd-time-gal-s1.webp",
+      "images/mcd/mcd-time-gal-s2.webp",
+      "images/mcd/mcd-time-gal-s3.webp",
+      "images/mcd/mcd-time-gal-m1.webp",
+      "images/mcd/mcd-time-gal-m2.webp",
+      "images/mcd/mcd-time-gal-m3.webp",
+      "images/mcd/mcd-time-gal-title.webp"
     ],
-    "cover": "images/mcd/mcd-time-gal-box.jpg",
+    "cover": "images/mcd/mcd-time-gal-box.webp",
     "styleMatch": 1,
     "styleNote": "动画QTE游戏，仅同时代画风"
   },
@@ -1136,15 +1136,15 @@
     "editorScore": 7.3,
     "is2D": true,
     "screenshots": [
-      "images/mcd/mcd-arcus-i-ii-iii-s1.png",
-      "images/mcd/mcd-arcus-i-ii-iii-x1.png",
-      "images/mcd/mcd-arcus-i-ii-iii-m1.png",
-      "images/mcd/mcd-arcus-i-ii-iii-m2.png",
-      "images/mcd/mcd-arcus-i-ii-iii-m3.png",
-      "images/mcd/mcd-arcus-i-ii-iii-m4.png",
-      "images/mcd/mcd-arcus-i-ii-iii-title.png"
+      "images/mcd/mcd-arcus-i-ii-iii-s1.webp",
+      "images/mcd/mcd-arcus-i-ii-iii-x1.webp",
+      "images/mcd/mcd-arcus-i-ii-iii-m1.webp",
+      "images/mcd/mcd-arcus-i-ii-iii-m2.webp",
+      "images/mcd/mcd-arcus-i-ii-iii-m3.webp",
+      "images/mcd/mcd-arcus-i-ii-iii-m4.webp",
+      "images/mcd/mcd-arcus-i-ii-iii-title.webp"
     ],
-    "cover": "images/mcd/mcd-arcus-i-ii-iii-box.jpg",
+    "cover": "images/mcd/mcd-arcus-i-ii-iii-box.webp",
     "styleMatch": 2,
     "styleNote": "第一人称迷宫RPG，城镇为对话画面"
   },
@@ -1182,15 +1182,15 @@
     "editorScore": 7.2,
     "is2D": true,
     "screenshots": [
-      "images/mcd/mcd-annet-futatabi-s1.png",
-      "images/mcd/mcd-annet-futatabi-x1.jpg",
-      "images/mcd/mcd-annet-futatabi-m1.png",
-      "images/mcd/mcd-annet-futatabi-m2.png",
-      "images/mcd/mcd-annet-futatabi-m3.png",
-      "images/mcd/mcd-annet-futatabi-m4.png",
-      "images/mcd/mcd-annet-futatabi-title.png"
+      "images/mcd/mcd-annet-futatabi-s1.webp",
+      "images/mcd/mcd-annet-futatabi-x1.webp",
+      "images/mcd/mcd-annet-futatabi-m1.webp",
+      "images/mcd/mcd-annet-futatabi-m2.webp",
+      "images/mcd/mcd-annet-futatabi-m3.webp",
+      "images/mcd/mcd-annet-futatabi-m4.webp",
+      "images/mcd/mcd-annet-futatabi-title.webp"
     ],
-    "cover": "images/mcd/mcd-annet-futatabi-box.jpg",
+    "cover": "images/mcd/mcd-annet-futatabi-box.webp",
     "styleMatch": 1,
     "styleNote": "横版清版动作，像素风格相近"
   },
@@ -1229,14 +1229,14 @@
     "is2D": true,
     "screenshots": [
       "images/mcd/mcd-burai-s1.png",
-      "images/mcd/mcd-burai-x1.png",
-      "images/mcd/mcd-burai-m1.png",
-      "images/mcd/mcd-burai-m2.png",
-      "images/mcd/mcd-burai-m3.png",
-      "images/mcd/mcd-burai-m4.png",
-      "images/mcd/mcd-burai-title.png"
+      "images/mcd/mcd-burai-x1.webp",
+      "images/mcd/mcd-burai-m1.webp",
+      "images/mcd/mcd-burai-m2.webp",
+      "images/mcd/mcd-burai-m3.webp",
+      "images/mcd/mcd-burai-m4.webp",
+      "images/mcd/mcd-burai-title.webp"
     ],
-    "cover": "images/mcd/mcd-burai-box.jpg",
+    "cover": "images/mcd/mcd-burai-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素村庄与原野，可自由探索"
   },
@@ -1284,15 +1284,15 @@
     "editorScore": 7.0,
     "is2D": true,
     "screenshots": [
-      "images/mcd/mcd-dungeon-explorer-s1.png",
-      "images/mcd/mcd-dungeon-explorer-s2.png",
-      "images/mcd/mcd-dungeon-explorer-m1.png",
-      "images/mcd/mcd-dungeon-explorer-m2.png",
-      "images/mcd/mcd-dungeon-explorer-m3.png",
-      "images/mcd/mcd-dungeon-explorer-m4.png",
-      "images/mcd/mcd-dungeon-explorer-title.png"
+      "images/mcd/mcd-dungeon-explorer-s1.webp",
+      "images/mcd/mcd-dungeon-explorer-s2.webp",
+      "images/mcd/mcd-dungeon-explorer-m1.webp",
+      "images/mcd/mcd-dungeon-explorer-m2.webp",
+      "images/mcd/mcd-dungeon-explorer-m3.webp",
+      "images/mcd/mcd-dungeon-explorer-m4.webp",
+      "images/mcd/mcd-dungeon-explorer-title.webp"
     ],
-    "cover": "images/mcd/mcd-dungeon-explorer-box.jpg",
+    "cover": "images/mcd/mcd-dungeon-explorer-box.webp",
     "styleMatch": 2,
     "styleNote": "俯视角动作RPG，城镇仅为商店菜单"
   },
@@ -1331,14 +1331,14 @@
     "is2D": true,
     "screenshots": [
       "images/mcd/mcd-cosmic-fantasy-stories-s1.png",
-      "images/mcd/mcd-cosmic-fantasy-stories-x1.png",
-      "images/mcd/mcd-cosmic-fantasy-stories-m1.png",
-      "images/mcd/mcd-cosmic-fantasy-stories-m2.png",
-      "images/mcd/mcd-cosmic-fantasy-stories-m3.png",
-      "images/mcd/mcd-cosmic-fantasy-stories-m4.jpg",
-      "images/mcd/mcd-cosmic-fantasy-stories-title.png"
+      "images/mcd/mcd-cosmic-fantasy-stories-x1.webp",
+      "images/mcd/mcd-cosmic-fantasy-stories-m1.webp",
+      "images/mcd/mcd-cosmic-fantasy-stories-m2.webp",
+      "images/mcd/mcd-cosmic-fantasy-stories-m3.webp",
+      "images/mcd/mcd-cosmic-fantasy-stories-m4.webp",
+      "images/mcd/mcd-cosmic-fantasy-stories-title.webp"
     ],
-    "cover": "images/mcd/mcd-cosmic-fantasy-stories-box.jpg",
+    "cover": "images/mcd/mcd-cosmic-fantasy-stories-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素村庄，可与村民交谈购物"
   },
@@ -1370,15 +1370,15 @@
     "editorScore": 6.4,
     "is2D": true,
     "screenshots": [
-      "images/mcd/mcd-fhey-area-s1.png",
-      "images/mcd/mcd-fhey-area-x1.png",
-      "images/mcd/mcd-fhey-area-y1.png",
-      "images/mcd/mcd-fhey-area-y2.png",
-      "images/mcd/mcd-fhey-area-y3.png",
-      "images/mcd/mcd-fhey-area-y4.png",
-      "images/mcd/mcd-fhey-area-title.png"
+      "images/mcd/mcd-fhey-area-s1.webp",
+      "images/mcd/mcd-fhey-area-x1.webp",
+      "images/mcd/mcd-fhey-area-y1.webp",
+      "images/mcd/mcd-fhey-area-y2.webp",
+      "images/mcd/mcd-fhey-area-y3.webp",
+      "images/mcd/mcd-fhey-area-y4.webp",
+      "images/mcd/mcd-fhey-area-title.webp"
     ],
-    "cover": "images/mcd/mcd-fhey-area-box.jpg",
+    "cover": "images/mcd/mcd-fhey-area-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素村庄与房屋内景"
   }

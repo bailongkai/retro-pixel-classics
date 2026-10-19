@@ -42,15 +42,15 @@
     "editorScore": 9.5,
     "is2D": true,
     "screenshots": [
-      "images/md/md-phantasy-star-iv-x1.png",
-      "images/md/md-phantasy-star-iv-x2.png",
-      "images/md/md-phantasy-star-iv-x3.png",
-      "images/md/md-phantasy-star-iv-s1.png",
-      "images/md/md-phantasy-star-iv-m1.png",
-      "images/md/md-phantasy-star-iv-m2.png",
-      "images/md/md-phantasy-star-iv-title.png"
+      "images/md/md-phantasy-star-iv-x1.webp",
+      "images/md/md-phantasy-star-iv-x2.webp",
+      "images/md/md-phantasy-star-iv-x3.webp",
+      "images/md/md-phantasy-star-iv-s1.webp",
+      "images/md/md-phantasy-star-iv-m1.webp",
+      "images/md/md-phantasy-star-iv-m2.webp",
+      "images/md/md-phantasy-star-iv-title.webp"
     ],
-    "cover": "images/md/md-phantasy-star-iv-box.jpg",
+    "cover": "images/md/md-phantasy-star-iv-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素城镇与大地图，可自由探索商店"
   },
@@ -97,15 +97,15 @@
     "editorScore": 9.4,
     "is2D": true,
     "screenshots": [
-      "images/md/md-shining-force-ii-x1.png",
-      "images/md/md-shining-force-ii-x2.png",
-      "images/md/md-shining-force-ii-x3.png",
+      "images/md/md-shining-force-ii-x1.webp",
+      "images/md/md-shining-force-ii-x2.webp",
+      "images/md/md-shining-force-ii-x3.webp",
       "images/md/md-shining-force-ii-s1.png",
-      "images/md/md-shining-force-ii-s2.png",
-      "images/md/md-shining-force-ii-m1.jpg",
-      "images/md/md-shining-force-ii-title.png"
+      "images/md/md-shining-force-ii-s2.webp",
+      "images/md/md-shining-force-ii-m1.webp",
+      "images/md/md-shining-force-ii-title.webp"
     ],
-    "cover": "images/md/md-shining-force-ii-box.jpg",
+    "cover": "images/md/md-shining-force-ii-box.webp",
     "styleMatch": 2,
     "styleNote": "战棋为主，城镇与大地图可俯视角漫游"
   },
@@ -152,15 +152,15 @@
     "editorScore": 9.4,
     "is2D": true,
     "screenshots": [
-      "images/md/md-gunstar-heroes-x1.png",
-      "images/md/md-gunstar-heroes-x2.png",
-      "images/md/md-gunstar-heroes-x3.png",
-      "images/md/md-gunstar-heroes-s1.png",
-      "images/md/md-gunstar-heroes-m1.png",
-      "images/md/md-gunstar-heroes-m2.png",
-      "images/md/md-gunstar-heroes-title.png"
+      "images/md/md-gunstar-heroes-x1.webp",
+      "images/md/md-gunstar-heroes-x2.webp",
+      "images/md/md-gunstar-heroes-x3.webp",
+      "images/md/md-gunstar-heroes-s1.webp",
+      "images/md/md-gunstar-heroes-m1.webp",
+      "images/md/md-gunstar-heroes-m2.webp",
+      "images/md/md-gunstar-heroes-title.webp"
     ],
-    "cover": "images/md/md-gunstar-heroes-box.jpg",
+    "cover": "images/md/md-gunstar-heroes-box.webp",
     "styleMatch": 1,
     "styleNote": "横版像素动作射击，仅画风年代相近"
   },
@@ -207,15 +207,15 @@
     "editorScore": 9.3,
     "is2D": true,
     "screenshots": [
-      "images/md/md-monster-world-iv-x1.png",
-      "images/md/md-monster-world-iv-x2.png",
-      "images/md/md-monster-world-iv-x3.png",
-      "images/md/md-monster-world-iv-s1.png",
-      "images/md/md-monster-world-iv-m1.png",
-      "images/md/md-monster-world-iv-m2.png",
-      "images/md/md-monster-world-iv-title.png"
+      "images/md/md-monster-world-iv-x1.webp",
+      "images/md/md-monster-world-iv-x2.webp",
+      "images/md/md-monster-world-iv-x3.webp",
+      "images/md/md-monster-world-iv-s1.webp",
+      "images/md/md-monster-world-iv-m1.webp",
+      "images/md/md-monster-world-iv-m2.webp",
+      "images/md/md-monster-world-iv-title.webp"
     ],
-    "cover": "images/md/md-monster-world-iv-box.jpg",
+    "cover": "images/md/md-monster-world-iv-box.webp",
     "styleMatch": 2,
     "styleNote": "横版动作RPG，有村庄商店但为侧视角"
   },
@@ -262,15 +262,15 @@
     "editorScore": 9.3,
     "is2D": true,
     "screenshots": [
-      "images/md/md-streets-of-rage-2-x1.png",
-      "images/md/md-streets-of-rage-2-x2.png",
-      "images/md/md-streets-of-rage-2-x3.png",
-      "images/md/md-streets-of-rage-2-s1.png",
-      "images/md/md-streets-of-rage-2-m1.jpg",
+      "images/md/md-streets-of-rage-2-x1.webp",
+      "images/md/md-streets-of-rage-2-x2.webp",
+      "images/md/md-streets-of-rage-2-x3.webp",
+      "images/md/md-streets-of-rage-2-s1.webp",
+      "images/md/md-streets-of-rage-2-m1.webp",
       "images/md/md-streets-of-rage-2-m2.jpg",
-      "images/md/md-streets-of-rage-2-title.png"
+      "images/md/md-streets-of-rage-2-title.webp"
     ],
-    "cover": "images/md/md-streets-of-rage-2-box.jpg",
+    "cover": "images/md/md-streets-of-rage-2-box.webp",
     "styleMatch": 1,
     "styleNote": "横版像素清版动作，无探索要素"
   },
@@ -317,14 +317,14 @@
     "editorScore": 9.3,
     "is2D": true,
     "screenshots": [
-      "images/md/md-sonic-3-and-knuckles-x1.png",
-      "images/md/md-sonic-3-and-knuckles-x2.png",
-      "images/md/md-sonic-3-and-knuckles-m1.png",
-      "images/md/md-sonic-3-and-knuckles-m2.png",
+      "images/md/md-sonic-3-and-knuckles-x1.webp",
+      "images/md/md-sonic-3-and-knuckles-x2.webp",
+      "images/md/md-sonic-3-and-knuckles-m1.webp",
+      "images/md/md-sonic-3-and-knuckles-m2.webp",
       "images/md/md-sonic-3-and-knuckles-m3.jpg",
-      "images/md/md-sonic-3-and-knuckles-m4.jpg"
+      "images/md/md-sonic-3-and-knuckles-m4.webp"
     ],
-    "cover": "images/md/md-sonic-3-and-knuckles-box.jpg",
+    "cover": "images/md/md-sonic-3-and-knuckles-box.webp",
     "styleMatch": 1,
     "styleNote": "横版高速平台跳跃，仅像素画风相近"
   },
@@ -371,15 +371,15 @@
     "editorScore": 9.2,
     "is2D": true,
     "screenshots": [
-      "images/md/md-sonic-the-hedgehog-2-x1.png",
-      "images/md/md-sonic-the-hedgehog-2-x2.png",
-      "images/md/md-sonic-the-hedgehog-2-x3.png",
-      "images/md/md-sonic-the-hedgehog-2-s1.png",
-      "images/md/md-sonic-the-hedgehog-2-m1.jpg",
-      "images/md/md-sonic-the-hedgehog-2-m2.png",
-      "images/md/md-sonic-the-hedgehog-2-title.png"
+      "images/md/md-sonic-the-hedgehog-2-x1.webp",
+      "images/md/md-sonic-the-hedgehog-2-x2.webp",
+      "images/md/md-sonic-the-hedgehog-2-x3.webp",
+      "images/md/md-sonic-the-hedgehog-2-s1.webp",
+      "images/md/md-sonic-the-hedgehog-2-m1.webp",
+      "images/md/md-sonic-the-hedgehog-2-m2.webp",
+      "images/md/md-sonic-the-hedgehog-2-title.webp"
     ],
-    "cover": "images/md/md-sonic-the-hedgehog-2-box.jpg",
+    "cover": "images/md/md-sonic-the-hedgehog-2-box.webp",
     "styleMatch": 1,
     "styleNote": "横版高速平台跳跃，仅像素画风相近"
   },
@@ -426,15 +426,15 @@
     "editorScore": 9.0,
     "is2D": true,
     "screenshots": [
-      "images/md/md-landstalker-x1.png",
-      "images/md/md-landstalker-x2.png",
-      "images/md/md-landstalker-x3.png",
-      "images/md/md-landstalker-s1.png",
-      "images/md/md-landstalker-s2.png",
-      "images/md/md-landstalker-m1.jpg",
-      "images/md/md-landstalker-title.png"
+      "images/md/md-landstalker-x1.webp",
+      "images/md/md-landstalker-x2.webp",
+      "images/md/md-landstalker-x3.webp",
+      "images/md/md-landstalker-s1.webp",
+      "images/md/md-landstalker-s2.webp",
+      "images/md/md-landstalker-m1.webp",
+      "images/md/md-landstalker-title.webp"
     ],
-    "cover": "images/md/md-landstalker-box.jpg",
+    "cover": "images/md/md-landstalker-box.webp",
     "styleMatch": 3,
     "styleNote": "斜45度像素村庄自由探索，动作RPG"
   },
@@ -481,15 +481,15 @@
     "editorScore": 9.0,
     "is2D": true,
     "screenshots": [
-      "images/md/md-beyond-oasis-x1.png",
-      "images/md/md-beyond-oasis-x2.png",
-      "images/md/md-beyond-oasis-x3.png",
-      "images/md/md-beyond-oasis-s1.png",
-      "images/md/md-beyond-oasis-m1.png",
-      "images/md/md-beyond-oasis-m2.jpg",
-      "images/md/md-beyond-oasis-title.png"
+      "images/md/md-beyond-oasis-x1.webp",
+      "images/md/md-beyond-oasis-x2.webp",
+      "images/md/md-beyond-oasis-x3.webp",
+      "images/md/md-beyond-oasis-s1.webp",
+      "images/md/md-beyond-oasis-m1.webp",
+      "images/md/md-beyond-oasis-m2.webp",
+      "images/md/md-beyond-oasis-title.webp"
     ],
-    "cover": "images/md/md-beyond-oasis-box.jpg",
+    "cover": "images/md/md-beyond-oasis-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素动作RPG，与参考图气质接近"
   },
@@ -536,15 +536,15 @@
     "editorScore": 9.0,
     "is2D": true,
     "screenshots": [
-      "images/md/md-shining-force-x1.png",
-      "images/md/md-shining-force-x2.png",
-      "images/md/md-shining-force-x3.png",
+      "images/md/md-shining-force-x1.webp",
+      "images/md/md-shining-force-x2.webp",
+      "images/md/md-shining-force-x3.webp",
       "images/md/md-shining-force-s1.png",
-      "images/md/md-shining-force-m1.jpg",
-      "images/md/md-shining-force-m2.jpg",
-      "images/md/md-shining-force-title.png"
+      "images/md/md-shining-force-m1.webp",
+      "images/md/md-shining-force-m2.webp",
+      "images/md/md-shining-force-title.webp"
     ],
-    "cover": "images/md/md-shining-force-box.jpg",
+    "cover": "images/md/md-shining-force-box.webp",
     "styleMatch": 2,
     "styleNote": "战棋地图为主，城镇可俯视角自由走动"
   },
@@ -581,15 +581,15 @@
     "editorScore": 9.0,
     "is2D": true,
     "screenshots": [
-      "images/md/md-langrisser-ii-x1.png",
-      "images/md/md-langrisser-ii-x2.png",
-      "images/md/md-langrisser-ii-x3.png",
+      "images/md/md-langrisser-ii-x1.webp",
+      "images/md/md-langrisser-ii-x2.webp",
+      "images/md/md-langrisser-ii-x3.webp",
       "images/md/md-langrisser-ii-s1.png",
-      "images/md/md-langrisser-ii-s2.png",
-      "images/md/md-langrisser-ii-m1.png",
-      "images/md/md-langrisser-ii-title.png"
+      "images/md/md-langrisser-ii-s2.webp",
+      "images/md/md-langrisser-ii-m1.webp",
+      "images/md/md-langrisser-ii-title.webp"
     ],
-    "cover": "images/md/md-langrisser-ii-box.jpg",
+    "cover": "images/md/md-langrisser-ii-box.webp",
     "styleMatch": 2,
     "styleNote": "日式像素战棋，无自由探索城镇"
   },
@@ -636,15 +636,15 @@
     "editorScore": 8.9,
     "is2D": true,
     "screenshots": [
-      "images/md/md-castlevania-bloodlines-x1.png",
-      "images/md/md-castlevania-bloodlines-x2.png",
-      "images/md/md-castlevania-bloodlines-x3.png",
-      "images/md/md-castlevania-bloodlines-s1.png",
-      "images/md/md-castlevania-bloodlines-s2.png",
-      "images/md/md-castlevania-bloodlines-m1.jpg",
-      "images/md/md-castlevania-bloodlines-title.png"
+      "images/md/md-castlevania-bloodlines-x1.webp",
+      "images/md/md-castlevania-bloodlines-x2.webp",
+      "images/md/md-castlevania-bloodlines-x3.webp",
+      "images/md/md-castlevania-bloodlines-s1.webp",
+      "images/md/md-castlevania-bloodlines-s2.webp",
+      "images/md/md-castlevania-bloodlines-m1.webp",
+      "images/md/md-castlevania-bloodlines-title.webp"
     ],
-    "cover": "images/md/md-castlevania-bloodlines-box.jpg",
+    "cover": "images/md/md-castlevania-bloodlines-box.webp",
     "styleMatch": 1,
     "styleNote": "横版像素动作，哥特画风"
   },
@@ -691,15 +691,15 @@
     "editorScore": 8.9,
     "is2D": true,
     "screenshots": [
-      "images/md/md-contra-hard-corps-x1.png",
-      "images/md/md-contra-hard-corps-x2.png",
-      "images/md/md-contra-hard-corps-x3.png",
-      "images/md/md-contra-hard-corps-s1.png",
-      "images/md/md-contra-hard-corps-s2.png",
-      "images/md/md-contra-hard-corps-m1.png",
+      "images/md/md-contra-hard-corps-x1.webp",
+      "images/md/md-contra-hard-corps-x2.webp",
+      "images/md/md-contra-hard-corps-x3.webp",
+      "images/md/md-contra-hard-corps-s1.webp",
+      "images/md/md-contra-hard-corps-s2.webp",
+      "images/md/md-contra-hard-corps-m1.webp",
       "images/md/md-contra-hard-corps-title.png"
     ],
-    "cover": "images/md/md-contra-hard-corps-box.jpg",
+    "cover": "images/md/md-contra-hard-corps-box.webp",
     "styleMatch": 1,
     "styleNote": "横版像素动作射击，仅画风年代相近"
   },
@@ -746,15 +746,15 @@
     "editorScore": 8.9,
     "is2D": true,
     "screenshots": [
-      "images/md/md-phantasy-star-ii-x1.png",
-      "images/md/md-phantasy-star-ii-x2.png",
-      "images/md/md-phantasy-star-ii-x3.png",
-      "images/md/md-phantasy-star-ii-s1.png",
-      "images/md/md-phantasy-star-ii-s2.png",
-      "images/md/md-phantasy-star-ii-m1.jpg",
-      "images/md/md-phantasy-star-ii-title.png"
+      "images/md/md-phantasy-star-ii-x1.webp",
+      "images/md/md-phantasy-star-ii-x2.webp",
+      "images/md/md-phantasy-star-ii-x3.webp",
+      "images/md/md-phantasy-star-ii-s1.webp",
+      "images/md/md-phantasy-star-ii-s2.webp",
+      "images/md/md-phantasy-star-ii-m1.webp",
+      "images/md/md-phantasy-star-ii-title.webp"
     ],
-    "cover": "images/md/md-phantasy-star-ii-box.jpg",
+    "cover": "images/md/md-phantasy-star-ii-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素城镇与野外，经典日式RPG"
   },
@@ -801,15 +801,15 @@
     "editorScore": 8.9,
     "is2D": true,
     "screenshots": [
-      "images/md/md-revenge-of-shinobi-x1.png",
-      "images/md/md-revenge-of-shinobi-x2.png",
-      "images/md/md-revenge-of-shinobi-x3.png",
-      "images/md/md-revenge-of-shinobi-s1.png",
-      "images/md/md-revenge-of-shinobi-s2.png",
-      "images/md/md-revenge-of-shinobi-m1.jpg",
-      "images/md/md-revenge-of-shinobi-title.png"
+      "images/md/md-revenge-of-shinobi-x1.webp",
+      "images/md/md-revenge-of-shinobi-x2.webp",
+      "images/md/md-revenge-of-shinobi-x3.webp",
+      "images/md/md-revenge-of-shinobi-s1.webp",
+      "images/md/md-revenge-of-shinobi-s2.webp",
+      "images/md/md-revenge-of-shinobi-m1.webp",
+      "images/md/md-revenge-of-shinobi-title.webp"
     ],
-    "cover": "images/md/md-revenge-of-shinobi-box.jpg",
+    "cover": "images/md/md-revenge-of-shinobi-box.webp",
     "styleMatch": 1,
     "styleNote": "横版像素动作，无城镇探索"
   },
@@ -856,15 +856,15 @@
     "editorScore": 8.8,
     "is2D": true,
     "screenshots": [
-      "images/md/md-thunder-force-iv-x1.png",
-      "images/md/md-thunder-force-iv-x2.png",
-      "images/md/md-thunder-force-iv-x3.png",
+      "images/md/md-thunder-force-iv-x1.webp",
+      "images/md/md-thunder-force-iv-x2.webp",
+      "images/md/md-thunder-force-iv-x3.webp",
       "images/md/md-thunder-force-iv-s1.png",
-      "images/md/md-thunder-force-iv-m1.png",
-      "images/md/md-thunder-force-iv-m2.png",
-      "images/md/md-thunder-force-iv-title.png"
+      "images/md/md-thunder-force-iv-m1.webp",
+      "images/md/md-thunder-force-iv-m2.webp",
+      "images/md/md-thunder-force-iv-title.webp"
     ],
-    "cover": "images/md/md-thunder-force-iv-box.jpg",
+    "cover": "images/md/md-thunder-force-iv-box.webp",
     "styleMatch": 0,
     "styleNote": "横版射击游戏，与参考图无关"
   },
@@ -911,15 +911,15 @@
     "editorScore": 8.8,
     "is2D": true,
     "screenshots": [
-      "images/md/md-yu-yu-hakusho-x1.png",
-      "images/md/md-yu-yu-hakusho-x2.png",
-      "images/md/md-yu-yu-hakusho-x3.png",
-      "images/md/md-yu-yu-hakusho-s1.png",
-      "images/md/md-yu-yu-hakusho-m1.jpg",
+      "images/md/md-yu-yu-hakusho-x1.webp",
+      "images/md/md-yu-yu-hakusho-x2.webp",
+      "images/md/md-yu-yu-hakusho-x3.webp",
+      "images/md/md-yu-yu-hakusho-s1.webp",
+      "images/md/md-yu-yu-hakusho-m1.webp",
       "images/md/md-yu-yu-hakusho-m2.jpg",
       "images/md/md-yu-yu-hakusho-title.png"
     ],
-    "cover": "images/md/md-yu-yu-hakusho-box.jpg",
+    "cover": "images/md/md-yu-yu-hakusho-box.webp",
     "styleMatch": 0,
     "styleNote": "对战格斗游戏，与参考图无关"
   },
@@ -966,15 +966,15 @@
     "editorScore": 8.8,
     "is2D": true,
     "screenshots": [
-      "images/md/md-aladdin-x1.png",
-      "images/md/md-aladdin-x2.png",
-      "images/md/md-aladdin-x3.png",
-      "images/md/md-aladdin-s1.png",
-      "images/md/md-aladdin-s2.png",
-      "images/md/md-aladdin-m1.jpg",
-      "images/md/md-aladdin-title.png"
+      "images/md/md-aladdin-x1.webp",
+      "images/md/md-aladdin-x2.webp",
+      "images/md/md-aladdin-x3.webp",
+      "images/md/md-aladdin-s1.webp",
+      "images/md/md-aladdin-s2.webp",
+      "images/md/md-aladdin-m1.webp",
+      "images/md/md-aladdin-title.webp"
     ],
-    "cover": "images/md/md-aladdin-box.jpg",
+    "cover": "images/md/md-aladdin-box.webp",
     "styleMatch": 1,
     "styleNote": "横版平台跳跃，迪士尼动画画风"
   },
@@ -1021,15 +1021,15 @@
     "editorScore": 8.8,
     "is2D": true,
     "screenshots": [
-      "images/md/md-strider-x1.png",
-      "images/md/md-strider-x2.png",
-      "images/md/md-strider-x3.png",
-      "images/md/md-strider-s1.png",
-      "images/md/md-strider-s2.png",
-      "images/md/md-strider-m1.jpg",
-      "images/md/md-strider-title.png"
+      "images/md/md-strider-x1.webp",
+      "images/md/md-strider-x2.webp",
+      "images/md/md-strider-x3.webp",
+      "images/md/md-strider-s1.webp",
+      "images/md/md-strider-s2.webp",
+      "images/md/md-strider-m1.webp",
+      "images/md/md-strider-title.webp"
     ],
-    "cover": "images/md/md-strider-box.jpg",
+    "cover": "images/md/md-strider-box.webp",
     "styleMatch": 1,
     "styleNote": "横版像素动作，无城镇探索"
   },
@@ -1076,15 +1076,15 @@
     "editorScore": 8.7,
     "is2D": true,
     "screenshots": [
-      "images/md/md-rocket-knight-adventures-x1.png",
-      "images/md/md-rocket-knight-adventures-x2.png",
-      "images/md/md-rocket-knight-adventures-x3.png",
-      "images/md/md-rocket-knight-adventures-s1.png",
-      "images/md/md-rocket-knight-adventures-m1.png",
+      "images/md/md-rocket-knight-adventures-x1.webp",
+      "images/md/md-rocket-knight-adventures-x2.webp",
+      "images/md/md-rocket-knight-adventures-x3.webp",
+      "images/md/md-rocket-knight-adventures-s1.webp",
+      "images/md/md-rocket-knight-adventures-m1.webp",
       "images/md/md-rocket-knight-adventures-m2.jpg",
-      "images/md/md-rocket-knight-adventures-title.png"
+      "images/md/md-rocket-knight-adventures-title.webp"
     ],
-    "cover": "images/md/md-rocket-knight-adventures-box.jpg",
+    "cover": "images/md/md-rocket-knight-adventures-box.webp",
     "styleMatch": 1,
     "styleNote": "横版像素平台动作"
   },
@@ -1131,15 +1131,15 @@
     "editorScore": 8.7,
     "is2D": true,
     "screenshots": [
-      "images/md/md-shinobi-iii-x1.png",
-      "images/md/md-shinobi-iii-x2.png",
-      "images/md/md-shinobi-iii-x3.png",
+      "images/md/md-shinobi-iii-x1.webp",
+      "images/md/md-shinobi-iii-x2.webp",
+      "images/md/md-shinobi-iii-x3.webp",
       "images/md/md-shinobi-iii-s1.png",
-      "images/md/md-shinobi-iii-s2.png",
-      "images/md/md-shinobi-iii-m1.png",
-      "images/md/md-shinobi-iii-title.png"
+      "images/md/md-shinobi-iii-s2.webp",
+      "images/md/md-shinobi-iii-m1.webp",
+      "images/md/md-shinobi-iii-title.webp"
     ],
-    "cover": "images/md/md-shinobi-iii-box.jpg",
+    "cover": "images/md/md-shinobi-iii-box.webp",
     "styleMatch": 1,
     "styleNote": "横版像素动作，无城镇探索"
   },
@@ -1176,15 +1176,15 @@
     "editorScore": 8.7,
     "is2D": true,
     "screenshots": [
-      "images/md/md-puyo-puyo-2-x1.png",
-      "images/md/md-puyo-puyo-2-x2.png",
-      "images/md/md-puyo-puyo-2-x3.png",
-      "images/md/md-puyo-puyo-2-s1.png",
-      "images/md/md-puyo-puyo-2-s2.png",
-      "images/md/md-puyo-puyo-2-m1.jpg",
-      "images/md/md-puyo-puyo-2-title.png"
+      "images/md/md-puyo-puyo-2-x1.webp",
+      "images/md/md-puyo-puyo-2-x2.webp",
+      "images/md/md-puyo-puyo-2-x3.webp",
+      "images/md/md-puyo-puyo-2-s1.webp",
+      "images/md/md-puyo-puyo-2-s2.webp",
+      "images/md/md-puyo-puyo-2-m1.webp",
+      "images/md/md-puyo-puyo-2-title.webp"
     ],
-    "cover": "images/md/md-puyo-puyo-2-box.jpg",
+    "cover": "images/md/md-puyo-puyo-2-box.webp",
     "styleMatch": 0,
     "styleNote": "对战益智方块，与参考图无关"
   },
@@ -1231,15 +1231,15 @@
     "editorScore": 8.7,
     "is2D": true,
     "screenshots": [
-      "images/md/md-castle-of-illusion-s1.png",
-      "images/md/md-castle-of-illusion-m1.png",
-      "images/md/md-castle-of-illusion-m2.png",
-      "images/md/md-castle-of-illusion-m3.png",
-      "images/md/md-castle-of-illusion-m4.png",
-      "images/md/md-castle-of-illusion-m5.png",
-      "images/md/md-castle-of-illusion-title.png"
+      "images/md/md-castle-of-illusion-s1.webp",
+      "images/md/md-castle-of-illusion-m1.webp",
+      "images/md/md-castle-of-illusion-m2.webp",
+      "images/md/md-castle-of-illusion-m3.webp",
+      "images/md/md-castle-of-illusion-m4.webp",
+      "images/md/md-castle-of-illusion-m5.webp",
+      "images/md/md-castle-of-illusion-title.webp"
     ],
-    "cover": "images/md/md-castle-of-illusion-box.jpg",
+    "cover": "images/md/md-castle-of-illusion-box.webp",
     "styleMatch": 1,
     "styleNote": "横版像素平台跳跃，童话画风"
   },
@@ -1286,15 +1286,15 @@
     "editorScore": 8.6,
     "is2D": true,
     "screenshots": [
-      "images/md/md-ristar-x1.png",
-      "images/md/md-ristar-x2.png",
-      "images/md/md-ristar-x3.png",
-      "images/md/md-ristar-s1.png",
-      "images/md/md-ristar-m1.jpg",
-      "images/md/md-ristar-m2.jpg",
-      "images/md/md-ristar-title.png"
+      "images/md/md-ristar-x1.webp",
+      "images/md/md-ristar-x2.webp",
+      "images/md/md-ristar-x3.webp",
+      "images/md/md-ristar-s1.webp",
+      "images/md/md-ristar-m1.webp",
+      "images/md/md-ristar-m2.webp",
+      "images/md/md-ristar-title.webp"
     ],
-    "cover": "images/md/md-ristar-box.jpg",
+    "cover": "images/md/md-ristar-box.webp",
     "styleMatch": 1,
     "styleNote": "横版像素平台跳跃，色彩鲜艳"
   },
@@ -1341,15 +1341,15 @@
     "editorScore": 8.6,
     "is2D": true,
     "screenshots": [
-      "images/md/md-crusader-of-centy-x1.png",
-      "images/md/md-crusader-of-centy-x2.png",
-      "images/md/md-crusader-of-centy-x3.png",
-      "images/md/md-crusader-of-centy-s1.png",
-      "images/md/md-crusader-of-centy-m1.png",
+      "images/md/md-crusader-of-centy-x1.webp",
+      "images/md/md-crusader-of-centy-x2.webp",
+      "images/md/md-crusader-of-centy-x3.webp",
+      "images/md/md-crusader-of-centy-s1.webp",
+      "images/md/md-crusader-of-centy-m1.webp",
       "images/md/md-crusader-of-centy-m2.png",
-      "images/md/md-crusader-of-centy-title.png"
+      "images/md/md-crusader-of-centy-title.webp"
     ],
-    "cover": "images/md/md-crusader-of-centy-box.jpg",
+    "cover": "images/md/md-crusader-of-centy-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角塞尔达式冒险，村庄商店齐全"
   },
@@ -1396,15 +1396,15 @@
     "editorScore": 8.6,
     "is2D": true,
     "screenshots": [
-      "images/md/md-dynamite-headdy-x1.png",
-      "images/md/md-dynamite-headdy-x2.png",
-      "images/md/md-dynamite-headdy-x3.png",
-      "images/md/md-dynamite-headdy-s1.png",
-      "images/md/md-dynamite-headdy-s2.png",
-      "images/md/md-dynamite-headdy-m1.png",
-      "images/md/md-dynamite-headdy-title.png"
+      "images/md/md-dynamite-headdy-x1.webp",
+      "images/md/md-dynamite-headdy-x2.webp",
+      "images/md/md-dynamite-headdy-x3.webp",
+      "images/md/md-dynamite-headdy-s1.webp",
+      "images/md/md-dynamite-headdy-s2.webp",
+      "images/md/md-dynamite-headdy-m1.webp",
+      "images/md/md-dynamite-headdy-title.webp"
     ],
-    "cover": "images/md/md-dynamite-headdy-box.jpg",
+    "cover": "images/md/md-dynamite-headdy-box.webp",
     "styleMatch": 1,
     "styleNote": "横版像素平台跳跃"
   },
@@ -1451,15 +1451,15 @@
     "editorScore": 8.6,
     "is2D": true,
     "screenshots": [
-      "images/md/md-streets-of-rage-3-x1.png",
-      "images/md/md-streets-of-rage-3-x2.png",
-      "images/md/md-streets-of-rage-3-x3.png",
-      "images/md/md-streets-of-rage-3-s1.png",
-      "images/md/md-streets-of-rage-3-s2.png",
-      "images/md/md-streets-of-rage-3-m1.jpg",
-      "images/md/md-streets-of-rage-3-title.png"
+      "images/md/md-streets-of-rage-3-x1.webp",
+      "images/md/md-streets-of-rage-3-x2.webp",
+      "images/md/md-streets-of-rage-3-x3.webp",
+      "images/md/md-streets-of-rage-3-s1.webp",
+      "images/md/md-streets-of-rage-3-s2.webp",
+      "images/md/md-streets-of-rage-3-m1.webp",
+      "images/md/md-streets-of-rage-3-title.webp"
     ],
-    "cover": "images/md/md-streets-of-rage-3-box.jpg",
+    "cover": "images/md/md-streets-of-rage-3-box.webp",
     "styleMatch": 1,
     "styleNote": "横版像素清版动作，无探索要素"
   },
@@ -1506,15 +1506,15 @@
     "editorScore": 8.6,
     "is2D": true,
     "screenshots": [
-      "images/md/md-earthworm-jim-x1.png",
-      "images/md/md-earthworm-jim-x2.png",
-      "images/md/md-earthworm-jim-x3.png",
-      "images/md/md-earthworm-jim-s1.png",
-      "images/md/md-earthworm-jim-s2.png",
-      "images/md/md-earthworm-jim-m1.png",
-      "images/md/md-earthworm-jim-title.png"
+      "images/md/md-earthworm-jim-x1.webp",
+      "images/md/md-earthworm-jim-x2.webp",
+      "images/md/md-earthworm-jim-x3.webp",
+      "images/md/md-earthworm-jim-s1.webp",
+      "images/md/md-earthworm-jim-s2.webp",
+      "images/md/md-earthworm-jim-m1.webp",
+      "images/md/md-earthworm-jim-title.webp"
     ],
-    "cover": "images/md/md-earthworm-jim-box.jpg",
+    "cover": "images/md/md-earthworm-jim-box.webp",
     "styleMatch": 1,
     "styleNote": "横版平台跳跃，美式卡通画风"
   },
@@ -1561,15 +1561,15 @@
     "editorScore": 8.6,
     "is2D": true,
     "screenshots": [
-      "images/md/md-thunder-force-iii-x1.png",
-      "images/md/md-thunder-force-iii-x2.png",
-      "images/md/md-thunder-force-iii-x3.png",
+      "images/md/md-thunder-force-iii-x1.webp",
+      "images/md/md-thunder-force-iii-x2.webp",
+      "images/md/md-thunder-force-iii-x3.webp",
       "images/md/md-thunder-force-iii-s1.png",
-      "images/md/md-thunder-force-iii-m1.png",
-      "images/md/md-thunder-force-iii-m2.png",
-      "images/md/md-thunder-force-iii-title.png"
+      "images/md/md-thunder-force-iii-m1.webp",
+      "images/md/md-thunder-force-iii-m2.webp",
+      "images/md/md-thunder-force-iii-title.webp"
     ],
-    "cover": "images/md/md-thunder-force-iii-box.jpg",
+    "cover": "images/md/md-thunder-force-iii-box.webp",
     "styleMatch": 0,
     "styleNote": "横版射击游戏，与参考图无关"
   },
@@ -1616,15 +1616,15 @@
     "editorScore": 8.5,
     "is2D": true,
     "screenshots": [
-      "images/md/md-comix-zone-x1.png",
-      "images/md/md-comix-zone-x2.png",
-      "images/md/md-comix-zone-x3.png",
-      "images/md/md-comix-zone-s1.png",
-      "images/md/md-comix-zone-s2.png",
-      "images/md/md-comix-zone-m1.jpg",
-      "images/md/md-comix-zone-title.png"
+      "images/md/md-comix-zone-x1.webp",
+      "images/md/md-comix-zone-x2.webp",
+      "images/md/md-comix-zone-x3.webp",
+      "images/md/md-comix-zone-s1.webp",
+      "images/md/md-comix-zone-s2.webp",
+      "images/md/md-comix-zone-m1.webp",
+      "images/md/md-comix-zone-title.webp"
     ],
-    "cover": "images/md/md-comix-zone-box.jpg",
+    "cover": "images/md/md-comix-zone-box.webp",
     "styleMatch": 1,
     "styleNote": "横版像素清版动作，美漫画风"
   },
@@ -1671,15 +1671,15 @@
     "editorScore": 8.5,
     "is2D": true,
     "screenshots": [
-      "images/md/md-alien-soldier-x1.png",
-      "images/md/md-alien-soldier-x2.png",
-      "images/md/md-alien-soldier-x3.png",
-      "images/md/md-alien-soldier-s1.png",
+      "images/md/md-alien-soldier-x1.webp",
+      "images/md/md-alien-soldier-x2.webp",
+      "images/md/md-alien-soldier-x3.webp",
+      "images/md/md-alien-soldier-s1.webp",
       "images/md/md-alien-soldier-m1.jpg",
-      "images/md/md-alien-soldier-m2.png",
-      "images/md/md-alien-soldier-title.png"
+      "images/md/md-alien-soldier-m2.webp",
+      "images/md/md-alien-soldier-title.webp"
     ],
-    "cover": "images/md/md-alien-soldier-box.jpg",
+    "cover": "images/md/md-alien-soldier-box.webp",
     "styleMatch": 1,
     "styleNote": "横版像素BOSS连战，仅画风相近"
   },
@@ -1726,15 +1726,15 @@
     "editorScore": 8.4,
     "is2D": true,
     "screenshots": [
-      "images/md/md-ecco-the-dolphin-x1.png",
-      "images/md/md-ecco-the-dolphin-x2.png",
-      "images/md/md-ecco-the-dolphin-x3.png",
-      "images/md/md-ecco-the-dolphin-s1.png",
-      "images/md/md-ecco-the-dolphin-s2.png",
+      "images/md/md-ecco-the-dolphin-x1.webp",
+      "images/md/md-ecco-the-dolphin-x2.webp",
+      "images/md/md-ecco-the-dolphin-x3.webp",
+      "images/md/md-ecco-the-dolphin-s1.webp",
+      "images/md/md-ecco-the-dolphin-s2.webp",
       "images/md/md-ecco-the-dolphin-m1.jpg",
-      "images/md/md-ecco-the-dolphin-title.png"
+      "images/md/md-ecco-the-dolphin-title.webp"
     ],
-    "cover": "images/md/md-ecco-the-dolphin-box.jpg",
+    "cover": "images/md/md-ecco-the-dolphin-box.webp",
     "styleMatch": 1,
     "styleNote": "横版海洋探索冒险，无城镇"
   },
@@ -1781,15 +1781,15 @@
     "editorScore": 8.4,
     "is2D": true,
     "screenshots": [
-      "images/md/md-wonder-boy-in-monster-world-x1.png",
-      "images/md/md-wonder-boy-in-monster-world-x2.png",
-      "images/md/md-wonder-boy-in-monster-world-x3.png",
-      "images/md/md-wonder-boy-in-monster-world-s1.png",
-      "images/md/md-wonder-boy-in-monster-world-m1.png",
-      "images/md/md-wonder-boy-in-monster-world-m2.png",
-      "images/md/md-wonder-boy-in-monster-world-title.png"
+      "images/md/md-wonder-boy-in-monster-world-x1.webp",
+      "images/md/md-wonder-boy-in-monster-world-x2.webp",
+      "images/md/md-wonder-boy-in-monster-world-x3.webp",
+      "images/md/md-wonder-boy-in-monster-world-s1.webp",
+      "images/md/md-wonder-boy-in-monster-world-m1.webp",
+      "images/md/md-wonder-boy-in-monster-world-m2.webp",
+      "images/md/md-wonder-boy-in-monster-world-title.webp"
     ],
-    "cover": "images/md/md-wonder-boy-in-monster-world-box.jpg",
+    "cover": "images/md/md-wonder-boy-in-monster-world-box.webp",
     "styleMatch": 2,
     "styleNote": "横版动作RPG，有村庄商店但为侧视角"
   },
@@ -1836,15 +1836,15 @@
     "editorScore": 8.3,
     "is2D": true,
     "screenshots": [
-      "images/md/md-light-crusader-x1.png",
-      "images/md/md-light-crusader-x2.png",
-      "images/md/md-light-crusader-x3.png",
-      "images/md/md-light-crusader-s1.png",
-      "images/md/md-light-crusader-s2.png",
+      "images/md/md-light-crusader-x1.webp",
+      "images/md/md-light-crusader-x2.webp",
+      "images/md/md-light-crusader-x3.webp",
+      "images/md/md-light-crusader-s1.webp",
+      "images/md/md-light-crusader-s2.webp",
       "images/md/md-light-crusader-m1.jpg",
       "images/md/md-light-crusader-title.png"
     ],
-    "cover": "images/md/md-light-crusader-box.jpg",
+    "cover": "images/md/md-light-crusader-box.webp",
     "styleMatch": 3,
     "styleNote": "斜视角像素城镇与地城，动作RPG"
   },
@@ -1892,14 +1892,14 @@
     "is2D": true,
     "screenshots": [
       "images/md/md-musha-s1.png",
-      "images/md/md-musha-s2.png",
-      "images/md/md-musha-m1.png",
-      "images/md/md-musha-m2.png",
-      "images/md/md-musha-m3.png",
-      "images/md/md-musha-m4.png",
-      "images/md/md-musha-title.png"
+      "images/md/md-musha-s2.webp",
+      "images/md/md-musha-m1.webp",
+      "images/md/md-musha-m2.webp",
+      "images/md/md-musha-m3.webp",
+      "images/md/md-musha-m4.webp",
+      "images/md/md-musha-title.webp"
     ],
-    "cover": "images/md/md-musha-box.jpg",
+    "cover": "images/md/md-musha-box.webp",
     "styleMatch": 0,
     "styleNote": "纵版射击游戏，与参考图无关"
   },
@@ -1946,15 +1946,15 @@
     "editorScore": 8.2,
     "is2D": true,
     "screenshots": [
-      "images/md/md-shining-in-the-darkness-x1.png",
-      "images/md/md-shining-in-the-darkness-x2.png",
-      "images/md/md-shining-in-the-darkness-x3.png",
-      "images/md/md-shining-in-the-darkness-s1.png",
-      "images/md/md-shining-in-the-darkness-s2.png",
-      "images/md/md-shining-in-the-darkness-m1.png",
-      "images/md/md-shining-in-the-darkness-title.png"
+      "images/md/md-shining-in-the-darkness-x1.webp",
+      "images/md/md-shining-in-the-darkness-x2.webp",
+      "images/md/md-shining-in-the-darkness-x3.webp",
+      "images/md/md-shining-in-the-darkness-s1.webp",
+      "images/md/md-shining-in-the-darkness-s2.webp",
+      "images/md/md-shining-in-the-darkness-m1.webp",
+      "images/md/md-shining-in-the-darkness-title.webp"
     ],
-    "cover": "images/md/md-shining-in-the-darkness-box.jpg",
+    "cover": "images/md/md-shining-in-the-darkness-box.webp",
     "styleMatch": 2,
     "styleNote": "像素城镇+第一人称迷宫，视角不同"
   },
@@ -2001,15 +2001,15 @@
     "editorScore": 8.0,
     "is2D": true,
     "screenshots": [
-      "images/md/md-phantasy-star-iii-x1.png",
-      "images/md/md-phantasy-star-iii-x2.png",
-      "images/md/md-phantasy-star-iii-x3.png",
+      "images/md/md-phantasy-star-iii-x1.webp",
+      "images/md/md-phantasy-star-iii-x2.webp",
+      "images/md/md-phantasy-star-iii-x3.webp",
       "images/md/md-phantasy-star-iii-s1.png",
-      "images/md/md-phantasy-star-iii-s2.png",
-      "images/md/md-phantasy-star-iii-m1.png",
-      "images/md/md-phantasy-star-iii-title.png"
+      "images/md/md-phantasy-star-iii-s2.webp",
+      "images/md/md-phantasy-star-iii-m1.webp",
+      "images/md/md-phantasy-star-iii-title.webp"
     ],
-    "cover": "images/md/md-phantasy-star-iii-box.jpg",
+    "cover": "images/md/md-phantasy-star-iii-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角城镇自由探索，战斗为侧视角"
   },
@@ -2046,15 +2046,15 @@
     "editorScore": 8.0,
     "is2D": true,
     "screenshots": [
-      "images/md/md-warsong-x1.png",
-      "images/md/md-warsong-x2.png",
-      "images/md/md-warsong-x3.png",
+      "images/md/md-warsong-x1.webp",
+      "images/md/md-warsong-x2.webp",
+      "images/md/md-warsong-x3.webp",
       "images/md/md-warsong-s1.png",
-      "images/md/md-warsong-m1.png",
-      "images/md/md-warsong-m2.png",
+      "images/md/md-warsong-m1.webp",
+      "images/md/md-warsong-m2.webp",
       "images/md/md-warsong-title.png"
     ],
-    "cover": "images/md/md-warsong-box.jpg",
+    "cover": "images/md/md-warsong-box.webp",
     "styleMatch": 2,
     "styleNote": "日式像素战棋，无自由探索城镇"
   },
@@ -2101,15 +2101,15 @@
     "editorScore": 8.0,
     "is2D": true,
     "screenshots": [
-      "images/md/md-quackshot-x1.png",
-      "images/md/md-quackshot-x2.png",
-      "images/md/md-quackshot-x3.png",
-      "images/md/md-quackshot-s1.png",
-      "images/md/md-quackshot-m1.png",
-      "images/md/md-quackshot-m2.png",
-      "images/md/md-quackshot-title.png"
+      "images/md/md-quackshot-x1.webp",
+      "images/md/md-quackshot-x2.webp",
+      "images/md/md-quackshot-x3.webp",
+      "images/md/md-quackshot-s1.webp",
+      "images/md/md-quackshot-m1.webp",
+      "images/md/md-quackshot-m2.webp",
+      "images/md/md-quackshot-title.webp"
     ],
-    "cover": "images/md/md-quackshot-box.jpg",
+    "cover": "images/md/md-quackshot-box.webp",
     "styleMatch": 1,
     "styleNote": "横版像素平台跳跃，含寻宝要素"
   },
@@ -2151,15 +2151,15 @@
     "editorScore": 8.0,
     "is2D": true,
     "screenshots": [
-      "images/md/md-king-colossus-x1.png",
-      "images/md/md-king-colossus-x2.png",
+      "images/md/md-king-colossus-x1.webp",
+      "images/md/md-king-colossus-x2.webp",
       "images/md/md-king-colossus-s1.png",
-      "images/md/md-king-colossus-m1.png",
-      "images/md/md-king-colossus-m2.png",
-      "images/md/md-king-colossus-m3.png",
-      "images/md/md-king-colossus-title.png"
+      "images/md/md-king-colossus-m1.webp",
+      "images/md/md-king-colossus-m2.webp",
+      "images/md/md-king-colossus-m3.webp",
+      "images/md/md-king-colossus-title.webp"
     ],
-    "cover": "images/md/md-king-colossus-box.jpg",
+    "cover": "images/md/md-king-colossus-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素ARPG，有城镇与商店"
   },
@@ -2206,15 +2206,15 @@
     "editorScore": 8.0,
     "is2D": true,
     "screenshots": [
-      "images/md/md-shadowrun-x1.png",
+      "images/md/md-shadowrun-x1.webp",
       "images/md/md-shadowrun-s1.png",
-      "images/md/md-shadowrun-s2.png",
-      "images/md/md-shadowrun-m1.png",
-      "images/md/md-shadowrun-m2.png",
-      "images/md/md-shadowrun-m3.png",
-      "images/md/md-shadowrun-title.png"
+      "images/md/md-shadowrun-s2.webp",
+      "images/md/md-shadowrun-m1.webp",
+      "images/md/md-shadowrun-m2.webp",
+      "images/md/md-shadowrun-m3.webp",
+      "images/md/md-shadowrun-title.webp"
     ],
-    "cover": "images/md/md-shadowrun-box.jpg",
+    "cover": "images/md/md-shadowrun-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角城市街区自由漫游，有商店酒吧"
   },
@@ -2251,14 +2251,14 @@
     "editorScore": 8.0,
     "is2D": true,
     "screenshots": [
-      "images/md/md-pier-solar-x1.png",
-      "images/md/md-pier-solar-x2.png",
-      "images/md/md-pier-solar-x3.png",
-      "images/md/md-pier-solar-m1.png",
-      "images/md/md-pier-solar-m2.png",
-      "images/md/md-pier-solar-m3.jpg"
+      "images/md/md-pier-solar-x1.webp",
+      "images/md/md-pier-solar-x2.webp",
+      "images/md/md-pier-solar-x3.webp",
+      "images/md/md-pier-solar-m1.webp",
+      "images/md/md-pier-solar-m2.webp",
+      "images/md/md-pier-solar-m3.webp"
     ],
-    "cover": "images/md/md-pier-solar-box.jpg",
+    "cover": "images/md/md-pier-solar-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素城镇，正统16位日式RPG"
   },
@@ -2305,15 +2305,15 @@
     "editorScore": 7.8,
     "is2D": true,
     "screenshots": [
-      "images/md/md-surging-aura-x1.png",
-      "images/md/md-surging-aura-x2.png",
+      "images/md/md-surging-aura-x1.webp",
+      "images/md/md-surging-aura-x2.webp",
       "images/md/md-surging-aura-s1.png",
-      "images/md/md-surging-aura-m1.jpg",
-      "images/md/md-surging-aura-m2.jpg",
+      "images/md/md-surging-aura-m1.webp",
+      "images/md/md-surging-aura-m2.webp",
       "images/md/md-surging-aura-m3.jpg",
-      "images/md/md-surging-aura-title.png"
+      "images/md/md-surging-aura-title.webp"
     ],
-    "cover": "images/md/md-surging-aura-box.jpg",
+    "cover": "images/md/md-surging-aura-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素城镇与野外，正统日式RPG"
   },
@@ -2360,13 +2360,13 @@
     "editorScore": 7.8,
     "is2D": true,
     "screenshots": [
-      "images/md/md-ys-iii-x1.png",
-      "images/md/md-ys-iii-x2.png",
-      "images/md/md-ys-iii-s1.png",
-      "images/md/md-ys-iii-m1.png",
-      "images/md/md-ys-iii-title.png"
+      "images/md/md-ys-iii-x1.webp",
+      "images/md/md-ys-iii-x2.webp",
+      "images/md/md-ys-iii-s1.webp",
+      "images/md/md-ys-iii-m1.webp",
+      "images/md/md-ys-iii-title.webp"
     ],
-    "cover": "images/md/md-ys-iii-box.jpg",
+    "cover": "images/md/md-ys-iii-box.webp",
     "styleMatch": 2,
     "styleNote": "有城镇商店，但冒险为横版动作"
   },
@@ -2413,16 +2413,16 @@
     "editorScore": 7.7,
     "is2D": true,
     "screenshots": [
-      "images/md/md-rent-a-hero-x1.png",
-      "images/md/md-rent-a-hero-x2.png",
-      "images/md/md-rent-a-hero-m1.jpg",
-      "images/md/md-rent-a-hero-y1.png",
-      "images/md/md-rent-a-hero-y2.jpg",
-      "images/md/md-rent-a-hero-y3.png",
-      "images/md/md-rent-a-hero-y4.png",
-      "images/md/md-rent-a-hero-title.png"
+      "images/md/md-rent-a-hero-x1.webp",
+      "images/md/md-rent-a-hero-x2.webp",
+      "images/md/md-rent-a-hero-m1.webp",
+      "images/md/md-rent-a-hero-y1.webp",
+      "images/md/md-rent-a-hero-y2.webp",
+      "images/md/md-rent-a-hero-y3.webp",
+      "images/md/md-rent-a-hero-y4.webp",
+      "images/md/md-rent-a-hero-title.webp"
     ],
-    "cover": "images/md/md-rent-a-hero-box.jpg",
+    "cover": "images/md/md-rent-a-hero-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素小镇自由漫游，战斗为横版"
   },
@@ -2469,15 +2469,15 @@
     "editorScore": 7.6,
     "is2D": true,
     "screenshots": [
-      "images/md/md-sword-of-vermilion-x1.png",
-      "images/md/md-sword-of-vermilion-x2.png",
-      "images/md/md-sword-of-vermilion-x3.png",
+      "images/md/md-sword-of-vermilion-x1.webp",
+      "images/md/md-sword-of-vermilion-x2.webp",
+      "images/md/md-sword-of-vermilion-x3.webp",
       "images/md/md-sword-of-vermilion-s1.png",
-      "images/md/md-sword-of-vermilion-m1.png",
-      "images/md/md-sword-of-vermilion-m2.png",
-      "images/md/md-sword-of-vermilion-title.png"
+      "images/md/md-sword-of-vermilion-m1.webp",
+      "images/md/md-sword-of-vermilion-m2.webp",
+      "images/md/md-sword-of-vermilion-title.webp"
     ],
-    "cover": "images/md/md-sword-of-vermilion-box.jpg",
+    "cover": "images/md/md-sword-of-vermilion-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素城镇，野外切换第一人称"
   },
@@ -2514,14 +2514,14 @@
     "editorScore": 7.6,
     "is2D": true,
     "screenshots": [
-      "images/md/md-faery-tale-adventure-x1.png",
-      "images/md/md-faery-tale-adventure-x2.png",
+      "images/md/md-faery-tale-adventure-x1.webp",
+      "images/md/md-faery-tale-adventure-x2.webp",
       "images/md/md-faery-tale-adventure-s1.png",
-      "images/md/md-faery-tale-adventure-m1.png",
+      "images/md/md-faery-tale-adventure-m1.webp",
       "images/md/md-faery-tale-adventure-m2.jpg",
-      "images/md/md-faery-tale-adventure-title.png"
+      "images/md/md-faery-tale-adventure-title.webp"
     ],
-    "cover": "images/md/md-faery-tale-adventure-box.jpg",
+    "cover": "images/md/md-faery-tale-adventure-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角开放世界，城镇村庄自由探索"
   },
@@ -2560,13 +2560,13 @@
     "screenshots": [
       "images/md/md-arcus-odyssey-s1.png",
       "images/md/md-arcus-odyssey-s2.png",
-      "images/md/md-arcus-odyssey-m1.png",
-      "images/md/md-arcus-odyssey-y1.png",
-      "images/md/md-arcus-odyssey-y2.png",
-      "images/md/md-arcus-odyssey-y3.png",
-      "images/md/md-arcus-odyssey-title.png"
+      "images/md/md-arcus-odyssey-m1.webp",
+      "images/md/md-arcus-odyssey-y1.webp",
+      "images/md/md-arcus-odyssey-y2.webp",
+      "images/md/md-arcus-odyssey-y3.webp",
+      "images/md/md-arcus-odyssey-title.webp"
     ],
-    "cover": "images/md/md-arcus-odyssey-box.jpg",
+    "cover": "images/md/md-arcus-odyssey-box.webp",
     "styleMatch": 2,
     "styleNote": "斜视角像素动作冒险，但没有城镇"
   },
@@ -2605,14 +2605,14 @@
     "screenshots": [
       "images/md/md-sorcerers-kingdom-s1.png",
       "images/md/md-sorcerers-kingdom-s2.png",
-      "images/md/md-sorcerers-kingdom-y1.png",
-      "images/md/md-sorcerers-kingdom-y2.png",
-      "images/md/md-sorcerers-kingdom-y3.png",
-      "images/md/md-sorcerers-kingdom-y4.png",
-      "images/md/md-sorcerers-kingdom-y5.png",
-      "images/md/md-sorcerers-kingdom-title.png"
+      "images/md/md-sorcerers-kingdom-y1.webp",
+      "images/md/md-sorcerers-kingdom-y2.webp",
+      "images/md/md-sorcerers-kingdom-y3.webp",
+      "images/md/md-sorcerers-kingdom-y4.webp",
+      "images/md/md-sorcerers-kingdom-y5.webp",
+      "images/md/md-sorcerers-kingdom-title.webp"
     ],
-    "cover": "images/md/md-sorcerers-kingdom-box.jpg",
+    "cover": "images/md/md-sorcerers-kingdom-box.webp",
     "styleMatch": 2,
     "styleNote": "城镇可俯视角探索，战斗为战棋"
   },
@@ -2657,10 +2657,10 @@
       "images/md/md-super-hydlide-s1.png",
       "images/md/md-super-hydlide-s2.png",
       "images/md/md-super-hydlide-s3.png",
-      "images/md/md-super-hydlide-m1.jpg",
-      "images/md/md-super-hydlide-title.png"
+      "images/md/md-super-hydlide-m1.webp",
+      "images/md/md-super-hydlide-title.webp"
     ],
-    "cover": "images/md/md-super-hydlide-box.jpg",
+    "cover": "images/md/md-super-hydlide-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素城镇与野外，老派ARPG"
   }

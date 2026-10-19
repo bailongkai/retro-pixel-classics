@@ -33,6 +33,8 @@ python3 tools/thumbs.py <平台> <id> "精确名称 (Japan)"     # 下载游戏�
 python3 tools/validate.py [平台]                         # 校验数据与图片
 python3 tools/dedupe.py [--apply] [平台]                  # 去除重复截图（需要 Pillow）
 python3 tools/hd_covers.py --match | --download [平台]     # 从 LaunchBox 获取高清包装
+python3 tools/more_shots.py [--target 6] [平台]           # 从 LaunchBox / TheGamesDB 补充游戏画面
+python3 tools/to_webp.py [平台]                           # 转为 WebP（像素图无损、照片有损 q82），添加图片后执行
 ```
 
 ## 添加游戏

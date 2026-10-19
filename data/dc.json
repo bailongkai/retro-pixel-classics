@@ -42,12 +42,12 @@
     "editorScore": 9.5,
     "is2D": true,
     "screenshots": [
-      "images/dc/dc-street-fighter-3-3rd-strike-s1.png",
-      "images/dc/dc-street-fighter-3-3rd-strike-m1.jpg",
-      "images/dc/dc-street-fighter-3-3rd-strike-m2.jpg",
-      "images/dc/dc-street-fighter-3-3rd-strike-title.png"
+      "images/dc/dc-street-fighter-3-3rd-strike-s1.webp",
+      "images/dc/dc-street-fighter-3-3rd-strike-m1.webp",
+      "images/dc/dc-street-fighter-3-3rd-strike-m2.webp",
+      "images/dc/dc-street-fighter-3-3rd-strike-title.webp"
     ],
-    "cover": "images/dc/dc-street-fighter-3-3rd-strike-box.jpg",
+    "cover": "images/dc/dc-street-fighter-3-3rd-strike-box.webp",
     "styleMatch": 0,
     "styleNote": "2D像素格斗，类型不同"
   },
@@ -94,15 +94,15 @@
     "editorScore": 9.5,
     "is2D": false,
     "screenshots": [
-      "images/dc/dc-soulcalibur-s1.png",
-      "images/dc/dc-soulcalibur-x1.jpg",
-      "images/dc/dc-soulcalibur-x2.jpg",
-      "images/dc/dc-soulcalibur-m1.png",
-      "images/dc/dc-soulcalibur-m2.jpg",
-      "images/dc/dc-soulcalibur-m3.jpg",
-      "images/dc/dc-soulcalibur-title.png"
+      "images/dc/dc-soulcalibur-s1.webp",
+      "images/dc/dc-soulcalibur-x1.webp",
+      "images/dc/dc-soulcalibur-x2.webp",
+      "images/dc/dc-soulcalibur-m1.webp",
+      "images/dc/dc-soulcalibur-m2.webp",
+      "images/dc/dc-soulcalibur-m3.webp",
+      "images/dc/dc-soulcalibur-title.webp"
     ],
-    "cover": "images/dc/dc-soulcalibur-box.jpg",
+    "cover": "images/dc/dc-soulcalibur-box.webp",
     "styleMatch": 0,
     "styleNote": "3D格斗游戏"
   },
@@ -149,14 +149,14 @@
     "editorScore": 9.4,
     "is2D": true,
     "screenshots": [
-      "images/dc/dc-ikaruga-s1.png",
-      "images/dc/dc-ikaruga-x1.jpg",
-      "images/dc/dc-ikaruga-x2.jpg",
-      "images/dc/dc-ikaruga-m1.jpg",
-      "images/dc/dc-ikaruga-m2.jpg",
-      "images/dc/dc-ikaruga-title.png"
+      "images/dc/dc-ikaruga-s1.webp",
+      "images/dc/dc-ikaruga-x1.webp",
+      "images/dc/dc-ikaruga-x2.webp",
+      "images/dc/dc-ikaruga-m1.webp",
+      "images/dc/dc-ikaruga-m2.webp",
+      "images/dc/dc-ikaruga-title.webp"
     ],
-    "cover": "images/dc/dc-ikaruga-box.jpg",
+    "cover": "images/dc/dc-ikaruga-box.webp",
     "styleMatch": 0,
     "styleNote": "射击游戏，类型不同"
   },
@@ -204,15 +204,15 @@
     "editorScore": 9.4,
     "is2D": false,
     "screenshots": [
-      "images/dc/dc-skies-of-arcadia-s1.png",
-      "images/dc/dc-skies-of-arcadia-x1.png",
-      "images/dc/dc-skies-of-arcadia-m1.jpg",
-      "images/dc/dc-skies-of-arcadia-m2.jpg",
-      "images/dc/dc-skies-of-arcadia-m3.jpg",
-      "images/dc/dc-skies-of-arcadia-m4.jpg",
-      "images/dc/dc-skies-of-arcadia-title.png"
+      "images/dc/dc-skies-of-arcadia-s1.webp",
+      "images/dc/dc-skies-of-arcadia-x1.webp",
+      "images/dc/dc-skies-of-arcadia-m1.webp",
+      "images/dc/dc-skies-of-arcadia-m2.webp",
+      "images/dc/dc-skies-of-arcadia-m3.webp",
+      "images/dc/dc-skies-of-arcadia-m4.webp",
+      "images/dc/dc-skies-of-arcadia-title.webp"
     ],
-    "cover": "images/dc/dc-skies-of-arcadia-box.jpg",
+    "cover": "images/dc/dc-skies-of-arcadia-box.webp",
     "styleMatch": 1,
     "styleNote": "王道JRPG有城镇，但为全3D画面"
   },
@@ -260,15 +260,15 @@
     "editorScore": 9.3,
     "is2D": false,
     "screenshots": [
-      "images/dc/dc-shenmue-s1.png",
-      "images/dc/dc-shenmue-x1.jpg",
-      "images/dc/dc-shenmue-x2.jpg",
-      "images/dc/dc-shenmue-m1.jpg",
-      "images/dc/dc-shenmue-m2.jpg",
-      "images/dc/dc-shenmue-m3.jpg",
-      "images/dc/dc-shenmue-title.png"
+      "images/dc/dc-shenmue-s1.webp",
+      "images/dc/dc-shenmue-x1.webp",
+      "images/dc/dc-shenmue-x2.webp",
+      "images/dc/dc-shenmue-m1.webp",
+      "images/dc/dc-shenmue-m2.webp",
+      "images/dc/dc-shenmue-m3.webp",
+      "images/dc/dc-shenmue-title.webp"
     ],
-    "cover": "images/dc/dc-shenmue-box.jpg",
+    "cover": "images/dc/dc-shenmue-box.webp",
     "styleMatch": 0,
     "styleNote": "可逛小镇商店，但为写实3D"
   },
@@ -315,14 +315,14 @@
     "editorScore": 9.2,
     "is2D": true,
     "screenshots": [
-      "images/dc/dc-marvel-vs-capcom-2-s1.png",
-      "images/dc/dc-marvel-vs-capcom-2-m1.jpg",
-      "images/dc/dc-marvel-vs-capcom-2-m2.jpg",
-      "images/dc/dc-marvel-vs-capcom-2-m3.jpg",
-      "images/dc/dc-marvel-vs-capcom-2-m4.jpg",
-      "images/dc/dc-marvel-vs-capcom-2-title.png"
+      "images/dc/dc-marvel-vs-capcom-2-s1.webp",
+      "images/dc/dc-marvel-vs-capcom-2-m1.webp",
+      "images/dc/dc-marvel-vs-capcom-2-m2.webp",
+      "images/dc/dc-marvel-vs-capcom-2-m3.webp",
+      "images/dc/dc-marvel-vs-capcom-2-m4.webp",
+      "images/dc/dc-marvel-vs-capcom-2-title.webp"
     ],
-    "cover": "images/dc/dc-marvel-vs-capcom-2-box.jpg",
+    "cover": "images/dc/dc-marvel-vs-capcom-2-box.webp",
     "styleMatch": 0,
     "styleNote": "2D像素格斗，类型不同"
   },
@@ -369,15 +369,15 @@
     "editorScore": 9.2,
     "is2D": false,
     "screenshots": [
-      "images/dc/dc-grandia-2-s1.png",
-      "images/dc/dc-grandia-2-x1.jpg",
-      "images/dc/dc-grandia-2-x2.jpg",
-      "images/dc/dc-grandia-2-m1.jpg",
-      "images/dc/dc-grandia-2-m2.jpg",
-      "images/dc/dc-grandia-2-m3.jpg",
-      "images/dc/dc-grandia-2-title.png"
+      "images/dc/dc-grandia-2-s1.webp",
+      "images/dc/dc-grandia-2-x1.webp",
+      "images/dc/dc-grandia-2-x2.webp",
+      "images/dc/dc-grandia-2-m1.webp",
+      "images/dc/dc-grandia-2-m2.webp",
+      "images/dc/dc-grandia-2-m3.webp",
+      "images/dc/dc-grandia-2-title.webp"
     ],
-    "cover": "images/dc/dc-grandia-2-box.jpg",
+    "cover": "images/dc/dc-grandia-2-box.webp",
     "styleMatch": 1,
     "styleNote": "日式RPG有城镇探索，但为全3D画面"
   },
@@ -424,12 +424,12 @@
     "editorScore": 9.1,
     "is2D": true,
     "screenshots": [
-      "images/dc/dc-garou-mark-of-the-wolves-s1.png",
-      "images/dc/dc-garou-mark-of-the-wolves-x1.png",
-      "images/dc/dc-garou-mark-of-the-wolves-x2.jpg",
-      "images/dc/dc-garou-mark-of-the-wolves-title.png"
+      "images/dc/dc-garou-mark-of-the-wolves-s1.webp",
+      "images/dc/dc-garou-mark-of-the-wolves-x1.webp",
+      "images/dc/dc-garou-mark-of-the-wolves-x2.webp",
+      "images/dc/dc-garou-mark-of-the-wolves-title.webp"
     ],
-    "cover": "images/dc/dc-garou-mark-of-the-wolves-box.jpg",
+    "cover": "images/dc/dc-garou-mark-of-the-wolves-box.webp",
     "styleMatch": 0,
     "styleNote": "2D像素格斗，类型不同"
   },
@@ -476,10 +476,10 @@
     "editorScore": 9.1,
     "is2D": false,
     "screenshots": [
-      "images/dc/dc-phantasy-star-online-s1.png",
-      "images/dc/dc-phantasy-star-online-title.png"
+      "images/dc/dc-phantasy-star-online-s1.webp",
+      "images/dc/dc-phantasy-star-online-title.webp"
     ],
-    "cover": "images/dc/dc-phantasy-star-online-box.jpg",
+    "cover": "images/dc/dc-phantasy-star-online-box.webp",
     "styleMatch": 0,
     "styleNote": "3D动作网游，风格不同"
   },
@@ -521,15 +521,15 @@
     "editorScore": 9.0,
     "is2D": true,
     "screenshots": [
-      "images/dc/dc-capcom-vs-snk-2-s1.png",
-      "images/dc/dc-capcom-vs-snk-2-x1.png",
-      "images/dc/dc-capcom-vs-snk-2-m1.jpg",
-      "images/dc/dc-capcom-vs-snk-2-m2.jpg",
-      "images/dc/dc-capcom-vs-snk-2-m3.jpg",
-      "images/dc/dc-capcom-vs-snk-2-m4.jpg",
-      "images/dc/dc-capcom-vs-snk-2-title.png"
+      "images/dc/dc-capcom-vs-snk-2-s1.webp",
+      "images/dc/dc-capcom-vs-snk-2-x1.webp",
+      "images/dc/dc-capcom-vs-snk-2-m1.webp",
+      "images/dc/dc-capcom-vs-snk-2-m2.webp",
+      "images/dc/dc-capcom-vs-snk-2-m3.webp",
+      "images/dc/dc-capcom-vs-snk-2-m4.webp",
+      "images/dc/dc-capcom-vs-snk-2-title.webp"
     ],
-    "cover": "images/dc/dc-capcom-vs-snk-2-box.jpg",
+    "cover": "images/dc/dc-capcom-vs-snk-2-box.webp",
     "styleMatch": 0,
     "styleNote": "2D像素格斗，类型不同"
   },
@@ -577,15 +577,15 @@
     "editorScore": 9.0,
     "is2D": false,
     "screenshots": [
-      "images/dc/dc-jet-set-radio-s1.png",
-      "images/dc/dc-jet-set-radio-x2.png",
-      "images/dc/dc-jet-set-radio-m1.jpg",
-      "images/dc/dc-jet-set-radio-m2.jpg",
-      "images/dc/dc-jet-set-radio-m3.jpg",
-      "images/dc/dc-jet-set-radio-m4.jpg",
-      "images/dc/dc-jet-set-radio-title.png"
+      "images/dc/dc-jet-set-radio-s1.webp",
+      "images/dc/dc-jet-set-radio-x2.webp",
+      "images/dc/dc-jet-set-radio-m1.webp",
+      "images/dc/dc-jet-set-radio-m2.webp",
+      "images/dc/dc-jet-set-radio-m3.webp",
+      "images/dc/dc-jet-set-radio-m4.webp",
+      "images/dc/dc-jet-set-radio-title.webp"
     ],
-    "cover": "images/dc/dc-jet-set-radio-box.jpg",
+    "cover": "images/dc/dc-jet-set-radio-box.webp",
     "styleMatch": 0,
     "styleNote": "3D卡通渲染动作游戏"
   },
@@ -627,12 +627,12 @@
     "editorScore": 9.0,
     "is2D": true,
     "screenshots": [
-      "images/dc/dc-guilty-gear-x-s1.png",
+      "images/dc/dc-guilty-gear-x-s1.webp",
       "images/dc/dc-guilty-gear-x-x1.jpg",
-      "images/dc/dc-guilty-gear-x-x2.jpg",
-      "images/dc/dc-guilty-gear-x-title.png"
+      "images/dc/dc-guilty-gear-x-x2.webp",
+      "images/dc/dc-guilty-gear-x-title.webp"
     ],
-    "cover": "images/dc/dc-guilty-gear-x-box.jpg",
+    "cover": "images/dc/dc-guilty-gear-x-box.webp",
     "styleMatch": 0,
     "styleNote": "2D像素格斗，类型不同"
   },
@@ -679,15 +679,15 @@
     "editorScore": 9.0,
     "is2D": true,
     "screenshots": [
-      "images/dc/dc-street-fighter-alpha-3-s1.png",
-      "images/dc/dc-street-fighter-alpha-3-x2.png",
-      "images/dc/dc-street-fighter-alpha-3-m1.png",
-      "images/dc/dc-street-fighter-alpha-3-m2.jpg",
-      "images/dc/dc-street-fighter-alpha-3-m3.jpg",
-      "images/dc/dc-street-fighter-alpha-3-m4.jpg",
-      "images/dc/dc-street-fighter-alpha-3-title.png"
+      "images/dc/dc-street-fighter-alpha-3-s1.webp",
+      "images/dc/dc-street-fighter-alpha-3-x2.webp",
+      "images/dc/dc-street-fighter-alpha-3-m1.webp",
+      "images/dc/dc-street-fighter-alpha-3-m2.webp",
+      "images/dc/dc-street-fighter-alpha-3-m3.webp",
+      "images/dc/dc-street-fighter-alpha-3-m4.webp",
+      "images/dc/dc-street-fighter-alpha-3-title.webp"
     ],
-    "cover": "images/dc/dc-street-fighter-alpha-3-box.jpg",
+    "cover": "images/dc/dc-street-fighter-alpha-3-box.webp",
     "styleMatch": 0,
     "styleNote": "2D像素格斗，类型不同"
   },
@@ -734,11 +734,11 @@
     "editorScore": 8.9,
     "is2D": true,
     "screenshots": [
-      "images/dc/dc-last-blade-2-s1.png",
-      "images/dc/dc-last-blade-2-x1.png",
-      "images/dc/dc-last-blade-2-title.png"
+      "images/dc/dc-last-blade-2-s1.webp",
+      "images/dc/dc-last-blade-2-x1.webp",
+      "images/dc/dc-last-blade-2-title.webp"
     ],
-    "cover": "images/dc/dc-last-blade-2-box.jpg",
+    "cover": "images/dc/dc-last-blade-2-box.webp",
     "styleMatch": 0,
     "styleNote": "2D像素格斗，类型不同"
   },
@@ -785,15 +785,15 @@
     "editorScore": 8.9,
     "is2D": false,
     "screenshots": [
-      "images/dc/dc-sonic-adventure-s1.png",
-      "images/dc/dc-sonic-adventure-x1.png",
-      "images/dc/dc-sonic-adventure-m1.jpg",
-      "images/dc/dc-sonic-adventure-m2.jpg",
-      "images/dc/dc-sonic-adventure-m3.jpg",
-      "images/dc/dc-sonic-adventure-m4.jpg",
-      "images/dc/dc-sonic-adventure-title.png"
+      "images/dc/dc-sonic-adventure-s1.webp",
+      "images/dc/dc-sonic-adventure-x1.webp",
+      "images/dc/dc-sonic-adventure-m1.webp",
+      "images/dc/dc-sonic-adventure-m2.webp",
+      "images/dc/dc-sonic-adventure-m3.webp",
+      "images/dc/dc-sonic-adventure-m4.webp",
+      "images/dc/dc-sonic-adventure-title.webp"
     ],
-    "cover": "images/dc/dc-sonic-adventure-box.jpg",
+    "cover": "images/dc/dc-sonic-adventure-box.webp",
     "styleMatch": 0,
     "styleNote": "3D高速动作游戏"
   },
@@ -840,15 +840,15 @@
     "editorScore": 8.9,
     "is2D": false,
     "screenshots": [
-      "images/dc/dc-rez-s1.png",
-      "images/dc/dc-rez-m1.png",
-      "images/dc/dc-rez-m2.png",
-      "images/dc/dc-rez-m3.png",
-      "images/dc/dc-rez-m4.png",
-      "images/dc/dc-rez-m5.jpg",
-      "images/dc/dc-rez-title.png"
+      "images/dc/dc-rez-s1.webp",
+      "images/dc/dc-rez-m1.webp",
+      "images/dc/dc-rez-m2.webp",
+      "images/dc/dc-rez-m3.webp",
+      "images/dc/dc-rez-m4.webp",
+      "images/dc/dc-rez-m5.webp",
+      "images/dc/dc-rez-title.webp"
     ],
-    "cover": "images/dc/dc-rez-box.jpg",
+    "cover": "images/dc/dc-rez-box.webp",
     "styleMatch": 0,
     "styleNote": "3D音乐轨道射击"
   },
@@ -895,13 +895,13 @@
     "editorScore": 8.8,
     "is2D": true,
     "screenshots": [
-      "images/dc/dc-chuchu-rocket-s1.png",
-      "images/dc/dc-chuchu-rocket-m1.jpg",
-      "images/dc/dc-chuchu-rocket-m2.jpg",
-      "images/dc/dc-chuchu-rocket-m3.jpg",
-      "images/dc/dc-chuchu-rocket-title.png"
+      "images/dc/dc-chuchu-rocket-s1.webp",
+      "images/dc/dc-chuchu-rocket-m1.webp",
+      "images/dc/dc-chuchu-rocket-m2.webp",
+      "images/dc/dc-chuchu-rocket-m3.webp",
+      "images/dc/dc-chuchu-rocket-title.webp"
     ],
-    "cover": "images/dc/dc-chuchu-rocket-box.jpg",
+    "cover": "images/dc/dc-chuchu-rocket-box.webp",
     "styleMatch": 0,
     "styleNote": "网格解谜派对游戏"
   },
@@ -932,12 +932,12 @@
     "editorScore": 8.8,
     "is2D": true,
     "screenshots": [
-      "images/dc/dc-vampire-chronicle-s1.png",
-      "images/dc/dc-vampire-chronicle-x1.jpg",
-      "images/dc/dc-vampire-chronicle-x2.jpg",
-      "images/dc/dc-vampire-chronicle-title.png"
+      "images/dc/dc-vampire-chronicle-s1.webp",
+      "images/dc/dc-vampire-chronicle-x1.webp",
+      "images/dc/dc-vampire-chronicle-x2.webp",
+      "images/dc/dc-vampire-chronicle-title.webp"
     ],
-    "cover": "images/dc/dc-vampire-chronicle-box.jpg",
+    "cover": "images/dc/dc-vampire-chronicle-box.webp",
     "styleMatch": 0,
     "styleNote": "2D像素格斗，类型不同"
   },
@@ -979,13 +979,13 @@
     "editorScore": 8.8,
     "is2D": false,
     "screenshots": [
-      "images/dc/dc-sakura-taisen-3-s1.png",
-      "images/dc/dc-sakura-taisen-3-m1.jpg",
-      "images/dc/dc-sakura-taisen-3-m2.jpg",
-      "images/dc/dc-sakura-taisen-3-m3.jpg",
-      "images/dc/dc-sakura-taisen-3-title.png"
+      "images/dc/dc-sakura-taisen-3-s1.webp",
+      "images/dc/dc-sakura-taisen-3-m1.webp",
+      "images/dc/dc-sakura-taisen-3-m2.webp",
+      "images/dc/dc-sakura-taisen-3-m3.webp",
+      "images/dc/dc-sakura-taisen-3-title.webp"
     ],
-    "cover": "images/dc/dc-sakura-taisen-3-box.jpg",
+    "cover": "images/dc/dc-sakura-taisen-3-box.webp",
     "styleMatch": 0,
     "styleNote": "3D战棋加冒险，画面风格不同"
   },
@@ -1032,15 +1032,15 @@
     "editorScore": 8.7,
     "is2D": true,
     "screenshots": [
-      "images/dc/dc-bangai-o-s1.png",
-      "images/dc/dc-bangai-o-x1.png",
-      "images/dc/dc-bangai-o-x2.jpg",
-      "images/dc/dc-bangai-o-m1.jpg",
-      "images/dc/dc-bangai-o-m2.png",
-      "images/dc/dc-bangai-o-m3.jpg",
-      "images/dc/dc-bangai-o-title.png"
+      "images/dc/dc-bangai-o-s1.webp",
+      "images/dc/dc-bangai-o-x1.webp",
+      "images/dc/dc-bangai-o-x2.webp",
+      "images/dc/dc-bangai-o-m1.webp",
+      "images/dc/dc-bangai-o-m2.webp",
+      "images/dc/dc-bangai-o-m3.webp",
+      "images/dc/dc-bangai-o-title.webp"
     ],
-    "cover": "images/dc/dc-bangai-o-box.jpg",
+    "cover": "images/dc/dc-bangai-o-box.webp",
     "styleMatch": 0,
     "styleNote": "2D像素射击游戏"
   },
@@ -1087,13 +1087,13 @@
     "editorScore": 8.6,
     "is2D": true,
     "screenshots": [
-      "images/dc/dc-jojo-s1.png",
-      "images/dc/dc-jojo-m1.png",
-      "images/dc/dc-jojo-m2.jpg",
-      "images/dc/dc-jojo-m3.jpg",
-      "images/dc/dc-jojo-title.png"
+      "images/dc/dc-jojo-s1.webp",
+      "images/dc/dc-jojo-m1.webp",
+      "images/dc/dc-jojo-m2.webp",
+      "images/dc/dc-jojo-m3.webp",
+      "images/dc/dc-jojo-title.webp"
     ],
-    "cover": "images/dc/dc-jojo-box.jpg",
+    "cover": "images/dc/dc-jojo-box.webp",
     "styleMatch": 0,
     "styleNote": "2D像素格斗，类型不同"
   },
@@ -1140,15 +1140,15 @@
     "editorScore": 8.6,
     "is2D": true,
     "screenshots": [
-      "images/dc/dc-border-down-s1.png",
-      "images/dc/dc-border-down-x1.png",
-      "images/dc/dc-border-down-x2.jpg",
-      "images/dc/dc-border-down-m1.jpg",
-      "images/dc/dc-border-down-m2.jpg",
-      "images/dc/dc-border-down-m3.jpg",
-      "images/dc/dc-border-down-title.png"
+      "images/dc/dc-border-down-s1.webp",
+      "images/dc/dc-border-down-x1.webp",
+      "images/dc/dc-border-down-x2.webp",
+      "images/dc/dc-border-down-m1.webp",
+      "images/dc/dc-border-down-m2.webp",
+      "images/dc/dc-border-down-m3.webp",
+      "images/dc/dc-border-down-title.webp"
     ],
-    "cover": "images/dc/dc-border-down-box.jpg",
+    "cover": "images/dc/dc-border-down-box.webp",
     "styleMatch": 0,
     "styleNote": "射击游戏，类型不同"
   },
@@ -1185,12 +1185,12 @@
     "editorScore": 8.5,
     "is2D": true,
     "screenshots": [
-      "images/dc/dc-street-fighter-3-double-impact-s1.png",
-      "images/dc/dc-street-fighter-3-double-impact-m1.jpg",
-      "images/dc/dc-street-fighter-3-double-impact-m2.jpg",
-      "images/dc/dc-street-fighter-3-double-impact-title.png"
+      "images/dc/dc-street-fighter-3-double-impact-s1.webp",
+      "images/dc/dc-street-fighter-3-double-impact-m1.webp",
+      "images/dc/dc-street-fighter-3-double-impact-m2.webp",
+      "images/dc/dc-street-fighter-3-double-impact-title.webp"
     ],
-    "cover": "images/dc/dc-street-fighter-3-double-impact-box.jpg",
+    "cover": "images/dc/dc-street-fighter-3-double-impact-box.webp",
     "styleMatch": 0,
     "styleNote": "2D像素格斗，类型不同"
   },
@@ -1227,11 +1227,11 @@
     "editorScore": 8.5,
     "is2D": true,
     "screenshots": [
-      "images/dc/dc-kof-2002-s1.png",
-      "images/dc/dc-kof-2002-x1.png",
-      "images/dc/dc-kof-2002-title.png"
+      "images/dc/dc-kof-2002-s1.webp",
+      "images/dc/dc-kof-2002-x1.webp",
+      "images/dc/dc-kof-2002-title.webp"
     ],
-    "cover": "images/dc/dc-kof-2002-box.jpg",
+    "cover": "images/dc/dc-kof-2002-box.webp",
     "styleMatch": 0,
     "styleNote": "2D像素格斗，类型不同"
   },
@@ -1279,15 +1279,15 @@
     "editorScore": 8.4,
     "is2D": false,
     "screenshots": [
-      "images/dc/dc-record-of-lodoss-war-s1.png",
-      "images/dc/dc-record-of-lodoss-war-m1.jpg",
-      "images/dc/dc-record-of-lodoss-war-m2.jpg",
-      "images/dc/dc-record-of-lodoss-war-m3.jpg",
-      "images/dc/dc-record-of-lodoss-war-m4.jpg",
-      "images/dc/dc-record-of-lodoss-war-m5.jpg",
-      "images/dc/dc-record-of-lodoss-war-title.png"
+      "images/dc/dc-record-of-lodoss-war-s1.webp",
+      "images/dc/dc-record-of-lodoss-war-m1.webp",
+      "images/dc/dc-record-of-lodoss-war-m2.webp",
+      "images/dc/dc-record-of-lodoss-war-m3.webp",
+      "images/dc/dc-record-of-lodoss-war-m4.webp",
+      "images/dc/dc-record-of-lodoss-war-m5.webp",
+      "images/dc/dc-record-of-lodoss-war-title.webp"
     ],
-    "cover": "images/dc/dc-record-of-lodoss-war-box.jpg",
+    "cover": "images/dc/dc-record-of-lodoss-war-box.webp",
     "styleMatch": 1,
     "styleNote": "俯视角ARPG有城镇，但为3D多边形"
   },
@@ -1334,12 +1334,12 @@
     "editorScore": 8.4,
     "is2D": true,
     "screenshots": [
-      "images/dc/dc-mr-driller-s1.png",
-      "images/dc/dc-mr-driller-m1.jpg",
-      "images/dc/dc-mr-driller-m2.jpg",
-      "images/dc/dc-mr-driller-title.png"
+      "images/dc/dc-mr-driller-s1.webp",
+      "images/dc/dc-mr-driller-m1.webp",
+      "images/dc/dc-mr-driller-m2.webp",
+      "images/dc/dc-mr-driller-title.webp"
     ],
-    "cover": "images/dc/dc-mr-driller-box.jpg",
+    "cover": "images/dc/dc-mr-driller-box.webp",
     "styleMatch": 0,
     "styleNote": "2D像素方块解谜，非RPG"
   },
@@ -1379,15 +1379,15 @@
     "styleMatch": 3,
     "styleNote": "斜俯视角手绘像素城镇，可自由探索",
     "screenshots": [
-      "images/dc/dc-eldorado-gate-s1.png",
-      "images/dc/dc-eldorado-gate-x1.png",
-      "images/dc/dc-eldorado-gate-x2.png",
-      "images/dc/dc-eldorado-gate-m1.jpg",
-      "images/dc/dc-eldorado-gate-m2.jpg",
-      "images/dc/dc-eldorado-gate-m3.jpg",
-      "images/dc/dc-eldorado-gate-title.png"
+      "images/dc/dc-eldorado-gate-s1.webp",
+      "images/dc/dc-eldorado-gate-x1.webp",
+      "images/dc/dc-eldorado-gate-x2.webp",
+      "images/dc/dc-eldorado-gate-m1.webp",
+      "images/dc/dc-eldorado-gate-m2.webp",
+      "images/dc/dc-eldorado-gate-m3.webp",
+      "images/dc/dc-eldorado-gate-title.webp"
     ],
-    "cover": "images/dc/dc-eldorado-gate-box.jpg"
+    "cover": "images/dc/dc-eldorado-gate-box.webp"
   },
   {
     "id": "dc-elemental-gimmick-gear",
@@ -1433,15 +1433,15 @@
     "editorScore": 8.3,
     "is2D": true,
     "screenshots": [
-      "images/dc/dc-elemental-gimmick-gear-s1.png",
-      "images/dc/dc-elemental-gimmick-gear-x1.png",
-      "images/dc/dc-elemental-gimmick-gear-x2.jpg",
-      "images/dc/dc-elemental-gimmick-gear-m1.jpg",
-      "images/dc/dc-elemental-gimmick-gear-m2.jpg",
-      "images/dc/dc-elemental-gimmick-gear-m3.jpg",
-      "images/dc/dc-elemental-gimmick-gear-title.png"
+      "images/dc/dc-elemental-gimmick-gear-s1.webp",
+      "images/dc/dc-elemental-gimmick-gear-x1.webp",
+      "images/dc/dc-elemental-gimmick-gear-x2.webp",
+      "images/dc/dc-elemental-gimmick-gear-m1.webp",
+      "images/dc/dc-elemental-gimmick-gear-m2.webp",
+      "images/dc/dc-elemental-gimmick-gear-m3.webp",
+      "images/dc/dc-elemental-gimmick-gear-title.webp"
     ],
-    "cover": "images/dc/dc-elemental-gimmick-gear-box.jpg",
+    "cover": "images/dc/dc-elemental-gimmick-gear-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角手绘像素，可探索城镇与迷宫"
   },
@@ -1483,12 +1483,12 @@
     "editorScore": 8.3,
     "is2D": true,
     "screenshots": [
-      "images/dc/dc-kof-99-evolution-s1.png",
-      "images/dc/dc-kof-99-evolution-m1.jpg",
-      "images/dc/dc-kof-99-evolution-m2.jpg",
-      "images/dc/dc-kof-99-evolution-title.png"
+      "images/dc/dc-kof-99-evolution-s1.webp",
+      "images/dc/dc-kof-99-evolution-m1.webp",
+      "images/dc/dc-kof-99-evolution-m2.webp",
+      "images/dc/dc-kof-99-evolution-title.webp"
     ],
-    "cover": "images/dc/dc-kof-99-evolution-box.jpg",
+    "cover": "images/dc/dc-kof-99-evolution-box.webp",
     "styleMatch": 0,
     "styleNote": "2D像素格斗，类型不同"
   },
@@ -1522,13 +1522,13 @@
     "styleMatch": 2,
     "styleNote": "斜俯视角战棋地图，有城镇剧情但不能自由走",
     "screenshots": [
-      "images/dc/dc-sakura-taisen-s1.png",
-      "images/dc/dc-sakura-taisen-x1.png",
-      "images/dc/dc-sakura-taisen-y1.jpg",
-      "images/dc/dc-sakura-taisen-y2.jpg",
-      "images/dc/dc-sakura-taisen-title.png"
+      "images/dc/dc-sakura-taisen-s1.webp",
+      "images/dc/dc-sakura-taisen-x1.webp",
+      "images/dc/dc-sakura-taisen-y1.webp",
+      "images/dc/dc-sakura-taisen-y2.webp",
+      "images/dc/dc-sakura-taisen-title.webp"
     ],
-    "cover": "images/dc/dc-sakura-taisen-box.jpg"
+    "cover": "images/dc/dc-sakura-taisen-box.webp"
   },
   {
     "id": "dc-mars-matrix",
@@ -1573,12 +1573,12 @@
     "editorScore": 8.2,
     "is2D": true,
     "screenshots": [
-      "images/dc/dc-mars-matrix-s1.png",
-      "images/dc/dc-mars-matrix-m1.jpg",
-      "images/dc/dc-mars-matrix-m2.jpg",
-      "images/dc/dc-mars-matrix-title.png"
+      "images/dc/dc-mars-matrix-s1.webp",
+      "images/dc/dc-mars-matrix-m1.webp",
+      "images/dc/dc-mars-matrix-m2.webp",
+      "images/dc/dc-mars-matrix-title.webp"
     ],
-    "cover": "images/dc/dc-mars-matrix-box.jpg",
+    "cover": "images/dc/dc-mars-matrix-box.webp",
     "styleMatch": 0,
     "styleNote": "射击游戏，类型不同"
   },
@@ -1620,11 +1620,11 @@
     "editorScore": 8.2,
     "is2D": true,
     "screenshots": [
-      "images/dc/dc-under-defeat-s1.png",
-      "images/dc/dc-under-defeat-x1.png",
-      "images/dc/dc-under-defeat-title.png"
+      "images/dc/dc-under-defeat-s1.webp",
+      "images/dc/dc-under-defeat-x1.webp",
+      "images/dc/dc-under-defeat-title.webp"
     ],
-    "cover": "images/dc/dc-under-defeat-box.jpg",
+    "cover": "images/dc/dc-under-defeat-box.webp",
     "styleMatch": 0,
     "styleNote": "射击游戏，类型不同"
   },
@@ -1666,10 +1666,10 @@
     "editorScore": 8.2,
     "is2D": false,
     "screenshots": [
-      "images/dc/dc-super-robot-taisen-alpha-s1.png",
-      "images/dc/dc-super-robot-taisen-alpha-title.png"
+      "images/dc/dc-super-robot-taisen-alpha-s1.webp",
+      "images/dc/dc-super-robot-taisen-alpha-title.webp"
     ],
-    "cover": "images/dc/dc-super-robot-taisen-alpha-box.jpg",
+    "cover": "images/dc/dc-super-robot-taisen-alpha-box.webp",
     "styleMatch": 1,
     "styleNote": "2D地图战棋，无城镇探索，战斗3D"
   },
@@ -1706,12 +1706,12 @@
     "editorScore": 8.1,
     "is2D": true,
     "screenshots": [
-      "images/dc/dc-zero-gunner-2-s1.png",
-      "images/dc/dc-zero-gunner-2-x2.jpg",
-      "images/dc/dc-zero-gunner-2-m1.jpg",
-      "images/dc/dc-zero-gunner-2-title.png"
+      "images/dc/dc-zero-gunner-2-s1.webp",
+      "images/dc/dc-zero-gunner-2-x2.webp",
+      "images/dc/dc-zero-gunner-2-m1.webp",
+      "images/dc/dc-zero-gunner-2-title.webp"
     ],
-    "cover": "images/dc/dc-zero-gunner-2-box.jpg",
+    "cover": "images/dc/dc-zero-gunner-2-box.webp",
     "styleMatch": 0,
     "styleNote": "射击游戏，类型不同"
   },
@@ -1758,10 +1758,10 @@
     "editorScore": 7.8,
     "is2D": true,
     "screenshots": [
-      "images/dc/dc-gunbird-2-s1.png",
-      "images/dc/dc-gunbird-2-title.png"
+      "images/dc/dc-gunbird-2-s1.webp",
+      "images/dc/dc-gunbird-2-title.webp"
     ],
-    "cover": "images/dc/dc-gunbird-2-box.jpg",
+    "cover": "images/dc/dc-gunbird-2-box.webp",
     "styleMatch": 0,
     "styleNote": "射击游戏，类型不同"
   },
@@ -1798,11 +1798,11 @@
     "editorScore": 7.8,
     "is2D": true,
     "screenshots": [
-      "images/dc/dc-psyvariar-2-s1.png",
-      "images/dc/dc-psyvariar-2-m1.jpg",
-      "images/dc/dc-psyvariar-2-title.png"
+      "images/dc/dc-psyvariar-2-s1.webp",
+      "images/dc/dc-psyvariar-2-m1.webp",
+      "images/dc/dc-psyvariar-2-title.webp"
     ],
-    "cover": "images/dc/dc-psyvariar-2-box.jpg",
+    "cover": "images/dc/dc-psyvariar-2-box.webp",
     "styleMatch": 0,
     "styleNote": "射击游戏，类型不同"
   },
@@ -1849,10 +1849,10 @@
     "editorScore": 7.6,
     "is2D": true,
     "screenshots": [
-      "images/dc/dc-giga-wing-s1.png",
-      "images/dc/dc-giga-wing-title.png"
+      "images/dc/dc-giga-wing-s1.webp",
+      "images/dc/dc-giga-wing-title.webp"
     ],
-    "cover": "images/dc/dc-giga-wing-box.jpg",
+    "cover": "images/dc/dc-giga-wing-box.webp",
     "styleMatch": 0,
     "styleNote": "射击游戏，类型不同"
   },
@@ -1902,14 +1902,14 @@
     "styleMatch": 2,
     "styleNote": "俯视角预渲染城镇可自由探索，角色为3D",
     "screenshots": [
-      "images/dc/dc-silver-s1.png",
-      "images/dc/dc-silver-x1.jpg",
-      "images/dc/dc-silver-x2.jpg",
-      "images/dc/dc-silver-y1.jpg",
-      "images/dc/dc-silver-y2.png",
-      "images/dc/dc-silver-y3.jpg",
-      "images/dc/dc-silver-title.png"
+      "images/dc/dc-silver-s1.webp",
+      "images/dc/dc-silver-x1.webp",
+      "images/dc/dc-silver-x2.webp",
+      "images/dc/dc-silver-y1.webp",
+      "images/dc/dc-silver-y2.webp",
+      "images/dc/dc-silver-y3.webp",
+      "images/dc/dc-silver-title.webp"
     ],
-    "cover": "images/dc/dc-silver-box.jpg"
+    "cover": "images/dc/dc-silver-box.webp"
   }
 ]

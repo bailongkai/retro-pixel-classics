@@ -43,15 +43,15 @@
     "editorScore": 9.8,
     "is2D": true,
     "screenshots": [
-      "images/ps/ps-symphony-of-the-night-s1.png",
-      "images/ps/ps-symphony-of-the-night-s2.png",
-      "images/ps/ps-symphony-of-the-night-s3.png",
-      "images/ps/ps-symphony-of-the-night-x1.jpg",
-      "images/ps/ps-symphony-of-the-night-m1.jpg",
-      "images/ps/ps-symphony-of-the-night-m2.jpg",
-      "images/ps/ps-symphony-of-the-night-title.png"
+      "images/ps/ps-symphony-of-the-night-s1.webp",
+      "images/ps/ps-symphony-of-the-night-s2.webp",
+      "images/ps/ps-symphony-of-the-night-s3.webp",
+      "images/ps/ps-symphony-of-the-night-x1.webp",
+      "images/ps/ps-symphony-of-the-night-m1.webp",
+      "images/ps/ps-symphony-of-the-night-m2.webp",
+      "images/ps/ps-symphony-of-the-night-title.webp"
     ],
-    "cover": "images/ps/ps-symphony-of-the-night-box.jpg",
+    "cover": "images/ps/ps-symphony-of-the-night-box.webp",
     "styleMatch": 2,
     "styleNote": "像素银河城，有商店但为横版"
   },
@@ -98,15 +98,15 @@
     "editorScore": 9.6,
     "is2D": false,
     "screenshots": [
-      "images/ps/ps-chrono-cross-s1.png",
-      "images/ps/ps-chrono-cross-x1.png",
-      "images/ps/ps-chrono-cross-x2.png",
-      "images/ps/ps-chrono-cross-m1.jpg",
-      "images/ps/ps-chrono-cross-m2.jpg",
-      "images/ps/ps-chrono-cross-m3.jpg",
-      "images/ps/ps-chrono-cross-title.png"
+      "images/ps/ps-chrono-cross-s1.webp",
+      "images/ps/ps-chrono-cross-x1.webp",
+      "images/ps/ps-chrono-cross-x2.webp",
+      "images/ps/ps-chrono-cross-m1.webp",
+      "images/ps/ps-chrono-cross-m2.webp",
+      "images/ps/ps-chrono-cross-m3.webp",
+      "images/ps/ps-chrono-cross-title.webp"
     ],
-    "cover": "images/ps/ps-chrono-cross-box.jpg",
+    "cover": "images/ps/ps-chrono-cross-box.webp",
     "styleMatch": 1,
     "styleNote": "3D角色+预渲染背景，非像素"
   },
@@ -154,15 +154,15 @@
     "editorScore": 9.6,
     "is2D": true,
     "screenshots": [
-      "images/ps/ps-suikoden-ii-s1.png",
-      "images/ps/ps-suikoden-ii-s2.png",
-      "images/ps/ps-suikoden-ii-x1.jpg",
-      "images/ps/ps-suikoden-ii-m1.png",
-      "images/ps/ps-suikoden-ii-m2.png",
-      "images/ps/ps-suikoden-ii-m3.png",
-      "images/ps/ps-suikoden-ii-title.png"
+      "images/ps/ps-suikoden-ii-s1.webp",
+      "images/ps/ps-suikoden-ii-s2.webp",
+      "images/ps/ps-suikoden-ii-x1.webp",
+      "images/ps/ps-suikoden-ii-m1.webp",
+      "images/ps/ps-suikoden-ii-m2.webp",
+      "images/ps/ps-suikoden-ii-m3.webp",
+      "images/ps/ps-suikoden-ii-title.webp"
     ],
-    "cover": "images/ps/ps-suikoden-ii-box.jpg",
+    "cover": "images/ps/ps-suikoden-ii-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素城镇，与参考图气质最近"
   },
@@ -210,15 +210,15 @@
     "editorScore": 9.5,
     "is2D": true,
     "screenshots": [
-      "images/ps/ps-final-fantasy-tactics-s1.png",
-      "images/ps/ps-final-fantasy-tactics-s2.png",
-      "images/ps/ps-final-fantasy-tactics-x1.jpg",
-      "images/ps/ps-final-fantasy-tactics-x2.jpg",
-      "images/ps/ps-final-fantasy-tactics-m1.jpg",
-      "images/ps/ps-final-fantasy-tactics-m2.jpg",
-      "images/ps/ps-final-fantasy-tactics-title.png"
+      "images/ps/ps-final-fantasy-tactics-s1.webp",
+      "images/ps/ps-final-fantasy-tactics-s2.webp",
+      "images/ps/ps-final-fantasy-tactics-x1.webp",
+      "images/ps/ps-final-fantasy-tactics-x2.webp",
+      "images/ps/ps-final-fantasy-tactics-m1.webp",
+      "images/ps/ps-final-fantasy-tactics-m2.webp",
+      "images/ps/ps-final-fantasy-tactics-title.webp"
     ],
-    "cover": "images/ps/ps-final-fantasy-tactics-box.jpg",
+    "cover": "images/ps/ps-final-fantasy-tactics-box.webp",
     "styleMatch": 2,
     "styleNote": "像素战棋，城镇仅为菜单"
   },
@@ -267,15 +267,15 @@
     "styleMatch": 3,
     "styleNote": "俯视角像素RPG，城镇村庄自由探索",
     "screenshots": [
-      "images/ps/ps-chrono-trigger-s1.png",
-      "images/ps/ps-chrono-trigger-x1.jpg",
-      "images/ps/ps-chrono-trigger-x2.jpg",
-      "images/ps/ps-chrono-trigger-m1.jpg",
-      "images/ps/ps-chrono-trigger-m2.jpg",
-      "images/ps/ps-chrono-trigger-m3.png",
-      "images/ps/ps-chrono-trigger-title.png"
+      "images/ps/ps-chrono-trigger-s1.webp",
+      "images/ps/ps-chrono-trigger-x1.webp",
+      "images/ps/ps-chrono-trigger-x2.webp",
+      "images/ps/ps-chrono-trigger-m1.webp",
+      "images/ps/ps-chrono-trigger-m2.webp",
+      "images/ps/ps-chrono-trigger-m3.webp",
+      "images/ps/ps-chrono-trigger-title.webp"
     ],
-    "cover": "images/ps/ps-chrono-trigger-box.jpg"
+    "cover": "images/ps/ps-chrono-trigger-box.webp"
   },
   {
     "id": "ps-final-fantasy-ix",
@@ -320,15 +320,15 @@
     "editorScore": 9.4,
     "is2D": false,
     "screenshots": [
-      "images/ps/ps-final-fantasy-ix-s1.png",
-      "images/ps/ps-final-fantasy-ix-s2.png",
-      "images/ps/ps-final-fantasy-ix-s3.png",
-      "images/ps/ps-final-fantasy-ix-m1.png",
-      "images/ps/ps-final-fantasy-ix-m2.jpg",
-      "images/ps/ps-final-fantasy-ix-m3.jpg",
-      "images/ps/ps-final-fantasy-ix-title.png"
+      "images/ps/ps-final-fantasy-ix-s1.webp",
+      "images/ps/ps-final-fantasy-ix-s2.webp",
+      "images/ps/ps-final-fantasy-ix-s3.webp",
+      "images/ps/ps-final-fantasy-ix-m1.webp",
+      "images/ps/ps-final-fantasy-ix-m2.webp",
+      "images/ps/ps-final-fantasy-ix-m3.webp",
+      "images/ps/ps-final-fantasy-ix-title.webp"
     ],
-    "cover": "images/ps/ps-final-fantasy-ix-box.jpg",
+    "cover": "images/ps/ps-final-fantasy-ix-box.webp",
     "styleMatch": 1,
     "styleNote": "3D角色+预渲染背景，非像素"
   },
@@ -375,15 +375,15 @@
     "editorScore": 9.3,
     "is2D": true,
     "screenshots": [
-      "images/ps/ps-valkyrie-profile-s1.png",
-      "images/ps/ps-valkyrie-profile-s2.png",
-      "images/ps/ps-valkyrie-profile-s3.png",
-      "images/ps/ps-valkyrie-profile-x1.jpg",
-      "images/ps/ps-valkyrie-profile-x2.jpg",
-      "images/ps/ps-valkyrie-profile-m1.png",
-      "images/ps/ps-valkyrie-profile-title.png"
+      "images/ps/ps-valkyrie-profile-s1.webp",
+      "images/ps/ps-valkyrie-profile-s2.webp",
+      "images/ps/ps-valkyrie-profile-s3.webp",
+      "images/ps/ps-valkyrie-profile-x1.webp",
+      "images/ps/ps-valkyrie-profile-x2.webp",
+      "images/ps/ps-valkyrie-profile-m1.webp",
+      "images/ps/ps-valkyrie-profile-title.webp"
     ],
-    "cover": "images/ps/ps-valkyrie-profile-box.jpg",
+    "cover": "images/ps/ps-valkyrie-profile-box.webp",
     "styleMatch": 2,
     "styleNote": "像素RPG但为横版视角探索"
   },
@@ -430,15 +430,15 @@
     "editorScore": 9.2,
     "is2D": true,
     "screenshots": [
-      "images/ps/ps-xenogears-s1.png",
-      "images/ps/ps-xenogears-s2.png",
-      "images/ps/ps-xenogears-x1.jpg",
-      "images/ps/ps-xenogears-m1.jpg",
-      "images/ps/ps-xenogears-m2.png",
-      "images/ps/ps-xenogears-m3.jpg",
-      "images/ps/ps-xenogears-title.png"
+      "images/ps/ps-xenogears-s1.webp",
+      "images/ps/ps-xenogears-s2.webp",
+      "images/ps/ps-xenogears-x1.webp",
+      "images/ps/ps-xenogears-m1.webp",
+      "images/ps/ps-xenogears-m2.webp",
+      "images/ps/ps-xenogears-m3.webp",
+      "images/ps/ps-xenogears-title.webp"
     ],
-    "cover": "images/ps/ps-xenogears-box.jpg",
+    "cover": "images/ps/ps-xenogears-box.webp",
     "styleMatch": 2,
     "styleNote": "像素角色但城镇为3D多边形"
   },
@@ -485,15 +485,15 @@
     "editorScore": 9.1,
     "is2D": true,
     "screenshots": [
-      "images/ps/ps-legend-of-mana-s1.png",
-      "images/ps/ps-legend-of-mana-s2.png",
-      "images/ps/ps-legend-of-mana-x1.jpg",
-      "images/ps/ps-legend-of-mana-x2.png",
-      "images/ps/ps-legend-of-mana-m1.png",
-      "images/ps/ps-legend-of-mana-m2.jpg",
-      "images/ps/ps-legend-of-mana-title.png"
+      "images/ps/ps-legend-of-mana-s1.webp",
+      "images/ps/ps-legend-of-mana-s2.webp",
+      "images/ps/ps-legend-of-mana-x1.webp",
+      "images/ps/ps-legend-of-mana-x2.webp",
+      "images/ps/ps-legend-of-mana-m1.webp",
+      "images/ps/ps-legend-of-mana-m2.webp",
+      "images/ps/ps-legend-of-mana-title.webp"
     ],
-    "cover": "images/ps/ps-legend-of-mana-box.jpg",
+    "cover": "images/ps/ps-legend-of-mana-box.webp",
     "styleMatch": 3,
     "styleNote": "手绘2D俯视角，城镇商店一应俱全"
   },
@@ -541,15 +541,15 @@
     "editorScore": 9.0,
     "is2D": true,
     "screenshots": [
-      "images/ps/ps-alundra-s1.png",
+      "images/ps/ps-alundra-s1.webp",
       "images/ps/ps-alundra-x1.jpg",
       "images/ps/ps-alundra-x2.jpg",
       "images/ps/ps-alundra-m1.jpg",
       "images/ps/ps-alundra-m2.jpg",
       "images/ps/ps-alundra-m3.jpg",
-      "images/ps/ps-alundra-title.png"
+      "images/ps/ps-alundra-title.webp"
     ],
-    "cover": "images/ps/ps-alundra-box.jpg",
+    "cover": "images/ps/ps-alundra-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素ARPG，村庄自由探索"
   },
@@ -596,15 +596,15 @@
     "editorScore": 9.0,
     "is2D": true,
     "screenshots": [
-      "images/ps/ps-klonoa-s1.png",
-      "images/ps/ps-klonoa-s2.png",
-      "images/ps/ps-klonoa-x1.png",
-      "images/ps/ps-klonoa-m1.jpg",
-      "images/ps/ps-klonoa-m2.png",
-      "images/ps/ps-klonoa-m3.jpg",
-      "images/ps/ps-klonoa-title.png"
+      "images/ps/ps-klonoa-s1.webp",
+      "images/ps/ps-klonoa-s2.webp",
+      "images/ps/ps-klonoa-x1.webp",
+      "images/ps/ps-klonoa-m1.webp",
+      "images/ps/ps-klonoa-m2.webp",
+      "images/ps/ps-klonoa-m3.webp",
+      "images/ps/ps-klonoa-title.webp"
     ],
-    "cover": "images/ps/ps-klonoa-box.jpg",
+    "cover": "images/ps/ps-klonoa-box.webp",
     "styleMatch": 1,
     "styleNote": "2.5D横版平台，无城镇"
   },
@@ -651,15 +651,15 @@
     "editorScore": 9.0,
     "is2D": true,
     "screenshots": [
-      "images/ps/ps-grandia-s1.png",
-      "images/ps/ps-grandia-s2.png",
-      "images/ps/ps-grandia-s3.png",
-      "images/ps/ps-grandia-m1.jpg",
-      "images/ps/ps-grandia-m2.jpg",
-      "images/ps/ps-grandia-m3.jpg",
-      "images/ps/ps-grandia-title.png"
+      "images/ps/ps-grandia-s1.webp",
+      "images/ps/ps-grandia-s2.webp",
+      "images/ps/ps-grandia-s3.webp",
+      "images/ps/ps-grandia-m1.webp",
+      "images/ps/ps-grandia-m2.webp",
+      "images/ps/ps-grandia-m3.webp",
+      "images/ps/ps-grandia-title.webp"
     ],
-    "cover": "images/ps/ps-grandia-box.jpg",
+    "cover": "images/ps/ps-grandia-box.webp",
     "styleMatch": 2,
     "styleNote": "像素角色但场景为3D多边形"
   },
@@ -706,15 +706,15 @@
     "editorScore": 9.0,
     "is2D": true,
     "screenshots": [
-      "images/ps/ps-star-ocean-the-second-story-s1.png",
-      "images/ps/ps-star-ocean-the-second-story-x1.jpg",
-      "images/ps/ps-star-ocean-the-second-story-m1.png",
-      "images/ps/ps-star-ocean-the-second-story-m2.png",
-      "images/ps/ps-star-ocean-the-second-story-m3.jpg",
-      "images/ps/ps-star-ocean-the-second-story-m4.jpg",
-      "images/ps/ps-star-ocean-the-second-story-title.png"
+      "images/ps/ps-star-ocean-the-second-story-s1.webp",
+      "images/ps/ps-star-ocean-the-second-story-x1.webp",
+      "images/ps/ps-star-ocean-the-second-story-m1.webp",
+      "images/ps/ps-star-ocean-the-second-story-m2.webp",
+      "images/ps/ps-star-ocean-the-second-story-m3.webp",
+      "images/ps/ps-star-ocean-the-second-story-m4.webp",
+      "images/ps/ps-star-ocean-the-second-story-title.webp"
     ],
-    "cover": "images/ps/ps-star-ocean-the-second-story-box.jpg",
+    "cover": "images/ps/ps-star-ocean-the-second-story-box.webp",
     "styleMatch": 3,
     "styleNote": "像素角色+预渲染城镇，俯视角"
   },
@@ -753,15 +753,15 @@
     "styleMatch": 3,
     "styleNote": "斜俯视角像素城镇，与参考图非常接近",
     "screenshots": [
-      "images/ps/ps-popolocrois-s1.png",
-      "images/ps/ps-popolocrois-x1.png",
-      "images/ps/ps-popolocrois-x2.png",
-      "images/ps/ps-popolocrois-m1.png",
-      "images/ps/ps-popolocrois-m2.png",
-      "images/ps/ps-popolocrois-m3.png",
-      "images/ps/ps-popolocrois-title.png"
+      "images/ps/ps-popolocrois-s1.webp",
+      "images/ps/ps-popolocrois-x1.webp",
+      "images/ps/ps-popolocrois-x2.webp",
+      "images/ps/ps-popolocrois-m1.webp",
+      "images/ps/ps-popolocrois-m2.webp",
+      "images/ps/ps-popolocrois-m3.webp",
+      "images/ps/ps-popolocrois-title.webp"
     ],
-    "cover": "images/ps/ps-popolocrois-box.jpg"
+    "cover": "images/ps/ps-popolocrois-box.webp"
   },
   {
     "id": "ps-dragon-quest-vii",
@@ -808,15 +808,15 @@
     "styleMatch": 3,
     "styleNote": "像素Q版角色漫步DQ式城镇，3D场景",
     "screenshots": [
-      "images/ps/ps-dragon-quest-vii-s1.png",
-      "images/ps/ps-dragon-quest-vii-s2.png",
-      "images/ps/ps-dragon-quest-vii-s3.png",
-      "images/ps/ps-dragon-quest-vii-m1.png",
-      "images/ps/ps-dragon-quest-vii-m2.png",
-      "images/ps/ps-dragon-quest-vii-m3.jpg",
-      "images/ps/ps-dragon-quest-vii-title.png"
+      "images/ps/ps-dragon-quest-vii-s1.webp",
+      "images/ps/ps-dragon-quest-vii-s2.webp",
+      "images/ps/ps-dragon-quest-vii-s3.webp",
+      "images/ps/ps-dragon-quest-vii-m1.webp",
+      "images/ps/ps-dragon-quest-vii-m2.webp",
+      "images/ps/ps-dragon-quest-vii-m3.webp",
+      "images/ps/ps-dragon-quest-vii-title.webp"
     ],
-    "cover": "images/ps/ps-dragon-quest-vii-box.jpg"
+    "cover": "images/ps/ps-dragon-quest-vii-box.webp"
   },
   {
     "id": "ps-tactics-ogre",
@@ -858,13 +858,13 @@
     "styleMatch": 2,
     "styleNote": "像素战棋，城镇为菜单不可漫步",
     "screenshots": [
-      "images/ps/ps-tactics-ogre-s1.png",
-      "images/ps/ps-tactics-ogre-x1.jpg",
-      "images/ps/ps-tactics-ogre-m1.png",
-      "images/ps/ps-tactics-ogre-m2.jpg",
-      "images/ps/ps-tactics-ogre-title.png"
+      "images/ps/ps-tactics-ogre-s1.webp",
+      "images/ps/ps-tactics-ogre-x1.webp",
+      "images/ps/ps-tactics-ogre-m1.webp",
+      "images/ps/ps-tactics-ogre-m2.webp",
+      "images/ps/ps-tactics-ogre-title.webp"
     ],
-    "cover": "images/ps/ps-tactics-ogre-box.jpg"
+    "cover": "images/ps/ps-tactics-ogre-box.webp"
   },
   {
     "id": "ps-breath-of-fire-iii",
@@ -909,15 +909,15 @@
     "editorScore": 8.9,
     "is2D": true,
     "screenshots": [
-      "images/ps/ps-breath-of-fire-iii-s1.png",
-      "images/ps/ps-breath-of-fire-iii-x1.png",
-      "images/ps/ps-breath-of-fire-iii-m1.jpg",
-      "images/ps/ps-breath-of-fire-iii-m2.jpg",
-      "images/ps/ps-breath-of-fire-iii-m3.jpg",
-      "images/ps/ps-breath-of-fire-iii-m4.jpg",
-      "images/ps/ps-breath-of-fire-iii-title.png"
+      "images/ps/ps-breath-of-fire-iii-s1.webp",
+      "images/ps/ps-breath-of-fire-iii-x1.webp",
+      "images/ps/ps-breath-of-fire-iii-m1.webp",
+      "images/ps/ps-breath-of-fire-iii-m2.webp",
+      "images/ps/ps-breath-of-fire-iii-m3.webp",
+      "images/ps/ps-breath-of-fire-iii-m4.webp",
+      "images/ps/ps-breath-of-fire-iii-title.webp"
     ],
-    "cover": "images/ps/ps-breath-of-fire-iii-box.jpg",
+    "cover": "images/ps/ps-breath-of-fire-iii-box.webp",
     "styleMatch": 3,
     "styleNote": "像素角色漫步城镇村落，俯视角"
   },
@@ -964,15 +964,15 @@
     "editorScore": 8.9,
     "is2D": true,
     "screenshots": [
-      "images/ps/ps-saga-frontier-2-s1.png",
-      "images/ps/ps-saga-frontier-2-s2.png",
-      "images/ps/ps-saga-frontier-2-m1.jpg",
-      "images/ps/ps-saga-frontier-2-m2.jpg",
-      "images/ps/ps-saga-frontier-2-m3.jpg",
-      "images/ps/ps-saga-frontier-2-m4.jpg",
-      "images/ps/ps-saga-frontier-2-title.png"
+      "images/ps/ps-saga-frontier-2-s1.webp",
+      "images/ps/ps-saga-frontier-2-s2.webp",
+      "images/ps/ps-saga-frontier-2-m1.webp",
+      "images/ps/ps-saga-frontier-2-m2.webp",
+      "images/ps/ps-saga-frontier-2-m3.webp",
+      "images/ps/ps-saga-frontier-2-m4.webp",
+      "images/ps/ps-saga-frontier-2-title.webp"
     ],
-    "cover": "images/ps/ps-saga-frontier-2-box.jpg",
+    "cover": "images/ps/ps-saga-frontier-2-box.webp",
     "styleMatch": 2,
     "styleNote": "水彩2D但多为横向视角场景"
   },
@@ -1019,15 +1019,15 @@
     "editorScore": 8.9,
     "is2D": true,
     "screenshots": [
-      "images/ps/ps-tales-of-eternia-s1.png",
-      "images/ps/ps-tales-of-eternia-s2.png",
-      "images/ps/ps-tales-of-eternia-s3.png",
-      "images/ps/ps-tales-of-eternia-m1.jpg",
-      "images/ps/ps-tales-of-eternia-m2.jpg",
-      "images/ps/ps-tales-of-eternia-m3.jpg",
-      "images/ps/ps-tales-of-eternia-title.png"
+      "images/ps/ps-tales-of-eternia-s1.webp",
+      "images/ps/ps-tales-of-eternia-s2.webp",
+      "images/ps/ps-tales-of-eternia-s3.webp",
+      "images/ps/ps-tales-of-eternia-m1.webp",
+      "images/ps/ps-tales-of-eternia-m2.webp",
+      "images/ps/ps-tales-of-eternia-m3.webp",
+      "images/ps/ps-tales-of-eternia-title.webp"
     ],
-    "cover": "images/ps/ps-tales-of-eternia-box.jpg",
+    "cover": "images/ps/ps-tales-of-eternia-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素城镇，战斗为横版"
   },
@@ -1074,15 +1074,15 @@
     "editorScore": 8.9,
     "is2D": true,
     "screenshots": [
-      "images/ps/ps-lunar-silver-star-story-complete-s1.png",
-      "images/ps/ps-lunar-silver-star-story-complete-s2.png",
-      "images/ps/ps-lunar-silver-star-story-complete-s3.png",
-      "images/ps/ps-lunar-silver-star-story-complete-m1.jpg",
-      "images/ps/ps-lunar-silver-star-story-complete-m2.jpg",
-      "images/ps/ps-lunar-silver-star-story-complete-m3.jpg",
-      "images/ps/ps-lunar-silver-star-story-complete-title.png"
+      "images/ps/ps-lunar-silver-star-story-complete-s1.webp",
+      "images/ps/ps-lunar-silver-star-story-complete-s2.webp",
+      "images/ps/ps-lunar-silver-star-story-complete-s3.webp",
+      "images/ps/ps-lunar-silver-star-story-complete-m1.webp",
+      "images/ps/ps-lunar-silver-star-story-complete-m2.webp",
+      "images/ps/ps-lunar-silver-star-story-complete-m3.webp",
+      "images/ps/ps-lunar-silver-star-story-complete-title.webp"
     ],
-    "cover": "images/ps/ps-lunar-silver-star-story-complete-box.jpg",
+    "cover": "images/ps/ps-lunar-silver-star-story-complete-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素RPG，村庄商店自由逛"
   },
@@ -1129,14 +1129,14 @@
     "editorScore": 8.9,
     "is2D": false,
     "screenshots": [
-      "images/ps/ps-einhander-s1.png",
-      "images/ps/ps-einhander-s2.png",
-      "images/ps/ps-einhander-m1.jpg",
-      "images/ps/ps-einhander-m2.png",
+      "images/ps/ps-einhander-s1.webp",
+      "images/ps/ps-einhander-s2.webp",
+      "images/ps/ps-einhander-m1.webp",
+      "images/ps/ps-einhander-m2.webp",
       "images/ps/ps-einhander-m3.jpg",
-      "images/ps/ps-einhander-title.png"
+      "images/ps/ps-einhander-title.webp"
     ],
-    "cover": "images/ps/ps-einhander-box.jpg",
+    "cover": "images/ps/ps-einhander-box.webp",
     "styleMatch": 0,
     "styleNote": "3D横版射击，类型不同"
   },
@@ -1183,15 +1183,15 @@
     "editorScore": 8.8,
     "is2D": true,
     "screenshots": [
-      "images/ps/ps-suikoden-s1.png",
-      "images/ps/ps-suikoden-s2.png",
-      "images/ps/ps-suikoden-s3.png",
-      "images/ps/ps-suikoden-x1.jpg",
-      "images/ps/ps-suikoden-m1.png",
-      "images/ps/ps-suikoden-m2.jpg",
-      "images/ps/ps-suikoden-title.png"
+      "images/ps/ps-suikoden-s1.webp",
+      "images/ps/ps-suikoden-s2.webp",
+      "images/ps/ps-suikoden-s3.webp",
+      "images/ps/ps-suikoden-x1.webp",
+      "images/ps/ps-suikoden-m1.webp",
+      "images/ps/ps-suikoden-m2.webp",
+      "images/ps/ps-suikoden-title.webp"
     ],
-    "cover": "images/ps/ps-suikoden-box.jpg",
+    "cover": "images/ps/ps-suikoden-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素RPG，城镇与大本营探索"
   },
@@ -1238,15 +1238,15 @@
     "editorScore": 8.8,
     "is2D": true,
     "screenshots": [
-      "images/ps/ps-street-fighter-alpha-3-s1.png",
-      "images/ps/ps-street-fighter-alpha-3-x1.png",
-      "images/ps/ps-street-fighter-alpha-3-m1.png",
-      "images/ps/ps-street-fighter-alpha-3-m2.jpg",
-      "images/ps/ps-street-fighter-alpha-3-m3.jpg",
-      "images/ps/ps-street-fighter-alpha-3-m4.jpg",
-      "images/ps/ps-street-fighter-alpha-3-title.png"
+      "images/ps/ps-street-fighter-alpha-3-s1.webp",
+      "images/ps/ps-street-fighter-alpha-3-x1.webp",
+      "images/ps/ps-street-fighter-alpha-3-m1.webp",
+      "images/ps/ps-street-fighter-alpha-3-m2.webp",
+      "images/ps/ps-street-fighter-alpha-3-m3.webp",
+      "images/ps/ps-street-fighter-alpha-3-m4.webp",
+      "images/ps/ps-street-fighter-alpha-3-title.webp"
     ],
-    "cover": "images/ps/ps-street-fighter-alpha-3-box.jpg",
+    "cover": "images/ps/ps-street-fighter-alpha-3-box.webp",
     "styleMatch": 0,
     "styleNote": "格斗游戏，类型不同"
   },
@@ -1293,15 +1293,15 @@
     "editorScore": 8.8,
     "is2D": true,
     "screenshots": [
-      "images/ps/ps-breath-of-fire-iv-s1.png",
-      "images/ps/ps-breath-of-fire-iv-x1.png",
-      "images/ps/ps-breath-of-fire-iv-m1.jpg",
-      "images/ps/ps-breath-of-fire-iv-m2.jpg",
-      "images/ps/ps-breath-of-fire-iv-m3.jpg",
-      "images/ps/ps-breath-of-fire-iv-m4.jpg",
-      "images/ps/ps-breath-of-fire-iv-title.png"
+      "images/ps/ps-breath-of-fire-iv-s1.webp",
+      "images/ps/ps-breath-of-fire-iv-x1.webp",
+      "images/ps/ps-breath-of-fire-iv-m1.webp",
+      "images/ps/ps-breath-of-fire-iv-m2.webp",
+      "images/ps/ps-breath-of-fire-iv-m3.webp",
+      "images/ps/ps-breath-of-fire-iv-m4.webp",
+      "images/ps/ps-breath-of-fire-iv-title.webp"
     ],
-    "cover": "images/ps/ps-breath-of-fire-iv-box.jpg",
+    "cover": "images/ps/ps-breath-of-fire-iv-box.webp",
     "styleMatch": 3,
     "styleNote": "精致像素角色，俯视角城镇探索"
   },
@@ -1348,15 +1348,15 @@
     "editorScore": 8.8,
     "is2D": true,
     "screenshots": [
-      "images/ps/ps-tomba-s1.png",
-      "images/ps/ps-tomba-s2.png",
-      "images/ps/ps-tomba-m1.jpg",
-      "images/ps/ps-tomba-m2.jpg",
-      "images/ps/ps-tomba-m3.png",
-      "images/ps/ps-tomba-m4.jpg",
-      "images/ps/ps-tomba-title.png"
+      "images/ps/ps-tomba-s1.webp",
+      "images/ps/ps-tomba-s2.webp",
+      "images/ps/ps-tomba-m1.webp",
+      "images/ps/ps-tomba-m2.webp",
+      "images/ps/ps-tomba-m3.webp",
+      "images/ps/ps-tomba-m4.webp",
+      "images/ps/ps-tomba-title.webp"
     ],
-    "cover": "images/ps/ps-tomba-box.jpg",
+    "cover": "images/ps/ps-tomba-box.webp",
     "styleMatch": 1,
     "styleNote": "横版平台冒险，像素风同代"
   },
@@ -1393,15 +1393,15 @@
     "editorScore": 8.8,
     "is2D": true,
     "screenshots": [
-      "images/ps/ps-metal-slug-x-s1.png",
-      "images/ps/ps-metal-slug-x-x1.png",
-      "images/ps/ps-metal-slug-x-m1.png",
-      "images/ps/ps-metal-slug-x-m2.jpg",
-      "images/ps/ps-metal-slug-x-m3.jpg",
-      "images/ps/ps-metal-slug-x-m4.jpg",
-      "images/ps/ps-metal-slug-x-title.png"
+      "images/ps/ps-metal-slug-x-s1.webp",
+      "images/ps/ps-metal-slug-x-x1.webp",
+      "images/ps/ps-metal-slug-x-m1.webp",
+      "images/ps/ps-metal-slug-x-m2.webp",
+      "images/ps/ps-metal-slug-x-m3.webp",
+      "images/ps/ps-metal-slug-x-m4.webp",
+      "images/ps/ps-metal-slug-x-title.webp"
     ],
-    "cover": "images/ps/ps-metal-slug-x-box.jpg",
+    "cover": "images/ps/ps-metal-slug-x-box.webp",
     "styleMatch": 0,
     "styleNote": "横版射击，类型不同"
   },
@@ -1448,15 +1448,15 @@
     "editorScore": 8.8,
     "is2D": true,
     "screenshots": [
-      "images/ps/ps-lunar-2-eternal-blue-complete-s1.png",
-      "images/ps/ps-lunar-2-eternal-blue-complete-s2.png",
-      "images/ps/ps-lunar-2-eternal-blue-complete-m1.png",
-      "images/ps/ps-lunar-2-eternal-blue-complete-m2.png",
-      "images/ps/ps-lunar-2-eternal-blue-complete-m3.png",
-      "images/ps/ps-lunar-2-eternal-blue-complete-m4.png",
-      "images/ps/ps-lunar-2-eternal-blue-complete-title.png"
+      "images/ps/ps-lunar-2-eternal-blue-complete-s1.webp",
+      "images/ps/ps-lunar-2-eternal-blue-complete-s2.webp",
+      "images/ps/ps-lunar-2-eternal-blue-complete-m1.webp",
+      "images/ps/ps-lunar-2-eternal-blue-complete-m2.webp",
+      "images/ps/ps-lunar-2-eternal-blue-complete-m3.webp",
+      "images/ps/ps-lunar-2-eternal-blue-complete-m4.webp",
+      "images/ps/ps-lunar-2-eternal-blue-complete-title.webp"
     ],
-    "cover": "images/ps/ps-lunar-2-eternal-blue-complete-box.jpg",
+    "cover": "images/ps/ps-lunar-2-eternal-blue-complete-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素RPG，村庄商店自由逛"
   },
@@ -1493,13 +1493,13 @@
     "editorScore": 8.8,
     "is2D": true,
     "screenshots": [
-      "images/ps/ps-gradius-gaiden-s1.png",
-      "images/ps/ps-gradius-gaiden-x1.png",
-      "images/ps/ps-gradius-gaiden-x2.png",
-      "images/ps/ps-gradius-gaiden-m1.jpg",
-      "images/ps/ps-gradius-gaiden-title.png"
+      "images/ps/ps-gradius-gaiden-s1.webp",
+      "images/ps/ps-gradius-gaiden-x1.webp",
+      "images/ps/ps-gradius-gaiden-x2.webp",
+      "images/ps/ps-gradius-gaiden-m1.webp",
+      "images/ps/ps-gradius-gaiden-title.webp"
     ],
-    "cover": "images/ps/ps-gradius-gaiden-box.jpg",
+    "cover": "images/ps/ps-gradius-gaiden-box.webp",
     "styleMatch": 0,
     "styleNote": "横版射击，类型不同"
   },
@@ -1538,15 +1538,15 @@
     "styleMatch": 3,
     "styleNote": "像素Q版角色漫步DQ式城镇，3D场景",
     "screenshots": [
-      "images/ps/ps-dragon-quest-iv-s1.png",
-      "images/ps/ps-dragon-quest-iv-x1.jpg",
-      "images/ps/ps-dragon-quest-iv-m1.png",
-      "images/ps/ps-dragon-quest-iv-m2.png",
-      "images/ps/ps-dragon-quest-iv-m3.png",
-      "images/ps/ps-dragon-quest-iv-m4.png",
-      "images/ps/ps-dragon-quest-iv-title.png"
+      "images/ps/ps-dragon-quest-iv-s1.webp",
+      "images/ps/ps-dragon-quest-iv-x1.webp",
+      "images/ps/ps-dragon-quest-iv-m1.webp",
+      "images/ps/ps-dragon-quest-iv-m2.webp",
+      "images/ps/ps-dragon-quest-iv-m3.webp",
+      "images/ps/ps-dragon-quest-iv-m4.webp",
+      "images/ps/ps-dragon-quest-iv-title.webp"
     ],
-    "cover": "images/ps/ps-dragon-quest-iv-box.jpg"
+    "cover": "images/ps/ps-dragon-quest-iv-box.webp"
   },
   {
     "id": "ps-harvest-moon-back-to-nature",
@@ -1591,15 +1591,15 @@
     "editorScore": 8.7,
     "is2D": true,
     "screenshots": [
-      "images/ps/ps-harvest-moon-back-to-nature-s1.png",
-      "images/ps/ps-harvest-moon-back-to-nature-s2.png",
-      "images/ps/ps-harvest-moon-back-to-nature-m1.png",
-      "images/ps/ps-harvest-moon-back-to-nature-m2.jpg",
-      "images/ps/ps-harvest-moon-back-to-nature-m3.jpg",
-      "images/ps/ps-harvest-moon-back-to-nature-m4.jpg",
-      "images/ps/ps-harvest-moon-back-to-nature-title.png"
+      "images/ps/ps-harvest-moon-back-to-nature-s1.webp",
+      "images/ps/ps-harvest-moon-back-to-nature-s2.webp",
+      "images/ps/ps-harvest-moon-back-to-nature-m1.webp",
+      "images/ps/ps-harvest-moon-back-to-nature-m2.webp",
+      "images/ps/ps-harvest-moon-back-to-nature-m3.webp",
+      "images/ps/ps-harvest-moon-back-to-nature-m4.webp",
+      "images/ps/ps-harvest-moon-back-to-nature-title.webp"
     ],
-    "cover": "images/ps/ps-harvest-moon-back-to-nature-box.jpg",
+    "cover": "images/ps/ps-harvest-moon-back-to-nature-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角田园小镇生活，Q版角色"
   },
@@ -1643,15 +1643,15 @@
     "styleMatch": 2,
     "styleNote": "像素城镇可漫步，但战斗为战棋",
     "screenshots": [
-      "images/ps/ps-arc-the-lad-ii-s1.png",
-      "images/ps/ps-arc-the-lad-ii-x1.jpg",
-      "images/ps/ps-arc-the-lad-ii-x2.jpg",
-      "images/ps/ps-arc-the-lad-ii-m1.png",
-      "images/ps/ps-arc-the-lad-ii-m2.png",
-      "images/ps/ps-arc-the-lad-ii-m3.jpg",
-      "images/ps/ps-arc-the-lad-ii-title.png"
+      "images/ps/ps-arc-the-lad-ii-s1.webp",
+      "images/ps/ps-arc-the-lad-ii-x1.webp",
+      "images/ps/ps-arc-the-lad-ii-x2.webp",
+      "images/ps/ps-arc-the-lad-ii-m1.webp",
+      "images/ps/ps-arc-the-lad-ii-m2.webp",
+      "images/ps/ps-arc-the-lad-ii-m3.webp",
+      "images/ps/ps-arc-the-lad-ii-title.webp"
     ],
-    "cover": "images/ps/ps-arc-the-lad-ii-box.jpg"
+    "cover": "images/ps/ps-arc-the-lad-ii-box.webp"
   },
   {
     "id": "ps-wild-arms",
@@ -1696,14 +1696,14 @@
     "editorScore": 8.6,
     "is2D": true,
     "screenshots": [
-      "images/ps/ps-wild-arms-s1.png",
-      "images/ps/ps-wild-arms-s2.png",
-      "images/ps/ps-wild-arms-x1.png",
-      "images/ps/ps-wild-arms-x2.png",
-      "images/ps/ps-wild-arms-m1.png",
-      "images/ps/ps-wild-arms-title.png"
+      "images/ps/ps-wild-arms-s1.webp",
+      "images/ps/ps-wild-arms-s2.webp",
+      "images/ps/ps-wild-arms-x1.webp",
+      "images/ps/ps-wild-arms-x2.webp",
+      "images/ps/ps-wild-arms-m1.webp",
+      "images/ps/ps-wild-arms-title.webp"
     ],
-    "cover": "images/ps/ps-wild-arms-box.jpg",
+    "cover": "images/ps/ps-wild-arms-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角2D城镇与迷宫，战斗为3D"
   },
@@ -1740,15 +1740,15 @@
     "editorScore": 8.6,
     "is2D": true,
     "screenshots": [
-      "images/ps/ps-tales-of-phantasia-s1.png",
-      "images/ps/ps-tales-of-phantasia-s2.png",
-      "images/ps/ps-tales-of-phantasia-m1.png",
-      "images/ps/ps-tales-of-phantasia-m2.png",
-      "images/ps/ps-tales-of-phantasia-m3.png",
-      "images/ps/ps-tales-of-phantasia-m4.png",
-      "images/ps/ps-tales-of-phantasia-title.png"
+      "images/ps/ps-tales-of-phantasia-s1.webp",
+      "images/ps/ps-tales-of-phantasia-s2.webp",
+      "images/ps/ps-tales-of-phantasia-m1.webp",
+      "images/ps/ps-tales-of-phantasia-m2.webp",
+      "images/ps/ps-tales-of-phantasia-m3.webp",
+      "images/ps/ps-tales-of-phantasia-m4.webp",
+      "images/ps/ps-tales-of-phantasia-title.webp"
     ],
-    "cover": "images/ps/ps-tales-of-phantasia-box.jpg",
+    "cover": "images/ps/ps-tales-of-phantasia-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素城镇，战斗为横版"
   },
@@ -1795,15 +1795,15 @@
     "editorScore": 8.6,
     "is2D": true,
     "screenshots": [
-      "images/ps/ps-silhouette-mirage-s1.png",
-      "images/ps/ps-silhouette-mirage-s2.png",
-      "images/ps/ps-silhouette-mirage-m1.jpg",
-      "images/ps/ps-silhouette-mirage-m2.png",
-      "images/ps/ps-silhouette-mirage-m3.jpg",
-      "images/ps/ps-silhouette-mirage-m4.jpg",
-      "images/ps/ps-silhouette-mirage-title.png"
+      "images/ps/ps-silhouette-mirage-s1.webp",
+      "images/ps/ps-silhouette-mirage-s2.webp",
+      "images/ps/ps-silhouette-mirage-m1.webp",
+      "images/ps/ps-silhouette-mirage-m2.webp",
+      "images/ps/ps-silhouette-mirage-m3.webp",
+      "images/ps/ps-silhouette-mirage-m4.webp",
+      "images/ps/ps-silhouette-mirage-title.webp"
     ],
-    "cover": "images/ps/ps-silhouette-mirage-box.jpg",
+    "cover": "images/ps/ps-silhouette-mirage-box.webp",
     "styleMatch": 1,
     "styleNote": "横版像素动作，无城镇"
   },
@@ -1852,15 +1852,15 @@
     "styleMatch": 3,
     "styleNote": "俯视角像素城镇与原野，经典FF风格",
     "screenshots": [
-      "images/ps/ps-final-fantasy-origins-s1.png",
-      "images/ps/ps-final-fantasy-origins-s2.png",
-      "images/ps/ps-final-fantasy-origins-s3.png",
-      "images/ps/ps-final-fantasy-origins-m1.jpg",
-      "images/ps/ps-final-fantasy-origins-m2.jpg",
-      "images/ps/ps-final-fantasy-origins-m3.jpg",
-      "images/ps/ps-final-fantasy-origins-title.png"
+      "images/ps/ps-final-fantasy-origins-s1.webp",
+      "images/ps/ps-final-fantasy-origins-s2.webp",
+      "images/ps/ps-final-fantasy-origins-s3.webp",
+      "images/ps/ps-final-fantasy-origins-m1.webp",
+      "images/ps/ps-final-fantasy-origins-m2.webp",
+      "images/ps/ps-final-fantasy-origins-m3.webp",
+      "images/ps/ps-final-fantasy-origins-title.webp"
     ],
-    "cover": "images/ps/ps-final-fantasy-origins-box.jpg"
+    "cover": "images/ps/ps-final-fantasy-origins-box.webp"
   },
   {
     "id": "ps-popolocrois-ii",
@@ -1891,15 +1891,15 @@
     "styleMatch": 3,
     "styleNote": "斜俯视角像素城镇，与参考图非常接近",
     "screenshots": [
-      "images/ps/ps-popolocrois-ii-s1.png",
-      "images/ps/ps-popolocrois-ii-x1.png",
-      "images/ps/ps-popolocrois-ii-x2.png",
-      "images/ps/ps-popolocrois-ii-m1.png",
-      "images/ps/ps-popolocrois-ii-m2.png",
-      "images/ps/ps-popolocrois-ii-m3.png",
-      "images/ps/ps-popolocrois-ii-title.png"
+      "images/ps/ps-popolocrois-ii-s1.webp",
+      "images/ps/ps-popolocrois-ii-x1.webp",
+      "images/ps/ps-popolocrois-ii-x2.webp",
+      "images/ps/ps-popolocrois-ii-m1.webp",
+      "images/ps/ps-popolocrois-ii-m2.webp",
+      "images/ps/ps-popolocrois-ii-m3.webp",
+      "images/ps/ps-popolocrois-ii-title.webp"
     ],
-    "cover": "images/ps/ps-popolocrois-ii-box.jpg"
+    "cover": "images/ps/ps-popolocrois-ii-box.webp"
   },
   {
     "id": "ps-tales-of-destiny",
@@ -1944,15 +1944,15 @@
     "editorScore": 8.5,
     "is2D": true,
     "screenshots": [
-      "images/ps/ps-tales-of-destiny-s1.png",
-      "images/ps/ps-tales-of-destiny-s2.png",
-      "images/ps/ps-tales-of-destiny-x1.jpg",
-      "images/ps/ps-tales-of-destiny-m1.jpg",
-      "images/ps/ps-tales-of-destiny-m2.jpg",
-      "images/ps/ps-tales-of-destiny-m3.jpg",
-      "images/ps/ps-tales-of-destiny-title.png"
+      "images/ps/ps-tales-of-destiny-s1.webp",
+      "images/ps/ps-tales-of-destiny-s2.webp",
+      "images/ps/ps-tales-of-destiny-x1.webp",
+      "images/ps/ps-tales-of-destiny-m1.webp",
+      "images/ps/ps-tales-of-destiny-m2.webp",
+      "images/ps/ps-tales-of-destiny-m3.webp",
+      "images/ps/ps-tales-of-destiny-title.webp"
     ],
-    "cover": "images/ps/ps-tales-of-destiny-box.jpg",
+    "cover": "images/ps/ps-tales-of-destiny-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素城镇，战斗为横版"
   },
@@ -1999,15 +1999,15 @@
     "editorScore": 8.5,
     "is2D": true,
     "screenshots": [
-      "images/ps/ps-saga-frontier-s1.png",
-      "images/ps/ps-saga-frontier-s2.png",
-      "images/ps/ps-saga-frontier-m1.jpg",
-      "images/ps/ps-saga-frontier-m2.jpg",
-      "images/ps/ps-saga-frontier-m3.jpg",
-      "images/ps/ps-saga-frontier-m4.jpg",
-      "images/ps/ps-saga-frontier-title.png"
+      "images/ps/ps-saga-frontier-s1.webp",
+      "images/ps/ps-saga-frontier-s2.webp",
+      "images/ps/ps-saga-frontier-m1.webp",
+      "images/ps/ps-saga-frontier-m2.webp",
+      "images/ps/ps-saga-frontier-m3.webp",
+      "images/ps/ps-saga-frontier-m4.webp",
+      "images/ps/ps-saga-frontier-title.webp"
     ],
-    "cover": "images/ps/ps-saga-frontier-box.jpg",
+    "cover": "images/ps/ps-saga-frontier-box.webp",
     "styleMatch": 3,
     "styleNote": "像素角色+预渲染城镇，自由行走"
   },
@@ -2049,15 +2049,15 @@
     "editorScore": 8.5,
     "is2D": true,
     "screenshots": [
-      "images/ps/ps-vandal-hearts-s1.png",
-      "images/ps/ps-vandal-hearts-s2.png",
-      "images/ps/ps-vandal-hearts-m1.jpg",
-      "images/ps/ps-vandal-hearts-y1.jpg",
-      "images/ps/ps-vandal-hearts-y2.jpg",
-      "images/ps/ps-vandal-hearts-y3.jpg",
-      "images/ps/ps-vandal-hearts-title.png"
+      "images/ps/ps-vandal-hearts-s1.webp",
+      "images/ps/ps-vandal-hearts-s2.webp",
+      "images/ps/ps-vandal-hearts-m1.webp",
+      "images/ps/ps-vandal-hearts-y1.webp",
+      "images/ps/ps-vandal-hearts-y2.webp",
+      "images/ps/ps-vandal-hearts-y3.webp",
+      "images/ps/ps-vandal-hearts-title.webp"
     ],
-    "cover": "images/ps/ps-vandal-hearts-box.jpg",
+    "cover": "images/ps/ps-vandal-hearts-box.webp",
     "styleMatch": 2,
     "styleNote": "像素战棋，无自由探索城镇"
   },
@@ -2099,15 +2099,15 @@
     "editorScore": 8.5,
     "is2D": true,
     "screenshots": [
-      "images/ps/ps-darkstalkers-3-s1.png",
-      "images/ps/ps-darkstalkers-3-s2.png",
-      "images/ps/ps-darkstalkers-3-m1.jpg",
-      "images/ps/ps-darkstalkers-3-m2.jpg",
-      "images/ps/ps-darkstalkers-3-m3.jpg",
-      "images/ps/ps-darkstalkers-3-m4.jpg",
-      "images/ps/ps-darkstalkers-3-title.png"
+      "images/ps/ps-darkstalkers-3-s1.webp",
+      "images/ps/ps-darkstalkers-3-s2.webp",
+      "images/ps/ps-darkstalkers-3-m1.webp",
+      "images/ps/ps-darkstalkers-3-m2.webp",
+      "images/ps/ps-darkstalkers-3-m3.webp",
+      "images/ps/ps-darkstalkers-3-m4.webp",
+      "images/ps/ps-darkstalkers-3-title.webp"
     ],
-    "cover": "images/ps/ps-darkstalkers-3-box.jpg",
+    "cover": "images/ps/ps-darkstalkers-3-box.webp",
     "styleMatch": 0,
     "styleNote": "格斗游戏，类型不同"
   },
@@ -2156,14 +2156,14 @@
     "styleMatch": 3,
     "styleNote": "俯视角像素村庄+随机迷宫",
     "screenshots": [
-      "images/ps/ps-torneko-the-last-hope-s1.png",
-      "images/ps/ps-torneko-the-last-hope-s2.png",
-      "images/ps/ps-torneko-the-last-hope-m1.png",
-      "images/ps/ps-torneko-the-last-hope-m2.jpg",
-      "images/ps/ps-torneko-the-last-hope-m3.jpg",
-      "images/ps/ps-torneko-the-last-hope-title.png"
+      "images/ps/ps-torneko-the-last-hope-s1.webp",
+      "images/ps/ps-torneko-the-last-hope-s2.webp",
+      "images/ps/ps-torneko-the-last-hope-m1.webp",
+      "images/ps/ps-torneko-the-last-hope-m2.webp",
+      "images/ps/ps-torneko-the-last-hope-m3.webp",
+      "images/ps/ps-torneko-the-last-hope-title.webp"
     ],
-    "cover": "images/ps/ps-torneko-the-last-hope-box.jpg"
+    "cover": "images/ps/ps-torneko-the-last-hope-box.webp"
   },
   {
     "id": "ps-mega-man-x4",
@@ -2208,15 +2208,15 @@
     "editorScore": 8.4,
     "is2D": true,
     "screenshots": [
-      "images/ps/ps-mega-man-x4-s1.png",
-      "images/ps/ps-mega-man-x4-x1.jpg",
-      "images/ps/ps-mega-man-x4-m1.jpg",
-      "images/ps/ps-mega-man-x4-m2.jpg",
-      "images/ps/ps-mega-man-x4-m3.png",
-      "images/ps/ps-mega-man-x4-m4.jpg",
-      "images/ps/ps-mega-man-x4-title.png"
+      "images/ps/ps-mega-man-x4-s1.webp",
+      "images/ps/ps-mega-man-x4-x1.webp",
+      "images/ps/ps-mega-man-x4-m1.webp",
+      "images/ps/ps-mega-man-x4-m2.webp",
+      "images/ps/ps-mega-man-x4-m3.webp",
+      "images/ps/ps-mega-man-x4-m4.webp",
+      "images/ps/ps-mega-man-x4-title.webp"
     ],
-    "cover": "images/ps/ps-mega-man-x4-box.jpg",
+    "cover": "images/ps/ps-mega-man-x4-box.webp",
     "styleMatch": 1,
     "styleNote": "横版像素动作，无城镇"
   },
@@ -2258,15 +2258,15 @@
     "editorScore": 8.4,
     "is2D": true,
     "screenshots": [
-      "images/ps/ps-rayman-s1.png",
-      "images/ps/ps-rayman-s2.png",
-      "images/ps/ps-rayman-x1.png",
-      "images/ps/ps-rayman-m1.jpg",
-      "images/ps/ps-rayman-m2.jpg",
-      "images/ps/ps-rayman-m3.jpg",
-      "images/ps/ps-rayman-title.png"
+      "images/ps/ps-rayman-s1.webp",
+      "images/ps/ps-rayman-s2.webp",
+      "images/ps/ps-rayman-x1.webp",
+      "images/ps/ps-rayman-m1.webp",
+      "images/ps/ps-rayman-m2.webp",
+      "images/ps/ps-rayman-m3.webp",
+      "images/ps/ps-rayman-title.webp"
     ],
-    "cover": "images/ps/ps-rayman-box.jpg",
+    "cover": "images/ps/ps-rayman-box.webp",
     "styleMatch": 1,
     "styleNote": "手绘横版平台，无城镇"
   },
@@ -2308,13 +2308,13 @@
     "editorScore": 8.4,
     "is2D": true,
     "screenshots": [
-      "images/ps/ps-mr-driller-s1.png",
-      "images/ps/ps-mr-driller-x1.png",
-      "images/ps/ps-mr-driller-m1.png",
-      "images/ps/ps-mr-driller-m2.jpg",
-      "images/ps/ps-mr-driller-title.png"
+      "images/ps/ps-mr-driller-s1.webp",
+      "images/ps/ps-mr-driller-x1.webp",
+      "images/ps/ps-mr-driller-m1.webp",
+      "images/ps/ps-mr-driller-m2.webp",
+      "images/ps/ps-mr-driller-title.webp"
     ],
-    "cover": "images/ps/ps-mr-driller-box.jpg",
+    "cover": "images/ps/ps-mr-driller-box.webp",
     "styleMatch": 0,
     "styleNote": "方块解谜，类型不同"
   },
@@ -2361,15 +2361,15 @@
     "editorScore": 8.4,
     "is2D": true,
     "screenshots": [
-      "images/ps/ps-wild-arms-2-s1.png",
-      "images/ps/ps-wild-arms-2-s2.png",
-      "images/ps/ps-wild-arms-2-s3.png",
-      "images/ps/ps-wild-arms-2-m1.png",
-      "images/ps/ps-wild-arms-2-m2.png",
-      "images/ps/ps-wild-arms-2-m3.jpg",
-      "images/ps/ps-wild-arms-2-title.png"
+      "images/ps/ps-wild-arms-2-s1.webp",
+      "images/ps/ps-wild-arms-2-s2.webp",
+      "images/ps/ps-wild-arms-2-s3.webp",
+      "images/ps/ps-wild-arms-2-m1.webp",
+      "images/ps/ps-wild-arms-2-m2.webp",
+      "images/ps/ps-wild-arms-2-m3.webp",
+      "images/ps/ps-wild-arms-2-title.webp"
     ],
-    "cover": "images/ps/ps-wild-arms-2-box.jpg",
+    "cover": "images/ps/ps-wild-arms-2-box.webp",
     "styleMatch": 3,
     "styleNote": "像素角色俯视角探索，战斗为3D"
   },
@@ -2418,15 +2418,15 @@
     "styleMatch": 3,
     "styleNote": "俯视角小镇漫步+迷宫，像素角色",
     "screenshots": [
-      "images/ps/ps-azure-dreams-s1.png",
-      "images/ps/ps-azure-dreams-s2.png",
-      "images/ps/ps-azure-dreams-m1.jpg",
-      "images/ps/ps-azure-dreams-m2.jpg",
-      "images/ps/ps-azure-dreams-m3.jpg",
-      "images/ps/ps-azure-dreams-m4.png",
-      "images/ps/ps-azure-dreams-title.png"
+      "images/ps/ps-azure-dreams-s1.webp",
+      "images/ps/ps-azure-dreams-s2.webp",
+      "images/ps/ps-azure-dreams-m1.webp",
+      "images/ps/ps-azure-dreams-m2.webp",
+      "images/ps/ps-azure-dreams-m3.webp",
+      "images/ps/ps-azure-dreams-m4.webp",
+      "images/ps/ps-azure-dreams-title.webp"
     ],
-    "cover": "images/ps/ps-azure-dreams-box.jpg"
+    "cover": "images/ps/ps-azure-dreams-box.webp"
   },
   {
     "id": "ps-abes-oddysee",
@@ -2471,15 +2471,15 @@
     "editorScore": 8.3,
     "is2D": true,
     "screenshots": [
-      "images/ps/ps-abes-oddysee-s1.png",
-      "images/ps/ps-abes-oddysee-s2.png",
-      "images/ps/ps-abes-oddysee-s3.png",
-      "images/ps/ps-abes-oddysee-x1.jpg",
-      "images/ps/ps-abes-oddysee-x2.jpg",
-      "images/ps/ps-abes-oddysee-m1.jpg",
-      "images/ps/ps-abes-oddysee-title.png"
+      "images/ps/ps-abes-oddysee-s1.webp",
+      "images/ps/ps-abes-oddysee-s2.webp",
+      "images/ps/ps-abes-oddysee-s3.webp",
+      "images/ps/ps-abes-oddysee-x1.webp",
+      "images/ps/ps-abes-oddysee-x2.webp",
+      "images/ps/ps-abes-oddysee-m1.webp",
+      "images/ps/ps-abes-oddysee-title.webp"
     ],
-    "cover": "images/ps/ps-abes-oddysee-box.jpg",
+    "cover": "images/ps/ps-abes-oddysee-box.webp",
     "styleMatch": 1,
     "styleNote": "预渲染横版解谜平台"
   },
@@ -2526,15 +2526,15 @@
     "editorScore": 8.3,
     "is2D": true,
     "screenshots": [
-      "images/ps/ps-mega-man-x5-s1.png",
-      "images/ps/ps-mega-man-x5-s2.png",
-      "images/ps/ps-mega-man-x5-m1.png",
-      "images/ps/ps-mega-man-x5-m2.jpg",
-      "images/ps/ps-mega-man-x5-m3.jpg",
-      "images/ps/ps-mega-man-x5-m4.jpg",
-      "images/ps/ps-mega-man-x5-title.png"
+      "images/ps/ps-mega-man-x5-s1.webp",
+      "images/ps/ps-mega-man-x5-s2.webp",
+      "images/ps/ps-mega-man-x5-m1.webp",
+      "images/ps/ps-mega-man-x5-m2.webp",
+      "images/ps/ps-mega-man-x5-m3.webp",
+      "images/ps/ps-mega-man-x5-m4.webp",
+      "images/ps/ps-mega-man-x5-title.webp"
     ],
-    "cover": "images/ps/ps-mega-man-x5-box.jpg",
+    "cover": "images/ps/ps-mega-man-x5-box.webp",
     "styleMatch": 1,
     "styleNote": "横版像素动作，无城镇"
   },
@@ -2581,15 +2581,15 @@
     "editorScore": 8.0,
     "is2D": true,
     "screenshots": [
-      "images/ps/ps-mega-man-8-s1.png",
-      "images/ps/ps-mega-man-8-s2.png",
-      "images/ps/ps-mega-man-8-m1.png",
-      "images/ps/ps-mega-man-8-m2.jpg",
-      "images/ps/ps-mega-man-8-m3.png",
-      "images/ps/ps-mega-man-8-m4.jpg",
-      "images/ps/ps-mega-man-8-title.png"
+      "images/ps/ps-mega-man-8-s1.webp",
+      "images/ps/ps-mega-man-8-s2.webp",
+      "images/ps/ps-mega-man-8-m1.webp",
+      "images/ps/ps-mega-man-8-m2.webp",
+      "images/ps/ps-mega-man-8-m3.webp",
+      "images/ps/ps-mega-man-8-m4.webp",
+      "images/ps/ps-mega-man-8-title.webp"
     ],
-    "cover": "images/ps/ps-mega-man-8-box.jpg",
+    "cover": "images/ps/ps-mega-man-8-box.webp",
     "styleMatch": 1,
     "styleNote": "横版像素动作，无城镇"
   },
@@ -2638,15 +2638,15 @@
     "styleMatch": 2,
     "styleNote": "像素角色但城镇为3D多边形",
     "screenshots": [
-      "images/ps/ps-thousand-arms-s1.png",
-      "images/ps/ps-thousand-arms-s2.png",
-      "images/ps/ps-thousand-arms-s3.png",
-      "images/ps/ps-thousand-arms-m1.png",
-      "images/ps/ps-thousand-arms-m2.png",
-      "images/ps/ps-thousand-arms-m3.jpg",
-      "images/ps/ps-thousand-arms-title.png"
+      "images/ps/ps-thousand-arms-s1.webp",
+      "images/ps/ps-thousand-arms-s2.webp",
+      "images/ps/ps-thousand-arms-s3.webp",
+      "images/ps/ps-thousand-arms-m1.webp",
+      "images/ps/ps-thousand-arms-m2.webp",
+      "images/ps/ps-thousand-arms-m3.webp",
+      "images/ps/ps-thousand-arms-title.webp"
     ],
-    "cover": "images/ps/ps-thousand-arms-box.jpg"
+    "cover": "images/ps/ps-thousand-arms-box.webp"
   },
   {
     "id": "ps-rhapsody",
@@ -2688,15 +2688,15 @@
     "styleMatch": 2,
     "styleNote": "像素城镇可漫步，战斗为战棋",
     "screenshots": [
-      "images/ps/ps-rhapsody-s1.png",
-      "images/ps/ps-rhapsody-s2.png",
-      "images/ps/ps-rhapsody-m1.png",
-      "images/ps/ps-rhapsody-m2.jpg",
-      "images/ps/ps-rhapsody-m3.jpg",
-      "images/ps/ps-rhapsody-m4.jpg",
-      "images/ps/ps-rhapsody-title.png"
+      "images/ps/ps-rhapsody-s1.webp",
+      "images/ps/ps-rhapsody-s2.webp",
+      "images/ps/ps-rhapsody-m1.webp",
+      "images/ps/ps-rhapsody-m2.webp",
+      "images/ps/ps-rhapsody-m3.webp",
+      "images/ps/ps-rhapsody-m4.webp",
+      "images/ps/ps-rhapsody-title.webp"
     ],
-    "cover": "images/ps/ps-rhapsody-box.jpg"
+    "cover": "images/ps/ps-rhapsody-box.webp"
   },
   {
     "id": "ps-brave-prove",
@@ -2733,15 +2733,15 @@
     "styleMatch": 3,
     "styleNote": "纯2D俯视角像素ARPG，城镇自由探索",
     "screenshots": [
-      "images/ps/ps-brave-prove-s1.png",
-      "images/ps/ps-brave-prove-x1.jpg",
-      "images/ps/ps-brave-prove-x2.jpg",
-      "images/ps/ps-brave-prove-m1.png",
-      "images/ps/ps-brave-prove-m2.jpg",
-      "images/ps/ps-brave-prove-m3.jpg",
-      "images/ps/ps-brave-prove-title.png"
+      "images/ps/ps-brave-prove-s1.webp",
+      "images/ps/ps-brave-prove-x1.webp",
+      "images/ps/ps-brave-prove-x2.webp",
+      "images/ps/ps-brave-prove-m1.webp",
+      "images/ps/ps-brave-prove-m2.webp",
+      "images/ps/ps-brave-prove-m3.webp",
+      "images/ps/ps-brave-prove-title.webp"
     ],
-    "cover": "images/ps/ps-brave-prove-box.jpg"
+    "cover": "images/ps/ps-brave-prove-box.webp"
   },
   {
     "id": "ps-beyond-the-beyond",
@@ -2788,13 +2788,13 @@
     "styleMatch": 3,
     "styleNote": "俯视角像素城镇原野，战斗为3D",
     "screenshots": [
-      "images/ps/ps-beyond-the-beyond-s1.png",
-      "images/ps/ps-beyond-the-beyond-s2.png",
-      "images/ps/ps-beyond-the-beyond-m1.png",
-      "images/ps/ps-beyond-the-beyond-m2.jpg",
-      "images/ps/ps-beyond-the-beyond-m3.jpg",
-      "images/ps/ps-beyond-the-beyond-title.png"
+      "images/ps/ps-beyond-the-beyond-s1.webp",
+      "images/ps/ps-beyond-the-beyond-s2.webp",
+      "images/ps/ps-beyond-the-beyond-m1.webp",
+      "images/ps/ps-beyond-the-beyond-m2.webp",
+      "images/ps/ps-beyond-the-beyond-m3.webp",
+      "images/ps/ps-beyond-the-beyond-title.webp"
     ],
-    "cover": "images/ps/ps-beyond-the-beyond-box.jpg"
+    "cover": "images/ps/ps-beyond-the-beyond-box.webp"
   }
 ]

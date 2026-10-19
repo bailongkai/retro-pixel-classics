@@ -2,7 +2,7 @@
   "use strict";
 
   // bump on every content update so browsers don't pair new pages with stale cached data
-  const VERSION = "7";
+  const VERSION = "8";
 
   const MAKERS = [
     { key: "Nintendo", zh: "任天堂", en: "NINTENDO" },
@@ -142,7 +142,7 @@
   // ---------- views ----------
   function viewHome() {
     const all = [...state.games].sort((a, b) => (b.editorScore || 0) - (a.editorScore || 0));
-    const withShot = all.filter(g => g.coverShot ?? /-s1\.png$/.test(shot(g))).slice(0, 24);
+    const withShot = all.filter(g => g.coverShot ?? /-s1\.(png|webp)$/.test(shot(g))).slice(0, 24);
     const coverGame = withShot[Math.floor(Math.random() * withShot.length)] || all[0];
     const styled = all.filter(g => g.styleMatch === 3);
     const styleCount = styled.length;

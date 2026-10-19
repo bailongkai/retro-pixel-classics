@@ -43,15 +43,15 @@
     "editorScore": 9.7,
     "is2D": true,
     "screenshots": [
-      "images/gba/gba-mother-3-s1.png",
-      "images/gba/gba-mother-3-s2.png",
-      "images/gba/gba-mother-3-s3.png",
-      "images/gba/gba-mother-3-1.png",
-      "images/gba/gba-mother-3-2.png",
-      "images/gba/gba-mother-3-m1.jpg",
-      "images/gba/gba-mother-3-title.png"
+      "images/gba/gba-mother-3-s1.webp",
+      "images/gba/gba-mother-3-s2.webp",
+      "images/gba/gba-mother-3-s3.webp",
+      "images/gba/gba-mother-3-1.webp",
+      "images/gba/gba-mother-3-2.webp",
+      "images/gba/gba-mother-3-m1.webp",
+      "images/gba/gba-mother-3-title.webp"
     ],
-    "cover": "images/gba/gba-mother-3-box.jpg",
+    "cover": "images/gba/gba-mother-3-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素RPG，可自由逛村庄与商店"
   },
@@ -99,15 +99,15 @@
     "editorScore": 9.6,
     "is2D": true,
     "screenshots": [
-      "images/gba/gba-golden-sun-s1.png",
-      "images/gba/gba-golden-sun-s2.png",
-      "images/gba/gba-golden-sun-1.png",
-      "images/gba/gba-golden-sun-2.png",
-      "images/gba/gba-golden-sun-m1.png",
-      "images/gba/gba-golden-sun-m2.png",
-      "images/gba/gba-golden-sun-title.png"
+      "images/gba/gba-golden-sun-s1.webp",
+      "images/gba/gba-golden-sun-s2.webp",
+      "images/gba/gba-golden-sun-1.webp",
+      "images/gba/gba-golden-sun-2.webp",
+      "images/gba/gba-golden-sun-m1.webp",
+      "images/gba/gba-golden-sun-m2.webp",
+      "images/gba/gba-golden-sun-title.webp"
     ],
-    "cover": "images/gba/gba-golden-sun-box.jpg",
+    "cover": "images/gba/gba-golden-sun-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素JRPG，城镇探索与迷宫解谜"
   },
@@ -155,15 +155,15 @@
     "editorScore": 9.6,
     "is2D": true,
     "screenshots": [
-      "images/gba/gba-castlevania-aria-of-sorrow-s1.png",
-      "images/gba/gba-castlevania-aria-of-sorrow-s2.png",
-      "images/gba/gba-castlevania-aria-of-sorrow-s3.png",
-      "images/gba/gba-castlevania-aria-of-sorrow-1.jpg",
-      "images/gba/gba-castlevania-aria-of-sorrow-m1.jpg",
-      "images/gba/gba-castlevania-aria-of-sorrow-m2.jpg",
-      "images/gba/gba-castlevania-aria-of-sorrow-title.png"
+      "images/gba/gba-castlevania-aria-of-sorrow-s1.webp",
+      "images/gba/gba-castlevania-aria-of-sorrow-s2.webp",
+      "images/gba/gba-castlevania-aria-of-sorrow-s3.webp",
+      "images/gba/gba-castlevania-aria-of-sorrow-1.webp",
+      "images/gba/gba-castlevania-aria-of-sorrow-m1.webp",
+      "images/gba/gba-castlevania-aria-of-sorrow-m2.webp",
+      "images/gba/gba-castlevania-aria-of-sorrow-title.webp"
     ],
-    "cover": "images/gba/gba-castlevania-aria-of-sorrow-box.jpg",
+    "cover": "images/gba/gba-castlevania-aria-of-sorrow-box.webp",
     "styleMatch": 2,
     "styleNote": "横版恶魔城，城内有商店"
   },
@@ -211,15 +211,15 @@
     "editorScore": 9.4,
     "is2D": true,
     "screenshots": [
-      "images/gba/gba-zelda-minish-cap-s1.png",
-      "images/gba/gba-zelda-minish-cap-1.png",
-      "images/gba/gba-zelda-minish-cap-m1.jpg",
-      "images/gba/gba-zelda-minish-cap-m2.jpg",
-      "images/gba/gba-zelda-minish-cap-m3.jpg",
-      "images/gba/gba-zelda-minish-cap-m4.jpg",
-      "images/gba/gba-zelda-minish-cap-title.png"
+      "images/gba/gba-zelda-minish-cap-s1.webp",
+      "images/gba/gba-zelda-minish-cap-1.webp",
+      "images/gba/gba-zelda-minish-cap-m1.webp",
+      "images/gba/gba-zelda-minish-cap-m2.webp",
+      "images/gba/gba-zelda-minish-cap-m3.webp",
+      "images/gba/gba-zelda-minish-cap-m4.webp",
+      "images/gba/gba-zelda-minish-cap-title.webp"
     ],
-    "cover": "images/gba/gba-zelda-minish-cap-box.jpg",
+    "cover": "images/gba/gba-zelda-minish-cap-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素ARPG，城下町自由探索"
   },
@@ -267,15 +267,15 @@
     "editorScore": 9.4,
     "is2D": true,
     "screenshots": [
-      "images/gba/gba-metroid-fusion-s1.png",
-      "images/gba/gba-metroid-fusion-1.jpg",
-      "images/gba/gba-metroid-fusion-2.png",
-      "images/gba/gba-metroid-fusion-m1.jpg",
-      "images/gba/gba-metroid-fusion-m2.jpg",
-      "images/gba/gba-metroid-fusion-m3.jpg",
-      "images/gba/gba-metroid-fusion-title.png"
+      "images/gba/gba-metroid-fusion-s1.webp",
+      "images/gba/gba-metroid-fusion-1.webp",
+      "images/gba/gba-metroid-fusion-2.webp",
+      "images/gba/gba-metroid-fusion-m1.webp",
+      "images/gba/gba-metroid-fusion-m2.webp",
+      "images/gba/gba-metroid-fusion-m3.webp",
+      "images/gba/gba-metroid-fusion-title.webp"
     ],
-    "cover": "images/gba/gba-metroid-fusion-box.jpg",
+    "cover": "images/gba/gba-metroid-fusion-box.webp",
     "styleMatch": 1,
     "styleNote": "横版探索动作，无城镇"
   },
@@ -323,14 +323,14 @@
     "editorScore": 9.4,
     "is2D": true,
     "screenshots": [
-      "images/gba/gba-final-fantasy-vi-advance-s1.png",
+      "images/gba/gba-final-fantasy-vi-advance-s1.webp",
       "images/gba/gba-final-fantasy-vi-advance-x1.jpg",
       "images/gba/gba-final-fantasy-vi-advance-x2.jpg",
       "images/gba/gba-final-fantasy-vi-advance-m1.jpg",
       "images/gba/gba-final-fantasy-vi-advance-m2.jpg",
-      "images/gba/gba-final-fantasy-vi-advance-title.png"
+      "images/gba/gba-final-fantasy-vi-advance-title.webp"
     ],
-    "cover": "images/gba/gba-final-fantasy-vi-advance-box.jpg",
+    "cover": "images/gba/gba-final-fantasy-vi-advance-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素JRPG，城镇商店齐全"
   },
@@ -378,13 +378,13 @@
     "editorScore": 9.4,
     "is2D": true,
     "screenshots": [
-      "images/gba/gba-zelda-link-to-the-past-four-swords-s1.png",
-      "images/gba/gba-zelda-link-to-the-past-four-swords-x2.png",
-      "images/gba/gba-zelda-link-to-the-past-four-swords-m1.png",
-      "images/gba/gba-zelda-link-to-the-past-four-swords-m2.png",
-      "images/gba/gba-zelda-link-to-the-past-four-swords-title.png"
+      "images/gba/gba-zelda-link-to-the-past-four-swords-s1.webp",
+      "images/gba/gba-zelda-link-to-the-past-four-swords-x2.webp",
+      "images/gba/gba-zelda-link-to-the-past-four-swords-m1.webp",
+      "images/gba/gba-zelda-link-to-the-past-four-swords-m2.webp",
+      "images/gba/gba-zelda-link-to-the-past-four-swords-title.webp"
     ],
-    "cover": "images/gba/gba-zelda-link-to-the-past-four-swords-box.jpg",
+    "cover": "images/gba/gba-zelda-link-to-the-past-four-swords-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素ARPG，村庄、原野与迷宫"
   },
@@ -432,15 +432,15 @@
     "editorScore": 9.3,
     "is2D": true,
     "screenshots": [
-      "images/gba/gba-golden-sun-the-lost-age-s1.png",
-      "images/gba/gba-golden-sun-the-lost-age-s2.png",
-      "images/gba/gba-golden-sun-the-lost-age-1.png",
-      "images/gba/gba-golden-sun-the-lost-age-2.png",
-      "images/gba/gba-golden-sun-the-lost-age-m1.png",
-      "images/gba/gba-golden-sun-the-lost-age-m2.png",
-      "images/gba/gba-golden-sun-the-lost-age-title.png"
+      "images/gba/gba-golden-sun-the-lost-age-s1.webp",
+      "images/gba/gba-golden-sun-the-lost-age-s2.webp",
+      "images/gba/gba-golden-sun-the-lost-age-1.webp",
+      "images/gba/gba-golden-sun-the-lost-age-2.webp",
+      "images/gba/gba-golden-sun-the-lost-age-m1.webp",
+      "images/gba/gba-golden-sun-the-lost-age-m2.webp",
+      "images/gba/gba-golden-sun-the-lost-age-title.webp"
     ],
-    "cover": "images/gba/gba-golden-sun-the-lost-age-box.jpg",
+    "cover": "images/gba/gba-golden-sun-the-lost-age-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素JRPG，城镇、大地图与航海"
   },
@@ -488,15 +488,15 @@
     "editorScore": 9.3,
     "is2D": true,
     "screenshots": [
-      "images/gba/gba-fire-emblem-s1.png",
-      "images/gba/gba-fire-emblem-s2.png",
-      "images/gba/gba-fire-emblem-s3.png",
-      "images/gba/gba-fire-emblem-1.png",
-      "images/gba/gba-fire-emblem-m1.png",
-      "images/gba/gba-fire-emblem-m2.png",
-      "images/gba/gba-fire-emblem-title.png"
+      "images/gba/gba-fire-emblem-s1.webp",
+      "images/gba/gba-fire-emblem-s2.webp",
+      "images/gba/gba-fire-emblem-s3.webp",
+      "images/gba/gba-fire-emblem-1.webp",
+      "images/gba/gba-fire-emblem-m1.webp",
+      "images/gba/gba-fire-emblem-m2.webp",
+      "images/gba/gba-fire-emblem-title.webp"
     ],
-    "cover": "images/gba/gba-fire-emblem-box.jpg",
+    "cover": "images/gba/gba-fire-emblem-box.webp",
     "styleMatch": 2,
     "styleNote": "像素战棋，无可自由行走的城镇"
   },
@@ -544,15 +544,15 @@
     "editorScore": 9.3,
     "is2D": true,
     "screenshots": [
-      "images/gba/gba-mario-and-luigi-superstar-saga-s1.png",
-      "images/gba/gba-mario-and-luigi-superstar-saga-s2.png",
-      "images/gba/gba-mario-and-luigi-superstar-saga-s3.png",
-      "images/gba/gba-mario-and-luigi-superstar-saga-1.png",
-      "images/gba/gba-mario-and-luigi-superstar-saga-m1.jpg",
-      "images/gba/gba-mario-and-luigi-superstar-saga-m2.jpg",
-      "images/gba/gba-mario-and-luigi-superstar-saga-title.png"
+      "images/gba/gba-mario-and-luigi-superstar-saga-s1.webp",
+      "images/gba/gba-mario-and-luigi-superstar-saga-s2.webp",
+      "images/gba/gba-mario-and-luigi-superstar-saga-s3.webp",
+      "images/gba/gba-mario-and-luigi-superstar-saga-1.webp",
+      "images/gba/gba-mario-and-luigi-superstar-saga-m1.webp",
+      "images/gba/gba-mario-and-luigi-superstar-saga-m2.webp",
+      "images/gba/gba-mario-and-luigi-superstar-saga-title.webp"
     ],
-    "cover": "images/gba/gba-mario-and-luigi-superstar-saga-box.jpg",
+    "cover": "images/gba/gba-mario-and-luigi-superstar-saga-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素RPG，可逛城镇与商店"
   },
@@ -602,13 +602,13 @@
     "screenshots": [
       "images/gba/gba-advance-wars-s1.png",
       "images/gba/gba-advance-wars-s2.png",
-      "images/gba/gba-advance-wars-s3.png",
-      "images/gba/gba-advance-wars-1.png",
-      "images/gba/gba-advance-wars-m1.png",
-      "images/gba/gba-advance-wars-m2.png",
-      "images/gba/gba-advance-wars-title.png"
+      "images/gba/gba-advance-wars-s3.webp",
+      "images/gba/gba-advance-wars-1.webp",
+      "images/gba/gba-advance-wars-m1.webp",
+      "images/gba/gba-advance-wars-m2.webp",
+      "images/gba/gba-advance-wars-title.webp"
     ],
-    "cover": "images/gba/gba-advance-wars-box.jpg",
+    "cover": "images/gba/gba-advance-wars-box.webp",
     "styleMatch": 1,
     "styleNote": "像素兵棋策略，无城镇与角色扮演"
   },
@@ -656,15 +656,15 @@
     "editorScore": 9.2,
     "is2D": true,
     "screenshots": [
-      "images/gba/gba-super-mario-advance-4-s1.png",
-      "images/gba/gba-super-mario-advance-4-x1.png",
-      "images/gba/gba-super-mario-advance-4-m1.jpg",
-      "images/gba/gba-super-mario-advance-4-m2.png",
-      "images/gba/gba-super-mario-advance-4-m3.png",
-      "images/gba/gba-super-mario-advance-4-m4.png",
-      "images/gba/gba-super-mario-advance-4-title.png"
+      "images/gba/gba-super-mario-advance-4-s1.webp",
+      "images/gba/gba-super-mario-advance-4-x1.webp",
+      "images/gba/gba-super-mario-advance-4-m1.webp",
+      "images/gba/gba-super-mario-advance-4-m2.webp",
+      "images/gba/gba-super-mario-advance-4-m3.webp",
+      "images/gba/gba-super-mario-advance-4-m4.webp",
+      "images/gba/gba-super-mario-advance-4-title.webp"
     ],
-    "cover": "images/gba/gba-super-mario-advance-4-box.jpg",
+    "cover": "images/gba/gba-super-mario-advance-4-box.webp",
     "styleMatch": 1,
     "styleNote": "横版像素平台跳跃"
   },
@@ -712,15 +712,15 @@
     "editorScore": 9.2,
     "is2D": true,
     "screenshots": [
-      "images/gba/gba-metroid-zero-mission-s1.png",
-      "images/gba/gba-metroid-zero-mission-x1.png",
-      "images/gba/gba-metroid-zero-mission-m1.jpg",
-      "images/gba/gba-metroid-zero-mission-m2.jpg",
-      "images/gba/gba-metroid-zero-mission-m3.jpg",
-      "images/gba/gba-metroid-zero-mission-m4.jpg",
+      "images/gba/gba-metroid-zero-mission-s1.webp",
+      "images/gba/gba-metroid-zero-mission-x1.webp",
+      "images/gba/gba-metroid-zero-mission-m1.webp",
+      "images/gba/gba-metroid-zero-mission-m2.webp",
+      "images/gba/gba-metroid-zero-mission-m3.webp",
+      "images/gba/gba-metroid-zero-mission-m4.webp",
       "images/gba/gba-metroid-zero-mission-title.png"
     ],
-    "cover": "images/gba/gba-metroid-zero-mission-box.jpg",
+    "cover": "images/gba/gba-metroid-zero-mission-box.webp",
     "styleMatch": 1,
     "styleNote": "横版探索动作，无城镇"
   },
@@ -759,12 +759,12 @@
     "is2D": true,
     "screenshots": [
       "images/gba/gba-mother-1-2-s1.png",
-      "images/gba/gba-mother-1-2-x1.jpg",
-      "images/gba/gba-mother-1-2-x2.jpg",
-      "images/gba/gba-mother-1-2-m1.png",
-      "images/gba/gba-mother-1-2-title.png"
+      "images/gba/gba-mother-1-2-x1.webp",
+      "images/gba/gba-mother-1-2-x2.webp",
+      "images/gba/gba-mother-1-2-m1.webp",
+      "images/gba/gba-mother-1-2-title.webp"
     ],
-    "cover": "images/gba/gba-mother-1-2-box.jpg",
+    "cover": "images/gba/gba-mother-1-2-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素RPG，小镇商店医院俱全"
   },
@@ -812,15 +812,15 @@
     "editorScore": 9.1,
     "is2D": true,
     "screenshots": [
-      "images/gba/gba-final-fantasy-tactics-advance-s1.png",
-      "images/gba/gba-final-fantasy-tactics-advance-s2.png",
-      "images/gba/gba-final-fantasy-tactics-advance-s3.png",
-      "images/gba/gba-final-fantasy-tactics-advance-1.png",
-      "images/gba/gba-final-fantasy-tactics-advance-m1.png",
-      "images/gba/gba-final-fantasy-tactics-advance-m2.jpg",
-      "images/gba/gba-final-fantasy-tactics-advance-title.png"
+      "images/gba/gba-final-fantasy-tactics-advance-s1.webp",
+      "images/gba/gba-final-fantasy-tactics-advance-s2.webp",
+      "images/gba/gba-final-fantasy-tactics-advance-s3.webp",
+      "images/gba/gba-final-fantasy-tactics-advance-1.webp",
+      "images/gba/gba-final-fantasy-tactics-advance-m1.webp",
+      "images/gba/gba-final-fantasy-tactics-advance-m2.webp",
+      "images/gba/gba-final-fantasy-tactics-advance-title.webp"
     ],
-    "cover": "images/gba/gba-final-fantasy-tactics-advance-box.jpg",
+    "cover": "images/gba/gba-final-fantasy-tactics-advance-box.webp",
     "styleMatch": 2,
     "styleNote": "像素战棋RPG，城镇为菜单形式"
   },
@@ -868,15 +868,15 @@
     "editorScore": 9.0,
     "is2D": true,
     "screenshots": [
-      "images/gba/gba-pokemon-ruby-sapphire-s1.png",
-      "images/gba/gba-pokemon-ruby-sapphire-s2.png",
-      "images/gba/gba-pokemon-ruby-sapphire-s3.png",
-      "images/gba/gba-pokemon-ruby-sapphire-m1.png",
-      "images/gba/gba-pokemon-ruby-sapphire-m2.jpg",
-      "images/gba/gba-pokemon-ruby-sapphire-m3.png",
-      "images/gba/gba-pokemon-ruby-sapphire-title.png"
+      "images/gba/gba-pokemon-ruby-sapphire-s1.webp",
+      "images/gba/gba-pokemon-ruby-sapphire-s2.webp",
+      "images/gba/gba-pokemon-ruby-sapphire-s3.webp",
+      "images/gba/gba-pokemon-ruby-sapphire-m1.webp",
+      "images/gba/gba-pokemon-ruby-sapphire-m2.webp",
+      "images/gba/gba-pokemon-ruby-sapphire-m3.webp",
+      "images/gba/gba-pokemon-ruby-sapphire-title.webp"
     ],
-    "cover": "images/gba/gba-pokemon-ruby-sapphire-box.jpg",
+    "cover": "images/gba/gba-pokemon-ruby-sapphire-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素RPG，小镇、商店与原野"
   },
@@ -924,15 +924,15 @@
     "editorScore": 9.0,
     "is2D": true,
     "screenshots": [
-      "images/gba/gba-final-fantasy-v-advance-s1.png",
-      "images/gba/gba-final-fantasy-v-advance-x1.jpg",
-      "images/gba/gba-final-fantasy-v-advance-x2.jpg",
-      "images/gba/gba-final-fantasy-v-advance-m1.png",
-      "images/gba/gba-final-fantasy-v-advance-m2.png",
-      "images/gba/gba-final-fantasy-v-advance-m3.png",
-      "images/gba/gba-final-fantasy-v-advance-title.png"
+      "images/gba/gba-final-fantasy-v-advance-s1.webp",
+      "images/gba/gba-final-fantasy-v-advance-x1.webp",
+      "images/gba/gba-final-fantasy-v-advance-x2.webp",
+      "images/gba/gba-final-fantasy-v-advance-m1.webp",
+      "images/gba/gba-final-fantasy-v-advance-m2.webp",
+      "images/gba/gba-final-fantasy-v-advance-m3.webp",
+      "images/gba/gba-final-fantasy-v-advance-title.webp"
     ],
-    "cover": "images/gba/gba-final-fantasy-v-advance-box.jpg",
+    "cover": "images/gba/gba-final-fantasy-v-advance-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素JRPG，城镇与大地图"
   },
@@ -980,15 +980,15 @@
     "editorScore": 9.0,
     "is2D": true,
     "screenshots": [
-      "images/gba/gba-fire-emblem-sacred-stones-s1.png",
-      "images/gba/gba-fire-emblem-sacred-stones-s2.png",
-      "images/gba/gba-fire-emblem-sacred-stones-s3.png",
-      "images/gba/gba-fire-emblem-sacred-stones-m1.png",
-      "images/gba/gba-fire-emblem-sacred-stones-m2.png",
-      "images/gba/gba-fire-emblem-sacred-stones-m3.jpg",
+      "images/gba/gba-fire-emblem-sacred-stones-s1.webp",
+      "images/gba/gba-fire-emblem-sacred-stones-s2.webp",
+      "images/gba/gba-fire-emblem-sacred-stones-s3.webp",
+      "images/gba/gba-fire-emblem-sacred-stones-m1.webp",
+      "images/gba/gba-fire-emblem-sacred-stones-m2.webp",
+      "images/gba/gba-fire-emblem-sacred-stones-m3.webp",
       "images/gba/gba-fire-emblem-sacred-stones-title.png"
     ],
-    "cover": "images/gba/gba-fire-emblem-sacred-stones-box.jpg",
+    "cover": "images/gba/gba-fire-emblem-sacred-stones-box.webp",
     "styleMatch": 2,
     "styleNote": "像素战棋，大地图有商店据点"
   },
@@ -1036,15 +1036,15 @@
     "editorScore": 8.9,
     "is2D": true,
     "screenshots": [
-      "images/gba/gba-tactics-ogre-knight-of-lodis-s1.png",
-      "images/gba/gba-tactics-ogre-knight-of-lodis-s2.png",
-      "images/gba/gba-tactics-ogre-knight-of-lodis-m1.png",
-      "images/gba/gba-tactics-ogre-knight-of-lodis-m2.png",
-      "images/gba/gba-tactics-ogre-knight-of-lodis-m3.jpg",
-      "images/gba/gba-tactics-ogre-knight-of-lodis-m4.jpg",
+      "images/gba/gba-tactics-ogre-knight-of-lodis-s1.webp",
+      "images/gba/gba-tactics-ogre-knight-of-lodis-s2.webp",
+      "images/gba/gba-tactics-ogre-knight-of-lodis-m1.webp",
+      "images/gba/gba-tactics-ogre-knight-of-lodis-m2.webp",
+      "images/gba/gba-tactics-ogre-knight-of-lodis-m3.webp",
+      "images/gba/gba-tactics-ogre-knight-of-lodis-m4.webp",
       "images/gba/gba-tactics-ogre-knight-of-lodis-title.png"
     ],
-    "cover": "images/gba/gba-tactics-ogre-knight-of-lodis-box.jpg",
+    "cover": "images/gba/gba-tactics-ogre-knight-of-lodis-box.webp",
     "styleMatch": 2,
     "styleNote": "斜视角像素战棋，城镇为菜单形式"
   },
@@ -1082,15 +1082,15 @@
     "editorScore": 8.9,
     "is2D": true,
     "screenshots": [
-      "images/gba/gba-fire-emblem-binding-blade-s1.png",
-      "images/gba/gba-fire-emblem-binding-blade-s2.png",
-      "images/gba/gba-fire-emblem-binding-blade-m1.jpg",
-      "images/gba/gba-fire-emblem-binding-blade-m2.png",
-      "images/gba/gba-fire-emblem-binding-blade-m3.jpg",
-      "images/gba/gba-fire-emblem-binding-blade-m4.jpg",
-      "images/gba/gba-fire-emblem-binding-blade-title.png"
+      "images/gba/gba-fire-emblem-binding-blade-s1.webp",
+      "images/gba/gba-fire-emblem-binding-blade-s2.webp",
+      "images/gba/gba-fire-emblem-binding-blade-m1.webp",
+      "images/gba/gba-fire-emblem-binding-blade-m2.webp",
+      "images/gba/gba-fire-emblem-binding-blade-m3.webp",
+      "images/gba/gba-fire-emblem-binding-blade-m4.webp",
+      "images/gba/gba-fire-emblem-binding-blade-title.webp"
     ],
-    "cover": "images/gba/gba-fire-emblem-binding-blade-box.jpg",
+    "cover": "images/gba/gba-fire-emblem-binding-blade-box.webp",
     "styleMatch": 2,
     "styleNote": "像素战棋，无可自由行走的城镇"
   },
@@ -1138,15 +1138,15 @@
     "editorScore": 8.9,
     "is2D": true,
     "screenshots": [
-      "images/gba/gba-final-fantasy-iv-advance-s1.png",
-      "images/gba/gba-final-fantasy-iv-advance-x1.jpg",
-      "images/gba/gba-final-fantasy-iv-advance-x2.jpg",
-      "images/gba/gba-final-fantasy-iv-advance-m1.png",
-      "images/gba/gba-final-fantasy-iv-advance-m2.png",
-      "images/gba/gba-final-fantasy-iv-advance-m3.jpg",
-      "images/gba/gba-final-fantasy-iv-advance-title.png"
+      "images/gba/gba-final-fantasy-iv-advance-s1.webp",
+      "images/gba/gba-final-fantasy-iv-advance-x1.webp",
+      "images/gba/gba-final-fantasy-iv-advance-x2.webp",
+      "images/gba/gba-final-fantasy-iv-advance-m1.webp",
+      "images/gba/gba-final-fantasy-iv-advance-m2.webp",
+      "images/gba/gba-final-fantasy-iv-advance-m3.webp",
+      "images/gba/gba-final-fantasy-iv-advance-title.webp"
     ],
-    "cover": "images/gba/gba-final-fantasy-iv-advance-box.jpg",
+    "cover": "images/gba/gba-final-fantasy-iv-advance-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素JRPG，城镇与大地图"
   },
@@ -1195,14 +1195,14 @@
     "is2D": true,
     "screenshots": [
       "images/gba/gba-castlevania-circle-of-the-moon-s1.png",
-      "images/gba/gba-castlevania-circle-of-the-moon-s2.png",
-      "images/gba/gba-castlevania-circle-of-the-moon-s3.png",
-      "images/gba/gba-castlevania-circle-of-the-moon-m1.png",
-      "images/gba/gba-castlevania-circle-of-the-moon-m2.png",
-      "images/gba/gba-castlevania-circle-of-the-moon-m3.jpg",
-      "images/gba/gba-castlevania-circle-of-the-moon-title.png"
+      "images/gba/gba-castlevania-circle-of-the-moon-s2.webp",
+      "images/gba/gba-castlevania-circle-of-the-moon-s3.webp",
+      "images/gba/gba-castlevania-circle-of-the-moon-m1.webp",
+      "images/gba/gba-castlevania-circle-of-the-moon-m2.webp",
+      "images/gba/gba-castlevania-circle-of-the-moon-m3.webp",
+      "images/gba/gba-castlevania-circle-of-the-moon-title.webp"
     ],
-    "cover": "images/gba/gba-castlevania-circle-of-the-moon-box.jpg",
+    "cover": "images/gba/gba-castlevania-circle-of-the-moon-box.webp",
     "styleMatch": 1,
     "styleNote": "横版恶魔城，无城镇商店"
   },
@@ -1250,15 +1250,15 @@
     "editorScore": 8.9,
     "is2D": true,
     "screenshots": [
-      "images/gba/gba-wario-land-4-s1.png",
-      "images/gba/gba-wario-land-4-x1.png",
-      "images/gba/gba-wario-land-4-m1.jpg",
-      "images/gba/gba-wario-land-4-m2.jpg",
-      "images/gba/gba-wario-land-4-m3.jpg",
-      "images/gba/gba-wario-land-4-m4.png",
-      "images/gba/gba-wario-land-4-title.png"
+      "images/gba/gba-wario-land-4-s1.webp",
+      "images/gba/gba-wario-land-4-x1.webp",
+      "images/gba/gba-wario-land-4-m1.webp",
+      "images/gba/gba-wario-land-4-m2.webp",
+      "images/gba/gba-wario-land-4-m3.webp",
+      "images/gba/gba-wario-land-4-m4.webp",
+      "images/gba/gba-wario-land-4-title.webp"
     ],
-    "cover": "images/gba/gba-wario-land-4-box.jpg",
+    "cover": "images/gba/gba-wario-land-4-box.webp",
     "styleMatch": 1,
     "styleNote": "横版像素平台跳跃"
   },
@@ -1296,12 +1296,12 @@
     "editorScore": 8.9,
     "is2D": true,
     "screenshots": [
-      "images/gba/gba-rhythm-tengoku-s1.png",
-      "images/gba/gba-rhythm-tengoku-s2.png",
-      "images/gba/gba-rhythm-tengoku-m1.png",
-      "images/gba/gba-rhythm-tengoku-title.png"
+      "images/gba/gba-rhythm-tengoku-s1.webp",
+      "images/gba/gba-rhythm-tengoku-s2.webp",
+      "images/gba/gba-rhythm-tengoku-m1.webp",
+      "images/gba/gba-rhythm-tengoku-title.webp"
     ],
-    "cover": "images/gba/gba-rhythm-tengoku-box.jpg",
+    "cover": "images/gba/gba-rhythm-tengoku-box.webp",
     "styleMatch": 0,
     "styleNote": "音乐节奏游戏"
   },
@@ -1349,15 +1349,15 @@
     "editorScore": 8.8,
     "is2D": true,
     "screenshots": [
-      "images/gba/gba-astro-boy-omega-factor-s1.png",
-      "images/gba/gba-astro-boy-omega-factor-s2.png",
-      "images/gba/gba-astro-boy-omega-factor-s3.png",
-      "images/gba/gba-astro-boy-omega-factor-1.png",
-      "images/gba/gba-astro-boy-omega-factor-m1.jpg",
-      "images/gba/gba-astro-boy-omega-factor-m2.jpg",
-      "images/gba/gba-astro-boy-omega-factor-title.png"
+      "images/gba/gba-astro-boy-omega-factor-s1.webp",
+      "images/gba/gba-astro-boy-omega-factor-s2.webp",
+      "images/gba/gba-astro-boy-omega-factor-s3.webp",
+      "images/gba/gba-astro-boy-omega-factor-1.webp",
+      "images/gba/gba-astro-boy-omega-factor-m1.webp",
+      "images/gba/gba-astro-boy-omega-factor-m2.webp",
+      "images/gba/gba-astro-boy-omega-factor-title.webp"
     ],
-    "cover": "images/gba/gba-astro-boy-omega-factor-box.jpg",
+    "cover": "images/gba/gba-astro-boy-omega-factor-box.webp",
     "styleMatch": 1,
     "styleNote": "横版像素动作射击"
   },
@@ -1405,15 +1405,15 @@
     "editorScore": 8.8,
     "is2D": true,
     "screenshots": [
-      "images/gba/gba-castlevania-harmony-of-dissonance-s1.png",
-      "images/gba/gba-castlevania-harmony-of-dissonance-s2.png",
-      "images/gba/gba-castlevania-harmony-of-dissonance-s3.png",
-      "images/gba/gba-castlevania-harmony-of-dissonance-m1.png",
-      "images/gba/gba-castlevania-harmony-of-dissonance-m2.jpg",
-      "images/gba/gba-castlevania-harmony-of-dissonance-m3.jpg",
-      "images/gba/gba-castlevania-harmony-of-dissonance-title.png"
+      "images/gba/gba-castlevania-harmony-of-dissonance-s1.webp",
+      "images/gba/gba-castlevania-harmony-of-dissonance-s2.webp",
+      "images/gba/gba-castlevania-harmony-of-dissonance-s3.webp",
+      "images/gba/gba-castlevania-harmony-of-dissonance-m1.webp",
+      "images/gba/gba-castlevania-harmony-of-dissonance-m2.webp",
+      "images/gba/gba-castlevania-harmony-of-dissonance-m3.webp",
+      "images/gba/gba-castlevania-harmony-of-dissonance-title.webp"
     ],
-    "cover": "images/gba/gba-castlevania-harmony-of-dissonance-box.jpg",
+    "cover": "images/gba/gba-castlevania-harmony-of-dissonance-box.webp",
     "styleMatch": 2,
     "styleNote": "横版恶魔城，城内有商人"
   },
@@ -1461,15 +1461,15 @@
     "editorScore": 8.8,
     "is2D": true,
     "screenshots": [
-      "images/gba/gba-mega-man-zero-2-s1.png",
-      "images/gba/gba-mega-man-zero-2-s2.png",
-      "images/gba/gba-mega-man-zero-2-m1.png",
-      "images/gba/gba-mega-man-zero-2-m2.png",
-      "images/gba/gba-mega-man-zero-2-m3.png",
-      "images/gba/gba-mega-man-zero-2-m4.jpg",
-      "images/gba/gba-mega-man-zero-2-title.png"
+      "images/gba/gba-mega-man-zero-2-s1.webp",
+      "images/gba/gba-mega-man-zero-2-s2.webp",
+      "images/gba/gba-mega-man-zero-2-m1.webp",
+      "images/gba/gba-mega-man-zero-2-m2.webp",
+      "images/gba/gba-mega-man-zero-2-m3.webp",
+      "images/gba/gba-mega-man-zero-2-m4.webp",
+      "images/gba/gba-mega-man-zero-2-title.webp"
     ],
-    "cover": "images/gba/gba-mega-man-zero-2-box.jpg",
+    "cover": "images/gba/gba-mega-man-zero-2-box.webp",
     "styleMatch": 1,
     "styleNote": "横版像素动作"
   },
@@ -1507,15 +1507,15 @@
     "editorScore": 8.8,
     "is2D": true,
     "screenshots": [
-      "images/gba/gba-magical-vacation-s1.png",
-      "images/gba/gba-magical-vacation-x1.png",
-      "images/gba/gba-magical-vacation-m1.png",
-      "images/gba/gba-magical-vacation-m2.png",
-      "images/gba/gba-magical-vacation-m3.png",
-      "images/gba/gba-magical-vacation-m4.png",
-      "images/gba/gba-magical-vacation-title.png"
+      "images/gba/gba-magical-vacation-s1.webp",
+      "images/gba/gba-magical-vacation-x1.webp",
+      "images/gba/gba-magical-vacation-m1.webp",
+      "images/gba/gba-magical-vacation-m2.webp",
+      "images/gba/gba-magical-vacation-m3.webp",
+      "images/gba/gba-magical-vacation-m4.webp",
+      "images/gba/gba-magical-vacation-title.webp"
     ],
-    "cover": "images/gba/gba-magical-vacation-box.jpg",
+    "cover": "images/gba/gba-magical-vacation-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素RPG，村镇森林自由探索"
   },
@@ -1563,15 +1563,15 @@
     "editorScore": 8.7,
     "is2D": true,
     "screenshots": [
-      "images/gba/gba-boktai-s1.png",
-      "images/gba/gba-boktai-s2.png",
-      "images/gba/gba-boktai-m1.png",
-      "images/gba/gba-boktai-m2.jpg",
-      "images/gba/gba-boktai-m3.jpg",
-      "images/gba/gba-boktai-m4.jpg",
+      "images/gba/gba-boktai-s1.webp",
+      "images/gba/gba-boktai-s2.webp",
+      "images/gba/gba-boktai-m1.webp",
+      "images/gba/gba-boktai-m2.webp",
+      "images/gba/gba-boktai-m3.webp",
+      "images/gba/gba-boktai-m4.webp",
       "images/gba/gba-boktai-title.png"
     ],
-    "cover": "images/gba/gba-boktai-box.jpg",
+    "cover": "images/gba/gba-boktai-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素ARPG，有太阳城小镇"
   },
@@ -1617,12 +1617,12 @@
       "images/gba/gba-harvest-moon-friends-of-mineral-town-s1.png",
       "images/gba/gba-harvest-moon-friends-of-mineral-town-s2.png",
       "images/gba/gba-harvest-moon-friends-of-mineral-town-s3.png",
-      "images/gba/gba-harvest-moon-friends-of-mineral-town-1.png",
-      "images/gba/gba-harvest-moon-friends-of-mineral-town-m1.jpg",
-      "images/gba/gba-harvest-moon-friends-of-mineral-town-m2.jpg",
-      "images/gba/gba-harvest-moon-friends-of-mineral-town-title.png"
+      "images/gba/gba-harvest-moon-friends-of-mineral-town-1.webp",
+      "images/gba/gba-harvest-moon-friends-of-mineral-town-m1.webp",
+      "images/gba/gba-harvest-moon-friends-of-mineral-town-m2.webp",
+      "images/gba/gba-harvest-moon-friends-of-mineral-town-title.webp"
     ],
-    "cover": "images/gba/gba-harvest-moon-friends-of-mineral-town-box.jpg",
+    "cover": "images/gba/gba-harvest-moon-friends-of-mineral-town-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素田园生活，小镇杂货店"
   },
@@ -1670,15 +1670,15 @@
     "editorScore": 8.7,
     "is2D": true,
     "screenshots": [
-      "images/gba/gba-mega-man-zero-s1.png",
-      "images/gba/gba-mega-man-zero-s3.png",
-      "images/gba/gba-mega-man-zero-m1.png",
-      "images/gba/gba-mega-man-zero-m2.png",
-      "images/gba/gba-mega-man-zero-m3.png",
-      "images/gba/gba-mega-man-zero-m4.jpg",
-      "images/gba/gba-mega-man-zero-title.png"
+      "images/gba/gba-mega-man-zero-s1.webp",
+      "images/gba/gba-mega-man-zero-s3.webp",
+      "images/gba/gba-mega-man-zero-m1.webp",
+      "images/gba/gba-mega-man-zero-m2.webp",
+      "images/gba/gba-mega-man-zero-m3.webp",
+      "images/gba/gba-mega-man-zero-m4.webp",
+      "images/gba/gba-mega-man-zero-title.webp"
     ],
-    "cover": "images/gba/gba-mega-man-zero-box.jpg",
+    "cover": "images/gba/gba-mega-man-zero-box.webp",
     "styleMatch": 1,
     "styleNote": "横版像素动作"
   },
@@ -1726,15 +1726,15 @@
     "editorScore": 8.7,
     "is2D": true,
     "screenshots": [
-      "images/gba/gba-gunstar-super-heroes-s1.png",
-      "images/gba/gba-gunstar-super-heroes-m1.png",
-      "images/gba/gba-gunstar-super-heroes-m2.png",
-      "images/gba/gba-gunstar-super-heroes-m3.jpg",
-      "images/gba/gba-gunstar-super-heroes-m4.png",
-      "images/gba/gba-gunstar-super-heroes-m5.png",
-      "images/gba/gba-gunstar-super-heroes-title.png"
+      "images/gba/gba-gunstar-super-heroes-s1.webp",
+      "images/gba/gba-gunstar-super-heroes-m1.webp",
+      "images/gba/gba-gunstar-super-heroes-m2.webp",
+      "images/gba/gba-gunstar-super-heroes-m3.webp",
+      "images/gba/gba-gunstar-super-heroes-m4.webp",
+      "images/gba/gba-gunstar-super-heroes-m5.webp",
+      "images/gba/gba-gunstar-super-heroes-title.webp"
     ],
-    "cover": "images/gba/gba-gunstar-super-heroes-box.jpg",
+    "cover": "images/gba/gba-gunstar-super-heroes-box.webp",
     "styleMatch": 0,
     "styleNote": "横版射击，与参考图玩法不同"
   },
@@ -1782,15 +1782,15 @@
     "editorScore": 8.7,
     "is2D": true,
     "screenshots": [
-      "images/gba/gba-pokemon-firered-leafgreen-s1.png",
-      "images/gba/gba-pokemon-firered-leafgreen-s2.png",
-      "images/gba/gba-pokemon-firered-leafgreen-s3.png",
-      "images/gba/gba-pokemon-firered-leafgreen-m1.png",
-      "images/gba/gba-pokemon-firered-leafgreen-m2.jpg",
+      "images/gba/gba-pokemon-firered-leafgreen-s1.webp",
+      "images/gba/gba-pokemon-firered-leafgreen-s2.webp",
+      "images/gba/gba-pokemon-firered-leafgreen-s3.webp",
+      "images/gba/gba-pokemon-firered-leafgreen-m1.webp",
+      "images/gba/gba-pokemon-firered-leafgreen-m2.webp",
       "images/gba/gba-pokemon-firered-leafgreen-m3.jpg",
-      "images/gba/gba-pokemon-firered-leafgreen-title.png"
+      "images/gba/gba-pokemon-firered-leafgreen-title.webp"
     ],
-    "cover": "images/gba/gba-pokemon-firered-leafgreen-box.jpg",
+    "cover": "images/gba/gba-pokemon-firered-leafgreen-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素RPG，小镇、商店与原野"
   },
@@ -1838,15 +1838,15 @@
     "editorScore": 8.6,
     "is2D": true,
     "screenshots": [
-      "images/gba/gba-mega-man-zero-3-s1.png",
-      "images/gba/gba-mega-man-zero-3-s2.png",
-      "images/gba/gba-mega-man-zero-3-m1.png",
-      "images/gba/gba-mega-man-zero-3-m2.png",
-      "images/gba/gba-mega-man-zero-3-m3.jpg",
-      "images/gba/gba-mega-man-zero-3-m4.jpg",
-      "images/gba/gba-mega-man-zero-3-title.png"
+      "images/gba/gba-mega-man-zero-3-s1.webp",
+      "images/gba/gba-mega-man-zero-3-s2.webp",
+      "images/gba/gba-mega-man-zero-3-m1.webp",
+      "images/gba/gba-mega-man-zero-3-m2.webp",
+      "images/gba/gba-mega-man-zero-3-m3.webp",
+      "images/gba/gba-mega-man-zero-3-m4.webp",
+      "images/gba/gba-mega-man-zero-3-title.webp"
     ],
-    "cover": "images/gba/gba-mega-man-zero-3-box.jpg",
+    "cover": "images/gba/gba-mega-man-zero-3-box.webp",
     "styleMatch": 1,
     "styleNote": "横版像素动作"
   },
@@ -1894,15 +1894,15 @@
     "editorScore": 8.6,
     "is2D": true,
     "screenshots": [
-      "images/gba/gba-kirby-amazing-mirror-s1.png",
-      "images/gba/gba-kirby-amazing-mirror-s2.png",
-      "images/gba/gba-kirby-amazing-mirror-s3.png",
-      "images/gba/gba-kirby-amazing-mirror-m1.png",
-      "images/gba/gba-kirby-amazing-mirror-m2.jpg",
-      "images/gba/gba-kirby-amazing-mirror-m3.jpg",
-      "images/gba/gba-kirby-amazing-mirror-title.png"
+      "images/gba/gba-kirby-amazing-mirror-s1.webp",
+      "images/gba/gba-kirby-amazing-mirror-s2.webp",
+      "images/gba/gba-kirby-amazing-mirror-s3.webp",
+      "images/gba/gba-kirby-amazing-mirror-m1.webp",
+      "images/gba/gba-kirby-amazing-mirror-m2.webp",
+      "images/gba/gba-kirby-amazing-mirror-m3.webp",
+      "images/gba/gba-kirby-amazing-mirror-title.webp"
     ],
-    "cover": "images/gba/gba-kirby-amazing-mirror-box.jpg",
+    "cover": "images/gba/gba-kirby-amazing-mirror-box.webp",
     "styleMatch": 1,
     "styleNote": "横版像素平台探索"
   },
@@ -1950,15 +1950,15 @@
     "editorScore": 8.6,
     "is2D": true,
     "screenshots": [
-      "images/gba/gba-mega-man-battle-network-3-s1.png",
-      "images/gba/gba-mega-man-battle-network-3-s2.png",
-      "images/gba/gba-mega-man-battle-network-3-s3.png",
-      "images/gba/gba-mega-man-battle-network-3-m1.png",
-      "images/gba/gba-mega-man-battle-network-3-m2.png",
-      "images/gba/gba-mega-man-battle-network-3-m3.png",
-      "images/gba/gba-mega-man-battle-network-3-title.png"
+      "images/gba/gba-mega-man-battle-network-3-s1.webp",
+      "images/gba/gba-mega-man-battle-network-3-s2.webp",
+      "images/gba/gba-mega-man-battle-network-3-s3.webp",
+      "images/gba/gba-mega-man-battle-network-3-m1.webp",
+      "images/gba/gba-mega-man-battle-network-3-m2.webp",
+      "images/gba/gba-mega-man-battle-network-3-m3.webp",
+      "images/gba/gba-mega-man-battle-network-3-title.webp"
     ],
-    "cover": "images/gba/gba-mega-man-battle-network-3-box.jpg",
+    "cover": "images/gba/gba-mega-man-battle-network-3-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素小镇探索，战斗为格子制"
   },
@@ -1998,13 +1998,13 @@
     "screenshots": [
       "images/gba/gba-super-robot-taisen-og-s1.png",
       "images/gba/gba-super-robot-taisen-og-s2.png",
-      "images/gba/gba-super-robot-taisen-og-s3.png",
-      "images/gba/gba-super-robot-taisen-og-m1.png",
-      "images/gba/gba-super-robot-taisen-og-m2.png",
+      "images/gba/gba-super-robot-taisen-og-s3.webp",
+      "images/gba/gba-super-robot-taisen-og-m1.webp",
+      "images/gba/gba-super-robot-taisen-og-m2.webp",
       "images/gba/gba-super-robot-taisen-og-m3.jpg",
-      "images/gba/gba-super-robot-taisen-og-title.png"
+      "images/gba/gba-super-robot-taisen-og-title.webp"
     ],
-    "cover": "images/gba/gba-super-robot-taisen-og-box.jpg",
+    "cover": "images/gba/gba-super-robot-taisen-og-box.webp",
     "styleMatch": 1,
     "styleNote": "像素机战战棋，无城镇探索"
   },
@@ -2052,15 +2052,15 @@
     "editorScore": 8.5,
     "is2D": true,
     "screenshots": [
-      "images/gba/gba-drill-dozer-s1.png",
-      "images/gba/gba-drill-dozer-s2.png",
-      "images/gba/gba-drill-dozer-m1.png",
-      "images/gba/gba-drill-dozer-m2.png",
-      "images/gba/gba-drill-dozer-m3.jpg",
-      "images/gba/gba-drill-dozer-m4.jpg",
-      "images/gba/gba-drill-dozer-title.png"
+      "images/gba/gba-drill-dozer-s1.webp",
+      "images/gba/gba-drill-dozer-s2.webp",
+      "images/gba/gba-drill-dozer-m1.webp",
+      "images/gba/gba-drill-dozer-m2.webp",
+      "images/gba/gba-drill-dozer-m3.webp",
+      "images/gba/gba-drill-dozer-m4.webp",
+      "images/gba/gba-drill-dozer-title.webp"
     ],
-    "cover": "images/gba/gba-drill-dozer-box.jpg",
+    "cover": "images/gba/gba-drill-dozer-box.webp",
     "styleMatch": 1,
     "styleNote": "横版像素平台动作"
   },
@@ -2108,13 +2108,13 @@
     "editorScore": 8.5,
     "is2D": true,
     "screenshots": [
-      "images/gba/gba-ninja-five-o-s1.png",
-      "images/gba/gba-ninja-five-o-s2.png",
-      "images/gba/gba-ninja-five-o-m1.png",
-      "images/gba/gba-ninja-five-o-m2.png",
-      "images/gba/gba-ninja-five-o-title.png"
+      "images/gba/gba-ninja-five-o-s1.webp",
+      "images/gba/gba-ninja-five-o-s2.webp",
+      "images/gba/gba-ninja-five-o-m1.webp",
+      "images/gba/gba-ninja-five-o-m2.webp",
+      "images/gba/gba-ninja-five-o-title.webp"
     ],
-    "cover": "images/gba/gba-ninja-five-o-box.jpg",
+    "cover": "images/gba/gba-ninja-five-o-box.webp",
     "styleMatch": 1,
     "styleNote": "横版像素动作"
   },
@@ -2163,14 +2163,14 @@
     "is2D": true,
     "screenshots": [
       "images/gba/gba-breath-of-fire-ii-s1.png",
-      "images/gba/gba-breath-of-fire-ii-s2.png",
-      "images/gba/gba-breath-of-fire-ii-s3.png",
-      "images/gba/gba-breath-of-fire-ii-m1.jpg",
-      "images/gba/gba-breath-of-fire-ii-m2.png",
-      "images/gba/gba-breath-of-fire-ii-m3.jpg",
-      "images/gba/gba-breath-of-fire-ii-title.png"
+      "images/gba/gba-breath-of-fire-ii-s2.webp",
+      "images/gba/gba-breath-of-fire-ii-s3.webp",
+      "images/gba/gba-breath-of-fire-ii-m1.webp",
+      "images/gba/gba-breath-of-fire-ii-m2.webp",
+      "images/gba/gba-breath-of-fire-ii-m3.webp",
+      "images/gba/gba-breath-of-fire-ii-title.webp"
     ],
-    "cover": "images/gba/gba-breath-of-fire-ii-box.jpg",
+    "cover": "images/gba/gba-breath-of-fire-ii-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素JRPG，城镇与自建村庄"
   },
@@ -2218,15 +2218,15 @@
     "editorScore": 8.5,
     "is2D": true,
     "screenshots": [
-      "images/gba/gba-pokemon-emerald-s1.png",
-      "images/gba/gba-pokemon-emerald-s2.png",
-      "images/gba/gba-pokemon-emerald-m1.png",
-      "images/gba/gba-pokemon-emerald-m2.jpg",
-      "images/gba/gba-pokemon-emerald-m3.jpg",
-      "images/gba/gba-pokemon-emerald-m4.jpg",
-      "images/gba/gba-pokemon-emerald-title.png"
+      "images/gba/gba-pokemon-emerald-s1.webp",
+      "images/gba/gba-pokemon-emerald-s2.webp",
+      "images/gba/gba-pokemon-emerald-m1.webp",
+      "images/gba/gba-pokemon-emerald-m2.webp",
+      "images/gba/gba-pokemon-emerald-m3.webp",
+      "images/gba/gba-pokemon-emerald-m4.webp",
+      "images/gba/gba-pokemon-emerald-title.webp"
     ],
-    "cover": "images/gba/gba-pokemon-emerald-box.jpg",
+    "cover": "images/gba/gba-pokemon-emerald-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素RPG，小镇、商店与原野"
   },
@@ -2274,15 +2274,15 @@
     "editorScore": 8.4,
     "is2D": true,
     "screenshots": [
-      "images/gba/gba-riviera-the-promised-land-s1.png",
-      "images/gba/gba-riviera-the-promised-land-s2.png",
-      "images/gba/gba-riviera-the-promised-land-1.png",
-      "images/gba/gba-riviera-the-promised-land-m1.jpg",
-      "images/gba/gba-riviera-the-promised-land-m2.jpg",
-      "images/gba/gba-riviera-the-promised-land-m3.jpg",
-      "images/gba/gba-riviera-the-promised-land-title.png"
+      "images/gba/gba-riviera-the-promised-land-s1.webp",
+      "images/gba/gba-riviera-the-promised-land-s2.webp",
+      "images/gba/gba-riviera-the-promised-land-1.webp",
+      "images/gba/gba-riviera-the-promised-land-m1.webp",
+      "images/gba/gba-riviera-the-promised-land-m2.webp",
+      "images/gba/gba-riviera-the-promised-land-m3.webp",
+      "images/gba/gba-riviera-the-promised-land-title.webp"
     ],
-    "cover": "images/gba/gba-riviera-the-promised-land-box.jpg",
+    "cover": "images/gba/gba-riviera-the-promised-land-box.webp",
     "styleMatch": 2,
     "styleNote": "像素RPG，但探索为场景选单式"
   },
@@ -2330,15 +2330,15 @@
     "editorScore": 8.4,
     "is2D": true,
     "screenshots": [
-      "images/gba/gba-mega-man-zero-4-s1.png",
-      "images/gba/gba-mega-man-zero-4-s2.png",
+      "images/gba/gba-mega-man-zero-4-s1.webp",
+      "images/gba/gba-mega-man-zero-4-s2.webp",
       "images/gba/gba-mega-man-zero-4-m1.jpg",
-      "images/gba/gba-mega-man-zero-4-m2.jpg",
-      "images/gba/gba-mega-man-zero-4-m3.png",
-      "images/gba/gba-mega-man-zero-4-m4.png",
-      "images/gba/gba-mega-man-zero-4-title.png"
+      "images/gba/gba-mega-man-zero-4-m2.webp",
+      "images/gba/gba-mega-man-zero-4-m3.webp",
+      "images/gba/gba-mega-man-zero-4-m4.webp",
+      "images/gba/gba-mega-man-zero-4-title.webp"
     ],
-    "cover": "images/gba/gba-mega-man-zero-4-box.jpg",
+    "cover": "images/gba/gba-mega-man-zero-4-box.webp",
     "styleMatch": 1,
     "styleNote": "横版像素动作"
   },
@@ -2381,11 +2381,11 @@
     "editorScore": 8.3,
     "is2D": true,
     "screenshots": [
-      "images/gba/gba-kuru-kuru-kururin-s1.png",
-      "images/gba/gba-kuru-kuru-kururin-s2.png",
-      "images/gba/gba-kuru-kuru-kururin-title.png"
+      "images/gba/gba-kuru-kuru-kururin-s1.webp",
+      "images/gba/gba-kuru-kuru-kururin-s2.webp",
+      "images/gba/gba-kuru-kuru-kururin-title.webp"
     ],
-    "cover": "images/gba/gba-kuru-kuru-kururin-box.jpg",
+    "cover": "images/gba/gba-kuru-kuru-kururin-box.webp",
     "styleMatch": 0,
     "styleNote": "解谜游戏"
   },
@@ -2434,14 +2434,14 @@
     "is2D": true,
     "screenshots": [
       "images/gba/gba-breath-of-fire-s1.png",
-      "images/gba/gba-breath-of-fire-s2.png",
+      "images/gba/gba-breath-of-fire-s2.webp",
       "images/gba/gba-breath-of-fire-s3.png",
       "images/gba/gba-breath-of-fire-s4.png",
-      "images/gba/gba-breath-of-fire-m1.png",
-      "images/gba/gba-breath-of-fire-m2.png",
-      "images/gba/gba-breath-of-fire-title.png"
+      "images/gba/gba-breath-of-fire-m1.webp",
+      "images/gba/gba-breath-of-fire-m2.webp",
+      "images/gba/gba-breath-of-fire-title.webp"
     ],
-    "cover": "images/gba/gba-breath-of-fire-box.jpg",
+    "cover": "images/gba/gba-breath-of-fire-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素JRPG，城镇与大地图"
   },
@@ -2489,15 +2489,15 @@
     "editorScore": 8.2,
     "is2D": true,
     "screenshots": [
-      "images/gba/gba-lunar-legend-s1.png",
-      "images/gba/gba-lunar-legend-s2.png",
-      "images/gba/gba-lunar-legend-m1.png",
-      "images/gba/gba-lunar-legend-m2.jpg",
-      "images/gba/gba-lunar-legend-m3.jpg",
-      "images/gba/gba-lunar-legend-m4.jpg",
-      "images/gba/gba-lunar-legend-title.png"
+      "images/gba/gba-lunar-legend-s1.webp",
+      "images/gba/gba-lunar-legend-s2.webp",
+      "images/gba/gba-lunar-legend-m1.webp",
+      "images/gba/gba-lunar-legend-m2.webp",
+      "images/gba/gba-lunar-legend-m3.webp",
+      "images/gba/gba-lunar-legend-m4.webp",
+      "images/gba/gba-lunar-legend-title.webp"
     ],
-    "cover": "images/gba/gba-lunar-legend-box.jpg",
+    "cover": "images/gba/gba-lunar-legend-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素JRPG，城镇居民生动"
   },
@@ -2545,14 +2545,14 @@
     "editorScore": 8.2,
     "is2D": true,
     "screenshots": [
-      "images/gba/gba-pokemon-mystery-dungeon-red-s1.png",
+      "images/gba/gba-pokemon-mystery-dungeon-red-s1.webp",
       "images/gba/gba-pokemon-mystery-dungeon-red-s2.png",
       "images/gba/gba-pokemon-mystery-dungeon-red-s3.png",
-      "images/gba/gba-pokemon-mystery-dungeon-red-m1.jpg",
-      "images/gba/gba-pokemon-mystery-dungeon-red-m2.jpg",
-      "images/gba/gba-pokemon-mystery-dungeon-red-title.png"
+      "images/gba/gba-pokemon-mystery-dungeon-red-m1.webp",
+      "images/gba/gba-pokemon-mystery-dungeon-red-m2.webp",
+      "images/gba/gba-pokemon-mystery-dungeon-red-title.webp"
     ],
-    "cover": "images/gba/gba-pokemon-mystery-dungeon-red-box.jpg",
+    "cover": "images/gba/gba-pokemon-mystery-dungeon-red-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素，广场小镇与迷宫探险"
   },
@@ -2600,15 +2600,15 @@
     "editorScore": 8.2,
     "is2D": true,
     "screenshots": [
-      "images/gba/gba-tales-of-phantasia-s1.png",
-      "images/gba/gba-tales-of-phantasia-s2.png",
-      "images/gba/gba-tales-of-phantasia-s3.png",
-      "images/gba/gba-tales-of-phantasia-m1.png",
-      "images/gba/gba-tales-of-phantasia-m2.png",
-      "images/gba/gba-tales-of-phantasia-m3.png",
-      "images/gba/gba-tales-of-phantasia-title.png"
+      "images/gba/gba-tales-of-phantasia-s1.webp",
+      "images/gba/gba-tales-of-phantasia-s2.webp",
+      "images/gba/gba-tales-of-phantasia-s3.webp",
+      "images/gba/gba-tales-of-phantasia-m1.webp",
+      "images/gba/gba-tales-of-phantasia-m2.webp",
+      "images/gba/gba-tales-of-phantasia-m3.webp",
+      "images/gba/gba-tales-of-phantasia-title.webp"
     ],
-    "cover": "images/gba/gba-tales-of-phantasia-box.jpg",
+    "cover": "images/gba/gba-tales-of-phantasia-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素城镇探索，战斗为横版"
   },
@@ -2656,15 +2656,15 @@
     "editorScore": 8.1,
     "is2D": true,
     "screenshots": [
-      "images/gba/gba-shining-soul-ii-s1.png",
-      "images/gba/gba-shining-soul-ii-s2.png",
-      "images/gba/gba-shining-soul-ii-s3.png",
-      "images/gba/gba-shining-soul-ii-m1.png",
-      "images/gba/gba-shining-soul-ii-m2.png",
-      "images/gba/gba-shining-soul-ii-m3.png",
-      "images/gba/gba-shining-soul-ii-title.png"
+      "images/gba/gba-shining-soul-ii-s1.webp",
+      "images/gba/gba-shining-soul-ii-s2.webp",
+      "images/gba/gba-shining-soul-ii-s3.webp",
+      "images/gba/gba-shining-soul-ii-m1.webp",
+      "images/gba/gba-shining-soul-ii-m2.webp",
+      "images/gba/gba-shining-soul-ii-m3.webp",
+      "images/gba/gba-shining-soul-ii-title.webp"
     ],
-    "cover": "images/gba/gba-shining-soul-ii-box.jpg",
+    "cover": "images/gba/gba-shining-soul-ii-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素ARPG，村庄据点与商店"
   },
@@ -2712,15 +2712,15 @@
     "editorScore": 8.1,
     "is2D": true,
     "screenshots": [
-      "images/gba/gba-summon-night-swordcraft-story-s1.png",
-      "images/gba/gba-summon-night-swordcraft-story-s2.png",
-      "images/gba/gba-summon-night-swordcraft-story-m1.png",
-      "images/gba/gba-summon-night-swordcraft-story-m2.jpg",
-      "images/gba/gba-summon-night-swordcraft-story-m3.jpg",
-      "images/gba/gba-summon-night-swordcraft-story-m4.jpg",
-      "images/gba/gba-summon-night-swordcraft-story-title.png"
+      "images/gba/gba-summon-night-swordcraft-story-s1.webp",
+      "images/gba/gba-summon-night-swordcraft-story-s2.webp",
+      "images/gba/gba-summon-night-swordcraft-story-m1.webp",
+      "images/gba/gba-summon-night-swordcraft-story-m2.webp",
+      "images/gba/gba-summon-night-swordcraft-story-m3.webp",
+      "images/gba/gba-summon-night-swordcraft-story-m4.webp",
+      "images/gba/gba-summon-night-swordcraft-story-title.webp"
     ],
-    "cover": "images/gba/gba-summon-night-swordcraft-story-box.jpg",
+    "cover": "images/gba/gba-summon-night-swordcraft-story-box.webp",
     "styleMatch": 2,
     "styleNote": "俯视角像素城镇，迷宫战斗为横版"
   },
@@ -2768,15 +2768,15 @@
     "editorScore": 8.0,
     "is2D": true,
     "screenshots": [
-      "images/gba/gba-sword-of-mana-s1.png",
+      "images/gba/gba-sword-of-mana-s1.webp",
       "images/gba/gba-sword-of-mana-x1.jpg",
-      "images/gba/gba-sword-of-mana-m1.png",
-      "images/gba/gba-sword-of-mana-m2.png",
-      "images/gba/gba-sword-of-mana-m3.png",
-      "images/gba/gba-sword-of-mana-m4.png",
-      "images/gba/gba-sword-of-mana-title.png"
+      "images/gba/gba-sword-of-mana-m1.webp",
+      "images/gba/gba-sword-of-mana-m2.webp",
+      "images/gba/gba-sword-of-mana-m3.webp",
+      "images/gba/gba-sword-of-mana-m4.webp",
+      "images/gba/gba-sword-of-mana-title.webp"
     ],
-    "cover": "images/gba/gba-sword-of-mana-box.jpg",
+    "cover": "images/gba/gba-sword-of-mana-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素ARPG，童话村镇与原野"
   },
@@ -2819,15 +2819,15 @@
     "editorScore": 8.0,
     "is2D": true,
     "screenshots": [
-      "images/gba/gba-final-fantasy-i-ii-dawn-of-souls-s1.png",
-      "images/gba/gba-final-fantasy-i-ii-dawn-of-souls-s2.png",
-      "images/gba/gba-final-fantasy-i-ii-dawn-of-souls-m1.jpg",
-      "images/gba/gba-final-fantasy-i-ii-dawn-of-souls-m2.jpg",
-      "images/gba/gba-final-fantasy-i-ii-dawn-of-souls-m3.jpg",
-      "images/gba/gba-final-fantasy-i-ii-dawn-of-souls-m4.jpg",
-      "images/gba/gba-final-fantasy-i-ii-dawn-of-souls-title.png"
+      "images/gba/gba-final-fantasy-i-ii-dawn-of-souls-s1.webp",
+      "images/gba/gba-final-fantasy-i-ii-dawn-of-souls-s2.webp",
+      "images/gba/gba-final-fantasy-i-ii-dawn-of-souls-m1.webp",
+      "images/gba/gba-final-fantasy-i-ii-dawn-of-souls-m2.webp",
+      "images/gba/gba-final-fantasy-i-ii-dawn-of-souls-m3.webp",
+      "images/gba/gba-final-fantasy-i-ii-dawn-of-souls-m4.webp",
+      "images/gba/gba-final-fantasy-i-ii-dawn-of-souls-title.webp"
     ],
-    "cover": "images/gba/gba-final-fantasy-i-ii-dawn-of-souls-box.jpg",
+    "cover": "images/gba/gba-final-fantasy-i-ii-dawn-of-souls-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素JRPG，城镇与大地图"
   },
@@ -2875,15 +2875,15 @@
     "editorScore": 7.9,
     "is2D": true,
     "screenshots": [
-      "images/gba/gba-lufia-ruins-of-lore-s1.png",
-      "images/gba/gba-lufia-ruins-of-lore-s2.png",
-      "images/gba/gba-lufia-ruins-of-lore-m1.png",
-      "images/gba/gba-lufia-ruins-of-lore-m2.jpg",
-      "images/gba/gba-lufia-ruins-of-lore-m3.jpg",
-      "images/gba/gba-lufia-ruins-of-lore-m4.jpg",
-      "images/gba/gba-lufia-ruins-of-lore-title.png"
+      "images/gba/gba-lufia-ruins-of-lore-s1.webp",
+      "images/gba/gba-lufia-ruins-of-lore-s2.webp",
+      "images/gba/gba-lufia-ruins-of-lore-m1.webp",
+      "images/gba/gba-lufia-ruins-of-lore-m2.webp",
+      "images/gba/gba-lufia-ruins-of-lore-m3.webp",
+      "images/gba/gba-lufia-ruins-of-lore-m4.webp",
+      "images/gba/gba-lufia-ruins-of-lore-title.webp"
     ],
-    "cover": "images/gba/gba-lufia-ruins-of-lore-box.jpg",
+    "cover": "images/gba/gba-lufia-ruins-of-lore-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素JRPG，城镇迷宫道具解谜"
   }

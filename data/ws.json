@@ -27,14 +27,14 @@
     "editorScore": 9.3,
     "is2D": true,
     "screenshots": [
-      "images/ws/ws-final-fantasy-iv-x1.jpg",
-      "images/ws/ws-final-fantasy-iv-s1.png",
-      "images/ws/ws-final-fantasy-iv-m1.jpg",
-      "images/ws/ws-final-fantasy-iv-y1.png",
-      "images/ws/ws-final-fantasy-iv-y2.png",
-      "images/ws/ws-final-fantasy-iv-title.png"
+      "images/ws/ws-final-fantasy-iv-x1.webp",
+      "images/ws/ws-final-fantasy-iv-s1.webp",
+      "images/ws/ws-final-fantasy-iv-m1.webp",
+      "images/ws/ws-final-fantasy-iv-y1.webp",
+      "images/ws/ws-final-fantasy-iv-y2.webp",
+      "images/ws/ws-final-fantasy-iv-title.webp"
     ],
-    "cover": "images/ws/ws-final-fantasy-iv-box.jpg",
+    "cover": "images/ws/ws-final-fantasy-iv-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素城镇与大地图，自由探索"
   },
@@ -72,14 +72,14 @@
     "editorScore": 9.0,
     "is2D": true,
     "screenshots": [
-      "images/ws/ws-riviera-s1.png",
-      "images/ws/ws-riviera-s2.png",
-      "images/ws/ws-riviera-m1.jpg",
-      "images/ws/ws-riviera-y1.png",
-      "images/ws/ws-riviera-y2.png",
-      "images/ws/ws-riviera-title.png"
+      "images/ws/ws-riviera-s1.webp",
+      "images/ws/ws-riviera-s2.webp",
+      "images/ws/ws-riviera-m1.webp",
+      "images/ws/ws-riviera-y1.webp",
+      "images/ws/ws-riviera-y2.webp",
+      "images/ws/ws-riviera-title.webp"
     ],
-    "cover": "images/ws/ws-riviera-box.jpg",
+    "cover": "images/ws/ws-riviera-box.webp",
     "styleMatch": 2,
     "styleNote": "像素RPG但以触发点探索，无自由行走"
   },
@@ -118,13 +118,13 @@
     "is2D": true,
     "screenshots": [
       "images/ws/ws-front-mission-s1.png",
-      "images/ws/ws-front-mission-x1.png",
-      "images/ws/ws-front-mission-y1.png",
-      "images/ws/ws-front-mission-y2.png",
-      "images/ws/ws-front-mission-y3.png",
-      "images/ws/ws-front-mission-title.png"
+      "images/ws/ws-front-mission-x1.webp",
+      "images/ws/ws-front-mission-y1.webp",
+      "images/ws/ws-front-mission-y2.webp",
+      "images/ws/ws-front-mission-y3.webp",
+      "images/ws/ws-front-mission-title.webp"
     ],
-    "cover": "images/ws/ws-front-mission-box.jpg",
+    "cover": "images/ws/ws-front-mission-box.webp",
     "styleMatch": 2,
     "styleNote": "机甲战棋，城镇仅为菜单画面"
   },
@@ -162,14 +162,14 @@
     "editorScore": 8.7,
     "is2D": true,
     "screenshots": [
-      "images/ws/ws-romancing-saga-s1.png",
-      "images/ws/ws-romancing-saga-x1.png",
-      "images/ws/ws-romancing-saga-y1.png",
-      "images/ws/ws-romancing-saga-y2.png",
-      "images/ws/ws-romancing-saga-y3.png",
-      "images/ws/ws-romancing-saga-title.png"
+      "images/ws/ws-romancing-saga-s1.webp",
+      "images/ws/ws-romancing-saga-x1.webp",
+      "images/ws/ws-romancing-saga-y1.webp",
+      "images/ws/ws-romancing-saga-y2.webp",
+      "images/ws/ws-romancing-saga-y3.webp",
+      "images/ws/ws-romancing-saga-title.webp"
     ],
-    "cover": "images/ws/ws-romancing-saga-box.jpg",
+    "cover": "images/ws/ws-romancing-saga-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素城镇自由漫游，NPC众多"
   },
@@ -207,11 +207,11 @@
     "editorScore": 8.7,
     "is2D": true,
     "screenshots": [
-      "images/ws/ws-gunpey-x1.jpg",
-      "images/ws/ws-gunpey-s1.png",
-      "images/ws/ws-gunpey-title.png"
+      "images/ws/ws-gunpey-x1.webp",
+      "images/ws/ws-gunpey-s1.webp",
+      "images/ws/ws-gunpey-title.webp"
     ],
-    "cover": "images/ws/ws-gunpey-box.jpg",
+    "cover": "images/ws/ws-gunpey-box.webp",
     "styleMatch": 0,
     "styleNote": "益智连线游戏，与参考图无关"
   },
@@ -249,14 +249,14 @@
     "editorScore": 8.6,
     "is2D": true,
     "screenshots": [
-      "images/ws/ws-klonoa-moonlight-museum-s1.png",
-      "images/ws/ws-klonoa-moonlight-museum-x1.jpg",
-      "images/ws/ws-klonoa-moonlight-museum-m1.png",
-      "images/ws/ws-klonoa-moonlight-museum-m2.png",
-      "images/ws/ws-klonoa-moonlight-museum-m3.png",
-      "images/ws/ws-klonoa-moonlight-museum-title.png"
+      "images/ws/ws-klonoa-moonlight-museum-s1.webp",
+      "images/ws/ws-klonoa-moonlight-museum-x1.webp",
+      "images/ws/ws-klonoa-moonlight-museum-m1.webp",
+      "images/ws/ws-klonoa-moonlight-museum-m2.webp",
+      "images/ws/ws-klonoa-moonlight-museum-m3.webp",
+      "images/ws/ws-klonoa-moonlight-museum-title.webp"
     ],
-    "cover": "images/ws/ws-klonoa-moonlight-museum-box.jpg",
+    "cover": "images/ws/ws-klonoa-moonlight-museum-box.webp",
     "styleMatch": 1,
     "styleNote": "黑白横版平台跳跃，仅像素风相近"
   },
@@ -299,14 +299,14 @@
     "editorScore": 8.5,
     "is2D": true,
     "screenshots": [
-      "images/ws/ws-final-fantasy-s1.png",
-      "images/ws/ws-final-fantasy-x1.png",
-      "images/ws/ws-final-fantasy-y1.png",
-      "images/ws/ws-final-fantasy-y2.png",
-      "images/ws/ws-final-fantasy-y3.png",
-      "images/ws/ws-final-fantasy-title.png"
+      "images/ws/ws-final-fantasy-s1.webp",
+      "images/ws/ws-final-fantasy-x1.webp",
+      "images/ws/ws-final-fantasy-y1.webp",
+      "images/ws/ws-final-fantasy-y2.webp",
+      "images/ws/ws-final-fantasy-y3.webp",
+      "images/ws/ws-final-fantasy-title.webp"
     ],
-    "cover": "images/ws/ws-final-fantasy-box.jpg",
+    "cover": "images/ws/ws-final-fantasy-box.webp",
     "styleMatch": 3,
     "styleNote": "经典俯视角城镇、商店与大地图"
   },
@@ -344,15 +344,15 @@
     "editorScore": 8.5,
     "is2D": true,
     "screenshots": [
-      "images/ws/ws-judgement-silversword-s1.png",
-      "images/ws/ws-judgement-silversword-s2.png",
-      "images/ws/ws-judgement-silversword-s3.png",
-      "images/ws/ws-judgement-silversword-m1.png",
-      "images/ws/ws-judgement-silversword-m2.jpg",
-      "images/ws/ws-judgement-silversword-m3.jpg",
-      "images/ws/ws-judgement-silversword-title.png"
+      "images/ws/ws-judgement-silversword-s1.webp",
+      "images/ws/ws-judgement-silversword-s2.webp",
+      "images/ws/ws-judgement-silversword-s3.webp",
+      "images/ws/ws-judgement-silversword-m1.webp",
+      "images/ws/ws-judgement-silversword-m2.webp",
+      "images/ws/ws-judgement-silversword-m3.webp",
+      "images/ws/ws-judgement-silversword-title.webp"
     ],
-    "cover": "images/ws/ws-judgement-silversword-box.jpg",
+    "cover": "images/ws/ws-judgement-silversword-box.webp",
     "styleMatch": 0,
     "styleNote": "纵版射击游戏"
   },
@@ -390,14 +390,14 @@
     "editorScore": 8.4,
     "is2D": true,
     "screenshots": [
-      "images/ws/ws-final-fantasy-ii-s1.png",
-      "images/ws/ws-final-fantasy-ii-x1.png",
-      "images/ws/ws-final-fantasy-ii-y1.png",
-      "images/ws/ws-final-fantasy-ii-y2.png",
-      "images/ws/ws-final-fantasy-ii-y3.png",
-      "images/ws/ws-final-fantasy-ii-title.png"
+      "images/ws/ws-final-fantasy-ii-s1.webp",
+      "images/ws/ws-final-fantasy-ii-x1.webp",
+      "images/ws/ws-final-fantasy-ii-y1.webp",
+      "images/ws/ws-final-fantasy-ii-y2.webp",
+      "images/ws/ws-final-fantasy-ii-y3.webp",
+      "images/ws/ws-final-fantasy-ii-title.webp"
     ],
-    "cover": "images/ws/ws-final-fantasy-ii-box.jpg",
+    "cover": "images/ws/ws-final-fantasy-ii-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素城镇与原野自由探索"
   },
@@ -430,12 +430,12 @@
     "is2D": true,
     "screenshots": [
       "images/ws/ws-star-hearts-s1.png",
-      "images/ws/ws-star-hearts-x1.png",
-      "images/ws/ws-star-hearts-y1.png",
-      "images/ws/ws-star-hearts-y2.png",
-      "images/ws/ws-star-hearts-title.png"
+      "images/ws/ws-star-hearts-x1.webp",
+      "images/ws/ws-star-hearts-y1.webp",
+      "images/ws/ws-star-hearts-y2.webp",
+      "images/ws/ws-star-hearts-title.webp"
     ],
-    "cover": "images/ws/ws-star-hearts-box.jpg",
+    "cover": "images/ws/ws-star-hearts-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素村庄、HP槽，几乎同款"
   },
@@ -467,15 +467,15 @@
     "editorScore": 8.3,
     "is2D": true,
     "screenshots": [
-      "images/ws/ws-dicing-knight-s1.png",
-      "images/ws/ws-dicing-knight-x1.png",
-      "images/ws/ws-dicing-knight-m1.jpg",
-      "images/ws/ws-dicing-knight-m2.jpg",
-      "images/ws/ws-dicing-knight-m3.jpg",
-      "images/ws/ws-dicing-knight-m4.jpg",
-      "images/ws/ws-dicing-knight-title.png"
+      "images/ws/ws-dicing-knight-s1.webp",
+      "images/ws/ws-dicing-knight-x1.webp",
+      "images/ws/ws-dicing-knight-m1.webp",
+      "images/ws/ws-dicing-knight-m2.webp",
+      "images/ws/ws-dicing-knight-m3.webp",
+      "images/ws/ws-dicing-knight-m4.webp",
+      "images/ws/ws-dicing-knight-title.webp"
     ],
-    "cover": "images/ws/ws-dicing-knight-box.jpg",
+    "cover": "images/ws/ws-dicing-knight-box.webp",
     "styleMatch": 2,
     "styleNote": "俯视角即时ARPG，但只有迷宫无村庄"
   },
@@ -513,15 +513,15 @@
     "editorScore": 8.3,
     "is2D": true,
     "screenshots": [
-      "images/ws/ws-makai-toushi-saga-s1.png",
-      "images/ws/ws-makai-toushi-saga-x1.png",
-      "images/ws/ws-makai-toushi-saga-m1.png",
-      "images/ws/ws-makai-toushi-saga-m2.png",
-      "images/ws/ws-makai-toushi-saga-m3.png",
-      "images/ws/ws-makai-toushi-saga-m4.png",
-      "images/ws/ws-makai-toushi-saga-title.png"
+      "images/ws/ws-makai-toushi-saga-s1.webp",
+      "images/ws/ws-makai-toushi-saga-x1.webp",
+      "images/ws/ws-makai-toushi-saga-m1.webp",
+      "images/ws/ws-makai-toushi-saga-m2.webp",
+      "images/ws/ws-makai-toushi-saga-m3.webp",
+      "images/ws/ws-makai-toushi-saga-m4.webp",
+      "images/ws/ws-makai-toushi-saga-title.webp"
     ],
-    "cover": "images/ws/ws-makai-toushi-saga-box.jpg",
+    "cover": "images/ws/ws-makai-toushi-saga-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素城镇与世界地图自由探索"
   },
@@ -553,12 +553,12 @@
     "editorScore": 8.2,
     "is2D": true,
     "screenshots": [
-      "images/ws/ws-makaimura-s1.png",
-      "images/ws/ws-makaimura-x1.jpg",
-      "images/ws/ws-makaimura-m1.png",
-      "images/ws/ws-makaimura-title.png"
+      "images/ws/ws-makaimura-s1.webp",
+      "images/ws/ws-makaimura-x1.webp",
+      "images/ws/ws-makaimura-m1.webp",
+      "images/ws/ws-makaimura-title.webp"
     ],
-    "cover": "images/ws/ws-makaimura-box.jpg",
+    "cover": "images/ws/ws-makaimura-box.webp",
     "styleMatch": 1,
     "styleNote": "横版高难度动作，仅年代美术相近"
   },
@@ -596,14 +596,14 @@
     "editorScore": 8.0,
     "is2D": true,
     "screenshots": [
-      "images/ws/ws-chocobo-dungeon-s1.png",
-      "images/ws/ws-chocobo-dungeon-s2.png",
-      "images/ws/ws-chocobo-dungeon-m1.png",
-      "images/ws/ws-chocobo-dungeon-y1.png",
-      "images/ws/ws-chocobo-dungeon-y2.png",
-      "images/ws/ws-chocobo-dungeon-title.png"
+      "images/ws/ws-chocobo-dungeon-s1.webp",
+      "images/ws/ws-chocobo-dungeon-s2.webp",
+      "images/ws/ws-chocobo-dungeon-m1.webp",
+      "images/ws/ws-chocobo-dungeon-y1.webp",
+      "images/ws/ws-chocobo-dungeon-y2.webp",
+      "images/ws/ws-chocobo-dungeon-title.webp"
     ],
-    "cover": "images/ws/ws-chocobo-dungeon-box.jpg",
+    "cover": "images/ws/ws-chocobo-dungeon-box.webp",
     "styleMatch": 2,
     "styleNote": "俯视角随机迷宫，村庄要素很少"
   },
@@ -641,12 +641,12 @@
     "editorScore": 8.0,
     "is2D": true,
     "screenshots": [
-      "images/ws/ws-wild-card-s1.png",
-      "images/ws/ws-wild-card-x1.png",
-      "images/ws/ws-wild-card-m1.jpg",
-      "images/ws/ws-wild-card-title.png"
+      "images/ws/ws-wild-card-s1.webp",
+      "images/ws/ws-wild-card-x1.webp",
+      "images/ws/ws-wild-card-m1.webp",
+      "images/ws/ws-wild-card-title.webp"
     ],
-    "cover": "images/ws/ws-wild-card-box.jpg",
+    "cover": "images/ws/ws-wild-card-box.webp",
     "styleMatch": 1,
     "styleNote": "RPG但全以卡牌和静态插画呈现"
   },
@@ -680,10 +680,10 @@
     "screenshots": [
       "images/ws/ws-srt-compact-3-s1.png",
       "images/ws/ws-srt-compact-3-s2.png",
-      "images/ws/ws-srt-compact-3-m1.png",
-      "images/ws/ws-srt-compact-3-title.png"
+      "images/ws/ws-srt-compact-3-m1.webp",
+      "images/ws/ws-srt-compact-3-title.webp"
     ],
-    "cover": "images/ws/ws-srt-compact-3-box.jpg",
+    "cover": "images/ws/ws-srt-compact-3-box.webp",
     "styleMatch": 1,
     "styleNote": "机战战棋地图，无城镇探索"
   },
@@ -715,13 +715,13 @@
     "editorScore": 7.9,
     "is2D": true,
     "screenshots": [
-      "images/ws/ws-medarot-perfect-kabuto-s1.png",
-      "images/ws/ws-medarot-perfect-kabuto-x1.png",
-      "images/ws/ws-medarot-perfect-kabuto-m1.png",
-      "images/ws/ws-medarot-perfect-kabuto-y1.png",
-      "images/ws/ws-medarot-perfect-kabuto-title.png"
+      "images/ws/ws-medarot-perfect-kabuto-s1.webp",
+      "images/ws/ws-medarot-perfect-kabuto-x1.webp",
+      "images/ws/ws-medarot-perfect-kabuto-m1.webp",
+      "images/ws/ws-medarot-perfect-kabuto-y1.webp",
+      "images/ws/ws-medarot-perfect-kabuto-title.webp"
     ],
-    "cover": "images/ws/ws-medarot-perfect-kabuto-box.jpg",
+    "cover": "images/ws/ws-medarot-perfect-kabuto-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素小镇自由行走，宝可梦式"
   },
@@ -754,14 +754,14 @@
     "is2D": true,
     "screenshots": [
       "images/ws/ws-blue-wing-blitz-s1.png",
-      "images/ws/ws-blue-wing-blitz-x1.png",
-      "images/ws/ws-blue-wing-blitz-m1.png",
-      "images/ws/ws-blue-wing-blitz-m2.jpg",
-      "images/ws/ws-blue-wing-blitz-m3.jpg",
-      "images/ws/ws-blue-wing-blitz-m4.jpg",
-      "images/ws/ws-blue-wing-blitz-title.png"
+      "images/ws/ws-blue-wing-blitz-x1.webp",
+      "images/ws/ws-blue-wing-blitz-m1.webp",
+      "images/ws/ws-blue-wing-blitz-m2.webp",
+      "images/ws/ws-blue-wing-blitz-m3.webp",
+      "images/ws/ws-blue-wing-blitz-m4.webp",
+      "images/ws/ws-blue-wing-blitz-title.webp"
     ],
-    "cover": "images/ws/ws-blue-wing-blitz-box.jpg",
+    "cover": "images/ws/ws-blue-wing-blitz-box.webp",
     "styleMatch": 1,
     "styleNote": "空战战棋，没有城镇行走"
   },
@@ -793,11 +793,11 @@
     "editorScore": 7.8,
     "is2D": true,
     "screenshots": [
-      "images/ws/ws-rhyme-rider-kerorican-s1.png",
-      "images/ws/ws-rhyme-rider-kerorican-x1.png",
-      "images/ws/ws-rhyme-rider-kerorican-title.png"
+      "images/ws/ws-rhyme-rider-kerorican-s1.webp",
+      "images/ws/ws-rhyme-rider-kerorican-x1.webp",
+      "images/ws/ws-rhyme-rider-kerorican-title.webp"
     ],
-    "cover": "images/ws/ws-rhyme-rider-kerorican-box.jpg",
+    "cover": "images/ws/ws-rhyme-rider-kerorican-box.webp",
     "styleMatch": 0,
     "styleNote": "音乐节奏游戏"
   },
@@ -830,13 +830,13 @@
     "is2D": true,
     "screenshots": [
       "images/ws/ws-arc-the-lad-kishin-fukkatsu-s1.png",
-      "images/ws/ws-arc-the-lad-kishin-fukkatsu-x1.png",
-      "images/ws/ws-arc-the-lad-kishin-fukkatsu-y1.png",
+      "images/ws/ws-arc-the-lad-kishin-fukkatsu-x1.webp",
+      "images/ws/ws-arc-the-lad-kishin-fukkatsu-y1.webp",
       "images/ws/ws-arc-the-lad-kishin-fukkatsu-y2.png",
-      "images/ws/ws-arc-the-lad-kishin-fukkatsu-y3.png",
-      "images/ws/ws-arc-the-lad-kishin-fukkatsu-title.png"
+      "images/ws/ws-arc-the-lad-kishin-fukkatsu-y3.webp",
+      "images/ws/ws-arc-the-lad-kishin-fukkatsu-title.webp"
     ],
-    "cover": "images/ws/ws-arc-the-lad-kishin-fukkatsu-box.jpg",
+    "cover": "images/ws/ws-arc-the-lad-kishin-fukkatsu-box.webp",
     "styleMatch": 2,
     "styleNote": "城镇可俯视角行走，战斗为战棋"
   },
@@ -868,12 +868,12 @@
     "editorScore": 7.6,
     "is2D": true,
     "screenshots": [
-      "images/ws/ws-guilty-gear-petit-2-s1.png",
-      "images/ws/ws-guilty-gear-petit-2-x1.jpg",
-      "images/ws/ws-guilty-gear-petit-2-m1.jpg",
-      "images/ws/ws-guilty-gear-petit-2-title.png"
+      "images/ws/ws-guilty-gear-petit-2-s1.webp",
+      "images/ws/ws-guilty-gear-petit-2-x1.webp",
+      "images/ws/ws-guilty-gear-petit-2-m1.webp",
+      "images/ws/ws-guilty-gear-petit-2-title.webp"
     ],
-    "cover": "images/ws/ws-guilty-gear-petit-2-box.jpg",
+    "cover": "images/ws/ws-guilty-gear-petit-2-box.webp",
     "styleMatch": 0,
     "styleNote": "Q版格斗游戏"
   },
@@ -905,14 +905,14 @@
     "editorScore": 7.6,
     "is2D": true,
     "screenshots": [
-      "images/ws/ws-dark-eyes-s1.png",
-      "images/ws/ws-dark-eyes-x1.png",
-      "images/ws/ws-dark-eyes-y1.png",
-      "images/ws/ws-dark-eyes-y2.png",
-      "images/ws/ws-dark-eyes-y3.png",
-      "images/ws/ws-dark-eyes-title.png"
+      "images/ws/ws-dark-eyes-s1.webp",
+      "images/ws/ws-dark-eyes-x1.webp",
+      "images/ws/ws-dark-eyes-y1.webp",
+      "images/ws/ws-dark-eyes-y2.webp",
+      "images/ws/ws-dark-eyes-y3.webp",
+      "images/ws/ws-dark-eyes-title.webp"
     ],
-    "cover": "images/ws/ws-dark-eyes-box.jpg",
+    "cover": "images/ws/ws-dark-eyes-box.webp",
     "styleMatch": 2,
     "styleNote": "斜视角像素城镇，但核心是战棋"
   },
@@ -944,14 +944,14 @@
     "editorScore": 7.5,
     "is2D": true,
     "screenshots": [
-      "images/ws/ws-digimon-anode-tamer-s1.png",
+      "images/ws/ws-digimon-anode-tamer-s1.webp",
       "images/ws/ws-digimon-anode-tamer-x1.jpg",
-      "images/ws/ws-digimon-anode-tamer-m1.png",
-      "images/ws/ws-digimon-anode-tamer-y1.png",
-      "images/ws/ws-digimon-anode-tamer-y2.png",
-      "images/ws/ws-digimon-anode-tamer-title.png"
+      "images/ws/ws-digimon-anode-tamer-m1.webp",
+      "images/ws/ws-digimon-anode-tamer-y1.webp",
+      "images/ws/ws-digimon-anode-tamer-y2.webp",
+      "images/ws/ws-digimon-anode-tamer-title.webp"
     ],
-    "cover": "images/ws/ws-digimon-anode-tamer-box.jpg",
+    "cover": "images/ws/ws-digimon-anode-tamer-box.webp",
     "styleMatch": 2,
     "styleNote": "俯视角迷宫探索＋战术战斗"
   }

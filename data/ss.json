@@ -43,15 +43,15 @@
     "editorScore": 9.6,
     "is2D": true,
     "screenshots": [
-      "images/ss/ss-radiant-silvergun-s1.png",
-      "images/ss/ss-radiant-silvergun-x1.png",
-      "images/ss/ss-radiant-silvergun-x2.jpg",
-      "images/ss/ss-radiant-silvergun-m1.png",
-      "images/ss/ss-radiant-silvergun-m2.png",
-      "images/ss/ss-radiant-silvergun-m3.png",
-      "images/ss/ss-radiant-silvergun-title.png"
+      "images/ss/ss-radiant-silvergun-s1.webp",
+      "images/ss/ss-radiant-silvergun-x1.webp",
+      "images/ss/ss-radiant-silvergun-x2.webp",
+      "images/ss/ss-radiant-silvergun-m1.webp",
+      "images/ss/ss-radiant-silvergun-m2.webp",
+      "images/ss/ss-radiant-silvergun-m3.webp",
+      "images/ss/ss-radiant-silvergun-title.webp"
     ],
-    "cover": "images/ss/ss-radiant-silvergun-box.jpg",
+    "cover": "images/ss/ss-radiant-silvergun-box.webp",
     "styleMatch": 0,
     "styleNote": "纵版射击游戏"
   },
@@ -99,15 +99,15 @@
     "editorScore": 9.5,
     "is2D": true,
     "screenshots": [
-      "images/ss/ss-guardian-heroes-s1.png",
-      "images/ss/ss-guardian-heroes-m1.jpg",
-      "images/ss/ss-guardian-heroes-m2.jpg",
-      "images/ss/ss-guardian-heroes-m3.jpg",
-      "images/ss/ss-guardian-heroes-m4.jpg",
-      "images/ss/ss-guardian-heroes-m5.jpg",
-      "images/ss/ss-guardian-heroes-title.png"
+      "images/ss/ss-guardian-heroes-s1.webp",
+      "images/ss/ss-guardian-heroes-m1.webp",
+      "images/ss/ss-guardian-heroes-m2.webp",
+      "images/ss/ss-guardian-heroes-m3.webp",
+      "images/ss/ss-guardian-heroes-m4.webp",
+      "images/ss/ss-guardian-heroes-m5.webp",
+      "images/ss/ss-guardian-heroes-title.webp"
     ],
-    "cover": "images/ss/ss-guardian-heroes-box.jpg",
+    "cover": "images/ss/ss-guardian-heroes-box.webp",
     "styleMatch": 1,
     "styleNote": "像素清版动作，同时代美术风格"
   },
@@ -154,15 +154,15 @@
     "editorScore": 9.5,
     "is2D": false,
     "screenshots": [
-      "images/ss/ss-panzer-dragoon-saga-s1.png",
-      "images/ss/ss-panzer-dragoon-saga-s3.png",
-      "images/ss/ss-panzer-dragoon-saga-m1.png",
-      "images/ss/ss-panzer-dragoon-saga-m2.jpg",
-      "images/ss/ss-panzer-dragoon-saga-m3.jpg",
-      "images/ss/ss-panzer-dragoon-saga-m4.jpg",
-      "images/ss/ss-panzer-dragoon-saga-title.png"
+      "images/ss/ss-panzer-dragoon-saga-s1.webp",
+      "images/ss/ss-panzer-dragoon-saga-s3.webp",
+      "images/ss/ss-panzer-dragoon-saga-m1.webp",
+      "images/ss/ss-panzer-dragoon-saga-m2.webp",
+      "images/ss/ss-panzer-dragoon-saga-m3.webp",
+      "images/ss/ss-panzer-dragoon-saga-m4.webp",
+      "images/ss/ss-panzer-dragoon-saga-title.webp"
     ],
-    "cover": "images/ss/ss-panzer-dragoon-saga-box.jpg",
+    "cover": "images/ss/ss-panzer-dragoon-saga-box.webp",
     "styleMatch": 0,
     "styleNote": "全3D画面的飞龙RPG"
   },
@@ -209,15 +209,15 @@
     "editorScore": 9.4,
     "is2D": false,
     "screenshots": [
-      "images/ss/ss-shining-force-3-s1.png",
-      "images/ss/ss-shining-force-3-x1.jpg",
-      "images/ss/ss-shining-force-3-x2.jpg",
-      "images/ss/ss-shining-force-3-m1.png",
-      "images/ss/ss-shining-force-3-m2.png",
-      "images/ss/ss-shining-force-3-m3.png",
-      "images/ss/ss-shining-force-3-title.png"
+      "images/ss/ss-shining-force-3-s1.webp",
+      "images/ss/ss-shining-force-3-x1.webp",
+      "images/ss/ss-shining-force-3-x2.webp",
+      "images/ss/ss-shining-force-3-m1.webp",
+      "images/ss/ss-shining-force-3-m2.webp",
+      "images/ss/ss-shining-force-3-m3.webp",
+      "images/ss/ss-shining-force-3-title.webp"
     ],
-    "cover": "images/ss/ss-shining-force-3-box.jpg",
+    "cover": "images/ss/ss-shining-force-3-box.webp",
     "styleMatch": 2,
     "styleNote": "有城镇的战棋RPG，但为3D多边形"
   },
@@ -264,14 +264,14 @@
     "editorScore": 9.3,
     "is2D": false,
     "screenshots": [
-      "images/ss/ss-grandia-s1.png",
-      "images/ss/ss-grandia-x1.png",
-      "images/ss/ss-grandia-x2.png",
-      "images/ss/ss-grandia-m1.png",
-      "images/ss/ss-grandia-m2.png",
-      "images/ss/ss-grandia-title.png"
+      "images/ss/ss-grandia-s1.webp",
+      "images/ss/ss-grandia-x1.webp",
+      "images/ss/ss-grandia-x2.webp",
+      "images/ss/ss-grandia-m1.webp",
+      "images/ss/ss-grandia-m2.webp",
+      "images/ss/ss-grandia-title.webp"
     ],
-    "cover": "images/ss/ss-grandia-box.jpg",
+    "cover": "images/ss/ss-grandia-box.webp",
     "styleMatch": 2,
     "styleNote": "有城镇冒险，但场景为可旋转3D"
   },
@@ -318,15 +318,15 @@
     "editorScore": 9.2,
     "is2D": true,
     "screenshots": [
-      "images/ss/ss-dragon-force-s1.png",
-      "images/ss/ss-dragon-force-s2.png",
-      "images/ss/ss-dragon-force-m1.jpg",
-      "images/ss/ss-dragon-force-m2.jpg",
-      "images/ss/ss-dragon-force-m3.jpg",
-      "images/ss/ss-dragon-force-m4.jpg",
-      "images/ss/ss-dragon-force-title.png"
+      "images/ss/ss-dragon-force-s1.webp",
+      "images/ss/ss-dragon-force-s2.webp",
+      "images/ss/ss-dragon-force-m1.webp",
+      "images/ss/ss-dragon-force-m2.webp",
+      "images/ss/ss-dragon-force-m3.webp",
+      "images/ss/ss-dragon-force-m4.webp",
+      "images/ss/ss-dragon-force-title.webp"
     ],
-    "cover": "images/ss/ss-dragon-force-box.jpg",
+    "cover": "images/ss/ss-dragon-force-box.webp",
     "styleMatch": 2,
     "styleNote": "像素战略RPG，城堡内政代替城镇"
   },
@@ -373,13 +373,13 @@
     "editorScore": 9.2,
     "is2D": true,
     "screenshots": [
-      "images/ss/ss-lunar-2-eternal-blue-s1.png",
-      "images/ss/ss-lunar-2-eternal-blue-x1.jpg",
-      "images/ss/ss-lunar-2-eternal-blue-x2.jpg",
-      "images/ss/ss-lunar-2-eternal-blue-m1.jpg",
-      "images/ss/ss-lunar-2-eternal-blue-title.png"
+      "images/ss/ss-lunar-2-eternal-blue-s1.webp",
+      "images/ss/ss-lunar-2-eternal-blue-x1.webp",
+      "images/ss/ss-lunar-2-eternal-blue-x2.webp",
+      "images/ss/ss-lunar-2-eternal-blue-m1.webp",
+      "images/ss/ss-lunar-2-eternal-blue-title.webp"
     ],
-    "cover": "images/ss/ss-lunar-2-eternal-blue-box.jpg",
+    "cover": "images/ss/ss-lunar-2-eternal-blue-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素RPG，城镇冒险正宗同款"
   },
@@ -421,15 +421,15 @@
     "editorScore": 9.1,
     "is2D": true,
     "screenshots": [
-      "images/ss/ss-princess-crown-s1.png",
-      "images/ss/ss-princess-crown-x1.png",
-      "images/ss/ss-princess-crown-m1.png",
-      "images/ss/ss-princess-crown-m2.png",
-      "images/ss/ss-princess-crown-m3.jpg",
-      "images/ss/ss-princess-crown-m4.jpg",
-      "images/ss/ss-princess-crown-title.png"
+      "images/ss/ss-princess-crown-s1.webp",
+      "images/ss/ss-princess-crown-x1.webp",
+      "images/ss/ss-princess-crown-m1.webp",
+      "images/ss/ss-princess-crown-m2.webp",
+      "images/ss/ss-princess-crown-m3.webp",
+      "images/ss/ss-princess-crown-m4.webp",
+      "images/ss/ss-princess-crown-title.webp"
     ],
-    "cover": "images/ss/ss-princess-crown-box.jpg",
+    "cover": "images/ss/ss-princess-crown-box.webp",
     "styleMatch": 2,
     "styleNote": "横版视角的像素ARPG，有城镇"
   },
@@ -466,14 +466,14 @@
     "editorScore": 9.1,
     "is2D": true,
     "screenshots": [
-      "images/ss/ss-vampire-savior-s1.png",
-      "images/ss/ss-vampire-savior-x1.jpg",
-      "images/ss/ss-vampire-savior-x2.jpg",
-      "images/ss/ss-vampire-savior-m1.png",
-      "images/ss/ss-vampire-savior-m2.png",
-      "images/ss/ss-vampire-savior-title.png"
+      "images/ss/ss-vampire-savior-s1.webp",
+      "images/ss/ss-vampire-savior-x1.webp",
+      "images/ss/ss-vampire-savior-x2.webp",
+      "images/ss/ss-vampire-savior-m1.webp",
+      "images/ss/ss-vampire-savior-m2.webp",
+      "images/ss/ss-vampire-savior-title.webp"
     ],
-    "cover": "images/ss/ss-vampire-savior-box.jpg",
+    "cover": "images/ss/ss-vampire-savior-box.webp",
     "styleMatch": 0,
     "styleNote": "2D格斗游戏"
   },
@@ -515,13 +515,13 @@
     "editorScore": 9.0,
     "is2D": true,
     "screenshots": [
-      "images/ss/ss-tactics-ogre-s1.png",
-      "images/ss/ss-tactics-ogre-x1.png",
-      "images/ss/ss-tactics-ogre-m1.png",
-      "images/ss/ss-tactics-ogre-m2.png",
-      "images/ss/ss-tactics-ogre-title.png"
+      "images/ss/ss-tactics-ogre-s1.webp",
+      "images/ss/ss-tactics-ogre-x1.webp",
+      "images/ss/ss-tactics-ogre-m1.webp",
+      "images/ss/ss-tactics-ogre-m2.webp",
+      "images/ss/ss-tactics-ogre-title.webp"
     ],
-    "cover": "images/ss/ss-tactics-ogre-box.jpg",
+    "cover": "images/ss/ss-tactics-ogre-box.webp",
     "styleMatch": 2,
     "styleNote": "像素战棋RPG，斜视角战场无城镇漫步"
   },
@@ -558,15 +558,15 @@
     "editorScore": 9.0,
     "is2D": true,
     "screenshots": [
-      "images/ss/ss-sakura-wars-2-s1.png",
-      "images/ss/ss-sakura-wars-2-x1.jpg",
-      "images/ss/ss-sakura-wars-2-x2.jpg",
-      "images/ss/ss-sakura-wars-2-m1.jpg",
-      "images/ss/ss-sakura-wars-2-m2.jpg",
-      "images/ss/ss-sakura-wars-2-m3.jpg",
-      "images/ss/ss-sakura-wars-2-title.png"
+      "images/ss/ss-sakura-wars-2-s1.webp",
+      "images/ss/ss-sakura-wars-2-x1.webp",
+      "images/ss/ss-sakura-wars-2-x2.webp",
+      "images/ss/ss-sakura-wars-2-m1.webp",
+      "images/ss/ss-sakura-wars-2-m2.webp",
+      "images/ss/ss-sakura-wars-2-m3.webp",
+      "images/ss/ss-sakura-wars-2-title.webp"
     ],
-    "cover": "images/ss/ss-sakura-wars-2-box.jpg",
+    "cover": "images/ss/ss-sakura-wars-2-box.webp",
     "styleMatch": 1,
     "styleNote": "恋爱冒险+战棋，非自由探索"
   },
@@ -608,15 +608,15 @@
     "editorScore": 9.0,
     "is2D": true,
     "screenshots": [
-      "images/ss/ss-sf-zero-3-s1.png",
-      "images/ss/ss-sf-zero-3-x1.png",
-      "images/ss/ss-sf-zero-3-x2.png",
-      "images/ss/ss-sf-zero-3-m1.png",
-      "images/ss/ss-sf-zero-3-m2.png",
-      "images/ss/ss-sf-zero-3-m3.png",
-      "images/ss/ss-sf-zero-3-title.png"
+      "images/ss/ss-sf-zero-3-s1.webp",
+      "images/ss/ss-sf-zero-3-x1.webp",
+      "images/ss/ss-sf-zero-3-x2.webp",
+      "images/ss/ss-sf-zero-3-m1.webp",
+      "images/ss/ss-sf-zero-3-m2.webp",
+      "images/ss/ss-sf-zero-3-m3.webp",
+      "images/ss/ss-sf-zero-3-title.webp"
     ],
-    "cover": "images/ss/ss-sf-zero-3-box.jpg",
+    "cover": "images/ss/ss-sf-zero-3-box.webp",
     "styleMatch": 0,
     "styleNote": "2D格斗游戏"
   },
@@ -663,15 +663,15 @@
     "editorScore": 9.0,
     "is2D": false,
     "screenshots": [
-      "images/ss/ss-nights-s1.png",
-      "images/ss/ss-nights-m1.png",
-      "images/ss/ss-nights-m2.png",
-      "images/ss/ss-nights-m3.png",
-      "images/ss/ss-nights-m4.png",
-      "images/ss/ss-nights-m5.png",
-      "images/ss/ss-nights-title.png"
+      "images/ss/ss-nights-s1.webp",
+      "images/ss/ss-nights-m1.webp",
+      "images/ss/ss-nights-m2.webp",
+      "images/ss/ss-nights-m3.webp",
+      "images/ss/ss-nights-m4.webp",
+      "images/ss/ss-nights-m5.webp",
+      "images/ss/ss-nights-title.webp"
     ],
-    "cover": "images/ss/ss-nights-box.jpg",
+    "cover": "images/ss/ss-nights-box.webp",
     "styleMatch": 0,
     "styleNote": "3D场景的飞行动作"
   },
@@ -708,16 +708,16 @@
     "editorScore": 8.9,
     "is2D": true,
     "screenshots": [
-      "images/ss/ss-castlevania-sotn-s1.png",
-      "images/ss/ss-castlevania-sotn-x1.png",
-      "images/ss/ss-castlevania-sotn-x2.png",
-      "images/ss/ss-castlevania-sotn-y1.jpg",
-      "images/ss/ss-castlevania-sotn-y2.jpg",
-      "images/ss/ss-castlevania-sotn-y3.png",
-      "images/ss/ss-castlevania-sotn-y4.png",
-      "images/ss/ss-castlevania-sotn-title.png"
+      "images/ss/ss-castlevania-sotn-s1.webp",
+      "images/ss/ss-castlevania-sotn-x1.webp",
+      "images/ss/ss-castlevania-sotn-x2.webp",
+      "images/ss/ss-castlevania-sotn-y1.webp",
+      "images/ss/ss-castlevania-sotn-y2.webp",
+      "images/ss/ss-castlevania-sotn-y3.webp",
+      "images/ss/ss-castlevania-sotn-y4.webp",
+      "images/ss/ss-castlevania-sotn-title.webp"
     ],
-    "cover": "images/ss/ss-castlevania-sotn-box.jpg",
+    "cover": "images/ss/ss-castlevania-sotn-box.webp",
     "styleMatch": 2,
     "styleNote": "带商店的银河恶魔城，横版视角"
   },
@@ -764,15 +764,15 @@
     "editorScore": 8.9,
     "is2D": true,
     "screenshots": [
-      "images/ss/ss-sakura-wars-s1.png",
-      "images/ss/ss-sakura-wars-x1.png",
-      "images/ss/ss-sakura-wars-m1.png",
-      "images/ss/ss-sakura-wars-m2.png",
-      "images/ss/ss-sakura-wars-m3.png",
-      "images/ss/ss-sakura-wars-m4.jpg",
-      "images/ss/ss-sakura-wars-title.png"
+      "images/ss/ss-sakura-wars-s1.webp",
+      "images/ss/ss-sakura-wars-x1.webp",
+      "images/ss/ss-sakura-wars-m1.webp",
+      "images/ss/ss-sakura-wars-m2.webp",
+      "images/ss/ss-sakura-wars-m3.webp",
+      "images/ss/ss-sakura-wars-m4.webp",
+      "images/ss/ss-sakura-wars-title.webp"
     ],
-    "cover": "images/ss/ss-sakura-wars-box.jpg",
+    "cover": "images/ss/ss-sakura-wars-box.webp",
     "styleMatch": 1,
     "styleNote": "恋爱冒险+战棋，非自由探索"
   },
@@ -819,15 +819,15 @@
     "editorScore": 8.9,
     "is2D": true,
     "screenshots": [
-      "images/ss/ss-xmen-vs-sf-s1.png",
-      "images/ss/ss-xmen-vs-sf-s2.png",
-      "images/ss/ss-xmen-vs-sf-m1.png",
-      "images/ss/ss-xmen-vs-sf-m2.png",
-      "images/ss/ss-xmen-vs-sf-m3.png",
-      "images/ss/ss-xmen-vs-sf-m4.jpg",
-      "images/ss/ss-xmen-vs-sf-title.png"
+      "images/ss/ss-xmen-vs-sf-s1.webp",
+      "images/ss/ss-xmen-vs-sf-s2.webp",
+      "images/ss/ss-xmen-vs-sf-m1.webp",
+      "images/ss/ss-xmen-vs-sf-m2.webp",
+      "images/ss/ss-xmen-vs-sf-m3.webp",
+      "images/ss/ss-xmen-vs-sf-m4.webp",
+      "images/ss/ss-xmen-vs-sf-title.webp"
     ],
-    "cover": "images/ss/ss-xmen-vs-sf-box.jpg",
+    "cover": "images/ss/ss-xmen-vs-sf-box.webp",
     "styleMatch": 0,
     "styleNote": "2D格斗游戏"
   },
@@ -859,12 +859,12 @@
     "editorScore": 8.8,
     "is2D": true,
     "screenshots": [
-      "images/ss/ss-dnd-collection-s1.png",
-      "images/ss/ss-dnd-collection-x1.png",
-      "images/ss/ss-dnd-collection-m1.png",
-      "images/ss/ss-dnd-collection-title.png"
+      "images/ss/ss-dnd-collection-s1.webp",
+      "images/ss/ss-dnd-collection-x1.webp",
+      "images/ss/ss-dnd-collection-m1.webp",
+      "images/ss/ss-dnd-collection-title.webp"
     ],
-    "cover": "images/ss/ss-dnd-collection-box.jpg",
+    "cover": "images/ss/ss-dnd-collection-box.webp",
     "styleMatch": 1,
     "styleNote": "像素清版动作，带RPG要素"
   },
@@ -911,15 +911,15 @@
     "editorScore": 8.8,
     "is2D": true,
     "screenshots": [
-      "images/ss/ss-legend-of-oasis-s1.png",
-      "images/ss/ss-legend-of-oasis-x1.jpg",
-      "images/ss/ss-legend-of-oasis-x2.jpg",
-      "images/ss/ss-legend-of-oasis-m1.png",
-      "images/ss/ss-legend-of-oasis-m2.jpg",
-      "images/ss/ss-legend-of-oasis-m3.jpg",
-      "images/ss/ss-legend-of-oasis-title.png"
+      "images/ss/ss-legend-of-oasis-s1.webp",
+      "images/ss/ss-legend-of-oasis-x1.webp",
+      "images/ss/ss-legend-of-oasis-x2.webp",
+      "images/ss/ss-legend-of-oasis-m1.webp",
+      "images/ss/ss-legend-of-oasis-m2.webp",
+      "images/ss/ss-legend-of-oasis-m3.webp",
+      "images/ss/ss-legend-of-oasis-title.webp"
     ],
-    "cover": "images/ss/ss-legend-of-oasis-box.jpg",
+    "cover": "images/ss/ss-legend-of-oasis-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素ARPG，城镇与原野自由探索"
   },
@@ -961,12 +961,12 @@
     "editorScore": 8.8,
     "is2D": true,
     "screenshots": [
-      "images/ss/ss-dodonpachi-s1.png",
-      "images/ss/ss-dodonpachi-x1.png",
-      "images/ss/ss-dodonpachi-x2.png",
-      "images/ss/ss-dodonpachi-title.png"
+      "images/ss/ss-dodonpachi-s1.webp",
+      "images/ss/ss-dodonpachi-x1.webp",
+      "images/ss/ss-dodonpachi-x2.webp",
+      "images/ss/ss-dodonpachi-title.webp"
     ],
-    "cover": "images/ss/ss-dodonpachi-box.jpg",
+    "cover": "images/ss/ss-dodonpachi-box.webp",
     "styleMatch": 0,
     "styleNote": "纵版弹幕射击"
   },
@@ -1013,15 +1013,15 @@
     "editorScore": 8.8,
     "is2D": true,
     "screenshots": [
-      "images/ss/ss-silhouette-mirage-s1.png",
-      "images/ss/ss-silhouette-mirage-m1.png",
-      "images/ss/ss-silhouette-mirage-m2.png",
-      "images/ss/ss-silhouette-mirage-m3.png",
-      "images/ss/ss-silhouette-mirage-m4.png",
-      "images/ss/ss-silhouette-mirage-m5.png",
-      "images/ss/ss-silhouette-mirage-title.png"
+      "images/ss/ss-silhouette-mirage-s1.webp",
+      "images/ss/ss-silhouette-mirage-m1.webp",
+      "images/ss/ss-silhouette-mirage-m2.webp",
+      "images/ss/ss-silhouette-mirage-m3.webp",
+      "images/ss/ss-silhouette-mirage-m4.webp",
+      "images/ss/ss-silhouette-mirage-m5.webp",
+      "images/ss/ss-silhouette-mirage-title.webp"
     ],
-    "cover": "images/ss/ss-silhouette-mirage-box.jpg",
+    "cover": "images/ss/ss-silhouette-mirage-box.webp",
     "styleMatch": 1,
     "styleNote": "横版像素动作游戏"
   },
@@ -1068,14 +1068,14 @@
     "editorScore": 8.7,
     "is2D": true,
     "screenshots": [
-      "images/ss/ss-saturn-bomberman-s1.png",
-      "images/ss/ss-saturn-bomberman-s2.png",
-      "images/ss/ss-saturn-bomberman-m1.jpg",
-      "images/ss/ss-saturn-bomberman-m2.png",
-      "images/ss/ss-saturn-bomberman-m3.jpg",
-      "images/ss/ss-saturn-bomberman-title.png"
+      "images/ss/ss-saturn-bomberman-s1.webp",
+      "images/ss/ss-saturn-bomberman-s2.webp",
+      "images/ss/ss-saturn-bomberman-m1.webp",
+      "images/ss/ss-saturn-bomberman-m2.webp",
+      "images/ss/ss-saturn-bomberman-m3.webp",
+      "images/ss/ss-saturn-bomberman-title.webp"
     ],
-    "cover": "images/ss/ss-saturn-bomberman-box.jpg",
+    "cover": "images/ss/ss-saturn-bomberman-box.webp",
     "styleMatch": 1,
     "styleNote": "俯视角像素动作，但无探索"
   },
@@ -1117,13 +1117,13 @@
     "editorScore": 8.7,
     "is2D": false,
     "screenshots": [
-      "images/ss/ss-devil-summoner-s1.png",
-      "images/ss/ss-devil-summoner-x1.png",
-      "images/ss/ss-devil-summoner-m1.png",
-      "images/ss/ss-devil-summoner-m2.png",
-      "images/ss/ss-devil-summoner-title.png"
+      "images/ss/ss-devil-summoner-s1.webp",
+      "images/ss/ss-devil-summoner-x1.webp",
+      "images/ss/ss-devil-summoner-m1.webp",
+      "images/ss/ss-devil-summoner-m2.webp",
+      "images/ss/ss-devil-summoner-title.webp"
     ],
-    "cover": "images/ss/ss-devil-summoner-box.jpg",
+    "cover": "images/ss/ss-devil-summoner-box.webp",
     "styleMatch": 2,
     "styleNote": "第一人称迷宫RPG，城市地图俯视"
   },
@@ -1154,17 +1154,17 @@
     "editorScore": 8.7,
     "is2D": true,
     "screenshots": [
-      "images/ss/ss-phantasy-star-collection-s1.png",
-      "images/ss/ss-phantasy-star-collection-x1.png",
-      "images/ss/ss-phantasy-star-collection-x2.png",
-      "images/ss/ss-phantasy-star-collection-y1.jpg",
-      "images/ss/ss-phantasy-star-collection-y2.jpg",
-      "images/ss/ss-phantasy-star-collection-y3.png",
-      "images/ss/ss-phantasy-star-collection-y4.png",
-      "images/ss/ss-phantasy-star-collection-y5.jpg",
-      "images/ss/ss-phantasy-star-collection-title.png"
+      "images/ss/ss-phantasy-star-collection-s1.webp",
+      "images/ss/ss-phantasy-star-collection-x1.webp",
+      "images/ss/ss-phantasy-star-collection-x2.webp",
+      "images/ss/ss-phantasy-star-collection-y1.webp",
+      "images/ss/ss-phantasy-star-collection-y2.webp",
+      "images/ss/ss-phantasy-star-collection-y3.webp",
+      "images/ss/ss-phantasy-star-collection-y4.webp",
+      "images/ss/ss-phantasy-star-collection-y5.webp",
+      "images/ss/ss-phantasy-star-collection-title.webp"
     ],
-    "cover": "images/ss/ss-phantasy-star-collection-box.jpg",
+    "cover": "images/ss/ss-phantasy-star-collection-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素RPG合集，城镇探索经典"
   },
@@ -1206,14 +1206,14 @@
     "editorScore": 8.6,
     "is2D": true,
     "screenshots": [
-      "images/ss/ss-tengai-makyou-4-s1.png",
-      "images/ss/ss-tengai-makyou-4-x1.png",
-      "images/ss/ss-tengai-makyou-4-m1.png",
-      "images/ss/ss-tengai-makyou-4-m2.png",
-      "images/ss/ss-tengai-makyou-4-m3.png",
-      "images/ss/ss-tengai-makyou-4-title.png"
+      "images/ss/ss-tengai-makyou-4-s1.webp",
+      "images/ss/ss-tengai-makyou-4-x1.webp",
+      "images/ss/ss-tengai-makyou-4-m1.webp",
+      "images/ss/ss-tengai-makyou-4-m2.webp",
+      "images/ss/ss-tengai-makyou-4-m3.webp",
+      "images/ss/ss-tengai-makyou-4-title.webp"
     ],
-    "cover": "images/ss/ss-tengai-makyou-4-box.jpg",
+    "cover": "images/ss/ss-tengai-makyou-4-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素RPG，可逛城镇与原野"
   },
@@ -1260,11 +1260,11 @@
     "editorScore": 8.6,
     "is2D": true,
     "screenshots": [
-      "images/ss/ss-darius-gaiden-s1.png",
-      "images/ss/ss-darius-gaiden-s2.png",
-      "images/ss/ss-darius-gaiden-title.png"
+      "images/ss/ss-darius-gaiden-s1.webp",
+      "images/ss/ss-darius-gaiden-s2.webp",
+      "images/ss/ss-darius-gaiden-title.webp"
     ],
-    "cover": "images/ss/ss-darius-gaiden-box.jpg",
+    "cover": "images/ss/ss-darius-gaiden-box.webp",
     "styleMatch": 0,
     "styleNote": "横版射击游戏"
   },
@@ -1295,15 +1295,15 @@
     "editorScore": 8.6,
     "is2D": true,
     "screenshots": [
-      "images/ss/ss-super-robot-wars-f-s1.png",
-      "images/ss/ss-super-robot-wars-f-x1.png",
-      "images/ss/ss-super-robot-wars-f-m1.png",
-      "images/ss/ss-super-robot-wars-f-m2.png",
-      "images/ss/ss-super-robot-wars-f-m3.png",
-      "images/ss/ss-super-robot-wars-f-m4.jpg",
-      "images/ss/ss-super-robot-wars-f-title.png"
+      "images/ss/ss-super-robot-wars-f-s1.webp",
+      "images/ss/ss-super-robot-wars-f-x1.webp",
+      "images/ss/ss-super-robot-wars-f-m1.webp",
+      "images/ss/ss-super-robot-wars-f-m2.webp",
+      "images/ss/ss-super-robot-wars-f-m3.webp",
+      "images/ss/ss-super-robot-wars-f-m4.webp",
+      "images/ss/ss-super-robot-wars-f-title.webp"
     ],
-    "cover": "images/ss/ss-super-robot-wars-f-box.jpg",
+    "cover": "images/ss/ss-super-robot-wars-f-box.webp",
     "styleMatch": 1,
     "styleNote": "像素战棋，无城镇探索"
   },
@@ -1345,15 +1345,15 @@
     "editorScore": 8.6,
     "is2D": true,
     "screenshots": [
-      "images/ss/ss-thunder-force-5-s1.png",
-      "images/ss/ss-thunder-force-5-x1.png",
-      "images/ss/ss-thunder-force-5-m1.png",
-      "images/ss/ss-thunder-force-5-m2.png",
-      "images/ss/ss-thunder-force-5-m3.png",
-      "images/ss/ss-thunder-force-5-m4.png",
-      "images/ss/ss-thunder-force-5-title.png"
+      "images/ss/ss-thunder-force-5-s1.webp",
+      "images/ss/ss-thunder-force-5-x1.webp",
+      "images/ss/ss-thunder-force-5-m1.webp",
+      "images/ss/ss-thunder-force-5-m2.webp",
+      "images/ss/ss-thunder-force-5-m3.webp",
+      "images/ss/ss-thunder-force-5-m4.webp",
+      "images/ss/ss-thunder-force-5-title.webp"
     ],
-    "cover": "images/ss/ss-thunder-force-5-box.jpg",
+    "cover": "images/ss/ss-thunder-force-5-box.webp",
     "styleMatch": 0,
     "styleNote": "横版射击游戏"
   },
@@ -1395,15 +1395,15 @@
     "editorScore": 8.6,
     "is2D": true,
     "screenshots": [
-      "images/ss/ss-metal-slug-s1.png",
-      "images/ss/ss-metal-slug-x1.png",
-      "images/ss/ss-metal-slug-m1.png",
-      "images/ss/ss-metal-slug-m2.png",
-      "images/ss/ss-metal-slug-m3.png",
-      "images/ss/ss-metal-slug-m4.png",
-      "images/ss/ss-metal-slug-title.png"
+      "images/ss/ss-metal-slug-s1.webp",
+      "images/ss/ss-metal-slug-x1.webp",
+      "images/ss/ss-metal-slug-m1.webp",
+      "images/ss/ss-metal-slug-m2.webp",
+      "images/ss/ss-metal-slug-m3.webp",
+      "images/ss/ss-metal-slug-m4.webp",
+      "images/ss/ss-metal-slug-title.webp"
     ],
-    "cover": "images/ss/ss-metal-slug-box.jpg",
+    "cover": "images/ss/ss-metal-slug-box.webp",
     "styleMatch": 1,
     "styleNote": "横版像素射击动作"
   },
@@ -1440,15 +1440,15 @@
     "editorScore": 8.5,
     "is2D": true,
     "screenshots": [
-      "images/ss/ss-lunar-sssc-s1.png",
-      "images/ss/ss-lunar-sssc-x1.jpg",
-      "images/ss/ss-lunar-sssc-x2.jpg",
-      "images/ss/ss-lunar-sssc-y1.jpg",
-      "images/ss/ss-lunar-sssc-y2.png",
-      "images/ss/ss-lunar-sssc-y3.jpg",
-      "images/ss/ss-lunar-sssc-title.png"
+      "images/ss/ss-lunar-sssc-s1.webp",
+      "images/ss/ss-lunar-sssc-x1.webp",
+      "images/ss/ss-lunar-sssc-x2.webp",
+      "images/ss/ss-lunar-sssc-y1.webp",
+      "images/ss/ss-lunar-sssc-y2.webp",
+      "images/ss/ss-lunar-sssc-y3.webp",
+      "images/ss/ss-lunar-sssc-title.webp"
     ],
-    "cover": "images/ss/ss-lunar-sssc-box.jpg",
+    "cover": "images/ss/ss-lunar-sssc-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素RPG，城镇村庄自由漫步"
   },
@@ -1490,13 +1490,13 @@
     "editorScore": 8.5,
     "is2D": true,
     "screenshots": [
-      "images/ss/ss-kof-97-s1.png",
-      "images/ss/ss-kof-97-x1.png",
-      "images/ss/ss-kof-97-x2.png",
-      "images/ss/ss-kof-97-m1.png",
-      "images/ss/ss-kof-97-title.png"
+      "images/ss/ss-kof-97-s1.webp",
+      "images/ss/ss-kof-97-x1.webp",
+      "images/ss/ss-kof-97-x2.webp",
+      "images/ss/ss-kof-97-m1.webp",
+      "images/ss/ss-kof-97-title.webp"
     ],
-    "cover": "images/ss/ss-kof-97-box.jpg",
+    "cover": "images/ss/ss-kof-97-box.webp",
     "styleMatch": 0,
     "styleNote": "2D格斗游戏"
   },
@@ -1533,16 +1533,16 @@
     "editorScore": 8.5,
     "is2D": true,
     "screenshots": [
-      "images/ss/ss-falcom-classics-2-s1.png",
-      "images/ss/ss-falcom-classics-2-x1.png",
-      "images/ss/ss-falcom-classics-2-x2.png",
-      "images/ss/ss-falcom-classics-2-y1.png",
-      "images/ss/ss-falcom-classics-2-y2.jpg",
-      "images/ss/ss-falcom-classics-2-y3.png",
-      "images/ss/ss-falcom-classics-2-y4.png",
-      "images/ss/ss-falcom-classics-2-title.png"
+      "images/ss/ss-falcom-classics-2-s1.webp",
+      "images/ss/ss-falcom-classics-2-x1.webp",
+      "images/ss/ss-falcom-classics-2-x2.webp",
+      "images/ss/ss-falcom-classics-2-y1.webp",
+      "images/ss/ss-falcom-classics-2-y2.webp",
+      "images/ss/ss-falcom-classics-2-y3.webp",
+      "images/ss/ss-falcom-classics-2-y4.webp",
+      "images/ss/ss-falcom-classics-2-title.webp"
     ],
-    "cover": "images/ss/ss-falcom-classics-2-box.jpg",
+    "cover": "images/ss/ss-falcom-classics-2-box.webp",
     "styleMatch": 3,
     "styleNote": "伊苏II俯视角像素ARPG，城镇齐全"
   },
@@ -1589,15 +1589,15 @@
     "editorScore": 8.4,
     "is2D": true,
     "screenshots": [
-      "images/ss/ss-albert-odyssey-s1.png",
-      "images/ss/ss-albert-odyssey-x1.jpg",
-      "images/ss/ss-albert-odyssey-x2.jpg",
-      "images/ss/ss-albert-odyssey-m1.png",
-      "images/ss/ss-albert-odyssey-m2.png",
-      "images/ss/ss-albert-odyssey-m3.jpg",
-      "images/ss/ss-albert-odyssey-title.png"
+      "images/ss/ss-albert-odyssey-s1.webp",
+      "images/ss/ss-albert-odyssey-x1.webp",
+      "images/ss/ss-albert-odyssey-x2.webp",
+      "images/ss/ss-albert-odyssey-m1.webp",
+      "images/ss/ss-albert-odyssey-m2.webp",
+      "images/ss/ss-albert-odyssey-m3.webp",
+      "images/ss/ss-albert-odyssey-title.webp"
     ],
-    "cover": "images/ss/ss-albert-odyssey-box.jpg",
+    "cover": "images/ss/ss-albert-odyssey-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素RPG，城镇商店一应俱全"
   },
@@ -1634,14 +1634,14 @@
     "editorScore": 8.4,
     "is2D": true,
     "screenshots": [
-      "images/ss/ss-soukyugurentai-s1.png",
-      "images/ss/ss-soukyugurentai-s2.png",
-      "images/ss/ss-soukyugurentai-m1.png",
-      "images/ss/ss-soukyugurentai-m2.png",
-      "images/ss/ss-soukyugurentai-m3.png",
-      "images/ss/ss-soukyugurentai-title.png"
+      "images/ss/ss-soukyugurentai-s1.webp",
+      "images/ss/ss-soukyugurentai-s2.webp",
+      "images/ss/ss-soukyugurentai-m1.webp",
+      "images/ss/ss-soukyugurentai-m2.webp",
+      "images/ss/ss-soukyugurentai-m3.webp",
+      "images/ss/ss-soukyugurentai-title.webp"
     ],
-    "cover": "images/ss/ss-soukyugurentai-box.jpg",
+    "cover": "images/ss/ss-soukyugurentai-box.webp",
     "styleMatch": 0,
     "styleNote": "纵版射击游戏"
   },
@@ -1672,15 +1672,15 @@
     "editorScore": 8.4,
     "is2D": true,
     "screenshots": [
-      "images/ss/ss-puyo-puyo-sun-s1.png",
-      "images/ss/ss-puyo-puyo-sun-m1.jpg",
-      "images/ss/ss-puyo-puyo-sun-m2.jpg",
-      "images/ss/ss-puyo-puyo-sun-m3.jpg",
-      "images/ss/ss-puyo-puyo-sun-m4.jpg",
-      "images/ss/ss-puyo-puyo-sun-m5.jpg",
-      "images/ss/ss-puyo-puyo-sun-title.png"
+      "images/ss/ss-puyo-puyo-sun-s1.webp",
+      "images/ss/ss-puyo-puyo-sun-m1.webp",
+      "images/ss/ss-puyo-puyo-sun-m2.webp",
+      "images/ss/ss-puyo-puyo-sun-m3.webp",
+      "images/ss/ss-puyo-puyo-sun-m4.webp",
+      "images/ss/ss-puyo-puyo-sun-m5.webp",
+      "images/ss/ss-puyo-puyo-sun-title.webp"
     ],
-    "cover": "images/ss/ss-puyo-puyo-sun-box.jpg",
+    "cover": "images/ss/ss-puyo-puyo-sun-box.webp",
     "styleMatch": 0,
     "styleNote": "对战消除解谜游戏"
   },
@@ -1711,15 +1711,15 @@
     "editorScore": 8.4,
     "is2D": true,
     "screenshots": [
-      "images/ss/ss-langrisser-4-s1.png",
-      "images/ss/ss-langrisser-4-x1.jpg",
-      "images/ss/ss-langrisser-4-x2.jpg",
-      "images/ss/ss-langrisser-4-m1.jpg",
-      "images/ss/ss-langrisser-4-m2.jpg",
-      "images/ss/ss-langrisser-4-m3.jpg",
-      "images/ss/ss-langrisser-4-title.png"
+      "images/ss/ss-langrisser-4-s1.webp",
+      "images/ss/ss-langrisser-4-x1.webp",
+      "images/ss/ss-langrisser-4-x2.webp",
+      "images/ss/ss-langrisser-4-m1.webp",
+      "images/ss/ss-langrisser-4-m2.webp",
+      "images/ss/ss-langrisser-4-m3.webp",
+      "images/ss/ss-langrisser-4-title.webp"
     ],
-    "cover": "images/ss/ss-langrisser-4-box.jpg",
+    "cover": "images/ss/ss-langrisser-4-box.webp",
     "styleMatch": 2,
     "styleNote": "像素战棋RPG，以战场为主"
   },
@@ -1766,15 +1766,15 @@
     "editorScore": 8.3,
     "is2D": true,
     "screenshots": [
-      "images/ss/ss-magic-knight-rayearth-s1.png",
+      "images/ss/ss-magic-knight-rayearth-s1.webp",
       "images/ss/ss-magic-knight-rayearth-x1.jpg",
-      "images/ss/ss-magic-knight-rayearth-m1.png",
-      "images/ss/ss-magic-knight-rayearth-m2.png",
-      "images/ss/ss-magic-knight-rayearth-m3.jpg",
-      "images/ss/ss-magic-knight-rayearth-m4.jpg",
-      "images/ss/ss-magic-knight-rayearth-title.png"
+      "images/ss/ss-magic-knight-rayearth-m1.webp",
+      "images/ss/ss-magic-knight-rayearth-m2.webp",
+      "images/ss/ss-magic-knight-rayearth-m3.webp",
+      "images/ss/ss-magic-knight-rayearth-m4.webp",
+      "images/ss/ss-magic-knight-rayearth-title.webp"
     ],
-    "cover": "images/ss/ss-magic-knight-rayearth-box.jpg",
+    "cover": "images/ss/ss-magic-knight-rayearth-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素ARPG，可逛城镇与迷宫"
   },
@@ -1821,13 +1821,13 @@
     "editorScore": 8.3,
     "is2D": true,
     "screenshots": [
-      "images/ss/ss-leynos-2-s1.png",
-      "images/ss/ss-leynos-2-m1.png",
-      "images/ss/ss-leynos-2-m2.jpg",
-      "images/ss/ss-leynos-2-m3.png",
-      "images/ss/ss-leynos-2-title.png"
+      "images/ss/ss-leynos-2-s1.webp",
+      "images/ss/ss-leynos-2-m1.webp",
+      "images/ss/ss-leynos-2-m2.webp",
+      "images/ss/ss-leynos-2-m3.webp",
+      "images/ss/ss-leynos-2-title.webp"
     ],
-    "cover": "images/ss/ss-leynos-2-box.jpg",
+    "cover": "images/ss/ss-leynos-2-box.webp",
     "styleMatch": 1,
     "styleNote": "横版像素机甲动作"
   },
@@ -1869,13 +1869,13 @@
     "editorScore": 8.3,
     "is2D": true,
     "screenshots": [
-      "images/ss/ss-layer-section-s1.png",
-      "images/ss/ss-layer-section-x1.png",
-      "images/ss/ss-layer-section-x2.png",
-      "images/ss/ss-layer-section-m1.jpg",
-      "images/ss/ss-layer-section-title.png"
+      "images/ss/ss-layer-section-s1.webp",
+      "images/ss/ss-layer-section-x1.webp",
+      "images/ss/ss-layer-section-x2.webp",
+      "images/ss/ss-layer-section-m1.webp",
+      "images/ss/ss-layer-section-title.webp"
     ],
-    "cover": "images/ss/ss-layer-section-box.jpg",
+    "cover": "images/ss/ss-layer-section-box.webp",
     "styleMatch": 0,
     "styleNote": "纵版射击游戏"
   },
@@ -1917,13 +1917,13 @@
     "editorScore": 8.3,
     "is2D": true,
     "screenshots": [
-      "images/ss/ss-mega-man-8-s1.png",
-      "images/ss/ss-mega-man-8-x1.png",
-      "images/ss/ss-mega-man-8-m1.png",
-      "images/ss/ss-mega-man-8-m2.png",
-      "images/ss/ss-mega-man-8-title.png"
+      "images/ss/ss-mega-man-8-s1.webp",
+      "images/ss/ss-mega-man-8-x1.webp",
+      "images/ss/ss-mega-man-8-m1.webp",
+      "images/ss/ss-mega-man-8-m2.webp",
+      "images/ss/ss-mega-man-8-title.webp"
     ],
-    "cover": "images/ss/ss-mega-man-8-box.jpg",
+    "cover": "images/ss/ss-mega-man-8-box.webp",
     "styleMatch": 1,
     "styleNote": "横版像素平台动作"
   },
@@ -1954,14 +1954,14 @@
     "editorScore": 8.3,
     "is2D": true,
     "screenshots": [
-      "images/ss/ss-falcom-classics-s1.png",
-      "images/ss/ss-falcom-classics-x1.png",
-      "images/ss/ss-falcom-classics-x2.png",
-      "images/ss/ss-falcom-classics-m1.png",
-      "images/ss/ss-falcom-classics-m2.png",
-      "images/ss/ss-falcom-classics-title.png"
+      "images/ss/ss-falcom-classics-s1.webp",
+      "images/ss/ss-falcom-classics-x1.webp",
+      "images/ss/ss-falcom-classics-x2.webp",
+      "images/ss/ss-falcom-classics-m1.webp",
+      "images/ss/ss-falcom-classics-m2.webp",
+      "images/ss/ss-falcom-classics-title.webp"
     ],
-    "cover": "images/ss/ss-falcom-classics-box.jpg",
+    "cover": "images/ss/ss-falcom-classics-box.webp",
     "styleMatch": 3,
     "styleNote": "伊苏I俯视角像素ARPG，有城镇"
   },
@@ -2003,13 +2003,13 @@
     "editorScore": 8.3,
     "is2D": true,
     "screenshots": [
-      "images/ss/ss-ogre-battle-s1.png",
-      "images/ss/ss-ogre-battle-x1.png",
-      "images/ss/ss-ogre-battle-x2.png",
-      "images/ss/ss-ogre-battle-m1.png",
-      "images/ss/ss-ogre-battle-title.png"
+      "images/ss/ss-ogre-battle-s1.webp",
+      "images/ss/ss-ogre-battle-x1.webp",
+      "images/ss/ss-ogre-battle-x2.webp",
+      "images/ss/ss-ogre-battle-m1.webp",
+      "images/ss/ss-ogre-battle-title.webp"
     ],
-    "cover": "images/ss/ss-ogre-battle-box.jpg",
+    "cover": "images/ss/ss-ogre-battle-box.webp",
     "styleMatch": 2,
     "styleNote": "俯视大地图解放城镇，战斗自动进行"
   },
@@ -2051,12 +2051,12 @@
     "editorScore": 8.2,
     "is2D": true,
     "screenshots": [
-      "images/ss/ss-astal-s1.png",
-      "images/ss/ss-astal-s2.png",
-      "images/ss/ss-astal-m1.jpg",
-      "images/ss/ss-astal-title.png"
+      "images/ss/ss-astal-s1.webp",
+      "images/ss/ss-astal-s2.webp",
+      "images/ss/ss-astal-m1.webp",
+      "images/ss/ss-astal-title.webp"
     ],
-    "cover": "images/ss/ss-astal-box.jpg",
+    "cover": "images/ss/ss-astal-box.webp",
     "styleMatch": 1,
     "styleNote": "手绘横版平台动作"
   },
@@ -2098,11 +2098,11 @@
     "editorScore": 8.2,
     "is2D": true,
     "screenshots": [
-      "images/ss/ss-rayman-s1.png",
-      "images/ss/ss-rayman-m1.png",
-      "images/ss/ss-rayman-title.png"
+      "images/ss/ss-rayman-s1.webp",
+      "images/ss/ss-rayman-m1.webp",
+      "images/ss/ss-rayman-title.webp"
     ],
-    "cover": "images/ss/ss-rayman-box.jpg",
+    "cover": "images/ss/ss-rayman-box.webp",
     "styleMatch": 1,
     "styleNote": "手绘横版平台动作"
   },
@@ -2139,15 +2139,15 @@
     "editorScore": 8.2,
     "is2D": true,
     "screenshots": [
-      "images/ss/ss-dragon-force-2-s1.png",
-      "images/ss/ss-dragon-force-2-x1.jpg",
-      "images/ss/ss-dragon-force-2-x2.jpg",
-      "images/ss/ss-dragon-force-2-m1.png",
-      "images/ss/ss-dragon-force-2-m2.png",
-      "images/ss/ss-dragon-force-2-m3.png",
-      "images/ss/ss-dragon-force-2-title.png"
+      "images/ss/ss-dragon-force-2-s1.webp",
+      "images/ss/ss-dragon-force-2-x1.webp",
+      "images/ss/ss-dragon-force-2-x2.webp",
+      "images/ss/ss-dragon-force-2-m1.webp",
+      "images/ss/ss-dragon-force-2-m2.webp",
+      "images/ss/ss-dragon-force-2-m3.webp",
+      "images/ss/ss-dragon-force-2-title.webp"
     ],
-    "cover": "images/ss/ss-dragon-force-2-box.jpg",
+    "cover": "images/ss/ss-dragon-force-2-box.webp",
     "styleMatch": 2,
     "styleNote": "像素战略RPG，以大地图与战场为主"
   },
@@ -2194,15 +2194,15 @@
     "editorScore": 8.1,
     "is2D": true,
     "screenshots": [
-      "images/ss/ss-shining-wisdom-s1.png",
-      "images/ss/ss-shining-wisdom-x1.png",
-      "images/ss/ss-shining-wisdom-x2.png",
-      "images/ss/ss-shining-wisdom-m1.png",
-      "images/ss/ss-shining-wisdom-m2.jpg",
-      "images/ss/ss-shining-wisdom-m3.jpg",
-      "images/ss/ss-shining-wisdom-title.png"
+      "images/ss/ss-shining-wisdom-s1.webp",
+      "images/ss/ss-shining-wisdom-x1.webp",
+      "images/ss/ss-shining-wisdom-x2.webp",
+      "images/ss/ss-shining-wisdom-m1.webp",
+      "images/ss/ss-shining-wisdom-m2.webp",
+      "images/ss/ss-shining-wisdom-m3.webp",
+      "images/ss/ss-shining-wisdom-title.webp"
     ],
-    "cover": "images/ss/ss-shining-wisdom-box.jpg",
+    "cover": "images/ss/ss-shining-wisdom-box.webp",
     "styleMatch": 3,
     "styleNote": "塞尔达式俯视角ARPG，有城镇与商店"
   },
@@ -2233,13 +2233,13 @@
     "editorScore": 8.0,
     "is2D": true,
     "screenshots": [
-      "images/ss/ss-langrisser-3-s1.png",
-      "images/ss/ss-langrisser-3-x1.jpg",
-      "images/ss/ss-langrisser-3-x2.jpg",
-      "images/ss/ss-langrisser-3-m1.jpg",
-      "images/ss/ss-langrisser-3-title.png"
+      "images/ss/ss-langrisser-3-s1.webp",
+      "images/ss/ss-langrisser-3-x1.webp",
+      "images/ss/ss-langrisser-3-x2.webp",
+      "images/ss/ss-langrisser-3-m1.webp",
+      "images/ss/ss-langrisser-3-title.webp"
     ],
-    "cover": "images/ss/ss-langrisser-3-box.jpg",
+    "cover": "images/ss/ss-langrisser-3-box.webp",
     "styleMatch": 2,
     "styleNote": "像素战棋RPG，以战场为主"
   },
@@ -2286,14 +2286,14 @@
     "editorScore": 8.0,
     "is2D": true,
     "screenshots": [
-      "images/ss/ss-clockwork-knight-s1.png",
-      "images/ss/ss-clockwork-knight-x2.png",
-      "images/ss/ss-clockwork-knight-m1.png",
-      "images/ss/ss-clockwork-knight-m2.png",
-      "images/ss/ss-clockwork-knight-m3.png",
-      "images/ss/ss-clockwork-knight-title.png"
+      "images/ss/ss-clockwork-knight-s1.webp",
+      "images/ss/ss-clockwork-knight-x2.webp",
+      "images/ss/ss-clockwork-knight-m1.webp",
+      "images/ss/ss-clockwork-knight-m2.webp",
+      "images/ss/ss-clockwork-knight-m3.webp",
+      "images/ss/ss-clockwork-knight-title.webp"
     ],
-    "cover": "images/ss/ss-clockwork-knight-box.jpg",
+    "cover": "images/ss/ss-clockwork-knight-box.webp",
     "styleMatch": 1,
     "styleNote": "2.5D横版平台动作"
   },
@@ -2335,16 +2335,16 @@
     "editorScore": 7.9,
     "is2D": true,
     "screenshots": [
-      "images/ss/ss-linkle-liver-story-s1.png",
-      "images/ss/ss-linkle-liver-story-x1.png",
-      "images/ss/ss-linkle-liver-story-y1.jpg",
-      "images/ss/ss-linkle-liver-story-y2.jpg",
-      "images/ss/ss-linkle-liver-story-y3.jpg",
-      "images/ss/ss-linkle-liver-story-y4.jpg",
-      "images/ss/ss-linkle-liver-story-y5.jpg",
-      "images/ss/ss-linkle-liver-story-title.png"
+      "images/ss/ss-linkle-liver-story-s1.webp",
+      "images/ss/ss-linkle-liver-story-x1.webp",
+      "images/ss/ss-linkle-liver-story-y1.webp",
+      "images/ss/ss-linkle-liver-story-y2.webp",
+      "images/ss/ss-linkle-liver-story-y3.webp",
+      "images/ss/ss-linkle-liver-story-y4.webp",
+      "images/ss/ss-linkle-liver-story-y5.webp",
+      "images/ss/ss-linkle-liver-story-title.webp"
     ],
-    "cover": "images/ss/ss-linkle-liver-story-box.jpg",
+    "cover": "images/ss/ss-linkle-liver-story-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素ARPG，村庄森林自由探索"
   },
@@ -2375,14 +2375,14 @@
     "editorScore": 7.8,
     "is2D": true,
     "screenshots": [
-      "images/ss/ss-mahou-gakuen-lunar-s1.png",
-      "images/ss/ss-mahou-gakuen-lunar-x1.jpg",
-      "images/ss/ss-mahou-gakuen-lunar-m1.png",
-      "images/ss/ss-mahou-gakuen-lunar-m2.png",
-      "images/ss/ss-mahou-gakuen-lunar-m3.png",
-      "images/ss/ss-mahou-gakuen-lunar-title.png"
+      "images/ss/ss-mahou-gakuen-lunar-s1.webp",
+      "images/ss/ss-mahou-gakuen-lunar-x1.webp",
+      "images/ss/ss-mahou-gakuen-lunar-m1.webp",
+      "images/ss/ss-mahou-gakuen-lunar-m2.webp",
+      "images/ss/ss-mahou-gakuen-lunar-m3.webp",
+      "images/ss/ss-mahou-gakuen-lunar-title.webp"
     ],
-    "cover": "images/ss/ss-mahou-gakuen-lunar-box.jpg",
+    "cover": "images/ss/ss-mahou-gakuen-lunar-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素RPG，学园与城镇漫步"
   }

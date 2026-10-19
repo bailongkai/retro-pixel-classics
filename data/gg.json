@@ -38,12 +38,12 @@
     "editorScore": 9.2,
     "is2D": true,
     "screenshots": [
-      "images/gg/gg-shinobi-2-s1.png",
-      "images/gg/gg-shinobi-2-s2.png",
-      "images/gg/gg-shinobi-2-m1.png",
-      "images/gg/gg-shinobi-2-title.png"
+      "images/gg/gg-shinobi-2-s1.webp",
+      "images/gg/gg-shinobi-2-s2.webp",
+      "images/gg/gg-shinobi-2-m1.webp",
+      "images/gg/gg-shinobi-2-title.webp"
     ],
-    "cover": "images/gg/gg-shinobi-2-box.jpg",
+    "cover": "images/gg/gg-shinobi-2-box.webp",
     "styleMatch": 1,
     "styleNote": "横版动作平台，非俯视角RPG"
   },
@@ -86,14 +86,14 @@
     "editorScore": 9.1,
     "is2D": true,
     "screenshots": [
-      "images/gg/gg-shining-force-sword-of-hajya-s1.png",
-      "images/gg/gg-shining-force-sword-of-hajya-s2.png",
-      "images/gg/gg-shining-force-sword-of-hajya-s3.png",
-      "images/gg/gg-shining-force-sword-of-hajya-m1.png",
-      "images/gg/gg-shining-force-sword-of-hajya-m2.jpg",
-      "images/gg/gg-shining-force-sword-of-hajya-title.png"
+      "images/gg/gg-shining-force-sword-of-hajya-s1.webp",
+      "images/gg/gg-shining-force-sword-of-hajya-s2.webp",
+      "images/gg/gg-shining-force-sword-of-hajya-s3.webp",
+      "images/gg/gg-shining-force-sword-of-hajya-m1.webp",
+      "images/gg/gg-shining-force-sword-of-hajya-m2.webp",
+      "images/gg/gg-shining-force-sword-of-hajya-title.webp"
     ],
-    "cover": "images/gg/gg-shining-force-sword-of-hajya-box.jpg",
+    "cover": "images/gg/gg-shining-force-sword-of-hajya-box.webp",
     "styleMatch": 2,
     "styleNote": "像素战棋RPG，含俯视角城镇探索"
   },
@@ -136,13 +136,13 @@
     "editorScore": 9.1,
     "is2D": true,
     "screenshots": [
-      "images/gg/gg-wonder-boy-dragons-trap-s1.png",
-      "images/gg/gg-wonder-boy-dragons-trap-s2.png",
-      "images/gg/gg-wonder-boy-dragons-trap-y1.png",
-      "images/gg/gg-wonder-boy-dragons-trap-y2.png",
-      "images/gg/gg-wonder-boy-dragons-trap-title.png"
+      "images/gg/gg-wonder-boy-dragons-trap-s1.webp",
+      "images/gg/gg-wonder-boy-dragons-trap-s2.webp",
+      "images/gg/gg-wonder-boy-dragons-trap-y1.webp",
+      "images/gg/gg-wonder-boy-dragons-trap-y2.webp",
+      "images/gg/gg-wonder-boy-dragons-trap-title.webp"
     ],
-    "cover": "images/gg/gg-wonder-boy-dragons-trap-box.jpg",
+    "cover": "images/gg/gg-wonder-boy-dragons-trap-box.webp",
     "styleMatch": 2,
     "styleNote": "横版类银河城，有城镇商店"
   },
@@ -185,15 +185,15 @@
     "editorScore": 9.0,
     "is2D": true,
     "screenshots": [
-      "images/gg/gg-shining-force-final-conflict-s1.png",
-      "images/gg/gg-shining-force-final-conflict-s2.png",
-      "images/gg/gg-shining-force-final-conflict-x1.png",
-      "images/gg/gg-shining-force-final-conflict-m1.png",
-      "images/gg/gg-shining-force-final-conflict-m2.png",
-      "images/gg/gg-shining-force-final-conflict-m3.png",
-      "images/gg/gg-shining-force-final-conflict-title.png"
+      "images/gg/gg-shining-force-final-conflict-s1.webp",
+      "images/gg/gg-shining-force-final-conflict-s2.webp",
+      "images/gg/gg-shining-force-final-conflict-x1.webp",
+      "images/gg/gg-shining-force-final-conflict-m1.webp",
+      "images/gg/gg-shining-force-final-conflict-m2.webp",
+      "images/gg/gg-shining-force-final-conflict-m3.webp",
+      "images/gg/gg-shining-force-final-conflict-title.webp"
     ],
-    "cover": "images/gg/gg-shining-force-final-conflict-box.jpg",
+    "cover": "images/gg/gg-shining-force-final-conflict-box.webp",
     "styleMatch": 2,
     "styleNote": "像素战棋RPG，城镇场景有限"
   },
@@ -236,13 +236,13 @@
     "editorScore": 9.0,
     "is2D": true,
     "screenshots": [
-      "images/gg/gg-sonic-triple-trouble-s1.png",
-      "images/gg/gg-sonic-triple-trouble-x1.png",
-      "images/gg/gg-sonic-triple-trouble-x2.png",
-      "images/gg/gg-sonic-triple-trouble-m1.jpg",
-      "images/gg/gg-sonic-triple-trouble-title.png"
+      "images/gg/gg-sonic-triple-trouble-s1.webp",
+      "images/gg/gg-sonic-triple-trouble-x1.webp",
+      "images/gg/gg-sonic-triple-trouble-x2.webp",
+      "images/gg/gg-sonic-triple-trouble-m1.webp",
+      "images/gg/gg-sonic-triple-trouble-title.webp"
     ],
-    "cover": "images/gg/gg-sonic-triple-trouble-box.jpg",
+    "cover": "images/gg/gg-sonic-triple-trouble-box.webp",
     "styleMatch": 1,
     "styleNote": "高速横版平台跳跃"
   },
@@ -285,13 +285,13 @@
     "editorScore": 8.9,
     "is2D": true,
     "screenshots": [
-      "images/gg/gg-the-gg-shinobi-s1.png",
-      "images/gg/gg-the-gg-shinobi-s2.png",
-      "images/gg/gg-the-gg-shinobi-s3.png",
-      "images/gg/gg-the-gg-shinobi-m1.jpg",
-      "images/gg/gg-the-gg-shinobi-title.png"
+      "images/gg/gg-the-gg-shinobi-s1.webp",
+      "images/gg/gg-the-gg-shinobi-s2.webp",
+      "images/gg/gg-the-gg-shinobi-s3.webp",
+      "images/gg/gg-the-gg-shinobi-m1.webp",
+      "images/gg/gg-the-gg-shinobi-title.webp"
     ],
-    "cover": "images/gg/gg-the-gg-shinobi-box.jpg",
+    "cover": "images/gg/gg-the-gg-shinobi-box.webp",
     "styleMatch": 1,
     "styleNote": "横版忍者动作"
   },
@@ -334,14 +334,14 @@
     "editorScore": 8.8,
     "is2D": true,
     "screenshots": [
-      "images/gg/gg-sylvan-tale-s1.png",
-      "images/gg/gg-sylvan-tale-s2.png",
-      "images/gg/gg-sylvan-tale-m1.png",
-      "images/gg/gg-sylvan-tale-y1.png",
-      "images/gg/gg-sylvan-tale-y2.png",
+      "images/gg/gg-sylvan-tale-s1.webp",
+      "images/gg/gg-sylvan-tale-s2.webp",
+      "images/gg/gg-sylvan-tale-m1.webp",
+      "images/gg/gg-sylvan-tale-y1.webp",
+      "images/gg/gg-sylvan-tale-y2.webp",
       "images/gg/gg-sylvan-tale-title.png"
     ],
-    "cover": "images/gg/gg-sylvan-tale-box.jpg",
+    "cover": "images/gg/gg-sylvan-tale-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角塞尔达式ARPG，有村庄可探索"
   },
@@ -384,15 +384,15 @@
     "editorScore": 8.7,
     "is2D": true,
     "screenshots": [
-      "images/gg/gg-land-of-illusion-s1.png",
-      "images/gg/gg-land-of-illusion-s2.png",
+      "images/gg/gg-land-of-illusion-s1.webp",
+      "images/gg/gg-land-of-illusion-s2.webp",
       "images/gg/gg-land-of-illusion-m1.jpg",
-      "images/gg/gg-land-of-illusion-m2.jpg",
-      "images/gg/gg-land-of-illusion-m3.jpg",
-      "images/gg/gg-land-of-illusion-m4.jpg",
-      "images/gg/gg-land-of-illusion-title.png"
+      "images/gg/gg-land-of-illusion-m2.webp",
+      "images/gg/gg-land-of-illusion-m3.webp",
+      "images/gg/gg-land-of-illusion-m4.webp",
+      "images/gg/gg-land-of-illusion-title.webp"
     ],
-    "cover": "images/gg/gg-land-of-illusion-box.jpg",
+    "cover": "images/gg/gg-land-of-illusion-box.webp",
     "styleMatch": 1,
     "styleNote": "横版平台跳跃，童话像素风"
   },
@@ -440,14 +440,14 @@
     "editorScore": 8.6,
     "is2D": true,
     "screenshots": [
-      "images/gg/gg-defenders-of-oasis-s1.png",
-      "images/gg/gg-defenders-of-oasis-s2.png",
-      "images/gg/gg-defenders-of-oasis-m1.png",
-      "images/gg/gg-defenders-of-oasis-m2.png",
-      "images/gg/gg-defenders-of-oasis-m3.jpg",
-      "images/gg/gg-defenders-of-oasis-title.png"
+      "images/gg/gg-defenders-of-oasis-s1.webp",
+      "images/gg/gg-defenders-of-oasis-s2.webp",
+      "images/gg/gg-defenders-of-oasis-m1.webp",
+      "images/gg/gg-defenders-of-oasis-m2.webp",
+      "images/gg/gg-defenders-of-oasis-m3.webp",
+      "images/gg/gg-defenders-of-oasis-title.webp"
     ],
-    "cover": "images/gg/gg-defenders-of-oasis-box.jpg",
+    "cover": "images/gg/gg-defenders-of-oasis-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角城镇与大地图，回合制RPG"
   },
@@ -490,12 +490,12 @@
     "editorScore": 8.6,
     "is2D": true,
     "screenshots": [
-      "images/gg/gg-sonic-chaos-s1.png",
-      "images/gg/gg-sonic-chaos-x1.png",
-      "images/gg/gg-sonic-chaos-m1.jpg",
-      "images/gg/gg-sonic-chaos-title.png"
+      "images/gg/gg-sonic-chaos-s1.webp",
+      "images/gg/gg-sonic-chaos-x1.webp",
+      "images/gg/gg-sonic-chaos-m1.webp",
+      "images/gg/gg-sonic-chaos-title.webp"
     ],
-    "cover": "images/gg/gg-sonic-chaos-box.jpg",
+    "cover": "images/gg/gg-sonic-chaos-box.webp",
     "styleMatch": 1,
     "styleNote": "高速横版平台跳跃"
   },
@@ -533,11 +533,11 @@
     "editorScore": 8.6,
     "is2D": true,
     "screenshots": [
-      "images/gg/gg-puyo-puyo-tsuu-s1.png",
-      "images/gg/gg-puyo-puyo-tsuu-s2.png",
-      "images/gg/gg-puyo-puyo-tsuu-title.png"
+      "images/gg/gg-puyo-puyo-tsuu-s1.webp",
+      "images/gg/gg-puyo-puyo-tsuu-s2.webp",
+      "images/gg/gg-puyo-puyo-tsuu-title.webp"
     ],
-    "cover": "images/gg/gg-puyo-puyo-tsuu-box.jpg",
+    "cover": "images/gg/gg-puyo-puyo-tsuu-box.webp",
     "styleMatch": 0,
     "styleNote": "消除益智游戏"
   },
@@ -570,13 +570,13 @@
     "is2D": true,
     "screenshots": [
       "images/gg/gg-lunar-sanposuru-gakuen-s1.png",
-      "images/gg/gg-lunar-sanposuru-gakuen-x1.jpg",
-      "images/gg/gg-lunar-sanposuru-gakuen-x2.png",
-      "images/gg/gg-lunar-sanposuru-gakuen-m1.jpg",
-      "images/gg/gg-lunar-sanposuru-gakuen-m2.jpg",
-      "images/gg/gg-lunar-sanposuru-gakuen-title.png"
+      "images/gg/gg-lunar-sanposuru-gakuen-x1.webp",
+      "images/gg/gg-lunar-sanposuru-gakuen-x2.webp",
+      "images/gg/gg-lunar-sanposuru-gakuen-m1.webp",
+      "images/gg/gg-lunar-sanposuru-gakuen-m2.webp",
+      "images/gg/gg-lunar-sanposuru-gakuen-title.webp"
     ],
-    "cover": "images/gg/gg-lunar-sanposuru-gakuen-box.jpg",
+    "cover": "images/gg/gg-lunar-sanposuru-gakuen-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角学园与城镇，日式RPG"
   },
@@ -624,15 +624,15 @@
     "editorScore": 8.5,
     "is2D": true,
     "screenshots": [
-      "images/gg/gg-power-strike-2-s1.png",
-      "images/gg/gg-power-strike-2-x1.png",
+      "images/gg/gg-power-strike-2-s1.webp",
+      "images/gg/gg-power-strike-2-x1.webp",
       "images/gg/gg-power-strike-2-x2.png",
-      "images/gg/gg-power-strike-2-m1.png",
-      "images/gg/gg-power-strike-2-m2.png",
-      "images/gg/gg-power-strike-2-m3.jpg",
-      "images/gg/gg-power-strike-2-title.png"
+      "images/gg/gg-power-strike-2-m1.webp",
+      "images/gg/gg-power-strike-2-m2.webp",
+      "images/gg/gg-power-strike-2-m3.webp",
+      "images/gg/gg-power-strike-2-title.webp"
     ],
-    "cover": "images/gg/gg-power-strike-2-box.jpg",
+    "cover": "images/gg/gg-power-strike-2-box.webp",
     "styleMatch": 0,
     "styleNote": "纵版射击游戏"
   },
@@ -675,12 +675,12 @@
     "editorScore": 8.4,
     "is2D": true,
     "screenshots": [
-      "images/gg/gg-castle-of-illusion-s1.png",
-      "images/gg/gg-castle-of-illusion-s2.png",
-      "images/gg/gg-castle-of-illusion-s3.png",
-      "images/gg/gg-castle-of-illusion-title.png"
+      "images/gg/gg-castle-of-illusion-s1.webp",
+      "images/gg/gg-castle-of-illusion-s2.webp",
+      "images/gg/gg-castle-of-illusion-s3.webp",
+      "images/gg/gg-castle-of-illusion-title.webp"
     ],
-    "cover": "images/gg/gg-castle-of-illusion-box.jpg",
+    "cover": "images/gg/gg-castle-of-illusion-box.webp",
     "styleMatch": 1,
     "styleNote": "横版平台跳跃"
   },
@@ -728,14 +728,14 @@
     "editorScore": 8.4,
     "is2D": true,
     "screenshots": [
-      "images/gg/gg-sonic-2-s1.png",
-      "images/gg/gg-sonic-2-x1.png",
-      "images/gg/gg-sonic-2-x2.png",
-      "images/gg/gg-sonic-2-m1.png",
-      "images/gg/gg-sonic-2-m2.jpg",
-      "images/gg/gg-sonic-2-title.png"
+      "images/gg/gg-sonic-2-s1.webp",
+      "images/gg/gg-sonic-2-x1.webp",
+      "images/gg/gg-sonic-2-x2.webp",
+      "images/gg/gg-sonic-2-m1.webp",
+      "images/gg/gg-sonic-2-m2.webp",
+      "images/gg/gg-sonic-2-title.webp"
     ],
-    "cover": "images/gg/gg-sonic-2-box.jpg",
+    "cover": "images/gg/gg-sonic-2-box.webp",
     "styleMatch": 1,
     "styleNote": "横版平台跳跃"
   },
@@ -783,13 +783,13 @@
     "editorScore": 8.4,
     "is2D": true,
     "screenshots": [
-      "images/gg/gg-ristar-s1.png",
-      "images/gg/gg-ristar-x1.png",
-      "images/gg/gg-ristar-x2.png",
-      "images/gg/gg-ristar-m1.jpg",
-      "images/gg/gg-ristar-title.png"
+      "images/gg/gg-ristar-s1.webp",
+      "images/gg/gg-ristar-x1.webp",
+      "images/gg/gg-ristar-x2.webp",
+      "images/gg/gg-ristar-m1.webp",
+      "images/gg/gg-ristar-title.webp"
     ],
-    "cover": "images/gg/gg-ristar-box.jpg",
+    "cover": "images/gg/gg-ristar-box.webp",
     "styleMatch": 1,
     "styleNote": "横版平台跳跃"
   },
@@ -837,15 +837,15 @@
     "editorScore": 8.3,
     "is2D": true,
     "screenshots": [
-      "images/gg/gg-tails-adventure-s1.png",
-      "images/gg/gg-tails-adventure-s2.png",
+      "images/gg/gg-tails-adventure-s1.webp",
+      "images/gg/gg-tails-adventure-s2.webp",
       "images/gg/gg-tails-adventure-x1.png",
-      "images/gg/gg-tails-adventure-m1.png",
-      "images/gg/gg-tails-adventure-m2.png",
-      "images/gg/gg-tails-adventure-m3.png",
-      "images/gg/gg-tails-adventure-title.png"
+      "images/gg/gg-tails-adventure-m1.webp",
+      "images/gg/gg-tails-adventure-m2.webp",
+      "images/gg/gg-tails-adventure-m3.webp",
+      "images/gg/gg-tails-adventure-title.webp"
     ],
-    "cover": "images/gg/gg-tails-adventure-box.jpg",
+    "cover": "images/gg/gg-tails-adventure-box.webp",
     "styleMatch": 1,
     "styleNote": "横版道具探索动作，无城镇"
   },
@@ -888,13 +888,13 @@
     "editorScore": 8.3,
     "is2D": true,
     "screenshots": [
-      "images/gg/gg-gunstar-heroes-s1.png",
-      "images/gg/gg-gunstar-heroes-x1.png",
-      "images/gg/gg-gunstar-heroes-x2.png",
-      "images/gg/gg-gunstar-heroes-m1.png",
-      "images/gg/gg-gunstar-heroes-title.png"
+      "images/gg/gg-gunstar-heroes-s1.webp",
+      "images/gg/gg-gunstar-heroes-x1.webp",
+      "images/gg/gg-gunstar-heroes-x2.webp",
+      "images/gg/gg-gunstar-heroes-m1.webp",
+      "images/gg/gg-gunstar-heroes-title.webp"
     ],
-    "cover": "images/gg/gg-gunstar-heroes-box.jpg",
+    "cover": "images/gg/gg-gunstar-heroes-box.webp",
     "styleMatch": 0,
     "styleNote": "横版射击动作"
   },
@@ -939,13 +939,13 @@
     "styleMatch": 3,
     "styleNote": "俯视角城镇与原野，王道日式RPG",
     "screenshots": [
-      "images/gg/gg-last-bible-special-s1.png",
-      "images/gg/gg-last-bible-special-x1.png",
-      "images/gg/gg-last-bible-special-x2.png",
-      "images/gg/gg-last-bible-special-m1.png",
-      "images/gg/gg-last-bible-special-title.png"
+      "images/gg/gg-last-bible-special-s1.webp",
+      "images/gg/gg-last-bible-special-x1.webp",
+      "images/gg/gg-last-bible-special-x2.webp",
+      "images/gg/gg-last-bible-special-m1.webp",
+      "images/gg/gg-last-bible-special-title.webp"
     ],
-    "cover": "images/gg/gg-last-bible-special-box.jpg"
+    "cover": "images/gg/gg-last-bible-special-box.webp"
   },
   {
     "id": "gg-shining-force-gaiden",
@@ -988,14 +988,14 @@
     "styleMatch": 2,
     "styleNote": "像素战棋RPG，无城镇自由探索",
     "screenshots": [
-      "images/gg/gg-shining-force-gaiden-s1.png",
-      "images/gg/gg-shining-force-gaiden-x1.png",
-      "images/gg/gg-shining-force-gaiden-x2.png",
-      "images/gg/gg-shining-force-gaiden-m1.png",
-      "images/gg/gg-shining-force-gaiden-m2.png",
-      "images/gg/gg-shining-force-gaiden-title.png"
+      "images/gg/gg-shining-force-gaiden-s1.webp",
+      "images/gg/gg-shining-force-gaiden-x1.webp",
+      "images/gg/gg-shining-force-gaiden-x2.webp",
+      "images/gg/gg-shining-force-gaiden-m1.webp",
+      "images/gg/gg-shining-force-gaiden-m2.webp",
+      "images/gg/gg-shining-force-gaiden-title.webp"
     ],
-    "cover": "images/gg/gg-shining-force-gaiden-box.jpg"
+    "cover": "images/gg/gg-shining-force-gaiden-box.webp"
   },
   {
     "id": "gg-coca-cola-kid",
@@ -1031,12 +1031,12 @@
     "editorScore": 8.0,
     "is2D": true,
     "screenshots": [
-      "images/gg/gg-coca-cola-kid-s1.png",
-      "images/gg/gg-coca-cola-kid-x1.png",
-      "images/gg/gg-coca-cola-kid-x2.png",
-      "images/gg/gg-coca-cola-kid-title.png"
+      "images/gg/gg-coca-cola-kid-s1.webp",
+      "images/gg/gg-coca-cola-kid-x1.webp",
+      "images/gg/gg-coca-cola-kid-x2.webp",
+      "images/gg/gg-coca-cola-kid-title.webp"
     ],
-    "cover": "images/gg/gg-coca-cola-kid-box.jpg",
+    "cover": "images/gg/gg-coca-cola-kid-box.webp",
     "styleMatch": 1,
     "styleNote": "横版高速平台跳跃"
   },
@@ -1085,13 +1085,13 @@
     "is2D": true,
     "screenshots": [
       "images/gg/gg-crystal-warriors-s1.png",
-      "images/gg/gg-crystal-warriors-x1.png",
-      "images/gg/gg-crystal-warriors-m1.jpg",
-      "images/gg/gg-crystal-warriors-y1.png",
-      "images/gg/gg-crystal-warriors-y2.png",
-      "images/gg/gg-crystal-warriors-title.png"
+      "images/gg/gg-crystal-warriors-x1.webp",
+      "images/gg/gg-crystal-warriors-m1.webp",
+      "images/gg/gg-crystal-warriors-y1.webp",
+      "images/gg/gg-crystal-warriors-y2.webp",
+      "images/gg/gg-crystal-warriors-title.webp"
     ],
-    "cover": "images/gg/gg-crystal-warriors-box.jpg",
+    "cover": "images/gg/gg-crystal-warriors-box.webp",
     "styleMatch": 2,
     "styleNote": "像素战棋RPG，无自由城镇探索"
   },
@@ -1134,14 +1134,14 @@
     "editorScore": 7.9,
     "is2D": true,
     "screenshots": [
-      "images/gg/gg-royal-stone-s1.png",
-      "images/gg/gg-royal-stone-s2.png",
-      "images/gg/gg-royal-stone-y1.png",
-      "images/gg/gg-royal-stone-y2.png",
-      "images/gg/gg-royal-stone-y3.png",
-      "images/gg/gg-royal-stone-title.png"
+      "images/gg/gg-royal-stone-s1.webp",
+      "images/gg/gg-royal-stone-s2.webp",
+      "images/gg/gg-royal-stone-y1.webp",
+      "images/gg/gg-royal-stone-y2.webp",
+      "images/gg/gg-royal-stone-y3.webp",
+      "images/gg/gg-royal-stone-title.webp"
     ],
-    "cover": "images/gg/gg-royal-stone-box.jpg",
+    "cover": "images/gg/gg-royal-stone-box.webp",
     "styleMatch": 2,
     "styleNote": "像素战棋RPG，剧情场景为主"
   },
@@ -1186,14 +1186,14 @@
     "styleMatch": 3,
     "styleNote": "俯视角村庄与大地图，正统日式RPG",
     "screenshots": [
-      "images/gg/gg-moldorian-s1.png",
-      "images/gg/gg-moldorian-x1.png",
-      "images/gg/gg-moldorian-x2.png",
-      "images/gg/gg-moldorian-m1.png",
-      "images/gg/gg-moldorian-m2.png",
-      "images/gg/gg-moldorian-title.png"
+      "images/gg/gg-moldorian-s1.webp",
+      "images/gg/gg-moldorian-x1.webp",
+      "images/gg/gg-moldorian-x2.webp",
+      "images/gg/gg-moldorian-m1.webp",
+      "images/gg/gg-moldorian-m2.webp",
+      "images/gg/gg-moldorian-title.webp"
     ],
-    "cover": "images/gg/gg-moldorian-box.jpg"
+    "cover": "images/gg/gg-moldorian-box.webp"
   },
   {
     "id": "gg-last-bible",
@@ -1234,13 +1234,13 @@
     "editorScore": 7.8,
     "is2D": true,
     "screenshots": [
-      "images/gg/gg-last-bible-s1.png",
-      "images/gg/gg-last-bible-x1.png",
-      "images/gg/gg-last-bible-x2.png",
-      "images/gg/gg-last-bible-m1.png",
-      "images/gg/gg-last-bible-title.png"
+      "images/gg/gg-last-bible-s1.webp",
+      "images/gg/gg-last-bible-x1.webp",
+      "images/gg/gg-last-bible-x2.webp",
+      "images/gg/gg-last-bible-m1.webp",
+      "images/gg/gg-last-bible-title.webp"
     ],
-    "cover": "images/gg/gg-last-bible-box.jpg",
+    "cover": "images/gg/gg-last-bible-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角城镇与原野，王道日式RPG"
   },
@@ -1279,13 +1279,13 @@
     "is2D": true,
     "screenshots": [
       "images/gg/gg-phantasy-star-gaiden-s1.png",
-      "images/gg/gg-phantasy-star-gaiden-x1.png",
-      "images/gg/gg-phantasy-star-gaiden-x2.png",
-      "images/gg/gg-phantasy-star-gaiden-y1.png",
-      "images/gg/gg-phantasy-star-gaiden-y2.png",
-      "images/gg/gg-phantasy-star-gaiden-title.png"
+      "images/gg/gg-phantasy-star-gaiden-x1.webp",
+      "images/gg/gg-phantasy-star-gaiden-x2.webp",
+      "images/gg/gg-phantasy-star-gaiden-y1.webp",
+      "images/gg/gg-phantasy-star-gaiden-y2.webp",
+      "images/gg/gg-phantasy-star-gaiden-title.webp"
     ],
-    "cover": "images/gg/gg-phantasy-star-gaiden-box.jpg",
+    "cover": "images/gg/gg-phantasy-star-gaiden-box.webp",
     "styleMatch": 2,
     "styleNote": "俯视角城镇，迷宫为第一人称"
   },
@@ -1328,11 +1328,11 @@
     "editorScore": 7.8,
     "is2D": true,
     "screenshots": [
-      "images/gg/gg-madou-monogatari-1-s1.png",
-      "images/gg/gg-madou-monogatari-1-m1.png",
-      "images/gg/gg-madou-monogatari-1-title.png"
+      "images/gg/gg-madou-monogatari-1-s1.webp",
+      "images/gg/gg-madou-monogatari-1-m1.webp",
+      "images/gg/gg-madou-monogatari-1-title.webp"
     ],
-    "cover": "images/gg/gg-madou-monogatari-1-box.jpg",
+    "cover": "images/gg/gg-madou-monogatari-1-box.webp",
     "styleMatch": 1,
     "styleNote": "第一人称迷宫RPG，非俯视角"
   },
@@ -1375,13 +1375,13 @@
     "editorScore": 7.8,
     "is2D": true,
     "screenshots": [
-      "images/gg/gg-columns-s1.png",
-      "images/gg/gg-columns-s2.png",
-      "images/gg/gg-columns-s3.png",
-      "images/gg/gg-columns-m1.jpg",
-      "images/gg/gg-columns-title.png"
+      "images/gg/gg-columns-s1.webp",
+      "images/gg/gg-columns-s2.webp",
+      "images/gg/gg-columns-s3.webp",
+      "images/gg/gg-columns-m1.webp",
+      "images/gg/gg-columns-title.webp"
     ],
-    "cover": "images/gg/gg-columns-box.jpg",
+    "cover": "images/gg/gg-columns-box.webp",
     "styleMatch": 0,
     "styleNote": "消除益智游戏"
   },
@@ -1424,13 +1424,13 @@
     "editorScore": 7.7,
     "is2D": true,
     "screenshots": [
-      "images/gg/gg-streets-of-rage-2-s1.png",
-      "images/gg/gg-streets-of-rage-2-x1.png",
-      "images/gg/gg-streets-of-rage-2-m1.png",
-      "images/gg/gg-streets-of-rage-2-m2.jpg",
-      "images/gg/gg-streets-of-rage-2-title.png"
+      "images/gg/gg-streets-of-rage-2-s1.webp",
+      "images/gg/gg-streets-of-rage-2-x1.webp",
+      "images/gg/gg-streets-of-rage-2-m1.webp",
+      "images/gg/gg-streets-of-rage-2-m2.webp",
+      "images/gg/gg-streets-of-rage-2-title.webp"
     ],
-    "cover": "images/gg/gg-streets-of-rage-2-box.jpg",
+    "cover": "images/gg/gg-streets-of-rage-2-box.webp",
     "styleMatch": 1,
     "styleNote": "横版清版动作"
   },
@@ -1476,14 +1476,14 @@
     "styleNote": "俯视角像素迷宫探索，但没有城镇",
     "screenshots": [
       "images/gg/gg-dragon-crystal-s1.png",
-      "images/gg/gg-dragon-crystal-s2.png",
-      "images/gg/gg-dragon-crystal-m1.jpg",
-      "images/gg/gg-dragon-crystal-m2.jpg",
-      "images/gg/gg-dragon-crystal-m3.jpg",
-      "images/gg/gg-dragon-crystal-m4.jpg",
-      "images/gg/gg-dragon-crystal-title.png"
+      "images/gg/gg-dragon-crystal-s2.webp",
+      "images/gg/gg-dragon-crystal-m1.webp",
+      "images/gg/gg-dragon-crystal-m2.webp",
+      "images/gg/gg-dragon-crystal-m3.webp",
+      "images/gg/gg-dragon-crystal-m4.webp",
+      "images/gg/gg-dragon-crystal-title.webp"
     ],
-    "cover": "images/gg/gg-dragon-crystal-box.jpg"
+    "cover": "images/gg/gg-dragon-crystal-box.webp"
   },
   {
     "id": "gg-magic-knight-rayearth",
@@ -1524,14 +1524,14 @@
     "editorScore": 7.5,
     "is2D": true,
     "screenshots": [
-      "images/gg/gg-magic-knight-rayearth-s1.png",
-      "images/gg/gg-magic-knight-rayearth-x1.png",
-      "images/gg/gg-magic-knight-rayearth-y1.png",
-      "images/gg/gg-magic-knight-rayearth-y2.png",
-      "images/gg/gg-magic-knight-rayearth-y3.png",
-      "images/gg/gg-magic-knight-rayearth-title.png"
+      "images/gg/gg-magic-knight-rayearth-s1.webp",
+      "images/gg/gg-magic-knight-rayearth-x1.webp",
+      "images/gg/gg-magic-knight-rayearth-y1.webp",
+      "images/gg/gg-magic-knight-rayearth-y2.webp",
+      "images/gg/gg-magic-knight-rayearth-y3.webp",
+      "images/gg/gg-magic-knight-rayearth-title.webp"
     ],
-    "cover": "images/gg/gg-magic-knight-rayearth-box.jpg",
+    "cover": "images/gg/gg-magic-knight-rayearth-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角城镇与原野的日式RPG"
   },
@@ -1579,14 +1579,14 @@
     "editorScore": 7.5,
     "is2D": true,
     "screenshots": [
-      "images/gg/gg-ax-battler-s1.png",
+      "images/gg/gg-ax-battler-s1.webp",
       "images/gg/gg-ax-battler-s2.png",
-      "images/gg/gg-ax-battler-s3.png",
+      "images/gg/gg-ax-battler-s3.webp",
       "images/gg/gg-ax-battler-m1.jpg",
-      "images/gg/gg-ax-battler-m2.jpg",
-      "images/gg/gg-ax-battler-title.png"
+      "images/gg/gg-ax-battler-m2.webp",
+      "images/gg/gg-ax-battler-title.webp"
     ],
-    "cover": "images/gg/gg-ax-battler-box.jpg",
+    "cover": "images/gg/gg-ax-battler-box.webp",
     "styleMatch": 2,
     "styleNote": "俯视角大地图，横版战斗与城镇"
   },
@@ -1631,16 +1631,16 @@
     "styleMatch": 3,
     "styleNote": "俯视角城镇商店与大地图，经典日式RPG",
     "screenshots": [
-      "images/gg/gg-eternal-legend-s1.png",
-      "images/gg/gg-eternal-legend-x1.jpg",
-      "images/gg/gg-eternal-legend-y1.png",
-      "images/gg/gg-eternal-legend-y2.png",
-      "images/gg/gg-eternal-legend-y3.png",
-      "images/gg/gg-eternal-legend-y4.png",
-      "images/gg/gg-eternal-legend-y5.png",
-      "images/gg/gg-eternal-legend-title.png"
+      "images/gg/gg-eternal-legend-s1.webp",
+      "images/gg/gg-eternal-legend-x1.webp",
+      "images/gg/gg-eternal-legend-y1.webp",
+      "images/gg/gg-eternal-legend-y2.webp",
+      "images/gg/gg-eternal-legend-y3.webp",
+      "images/gg/gg-eternal-legend-y4.webp",
+      "images/gg/gg-eternal-legend-y5.webp",
+      "images/gg/gg-eternal-legend-title.webp"
     ],
-    "cover": "images/gg/gg-eternal-legend-box.jpg"
+    "cover": "images/gg/gg-eternal-legend-box.webp"
   },
   {
     "id": "gg-magic-knight-rayearth-2",
@@ -1683,12 +1683,12 @@
     "styleMatch": 2,
     "styleNote": "俯视角村庄画面，但以日程养成为主",
     "screenshots": [
-      "images/gg/gg-magic-knight-rayearth-2-s1.png",
-      "images/gg/gg-magic-knight-rayearth-2-x1.png",
-      "images/gg/gg-magic-knight-rayearth-2-x2.png",
-      "images/gg/gg-magic-knight-rayearth-2-y1.png",
-      "images/gg/gg-magic-knight-rayearth-2-title.png"
+      "images/gg/gg-magic-knight-rayearth-2-s1.webp",
+      "images/gg/gg-magic-knight-rayearth-2-x1.webp",
+      "images/gg/gg-magic-knight-rayearth-2-x2.webp",
+      "images/gg/gg-magic-knight-rayearth-2-y1.webp",
+      "images/gg/gg-magic-knight-rayearth-2-title.webp"
     ],
-    "cover": "images/gg/gg-magic-knight-rayearth-2-box.jpg"
+    "cover": "images/gg/gg-magic-knight-rayearth-2-box.webp"
   }
 ]

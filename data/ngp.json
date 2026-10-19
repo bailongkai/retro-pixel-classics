@@ -42,12 +42,12 @@
     "editorScore": 9.4,
     "is2D": true,
     "screenshots": [
-      "images/ngp/ngp-match-of-the-millennium-s1.png",
-      "images/ngp/ngp-match-of-the-millennium-x1.jpg",
-      "images/ngp/ngp-match-of-the-millennium-m1.png",
-      "images/ngp/ngp-match-of-the-millennium-title.png"
+      "images/ngp/ngp-match-of-the-millennium-s1.webp",
+      "images/ngp/ngp-match-of-the-millennium-x1.webp",
+      "images/ngp/ngp-match-of-the-millennium-m1.webp",
+      "images/ngp/ngp-match-of-the-millennium-title.webp"
     ],
-    "cover": "images/ngp/ngp-match-of-the-millennium-box.jpg",
+    "cover": "images/ngp/ngp-match-of-the-millennium-box.webp",
     "styleMatch": 0,
     "styleNote": "Q版格斗游戏，与RPG村庄风格无关"
   },
@@ -94,13 +94,13 @@
     "editorScore": 9.3,
     "is2D": true,
     "screenshots": [
-      "images/ngp/ngp-card-fighters-clash-s1.png",
-      "images/ngp/ngp-card-fighters-clash-x1.png",
-      "images/ngp/ngp-card-fighters-clash-x2.png",
-      "images/ngp/ngp-card-fighters-clash-m1.png",
-      "images/ngp/ngp-card-fighters-clash-title.png"
+      "images/ngp/ngp-card-fighters-clash-s1.webp",
+      "images/ngp/ngp-card-fighters-clash-x1.webp",
+      "images/ngp/ngp-card-fighters-clash-x2.webp",
+      "images/ngp/ngp-card-fighters-clash-m1.webp",
+      "images/ngp/ngp-card-fighters-clash-title.webp"
     ],
-    "cover": "images/ngp/ngp-card-fighters-clash-box.jpg",
+    "cover": "images/ngp/ngp-card-fighters-clash-box.webp",
     "styleMatch": 0,
     "styleNote": "卡牌对战游戏，玩法与参考图不同"
   },
@@ -131,14 +131,14 @@
     "editorScore": 9.1,
     "is2D": true,
     "screenshots": [
-      "images/ngp/ngp-card-fighters-2-s1.png",
-      "images/ngp/ngp-card-fighters-2-x1.jpg",
-      "images/ngp/ngp-card-fighters-2-x2.jpg",
-      "images/ngp/ngp-card-fighters-2-m1.jpg",
-      "images/ngp/ngp-card-fighters-2-m2.jpg",
-      "images/ngp/ngp-card-fighters-2-title.png"
+      "images/ngp/ngp-card-fighters-2-s1.webp",
+      "images/ngp/ngp-card-fighters-2-x1.webp",
+      "images/ngp/ngp-card-fighters-2-x2.webp",
+      "images/ngp/ngp-card-fighters-2-m1.webp",
+      "images/ngp/ngp-card-fighters-2-m2.webp",
+      "images/ngp/ngp-card-fighters-2-title.webp"
     ],
-    "cover": "images/ngp/ngp-card-fighters-2-box.jpg",
+    "cover": "images/ngp/ngp-card-fighters-2-box.webp",
     "styleMatch": 0,
     "styleNote": "卡牌对战游戏，玩法与参考图不同"
   },
@@ -185,14 +185,14 @@
     "editorScore": 9.0,
     "is2D": true,
     "screenshots": [
-      "images/ngp/ngp-sonic-pocket-adventure-s1.png",
-      "images/ngp/ngp-sonic-pocket-adventure-x1.jpg",
-      "images/ngp/ngp-sonic-pocket-adventure-x2.jpg",
-      "images/ngp/ngp-sonic-pocket-adventure-m1.png",
-      "images/ngp/ngp-sonic-pocket-adventure-m2.jpg",
-      "images/ngp/ngp-sonic-pocket-adventure-title.png"
+      "images/ngp/ngp-sonic-pocket-adventure-s1.webp",
+      "images/ngp/ngp-sonic-pocket-adventure-x1.webp",
+      "images/ngp/ngp-sonic-pocket-adventure-x2.webp",
+      "images/ngp/ngp-sonic-pocket-adventure-m1.webp",
+      "images/ngp/ngp-sonic-pocket-adventure-m2.webp",
+      "images/ngp/ngp-sonic-pocket-adventure-title.webp"
     ],
-    "cover": "images/ngp/ngp-sonic-pocket-adventure-box.jpg",
+    "cover": "images/ngp/ngp-sonic-pocket-adventure-box.webp",
     "styleMatch": 1,
     "styleNote": "横版像素平台跳跃，仅画风相近"
   },
@@ -223,14 +223,14 @@
     "editorScore": 8.9,
     "is2D": true,
     "screenshots": [
-      "images/ngp/ngp-metal-slug-2nd-mission-s1.png",
-      "images/ngp/ngp-metal-slug-2nd-mission-x1.jpg",
-      "images/ngp/ngp-metal-slug-2nd-mission-x2.jpg",
-      "images/ngp/ngp-metal-slug-2nd-mission-m1.png",
-      "images/ngp/ngp-metal-slug-2nd-mission-m2.jpg",
-      "images/ngp/ngp-metal-slug-2nd-mission-title.png"
+      "images/ngp/ngp-metal-slug-2nd-mission-s1.webp",
+      "images/ngp/ngp-metal-slug-2nd-mission-x1.webp",
+      "images/ngp/ngp-metal-slug-2nd-mission-x2.webp",
+      "images/ngp/ngp-metal-slug-2nd-mission-m1.webp",
+      "images/ngp/ngp-metal-slug-2nd-mission-m2.webp",
+      "images/ngp/ngp-metal-slug-2nd-mission-title.webp"
     ],
-    "cover": "images/ngp/ngp-metal-slug-2nd-mission-box.jpg",
+    "cover": "images/ngp/ngp-metal-slug-2nd-mission-box.webp",
     "styleMatch": 1,
     "styleNote": "横版像素射击，仅年代画风相近"
   },
@@ -272,13 +272,13 @@
     "editorScore": 8.8,
     "is2D": true,
     "screenshots": [
-      "images/ngp/ngp-kof-r2-s1.png",
-      "images/ngp/ngp-kof-r2-x1.jpg",
-      "images/ngp/ngp-kof-r2-x2.jpg",
-      "images/ngp/ngp-kof-r2-m1.png",
-      "images/ngp/ngp-kof-r2-title.png"
+      "images/ngp/ngp-kof-r2-s1.webp",
+      "images/ngp/ngp-kof-r2-x1.webp",
+      "images/ngp/ngp-kof-r2-x2.webp",
+      "images/ngp/ngp-kof-r2-m1.webp",
+      "images/ngp/ngp-kof-r2-title.webp"
     ],
-    "cover": "images/ngp/ngp-kof-r2-box.jpg",
+    "cover": "images/ngp/ngp-kof-r2-box.webp",
     "styleMatch": 0,
     "styleNote": "Q版格斗游戏，与RPG村庄风格无关"
   },
@@ -315,15 +315,15 @@
     "editorScore": 8.7,
     "is2D": true,
     "screenshots": [
-      "images/ngp/ngp-metal-slug-1st-mission-s1.png",
-      "images/ngp/ngp-metal-slug-1st-mission-x1.jpg",
-      "images/ngp/ngp-metal-slug-1st-mission-x2.jpg",
-      "images/ngp/ngp-metal-slug-1st-mission-m1.png",
+      "images/ngp/ngp-metal-slug-1st-mission-s1.webp",
+      "images/ngp/ngp-metal-slug-1st-mission-x1.webp",
+      "images/ngp/ngp-metal-slug-1st-mission-x2.webp",
+      "images/ngp/ngp-metal-slug-1st-mission-m1.webp",
       "images/ngp/ngp-metal-slug-1st-mission-m2.jpg",
-      "images/ngp/ngp-metal-slug-1st-mission-m3.jpg",
-      "images/ngp/ngp-metal-slug-1st-mission-title.png"
+      "images/ngp/ngp-metal-slug-1st-mission-m3.webp",
+      "images/ngp/ngp-metal-slug-1st-mission-title.webp"
     ],
-    "cover": "images/ngp/ngp-metal-slug-1st-mission-box.jpg",
+    "cover": "images/ngp/ngp-metal-slug-1st-mission-box.webp",
     "styleMatch": 1,
     "styleNote": "横版像素射击，仅年代画风相近"
   },
@@ -365,15 +365,15 @@
     "editorScore": 8.6,
     "is2D": true,
     "screenshots": [
-      "images/ngp/ngp-faselei-s1.png",
-      "images/ngp/ngp-faselei-s2.png",
-      "images/ngp/ngp-faselei-m1.png",
-      "images/ngp/ngp-faselei-m2.jpg",
-      "images/ngp/ngp-faselei-m3.jpg",
-      "images/ngp/ngp-faselei-m4.jpg",
-      "images/ngp/ngp-faselei-title.png"
+      "images/ngp/ngp-faselei-s1.webp",
+      "images/ngp/ngp-faselei-s2.webp",
+      "images/ngp/ngp-faselei-m1.webp",
+      "images/ngp/ngp-faselei-m2.webp",
+      "images/ngp/ngp-faselei-m3.webp",
+      "images/ngp/ngp-faselei-m4.webp",
+      "images/ngp/ngp-faselei-title.webp"
     ],
-    "cover": "images/ngp/ngp-faselei-box.jpg",
+    "cover": "images/ngp/ngp-faselei-box.webp",
     "styleMatch": 2,
     "styleNote": "像素战棋RPG，战场地图而非村庄探索"
   },
@@ -410,15 +410,15 @@
     "editorScore": 8.5,
     "is2D": true,
     "screenshots": [
-      "images/ngp/ngp-ogre-battle-gaiden-s1.png",
-      "images/ngp/ngp-ogre-battle-gaiden-x1.jpg",
-      "images/ngp/ngp-ogre-battle-gaiden-x2.jpg",
-      "images/ngp/ngp-ogre-battle-gaiden-m1.png",
-      "images/ngp/ngp-ogre-battle-gaiden-m2.png",
-      "images/ngp/ngp-ogre-battle-gaiden-m3.jpg",
+      "images/ngp/ngp-ogre-battle-gaiden-s1.webp",
+      "images/ngp/ngp-ogre-battle-gaiden-x1.webp",
+      "images/ngp/ngp-ogre-battle-gaiden-x2.webp",
+      "images/ngp/ngp-ogre-battle-gaiden-m1.webp",
+      "images/ngp/ngp-ogre-battle-gaiden-m2.webp",
+      "images/ngp/ngp-ogre-battle-gaiden-m3.webp",
       "images/ngp/ngp-ogre-battle-gaiden-title.png"
     ],
-    "cover": "images/ngp/ngp-ogre-battle-gaiden-box.jpg",
+    "cover": "images/ngp/ngp-ogre-battle-gaiden-box.webp",
     "styleMatch": 2,
     "styleNote": "即时行军战略RPG，大地图占领城镇"
   },
@@ -461,14 +461,14 @@
     "is2D": true,
     "screenshots": [
       "images/ngp/ngp-puyo-pop-s1.png",
-      "images/ngp/ngp-puyo-pop-s2.png",
-      "images/ngp/ngp-puyo-pop-m1.png",
-      "images/ngp/ngp-puyo-pop-m2.jpg",
-      "images/ngp/ngp-puyo-pop-m3.jpg",
-      "images/ngp/ngp-puyo-pop-m4.jpg",
-      "images/ngp/ngp-puyo-pop-title.png"
+      "images/ngp/ngp-puyo-pop-s2.webp",
+      "images/ngp/ngp-puyo-pop-m1.webp",
+      "images/ngp/ngp-puyo-pop-m2.webp",
+      "images/ngp/ngp-puyo-pop-m3.webp",
+      "images/ngp/ngp-puyo-pop-m4.webp",
+      "images/ngp/ngp-puyo-pop-title.webp"
     ],
-    "cover": "images/ngp/ngp-puyo-pop-box.jpg",
+    "cover": "images/ngp/ngp-puyo-pop-box.webp",
     "styleMatch": 0,
     "styleNote": "益智消除游戏，与参考图类型不同"
   },
@@ -510,15 +510,15 @@
     "editorScore": 8.3,
     "is2D": true,
     "screenshots": [
-      "images/ngp/ngp-last-blade-s1.png",
-      "images/ngp/ngp-last-blade-x1.jpg",
-      "images/ngp/ngp-last-blade-x2.jpg",
-      "images/ngp/ngp-last-blade-m1.png",
+      "images/ngp/ngp-last-blade-s1.webp",
+      "images/ngp/ngp-last-blade-x1.webp",
+      "images/ngp/ngp-last-blade-x2.webp",
+      "images/ngp/ngp-last-blade-m1.webp",
       "images/ngp/ngp-last-blade-m2.jpg",
-      "images/ngp/ngp-last-blade-m3.jpg",
-      "images/ngp/ngp-last-blade-title.png"
+      "images/ngp/ngp-last-blade-m3.webp",
+      "images/ngp/ngp-last-blade-title.webp"
     ],
-    "cover": "images/ngp/ngp-last-blade-box.jpg",
+    "cover": "images/ngp/ngp-last-blade-box.webp",
     "styleMatch": 0,
     "styleNote": "Q版格斗游戏，与RPG村庄风格无关"
   },
@@ -560,15 +560,15 @@
     "editorScore": 8.2,
     "is2D": true,
     "screenshots": [
-      "images/ngp/ngp-biomotor-unitron-s1.png",
-      "images/ngp/ngp-biomotor-unitron-s2.png",
-      "images/ngp/ngp-biomotor-unitron-m1.jpg",
-      "images/ngp/ngp-biomotor-unitron-m2.png",
-      "images/ngp/ngp-biomotor-unitron-m3.jpg",
+      "images/ngp/ngp-biomotor-unitron-s1.webp",
+      "images/ngp/ngp-biomotor-unitron-s2.webp",
+      "images/ngp/ngp-biomotor-unitron-m1.webp",
+      "images/ngp/ngp-biomotor-unitron-m2.webp",
+      "images/ngp/ngp-biomotor-unitron-m3.webp",
       "images/ngp/ngp-biomotor-unitron-m4.jpg",
-      "images/ngp/ngp-biomotor-unitron-title.png"
+      "images/ngp/ngp-biomotor-unitron-title.webp"
     ],
-    "cover": "images/ngp/ngp-biomotor-unitron-box.jpg",
+    "cover": "images/ngp/ngp-biomotor-unitron-box.webp",
     "styleMatch": 2,
     "styleNote": "像素RPG，城镇为菜单式，俯视角迷宫"
   },
@@ -610,15 +610,15 @@
     "editorScore": 8.0,
     "is2D": true,
     "screenshots": [
-      "images/ngp/ngp-samurai-shodown-2-s1.png",
-      "images/ngp/ngp-samurai-shodown-2-x1.jpg",
-      "images/ngp/ngp-samurai-shodown-2-x2.jpg",
-      "images/ngp/ngp-samurai-shodown-2-m1.png",
-      "images/ngp/ngp-samurai-shodown-2-m2.jpg",
-      "images/ngp/ngp-samurai-shodown-2-m3.jpg",
-      "images/ngp/ngp-samurai-shodown-2-title.png"
+      "images/ngp/ngp-samurai-shodown-2-s1.webp",
+      "images/ngp/ngp-samurai-shodown-2-x1.webp",
+      "images/ngp/ngp-samurai-shodown-2-x2.webp",
+      "images/ngp/ngp-samurai-shodown-2-m1.webp",
+      "images/ngp/ngp-samurai-shodown-2-m2.webp",
+      "images/ngp/ngp-samurai-shodown-2-m3.webp",
+      "images/ngp/ngp-samurai-shodown-2-title.webp"
     ],
-    "cover": "images/ngp/ngp-samurai-shodown-2-box.jpg",
+    "cover": "images/ngp/ngp-samurai-shodown-2-box.webp",
     "styleMatch": 0,
     "styleNote": "Q版格斗游戏，与RPG村庄风格无关"
   },
@@ -660,15 +660,15 @@
     "editorScore": 7.9,
     "is2D": true,
     "screenshots": [
-      "images/ngp/ngp-snk-gals-fighters-s1.png",
-      "images/ngp/ngp-snk-gals-fighters-s2.png",
-      "images/ngp/ngp-snk-gals-fighters-m1.png",
-      "images/ngp/ngp-snk-gals-fighters-m2.jpg",
-      "images/ngp/ngp-snk-gals-fighters-m3.jpg",
-      "images/ngp/ngp-snk-gals-fighters-m4.jpg",
-      "images/ngp/ngp-snk-gals-fighters-title.png"
+      "images/ngp/ngp-snk-gals-fighters-s1.webp",
+      "images/ngp/ngp-snk-gals-fighters-s2.webp",
+      "images/ngp/ngp-snk-gals-fighters-m1.webp",
+      "images/ngp/ngp-snk-gals-fighters-m2.webp",
+      "images/ngp/ngp-snk-gals-fighters-m3.webp",
+      "images/ngp/ngp-snk-gals-fighters-m4.webp",
+      "images/ngp/ngp-snk-gals-fighters-title.webp"
     ],
-    "cover": "images/ngp/ngp-snk-gals-fighters-box.jpg",
+    "cover": "images/ngp/ngp-snk-gals-fighters-box.webp",
     "styleMatch": 0,
     "styleNote": "Q版格斗游戏，与RPG村庄风格无关"
   },
@@ -700,13 +700,13 @@
     "editorScore": 7.9,
     "is2D": true,
     "screenshots": [
-      "images/ngp/ngp-kikou-seiki-unitron-s1.png",
-      "images/ngp/ngp-kikou-seiki-unitron-x2.jpg",
-      "images/ngp/ngp-kikou-seiki-unitron-y1.png",
-      "images/ngp/ngp-kikou-seiki-unitron-y2.png",
-      "images/ngp/ngp-kikou-seiki-unitron-title.png"
+      "images/ngp/ngp-kikou-seiki-unitron-s1.webp",
+      "images/ngp/ngp-kikou-seiki-unitron-x2.webp",
+      "images/ngp/ngp-kikou-seiki-unitron-y1.webp",
+      "images/ngp/ngp-kikou-seiki-unitron-y2.webp",
+      "images/ngp/ngp-kikou-seiki-unitron-title.webp"
     ],
-    "cover": "images/ngp/ngp-kikou-seiki-unitron-box.jpg",
+    "cover": "images/ngp/ngp-kikou-seiki-unitron-box.webp",
     "styleMatch": 2,
     "styleNote": "像素RPG，城镇为菜单式，俯视角迷宫"
   },
@@ -753,15 +753,15 @@
     "editorScore": 7.8,
     "is2D": true,
     "screenshots": [
-      "images/ngp/ngp-dark-arms-s1.png",
-      "images/ngp/ngp-dark-arms-x1.jpg",
-      "images/ngp/ngp-dark-arms-x2.jpg",
-      "images/ngp/ngp-dark-arms-m1.png",
+      "images/ngp/ngp-dark-arms-s1.webp",
+      "images/ngp/ngp-dark-arms-x1.webp",
+      "images/ngp/ngp-dark-arms-x2.webp",
+      "images/ngp/ngp-dark-arms-m1.webp",
       "images/ngp/ngp-dark-arms-m2.jpg",
       "images/ngp/ngp-dark-arms-m3.jpg",
-      "images/ngp/ngp-dark-arms-title.png"
+      "images/ngp/ngp-dark-arms-title.webp"
     ],
-    "cover": "images/ngp/ngp-dark-arms-box.jpg",
+    "cover": "images/ngp/ngp-dark-arms-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素ARPG，带血条HUD自由探索"
   },
@@ -792,15 +792,15 @@
     "editorScore": 7.8,
     "is2D": true,
     "screenshots": [
-      "images/ngp/ngp-magical-drop-pocket-s1.png",
-      "images/ngp/ngp-magical-drop-pocket-s2.png",
-      "images/ngp/ngp-magical-drop-pocket-m1.png",
-      "images/ngp/ngp-magical-drop-pocket-m2.jpg",
-      "images/ngp/ngp-magical-drop-pocket-m3.jpg",
-      "images/ngp/ngp-magical-drop-pocket-m4.jpg",
-      "images/ngp/ngp-magical-drop-pocket-title.png"
+      "images/ngp/ngp-magical-drop-pocket-s1.webp",
+      "images/ngp/ngp-magical-drop-pocket-s2.webp",
+      "images/ngp/ngp-magical-drop-pocket-m1.webp",
+      "images/ngp/ngp-magical-drop-pocket-m2.webp",
+      "images/ngp/ngp-magical-drop-pocket-m3.webp",
+      "images/ngp/ngp-magical-drop-pocket-m4.webp",
+      "images/ngp/ngp-magical-drop-pocket-title.webp"
     ],
-    "cover": "images/ngp/ngp-magical-drop-pocket-box.jpg",
+    "cover": "images/ngp/ngp-magical-drop-pocket-box.webp",
     "styleMatch": 0,
     "styleNote": "益智消除游戏，与参考图类型不同"
   },
@@ -837,15 +837,15 @@
     "editorScore": 7.7,
     "is2D": true,
     "screenshots": [
-      "images/ngp/ngp-puzzle-bobble-mini-s1.png",
-      "images/ngp/ngp-puzzle-bobble-mini-s2.png",
-      "images/ngp/ngp-puzzle-bobble-mini-m1.jpg",
-      "images/ngp/ngp-puzzle-bobble-mini-m2.jpg",
-      "images/ngp/ngp-puzzle-bobble-mini-m3.jpg",
-      "images/ngp/ngp-puzzle-bobble-mini-m4.jpg",
-      "images/ngp/ngp-puzzle-bobble-mini-title.png"
+      "images/ngp/ngp-puzzle-bobble-mini-s1.webp",
+      "images/ngp/ngp-puzzle-bobble-mini-s2.webp",
+      "images/ngp/ngp-puzzle-bobble-mini-m1.webp",
+      "images/ngp/ngp-puzzle-bobble-mini-m2.webp",
+      "images/ngp/ngp-puzzle-bobble-mini-m3.webp",
+      "images/ngp/ngp-puzzle-bobble-mini-m4.webp",
+      "images/ngp/ngp-puzzle-bobble-mini-title.webp"
     ],
-    "cover": "images/ngp/ngp-puzzle-bobble-mini-box.jpg",
+    "cover": "images/ngp/ngp-puzzle-bobble-mini-box.webp",
     "styleMatch": 0,
     "styleNote": "益智消除游戏，与参考图类型不同"
   },
@@ -887,13 +887,13 @@
     "editorScore": 7.6,
     "is2D": true,
     "screenshots": [
-      "images/ngp/ngp-fatal-fury-first-contact-s1.png",
-      "images/ngp/ngp-fatal-fury-first-contact-x1.jpg",
-      "images/ngp/ngp-fatal-fury-first-contact-x2.jpg",
-      "images/ngp/ngp-fatal-fury-first-contact-m1.png",
-      "images/ngp/ngp-fatal-fury-first-contact-title.png"
+      "images/ngp/ngp-fatal-fury-first-contact-s1.webp",
+      "images/ngp/ngp-fatal-fury-first-contact-x1.webp",
+      "images/ngp/ngp-fatal-fury-first-contact-x2.webp",
+      "images/ngp/ngp-fatal-fury-first-contact-m1.webp",
+      "images/ngp/ngp-fatal-fury-first-contact-title.webp"
     ],
-    "cover": "images/ngp/ngp-fatal-fury-first-contact-box.jpg",
+    "cover": "images/ngp/ngp-fatal-fury-first-contact-box.webp",
     "styleMatch": 0,
     "styleNote": "Q版格斗游戏，与RPG村庄风格无关"
   },
@@ -930,13 +930,13 @@
     "editorScore": 7.5,
     "is2D": true,
     "screenshots": [
-      "images/ngp/ngp-neo-turf-masters-s1.png",
-      "images/ngp/ngp-neo-turf-masters-x1.jpg",
-      "images/ngp/ngp-neo-turf-masters-x2.jpg",
-      "images/ngp/ngp-neo-turf-masters-m1.png",
-      "images/ngp/ngp-neo-turf-masters-title.png"
+      "images/ngp/ngp-neo-turf-masters-s1.webp",
+      "images/ngp/ngp-neo-turf-masters-x1.webp",
+      "images/ngp/ngp-neo-turf-masters-x2.webp",
+      "images/ngp/ngp-neo-turf-masters-m1.webp",
+      "images/ngp/ngp-neo-turf-masters-title.webp"
     ],
-    "cover": "images/ngp/ngp-neo-turf-masters-box.jpg",
+    "cover": "images/ngp/ngp-neo-turf-masters-box.webp",
     "styleMatch": 0,
     "styleNote": "高尔夫体育游戏，类型完全不同"
   },
@@ -967,14 +967,14 @@
     "editorScore": 7.3,
     "is2D": true,
     "screenshots": [
-      "images/ngp/ngp-evolution-s1.png",
-      "images/ngp/ngp-evolution-x1.jpg",
-      "images/ngp/ngp-evolution-m1.png",
-      "images/ngp/ngp-evolution-y1.png",
-      "images/ngp/ngp-evolution-y2.png",
-      "images/ngp/ngp-evolution-title.png"
+      "images/ngp/ngp-evolution-s1.webp",
+      "images/ngp/ngp-evolution-x1.webp",
+      "images/ngp/ngp-evolution-m1.webp",
+      "images/ngp/ngp-evolution-y1.webp",
+      "images/ngp/ngp-evolution-y2.webp",
+      "images/ngp/ngp-evolution-title.webp"
     ],
-    "cover": "images/ngp/ngp-evolution-box.jpg",
+    "cover": "images/ngp/ngp-evolution-box.webp",
     "styleMatch": 2,
     "styleNote": "像素RPG，俯视角随机迷宫，无城镇漫步"
   },
@@ -1011,15 +1011,15 @@
     "editorScore": 7.2,
     "is2D": true,
     "screenshots": [
-      "images/ngp/ngp-rockman-battle-fighters-s1.png",
-      "images/ngp/ngp-rockman-battle-fighters-x1.jpg",
+      "images/ngp/ngp-rockman-battle-fighters-s1.webp",
+      "images/ngp/ngp-rockman-battle-fighters-x1.webp",
       "images/ngp/ngp-rockman-battle-fighters-x2.jpg",
-      "images/ngp/ngp-rockman-battle-fighters-m1.png",
+      "images/ngp/ngp-rockman-battle-fighters-m1.webp",
       "images/ngp/ngp-rockman-battle-fighters-m2.jpg",
       "images/ngp/ngp-rockman-battle-fighters-m3.jpg",
-      "images/ngp/ngp-rockman-battle-fighters-title.png"
+      "images/ngp/ngp-rockman-battle-fighters-title.webp"
     ],
-    "cover": "images/ngp/ngp-rockman-battle-fighters-box.jpg",
+    "cover": "images/ngp/ngp-rockman-battle-fighters-box.webp",
     "styleMatch": 1,
     "styleNote": "横版像素Boss连战动作，仅画风相近"
   },
@@ -1056,13 +1056,13 @@
     "editorScore": 7.0,
     "is2D": true,
     "screenshots": [
-      "images/ngp/ngp-pac-man-s1.png",
-      "images/ngp/ngp-pac-man-x1.jpg",
-      "images/ngp/ngp-pac-man-x2.jpg",
-      "images/ngp/ngp-pac-man-m1.png",
-      "images/ngp/ngp-pac-man-title.png"
+      "images/ngp/ngp-pac-man-s1.webp",
+      "images/ngp/ngp-pac-man-x1.webp",
+      "images/ngp/ngp-pac-man-x2.webp",
+      "images/ngp/ngp-pac-man-m1.webp",
+      "images/ngp/ngp-pac-man-title.webp"
     ],
-    "cover": "images/ngp/ngp-pac-man-box.jpg",
+    "cover": "images/ngp/ngp-pac-man-box.webp",
     "styleMatch": 0,
     "styleNote": "街机迷宫游戏，类型完全不同"
   }

@@ -43,15 +43,15 @@
     "editorScore": 9.8,
     "is2D": true,
     "screenshots": [
-      "images/fc/fc-super-mario-bros-3-s1.png",
-      "images/fc/fc-super-mario-bros-3-x1.png",
-      "images/fc/fc-super-mario-bros-3-x2.png",
-      "images/fc/fc-super-mario-bros-3-m1.jpg",
-      "images/fc/fc-super-mario-bros-3-m2.jpg",
-      "images/fc/fc-super-mario-bros-3-m3.jpg",
-      "images/fc/fc-super-mario-bros-3-title.png"
+      "images/fc/fc-super-mario-bros-3-s1.webp",
+      "images/fc/fc-super-mario-bros-3-x1.webp",
+      "images/fc/fc-super-mario-bros-3-x2.webp",
+      "images/fc/fc-super-mario-bros-3-m1.webp",
+      "images/fc/fc-super-mario-bros-3-m2.webp",
+      "images/fc/fc-super-mario-bros-3-m3.webp",
+      "images/fc/fc-super-mario-bros-3-title.webp"
     ],
-    "cover": "images/fc/fc-super-mario-bros-3-box.jpg",
+    "cover": "images/fc/fc-super-mario-bros-3-box.webp",
     "styleMatch": 1,
     "styleNote": "横版跳跃，像素风相近但无村庄"
   },
@@ -94,15 +94,15 @@
     "editorScore": 9.7,
     "is2D": true,
     "screenshots": [
-      "images/fc/fc-dragon-quest-iii-s1.png",
-      "images/fc/fc-dragon-quest-iii-s2.png",
-      "images/fc/fc-dragon-quest-iii-m1.png",
-      "images/fc/fc-dragon-quest-iii-m2.png",
-      "images/fc/fc-dragon-quest-iii-m3.png",
-      "images/fc/fc-dragon-quest-iii-m4.jpg",
-      "images/fc/fc-dragon-quest-iii-title.png"
+      "images/fc/fc-dragon-quest-iii-s1.webp",
+      "images/fc/fc-dragon-quest-iii-s2.webp",
+      "images/fc/fc-dragon-quest-iii-m1.webp",
+      "images/fc/fc-dragon-quest-iii-m2.webp",
+      "images/fc/fc-dragon-quest-iii-m3.webp",
+      "images/fc/fc-dragon-quest-iii-m4.webp",
+      "images/fc/fc-dragon-quest-iii-title.webp"
     ],
-    "cover": "images/fc/fc-dragon-quest-iii-box.jpg",
+    "cover": "images/fc/fc-dragon-quest-iii-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素RPG，自由逛城镇与商店"
   },
@@ -145,15 +145,15 @@
     "editorScore": 9.5,
     "is2D": true,
     "screenshots": [
-      "images/fc/fc-legend-of-zelda-s1.png",
-      "images/fc/fc-legend-of-zelda-s3.png",
-      "images/fc/fc-legend-of-zelda-m1.png",
-      "images/fc/fc-legend-of-zelda-m2.png",
-      "images/fc/fc-legend-of-zelda-m3.png",
+      "images/fc/fc-legend-of-zelda-s1.webp",
+      "images/fc/fc-legend-of-zelda-s3.webp",
+      "images/fc/fc-legend-of-zelda-m1.webp",
+      "images/fc/fc-legend-of-zelda-m2.webp",
+      "images/fc/fc-legend-of-zelda-m3.webp",
       "images/fc/fc-legend-of-zelda-m4.png",
-      "images/fc/fc-legend-of-zelda-title.png"
+      "images/fc/fc-legend-of-zelda-title.webp"
     ],
-    "cover": "images/fc/fc-legend-of-zelda-box.jpg",
+    "cover": "images/fc/fc-legend-of-zelda-box.webp",
     "styleMatch": 2,
     "styleNote": "俯视角动作冒险，但几乎没有村庄"
   },
@@ -198,13 +198,13 @@
     "screenshots": [
       "images/fc/fc-final-fantasy-iii-s1.png",
       "images/fc/fc-final-fantasy-iii-s2.png",
-      "images/fc/fc-final-fantasy-iii-s3.png",
-      "images/fc/fc-final-fantasy-iii-m1.png",
-      "images/fc/fc-final-fantasy-iii-m2.png",
-      "images/fc/fc-final-fantasy-iii-m3.png",
-      "images/fc/fc-final-fantasy-iii-title.png"
+      "images/fc/fc-final-fantasy-iii-s3.webp",
+      "images/fc/fc-final-fantasy-iii-m1.webp",
+      "images/fc/fc-final-fantasy-iii-m2.webp",
+      "images/fc/fc-final-fantasy-iii-m3.webp",
+      "images/fc/fc-final-fantasy-iii-title.webp"
     ],
-    "cover": "images/fc/fc-final-fantasy-iii-box.jpg",
+    "cover": "images/fc/fc-final-fantasy-iii-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素RPG，城镇村落可自由探索"
   },
@@ -247,15 +247,15 @@
     "editorScore": 9.4,
     "is2D": true,
     "screenshots": [
-      "images/fc/fc-mother-s1.png",
-      "images/fc/fc-mother-s2.png",
-      "images/fc/fc-mother-m1.jpg",
-      "images/fc/fc-mother-m2.png",
-      "images/fc/fc-mother-m3.png",
-      "images/fc/fc-mother-m4.jpg",
-      "images/fc/fc-mother-title.png"
+      "images/fc/fc-mother-s1.webp",
+      "images/fc/fc-mother-s2.webp",
+      "images/fc/fc-mother-m1.webp",
+      "images/fc/fc-mother-m2.webp",
+      "images/fc/fc-mother-m3.webp",
+      "images/fc/fc-mother-m4.webp",
+      "images/fc/fc-mother-title.webp"
     ],
-    "cover": "images/fc/fc-mother-box.jpg",
+    "cover": "images/fc/fc-mother-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素RPG，小镇商店自由漫步"
   },
@@ -303,15 +303,15 @@
     "editorScore": 9.4,
     "is2D": true,
     "screenshots": [
-      "images/fc/fc-mega-man-2-s1.png",
-      "images/fc/fc-mega-man-2-s2.png",
-      "images/fc/fc-mega-man-2-m1.png",
-      "images/fc/fc-mega-man-2-m2.png",
-      "images/fc/fc-mega-man-2-m3.png",
-      "images/fc/fc-mega-man-2-m4.jpg",
-      "images/fc/fc-mega-man-2-title.png"
+      "images/fc/fc-mega-man-2-s1.webp",
+      "images/fc/fc-mega-man-2-s2.webp",
+      "images/fc/fc-mega-man-2-m1.webp",
+      "images/fc/fc-mega-man-2-m2.webp",
+      "images/fc/fc-mega-man-2-m3.webp",
+      "images/fc/fc-mega-man-2-m4.webp",
+      "images/fc/fc-mega-man-2-title.webp"
     ],
-    "cover": "images/fc/fc-mega-man-2-box.jpg",
+    "cover": "images/fc/fc-mega-man-2-box.webp",
     "styleMatch": 1,
     "styleNote": "横版动作，仅时代像素风相近"
   },
@@ -354,15 +354,15 @@
     "editorScore": 9.3,
     "is2D": true,
     "screenshots": [
-      "images/fc/fc-castlevania-iii-s1.png",
-      "images/fc/fc-castlevania-iii-s2.png",
-      "images/fc/fc-castlevania-iii-m1.png",
+      "images/fc/fc-castlevania-iii-s1.webp",
+      "images/fc/fc-castlevania-iii-s2.webp",
+      "images/fc/fc-castlevania-iii-m1.webp",
       "images/fc/fc-castlevania-iii-m2.jpg",
-      "images/fc/fc-castlevania-iii-m3.png",
-      "images/fc/fc-castlevania-iii-m4.jpg",
-      "images/fc/fc-castlevania-iii-title.png"
+      "images/fc/fc-castlevania-iii-m3.webp",
+      "images/fc/fc-castlevania-iii-m4.webp",
+      "images/fc/fc-castlevania-iii-title.webp"
     ],
-    "cover": "images/fc/fc-castlevania-iii-box.jpg",
+    "cover": "images/fc/fc-castlevania-iii-box.webp",
     "styleMatch": 1,
     "styleNote": "横版动作，无城镇探索"
   },
@@ -405,15 +405,15 @@
     "editorScore": 9.3,
     "is2D": true,
     "screenshots": [
-      "images/fc/fc-contra-s1.png",
-      "images/fc/fc-contra-s2.png",
-      "images/fc/fc-contra-s3.png",
-      "images/fc/fc-contra-m1.png",
-      "images/fc/fc-contra-m2.png",
-      "images/fc/fc-contra-m3.png",
-      "images/fc/fc-contra-title.png"
+      "images/fc/fc-contra-s1.webp",
+      "images/fc/fc-contra-s2.webp",
+      "images/fc/fc-contra-s3.webp",
+      "images/fc/fc-contra-m1.webp",
+      "images/fc/fc-contra-m2.webp",
+      "images/fc/fc-contra-m3.webp",
+      "images/fc/fc-contra-title.webp"
     ],
-    "cover": "images/fc/fc-contra-box.jpg",
+    "cover": "images/fc/fc-contra-box.webp",
     "styleMatch": 0,
     "styleNote": "横版射击游戏"
   },
@@ -456,15 +456,15 @@
     "editorScore": 9.3,
     "is2D": true,
     "screenshots": [
-      "images/fc/fc-super-mario-bros-s1.png",
-      "images/fc/fc-super-mario-bros-s2.png",
-      "images/fc/fc-super-mario-bros-s3.png",
-      "images/fc/fc-super-mario-bros-m1.jpg",
-      "images/fc/fc-super-mario-bros-m2.png",
-      "images/fc/fc-super-mario-bros-m3.jpg",
-      "images/fc/fc-super-mario-bros-title.png"
+      "images/fc/fc-super-mario-bros-s1.webp",
+      "images/fc/fc-super-mario-bros-s2.webp",
+      "images/fc/fc-super-mario-bros-s3.webp",
+      "images/fc/fc-super-mario-bros-m1.webp",
+      "images/fc/fc-super-mario-bros-m2.webp",
+      "images/fc/fc-super-mario-bros-m3.webp",
+      "images/fc/fc-super-mario-bros-title.webp"
     ],
-    "cover": "images/fc/fc-super-mario-bros-box.jpg",
+    "cover": "images/fc/fc-super-mario-bros-box.webp",
     "styleMatch": 1,
     "styleNote": "横版跳跃，仅像素风相近"
   },
@@ -504,13 +504,13 @@
     "screenshots": [
       "images/fc/fc-dragon-quest-iv-s1.png",
       "images/fc/fc-dragon-quest-iv-s2.png",
-      "images/fc/fc-dragon-quest-iv-m1.png",
-      "images/fc/fc-dragon-quest-iv-m2.png",
-      "images/fc/fc-dragon-quest-iv-m3.png",
-      "images/fc/fc-dragon-quest-iv-m4.jpg",
-      "images/fc/fc-dragon-quest-iv-title.png"
+      "images/fc/fc-dragon-quest-iv-m1.webp",
+      "images/fc/fc-dragon-quest-iv-m2.webp",
+      "images/fc/fc-dragon-quest-iv-m3.webp",
+      "images/fc/fc-dragon-quest-iv-m4.webp",
+      "images/fc/fc-dragon-quest-iv-title.webp"
     ],
-    "cover": "images/fc/fc-dragon-quest-iv-box.jpg",
+    "cover": "images/fc/fc-dragon-quest-iv-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素RPG，城镇村庄自由探索"
   },
@@ -553,13 +553,13 @@
     "editorScore": 9.2,
     "is2D": true,
     "screenshots": [
-      "images/fc/fc-metal-max-s1.png",
-      "images/fc/fc-metal-max-x1.png",
-      "images/fc/fc-metal-max-x2.png",
-      "images/fc/fc-metal-max-m1.png",
-      "images/fc/fc-metal-max-title.png"
+      "images/fc/fc-metal-max-s1.webp",
+      "images/fc/fc-metal-max-x1.webp",
+      "images/fc/fc-metal-max-x2.webp",
+      "images/fc/fc-metal-max-m1.webp",
+      "images/fc/fc-metal-max-title.webp"
     ],
-    "cover": "images/fc/fc-metal-max-box.jpg",
+    "cover": "images/fc/fc-metal-max-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素RPG，可逛城镇与商店"
   },
@@ -607,15 +607,15 @@
     "editorScore": 9.2,
     "is2D": true,
     "screenshots": [
-      "images/fc/fc-kirbys-adventure-s1.png",
-      "images/fc/fc-kirbys-adventure-s2.png",
-      "images/fc/fc-kirbys-adventure-m1.jpg",
-      "images/fc/fc-kirbys-adventure-m2.png",
-      "images/fc/fc-kirbys-adventure-m3.png",
-      "images/fc/fc-kirbys-adventure-m4.jpg",
-      "images/fc/fc-kirbys-adventure-title.png"
+      "images/fc/fc-kirbys-adventure-s1.webp",
+      "images/fc/fc-kirbys-adventure-s2.webp",
+      "images/fc/fc-kirbys-adventure-m1.webp",
+      "images/fc/fc-kirbys-adventure-m2.webp",
+      "images/fc/fc-kirbys-adventure-m3.webp",
+      "images/fc/fc-kirbys-adventure-m4.webp",
+      "images/fc/fc-kirbys-adventure-title.webp"
     ],
-    "cover": "images/fc/fc-kirbys-adventure-box.jpg",
+    "cover": "images/fc/fc-kirbys-adventure-box.webp",
     "styleMatch": 1,
     "styleNote": "横版跳跃，色彩明快但无村庄"
   },
@@ -658,15 +658,15 @@
     "editorScore": 9.1,
     "is2D": true,
     "screenshots": [
-      "images/fc/fc-ninja-gaiden-s1.png",
-      "images/fc/fc-ninja-gaiden-x1.png",
-      "images/fc/fc-ninja-gaiden-m1.jpg",
-      "images/fc/fc-ninja-gaiden-m2.jpg",
-      "images/fc/fc-ninja-gaiden-m3.jpg",
-      "images/fc/fc-ninja-gaiden-m4.jpg",
-      "images/fc/fc-ninja-gaiden-title.png"
+      "images/fc/fc-ninja-gaiden-s1.webp",
+      "images/fc/fc-ninja-gaiden-x1.webp",
+      "images/fc/fc-ninja-gaiden-m1.webp",
+      "images/fc/fc-ninja-gaiden-m2.webp",
+      "images/fc/fc-ninja-gaiden-m3.webp",
+      "images/fc/fc-ninja-gaiden-m4.webp",
+      "images/fc/fc-ninja-gaiden-title.webp"
     ],
-    "cover": "images/fc/fc-ninja-gaiden-box.jpg",
+    "cover": "images/fc/fc-ninja-gaiden-box.webp",
     "styleMatch": 1,
     "styleNote": "横版动作，无城镇探索"
   },
@@ -709,15 +709,15 @@
     "editorScore": 9.1,
     "is2D": true,
     "screenshots": [
-      "images/fc/fc-fire-emblem-s1.png",
-      "images/fc/fc-fire-emblem-x1.png",
-      "images/fc/fc-fire-emblem-y1.jpg",
-      "images/fc/fc-fire-emblem-y2.jpg",
-      "images/fc/fc-fire-emblem-y3.png",
-      "images/fc/fc-fire-emblem-y4.png",
-      "images/fc/fc-fire-emblem-title.png"
+      "images/fc/fc-fire-emblem-s1.webp",
+      "images/fc/fc-fire-emblem-x1.webp",
+      "images/fc/fc-fire-emblem-y1.webp",
+      "images/fc/fc-fire-emblem-y2.webp",
+      "images/fc/fc-fire-emblem-y3.webp",
+      "images/fc/fc-fire-emblem-y4.webp",
+      "images/fc/fc-fire-emblem-title.webp"
     ],
-    "cover": "images/fc/fc-fire-emblem-box.jpg",
+    "cover": "images/fc/fc-fire-emblem-box.webp",
     "styleMatch": 2,
     "styleNote": "战棋RPG，地图俯视但无法逛村"
   },
@@ -760,15 +760,15 @@
     "editorScore": 9.0,
     "is2D": true,
     "screenshots": [
-      "images/fc/fc-gimmick-s1.png",
-      "images/fc/fc-gimmick-s2.png",
-      "images/fc/fc-gimmick-m1.png",
-      "images/fc/fc-gimmick-m2.png",
-      "images/fc/fc-gimmick-m3.png",
-      "images/fc/fc-gimmick-m4.jpg",
-      "images/fc/fc-gimmick-title.png"
+      "images/fc/fc-gimmick-s1.webp",
+      "images/fc/fc-gimmick-s2.webp",
+      "images/fc/fc-gimmick-m1.webp",
+      "images/fc/fc-gimmick-m2.webp",
+      "images/fc/fc-gimmick-m3.webp",
+      "images/fc/fc-gimmick-m4.webp",
+      "images/fc/fc-gimmick-title.webp"
     ],
-    "cover": "images/fc/fc-gimmick-box.jpg",
+    "cover": "images/fc/fc-gimmick-box.webp",
     "styleMatch": 1,
     "styleNote": "横版跳跃，仅像素风相近"
   },
@@ -811,15 +811,15 @@
     "editorScore": 9.0,
     "is2D": true,
     "screenshots": [
-      "images/fc/fc-river-city-ransom-s1.png",
-      "images/fc/fc-river-city-ransom-s2.png",
-      "images/fc/fc-river-city-ransom-s3.png",
+      "images/fc/fc-river-city-ransom-s1.webp",
+      "images/fc/fc-river-city-ransom-s2.webp",
+      "images/fc/fc-river-city-ransom-s3.webp",
       "images/fc/fc-river-city-ransom-m1.jpg",
-      "images/fc/fc-river-city-ransom-m2.jpg",
-      "images/fc/fc-river-city-ransom-m3.jpg",
-      "images/fc/fc-river-city-ransom-title.png"
+      "images/fc/fc-river-city-ransom-m2.webp",
+      "images/fc/fc-river-city-ransom-m3.webp",
+      "images/fc/fc-river-city-ransom-title.webp"
     ],
-    "cover": "images/fc/fc-river-city-ransom-box.jpg",
+    "cover": "images/fc/fc-river-city-ransom-box.webp",
     "styleMatch": 1,
     "styleNote": "横版清版，虽有商店但非俯视"
   },
@@ -864,13 +864,13 @@
     "screenshots": [
       "images/fc/fc-metroid-s1.png",
       "images/fc/fc-metroid-s2.png",
-      "images/fc/fc-metroid-s3.png",
-      "images/fc/fc-metroid-m1.png",
-      "images/fc/fc-metroid-m2.jpg",
-      "images/fc/fc-metroid-m3.jpg",
-      "images/fc/fc-metroid-title.png"
+      "images/fc/fc-metroid-s3.webp",
+      "images/fc/fc-metroid-m1.webp",
+      "images/fc/fc-metroid-m2.webp",
+      "images/fc/fc-metroid-m3.webp",
+      "images/fc/fc-metroid-title.webp"
     ],
-    "cover": "images/fc/fc-metroid-box.jpg",
+    "cover": "images/fc/fc-metroid-box.webp",
     "styleMatch": 1,
     "styleNote": "横版探索，无城镇"
   },
@@ -918,15 +918,15 @@
     "editorScore": 8.9,
     "is2D": true,
     "screenshots": [
-      "images/fc/fc-super-contra-s1.png",
-      "images/fc/fc-super-contra-s2.png",
-      "images/fc/fc-super-contra-m1.png",
-      "images/fc/fc-super-contra-m2.jpg",
-      "images/fc/fc-super-contra-m3.jpg",
-      "images/fc/fc-super-contra-m4.jpg",
-      "images/fc/fc-super-contra-title.png"
+      "images/fc/fc-super-contra-s1.webp",
+      "images/fc/fc-super-contra-s2.webp",
+      "images/fc/fc-super-contra-m1.webp",
+      "images/fc/fc-super-contra-m2.webp",
+      "images/fc/fc-super-contra-m3.webp",
+      "images/fc/fc-super-contra-m4.webp",
+      "images/fc/fc-super-contra-title.webp"
     ],
-    "cover": "images/fc/fc-super-contra-box.jpg",
+    "cover": "images/fc/fc-super-contra-box.webp",
     "styleMatch": 0,
     "styleNote": "射击游戏"
   },
@@ -969,15 +969,15 @@
     "editorScore": 8.8,
     "is2D": true,
     "screenshots": [
-      "images/fc/fc-dragon-quest-ii-s1.png",
-      "images/fc/fc-dragon-quest-ii-x1.png",
-      "images/fc/fc-dragon-quest-ii-m1.png",
-      "images/fc/fc-dragon-quest-ii-m2.jpg",
-      "images/fc/fc-dragon-quest-ii-m3.jpg",
-      "images/fc/fc-dragon-quest-ii-m4.jpg",
-      "images/fc/fc-dragon-quest-ii-title.png"
+      "images/fc/fc-dragon-quest-ii-s1.webp",
+      "images/fc/fc-dragon-quest-ii-x1.webp",
+      "images/fc/fc-dragon-quest-ii-m1.webp",
+      "images/fc/fc-dragon-quest-ii-m2.webp",
+      "images/fc/fc-dragon-quest-ii-m3.webp",
+      "images/fc/fc-dragon-quest-ii-m4.webp",
+      "images/fc/fc-dragon-quest-ii-title.webp"
     ],
-    "cover": "images/fc/fc-dragon-quest-ii-box.jpg",
+    "cover": "images/fc/fc-dragon-quest-ii-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素RPG，城镇商店齐全"
   },
@@ -1025,15 +1025,15 @@
     "editorScore": 8.8,
     "is2D": true,
     "screenshots": [
-      "images/fc/fc-mega-man-3-s1.png",
-      "images/fc/fc-mega-man-3-x1.png",
-      "images/fc/fc-mega-man-3-m1.png",
+      "images/fc/fc-mega-man-3-s1.webp",
+      "images/fc/fc-mega-man-3-x1.webp",
+      "images/fc/fc-mega-man-3-m1.webp",
       "images/fc/fc-mega-man-3-m2.jpg",
-      "images/fc/fc-mega-man-3-m3.jpg",
-      "images/fc/fc-mega-man-3-m4.png",
-      "images/fc/fc-mega-man-3-title.png"
+      "images/fc/fc-mega-man-3-m3.webp",
+      "images/fc/fc-mega-man-3-m4.webp",
+      "images/fc/fc-mega-man-3-title.webp"
     ],
-    "cover": "images/fc/fc-mega-man-3-box.jpg",
+    "cover": "images/fc/fc-mega-man-3-box.webp",
     "styleMatch": 1,
     "styleNote": "横版动作，仅像素风相近"
   },
@@ -1076,15 +1076,15 @@
     "editorScore": 8.8,
     "is2D": true,
     "screenshots": [
-      "images/fc/fc-castlevania-s1.png",
+      "images/fc/fc-castlevania-s1.webp",
       "images/fc/fc-castlevania-s2.png",
-      "images/fc/fc-castlevania-s3.png",
-      "images/fc/fc-castlevania-m1.png",
-      "images/fc/fc-castlevania-m2.jpg",
-      "images/fc/fc-castlevania-m3.png",
-      "images/fc/fc-castlevania-title.png"
+      "images/fc/fc-castlevania-s3.webp",
+      "images/fc/fc-castlevania-m1.webp",
+      "images/fc/fc-castlevania-m2.webp",
+      "images/fc/fc-castlevania-m3.webp",
+      "images/fc/fc-castlevania-title.webp"
     ],
-    "cover": "images/fc/fc-castlevania-box.jpg",
+    "cover": "images/fc/fc-castlevania-box.webp",
     "styleMatch": 1,
     "styleNote": "横版动作，无城镇"
   },
@@ -1123,14 +1123,14 @@
     "is2D": true,
     "screenshots": [
       "images/fc/fc-megami-tensei-ii-s1.png",
-      "images/fc/fc-megami-tensei-ii-s2.png",
-      "images/fc/fc-megami-tensei-ii-m1.png",
-      "images/fc/fc-megami-tensei-ii-y1.png",
-      "images/fc/fc-megami-tensei-ii-y2.png",
-      "images/fc/fc-megami-tensei-ii-y3.png",
-      "images/fc/fc-megami-tensei-ii-title.png"
+      "images/fc/fc-megami-tensei-ii-s2.webp",
+      "images/fc/fc-megami-tensei-ii-m1.webp",
+      "images/fc/fc-megami-tensei-ii-y1.webp",
+      "images/fc/fc-megami-tensei-ii-y2.webp",
+      "images/fc/fc-megami-tensei-ii-y3.webp",
+      "images/fc/fc-megami-tensei-ii-title.webp"
     ],
-    "cover": "images/fc/fc-megami-tensei-ii-box.jpg",
+    "cover": "images/fc/fc-megami-tensei-ii-box.webp",
     "styleMatch": 2,
     "styleNote": "俯视大地图加第一人称迷宫"
   },
@@ -1173,15 +1173,15 @@
     "editorScore": 8.8,
     "is2D": true,
     "screenshots": [
-      "images/fc/fc-tenchi-wo-kurau-ii-s1.png",
-      "images/fc/fc-tenchi-wo-kurau-ii-s2.png",
-      "images/fc/fc-tenchi-wo-kurau-ii-m1.png",
-      "images/fc/fc-tenchi-wo-kurau-ii-m2.png",
-      "images/fc/fc-tenchi-wo-kurau-ii-m3.png",
-      "images/fc/fc-tenchi-wo-kurau-ii-m4.png",
-      "images/fc/fc-tenchi-wo-kurau-ii-title.png"
+      "images/fc/fc-tenchi-wo-kurau-ii-s1.webp",
+      "images/fc/fc-tenchi-wo-kurau-ii-s2.webp",
+      "images/fc/fc-tenchi-wo-kurau-ii-m1.webp",
+      "images/fc/fc-tenchi-wo-kurau-ii-m2.webp",
+      "images/fc/fc-tenchi-wo-kurau-ii-m3.webp",
+      "images/fc/fc-tenchi-wo-kurau-ii-m4.webp",
+      "images/fc/fc-tenchi-wo-kurau-ii-title.webp"
     ],
-    "cover": "images/fc/fc-tenchi-wo-kurau-ii-box.jpg",
+    "cover": "images/fc/fc-tenchi-wo-kurau-ii-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素RPG，城镇自由探索"
   },
@@ -1229,15 +1229,15 @@
     "editorScore": 8.7,
     "is2D": true,
     "screenshots": [
-      "images/fc/fc-blaster-master-s1.png",
-      "images/fc/fc-blaster-master-s2.png",
-      "images/fc/fc-blaster-master-m1.png",
-      "images/fc/fc-blaster-master-m2.png",
+      "images/fc/fc-blaster-master-s1.webp",
+      "images/fc/fc-blaster-master-s2.webp",
+      "images/fc/fc-blaster-master-m1.webp",
+      "images/fc/fc-blaster-master-m2.webp",
       "images/fc/fc-blaster-master-m3.jpg",
-      "images/fc/fc-blaster-master-m4.png",
-      "images/fc/fc-blaster-master-title.png"
+      "images/fc/fc-blaster-master-m4.webp",
+      "images/fc/fc-blaster-master-title.webp"
     ],
-    "cover": "images/fc/fc-blaster-master-box.jpg",
+    "cover": "images/fc/fc-blaster-master-box.webp",
     "styleMatch": 1,
     "styleNote": "横版为主的战车动作冒险"
   },
@@ -1285,15 +1285,15 @@
     "editorScore": 8.7,
     "is2D": true,
     "screenshots": [
-      "images/fc/fc-chip-n-dale-s1.png",
-      "images/fc/fc-chip-n-dale-s2.png",
-      "images/fc/fc-chip-n-dale-m1.png",
-      "images/fc/fc-chip-n-dale-m2.png",
-      "images/fc/fc-chip-n-dale-m3.png",
-      "images/fc/fc-chip-n-dale-m4.png",
-      "images/fc/fc-chip-n-dale-title.png"
+      "images/fc/fc-chip-n-dale-s1.webp",
+      "images/fc/fc-chip-n-dale-s2.webp",
+      "images/fc/fc-chip-n-dale-m1.webp",
+      "images/fc/fc-chip-n-dale-m2.webp",
+      "images/fc/fc-chip-n-dale-m3.webp",
+      "images/fc/fc-chip-n-dale-m4.webp",
+      "images/fc/fc-chip-n-dale-title.webp"
     ],
-    "cover": "images/fc/fc-chip-n-dale-box.jpg",
+    "cover": "images/fc/fc-chip-n-dale-box.webp",
     "styleMatch": 1,
     "styleNote": "横版跳跃，仅像素风相近"
   },
@@ -1343,13 +1343,13 @@
     "screenshots": [
       "images/fc/fc-ducktales-s1.png",
       "images/fc/fc-ducktales-s2.png",
-      "images/fc/fc-ducktales-s3.png",
-      "images/fc/fc-ducktales-m1.png",
-      "images/fc/fc-ducktales-m2.png",
-      "images/fc/fc-ducktales-m3.png",
-      "images/fc/fc-ducktales-title.png"
+      "images/fc/fc-ducktales-s3.webp",
+      "images/fc/fc-ducktales-m1.webp",
+      "images/fc/fc-ducktales-m2.webp",
+      "images/fc/fc-ducktales-m3.webp",
+      "images/fc/fc-ducktales-title.webp"
     ],
-    "cover": "images/fc/fc-ducktales-box.jpg",
+    "cover": "images/fc/fc-ducktales-box.webp",
     "styleMatch": 1,
     "styleNote": "横版跳跃，仅像素风相近"
   },
@@ -1393,14 +1393,14 @@
     "is2D": true,
     "screenshots": [
       "images/fc/fc-zelda-ii-s1.png",
-      "images/fc/fc-zelda-ii-s2.png",
-      "images/fc/fc-zelda-ii-s3.png",
-      "images/fc/fc-zelda-ii-m1.png",
-      "images/fc/fc-zelda-ii-m2.jpg",
-      "images/fc/fc-zelda-ii-m3.jpg",
+      "images/fc/fc-zelda-ii-s2.webp",
+      "images/fc/fc-zelda-ii-s3.webp",
+      "images/fc/fc-zelda-ii-m1.webp",
+      "images/fc/fc-zelda-ii-m2.webp",
+      "images/fc/fc-zelda-ii-m3.webp",
       "images/fc/fc-zelda-ii-title.png"
     ],
-    "cover": "images/fc/fc-zelda-ii-box.jpg",
+    "cover": "images/fc/fc-zelda-ii-box.webp",
     "styleMatch": 2,
     "styleNote": "俯视地图有村庄，但战斗为横版"
   },
@@ -1443,15 +1443,15 @@
     "editorScore": 8.6,
     "is2D": true,
     "screenshots": [
-      "images/fc/fc-crystalis-s1.png",
-      "images/fc/fc-crystalis-s2.png",
-      "images/fc/fc-crystalis-m1.png",
-      "images/fc/fc-crystalis-m2.png",
-      "images/fc/fc-crystalis-m3.png",
-      "images/fc/fc-crystalis-m4.jpg",
-      "images/fc/fc-crystalis-title.png"
+      "images/fc/fc-crystalis-s1.webp",
+      "images/fc/fc-crystalis-s2.webp",
+      "images/fc/fc-crystalis-m1.webp",
+      "images/fc/fc-crystalis-m2.webp",
+      "images/fc/fc-crystalis-m3.webp",
+      "images/fc/fc-crystalis-m4.webp",
+      "images/fc/fc-crystalis-title.webp"
     ],
-    "cover": "images/fc/fc-crystalis-box.jpg",
+    "cover": "images/fc/fc-crystalis-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角ARPG，村庄与商店齐全"
   },
@@ -1496,15 +1496,15 @@
     "styleMatch": 3,
     "styleNote": "俯视角像素RPG，城镇与大地图自由探索",
     "screenshots": [
-      "images/fc/fc-dragon-quest-s1.png",
-      "images/fc/fc-dragon-quest-s2.png",
-      "images/fc/fc-dragon-quest-x1.png",
-      "images/fc/fc-dragon-quest-x2.png",
-      "images/fc/fc-dragon-quest-m1.png",
-      "images/fc/fc-dragon-quest-m2.jpg",
-      "images/fc/fc-dragon-quest-title.png"
+      "images/fc/fc-dragon-quest-s1.webp",
+      "images/fc/fc-dragon-quest-s2.webp",
+      "images/fc/fc-dragon-quest-x1.webp",
+      "images/fc/fc-dragon-quest-x2.webp",
+      "images/fc/fc-dragon-quest-m1.webp",
+      "images/fc/fc-dragon-quest-m2.webp",
+      "images/fc/fc-dragon-quest-title.webp"
     ],
-    "cover": "images/fc/fc-dragon-quest-box.jpg"
+    "cover": "images/fc/fc-dragon-quest-box.webp"
   },
   {
     "id": "fc-final-fantasy-ii",
@@ -1552,14 +1552,14 @@
     "styleMatch": 3,
     "styleNote": "俯视角像素RPG，城镇村落自由探索",
     "screenshots": [
-      "images/fc/fc-final-fantasy-ii-s1.png",
-      "images/fc/fc-final-fantasy-ii-s2.png",
-      "images/fc/fc-final-fantasy-ii-m1.png",
-      "images/fc/fc-final-fantasy-ii-m2.png",
+      "images/fc/fc-final-fantasy-ii-s1.webp",
+      "images/fc/fc-final-fantasy-ii-s2.webp",
+      "images/fc/fc-final-fantasy-ii-m1.webp",
+      "images/fc/fc-final-fantasy-ii-m2.webp",
       "images/fc/fc-final-fantasy-ii-m3.jpg",
-      "images/fc/fc-final-fantasy-ii-title.png"
+      "images/fc/fc-final-fantasy-ii-title.webp"
     ],
-    "cover": "images/fc/fc-final-fantasy-ii-box.jpg"
+    "cover": "images/fc/fc-final-fantasy-ii-box.webp"
   },
   {
     "id": "fc-final-fantasy",
@@ -1595,15 +1595,15 @@
     "editorScore": 8.5,
     "is2D": true,
     "screenshots": [
-      "images/fc/fc-final-fantasy-s1.png",
-      "images/fc/fc-final-fantasy-s2.png",
-      "images/fc/fc-final-fantasy-m1.jpg",
-      "images/fc/fc-final-fantasy-m2.jpg",
-      "images/fc/fc-final-fantasy-m3.jpg",
-      "images/fc/fc-final-fantasy-m4.jpg",
-      "images/fc/fc-final-fantasy-title.png"
+      "images/fc/fc-final-fantasy-s1.webp",
+      "images/fc/fc-final-fantasy-s2.webp",
+      "images/fc/fc-final-fantasy-m1.webp",
+      "images/fc/fc-final-fantasy-m2.webp",
+      "images/fc/fc-final-fantasy-m3.webp",
+      "images/fc/fc-final-fantasy-m4.webp",
+      "images/fc/fc-final-fantasy-title.webp"
     ],
-    "cover": "images/fc/fc-final-fantasy-box.jpg",
+    "cover": "images/fc/fc-final-fantasy-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素RPG，城镇自由探索"
   },
@@ -1641,15 +1641,15 @@
     "editorScore": 8.5,
     "is2D": true,
     "screenshots": [
-      "images/fc/fc-double-dragon-ii-s1.png",
-      "images/fc/fc-double-dragon-ii-s2.png",
-      "images/fc/fc-double-dragon-ii-m1.png",
-      "images/fc/fc-double-dragon-ii-m2.png",
-      "images/fc/fc-double-dragon-ii-m3.png",
+      "images/fc/fc-double-dragon-ii-s1.webp",
+      "images/fc/fc-double-dragon-ii-s2.webp",
+      "images/fc/fc-double-dragon-ii-m1.webp",
+      "images/fc/fc-double-dragon-ii-m2.webp",
+      "images/fc/fc-double-dragon-ii-m3.webp",
       "images/fc/fc-double-dragon-ii-m4.jpg",
-      "images/fc/fc-double-dragon-ii-title.png"
+      "images/fc/fc-double-dragon-ii-title.webp"
     ],
-    "cover": "images/fc/fc-double-dragon-ii-box.jpg",
+    "cover": "images/fc/fc-double-dragon-ii-box.webp",
     "styleMatch": 1,
     "styleNote": "横版清版动作"
   },
@@ -1692,15 +1692,15 @@
     "editorScore": 8.4,
     "is2D": true,
     "screenshots": [
-      "images/fc/fc-salamander-s1.png",
-      "images/fc/fc-salamander-s2.png",
+      "images/fc/fc-salamander-s1.webp",
+      "images/fc/fc-salamander-s2.webp",
       "images/fc/fc-salamander-m1.jpg",
-      "images/fc/fc-salamander-m2.jpg",
-      "images/fc/fc-salamander-m3.jpg",
-      "images/fc/fc-salamander-m4.jpg",
-      "images/fc/fc-salamander-title.png"
+      "images/fc/fc-salamander-m2.webp",
+      "images/fc/fc-salamander-m3.webp",
+      "images/fc/fc-salamander-m4.webp",
+      "images/fc/fc-salamander-title.webp"
     ],
-    "cover": "images/fc/fc-salamander-box.jpg",
+    "cover": "images/fc/fc-salamander-box.webp",
     "styleMatch": 0,
     "styleNote": "射击游戏"
   },
@@ -1745,14 +1745,14 @@
     "styleMatch": 3,
     "styleNote": "俯视角ARPG，城镇村民与商店齐全",
     "screenshots": [
-      "images/fc/fc-ys-s1.png",
-      "images/fc/fc-ys-s2.png",
-      "images/fc/fc-ys-m1.png",
-      "images/fc/fc-ys-m2.jpg",
-      "images/fc/fc-ys-m3.jpg",
-      "images/fc/fc-ys-title.png"
+      "images/fc/fc-ys-s1.webp",
+      "images/fc/fc-ys-s2.webp",
+      "images/fc/fc-ys-m1.webp",
+      "images/fc/fc-ys-m2.webp",
+      "images/fc/fc-ys-m3.webp",
+      "images/fc/fc-ys-title.webp"
     ],
-    "cover": "images/fc/fc-ys-box.jpg"
+    "cover": "images/fc/fc-ys-box.webp"
   },
   {
     "id": "fc-startropics",
@@ -1800,13 +1800,13 @@
     "styleMatch": 3,
     "styleNote": "俯视角冒险，热带村庄可自由交谈",
     "screenshots": [
-      "images/fc/fc-startropics-s1.png",
-      "images/fc/fc-startropics-x1.png",
-      "images/fc/fc-startropics-m1.png",
-      "images/fc/fc-startropics-m2.jpg",
-      "images/fc/fc-startropics-title.png"
+      "images/fc/fc-startropics-s1.webp",
+      "images/fc/fc-startropics-x1.webp",
+      "images/fc/fc-startropics-m1.webp",
+      "images/fc/fc-startropics-m2.webp",
+      "images/fc/fc-startropics-title.webp"
     ],
-    "cover": "images/fc/fc-startropics-box.jpg"
+    "cover": "images/fc/fc-startropics-box.webp"
   },
   {
     "id": "fc-jackal",
@@ -1844,10 +1844,10 @@
     "screenshots": [
       "images/fc/fc-jackal-s1.png",
       "images/fc/fc-jackal-s2.png",
-      "images/fc/fc-jackal-m1.jpg",
-      "images/fc/fc-jackal-title.png"
+      "images/fc/fc-jackal-m1.webp",
+      "images/fc/fc-jackal-title.webp"
     ],
-    "cover": "images/fc/fc-jackal-box.jpg",
+    "cover": "images/fc/fc-jackal-box.webp",
     "styleMatch": 0,
     "styleNote": "俯视角射击游戏"
   },
@@ -1893,14 +1893,14 @@
     "styleNote": "俯视角像素RPG，可逛城池与商店",
     "screenshots": [
       "images/fc/fc-tenchi-wo-kurau-s1.png",
-      "images/fc/fc-tenchi-wo-kurau-s2.png",
+      "images/fc/fc-tenchi-wo-kurau-s2.webp",
       "images/fc/fc-tenchi-wo-kurau-x1.png",
-      "images/fc/fc-tenchi-wo-kurau-x2.png",
-      "images/fc/fc-tenchi-wo-kurau-m1.jpg",
-      "images/fc/fc-tenchi-wo-kurau-m2.jpg",
-      "images/fc/fc-tenchi-wo-kurau-title.png"
+      "images/fc/fc-tenchi-wo-kurau-x2.webp",
+      "images/fc/fc-tenchi-wo-kurau-m1.webp",
+      "images/fc/fc-tenchi-wo-kurau-m2.webp",
+      "images/fc/fc-tenchi-wo-kurau-title.webp"
     ],
-    "cover": "images/fc/fc-tenchi-wo-kurau-box.jpg"
+    "cover": "images/fc/fc-tenchi-wo-kurau-box.webp"
   },
   {
     "id": "fc-lagrange-point",
@@ -1944,14 +1944,14 @@
     "styleNote": "俯视角像素RPG，殖民地城镇自由探索",
     "screenshots": [
       "images/fc/fc-lagrange-point-s1.png",
-      "images/fc/fc-lagrange-point-x1.jpg",
-      "images/fc/fc-lagrange-point-m1.png",
-      "images/fc/fc-lagrange-point-m2.png",
-      "images/fc/fc-lagrange-point-m3.png",
-      "images/fc/fc-lagrange-point-m4.png",
-      "images/fc/fc-lagrange-point-title.png"
+      "images/fc/fc-lagrange-point-x1.webp",
+      "images/fc/fc-lagrange-point-m1.webp",
+      "images/fc/fc-lagrange-point-m2.webp",
+      "images/fc/fc-lagrange-point-m3.webp",
+      "images/fc/fc-lagrange-point-m4.webp",
+      "images/fc/fc-lagrange-point-title.webp"
     ],
-    "cover": "images/fc/fc-lagrange-point-box.jpg"
+    "cover": "images/fc/fc-lagrange-point-box.webp"
   },
   {
     "id": "fc-adventure-island",
@@ -1992,15 +1992,15 @@
     "editorScore": 8.2,
     "is2D": true,
     "screenshots": [
-      "images/fc/fc-adventure-island-s1.png",
-      "images/fc/fc-adventure-island-s2.png",
-      "images/fc/fc-adventure-island-m1.png",
-      "images/fc/fc-adventure-island-m2.jpg",
-      "images/fc/fc-adventure-island-m3.jpg",
-      "images/fc/fc-adventure-island-m4.jpg",
-      "images/fc/fc-adventure-island-title.png"
+      "images/fc/fc-adventure-island-s1.webp",
+      "images/fc/fc-adventure-island-s2.webp",
+      "images/fc/fc-adventure-island-m1.webp",
+      "images/fc/fc-adventure-island-m2.webp",
+      "images/fc/fc-adventure-island-m3.webp",
+      "images/fc/fc-adventure-island-m4.webp",
+      "images/fc/fc-adventure-island-title.webp"
     ],
-    "cover": "images/fc/fc-adventure-island-box.jpg",
+    "cover": "images/fc/fc-adventure-island-box.webp",
     "styleMatch": 1,
     "styleNote": "横版跳跃，仅像素风相近"
   },
@@ -2032,12 +2032,12 @@
     "editorScore": 8.2,
     "is2D": true,
     "screenshots": [
-      "images/fc/fc-battle-city-s1.png",
-      "images/fc/fc-battle-city-s2.png",
-      "images/fc/fc-battle-city-m1.png",
-      "images/fc/fc-battle-city-title.png"
+      "images/fc/fc-battle-city-s1.webp",
+      "images/fc/fc-battle-city-s2.webp",
+      "images/fc/fc-battle-city-m1.webp",
+      "images/fc/fc-battle-city-title.webp"
     ],
-    "cover": "images/fc/fc-battle-city-box.jpg",
+    "cover": "images/fc/fc-battle-city-box.webp",
     "styleMatch": 0,
     "styleNote": "坦克射击游戏"
   },
@@ -2078,12 +2078,12 @@
     "styleNote": "俯视角ARPG，可逛村庄与商店",
     "screenshots": [
       "images/fc/fc-ys-ii-s1.png",
-      "images/fc/fc-ys-ii-s2.png",
-      "images/fc/fc-ys-ii-m1.png",
-      "images/fc/fc-ys-ii-m2.jpg",
-      "images/fc/fc-ys-ii-title.png"
+      "images/fc/fc-ys-ii-s2.webp",
+      "images/fc/fc-ys-ii-m1.webp",
+      "images/fc/fc-ys-ii-m2.webp",
+      "images/fc/fc-ys-ii-title.webp"
     ],
-    "cover": "images/fc/fc-ys-ii-box.jpg"
+    "cover": "images/fc/fc-ys-ii-box.webp"
   },
   {
     "id": "fc-willow",
@@ -2126,15 +2126,15 @@
     "styleMatch": 3,
     "styleNote": "俯视角ARPG，村庄商店自由探索",
     "screenshots": [
-      "images/fc/fc-willow-s1.png",
-      "images/fc/fc-willow-s2.png",
-      "images/fc/fc-willow-s3.png",
-      "images/fc/fc-willow-m1.png",
-      "images/fc/fc-willow-m2.jpg",
-      "images/fc/fc-willow-m3.jpg",
-      "images/fc/fc-willow-title.png"
+      "images/fc/fc-willow-s1.webp",
+      "images/fc/fc-willow-s2.webp",
+      "images/fc/fc-willow-s3.webp",
+      "images/fc/fc-willow-m1.webp",
+      "images/fc/fc-willow-m2.webp",
+      "images/fc/fc-willow-m3.webp",
+      "images/fc/fc-willow-title.webp"
     ],
-    "cover": "images/fc/fc-willow-box.jpg"
+    "cover": "images/fc/fc-willow-box.webp"
   },
   {
     "id": "fc-bomberman",
@@ -2164,14 +2164,14 @@
     "editorScore": 8.0,
     "is2D": true,
     "screenshots": [
-      "images/fc/fc-bomberman-s1.png",
-      "images/fc/fc-bomberman-s3.png",
-      "images/fc/fc-bomberman-m1.png",
-      "images/fc/fc-bomberman-m2.jpg",
-      "images/fc/fc-bomberman-m3.jpg",
-      "images/fc/fc-bomberman-title.png"
+      "images/fc/fc-bomberman-s1.webp",
+      "images/fc/fc-bomberman-s3.webp",
+      "images/fc/fc-bomberman-m1.webp",
+      "images/fc/fc-bomberman-m2.webp",
+      "images/fc/fc-bomberman-m3.webp",
+      "images/fc/fc-bomberman-title.webp"
     ],
-    "cover": "images/fc/fc-bomberman-box.jpg",
+    "cover": "images/fc/fc-bomberman-box.webp",
     "styleMatch": 1,
     "styleNote": "俯视迷宫动作，无村庄"
   },
@@ -2216,15 +2216,15 @@
     "styleMatch": 3,
     "styleNote": "俯视角像素RPG，城镇与大陆自由探索",
     "screenshots": [
-      "images/fc/fc-ultima-exodus-s1.png",
-      "images/fc/fc-ultima-exodus-x1.png",
+      "images/fc/fc-ultima-exodus-s1.webp",
+      "images/fc/fc-ultima-exodus-x1.webp",
       "images/fc/fc-ultima-exodus-x2.png",
-      "images/fc/fc-ultima-exodus-m1.png",
-      "images/fc/fc-ultima-exodus-m2.jpg",
-      "images/fc/fc-ultima-exodus-m3.jpg",
-      "images/fc/fc-ultima-exodus-title.png"
+      "images/fc/fc-ultima-exodus-m1.webp",
+      "images/fc/fc-ultima-exodus-m2.webp",
+      "images/fc/fc-ultima-exodus-m3.webp",
+      "images/fc/fc-ultima-exodus-title.webp"
     ],
-    "cover": "images/fc/fc-ultima-exodus-box.jpg"
+    "cover": "images/fc/fc-ultima-exodus-box.webp"
   },
   {
     "id": "fc-faxanadu",
@@ -2269,12 +2269,12 @@
     "screenshots": [
       "images/fc/fc-faxanadu-s1.png",
       "images/fc/fc-faxanadu-s2.png",
-      "images/fc/fc-faxanadu-s3.png",
-      "images/fc/fc-faxanadu-m1.jpg",
-      "images/fc/fc-faxanadu-m2.jpg",
-      "images/fc/fc-faxanadu-title.png"
+      "images/fc/fc-faxanadu-s3.webp",
+      "images/fc/fc-faxanadu-m1.webp",
+      "images/fc/fc-faxanadu-m2.webp",
+      "images/fc/fc-faxanadu-title.webp"
     ],
-    "cover": "images/fc/fc-faxanadu-box.jpg"
+    "cover": "images/fc/fc-faxanadu-box.webp"
   },
   {
     "id": "fc-goemon-gaiden",
@@ -2317,13 +2317,13 @@
     "styleMatch": 3,
     "styleNote": "俯视角像素RPG，江户城镇自由漫步",
     "screenshots": [
-      "images/fc/fc-goemon-gaiden-s1.png",
-      "images/fc/fc-goemon-gaiden-s2.png",
-      "images/fc/fc-goemon-gaiden-m1.png",
-      "images/fc/fc-goemon-gaiden-m2.png",
-      "images/fc/fc-goemon-gaiden-title.png"
+      "images/fc/fc-goemon-gaiden-s1.webp",
+      "images/fc/fc-goemon-gaiden-s2.webp",
+      "images/fc/fc-goemon-gaiden-m1.webp",
+      "images/fc/fc-goemon-gaiden-m2.webp",
+      "images/fc/fc-goemon-gaiden-title.webp"
     ],
-    "cover": "images/fc/fc-goemon-gaiden-box.jpg"
+    "cover": "images/fc/fc-goemon-gaiden-box.webp"
   },
   {
     "id": "fc-little-ninja-brothers",
@@ -2366,16 +2366,16 @@
     "styleMatch": 3,
     "styleNote": "俯视角RPG，城镇商店齐全且可双人",
     "screenshots": [
-      "images/fc/fc-little-ninja-brothers-s1.png",
-      "images/fc/fc-little-ninja-brothers-s2.png",
-      "images/fc/fc-little-ninja-brothers-m1.png",
-      "images/fc/fc-little-ninja-brothers-y1.png",
-      "images/fc/fc-little-ninja-brothers-y2.png",
-      "images/fc/fc-little-ninja-brothers-y3.png",
-      "images/fc/fc-little-ninja-brothers-y4.png",
-      "images/fc/fc-little-ninja-brothers-title.png"
+      "images/fc/fc-little-ninja-brothers-s1.webp",
+      "images/fc/fc-little-ninja-brothers-s2.webp",
+      "images/fc/fc-little-ninja-brothers-m1.webp",
+      "images/fc/fc-little-ninja-brothers-y1.webp",
+      "images/fc/fc-little-ninja-brothers-y2.webp",
+      "images/fc/fc-little-ninja-brothers-y3.webp",
+      "images/fc/fc-little-ninja-brothers-y4.webp",
+      "images/fc/fc-little-ninja-brothers-title.webp"
     ],
-    "cover": "images/fc/fc-little-ninja-brothers-box.jpg"
+    "cover": "images/fc/fc-little-ninja-brothers-box.webp"
   },
   {
     "id": "fc-magic-of-scheherazade",
@@ -2418,14 +2418,14 @@
     "styleMatch": 3,
     "styleNote": "俯视角ARPG，阿拉伯风城镇可探索",
     "screenshots": [
-      "images/fc/fc-magic-of-scheherazade-s1.png",
-      "images/fc/fc-magic-of-scheherazade-s2.png",
-      "images/fc/fc-magic-of-scheherazade-m1.png",
-      "images/fc/fc-magic-of-scheherazade-m2.jpg",
-      "images/fc/fc-magic-of-scheherazade-m3.jpg",
-      "images/fc/fc-magic-of-scheherazade-m4.jpg",
-      "images/fc/fc-magic-of-scheherazade-title.png"
+      "images/fc/fc-magic-of-scheherazade-s1.webp",
+      "images/fc/fc-magic-of-scheherazade-s2.webp",
+      "images/fc/fc-magic-of-scheherazade-m1.webp",
+      "images/fc/fc-magic-of-scheherazade-m2.webp",
+      "images/fc/fc-magic-of-scheherazade-m3.webp",
+      "images/fc/fc-magic-of-scheherazade-m4.webp",
+      "images/fc/fc-magic-of-scheherazade-title.webp"
     ],
-    "cover": "images/fc/fc-magic-of-scheherazade-box.jpg"
+    "cover": "images/fc/fc-magic-of-scheherazade-box.webp"
   }
 ]

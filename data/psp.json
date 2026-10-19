@@ -43,15 +43,15 @@
     "editorScore": 9.6,
     "is2D": true,
     "screenshots": [
-      "images/psp/psp-tactics-ogre-s1.png",
-      "images/psp/psp-tactics-ogre-s2.png",
-      "images/psp/psp-tactics-ogre-m1.jpg",
-      "images/psp/psp-tactics-ogre-m2.jpg",
-      "images/psp/psp-tactics-ogre-m3.jpg",
-      "images/psp/psp-tactics-ogre-m4.jpg",
-      "images/psp/psp-tactics-ogre-title.png"
+      "images/psp/psp-tactics-ogre-s1.webp",
+      "images/psp/psp-tactics-ogre-s2.webp",
+      "images/psp/psp-tactics-ogre-m1.webp",
+      "images/psp/psp-tactics-ogre-m2.webp",
+      "images/psp/psp-tactics-ogre-m3.webp",
+      "images/psp/psp-tactics-ogre-m4.webp",
+      "images/psp/psp-tactics-ogre-title.webp"
     ],
-    "cover": "images/psp/psp-tactics-ogre-box.jpg",
+    "cover": "images/psp/psp-tactics-ogre-box.webp",
     "styleMatch": 2,
     "styleNote": "像素战棋，城镇仅以菜单场景呈现"
   },
@@ -99,13 +99,13 @@
     "editorScore": 9.5,
     "is2D": true,
     "screenshots": [
-      "images/psp/psp-fft-war-of-the-lions-s1.png",
-      "images/psp/psp-fft-war-of-the-lions-x1.png",
+      "images/psp/psp-fft-war-of-the-lions-s1.webp",
+      "images/psp/psp-fft-war-of-the-lions-x1.webp",
       "images/psp/psp-fft-war-of-the-lions-m1.jpg",
-      "images/psp/psp-fft-war-of-the-lions-m2.jpg",
-      "images/psp/psp-fft-war-of-the-lions-title.png"
+      "images/psp/psp-fft-war-of-the-lions-m2.webp",
+      "images/psp/psp-fft-war-of-the-lions-title.webp"
     ],
-    "cover": "images/psp/psp-fft-war-of-the-lions-box.jpg",
+    "cover": "images/psp/psp-fft-war-of-the-lions-box.webp",
     "styleMatch": 2,
     "styleNote": "像素小人战棋，无自由走动的村庄"
   },
@@ -153,14 +153,14 @@
     "editorScore": 9.3,
     "is2D": true,
     "screenshots": [
-      "images/psp/psp-trails-in-the-sky-fc-s1.png",
-      "images/psp/psp-trails-in-the-sky-fc-x1.jpg",
-      "images/psp/psp-trails-in-the-sky-fc-x2.jpg",
-      "images/psp/psp-trails-in-the-sky-fc-x3.jpg",
-      "images/psp/psp-trails-in-the-sky-fc-m1.jpg",
-      "images/psp/psp-trails-in-the-sky-fc-m2.jpg"
+      "images/psp/psp-trails-in-the-sky-fc-s1.webp",
+      "images/psp/psp-trails-in-the-sky-fc-x1.webp",
+      "images/psp/psp-trails-in-the-sky-fc-x2.webp",
+      "images/psp/psp-trails-in-the-sky-fc-x3.webp",
+      "images/psp/psp-trails-in-the-sky-fc-m1.webp",
+      "images/psp/psp-trails-in-the-sky-fc-m2.webp"
     ],
-    "cover": "images/psp/psp-trails-in-the-sky-fc-box.jpg",
+    "cover": "images/psp/psp-trails-in-the-sky-fc-box.webp",
     "styleMatch": 3,
     "styleNote": "斜俯视角像素小人自由逛城镇商店"
   },
@@ -203,14 +203,14 @@
     "editorScore": 9.2,
     "is2D": true,
     "screenshots": [
-      "images/psp/psp-trails-in-the-sky-sc-x1.jpg",
-      "images/psp/psp-trails-in-the-sky-sc-x2.jpg",
-      "images/psp/psp-trails-in-the-sky-sc-x3.jpg",
-      "images/psp/psp-trails-in-the-sky-sc-y1.jpg",
-      "images/psp/psp-trails-in-the-sky-sc-y2.jpg",
-      "images/psp/psp-trails-in-the-sky-sc-y3.jpg"
+      "images/psp/psp-trails-in-the-sky-sc-x1.webp",
+      "images/psp/psp-trails-in-the-sky-sc-x2.webp",
+      "images/psp/psp-trails-in-the-sky-sc-x3.webp",
+      "images/psp/psp-trails-in-the-sky-sc-y1.webp",
+      "images/psp/psp-trails-in-the-sky-sc-y2.webp",
+      "images/psp/psp-trails-in-the-sky-sc-y3.webp"
     ],
-    "cover": "images/psp/psp-trails-in-the-sky-sc-box.jpg",
+    "cover": "images/psp/psp-trails-in-the-sky-sc-box.webp",
     "styleMatch": 3,
     "styleNote": "斜俯视角像素角色，城镇探索丰富"
   },
@@ -253,14 +253,14 @@
     "editorScore": 9.2,
     "is2D": true,
     "screenshots": [
-      "images/psp/psp-suikoden-1-2-s1.png",
+      "images/psp/psp-suikoden-1-2-s1.webp",
       "images/psp/psp-suikoden-1-2-x1.jpg",
-      "images/psp/psp-suikoden-1-2-x2.png",
-      "images/psp/psp-suikoden-1-2-y1.jpg",
-      "images/psp/psp-suikoden-1-2-y2.jpg",
-      "images/psp/psp-suikoden-1-2-title.png"
+      "images/psp/psp-suikoden-1-2-x2.webp",
+      "images/psp/psp-suikoden-1-2-y1.webp",
+      "images/psp/psp-suikoden-1-2-y2.webp",
+      "images/psp/psp-suikoden-1-2-title.webp"
     ],
-    "cover": "images/psp/psp-suikoden-1-2-box.jpg",
+    "cover": "images/psp/psp-suikoden-1-2-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角2D像素，城镇根据地自由探索"
   },
@@ -298,13 +298,13 @@
     "editorScore": 9.1,
     "is2D": true,
     "screenshots": [
-      "images/psp/psp-valkyrie-profile-lenneth-s1.png",
-      "images/psp/psp-valkyrie-profile-lenneth-s2.png",
-      "images/psp/psp-valkyrie-profile-lenneth-m1.jpg",
-      "images/psp/psp-valkyrie-profile-lenneth-m2.jpg",
-      "images/psp/psp-valkyrie-profile-lenneth-title.png"
+      "images/psp/psp-valkyrie-profile-lenneth-s1.webp",
+      "images/psp/psp-valkyrie-profile-lenneth-s2.webp",
+      "images/psp/psp-valkyrie-profile-lenneth-m1.webp",
+      "images/psp/psp-valkyrie-profile-lenneth-m2.webp",
+      "images/psp/psp-valkyrie-profile-lenneth-title.webp"
     ],
-    "cover": "images/psp/psp-valkyrie-profile-lenneth-box.jpg",
+    "cover": "images/psp/psp-valkyrie-profile-lenneth-box.webp",
     "styleMatch": 2,
     "styleNote": "侧视角横版探索的像素RPG"
   },
@@ -352,14 +352,14 @@
     "editorScore": 9.1,
     "is2D": false,
     "screenshots": [
-      "images/psp/psp-castlevania-dracula-x-chronicles-s1.png",
-      "images/psp/psp-castlevania-dracula-x-chronicles-s3.png",
-      "images/psp/psp-castlevania-dracula-x-chronicles-m1.jpg",
-      "images/psp/psp-castlevania-dracula-x-chronicles-m2.jpg",
-      "images/psp/psp-castlevania-dracula-x-chronicles-m3.jpg",
-      "images/psp/psp-castlevania-dracula-x-chronicles-title.png"
+      "images/psp/psp-castlevania-dracula-x-chronicles-s1.webp",
+      "images/psp/psp-castlevania-dracula-x-chronicles-s3.webp",
+      "images/psp/psp-castlevania-dracula-x-chronicles-m1.webp",
+      "images/psp/psp-castlevania-dracula-x-chronicles-m2.webp",
+      "images/psp/psp-castlevania-dracula-x-chronicles-m3.webp",
+      "images/psp/psp-castlevania-dracula-x-chronicles-title.webp"
     ],
-    "cover": "images/psp/psp-castlevania-dracula-x-chronicles-box.jpg",
+    "cover": "images/psp/psp-castlevania-dracula-x-chronicles-box.webp",
     "styleMatch": 1,
     "styleNote": "主篇为3D，隐藏收录2D像素恶魔城"
   },
@@ -397,13 +397,13 @@
     "editorScore": 9.0,
     "is2D": true,
     "screenshots": [
-      "images/psp/psp-zero-no-kiseki-s1.png",
-      "images/psp/psp-zero-no-kiseki-x1.jpg",
-      "images/psp/psp-zero-no-kiseki-x2.jpg",
-      "images/psp/psp-zero-no-kiseki-m1.jpg",
-      "images/psp/psp-zero-no-kiseki-m2.jpg"
+      "images/psp/psp-zero-no-kiseki-s1.webp",
+      "images/psp/psp-zero-no-kiseki-x1.webp",
+      "images/psp/psp-zero-no-kiseki-x2.webp",
+      "images/psp/psp-zero-no-kiseki-m1.webp",
+      "images/psp/psp-zero-no-kiseki-m2.webp"
     ],
-    "cover": "images/psp/psp-zero-no-kiseki-box.jpg",
+    "cover": "images/psp/psp-zero-no-kiseki-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素角色漫步克洛斯贝尔街区"
   },
@@ -446,15 +446,15 @@
     "editorScore": 9.0,
     "is2D": true,
     "screenshots": [
-      "images/psp/psp-ys-oath-in-felghana-s1.png",
-      "images/psp/psp-ys-oath-in-felghana-x1.png",
-      "images/psp/psp-ys-oath-in-felghana-m1.png",
-      "images/psp/psp-ys-oath-in-felghana-m2.jpg",
-      "images/psp/psp-ys-oath-in-felghana-m3.jpg",
-      "images/psp/psp-ys-oath-in-felghana-m4.jpg",
-      "images/psp/psp-ys-oath-in-felghana-title.png"
+      "images/psp/psp-ys-oath-in-felghana-s1.webp",
+      "images/psp/psp-ys-oath-in-felghana-x1.webp",
+      "images/psp/psp-ys-oath-in-felghana-m1.webp",
+      "images/psp/psp-ys-oath-in-felghana-m2.webp",
+      "images/psp/psp-ys-oath-in-felghana-m3.webp",
+      "images/psp/psp-ys-oath-in-felghana-m4.webp",
+      "images/psp/psp-ys-oath-in-felghana-title.webp"
     ],
-    "cover": "images/psp/psp-ys-oath-in-felghana-box.jpg",
+    "cover": "images/psp/psp-ys-oath-in-felghana-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素角色动作RPG，有村庄"
   },
@@ -502,15 +502,15 @@
     "editorScore": 9.0,
     "is2D": true,
     "screenshots": [
-      "images/psp/psp-disgaea-afternoon-of-darkness-s1.png",
-      "images/psp/psp-disgaea-afternoon-of-darkness-x1.png",
-      "images/psp/psp-disgaea-afternoon-of-darkness-m1.png",
-      "images/psp/psp-disgaea-afternoon-of-darkness-m2.png",
-      "images/psp/psp-disgaea-afternoon-of-darkness-m3.png",
-      "images/psp/psp-disgaea-afternoon-of-darkness-m4.png",
-      "images/psp/psp-disgaea-afternoon-of-darkness-title.png"
+      "images/psp/psp-disgaea-afternoon-of-darkness-s1.webp",
+      "images/psp/psp-disgaea-afternoon-of-darkness-x1.webp",
+      "images/psp/psp-disgaea-afternoon-of-darkness-m1.webp",
+      "images/psp/psp-disgaea-afternoon-of-darkness-m2.webp",
+      "images/psp/psp-disgaea-afternoon-of-darkness-m3.webp",
+      "images/psp/psp-disgaea-afternoon-of-darkness-m4.webp",
+      "images/psp/psp-disgaea-afternoon-of-darkness-title.webp"
     ],
-    "cover": "images/psp/psp-disgaea-afternoon-of-darkness-box.jpg",
+    "cover": "images/psp/psp-disgaea-afternoon-of-darkness-box.webp",
     "styleMatch": 2,
     "styleNote": "像素战棋，据点城堡可走动"
   },
@@ -558,12 +558,12 @@
     "editorScore": 9.0,
     "is2D": true,
     "screenshots": [
-      "images/psp/psp-patapon-s1.png",
-      "images/psp/psp-patapon-s2.png",
-      "images/psp/psp-patapon-m1.jpg",
-      "images/psp/psp-patapon-title.png"
+      "images/psp/psp-patapon-s1.webp",
+      "images/psp/psp-patapon-s2.webp",
+      "images/psp/psp-patapon-m1.webp",
+      "images/psp/psp-patapon-title.webp"
     ],
-    "cover": "images/psp/psp-patapon-box.jpg",
+    "cover": "images/psp/psp-patapon-box.webp",
     "styleMatch": 0,
     "styleNote": "2D剪影节奏策略，风格完全不同"
   },
@@ -611,12 +611,12 @@
     "editorScore": 9.0,
     "is2D": true,
     "screenshots": [
-      "images/psp/psp-lumines-s1.png",
-      "images/psp/psp-lumines-s2.png",
-      "images/psp/psp-lumines-m1.png",
-      "images/psp/psp-lumines-m2.jpg"
+      "images/psp/psp-lumines-s1.webp",
+      "images/psp/psp-lumines-s2.webp",
+      "images/psp/psp-lumines-m1.webp",
+      "images/psp/psp-lumines-m2.webp"
     ],
-    "cover": "images/psp/psp-lumines-box.jpg",
+    "cover": "images/psp/psp-lumines-box.webp",
     "styleMatch": 0,
     "styleNote": "音乐方块解谜"
   },
@@ -659,15 +659,15 @@
     "editorScore": 9.0,
     "is2D": false,
     "screenshots": [
-      "images/psp/psp-persona-3-portable-s1.png",
-      "images/psp/psp-persona-3-portable-m1.jpg",
-      "images/psp/psp-persona-3-portable-m2.jpg",
-      "images/psp/psp-persona-3-portable-m3.jpg",
-      "images/psp/psp-persona-3-portable-m4.jpg",
-      "images/psp/psp-persona-3-portable-m5.jpg",
-      "images/psp/psp-persona-3-portable-title.png"
+      "images/psp/psp-persona-3-portable-s1.webp",
+      "images/psp/psp-persona-3-portable-m1.webp",
+      "images/psp/psp-persona-3-portable-m2.webp",
+      "images/psp/psp-persona-3-portable-m3.webp",
+      "images/psp/psp-persona-3-portable-m4.webp",
+      "images/psp/psp-persona-3-portable-m5.webp",
+      "images/psp/psp-persona-3-portable-title.webp"
     ],
-    "cover": "images/psp/psp-persona-3-portable-box.jpg",
+    "cover": "images/psp/psp-persona-3-portable-box.webp",
     "styleMatch": 0,
     "styleNote": "3D迷宫与点选式校园"
   },
@@ -715,14 +715,14 @@
     "editorScore": 8.9,
     "is2D": true,
     "screenshots": [
-      "images/psp/psp-locoroco-s1.png",
-      "images/psp/psp-locoroco-s2.png",
-      "images/psp/psp-locoroco-m1.png",
-      "images/psp/psp-locoroco-m2.jpg",
-      "images/psp/psp-locoroco-m3.jpg",
-      "images/psp/psp-locoroco-title.png"
+      "images/psp/psp-locoroco-s1.webp",
+      "images/psp/psp-locoroco-s2.webp",
+      "images/psp/psp-locoroco-m1.webp",
+      "images/psp/psp-locoroco-m2.webp",
+      "images/psp/psp-locoroco-m3.webp",
+      "images/psp/psp-locoroco-title.webp"
     ],
-    "cover": "images/psp/psp-locoroco-box.jpg",
+    "cover": "images/psp/psp-locoroco-box.webp",
     "styleMatch": 1,
     "styleNote": "2D平涂风平台跳跃，非像素RPG"
   },
@@ -760,13 +760,13 @@
     "editorScore": 8.8,
     "is2D": true,
     "screenshots": [
-      "images/psp/psp-ys-i-ii-chronicles-s1.png",
-      "images/psp/psp-ys-i-ii-chronicles-x1.jpg",
-      "images/psp/psp-ys-i-ii-chronicles-x2.jpg",
-      "images/psp/psp-ys-i-ii-chronicles-m1.jpg",
-      "images/psp/psp-ys-i-ii-chronicles-title.png"
+      "images/psp/psp-ys-i-ii-chronicles-s1.webp",
+      "images/psp/psp-ys-i-ii-chronicles-x1.webp",
+      "images/psp/psp-ys-i-ii-chronicles-x2.webp",
+      "images/psp/psp-ys-i-ii-chronicles-m1.webp",
+      "images/psp/psp-ys-i-ii-chronicles-title.webp"
     ],
-    "cover": "images/psp/psp-ys-i-ii-chronicles-box.jpg",
+    "cover": "images/psp/psp-ys-i-ii-chronicles-box.webp",
     "styleMatch": 3,
     "styleNote": "经典俯视角像素ARPG，村庄商店齐全"
   },
@@ -814,15 +814,15 @@
     "editorScore": 8.8,
     "is2D": true,
     "screenshots": [
-      "images/psp/psp-half-minute-hero-s1.png",
-      "images/psp/psp-half-minute-hero-x1.png",
-      "images/psp/psp-half-minute-hero-m1.png",
-      "images/psp/psp-half-minute-hero-m2.jpg",
-      "images/psp/psp-half-minute-hero-m3.jpg",
-      "images/psp/psp-half-minute-hero-m4.jpg",
-      "images/psp/psp-half-minute-hero-title.png"
+      "images/psp/psp-half-minute-hero-s1.webp",
+      "images/psp/psp-half-minute-hero-x1.webp",
+      "images/psp/psp-half-minute-hero-m1.webp",
+      "images/psp/psp-half-minute-hero-m2.webp",
+      "images/psp/psp-half-minute-hero-m3.webp",
+      "images/psp/psp-half-minute-hero-m4.webp",
+      "images/psp/psp-half-minute-hero-title.webp"
     ],
-    "cover": "images/psp/psp-half-minute-hero-box.jpg",
+    "cover": "images/psp/psp-half-minute-hero-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角8bit像素，大地图与城镇"
   },
@@ -865,14 +865,14 @@
     "editorScore": 8.8,
     "is2D": false,
     "screenshots": [
-      "images/psp/psp-monster-hunter-p2g-s1.png",
-      "images/psp/psp-monster-hunter-p2g-x1.png",
-      "images/psp/psp-monster-hunter-p2g-m1.jpg",
-      "images/psp/psp-monster-hunter-p2g-m2.jpg",
-      "images/psp/psp-monster-hunter-p2g-m3.jpg",
-      "images/psp/psp-monster-hunter-p2g-m4.jpg"
+      "images/psp/psp-monster-hunter-p2g-s1.webp",
+      "images/psp/psp-monster-hunter-p2g-x1.webp",
+      "images/psp/psp-monster-hunter-p2g-m1.webp",
+      "images/psp/psp-monster-hunter-p2g-m2.webp",
+      "images/psp/psp-monster-hunter-p2g-m3.webp",
+      "images/psp/psp-monster-hunter-p2g-m4.webp"
     ],
-    "cover": "images/psp/psp-monster-hunter-p2g-box.jpg",
+    "cover": "images/psp/psp-monster-hunter-p2g-box.webp",
     "styleMatch": 0,
     "styleNote": "3D动作狩猎"
   },
@@ -920,13 +920,13 @@
     "editorScore": 8.8,
     "is2D": false,
     "screenshots": [
-      "images/psp/psp-kingdom-hearts-bbs-s1.png",
-      "images/psp/psp-kingdom-hearts-bbs-m1.jpg",
-      "images/psp/psp-kingdom-hearts-bbs-m2.jpg",
-      "images/psp/psp-kingdom-hearts-bbs-m3.jpg",
-      "images/psp/psp-kingdom-hearts-bbs-title.png"
+      "images/psp/psp-kingdom-hearts-bbs-s1.webp",
+      "images/psp/psp-kingdom-hearts-bbs-m1.webp",
+      "images/psp/psp-kingdom-hearts-bbs-m2.webp",
+      "images/psp/psp-kingdom-hearts-bbs-m3.webp",
+      "images/psp/psp-kingdom-hearts-bbs-title.webp"
     ],
-    "cover": "images/psp/psp-kingdom-hearts-bbs-box.jpg",
+    "cover": "images/psp/psp-kingdom-hearts-bbs-box.webp",
     "styleMatch": 0,
     "styleNote": "3D动作RPG"
   },
@@ -974,15 +974,15 @@
     "editorScore": 8.8,
     "is2D": true,
     "screenshots": [
-      "images/psp/psp-tales-of-eternia-s1.png",
-      "images/psp/psp-tales-of-eternia-s2.png",
-      "images/psp/psp-tales-of-eternia-m1.png",
-      "images/psp/psp-tales-of-eternia-m2.jpg",
-      "images/psp/psp-tales-of-eternia-m3.jpg",
-      "images/psp/psp-tales-of-eternia-m4.jpg",
-      "images/psp/psp-tales-of-eternia-title.png"
+      "images/psp/psp-tales-of-eternia-s1.webp",
+      "images/psp/psp-tales-of-eternia-s2.webp",
+      "images/psp/psp-tales-of-eternia-m1.webp",
+      "images/psp/psp-tales-of-eternia-m2.webp",
+      "images/psp/psp-tales-of-eternia-m3.webp",
+      "images/psp/psp-tales-of-eternia-m4.webp",
+      "images/psp/psp-tales-of-eternia-title.webp"
     ],
-    "cover": "images/psp/psp-tales-of-eternia-box.jpg",
+    "cover": "images/psp/psp-tales-of-eternia-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素城镇与大地图，自由探索"
   },
@@ -1025,15 +1025,15 @@
     "editorScore": 8.7,
     "is2D": true,
     "screenshots": [
-      "images/psp/psp-ff4-complete-collection-s1.png",
-      "images/psp/psp-ff4-complete-collection-s2.png",
-      "images/psp/psp-ff4-complete-collection-m1.png",
-      "images/psp/psp-ff4-complete-collection-m2.png",
-      "images/psp/psp-ff4-complete-collection-m3.jpg",
-      "images/psp/psp-ff4-complete-collection-m4.jpg",
-      "images/psp/psp-ff4-complete-collection-title.png"
+      "images/psp/psp-ff4-complete-collection-s1.webp",
+      "images/psp/psp-ff4-complete-collection-s2.webp",
+      "images/psp/psp-ff4-complete-collection-m1.webp",
+      "images/psp/psp-ff4-complete-collection-m2.webp",
+      "images/psp/psp-ff4-complete-collection-m3.webp",
+      "images/psp/psp-ff4-complete-collection-m4.webp",
+      "images/psp/psp-ff4-complete-collection-title.webp"
     ],
-    "cover": "images/psp/psp-ff4-complete-collection-box.jpg",
+    "cover": "images/psp/psp-ff4-complete-collection-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素JRPG，城镇村落经典"
   },
@@ -1081,15 +1081,15 @@
     "editorScore": 8.7,
     "is2D": false,
     "screenshots": [
-      "images/psp/psp-jeanne-darc-s1.png",
-      "images/psp/psp-jeanne-darc-s2.png",
-      "images/psp/psp-jeanne-darc-m1.png",
+      "images/psp/psp-jeanne-darc-s1.webp",
+      "images/psp/psp-jeanne-darc-s2.webp",
+      "images/psp/psp-jeanne-darc-m1.webp",
       "images/psp/psp-jeanne-darc-m2.jpg",
-      "images/psp/psp-jeanne-darc-m3.jpg",
-      "images/psp/psp-jeanne-darc-m4.jpg",
-      "images/psp/psp-jeanne-darc-title.png"
+      "images/psp/psp-jeanne-darc-m3.webp",
+      "images/psp/psp-jeanne-darc-m4.webp",
+      "images/psp/psp-jeanne-darc-title.webp"
     ],
-    "cover": "images/psp/psp-jeanne-darc-box.jpg",
+    "cover": "images/psp/psp-jeanne-darc-box.webp",
     "styleMatch": 0,
     "styleNote": "3D战棋"
   },
@@ -1132,14 +1132,14 @@
     "editorScore": 8.6,
     "is2D": true,
     "screenshots": [
-      "images/psp/psp-trails-in-the-sky-3rd-s1.png",
-      "images/psp/psp-trails-in-the-sky-3rd-x1.jpg",
-      "images/psp/psp-trails-in-the-sky-3rd-x2.jpg",
-      "images/psp/psp-trails-in-the-sky-3rd-y1.jpg",
-      "images/psp/psp-trails-in-the-sky-3rd-y2.jpg",
-      "images/psp/psp-trails-in-the-sky-3rd-title.png"
+      "images/psp/psp-trails-in-the-sky-3rd-s1.webp",
+      "images/psp/psp-trails-in-the-sky-3rd-x1.webp",
+      "images/psp/psp-trails-in-the-sky-3rd-x2.webp",
+      "images/psp/psp-trails-in-the-sky-3rd-y1.webp",
+      "images/psp/psp-trails-in-the-sky-3rd-y2.webp",
+      "images/psp/psp-trails-in-the-sky-3rd-title.webp"
     ],
-    "cover": "images/psp/psp-trails-in-the-sky-3rd-box.jpg",
+    "cover": "images/psp/psp-trails-in-the-sky-3rd-box.webp",
     "styleMatch": 2,
     "styleNote": "像素角色但以迷宫攻略为主，城镇少"
   },
@@ -1187,15 +1187,15 @@
     "editorScore": 8.6,
     "is2D": true,
     "screenshots": [
-      "images/psp/psp-lunar-silver-star-harmony-s1.png",
-      "images/psp/psp-lunar-silver-star-harmony-x1.png",
-      "images/psp/psp-lunar-silver-star-harmony-x2.png",
-      "images/psp/psp-lunar-silver-star-harmony-m1.png",
-      "images/psp/psp-lunar-silver-star-harmony-m2.jpg",
-      "images/psp/psp-lunar-silver-star-harmony-m3.jpg",
-      "images/psp/psp-lunar-silver-star-harmony-title.png"
+      "images/psp/psp-lunar-silver-star-harmony-s1.webp",
+      "images/psp/psp-lunar-silver-star-harmony-x1.webp",
+      "images/psp/psp-lunar-silver-star-harmony-x2.webp",
+      "images/psp/psp-lunar-silver-star-harmony-m1.webp",
+      "images/psp/psp-lunar-silver-star-harmony-m2.webp",
+      "images/psp/psp-lunar-silver-star-harmony-m3.webp",
+      "images/psp/psp-lunar-silver-star-harmony-title.webp"
     ],
-    "cover": "images/psp/psp-lunar-silver-star-harmony-box.jpg",
+    "cover": "images/psp/psp-lunar-silver-star-harmony-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角高精度像素，城镇自由探索"
   },
@@ -1238,14 +1238,14 @@
     "editorScore": 8.6,
     "is2D": true,
     "screenshots": [
-      "images/psp/psp-sfa3-max-s1.png",
-      "images/psp/psp-sfa3-max-x1.png",
-      "images/psp/psp-sfa3-max-x2.png",
-      "images/psp/psp-sfa3-max-x3.png",
-      "images/psp/psp-sfa3-max-m1.jpg",
-      "images/psp/psp-sfa3-max-m2.jpg"
+      "images/psp/psp-sfa3-max-s1.webp",
+      "images/psp/psp-sfa3-max-x1.webp",
+      "images/psp/psp-sfa3-max-x2.webp",
+      "images/psp/psp-sfa3-max-x3.webp",
+      "images/psp/psp-sfa3-max-m1.webp",
+      "images/psp/psp-sfa3-max-m2.webp"
     ],
-    "cover": "images/psp/psp-sfa3-max-box.jpg",
+    "cover": "images/psp/psp-sfa3-max-box.webp",
     "styleMatch": 0,
     "styleNote": "2D格斗"
   },
@@ -1283,11 +1283,11 @@
     "editorScore": 8.5,
     "is2D": true,
     "screenshots": [
-      "images/psp/psp-gradius-collection-s1.png",
-      "images/psp/psp-gradius-collection-x1.png",
-      "images/psp/psp-gradius-collection-m1.png"
+      "images/psp/psp-gradius-collection-s1.webp",
+      "images/psp/psp-gradius-collection-x1.webp",
+      "images/psp/psp-gradius-collection-m1.webp"
     ],
-    "cover": "images/psp/psp-gradius-collection-box.jpg",
+    "cover": "images/psp/psp-gradius-collection-box.webp",
     "styleMatch": 0,
     "styleNote": "横版射击"
   },
@@ -1335,14 +1335,14 @@
     "editorScore": 8.5,
     "is2D": true,
     "screenshots": [
-      "images/psp/psp-star-ocean-second-evolution-s1.png",
-      "images/psp/psp-star-ocean-second-evolution-x1.jpg",
-      "images/psp/psp-star-ocean-second-evolution-x2.jpg",
-      "images/psp/psp-star-ocean-second-evolution-m1.png",
-      "images/psp/psp-star-ocean-second-evolution-m2.jpg",
-      "images/psp/psp-star-ocean-second-evolution-m3.jpg"
+      "images/psp/psp-star-ocean-second-evolution-s1.webp",
+      "images/psp/psp-star-ocean-second-evolution-x1.webp",
+      "images/psp/psp-star-ocean-second-evolution-x2.webp",
+      "images/psp/psp-star-ocean-second-evolution-m1.webp",
+      "images/psp/psp-star-ocean-second-evolution-m2.webp",
+      "images/psp/psp-star-ocean-second-evolution-m3.webp"
     ],
-    "cover": "images/psp/psp-star-ocean-second-evolution-box.jpg",
+    "cover": "images/psp/psp-star-ocean-second-evolution-box.webp",
     "styleMatch": 3,
     "styleNote": "像素角色在预渲染城镇中自由走动"
   },
@@ -1385,13 +1385,13 @@
     "editorScore": 8.4,
     "is2D": true,
     "screenshots": [
-      "images/psp/psp-breath-of-fire-3-s1.png",
-      "images/psp/psp-breath-of-fire-3-s2.png",
-      "images/psp/psp-breath-of-fire-3-m1.png",
-      "images/psp/psp-breath-of-fire-3-m2.jpg",
-      "images/psp/psp-breath-of-fire-3-title.png"
+      "images/psp/psp-breath-of-fire-3-s1.webp",
+      "images/psp/psp-breath-of-fire-3-s2.webp",
+      "images/psp/psp-breath-of-fire-3-m1.webp",
+      "images/psp/psp-breath-of-fire-3-m2.webp",
+      "images/psp/psp-breath-of-fire-3-title.webp"
     ],
-    "cover": "images/psp/psp-breath-of-fire-3-box.jpg",
+    "cover": "images/psp/psp-breath-of-fire-3-box.webp",
     "styleMatch": 3,
     "styleNote": "斜俯视角像素小人，村庄城镇丰富"
   },
@@ -1439,15 +1439,15 @@
     "editorScore": 8.4,
     "is2D": true,
     "screenshots": [
-      "images/psp/psp-darkstalkers-chronicle-s1.png",
-      "images/psp/psp-darkstalkers-chronicle-m1.png",
-      "images/psp/psp-darkstalkers-chronicle-m2.png",
-      "images/psp/psp-darkstalkers-chronicle-m3.jpg",
-      "images/psp/psp-darkstalkers-chronicle-m4.jpg",
-      "images/psp/psp-darkstalkers-chronicle-m5.jpg",
-      "images/psp/psp-darkstalkers-chronicle-title.png"
+      "images/psp/psp-darkstalkers-chronicle-s1.webp",
+      "images/psp/psp-darkstalkers-chronicle-m1.webp",
+      "images/psp/psp-darkstalkers-chronicle-m2.webp",
+      "images/psp/psp-darkstalkers-chronicle-m3.webp",
+      "images/psp/psp-darkstalkers-chronicle-m4.webp",
+      "images/psp/psp-darkstalkers-chronicle-m5.webp",
+      "images/psp/psp-darkstalkers-chronicle-title.webp"
     ],
-    "cover": "images/psp/psp-darkstalkers-chronicle-box.jpg",
+    "cover": "images/psp/psp-darkstalkers-chronicle-box.webp",
     "styleMatch": 0,
     "styleNote": "2D格斗"
   },
@@ -1490,14 +1490,14 @@
     "editorScore": 8.4,
     "is2D": true,
     "screenshots": [
-      "images/psp/psp-tales-of-phantasia-fve-s1.png",
-      "images/psp/psp-tales-of-phantasia-fve-x1.png",
-      "images/psp/psp-tales-of-phantasia-fve-y1.jpg",
-      "images/psp/psp-tales-of-phantasia-fve-y2.jpg",
-      "images/psp/psp-tales-of-phantasia-fve-y3.jpg",
-      "images/psp/psp-tales-of-phantasia-fve-title.png"
+      "images/psp/psp-tales-of-phantasia-fve-s1.webp",
+      "images/psp/psp-tales-of-phantasia-fve-x1.webp",
+      "images/psp/psp-tales-of-phantasia-fve-y1.webp",
+      "images/psp/psp-tales-of-phantasia-fve-y2.webp",
+      "images/psp/psp-tales-of-phantasia-fve-y3.webp",
+      "images/psp/psp-tales-of-phantasia-fve-title.webp"
     ],
-    "cover": "images/psp/psp-tales-of-phantasia-fve-box.jpg",
+    "cover": "images/psp/psp-tales-of-phantasia-fve-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素城镇与大地图自由探索"
   },
@@ -1545,12 +1545,12 @@
     "editorScore": 8.3,
     "is2D": true,
     "screenshots": [
-      "images/psp/psp-exit-s1.png",
-      "images/psp/psp-exit-x1.jpg",
-      "images/psp/psp-exit-x2.png",
-      "images/psp/psp-exit-x3.png"
+      "images/psp/psp-exit-s1.webp",
+      "images/psp/psp-exit-x1.webp",
+      "images/psp/psp-exit-x2.webp",
+      "images/psp/psp-exit-x3.webp"
     ],
-    "cover": "images/psp/psp-exit-box.jpg",
+    "cover": "images/psp/psp-exit-box.webp",
     "styleMatch": 1,
     "styleNote": "2D动作解谜，非RPG"
   },
@@ -1593,12 +1593,12 @@
     "editorScore": 8.3,
     "is2D": true,
     "screenshots": [
-      "images/psp/psp-metal-slug-anthology-s1.png",
-      "images/psp/psp-metal-slug-anthology-x1.png",
-      "images/psp/psp-metal-slug-anthology-m1.png",
-      "images/psp/psp-metal-slug-anthology-title.png"
+      "images/psp/psp-metal-slug-anthology-s1.webp",
+      "images/psp/psp-metal-slug-anthology-x1.webp",
+      "images/psp/psp-metal-slug-anthology-m1.webp",
+      "images/psp/psp-metal-slug-anthology-title.webp"
     ],
-    "cover": "images/psp/psp-metal-slug-anthology-box.jpg",
+    "cover": "images/psp/psp-metal-slug-anthology-box.webp",
     "styleMatch": 0,
     "styleNote": "横版射击"
   },
@@ -1646,15 +1646,15 @@
     "editorScore": 8.3,
     "is2D": false,
     "screenshots": [
-      "images/psp/psp-mega-man-maverick-hunter-x-s1.png",
-      "images/psp/psp-mega-man-maverick-hunter-x-s2.png",
-      "images/psp/psp-mega-man-maverick-hunter-x-m1.jpg",
-      "images/psp/psp-mega-man-maverick-hunter-x-m2.jpg",
-      "images/psp/psp-mega-man-maverick-hunter-x-m3.jpg",
-      "images/psp/psp-mega-man-maverick-hunter-x-m4.jpg",
-      "images/psp/psp-mega-man-maverick-hunter-x-title.png"
+      "images/psp/psp-mega-man-maverick-hunter-x-s1.webp",
+      "images/psp/psp-mega-man-maverick-hunter-x-s2.webp",
+      "images/psp/psp-mega-man-maverick-hunter-x-m1.webp",
+      "images/psp/psp-mega-man-maverick-hunter-x-m2.webp",
+      "images/psp/psp-mega-man-maverick-hunter-x-m3.webp",
+      "images/psp/psp-mega-man-maverick-hunter-x-m4.webp",
+      "images/psp/psp-mega-man-maverick-hunter-x-title.webp"
     ],
-    "cover": "images/psp/psp-mega-man-maverick-hunter-x-box.jpg",
+    "cover": "images/psp/psp-mega-man-maverick-hunter-x-box.webp",
     "styleMatch": 0,
     "styleNote": "2.5D多边形横版动作"
   },
@@ -1692,15 +1692,15 @@
     "editorScore": 8.3,
     "is2D": true,
     "screenshots": [
-      "images/psp/psp-tengai-makyou-4-s1.png",
-      "images/psp/psp-tengai-makyou-4-x1.png",
-      "images/psp/psp-tengai-makyou-4-m1.jpg",
-      "images/psp/psp-tengai-makyou-4-y1.jpg",
-      "images/psp/psp-tengai-makyou-4-y2.jpg",
-      "images/psp/psp-tengai-makyou-4-y3.jpg",
-      "images/psp/psp-tengai-makyou-4-title.png"
+      "images/psp/psp-tengai-makyou-4-s1.webp",
+      "images/psp/psp-tengai-makyou-4-x1.webp",
+      "images/psp/psp-tengai-makyou-4-m1.webp",
+      "images/psp/psp-tengai-makyou-4-y1.webp",
+      "images/psp/psp-tengai-makyou-4-y2.webp",
+      "images/psp/psp-tengai-makyou-4-y3.webp",
+      "images/psp/psp-tengai-makyou-4-title.webp"
     ],
-    "cover": "images/psp/psp-tengai-makyou-4-box.jpg",
+    "cover": "images/psp/psp-tengai-makyou-4-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角高精度像素城镇，自由漫游"
   },
@@ -1743,13 +1743,13 @@
     "editorScore": 8.2,
     "is2D": true,
     "screenshots": [
-      "images/psp/psp-riviera-s1.png",
-      "images/psp/psp-riviera-s2.png",
-      "images/psp/psp-riviera-m1.jpg",
-      "images/psp/psp-riviera-m2.png",
-      "images/psp/psp-riviera-title.png"
+      "images/psp/psp-riviera-s1.webp",
+      "images/psp/psp-riviera-s2.webp",
+      "images/psp/psp-riviera-m1.webp",
+      "images/psp/psp-riviera-m2.webp",
+      "images/psp/psp-riviera-title.webp"
     ],
-    "cover": "images/psp/psp-riviera-box.jpg",
+    "cover": "images/psp/psp-riviera-box.webp",
     "styleMatch": 2,
     "styleNote": "像素手绘RPG，但菜单式移动无自由走动"
   },
@@ -1792,15 +1792,15 @@
     "editorScore": 8.2,
     "is2D": true,
     "screenshots": [
-      "images/psp/psp-corpse-party-s1.png",
-      "images/psp/psp-corpse-party-x1.jpg",
-      "images/psp/psp-corpse-party-m1.png",
-      "images/psp/psp-corpse-party-m2.jpg",
-      "images/psp/psp-corpse-party-m3.jpg",
-      "images/psp/psp-corpse-party-m4.jpg",
-      "images/psp/psp-corpse-party-title.png"
+      "images/psp/psp-corpse-party-s1.webp",
+      "images/psp/psp-corpse-party-x1.webp",
+      "images/psp/psp-corpse-party-m1.webp",
+      "images/psp/psp-corpse-party-m2.webp",
+      "images/psp/psp-corpse-party-m3.webp",
+      "images/psp/psp-corpse-party-m4.webp",
+      "images/psp/psp-corpse-party-title.webp"
     ],
-    "cover": "images/psp/psp-corpse-party-box.jpg",
+    "cover": "images/psp/psp-corpse-party-box.webp",
     "styleMatch": 2,
     "styleNote": "俯视角像素探索，但为恐怖冒险无村庄"
   },
@@ -1843,13 +1843,13 @@
     "editorScore": 8.0,
     "is2D": true,
     "screenshots": [
-      "images/psp/psp-star-ocean-first-departure-s1.png",
-      "images/psp/psp-star-ocean-first-departure-x1.png",
-      "images/psp/psp-star-ocean-first-departure-x2.jpg",
-      "images/psp/psp-star-ocean-first-departure-y1.jpg",
-      "images/psp/psp-star-ocean-first-departure-y2.jpg"
+      "images/psp/psp-star-ocean-first-departure-s1.webp",
+      "images/psp/psp-star-ocean-first-departure-x1.webp",
+      "images/psp/psp-star-ocean-first-departure-x2.webp",
+      "images/psp/psp-star-ocean-first-departure-y1.webp",
+      "images/psp/psp-star-ocean-first-departure-y2.webp"
     ],
-    "cover": "images/psp/psp-star-ocean-first-departure-box.jpg",
+    "cover": "images/psp/psp-star-ocean-first-departure-box.webp",
     "styleMatch": 3,
     "styleNote": "像素角色+预渲染背景，自由逛城镇"
   },
@@ -1897,12 +1897,12 @@
     "editorScore": 8.0,
     "is2D": true,
     "screenshots": [
-      "images/psp/psp-prinny-s1.png",
-      "images/psp/psp-prinny-x1.png",
-      "images/psp/psp-prinny-m1.jpg",
-      "images/psp/psp-prinny-title.png"
+      "images/psp/psp-prinny-s1.webp",
+      "images/psp/psp-prinny-x1.webp",
+      "images/psp/psp-prinny-m1.webp",
+      "images/psp/psp-prinny-title.webp"
     ],
-    "cover": "images/psp/psp-prinny-box.jpg",
+    "cover": "images/psp/psp-prinny-box.webp",
     "styleMatch": 1,
     "styleNote": "像素横版平台动作"
   },
@@ -1940,14 +1940,14 @@
     "editorScore": 8.0,
     "is2D": true,
     "screenshots": [
-      "images/psp/psp-popolocrois-s1.png",
-      "images/psp/psp-popolocrois-x1.png",
-      "images/psp/psp-popolocrois-m1.png",
+      "images/psp/psp-popolocrois-s1.webp",
+      "images/psp/psp-popolocrois-x1.webp",
+      "images/psp/psp-popolocrois-m1.webp",
       "images/psp/psp-popolocrois-y1.jpg",
-      "images/psp/psp-popolocrois-y2.jpg",
-      "images/psp/psp-popolocrois-y3.jpg"
+      "images/psp/psp-popolocrois-y2.webp",
+      "images/psp/psp-popolocrois-y3.webp"
     ],
-    "cover": "images/psp/psp-popolocrois-box.jpg",
+    "cover": "images/psp/psp-popolocrois-box.webp",
     "styleMatch": 3,
     "styleNote": "斜俯视角明亮像素城镇与森林"
   },
@@ -1990,15 +1990,15 @@
     "editorScore": 7.8,
     "is2D": true,
     "screenshots": [
-      "images/psp/psp-ff2-anniversary-s1.png",
-      "images/psp/psp-ff2-anniversary-s2.png",
-      "images/psp/psp-ff2-anniversary-s3.png",
-      "images/psp/psp-ff2-anniversary-y1.png",
-      "images/psp/psp-ff2-anniversary-y2.jpg",
-      "images/psp/psp-ff2-anniversary-y3.jpg",
-      "images/psp/psp-ff2-anniversary-title.png"
+      "images/psp/psp-ff2-anniversary-s1.webp",
+      "images/psp/psp-ff2-anniversary-s2.webp",
+      "images/psp/psp-ff2-anniversary-s3.webp",
+      "images/psp/psp-ff2-anniversary-y1.webp",
+      "images/psp/psp-ff2-anniversary-y2.webp",
+      "images/psp/psp-ff2-anniversary-y3.webp",
+      "images/psp/psp-ff2-anniversary-title.webp"
     ],
-    "cover": "images/psp/psp-ff2-anniversary-box.jpg",
+    "cover": "images/psp/psp-ff2-anniversary-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角高精度像素，城镇与大地图"
   },
@@ -2030,15 +2030,15 @@
     "editorScore": 7.8,
     "is2D": true,
     "screenshots": [
-      "images/psp/psp-tales-of-phantasia-narikiri-x-s1.png",
-      "images/psp/psp-tales-of-phantasia-narikiri-x-x1.jpg",
-      "images/psp/psp-tales-of-phantasia-narikiri-x-m1.jpg",
-      "images/psp/psp-tales-of-phantasia-narikiri-x-m2.jpg",
-      "images/psp/psp-tales-of-phantasia-narikiri-x-m3.jpg",
-      "images/psp/psp-tales-of-phantasia-narikiri-x-m4.jpg",
-      "images/psp/psp-tales-of-phantasia-narikiri-x-title.jpg"
+      "images/psp/psp-tales-of-phantasia-narikiri-x-s1.webp",
+      "images/psp/psp-tales-of-phantasia-narikiri-x-x1.webp",
+      "images/psp/psp-tales-of-phantasia-narikiri-x-m1.webp",
+      "images/psp/psp-tales-of-phantasia-narikiri-x-m2.webp",
+      "images/psp/psp-tales-of-phantasia-narikiri-x-m3.webp",
+      "images/psp/psp-tales-of-phantasia-narikiri-x-m4.webp",
+      "images/psp/psp-tales-of-phantasia-narikiri-x-title.webp"
     ],
-    "cover": "images/psp/psp-tales-of-phantasia-narikiri-x-box.jpg",
+    "cover": "images/psp/psp-tales-of-phantasia-narikiri-x-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角城镇与大地图，横版即时战斗"
   },
@@ -2086,13 +2086,13 @@
     "editorScore": 7.6,
     "is2D": true,
     "screenshots": [
-      "images/psp/psp-crimson-gem-saga-s1.png",
-      "images/psp/psp-crimson-gem-saga-x1.jpg",
-      "images/psp/psp-crimson-gem-saga-m1.png",
-      "images/psp/psp-crimson-gem-saga-m2.jpg",
-      "images/psp/psp-crimson-gem-saga-m3.jpg"
+      "images/psp/psp-crimson-gem-saga-s1.webp",
+      "images/psp/psp-crimson-gem-saga-x1.webp",
+      "images/psp/psp-crimson-gem-saga-m1.webp",
+      "images/psp/psp-crimson-gem-saga-m2.webp",
+      "images/psp/psp-crimson-gem-saga-m3.webp"
     ],
-    "cover": "images/psp/psp-crimson-gem-saga-box.jpg",
+    "cover": "images/psp/psp-crimson-gem-saga-box.webp",
     "styleMatch": 2,
     "styleNote": "高精度像素RPG，但战斗为侧视角画面"
   }

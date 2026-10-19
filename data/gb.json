@@ -43,15 +43,15 @@
     "editorScore": 9.7,
     "is2D": true,
     "screenshots": [
-      "images/gb/gb-links-awakening-dx-s1.png",
-      "images/gb/gb-links-awakening-dx-s2.png",
-      "images/gb/gb-links-awakening-dx-s3.png",
-      "images/gb/gb-links-awakening-dx-m1.jpg",
-      "images/gb/gb-links-awakening-dx-m2.jpg",
-      "images/gb/gb-links-awakening-dx-m3.jpg",
-      "images/gb/gb-links-awakening-dx-title.png"
+      "images/gb/gb-links-awakening-dx-s1.webp",
+      "images/gb/gb-links-awakening-dx-s2.webp",
+      "images/gb/gb-links-awakening-dx-s3.webp",
+      "images/gb/gb-links-awakening-dx-m1.webp",
+      "images/gb/gb-links-awakening-dx-m2.webp",
+      "images/gb/gb-links-awakening-dx-m3.webp",
+      "images/gb/gb-links-awakening-dx-title.webp"
     ],
-    "cover": "images/gb/gb-links-awakening-dx-box.jpg",
+    "cover": "images/gb/gb-links-awakening-dx-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素ARPG，村庄商店自由探索"
   },
@@ -99,15 +99,15 @@
     "editorScore": 9.6,
     "is2D": true,
     "screenshots": [
-      "images/gb/gb-pokemon-gold-silver-s1.png",
-      "images/gb/gb-pokemon-gold-silver-x1.png",
-      "images/gb/gb-pokemon-gold-silver-m1.png",
-      "images/gb/gb-pokemon-gold-silver-m2.png",
-      "images/gb/gb-pokemon-gold-silver-m3.png",
-      "images/gb/gb-pokemon-gold-silver-m4.png",
-      "images/gb/gb-pokemon-gold-silver-title.png"
+      "images/gb/gb-pokemon-gold-silver-s1.webp",
+      "images/gb/gb-pokemon-gold-silver-x1.webp",
+      "images/gb/gb-pokemon-gold-silver-m1.webp",
+      "images/gb/gb-pokemon-gold-silver-m2.webp",
+      "images/gb/gb-pokemon-gold-silver-m3.webp",
+      "images/gb/gb-pokemon-gold-silver-m4.webp",
+      "images/gb/gb-pokemon-gold-silver-title.webp"
     ],
-    "cover": "images/gb/gb-pokemon-gold-silver-box.jpg",
+    "cover": "images/gb/gb-pokemon-gold-silver-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素RPG，城镇商店四处可逛"
   },
@@ -154,15 +154,15 @@
     "editorScore": 9.4,
     "is2D": true,
     "screenshots": [
-      "images/gb/gb-pokemon-crystal-s1.png",
-      "images/gb/gb-pokemon-crystal-s2.png",
-      "images/gb/gb-pokemon-crystal-m1.png",
-      "images/gb/gb-pokemon-crystal-m2.png",
-      "images/gb/gb-pokemon-crystal-m3.png",
-      "images/gb/gb-pokemon-crystal-m4.png",
-      "images/gb/gb-pokemon-crystal-title.png"
+      "images/gb/gb-pokemon-crystal-s1.webp",
+      "images/gb/gb-pokemon-crystal-s2.webp",
+      "images/gb/gb-pokemon-crystal-m1.webp",
+      "images/gb/gb-pokemon-crystal-m2.webp",
+      "images/gb/gb-pokemon-crystal-m3.webp",
+      "images/gb/gb-pokemon-crystal-m4.webp",
+      "images/gb/gb-pokemon-crystal-title.webp"
     ],
-    "cover": "images/gb/gb-pokemon-crystal-box.jpg",
+    "cover": "images/gb/gb-pokemon-crystal-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素RPG，城镇与野外自由行走"
   },
@@ -209,15 +209,15 @@
     "editorScore": 9.3,
     "is2D": true,
     "screenshots": [
-      "images/gb/gb-zelda-oracle-s1.png",
-      "images/gb/gb-zelda-oracle-s2.png",
-      "images/gb/gb-zelda-oracle-x1.png",
-      "images/gb/gb-zelda-oracle-m1.png",
-      "images/gb/gb-zelda-oracle-m2.png",
-      "images/gb/gb-zelda-oracle-m3.jpg",
-      "images/gb/gb-zelda-oracle-title.png"
+      "images/gb/gb-zelda-oracle-s1.webp",
+      "images/gb/gb-zelda-oracle-s2.webp",
+      "images/gb/gb-zelda-oracle-x1.webp",
+      "images/gb/gb-zelda-oracle-m1.webp",
+      "images/gb/gb-zelda-oracle-m2.webp",
+      "images/gb/gb-zelda-oracle-m3.webp",
+      "images/gb/gb-zelda-oracle-title.webp"
     ],
-    "cover": "images/gb/gb-zelda-oracle-box.jpg",
+    "cover": "images/gb/gb-zelda-oracle-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素ARPG，有村庄商店与迷宫"
   },
@@ -265,15 +265,15 @@
     "editorScore": 9.2,
     "is2D": true,
     "screenshots": [
-      "images/gb/gb-pokemon-red-green-s1.png",
-      "images/gb/gb-pokemon-red-green-s2.png",
-      "images/gb/gb-pokemon-red-green-x1.png",
-      "images/gb/gb-pokemon-red-green-m1.jpg",
-      "images/gb/gb-pokemon-red-green-m2.png",
-      "images/gb/gb-pokemon-red-green-m3.jpg",
-      "images/gb/gb-pokemon-red-green-title.png"
+      "images/gb/gb-pokemon-red-green-s1.webp",
+      "images/gb/gb-pokemon-red-green-s2.webp",
+      "images/gb/gb-pokemon-red-green-x1.webp",
+      "images/gb/gb-pokemon-red-green-m1.webp",
+      "images/gb/gb-pokemon-red-green-m2.webp",
+      "images/gb/gb-pokemon-red-green-m3.webp",
+      "images/gb/gb-pokemon-red-green-title.webp"
     ],
-    "cover": "images/gb/gb-pokemon-red-green-box.jpg",
+    "cover": "images/gb/gb-pokemon-red-green-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素RPG，城镇商店自由探索"
   },
@@ -320,15 +320,15 @@
     "editorScore": 9.2,
     "is2D": true,
     "screenshots": [
-      "images/gb/gb-tetris-s1.png",
-      "images/gb/gb-tetris-s2.png",
-      "images/gb/gb-tetris-x1.png",
-      "images/gb/gb-tetris-m1.jpg",
-      "images/gb/gb-tetris-m2.jpg",
-      "images/gb/gb-tetris-m3.jpg",
-      "images/gb/gb-tetris-title.png"
+      "images/gb/gb-tetris-s1.webp",
+      "images/gb/gb-tetris-s2.webp",
+      "images/gb/gb-tetris-x1.webp",
+      "images/gb/gb-tetris-m1.webp",
+      "images/gb/gb-tetris-m2.webp",
+      "images/gb/gb-tetris-m3.webp",
+      "images/gb/gb-tetris-title.webp"
     ],
-    "cover": "images/gb/gb-tetris-box.jpg",
+    "cover": "images/gb/gb-tetris-box.webp",
     "styleMatch": 0,
     "styleNote": "方块益智游戏，与参考图无关"
   },
@@ -376,15 +376,15 @@
     "editorScore": 9.0,
     "is2D": true,
     "screenshots": [
-      "images/gb/gb-final-fantasy-adventure-s1.png",
-      "images/gb/gb-final-fantasy-adventure-s2.png",
+      "images/gb/gb-final-fantasy-adventure-s1.webp",
+      "images/gb/gb-final-fantasy-adventure-s2.webp",
       "images/gb/gb-final-fantasy-adventure-m1.jpg",
-      "images/gb/gb-final-fantasy-adventure-m2.jpg",
-      "images/gb/gb-final-fantasy-adventure-m3.jpg",
-      "images/gb/gb-final-fantasy-adventure-m4.jpg",
-      "images/gb/gb-final-fantasy-adventure-title.png"
+      "images/gb/gb-final-fantasy-adventure-m2.webp",
+      "images/gb/gb-final-fantasy-adventure-m3.webp",
+      "images/gb/gb-final-fantasy-adventure-m4.webp",
+      "images/gb/gb-final-fantasy-adventure-title.webp"
     ],
-    "cover": "images/gb/gb-final-fantasy-adventure-box.jpg",
+    "cover": "images/gb/gb-final-fantasy-adventure-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角日式ARPG，村庄商店齐全"
   },
@@ -431,15 +431,15 @@
     "editorScore": 9.0,
     "is2D": true,
     "screenshots": [
-      "images/gb/gb-wario-land-3-s1.png",
-      "images/gb/gb-wario-land-3-x1.png",
-      "images/gb/gb-wario-land-3-m1.png",
-      "images/gb/gb-wario-land-3-m2.jpg",
-      "images/gb/gb-wario-land-3-m3.jpg",
-      "images/gb/gb-wario-land-3-m4.jpg",
-      "images/gb/gb-wario-land-3-title.png"
+      "images/gb/gb-wario-land-3-s1.webp",
+      "images/gb/gb-wario-land-3-x1.webp",
+      "images/gb/gb-wario-land-3-m1.webp",
+      "images/gb/gb-wario-land-3-m2.webp",
+      "images/gb/gb-wario-land-3-m3.webp",
+      "images/gb/gb-wario-land-3-m4.webp",
+      "images/gb/gb-wario-land-3-title.webp"
     ],
-    "cover": "images/gb/gb-wario-land-3-box.jpg",
+    "cover": "images/gb/gb-wario-land-3-box.webp",
     "styleMatch": 1,
     "styleNote": "横版平台动作，仅像素风相近"
   },
@@ -486,15 +486,15 @@
     "editorScore": 9.0,
     "is2D": true,
     "screenshots": [
-      "images/gb/gb-pokemon-yellow-s1.png",
-      "images/gb/gb-pokemon-yellow-s2.png",
-      "images/gb/gb-pokemon-yellow-m1.jpg",
-      "images/gb/gb-pokemon-yellow-m2.jpg",
-      "images/gb/gb-pokemon-yellow-m3.png",
-      "images/gb/gb-pokemon-yellow-m4.jpg",
-      "images/gb/gb-pokemon-yellow-title.png"
+      "images/gb/gb-pokemon-yellow-s1.webp",
+      "images/gb/gb-pokemon-yellow-s2.webp",
+      "images/gb/gb-pokemon-yellow-m1.webp",
+      "images/gb/gb-pokemon-yellow-m2.webp",
+      "images/gb/gb-pokemon-yellow-m3.webp",
+      "images/gb/gb-pokemon-yellow-m4.webp",
+      "images/gb/gb-pokemon-yellow-title.webp"
     ],
-    "cover": "images/gb/gb-pokemon-yellow-box.jpg",
+    "cover": "images/gb/gb-pokemon-yellow-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素RPG，城镇商店自由探索"
   },
@@ -542,14 +542,14 @@
     "is2D": true,
     "screenshots": [
       "images/gb/gb-gargoyles-quest-s1.png",
-      "images/gb/gb-gargoyles-quest-x1.jpg",
-      "images/gb/gb-gargoyles-quest-m1.jpg",
-      "images/gb/gb-gargoyles-quest-m2.jpg",
-      "images/gb/gb-gargoyles-quest-m3.jpg",
-      "images/gb/gb-gargoyles-quest-m4.jpg",
-      "images/gb/gb-gargoyles-quest-title.png"
+      "images/gb/gb-gargoyles-quest-x1.webp",
+      "images/gb/gb-gargoyles-quest-m1.webp",
+      "images/gb/gb-gargoyles-quest-m2.webp",
+      "images/gb/gb-gargoyles-quest-m3.webp",
+      "images/gb/gb-gargoyles-quest-m4.webp",
+      "images/gb/gb-gargoyles-quest-title.webp"
     ],
-    "cover": "images/gb/gb-gargoyles-quest-box.jpg",
+    "cover": "images/gb/gb-gargoyles-quest-box.webp",
     "styleMatch": 2,
     "styleNote": "俯视大地图有村落，战斗为横版动作"
   },
@@ -596,15 +596,15 @@
     "editorScore": 8.9,
     "is2D": true,
     "screenshots": [
-      "images/gb/gb-dragon-warrior-3-s1.png",
-      "images/gb/gb-dragon-warrior-3-s2.png",
-      "images/gb/gb-dragon-warrior-3-x1.png",
-      "images/gb/gb-dragon-warrior-3-m1.jpg",
-      "images/gb/gb-dragon-warrior-3-m2.jpg",
-      "images/gb/gb-dragon-warrior-3-m3.jpg",
-      "images/gb/gb-dragon-warrior-3-title.png"
+      "images/gb/gb-dragon-warrior-3-s1.webp",
+      "images/gb/gb-dragon-warrior-3-s2.webp",
+      "images/gb/gb-dragon-warrior-3-x1.webp",
+      "images/gb/gb-dragon-warrior-3-m1.webp",
+      "images/gb/gb-dragon-warrior-3-m2.webp",
+      "images/gb/gb-dragon-warrior-3-m3.webp",
+      "images/gb/gb-dragon-warrior-3-title.webp"
     ],
-    "cover": "images/gb/gb-dragon-warrior-3-box.jpg",
+    "cover": "images/gb/gb-dragon-warrior-3-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角日式RPG，城镇商店自由行走"
   },
@@ -652,11 +652,11 @@
     "is2D": true,
     "screenshots": [
       "images/gb/gb-metal-gear-ghost-babel-s1.png",
-      "images/gb/gb-metal-gear-ghost-babel-s2.png",
-      "images/gb/gb-metal-gear-ghost-babel-s3.png",
-      "images/gb/gb-metal-gear-ghost-babel-title.png"
+      "images/gb/gb-metal-gear-ghost-babel-s2.webp",
+      "images/gb/gb-metal-gear-ghost-babel-s3.webp",
+      "images/gb/gb-metal-gear-ghost-babel-title.webp"
     ],
-    "cover": "images/gb/gb-metal-gear-ghost-babel-box.jpg",
+    "cover": "images/gb/gb-metal-gear-ghost-babel-box.webp",
     "styleMatch": 1,
     "styleNote": "俯视角潜入动作，无村庄城镇"
   },
@@ -703,15 +703,15 @@
     "editorScore": 8.8,
     "is2D": true,
     "screenshots": [
-      "images/gb/gb-super-mario-land-2-s1.png",
-      "images/gb/gb-super-mario-land-2-s2.png",
-      "images/gb/gb-super-mario-land-2-m1.jpg",
-      "images/gb/gb-super-mario-land-2-m2.jpg",
-      "images/gb/gb-super-mario-land-2-m3.jpg",
-      "images/gb/gb-super-mario-land-2-m4.jpg",
-      "images/gb/gb-super-mario-land-2-title.png"
+      "images/gb/gb-super-mario-land-2-s1.webp",
+      "images/gb/gb-super-mario-land-2-s2.webp",
+      "images/gb/gb-super-mario-land-2-m1.webp",
+      "images/gb/gb-super-mario-land-2-m2.webp",
+      "images/gb/gb-super-mario-land-2-m3.webp",
+      "images/gb/gb-super-mario-land-2-m4.webp",
+      "images/gb/gb-super-mario-land-2-title.webp"
     ],
-    "cover": "images/gb/gb-super-mario-land-2-box.jpg",
+    "cover": "images/gb/gb-super-mario-land-2-box.webp",
     "styleMatch": 1,
     "styleNote": "横版平台跳跃，仅像素风相近"
   },
@@ -758,14 +758,14 @@
     "editorScore": 8.8,
     "is2D": true,
     "screenshots": [
-      "images/gb/gb-dragon-warrior-1-2-s1.png",
-      "images/gb/gb-dragon-warrior-1-2-x1.png",
-      "images/gb/gb-dragon-warrior-1-2-x2.png",
-      "images/gb/gb-dragon-warrior-1-2-y1.png",
-      "images/gb/gb-dragon-warrior-1-2-y2.png",
-      "images/gb/gb-dragon-warrior-1-2-title.png"
+      "images/gb/gb-dragon-warrior-1-2-s1.webp",
+      "images/gb/gb-dragon-warrior-1-2-x1.webp",
+      "images/gb/gb-dragon-warrior-1-2-x2.webp",
+      "images/gb/gb-dragon-warrior-1-2-y1.webp",
+      "images/gb/gb-dragon-warrior-1-2-y2.webp",
+      "images/gb/gb-dragon-warrior-1-2-title.webp"
     ],
-    "cover": "images/gb/gb-dragon-warrior-1-2-box.jpg",
+    "cover": "images/gb/gb-dragon-warrior-1-2-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角日式RPG，城镇商店自由行走"
   },
@@ -812,14 +812,14 @@
     "editorScore": 8.7,
     "is2D": true,
     "screenshots": [
-      "images/gb/gb-donkey-kong-94-s1.png",
-      "images/gb/gb-donkey-kong-94-s2.png",
-      "images/gb/gb-donkey-kong-94-m1.png",
-      "images/gb/gb-donkey-kong-94-m2.png",
-      "images/gb/gb-donkey-kong-94-m3.jpg",
-      "images/gb/gb-donkey-kong-94-title.png"
+      "images/gb/gb-donkey-kong-94-s1.webp",
+      "images/gb/gb-donkey-kong-94-s2.webp",
+      "images/gb/gb-donkey-kong-94-m1.webp",
+      "images/gb/gb-donkey-kong-94-m2.webp",
+      "images/gb/gb-donkey-kong-94-m3.webp",
+      "images/gb/gb-donkey-kong-94-title.webp"
     ],
-    "cover": "images/gb/gb-donkey-kong-94-box.jpg",
+    "cover": "images/gb/gb-donkey-kong-94-box.webp",
     "styleMatch": 1,
     "styleNote": "横版动作解谜，仅像素风相近"
   },
@@ -862,14 +862,14 @@
     "editorScore": 8.6,
     "is2D": true,
     "screenshots": [
-      "images/gb/gb-kaeru-no-tame-s1.png",
-      "images/gb/gb-kaeru-no-tame-x1.png",
-      "images/gb/gb-kaeru-no-tame-x2.png",
-      "images/gb/gb-kaeru-no-tame-y1.png",
-      "images/gb/gb-kaeru-no-tame-y2.png",
-      "images/gb/gb-kaeru-no-tame-title.png"
+      "images/gb/gb-kaeru-no-tame-s1.webp",
+      "images/gb/gb-kaeru-no-tame-x1.webp",
+      "images/gb/gb-kaeru-no-tame-x2.webp",
+      "images/gb/gb-kaeru-no-tame-y1.webp",
+      "images/gb/gb-kaeru-no-tame-y2.webp",
+      "images/gb/gb-kaeru-no-tame-title.webp"
     ],
-    "cover": "images/gb/gb-kaeru-no-tame-box.jpg",
+    "cover": "images/gb/gb-kaeru-no-tame-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素ARPG，村庄城镇自由探索"
   },
@@ -916,14 +916,14 @@
     "editorScore": 8.6,
     "is2D": true,
     "screenshots": [
-      "images/gb/gb-dragon-warrior-monsters-s1.png",
-      "images/gb/gb-dragon-warrior-monsters-x1.png",
+      "images/gb/gb-dragon-warrior-monsters-s1.webp",
+      "images/gb/gb-dragon-warrior-monsters-x1.webp",
       "images/gb/gb-dragon-warrior-monsters-x2.png",
-      "images/gb/gb-dragon-warrior-monsters-y1.png",
-      "images/gb/gb-dragon-warrior-monsters-y2.png",
-      "images/gb/gb-dragon-warrior-monsters-title.png"
+      "images/gb/gb-dragon-warrior-monsters-y1.webp",
+      "images/gb/gb-dragon-warrior-monsters-y2.webp",
+      "images/gb/gb-dragon-warrior-monsters-title.webp"
     ],
-    "cover": "images/gb/gb-dragon-warrior-monsters-box.jpg",
+    "cover": "images/gb/gb-dragon-warrior-monsters-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素RPG，城镇商店可自由逛"
   },
@@ -970,15 +970,15 @@
     "editorScore": 8.6,
     "is2D": true,
     "screenshots": [
-      "images/gb/gb-mario-golf-s1.png",
-      "images/gb/gb-mario-golf-s2.png",
-      "images/gb/gb-mario-golf-m1.png",
-      "images/gb/gb-mario-golf-m2.png",
-      "images/gb/gb-mario-golf-m3.png",
-      "images/gb/gb-mario-golf-m4.jpg",
-      "images/gb/gb-mario-golf-title.png"
+      "images/gb/gb-mario-golf-s1.webp",
+      "images/gb/gb-mario-golf-s2.webp",
+      "images/gb/gb-mario-golf-m1.webp",
+      "images/gb/gb-mario-golf-m2.webp",
+      "images/gb/gb-mario-golf-m3.webp",
+      "images/gb/gb-mario-golf-m4.webp",
+      "images/gb/gb-mario-golf-title.webp"
     ],
-    "cover": "images/gb/gb-mario-golf-box.jpg",
+    "cover": "images/gb/gb-mario-golf-box.webp",
     "styleMatch": 1,
     "styleNote": "运动游戏，仅俯视角会所行走沾边"
   },
@@ -1025,14 +1025,14 @@
     "editorScore": 8.6,
     "is2D": true,
     "screenshots": [
-      "images/gb/gb-wario-land-2-s1.png",
-      "images/gb/gb-wario-land-2-s2.png",
-      "images/gb/gb-wario-land-2-m1.png",
-      "images/gb/gb-wario-land-2-m2.jpg",
-      "images/gb/gb-wario-land-2-m3.jpg",
-      "images/gb/gb-wario-land-2-title.png"
+      "images/gb/gb-wario-land-2-s1.webp",
+      "images/gb/gb-wario-land-2-s2.webp",
+      "images/gb/gb-wario-land-2-m1.webp",
+      "images/gb/gb-wario-land-2-m2.webp",
+      "images/gb/gb-wario-land-2-m3.webp",
+      "images/gb/gb-wario-land-2-title.webp"
     ],
-    "cover": "images/gb/gb-wario-land-2-box.jpg",
+    "cover": "images/gb/gb-wario-land-2-box.webp",
     "styleMatch": 1,
     "styleNote": "横版平台动作，仅像素风相近"
   },
@@ -1079,13 +1079,13 @@
     "editorScore": 8.5,
     "is2D": true,
     "screenshots": [
-      "images/gb/gb-kirbys-dream-land-2-s1.png",
-      "images/gb/gb-kirbys-dream-land-2-m1.png",
-      "images/gb/gb-kirbys-dream-land-2-m2.jpg",
-      "images/gb/gb-kirbys-dream-land-2-m3.jpg",
-      "images/gb/gb-kirbys-dream-land-2-title.png"
+      "images/gb/gb-kirbys-dream-land-2-s1.webp",
+      "images/gb/gb-kirbys-dream-land-2-m1.webp",
+      "images/gb/gb-kirbys-dream-land-2-m2.webp",
+      "images/gb/gb-kirbys-dream-land-2-m3.webp",
+      "images/gb/gb-kirbys-dream-land-2-title.webp"
     ],
-    "cover": "images/gb/gb-kirbys-dream-land-2-box.jpg",
+    "cover": "images/gb/gb-kirbys-dream-land-2-box.webp",
     "styleMatch": 1,
     "styleNote": "横版平台跳跃，仅像素风相近"
   },
@@ -1132,15 +1132,15 @@
     "editorScore": 8.5,
     "is2D": true,
     "screenshots": [
-      "images/gb/gb-castlevania-2-belmonts-revenge-s1.png",
-      "images/gb/gb-castlevania-2-belmonts-revenge-m1.png",
-      "images/gb/gb-castlevania-2-belmonts-revenge-m2.jpg",
-      "images/gb/gb-castlevania-2-belmonts-revenge-m3.jpg",
-      "images/gb/gb-castlevania-2-belmonts-revenge-m4.jpg",
-      "images/gb/gb-castlevania-2-belmonts-revenge-m5.jpg",
-      "images/gb/gb-castlevania-2-belmonts-revenge-title.png"
+      "images/gb/gb-castlevania-2-belmonts-revenge-s1.webp",
+      "images/gb/gb-castlevania-2-belmonts-revenge-m1.webp",
+      "images/gb/gb-castlevania-2-belmonts-revenge-m2.webp",
+      "images/gb/gb-castlevania-2-belmonts-revenge-m3.webp",
+      "images/gb/gb-castlevania-2-belmonts-revenge-m4.webp",
+      "images/gb/gb-castlevania-2-belmonts-revenge-m5.webp",
+      "images/gb/gb-castlevania-2-belmonts-revenge-title.webp"
     ],
-    "cover": "images/gb/gb-castlevania-2-belmonts-revenge-box.jpg",
+    "cover": "images/gb/gb-castlevania-2-belmonts-revenge-box.webp",
     "styleMatch": 1,
     "styleNote": "横版动作，仅像素风相近"
   },
@@ -1187,15 +1187,15 @@
     "editorScore": 8.5,
     "is2D": true,
     "screenshots": [
-      "images/gb/gb-dragon-warrior-monsters-2-s1.png",
-      "images/gb/gb-dragon-warrior-monsters-2-x1.png",
-      "images/gb/gb-dragon-warrior-monsters-2-x2.png",
-      "images/gb/gb-dragon-warrior-monsters-2-m1.jpg",
-      "images/gb/gb-dragon-warrior-monsters-2-m2.jpg",
-      "images/gb/gb-dragon-warrior-monsters-2-m3.jpg",
-      "images/gb/gb-dragon-warrior-monsters-2-title.png"
+      "images/gb/gb-dragon-warrior-monsters-2-s1.webp",
+      "images/gb/gb-dragon-warrior-monsters-2-x1.webp",
+      "images/gb/gb-dragon-warrior-monsters-2-x2.webp",
+      "images/gb/gb-dragon-warrior-monsters-2-m1.webp",
+      "images/gb/gb-dragon-warrior-monsters-2-m2.webp",
+      "images/gb/gb-dragon-warrior-monsters-2-m3.webp",
+      "images/gb/gb-dragon-warrior-monsters-2-title.webp"
     ],
-    "cover": "images/gb/gb-dragon-warrior-monsters-2-box.jpg",
+    "cover": "images/gb/gb-dragon-warrior-monsters-2-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素RPG，城镇商店可自由逛"
   },
@@ -1242,11 +1242,11 @@
     "editorScore": 8.5,
     "is2D": true,
     "screenshots": [
-      "images/gb/gb-mario-tennis-s1.png",
-      "images/gb/gb-mario-tennis-s2.png",
-      "images/gb/gb-mario-tennis-title.png"
+      "images/gb/gb-mario-tennis-s1.webp",
+      "images/gb/gb-mario-tennis-s2.webp",
+      "images/gb/gb-mario-tennis-title.webp"
     ],
-    "cover": "images/gb/gb-mario-tennis-box.jpg",
+    "cover": "images/gb/gb-mario-tennis-box.webp",
     "styleMatch": 1,
     "styleNote": "运动游戏，仅俯视角学院行走沾边"
   },
@@ -1293,15 +1293,15 @@
     "editorScore": 8.4,
     "is2D": true,
     "screenshots": [
-      "images/gb/gb-metroid-2-s1.png",
-      "images/gb/gb-metroid-2-x1.png",
-      "images/gb/gb-metroid-2-x2.png",
-      "images/gb/gb-metroid-2-m1.jpg",
-      "images/gb/gb-metroid-2-m2.jpg",
-      "images/gb/gb-metroid-2-m3.jpg",
-      "images/gb/gb-metroid-2-title.png"
+      "images/gb/gb-metroid-2-s1.webp",
+      "images/gb/gb-metroid-2-x1.webp",
+      "images/gb/gb-metroid-2-x2.webp",
+      "images/gb/gb-metroid-2-m1.webp",
+      "images/gb/gb-metroid-2-m2.webp",
+      "images/gb/gb-metroid-2-m3.webp",
+      "images/gb/gb-metroid-2-title.webp"
     ],
-    "cover": "images/gb/gb-metroid-2-box.jpg",
+    "cover": "images/gb/gb-metroid-2-box.webp",
     "styleMatch": 1,
     "styleNote": "横版探索动作，无城镇商店"
   },
@@ -1349,14 +1349,14 @@
     "is2D": true,
     "screenshots": [
       "images/gb/gb-final-fantasy-legend-2-s1.png",
-      "images/gb/gb-final-fantasy-legend-2-x1.jpg",
-      "images/gb/gb-final-fantasy-legend-2-x2.jpg",
-      "images/gb/gb-final-fantasy-legend-2-m1.png",
-      "images/gb/gb-final-fantasy-legend-2-m2.jpg",
-      "images/gb/gb-final-fantasy-legend-2-m3.jpg",
-      "images/gb/gb-final-fantasy-legend-2-title.png"
+      "images/gb/gb-final-fantasy-legend-2-x1.webp",
+      "images/gb/gb-final-fantasy-legend-2-x2.webp",
+      "images/gb/gb-final-fantasy-legend-2-m1.webp",
+      "images/gb/gb-final-fantasy-legend-2-m2.webp",
+      "images/gb/gb-final-fantasy-legend-2-m3.webp",
+      "images/gb/gb-final-fantasy-legend-2-title.webp"
     ],
-    "cover": "images/gb/gb-final-fantasy-legend-2-box.jpg",
+    "cover": "images/gb/gb-final-fantasy-legend-2-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素RPG，城镇商店自由探索"
   },
@@ -1403,14 +1403,14 @@
     "editorScore": 8.4,
     "is2D": true,
     "screenshots": [
-      "images/gb/gb-mega-man-5-s1.png",
-      "images/gb/gb-mega-man-5-m1.png",
-      "images/gb/gb-mega-man-5-m2.jpg",
-      "images/gb/gb-mega-man-5-m3.jpg",
-      "images/gb/gb-mega-man-5-m4.jpg",
-      "images/gb/gb-mega-man-5-title.png"
+      "images/gb/gb-mega-man-5-s1.webp",
+      "images/gb/gb-mega-man-5-m1.webp",
+      "images/gb/gb-mega-man-5-m2.webp",
+      "images/gb/gb-mega-man-5-m3.webp",
+      "images/gb/gb-mega-man-5-m4.webp",
+      "images/gb/gb-mega-man-5-title.webp"
     ],
-    "cover": "images/gb/gb-mega-man-5-box.jpg",
+    "cover": "images/gb/gb-mega-man-5-box.webp",
     "styleMatch": 1,
     "styleNote": "横版动作，仅像素风相近"
   },
@@ -1457,15 +1457,15 @@
     "editorScore": 8.4,
     "is2D": true,
     "screenshots": [
-      "images/gb/gb-operation-c-s1.png",
-      "images/gb/gb-operation-c-m1.png",
-      "images/gb/gb-operation-c-m2.png",
-      "images/gb/gb-operation-c-m3.jpg",
-      "images/gb/gb-operation-c-m4.jpg",
-      "images/gb/gb-operation-c-m5.jpg",
-      "images/gb/gb-operation-c-title.png"
+      "images/gb/gb-operation-c-s1.webp",
+      "images/gb/gb-operation-c-m1.webp",
+      "images/gb/gb-operation-c-m2.webp",
+      "images/gb/gb-operation-c-m3.webp",
+      "images/gb/gb-operation-c-m4.webp",
+      "images/gb/gb-operation-c-m5.webp",
+      "images/gb/gb-operation-c-title.webp"
     ],
-    "cover": "images/gb/gb-operation-c-box.jpg",
+    "cover": "images/gb/gb-operation-c-box.webp",
     "styleMatch": 0,
     "styleNote": "射击游戏，与参考图无关"
   },
@@ -1512,15 +1512,15 @@
     "editorScore": 8.4,
     "is2D": true,
     "screenshots": [
-      "images/gb/gb-super-mario-land-s1.png",
-      "images/gb/gb-super-mario-land-s2.png",
-      "images/gb/gb-super-mario-land-m1.jpg",
-      "images/gb/gb-super-mario-land-m2.jpg",
-      "images/gb/gb-super-mario-land-m3.jpg",
-      "images/gb/gb-super-mario-land-m4.jpg",
-      "images/gb/gb-super-mario-land-title.png"
+      "images/gb/gb-super-mario-land-s1.webp",
+      "images/gb/gb-super-mario-land-s2.webp",
+      "images/gb/gb-super-mario-land-m1.webp",
+      "images/gb/gb-super-mario-land-m2.webp",
+      "images/gb/gb-super-mario-land-m3.webp",
+      "images/gb/gb-super-mario-land-m4.webp",
+      "images/gb/gb-super-mario-land-title.webp"
     ],
-    "cover": "images/gb/gb-super-mario-land-box.jpg",
+    "cover": "images/gb/gb-super-mario-land-box.webp",
     "styleMatch": 1,
     "styleNote": "横版平台跳跃，仅像素风相近"
   },
@@ -1567,12 +1567,12 @@
     "editorScore": 8.4,
     "is2D": true,
     "screenshots": [
-      "images/gb/gb-pokemon-puzzle-challenge-s1.png",
-      "images/gb/gb-pokemon-puzzle-challenge-s2.png",
-      "images/gb/gb-pokemon-puzzle-challenge-x1.png",
-      "images/gb/gb-pokemon-puzzle-challenge-title.png"
+      "images/gb/gb-pokemon-puzzle-challenge-s1.webp",
+      "images/gb/gb-pokemon-puzzle-challenge-s2.webp",
+      "images/gb/gb-pokemon-puzzle-challenge-x1.webp",
+      "images/gb/gb-pokemon-puzzle-challenge-title.webp"
     ],
-    "cover": "images/gb/gb-pokemon-puzzle-challenge-box.jpg",
+    "cover": "images/gb/gb-pokemon-puzzle-challenge-box.webp",
     "styleMatch": 0,
     "styleNote": "消除益智游戏，与参考图无关"
   },
@@ -1616,14 +1616,14 @@
     "styleMatch": 3,
     "styleNote": "俯视角像素RPG，城镇自由闲逛",
     "screenshots": [
-      "images/gb/gb-star-ocean-blue-sphere-s1.png",
-      "images/gb/gb-star-ocean-blue-sphere-x1.png",
-      "images/gb/gb-star-ocean-blue-sphere-m1.jpg",
-      "images/gb/gb-star-ocean-blue-sphere-m2.jpg",
-      "images/gb/gb-star-ocean-blue-sphere-m3.jpg",
-      "images/gb/gb-star-ocean-blue-sphere-title.png"
+      "images/gb/gb-star-ocean-blue-sphere-s1.webp",
+      "images/gb/gb-star-ocean-blue-sphere-x1.webp",
+      "images/gb/gb-star-ocean-blue-sphere-m1.webp",
+      "images/gb/gb-star-ocean-blue-sphere-m2.webp",
+      "images/gb/gb-star-ocean-blue-sphere-m3.webp",
+      "images/gb/gb-star-ocean-blue-sphere-title.webp"
     ],
-    "cover": "images/gb/gb-star-ocean-blue-sphere-box.jpg"
+    "cover": "images/gb/gb-star-ocean-blue-sphere-box.webp"
   },
   {
     "id": "gb-shantae",
@@ -1669,15 +1669,15 @@
     "editorScore": 8.3,
     "is2D": true,
     "screenshots": [
-      "images/gb/gb-shantae-s1.png",
-      "images/gb/gb-shantae-x1.jpg",
-      "images/gb/gb-shantae-x2.jpg",
-      "images/gb/gb-shantae-m1.jpg",
-      "images/gb/gb-shantae-m2.jpg",
-      "images/gb/gb-shantae-m3.jpg",
-      "images/gb/gb-shantae-title.png"
+      "images/gb/gb-shantae-s1.webp",
+      "images/gb/gb-shantae-x1.webp",
+      "images/gb/gb-shantae-x2.webp",
+      "images/gb/gb-shantae-m1.webp",
+      "images/gb/gb-shantae-m2.webp",
+      "images/gb/gb-shantae-m3.webp",
+      "images/gb/gb-shantae-title.webp"
     ],
-    "cover": "images/gb/gb-shantae-box.jpg",
+    "cover": "images/gb/gb-shantae-box.webp",
     "styleMatch": 2,
     "styleNote": "横版探索，有城镇商店可逛"
   },
@@ -1724,15 +1724,15 @@
     "editorScore": 8.3,
     "is2D": true,
     "screenshots": [
-      "images/gb/gb-final-fantasy-legend-s1.png",
-      "images/gb/gb-final-fantasy-legend-s2.png",
-      "images/gb/gb-final-fantasy-legend-m1.png",
-      "images/gb/gb-final-fantasy-legend-y1.png",
-      "images/gb/gb-final-fantasy-legend-y2.png",
-      "images/gb/gb-final-fantasy-legend-y3.png",
-      "images/gb/gb-final-fantasy-legend-title.png"
+      "images/gb/gb-final-fantasy-legend-s1.webp",
+      "images/gb/gb-final-fantasy-legend-s2.webp",
+      "images/gb/gb-final-fantasy-legend-m1.webp",
+      "images/gb/gb-final-fantasy-legend-y1.webp",
+      "images/gb/gb-final-fantasy-legend-y2.webp",
+      "images/gb/gb-final-fantasy-legend-y3.webp",
+      "images/gb/gb-final-fantasy-legend-title.webp"
     ],
-    "cover": "images/gb/gb-final-fantasy-legend-box.jpg",
+    "cover": "images/gb/gb-final-fantasy-legend-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素RPG，城镇商店自由探索"
   },
@@ -1780,15 +1780,15 @@
     "editorScore": 8.3,
     "is2D": true,
     "screenshots": [
-      "images/gb/gb-survival-kids-s1.png",
+      "images/gb/gb-survival-kids-s1.webp",
       "images/gb/gb-survival-kids-x1.png",
-      "images/gb/gb-survival-kids-m1.png",
-      "images/gb/gb-survival-kids-m2.png",
-      "images/gb/gb-survival-kids-m3.jpg",
-      "images/gb/gb-survival-kids-m4.jpg",
+      "images/gb/gb-survival-kids-m1.webp",
+      "images/gb/gb-survival-kids-m2.webp",
+      "images/gb/gb-survival-kids-m3.webp",
+      "images/gb/gb-survival-kids-m4.webp",
       "images/gb/gb-survival-kids-title.png"
     ],
-    "cover": "images/gb/gb-survival-kids-box.jpg",
+    "cover": "images/gb/gb-survival-kids-box.webp",
     "styleMatch": 2,
     "styleNote": "俯视角像素冒险，但无村庄商店"
   },
@@ -1835,12 +1835,12 @@
     "editorScore": 8.2,
     "is2D": true,
     "screenshots": [
-      "images/gb/gb-kirbys-dream-land-s1.png",
-      "images/gb/gb-kirbys-dream-land-m1.png",
+      "images/gb/gb-kirbys-dream-land-s1.webp",
+      "images/gb/gb-kirbys-dream-land-m1.webp",
       "images/gb/gb-kirbys-dream-land-m2.jpg",
-      "images/gb/gb-kirbys-dream-land-title.png"
+      "images/gb/gb-kirbys-dream-land-title.webp"
     ],
-    "cover": "images/gb/gb-kirbys-dream-land-box.jpg",
+    "cover": "images/gb/gb-kirbys-dream-land-box.webp",
     "styleMatch": 1,
     "styleNote": "横版平台跳跃，仅像素风相近"
   },
@@ -1887,14 +1887,14 @@
     "editorScore": 8.2,
     "is2D": true,
     "screenshots": [
-      "images/gb/gb-donkey-kong-land-s1.png",
-      "images/gb/gb-donkey-kong-land-x1.png",
-      "images/gb/gb-donkey-kong-land-m1.png",
-      "images/gb/gb-donkey-kong-land-m2.jpg",
-      "images/gb/gb-donkey-kong-land-m3.jpg",
-      "images/gb/gb-donkey-kong-land-title.png"
+      "images/gb/gb-donkey-kong-land-s1.webp",
+      "images/gb/gb-donkey-kong-land-x1.webp",
+      "images/gb/gb-donkey-kong-land-m1.webp",
+      "images/gb/gb-donkey-kong-land-m2.webp",
+      "images/gb/gb-donkey-kong-land-m3.webp",
+      "images/gb/gb-donkey-kong-land-title.webp"
     ],
-    "cover": "images/gb/gb-donkey-kong-land-box.jpg",
+    "cover": "images/gb/gb-donkey-kong-land-box.webp",
     "styleMatch": 1,
     "styleNote": "横版平台跳跃，仅像素风相近"
   },
@@ -1941,15 +1941,15 @@
     "editorScore": 8.2,
     "is2D": true,
     "screenshots": [
-      "images/gb/gb-pokemon-tcg-s1.png",
-      "images/gb/gb-pokemon-tcg-s2.png",
-      "images/gb/gb-pokemon-tcg-s3.png",
-      "images/gb/gb-pokemon-tcg-m1.png",
-      "images/gb/gb-pokemon-tcg-m2.png",
-      "images/gb/gb-pokemon-tcg-m3.png",
-      "images/gb/gb-pokemon-tcg-title.png"
+      "images/gb/gb-pokemon-tcg-s1.webp",
+      "images/gb/gb-pokemon-tcg-s2.webp",
+      "images/gb/gb-pokemon-tcg-s3.webp",
+      "images/gb/gb-pokemon-tcg-m1.webp",
+      "images/gb/gb-pokemon-tcg-m2.webp",
+      "images/gb/gb-pokemon-tcg-m3.webp",
+      "images/gb/gb-pokemon-tcg-title.webp"
     ],
-    "cover": "images/gb/gb-pokemon-tcg-box.jpg",
+    "cover": "images/gb/gb-pokemon-tcg-box.webp",
     "styleMatch": 2,
     "styleNote": "俯视角走动俱乐部，对战为卡牌"
   },
@@ -1991,15 +1991,15 @@
     "editorScore": 8.2,
     "is2D": true,
     "screenshots": [
-      "images/gb/gb-pokemon-pinball-s1.png",
-      "images/gb/gb-pokemon-pinball-s2.png",
-      "images/gb/gb-pokemon-pinball-s3.png",
-      "images/gb/gb-pokemon-pinball-m1.jpg",
-      "images/gb/gb-pokemon-pinball-m2.jpg",
-      "images/gb/gb-pokemon-pinball-m3.jpg",
-      "images/gb/gb-pokemon-pinball-title.png"
+      "images/gb/gb-pokemon-pinball-s1.webp",
+      "images/gb/gb-pokemon-pinball-s2.webp",
+      "images/gb/gb-pokemon-pinball-s3.webp",
+      "images/gb/gb-pokemon-pinball-m1.webp",
+      "images/gb/gb-pokemon-pinball-m2.webp",
+      "images/gb/gb-pokemon-pinball-m3.webp",
+      "images/gb/gb-pokemon-pinball-title.webp"
     ],
-    "cover": "images/gb/gb-pokemon-pinball-box.jpg",
+    "cover": "images/gb/gb-pokemon-pinball-box.webp",
     "styleMatch": 0,
     "styleNote": "弹珠台游戏，与参考图无关"
   },
@@ -2046,15 +2046,15 @@
     "editorScore": 8.0,
     "is2D": true,
     "screenshots": [
-      "images/gb/gb-final-fantasy-legend-3-s1.png",
-      "images/gb/gb-final-fantasy-legend-3-x1.png",
-      "images/gb/gb-final-fantasy-legend-3-m1.jpg",
-      "images/gb/gb-final-fantasy-legend-3-m2.jpg",
-      "images/gb/gb-final-fantasy-legend-3-m3.jpg",
-      "images/gb/gb-final-fantasy-legend-3-m4.jpg",
-      "images/gb/gb-final-fantasy-legend-3-title.png"
+      "images/gb/gb-final-fantasy-legend-3-s1.webp",
+      "images/gb/gb-final-fantasy-legend-3-x1.webp",
+      "images/gb/gb-final-fantasy-legend-3-m1.webp",
+      "images/gb/gb-final-fantasy-legend-3-m2.webp",
+      "images/gb/gb-final-fantasy-legend-3-m3.webp",
+      "images/gb/gb-final-fantasy-legend-3-m4.webp",
+      "images/gb/gb-final-fantasy-legend-3-title.webp"
     ],
-    "cover": "images/gb/gb-final-fantasy-legend-3-box.jpg",
+    "cover": "images/gb/gb-final-fantasy-legend-3-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素RPG，城镇商店自由探索"
   },
@@ -2103,14 +2103,14 @@
     "styleMatch": 3,
     "styleNote": "俯视角像素RPG，村庄城镇自由探索",
     "screenshots": [
-      "images/gb/gb-magi-nation-s1.png",
-      "images/gb/gb-magi-nation-x1.png",
-      "images/gb/gb-magi-nation-m1.png",
-      "images/gb/gb-magi-nation-y1.png",
-      "images/gb/gb-magi-nation-y2.png",
-      "images/gb/gb-magi-nation-title.png"
+      "images/gb/gb-magi-nation-s1.webp",
+      "images/gb/gb-magi-nation-x1.webp",
+      "images/gb/gb-magi-nation-m1.webp",
+      "images/gb/gb-magi-nation-y1.webp",
+      "images/gb/gb-magi-nation-y2.webp",
+      "images/gb/gb-magi-nation-title.webp"
     ],
-    "cover": "images/gb/gb-magi-nation-box.jpg"
+    "cover": "images/gb/gb-magi-nation-box.webp"
   },
   {
     "id": "gb-harvest-moon-gb",
@@ -2155,15 +2155,15 @@
     "editorScore": 7.9,
     "is2D": true,
     "screenshots": [
-      "images/gb/gb-harvest-moon-gb-s1.png",
+      "images/gb/gb-harvest-moon-gb-s1.webp",
       "images/gb/gb-harvest-moon-gb-s2.png",
-      "images/gb/gb-harvest-moon-gb-s3.png",
-      "images/gb/gb-harvest-moon-gb-m1.png",
-      "images/gb/gb-harvest-moon-gb-m2.jpg",
-      "images/gb/gb-harvest-moon-gb-m3.jpg",
-      "images/gb/gb-harvest-moon-gb-title.png"
+      "images/gb/gb-harvest-moon-gb-s3.webp",
+      "images/gb/gb-harvest-moon-gb-m1.webp",
+      "images/gb/gb-harvest-moon-gb-m2.webp",
+      "images/gb/gb-harvest-moon-gb-m3.webp",
+      "images/gb/gb-harvest-moon-gb-title.webp"
     ],
-    "cover": "images/gb/gb-harvest-moon-gb-box.jpg",
+    "cover": "images/gb/gb-harvest-moon-gb-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素牧场生活，村镇自由行走"
   },
@@ -2213,11 +2213,11 @@
     "screenshots": [
       "images/gb/gb-mole-mania-s1.png",
       "images/gb/gb-mole-mania-x1.png",
-      "images/gb/gb-mole-mania-m1.png",
-      "images/gb/gb-mole-mania-m2.png",
-      "images/gb/gb-mole-mania-title.png"
+      "images/gb/gb-mole-mania-m1.webp",
+      "images/gb/gb-mole-mania-m2.webp",
+      "images/gb/gb-mole-mania-title.webp"
     ],
-    "cover": "images/gb/gb-mole-mania-box.jpg",
+    "cover": "images/gb/gb-mole-mania-box.webp",
     "styleMatch": 0,
     "styleNote": "俯视角解谜游戏，无城镇探索"
   },
@@ -2256,14 +2256,14 @@
     "styleMatch": 3,
     "styleNote": "俯视角像素RPG，有城镇商店迷宫",
     "screenshots": [
-      "images/gb/gb-devil-children-s1.png",
-      "images/gb/gb-devil-children-x1.png",
-      "images/gb/gb-devil-children-m1.png",
-      "images/gb/gb-devil-children-y1.png",
-      "images/gb/gb-devil-children-y2.png",
-      "images/gb/gb-devil-children-title.png"
+      "images/gb/gb-devil-children-s1.webp",
+      "images/gb/gb-devil-children-x1.webp",
+      "images/gb/gb-devil-children-m1.webp",
+      "images/gb/gb-devil-children-y1.webp",
+      "images/gb/gb-devil-children-y2.webp",
+      "images/gb/gb-devil-children-title.webp"
     ],
-    "cover": "images/gb/gb-devil-children-box.jpg"
+    "cover": "images/gb/gb-devil-children-box.webp"
   },
   {
     "id": "gb-kid-dracula",
@@ -2309,15 +2309,15 @@
     "editorScore": 7.8,
     "is2D": true,
     "screenshots": [
-      "images/gb/gb-kid-dracula-s1.png",
-      "images/gb/gb-kid-dracula-x1.png",
-      "images/gb/gb-kid-dracula-m1.png",
-      "images/gb/gb-kid-dracula-m2.png",
-      "images/gb/gb-kid-dracula-m3.png",
-      "images/gb/gb-kid-dracula-m4.jpg",
-      "images/gb/gb-kid-dracula-title.png"
+      "images/gb/gb-kid-dracula-s1.webp",
+      "images/gb/gb-kid-dracula-x1.webp",
+      "images/gb/gb-kid-dracula-m1.webp",
+      "images/gb/gb-kid-dracula-m2.webp",
+      "images/gb/gb-kid-dracula-m3.webp",
+      "images/gb/gb-kid-dracula-m4.webp",
+      "images/gb/gb-kid-dracula-title.webp"
     ],
-    "cover": "images/gb/gb-kid-dracula-box.jpg",
+    "cover": "images/gb/gb-kid-dracula-box.webp",
     "styleMatch": 1,
     "styleNote": "横版平台动作，仅像素风相近"
   },
@@ -2366,15 +2366,15 @@
     "styleMatch": 3,
     "styleNote": "俯视角像素牧场生活，村镇自由行走",
     "screenshots": [
-      "images/gb/gb-harvest-moon-2-gbc-s1.png",
+      "images/gb/gb-harvest-moon-2-gbc-s1.webp",
       "images/gb/gb-harvest-moon-2-gbc-s2.png",
-      "images/gb/gb-harvest-moon-2-gbc-m1.jpg",
-      "images/gb/gb-harvest-moon-2-gbc-m2.jpg",
-      "images/gb/gb-harvest-moon-2-gbc-m3.jpg",
-      "images/gb/gb-harvest-moon-2-gbc-m4.jpg",
-      "images/gb/gb-harvest-moon-2-gbc-title.png"
+      "images/gb/gb-harvest-moon-2-gbc-m1.webp",
+      "images/gb/gb-harvest-moon-2-gbc-m2.webp",
+      "images/gb/gb-harvest-moon-2-gbc-m3.webp",
+      "images/gb/gb-harvest-moon-2-gbc-m4.webp",
+      "images/gb/gb-harvest-moon-2-gbc-title.webp"
     ],
-    "cover": "images/gb/gb-harvest-moon-2-gbc-box.jpg"
+    "cover": "images/gb/gb-harvest-moon-2-gbc-box.webp"
   },
   {
     "id": "gb-revelations-demon-slayer",
@@ -2417,12 +2417,12 @@
     "styleNote": "俯视角像素RPG，城镇商店齐全",
     "screenshots": [
       "images/gb/gb-revelations-demon-slayer-s1.png",
-      "images/gb/gb-revelations-demon-slayer-x1.png",
-      "images/gb/gb-revelations-demon-slayer-m1.png",
-      "images/gb/gb-revelations-demon-slayer-m2.jpg",
-      "images/gb/gb-revelations-demon-slayer-title.png"
+      "images/gb/gb-revelations-demon-slayer-x1.webp",
+      "images/gb/gb-revelations-demon-slayer-m1.webp",
+      "images/gb/gb-revelations-demon-slayer-m2.webp",
+      "images/gb/gb-revelations-demon-slayer-title.webp"
     ],
-    "cover": "images/gb/gb-revelations-demon-slayer-box.jpg"
+    "cover": "images/gb/gb-revelations-demon-slayer-box.webp"
   },
   {
     "id": "gb-hamtaro-ham-hams-unite",
@@ -2469,15 +2469,15 @@
     "styleMatch": 3,
     "styleNote": "俯视角像素小镇冒险，可与居民交谈",
     "screenshots": [
-      "images/gb/gb-hamtaro-ham-hams-unite-s1.png",
-      "images/gb/gb-hamtaro-ham-hams-unite-s2.png",
-      "images/gb/gb-hamtaro-ham-hams-unite-m1.png",
-      "images/gb/gb-hamtaro-ham-hams-unite-m2.jpg",
-      "images/gb/gb-hamtaro-ham-hams-unite-m3.jpg",
-      "images/gb/gb-hamtaro-ham-hams-unite-m4.jpg",
-      "images/gb/gb-hamtaro-ham-hams-unite-title.png"
+      "images/gb/gb-hamtaro-ham-hams-unite-s1.webp",
+      "images/gb/gb-hamtaro-ham-hams-unite-s2.webp",
+      "images/gb/gb-hamtaro-ham-hams-unite-m1.webp",
+      "images/gb/gb-hamtaro-ham-hams-unite-m2.webp",
+      "images/gb/gb-hamtaro-ham-hams-unite-m3.webp",
+      "images/gb/gb-hamtaro-ham-hams-unite-m4.webp",
+      "images/gb/gb-hamtaro-ham-hams-unite-title.webp"
     ],
-    "cover": "images/gb/gb-hamtaro-ham-hams-unite-box.jpg"
+    "cover": "images/gb/gb-hamtaro-ham-hams-unite-box.webp"
   },
   {
     "id": "gb-bomberman-quest",
@@ -2516,13 +2516,13 @@
     "styleNote": "俯视角像素ARPG，有城镇与野外探索",
     "screenshots": [
       "images/gb/gb-bomberman-quest-s1.png",
-      "images/gb/gb-bomberman-quest-s2.png",
+      "images/gb/gb-bomberman-quest-s2.webp",
       "images/gb/gb-bomberman-quest-s3.png",
-      "images/gb/gb-bomberman-quest-y1.png",
-      "images/gb/gb-bomberman-quest-y2.png",
-      "images/gb/gb-bomberman-quest-title.png"
+      "images/gb/gb-bomberman-quest-y1.webp",
+      "images/gb/gb-bomberman-quest-y2.webp",
+      "images/gb/gb-bomberman-quest-title.webp"
     ],
-    "cover": "images/gb/gb-bomberman-quest-box.jpg"
+    "cover": "images/gb/gb-bomberman-quest-box.webp"
   },
   {
     "id": "gb-lufia-legend-returns",
@@ -2570,13 +2570,13 @@
     "styleNote": "俯视角像素RPG，城镇与迷宫自由探索",
     "screenshots": [
       "images/gb/gb-lufia-legend-returns-s1.png",
-      "images/gb/gb-lufia-legend-returns-s2.png",
-      "images/gb/gb-lufia-legend-returns-y1.png",
-      "images/gb/gb-lufia-legend-returns-y2.png",
-      "images/gb/gb-lufia-legend-returns-y3.png",
-      "images/gb/gb-lufia-legend-returns-title.png"
+      "images/gb/gb-lufia-legend-returns-s2.webp",
+      "images/gb/gb-lufia-legend-returns-y1.webp",
+      "images/gb/gb-lufia-legend-returns-y2.webp",
+      "images/gb/gb-lufia-legend-returns-y3.webp",
+      "images/gb/gb-lufia-legend-returns-title.webp"
     ],
-    "cover": "images/gb/gb-lufia-legend-returns-box.jpg"
+    "cover": "images/gb/gb-lufia-legend-returns-box.webp"
   },
   {
     "id": "gb-robopon-sun",
@@ -2623,14 +2623,14 @@
     "styleMatch": 3,
     "styleNote": "俯视角像素RPG，城镇商店自由探索",
     "screenshots": [
-      "images/gb/gb-robopon-sun-s1.png",
-      "images/gb/gb-robopon-sun-x1.png",
-      "images/gb/gb-robopon-sun-y1.png",
-      "images/gb/gb-robopon-sun-y2.png",
-      "images/gb/gb-robopon-sun-y3.png",
-      "images/gb/gb-robopon-sun-title.png"
+      "images/gb/gb-robopon-sun-s1.webp",
+      "images/gb/gb-robopon-sun-x1.webp",
+      "images/gb/gb-robopon-sun-y1.webp",
+      "images/gb/gb-robopon-sun-y2.webp",
+      "images/gb/gb-robopon-sun-y3.webp",
+      "images/gb/gb-robopon-sun-title.webp"
     ],
-    "cover": "images/gb/gb-robopon-sun-box.jpg"
+    "cover": "images/gb/gb-robopon-sun-box.webp"
   },
   {
     "id": "gb-legend-of-the-river-king",
@@ -2677,14 +2677,14 @@
     "styleMatch": 3,
     "styleNote": "俯视角像素乡村，城镇商店自由探索",
     "screenshots": [
-      "images/gb/gb-legend-of-the-river-king-s1.png",
-      "images/gb/gb-legend-of-the-river-king-s2.png",
+      "images/gb/gb-legend-of-the-river-king-s1.webp",
+      "images/gb/gb-legend-of-the-river-king-s2.webp",
       "images/gb/gb-legend-of-the-river-king-s3.png",
-      "images/gb/gb-legend-of-the-river-king-m1.png",
-      "images/gb/gb-legend-of-the-river-king-m2.jpg",
-      "images/gb/gb-legend-of-the-river-king-m3.jpg",
-      "images/gb/gb-legend-of-the-river-king-title.png"
+      "images/gb/gb-legend-of-the-river-king-m1.webp",
+      "images/gb/gb-legend-of-the-river-king-m2.webp",
+      "images/gb/gb-legend-of-the-river-king-m3.webp",
+      "images/gb/gb-legend-of-the-river-king-title.webp"
     ],
-    "cover": "images/gb/gb-legend-of-the-river-king-box.jpg"
+    "cover": "images/gb/gb-legend-of-the-river-king-box.webp"
   }
 ]

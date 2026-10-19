@@ -42,15 +42,15 @@
     "editorScore": 9.6,
     "is2D": true,
     "screenshots": [
-      "images/nds/nds-chrono-trigger-s1.png",
-      "images/nds/nds-chrono-trigger-x1.png",
-      "images/nds/nds-chrono-trigger-x2.png",
-      "images/nds/nds-chrono-trigger-m1.jpg",
-      "images/nds/nds-chrono-trigger-m2.jpg",
-      "images/nds/nds-chrono-trigger-m3.jpg",
-      "images/nds/nds-chrono-trigger-title.png"
+      "images/nds/nds-chrono-trigger-s1.webp",
+      "images/nds/nds-chrono-trigger-x1.webp",
+      "images/nds/nds-chrono-trigger-x2.webp",
+      "images/nds/nds-chrono-trigger-m1.webp",
+      "images/nds/nds-chrono-trigger-m2.webp",
+      "images/nds/nds-chrono-trigger-m3.webp",
+      "images/nds/nds-chrono-trigger-title.webp"
     ],
-    "cover": "images/nds/nds-chrono-trigger-box.jpg",
+    "cover": "images/nds/nds-chrono-trigger-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素RPG，城镇村庄自由探索"
   },
@@ -97,15 +97,15 @@
     "editorScore": 9.5,
     "is2D": true,
     "screenshots": [
-      "images/nds/nds-dragon-quest-v-s1.png",
-      "images/nds/nds-dragon-quest-v-s2.png",
-      "images/nds/nds-dragon-quest-v-m1.jpg",
-      "images/nds/nds-dragon-quest-v-m2.jpg",
-      "images/nds/nds-dragon-quest-v-m3.jpg",
-      "images/nds/nds-dragon-quest-v-m4.jpg",
-      "images/nds/nds-dragon-quest-v-title.png"
+      "images/nds/nds-dragon-quest-v-s1.webp",
+      "images/nds/nds-dragon-quest-v-s2.webp",
+      "images/nds/nds-dragon-quest-v-m1.webp",
+      "images/nds/nds-dragon-quest-v-m2.webp",
+      "images/nds/nds-dragon-quest-v-m3.webp",
+      "images/nds/nds-dragon-quest-v-m4.webp",
+      "images/nds/nds-dragon-quest-v-title.webp"
     ],
-    "cover": "images/nds/nds-dragon-quest-v-box.jpg",
+    "cover": "images/nds/nds-dragon-quest-v-box.webp",
     "styleMatch": 3,
     "styleNote": "像素小人走3D城镇，经典俯视王道RPG"
   },
@@ -152,15 +152,15 @@
     "editorScore": 9.4,
     "is2D": true,
     "screenshots": [
-      "images/nds/nds-castlevania-dawn-of-sorrow-s1.png",
-      "images/nds/nds-castlevania-dawn-of-sorrow-m1.jpg",
-      "images/nds/nds-castlevania-dawn-of-sorrow-m2.jpg",
-      "images/nds/nds-castlevania-dawn-of-sorrow-m3.jpg",
-      "images/nds/nds-castlevania-dawn-of-sorrow-m4.jpg",
-      "images/nds/nds-castlevania-dawn-of-sorrow-m5.jpg",
-      "images/nds/nds-castlevania-dawn-of-sorrow-title.png"
+      "images/nds/nds-castlevania-dawn-of-sorrow-s1.webp",
+      "images/nds/nds-castlevania-dawn-of-sorrow-m1.webp",
+      "images/nds/nds-castlevania-dawn-of-sorrow-m2.webp",
+      "images/nds/nds-castlevania-dawn-of-sorrow-m3.webp",
+      "images/nds/nds-castlevania-dawn-of-sorrow-m4.webp",
+      "images/nds/nds-castlevania-dawn-of-sorrow-m5.webp",
+      "images/nds/nds-castlevania-dawn-of-sorrow-title.webp"
     ],
-    "cover": "images/nds/nds-castlevania-dawn-of-sorrow-box.jpg",
+    "cover": "images/nds/nds-castlevania-dawn-of-sorrow-box.webp",
     "styleMatch": 1,
     "styleNote": "横版银河恶魔城，几乎没有城镇"
   },
@@ -207,15 +207,15 @@
     "editorScore": 9.4,
     "is2D": true,
     "screenshots": [
-      "images/nds/nds-the-world-ends-with-you-s1.png",
-      "images/nds/nds-the-world-ends-with-you-x1.png",
-      "images/nds/nds-the-world-ends-with-you-m1.jpg",
-      "images/nds/nds-the-world-ends-with-you-y1.jpg",
-      "images/nds/nds-the-world-ends-with-you-y2.jpg",
-      "images/nds/nds-the-world-ends-with-you-y3.jpg",
-      "images/nds/nds-the-world-ends-with-you-title.png"
+      "images/nds/nds-the-world-ends-with-you-s1.webp",
+      "images/nds/nds-the-world-ends-with-you-x1.webp",
+      "images/nds/nds-the-world-ends-with-you-m1.webp",
+      "images/nds/nds-the-world-ends-with-you-y1.webp",
+      "images/nds/nds-the-world-ends-with-you-y2.webp",
+      "images/nds/nds-the-world-ends-with-you-y3.webp",
+      "images/nds/nds-the-world-ends-with-you-title.webp"
     ],
-    "cover": "images/nds/nds-the-world-ends-with-you-box.jpg",
+    "cover": "images/nds/nds-the-world-ends-with-you-box.webp",
     "styleMatch": 2,
     "styleNote": "俯视2D涩谷街区，都市而非村庄"
   },
@@ -262,15 +262,15 @@
     "editorScore": 9.3,
     "is2D": true,
     "screenshots": [
-      "images/nds/nds-mario-luigi-bowsers-inside-story-s1.png",
-      "images/nds/nds-mario-luigi-bowsers-inside-story-x1.png",
-      "images/nds/nds-mario-luigi-bowsers-inside-story-x2.png",
-      "images/nds/nds-mario-luigi-bowsers-inside-story-m1.jpg",
-      "images/nds/nds-mario-luigi-bowsers-inside-story-m2.jpg",
-      "images/nds/nds-mario-luigi-bowsers-inside-story-m3.jpg",
-      "images/nds/nds-mario-luigi-bowsers-inside-story-title.png"
+      "images/nds/nds-mario-luigi-bowsers-inside-story-s1.webp",
+      "images/nds/nds-mario-luigi-bowsers-inside-story-x1.webp",
+      "images/nds/nds-mario-luigi-bowsers-inside-story-x2.webp",
+      "images/nds/nds-mario-luigi-bowsers-inside-story-m1.webp",
+      "images/nds/nds-mario-luigi-bowsers-inside-story-m2.webp",
+      "images/nds/nds-mario-luigi-bowsers-inside-story-m3.webp",
+      "images/nds/nds-mario-luigi-bowsers-inside-story-title.webp"
     ],
-    "cover": "images/nds/nds-mario-luigi-bowsers-inside-story-box.jpg",
+    "cover": "images/nds/nds-mario-luigi-bowsers-inside-story-box.webp",
     "styleMatch": 3,
     "styleNote": "斜45度像素RPG，可逛蘑菇城镇"
   },
@@ -317,15 +317,15 @@
     "editorScore": 9.3,
     "is2D": true,
     "screenshots": [
-      "images/nds/nds-pokemon-heartgold-soulsilver-s1.png",
-      "images/nds/nds-pokemon-heartgold-soulsilver-s2.png",
-      "images/nds/nds-pokemon-heartgold-soulsilver-m1.jpg",
-      "images/nds/nds-pokemon-heartgold-soulsilver-m2.jpg",
-      "images/nds/nds-pokemon-heartgold-soulsilver-m3.jpg",
-      "images/nds/nds-pokemon-heartgold-soulsilver-m4.jpg",
-      "images/nds/nds-pokemon-heartgold-soulsilver-title.png"
+      "images/nds/nds-pokemon-heartgold-soulsilver-s1.webp",
+      "images/nds/nds-pokemon-heartgold-soulsilver-s2.webp",
+      "images/nds/nds-pokemon-heartgold-soulsilver-m1.webp",
+      "images/nds/nds-pokemon-heartgold-soulsilver-m2.webp",
+      "images/nds/nds-pokemon-heartgold-soulsilver-m3.webp",
+      "images/nds/nds-pokemon-heartgold-soulsilver-m4.webp",
+      "images/nds/nds-pokemon-heartgold-soulsilver-title.webp"
     ],
-    "cover": "images/nds/nds-pokemon-heartgold-soulsilver-box.jpg",
+    "cover": "images/nds/nds-pokemon-heartgold-soulsilver-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视像素RPG，城镇道馆自由探索"
   },
@@ -372,13 +372,13 @@
     "editorScore": 9.2,
     "is2D": true,
     "screenshots": [
-      "images/nds/nds-castlevania-order-of-ecclesia-s1.png",
-      "images/nds/nds-castlevania-order-of-ecclesia-x1.png",
-      "images/nds/nds-castlevania-order-of-ecclesia-x2.png",
-      "images/nds/nds-castlevania-order-of-ecclesia-m1.jpg",
-      "images/nds/nds-castlevania-order-of-ecclesia-title.png"
+      "images/nds/nds-castlevania-order-of-ecclesia-s1.webp",
+      "images/nds/nds-castlevania-order-of-ecclesia-x1.webp",
+      "images/nds/nds-castlevania-order-of-ecclesia-x2.webp",
+      "images/nds/nds-castlevania-order-of-ecclesia-m1.webp",
+      "images/nds/nds-castlevania-order-of-ecclesia-title.webp"
     ],
-    "cover": "images/nds/nds-castlevania-order-of-ecclesia-box.jpg",
+    "cover": "images/nds/nds-castlevania-order-of-ecclesia-box.webp",
     "styleMatch": 2,
     "styleNote": "横版恶魔城，有村庄与商店据点"
   },
@@ -425,11 +425,11 @@
     "editorScore": 9.1,
     "is2D": false,
     "screenshots": [
-      "images/nds/nds-dragon-quest-ix-s1.png",
-      "images/nds/nds-dragon-quest-ix-s2.png",
-      "images/nds/nds-dragon-quest-ix-title.png"
+      "images/nds/nds-dragon-quest-ix-s1.webp",
+      "images/nds/nds-dragon-quest-ix-s2.webp",
+      "images/nds/nds-dragon-quest-ix-title.webp"
     ],
-    "cover": "images/nds/nds-dragon-quest-ix-box.jpg",
+    "cover": "images/nds/nds-dragon-quest-ix-box.webp",
     "styleMatch": 0,
     "styleNote": "全3D建模，非像素画面"
   },
@@ -476,15 +476,15 @@
     "editorScore": 9.1,
     "is2D": true,
     "screenshots": [
-      "images/nds/nds-radiant-historia-s1.png",
-      "images/nds/nds-radiant-historia-x1.jpg",
-      "images/nds/nds-radiant-historia-x2.jpg",
-      "images/nds/nds-radiant-historia-m1.jpg",
-      "images/nds/nds-radiant-historia-m2.jpg",
-      "images/nds/nds-radiant-historia-m3.jpg",
-      "images/nds/nds-radiant-historia-title.png"
+      "images/nds/nds-radiant-historia-s1.webp",
+      "images/nds/nds-radiant-historia-x1.webp",
+      "images/nds/nds-radiant-historia-x2.webp",
+      "images/nds/nds-radiant-historia-m1.webp",
+      "images/nds/nds-radiant-historia-m2.webp",
+      "images/nds/nds-radiant-historia-m3.webp",
+      "images/nds/nds-radiant-historia-title.webp"
     ],
-    "cover": "images/nds/nds-radiant-historia-box.jpg",
+    "cover": "images/nds/nds-radiant-historia-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视像素RPG，城镇与原野自由探索"
   },
@@ -531,15 +531,15 @@
     "editorScore": 9.0,
     "is2D": true,
     "screenshots": [
-      "images/nds/nds-castlevania-portrait-of-ruin-s1.png",
-      "images/nds/nds-castlevania-portrait-of-ruin-m1.jpg",
-      "images/nds/nds-castlevania-portrait-of-ruin-m2.png",
-      "images/nds/nds-castlevania-portrait-of-ruin-m3.png",
-      "images/nds/nds-castlevania-portrait-of-ruin-m4.png",
-      "images/nds/nds-castlevania-portrait-of-ruin-m5.png",
-      "images/nds/nds-castlevania-portrait-of-ruin-title.png"
+      "images/nds/nds-castlevania-portrait-of-ruin-s1.webp",
+      "images/nds/nds-castlevania-portrait-of-ruin-m1.webp",
+      "images/nds/nds-castlevania-portrait-of-ruin-m2.webp",
+      "images/nds/nds-castlevania-portrait-of-ruin-m3.webp",
+      "images/nds/nds-castlevania-portrait-of-ruin-m4.webp",
+      "images/nds/nds-castlevania-portrait-of-ruin-m5.webp",
+      "images/nds/nds-castlevania-portrait-of-ruin-title.webp"
     ],
-    "cover": "images/nds/nds-castlevania-portrait-of-ruin-box.jpg",
+    "cover": "images/nds/nds-castlevania-portrait-of-ruin-box.webp",
     "styleMatch": 1,
     "styleNote": "横版银河恶魔城，无城镇"
   },
@@ -576,11 +576,11 @@
     "editorScore": 9.0,
     "is2D": true,
     "screenshots": [
-      "images/nds/nds-osu-tatakae-ouendan-s1.png",
-      "images/nds/nds-osu-tatakae-ouendan-s2.png",
-      "images/nds/nds-osu-tatakae-ouendan-title.png"
+      "images/nds/nds-osu-tatakae-ouendan-s1.webp",
+      "images/nds/nds-osu-tatakae-ouendan-s2.webp",
+      "images/nds/nds-osu-tatakae-ouendan-title.webp"
     ],
-    "cover": "images/nds/nds-osu-tatakae-ouendan-box.jpg",
+    "cover": "images/nds/nds-osu-tatakae-ouendan-box.webp",
     "styleMatch": 0,
     "styleNote": "触屏节奏音乐游戏"
   },
@@ -627,15 +627,15 @@
     "editorScore": 9.0,
     "is2D": true,
     "screenshots": [
-      "images/nds/nds-pokemon-platinum-s1.png",
-      "images/nds/nds-pokemon-platinum-s2.png",
-      "images/nds/nds-pokemon-platinum-m1.jpg",
-      "images/nds/nds-pokemon-platinum-m2.jpg",
-      "images/nds/nds-pokemon-platinum-m3.png",
-      "images/nds/nds-pokemon-platinum-m4.png",
-      "images/nds/nds-pokemon-platinum-title.png"
+      "images/nds/nds-pokemon-platinum-s1.webp",
+      "images/nds/nds-pokemon-platinum-s2.webp",
+      "images/nds/nds-pokemon-platinum-m1.webp",
+      "images/nds/nds-pokemon-platinum-m2.webp",
+      "images/nds/nds-pokemon-platinum-m3.webp",
+      "images/nds/nds-pokemon-platinum-m4.webp",
+      "images/nds/nds-pokemon-platinum-title.webp"
     ],
-    "cover": "images/nds/nds-pokemon-platinum-box.jpg",
+    "cover": "images/nds/nds-pokemon-platinum-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视像素RPG，城镇道馆自由探索"
   },
@@ -682,15 +682,15 @@
     "editorScore": 9.0,
     "is2D": true,
     "screenshots": [
-      "images/nds/nds-pokemon-black-white-s1.png",
-      "images/nds/nds-pokemon-black-white-x1.jpg",
-      "images/nds/nds-pokemon-black-white-x2.jpg",
-      "images/nds/nds-pokemon-black-white-m1.jpg",
-      "images/nds/nds-pokemon-black-white-m2.png",
-      "images/nds/nds-pokemon-black-white-m3.jpg",
-      "images/nds/nds-pokemon-black-white-title.png"
+      "images/nds/nds-pokemon-black-white-s1.webp",
+      "images/nds/nds-pokemon-black-white-x1.webp",
+      "images/nds/nds-pokemon-black-white-x2.webp",
+      "images/nds/nds-pokemon-black-white-m1.webp",
+      "images/nds/nds-pokemon-black-white-m2.webp",
+      "images/nds/nds-pokemon-black-white-m3.webp",
+      "images/nds/nds-pokemon-black-white-title.webp"
     ],
-    "cover": "images/nds/nds-pokemon-black-white-box.jpg",
+    "cover": "images/nds/nds-pokemon-black-white-box.webp",
     "styleMatch": 3,
     "styleNote": "像素角色俯视探索城镇，部分立体镜头"
   },
@@ -737,15 +737,15 @@
     "editorScore": 8.9,
     "is2D": false,
     "screenshots": [
-      "images/nds/nds-final-fantasy-iv-s1.png",
-      "images/nds/nds-final-fantasy-iv-m1.png",
-      "images/nds/nds-final-fantasy-iv-m2.png",
-      "images/nds/nds-final-fantasy-iv-m3.png",
-      "images/nds/nds-final-fantasy-iv-m4.png",
-      "images/nds/nds-final-fantasy-iv-m5.png",
-      "images/nds/nds-final-fantasy-iv-title.png"
+      "images/nds/nds-final-fantasy-iv-s1.webp",
+      "images/nds/nds-final-fantasy-iv-m1.webp",
+      "images/nds/nds-final-fantasy-iv-m2.webp",
+      "images/nds/nds-final-fantasy-iv-m3.webp",
+      "images/nds/nds-final-fantasy-iv-m4.webp",
+      "images/nds/nds-final-fantasy-iv-m5.webp",
+      "images/nds/nds-final-fantasy-iv-title.webp"
     ],
-    "cover": "images/nds/nds-final-fantasy-iv-box.jpg",
+    "cover": "images/nds/nds-final-fantasy-iv-box.webp",
     "styleMatch": 0,
     "styleNote": "全3D重制，非像素画面"
   },
@@ -792,15 +792,15 @@
     "editorScore": 8.9,
     "is2D": true,
     "screenshots": [
-      "images/nds/nds-dragon-quest-iv-s1.png",
-      "images/nds/nds-dragon-quest-iv-s2.png",
-      "images/nds/nds-dragon-quest-iv-m1.png",
-      "images/nds/nds-dragon-quest-iv-y1.jpg",
-      "images/nds/nds-dragon-quest-iv-y2.jpg",
-      "images/nds/nds-dragon-quest-iv-y3.jpg",
-      "images/nds/nds-dragon-quest-iv-title.png"
+      "images/nds/nds-dragon-quest-iv-s1.webp",
+      "images/nds/nds-dragon-quest-iv-s2.webp",
+      "images/nds/nds-dragon-quest-iv-m1.webp",
+      "images/nds/nds-dragon-quest-iv-y1.webp",
+      "images/nds/nds-dragon-quest-iv-y2.webp",
+      "images/nds/nds-dragon-quest-iv-y3.webp",
+      "images/nds/nds-dragon-quest-iv-title.webp"
     ],
-    "cover": "images/nds/nds-dragon-quest-iv-box.jpg",
+    "cover": "images/nds/nds-dragon-quest-iv-box.webp",
     "styleMatch": 3,
     "styleNote": "像素小人走3D城镇，俯视王道RPG"
   },
@@ -847,15 +847,15 @@
     "editorScore": 8.8,
     "is2D": true,
     "screenshots": [
-      "images/nds/nds-dragon-quest-vi-s1.png",
-      "images/nds/nds-dragon-quest-vi-x1.png",
-      "images/nds/nds-dragon-quest-vi-x2.png",
-      "images/nds/nds-dragon-quest-vi-y1.jpg",
-      "images/nds/nds-dragon-quest-vi-y2.jpg",
-      "images/nds/nds-dragon-quest-vi-y3.jpg",
-      "images/nds/nds-dragon-quest-vi-title.png"
+      "images/nds/nds-dragon-quest-vi-s1.webp",
+      "images/nds/nds-dragon-quest-vi-x1.webp",
+      "images/nds/nds-dragon-quest-vi-x2.webp",
+      "images/nds/nds-dragon-quest-vi-y1.webp",
+      "images/nds/nds-dragon-quest-vi-y2.webp",
+      "images/nds/nds-dragon-quest-vi-y3.webp",
+      "images/nds/nds-dragon-quest-vi-title.webp"
     ],
-    "cover": "images/nds/nds-dragon-quest-vi-box.jpg",
+    "cover": "images/nds/nds-dragon-quest-vi-box.webp",
     "styleMatch": 3,
     "styleNote": "像素小人走3D城镇，俯视王道RPG"
   },
@@ -902,12 +902,12 @@
     "editorScore": 8.8,
     "is2D": false,
     "screenshots": [
-      "images/nds/nds-zelda-phantom-hourglass-s1.png",
-      "images/nds/nds-zelda-phantom-hourglass-s2.png",
-      "images/nds/nds-zelda-phantom-hourglass-m1.jpg",
-      "images/nds/nds-zelda-phantom-hourglass-title.png"
+      "images/nds/nds-zelda-phantom-hourglass-s1.webp",
+      "images/nds/nds-zelda-phantom-hourglass-s2.webp",
+      "images/nds/nds-zelda-phantom-hourglass-m1.webp",
+      "images/nds/nds-zelda-phantom-hourglass-title.webp"
     ],
-    "cover": "images/nds/nds-zelda-phantom-hourglass-box.jpg",
+    "cover": "images/nds/nds-zelda-phantom-hourglass-box.webp",
     "styleMatch": 0,
     "styleNote": "3D卡通渲染画面"
   },
@@ -954,13 +954,13 @@
     "editorScore": 8.8,
     "is2D": true,
     "screenshots": [
-      "images/nds/nds-kirby-super-star-ultra-s1.png",
-      "images/nds/nds-kirby-super-star-ultra-m1.png",
-      "images/nds/nds-kirby-super-star-ultra-m2.png",
-      "images/nds/nds-kirby-super-star-ultra-m3.jpg",
-      "images/nds/nds-kirby-super-star-ultra-title.png"
+      "images/nds/nds-kirby-super-star-ultra-s1.webp",
+      "images/nds/nds-kirby-super-star-ultra-m1.webp",
+      "images/nds/nds-kirby-super-star-ultra-m2.webp",
+      "images/nds/nds-kirby-super-star-ultra-m3.webp",
+      "images/nds/nds-kirby-super-star-ultra-title.webp"
     ],
-    "cover": "images/nds/nds-kirby-super-star-ultra-box.jpg",
+    "cover": "images/nds/nds-kirby-super-star-ultra-box.webp",
     "styleMatch": 1,
     "styleNote": "像素横版平台动作"
   },
@@ -1007,15 +1007,15 @@
     "editorScore": 8.8,
     "is2D": true,
     "screenshots": [
-      "images/nds/nds-mario-luigi-partners-in-time-s1.png",
-      "images/nds/nds-mario-luigi-partners-in-time-x1.jpg",
-      "images/nds/nds-mario-luigi-partners-in-time-x2.jpg",
-      "images/nds/nds-mario-luigi-partners-in-time-m1.jpg",
-      "images/nds/nds-mario-luigi-partners-in-time-m2.jpg",
-      "images/nds/nds-mario-luigi-partners-in-time-m3.jpg",
-      "images/nds/nds-mario-luigi-partners-in-time-title.png"
+      "images/nds/nds-mario-luigi-partners-in-time-s1.webp",
+      "images/nds/nds-mario-luigi-partners-in-time-x1.webp",
+      "images/nds/nds-mario-luigi-partners-in-time-x2.webp",
+      "images/nds/nds-mario-luigi-partners-in-time-m1.webp",
+      "images/nds/nds-mario-luigi-partners-in-time-m2.webp",
+      "images/nds/nds-mario-luigi-partners-in-time-m3.webp",
+      "images/nds/nds-mario-luigi-partners-in-time-title.webp"
     ],
-    "cover": "images/nds/nds-mario-luigi-partners-in-time-box.jpg",
+    "cover": "images/nds/nds-mario-luigi-partners-in-time-box.webp",
     "styleMatch": 3,
     "styleNote": "斜45度像素RPG，城镇城堡自由探索"
   },
@@ -1062,15 +1062,15 @@
     "editorScore": 8.7,
     "is2D": false,
     "screenshots": [
-      "images/nds/nds-new-super-mario-bros-s1.png",
-      "images/nds/nds-new-super-mario-bros-s2.png",
-      "images/nds/nds-new-super-mario-bros-m1.jpg",
-      "images/nds/nds-new-super-mario-bros-m2.jpg",
-      "images/nds/nds-new-super-mario-bros-m3.jpg",
-      "images/nds/nds-new-super-mario-bros-m4.jpg",
-      "images/nds/nds-new-super-mario-bros-title.png"
+      "images/nds/nds-new-super-mario-bros-s1.webp",
+      "images/nds/nds-new-super-mario-bros-s2.webp",
+      "images/nds/nds-new-super-mario-bros-m1.webp",
+      "images/nds/nds-new-super-mario-bros-m2.webp",
+      "images/nds/nds-new-super-mario-bros-m3.webp",
+      "images/nds/nds-new-super-mario-bros-m4.webp",
+      "images/nds/nds-new-super-mario-bros-title.webp"
     ],
-    "cover": "images/nds/nds-new-super-mario-bros-box.jpg",
+    "cover": "images/nds/nds-new-super-mario-bros-box.webp",
     "styleMatch": 0,
     "styleNote": "3D建模的横版平台游戏"
   },
@@ -1117,12 +1117,12 @@
     "editorScore": 8.7,
     "is2D": true,
     "screenshots": [
-      "images/nds/nds-phoenix-wright-ace-attorney-s1.png",
-      "images/nds/nds-phoenix-wright-ace-attorney-m1.png",
-      "images/nds/nds-phoenix-wright-ace-attorney-m2.jpg",
-      "images/nds/nds-phoenix-wright-ace-attorney-title.png"
+      "images/nds/nds-phoenix-wright-ace-attorney-s1.webp",
+      "images/nds/nds-phoenix-wright-ace-attorney-m1.webp",
+      "images/nds/nds-phoenix-wright-ace-attorney-m2.webp",
+      "images/nds/nds-phoenix-wright-ace-attorney-title.webp"
     ],
-    "cover": "images/nds/nds-phoenix-wright-ace-attorney-box.jpg",
+    "cover": "images/nds/nds-phoenix-wright-ace-attorney-box.webp",
     "styleMatch": 1,
     "styleNote": "像素文字推理冒险，无探索"
   },
@@ -1169,15 +1169,15 @@
     "editorScore": 8.6,
     "is2D": true,
     "screenshots": [
-      "images/nds/nds-professor-layton-curious-village-s1.png",
-      "images/nds/nds-professor-layton-curious-village-m1.png",
-      "images/nds/nds-professor-layton-curious-village-m2.jpg",
-      "images/nds/nds-professor-layton-curious-village-m3.jpg",
-      "images/nds/nds-professor-layton-curious-village-m4.jpg",
-      "images/nds/nds-professor-layton-curious-village-m5.jpg",
-      "images/nds/nds-professor-layton-curious-village-title.png"
+      "images/nds/nds-professor-layton-curious-village-s1.webp",
+      "images/nds/nds-professor-layton-curious-village-m1.webp",
+      "images/nds/nds-professor-layton-curious-village-m2.webp",
+      "images/nds/nds-professor-layton-curious-village-m3.webp",
+      "images/nds/nds-professor-layton-curious-village-m4.webp",
+      "images/nds/nds-professor-layton-curious-village-m5.webp",
+      "images/nds/nds-professor-layton-curious-village-title.webp"
     ],
-    "cover": "images/nds/nds-professor-layton-curious-village-box.jpg",
+    "cover": "images/nds/nds-professor-layton-curious-village-box.webp",
     "styleMatch": 1,
     "styleNote": "手绘点击式解谜冒险"
   },
@@ -1224,15 +1224,15 @@
     "editorScore": 8.6,
     "is2D": true,
     "screenshots": [
-      "images/nds/nds-devil-survivor-s1.png",
-      "images/nds/nds-devil-survivor-x1.jpg",
-      "images/nds/nds-devil-survivor-x2.jpg",
-      "images/nds/nds-devil-survivor-m1.jpg",
-      "images/nds/nds-devil-survivor-m2.jpg",
-      "images/nds/nds-devil-survivor-m3.jpg",
-      "images/nds/nds-devil-survivor-title.png"
+      "images/nds/nds-devil-survivor-s1.webp",
+      "images/nds/nds-devil-survivor-x1.webp",
+      "images/nds/nds-devil-survivor-x2.webp",
+      "images/nds/nds-devil-survivor-m1.webp",
+      "images/nds/nds-devil-survivor-m2.webp",
+      "images/nds/nds-devil-survivor-m3.webp",
+      "images/nds/nds-devil-survivor-title.webp"
     ],
-    "cover": "images/nds/nds-devil-survivor-box.jpg",
+    "cover": "images/nds/nds-devil-survivor-box.webp",
     "styleMatch": 2,
     "styleNote": "像素战棋RPG，城镇以菜单呈现"
   },
@@ -1274,15 +1274,15 @@
     "editorScore": 8.6,
     "is2D": true,
     "screenshots": [
-      "images/nds/nds-fire-emblem-shin-monshou-no-nazo-s1.png",
-      "images/nds/nds-fire-emblem-shin-monshou-no-nazo-m1.jpg",
-      "images/nds/nds-fire-emblem-shin-monshou-no-nazo-y1.jpg",
-      "images/nds/nds-fire-emblem-shin-monshou-no-nazo-y2.jpg",
-      "images/nds/nds-fire-emblem-shin-monshou-no-nazo-y3.jpg",
-      "images/nds/nds-fire-emblem-shin-monshou-no-nazo-y4.jpg",
-      "images/nds/nds-fire-emblem-shin-monshou-no-nazo-title.png"
+      "images/nds/nds-fire-emblem-shin-monshou-no-nazo-s1.webp",
+      "images/nds/nds-fire-emblem-shin-monshou-no-nazo-m1.webp",
+      "images/nds/nds-fire-emblem-shin-monshou-no-nazo-y1.webp",
+      "images/nds/nds-fire-emblem-shin-monshou-no-nazo-y2.webp",
+      "images/nds/nds-fire-emblem-shin-monshou-no-nazo-y3.webp",
+      "images/nds/nds-fire-emblem-shin-monshou-no-nazo-y4.webp",
+      "images/nds/nds-fire-emblem-shin-monshou-no-nazo-title.webp"
     ],
-    "cover": "images/nds/nds-fire-emblem-shin-monshou-no-nazo-box.jpg",
+    "cover": "images/nds/nds-fire-emblem-shin-monshou-no-nazo-box.webp",
     "styleMatch": 2,
     "styleNote": "像素战棋RPG，无自由行走城镇"
   },
@@ -1319,15 +1319,15 @@
     "editorScore": 8.6,
     "is2D": true,
     "screenshots": [
-      "images/nds/nds-dragon-quest-heroes-rocket-slime-s1.png",
-      "images/nds/nds-dragon-quest-heroes-rocket-slime-s2.png",
-      "images/nds/nds-dragon-quest-heroes-rocket-slime-m1.png",
-      "images/nds/nds-dragon-quest-heroes-rocket-slime-m2.png",
-      "images/nds/nds-dragon-quest-heroes-rocket-slime-m3.png",
-      "images/nds/nds-dragon-quest-heroes-rocket-slime-m4.png",
-      "images/nds/nds-dragon-quest-heroes-rocket-slime-title.png"
+      "images/nds/nds-dragon-quest-heroes-rocket-slime-s1.webp",
+      "images/nds/nds-dragon-quest-heroes-rocket-slime-s2.webp",
+      "images/nds/nds-dragon-quest-heroes-rocket-slime-m1.webp",
+      "images/nds/nds-dragon-quest-heroes-rocket-slime-m2.webp",
+      "images/nds/nds-dragon-quest-heroes-rocket-slime-m3.webp",
+      "images/nds/nds-dragon-quest-heroes-rocket-slime-m4.webp",
+      "images/nds/nds-dragon-quest-heroes-rocket-slime-title.webp"
     ],
-    "cover": "images/nds/nds-dragon-quest-heroes-rocket-slime-box.jpg",
+    "cover": "images/nds/nds-dragon-quest-heroes-rocket-slime-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视像素ARPG，史莱姆村庄自由探索"
   },
@@ -1374,15 +1374,15 @@
     "editorScore": 8.5,
     "is2D": true,
     "screenshots": [
-      "images/nds/nds-kirby-canvas-curse-s1.png",
-      "images/nds/nds-kirby-canvas-curse-m1.jpg",
-      "images/nds/nds-kirby-canvas-curse-m2.jpg",
-      "images/nds/nds-kirby-canvas-curse-m3.jpg",
-      "images/nds/nds-kirby-canvas-curse-m4.jpg",
-      "images/nds/nds-kirby-canvas-curse-m5.jpg",
-      "images/nds/nds-kirby-canvas-curse-title.png"
+      "images/nds/nds-kirby-canvas-curse-s1.webp",
+      "images/nds/nds-kirby-canvas-curse-m1.webp",
+      "images/nds/nds-kirby-canvas-curse-m2.webp",
+      "images/nds/nds-kirby-canvas-curse-m3.webp",
+      "images/nds/nds-kirby-canvas-curse-m4.webp",
+      "images/nds/nds-kirby-canvas-curse-m5.webp",
+      "images/nds/nds-kirby-canvas-curse-title.webp"
     ],
-    "cover": "images/nds/nds-kirby-canvas-curse-box.jpg",
+    "cover": "images/nds/nds-kirby-canvas-curse-box.webp",
     "styleMatch": 1,
     "styleNote": "触屏画线平台动作"
   },
@@ -1429,12 +1429,12 @@
     "editorScore": 8.5,
     "is2D": true,
     "screenshots": [
-      "images/nds/nds-contra-4-s1.png",
-      "images/nds/nds-contra-4-m1.png",
-      "images/nds/nds-contra-4-m2.jpg",
-      "images/nds/nds-contra-4-title.png"
+      "images/nds/nds-contra-4-s1.webp",
+      "images/nds/nds-contra-4-m1.webp",
+      "images/nds/nds-contra-4-m2.webp",
+      "images/nds/nds-contra-4-title.webp"
     ],
-    "cover": "images/nds/nds-contra-4-box.jpg",
+    "cover": "images/nds/nds-contra-4-box.webp",
     "styleMatch": 0,
     "styleNote": "横版射击游戏"
   },
@@ -1481,15 +1481,15 @@
     "editorScore": 8.5,
     "is2D": true,
     "screenshots": [
-      "images/nds/nds-pokemon-mystery-dungeon-explorers-of-sky-s1.png",
-      "images/nds/nds-pokemon-mystery-dungeon-explorers-of-sky-x1.png",
-      "images/nds/nds-pokemon-mystery-dungeon-explorers-of-sky-x2.jpg",
-      "images/nds/nds-pokemon-mystery-dungeon-explorers-of-sky-m1.jpg",
-      "images/nds/nds-pokemon-mystery-dungeon-explorers-of-sky-m2.jpg",
-      "images/nds/nds-pokemon-mystery-dungeon-explorers-of-sky-m3.jpg",
-      "images/nds/nds-pokemon-mystery-dungeon-explorers-of-sky-title.png"
+      "images/nds/nds-pokemon-mystery-dungeon-explorers-of-sky-s1.webp",
+      "images/nds/nds-pokemon-mystery-dungeon-explorers-of-sky-x1.webp",
+      "images/nds/nds-pokemon-mystery-dungeon-explorers-of-sky-x2.webp",
+      "images/nds/nds-pokemon-mystery-dungeon-explorers-of-sky-m1.webp",
+      "images/nds/nds-pokemon-mystery-dungeon-explorers-of-sky-m2.webp",
+      "images/nds/nds-pokemon-mystery-dungeon-explorers-of-sky-m3.webp",
+      "images/nds/nds-pokemon-mystery-dungeon-explorers-of-sky-title.webp"
     ],
-    "cover": "images/nds/nds-pokemon-mystery-dungeon-explorers-of-sky-box.jpg",
+    "cover": "images/nds/nds-pokemon-mystery-dungeon-explorers-of-sky-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视像素画面，宝藏镇与迷宫探索"
   },
@@ -1536,15 +1536,15 @@
     "editorScore": 8.4,
     "is2D": true,
     "screenshots": [
-      "images/nds/nds-mega-man-zx-s1.png",
-      "images/nds/nds-mega-man-zx-m1.jpg",
-      "images/nds/nds-mega-man-zx-m2.jpg",
-      "images/nds/nds-mega-man-zx-m3.jpg",
-      "images/nds/nds-mega-man-zx-m4.jpg",
-      "images/nds/nds-mega-man-zx-m5.jpg",
-      "images/nds/nds-mega-man-zx-title.png"
+      "images/nds/nds-mega-man-zx-s1.webp",
+      "images/nds/nds-mega-man-zx-m1.webp",
+      "images/nds/nds-mega-man-zx-m2.webp",
+      "images/nds/nds-mega-man-zx-m3.webp",
+      "images/nds/nds-mega-man-zx-m4.webp",
+      "images/nds/nds-mega-man-zx-m5.webp",
+      "images/nds/nds-mega-man-zx-title.webp"
     ],
-    "cover": "images/nds/nds-mega-man-zx-box.jpg",
+    "cover": "images/nds/nds-mega-man-zx-box.webp",
     "styleMatch": 1,
     "styleNote": "像素横版动作，含少量据点"
   },
@@ -1591,11 +1591,11 @@
     "editorScore": 8.4,
     "is2D": false,
     "screenshots": [
-      "images/nds/nds-smt-strange-journey-s1.png",
-      "images/nds/nds-smt-strange-journey-x1.png",
-      "images/nds/nds-smt-strange-journey-x2.jpg"
+      "images/nds/nds-smt-strange-journey-s1.webp",
+      "images/nds/nds-smt-strange-journey-x1.webp",
+      "images/nds/nds-smt-strange-journey-x2.webp"
     ],
-    "cover": "images/nds/nds-smt-strange-journey-box.jpg",
+    "cover": "images/nds/nds-smt-strange-journey-box.webp",
     "styleMatch": 0,
     "styleNote": "第一人称3D迷宫"
   },
@@ -1642,15 +1642,15 @@
     "editorScore": 8.3,
     "is2D": true,
     "screenshots": [
-      "images/nds/nds-mega-man-zx-advent-s1.png",
-      "images/nds/nds-mega-man-zx-advent-m1.jpg",
-      "images/nds/nds-mega-man-zx-advent-m2.png",
-      "images/nds/nds-mega-man-zx-advent-m3.png",
-      "images/nds/nds-mega-man-zx-advent-m4.png",
-      "images/nds/nds-mega-man-zx-advent-m5.png",
-      "images/nds/nds-mega-man-zx-advent-title.png"
+      "images/nds/nds-mega-man-zx-advent-s1.webp",
+      "images/nds/nds-mega-man-zx-advent-m1.webp",
+      "images/nds/nds-mega-man-zx-advent-m2.webp",
+      "images/nds/nds-mega-man-zx-advent-m3.webp",
+      "images/nds/nds-mega-man-zx-advent-m4.webp",
+      "images/nds/nds-mega-man-zx-advent-m5.webp",
+      "images/nds/nds-mega-man-zx-advent-title.webp"
     ],
-    "cover": "images/nds/nds-mega-man-zx-advent-box.jpg",
+    "cover": "images/nds/nds-mega-man-zx-advent-box.webp",
     "styleMatch": 1,
     "styleNote": "像素横版动作，含少量据点"
   },
@@ -1697,14 +1697,14 @@
     "editorScore": 8.3,
     "is2D": true,
     "screenshots": [
-      "images/nds/nds-disgaea-ds-s1.png",
-      "images/nds/nds-disgaea-ds-x1.png",
-      "images/nds/nds-disgaea-ds-y1.jpg",
-      "images/nds/nds-disgaea-ds-y2.jpg",
-      "images/nds/nds-disgaea-ds-y3.jpg",
-      "images/nds/nds-disgaea-ds-title.png"
+      "images/nds/nds-disgaea-ds-s1.webp",
+      "images/nds/nds-disgaea-ds-x1.webp",
+      "images/nds/nds-disgaea-ds-y1.webp",
+      "images/nds/nds-disgaea-ds-y2.webp",
+      "images/nds/nds-disgaea-ds-y3.webp",
+      "images/nds/nds-disgaea-ds-title.webp"
     ],
-    "cover": "images/nds/nds-disgaea-ds-box.jpg",
+    "cover": "images/nds/nds-disgaea-ds-box.webp",
     "styleMatch": 2,
     "styleNote": "像素战棋，可在魔王城据点走动"
   },
@@ -1751,13 +1751,13 @@
     "editorScore": 8.3,
     "is2D": true,
     "screenshots": [
-      "images/nds/nds-rune-factory-3-s1.png",
-      "images/nds/nds-rune-factory-3-s2.png",
-      "images/nds/nds-rune-factory-3-m1.jpg",
-      "images/nds/nds-rune-factory-3-m2.jpg",
-      "images/nds/nds-rune-factory-3-m3.jpg"
+      "images/nds/nds-rune-factory-3-s1.webp",
+      "images/nds/nds-rune-factory-3-s2.webp",
+      "images/nds/nds-rune-factory-3-m1.webp",
+      "images/nds/nds-rune-factory-3-m2.webp",
+      "images/nds/nds-rune-factory-3-m3.webp"
     ],
-    "cover": "images/nds/nds-rune-factory-3-box.jpg",
+    "cover": "images/nds/nds-rune-factory-3-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视像素种田ARPG，村庄自由生活"
   },
@@ -1804,16 +1804,16 @@
     "editorScore": 8.3,
     "is2D": true,
     "screenshots": [
-      "images/nds/nds-lunar-knights-s1.png",
-      "images/nds/nds-lunar-knights-x1.png",
-      "images/nds/nds-lunar-knights-x2.jpg",
-      "images/nds/nds-lunar-knights-y1.png",
-      "images/nds/nds-lunar-knights-y2.png",
-      "images/nds/nds-lunar-knights-y3.jpg",
-      "images/nds/nds-lunar-knights-y4.jpg",
-      "images/nds/nds-lunar-knights-title.png"
+      "images/nds/nds-lunar-knights-s1.webp",
+      "images/nds/nds-lunar-knights-x1.webp",
+      "images/nds/nds-lunar-knights-x2.webp",
+      "images/nds/nds-lunar-knights-y1.webp",
+      "images/nds/nds-lunar-knights-y2.webp",
+      "images/nds/nds-lunar-knights-y3.webp",
+      "images/nds/nds-lunar-knights-y4.webp",
+      "images/nds/nds-lunar-knights-title.webp"
     ],
-    "cover": "images/nds/nds-lunar-knights-box.jpg",
+    "cover": "images/nds/nds-lunar-knights-box.webp",
     "styleMatch": 3,
     "styleNote": "斜俯视像素ARPG，有城镇与商店"
   },
@@ -1860,13 +1860,13 @@
     "editorScore": 8.2,
     "is2D": false,
     "screenshots": [
-      "images/nds/nds-final-fantasy-iii-s1.png",
-      "images/nds/nds-final-fantasy-iii-m1.jpg",
-      "images/nds/nds-final-fantasy-iii-m2.jpg",
-      "images/nds/nds-final-fantasy-iii-m3.jpg",
-      "images/nds/nds-final-fantasy-iii-title.png"
+      "images/nds/nds-final-fantasy-iii-s1.webp",
+      "images/nds/nds-final-fantasy-iii-m1.webp",
+      "images/nds/nds-final-fantasy-iii-m2.webp",
+      "images/nds/nds-final-fantasy-iii-m3.webp",
+      "images/nds/nds-final-fantasy-iii-title.webp"
     ],
-    "cover": "images/nds/nds-final-fantasy-iii-box.jpg",
+    "cover": "images/nds/nds-final-fantasy-iii-box.webp",
     "styleMatch": 0,
     "styleNote": "全3D重制，非像素画面"
   },
@@ -1913,15 +1913,15 @@
     "editorScore": 8.2,
     "is2D": false,
     "screenshots": [
-      "images/nds/nds-etrian-odyssey-s1.png",
-      "images/nds/nds-etrian-odyssey-m1.png",
-      "images/nds/nds-etrian-odyssey-m2.jpg",
-      "images/nds/nds-etrian-odyssey-m3.jpg",
-      "images/nds/nds-etrian-odyssey-m4.jpg",
-      "images/nds/nds-etrian-odyssey-m5.jpg",
-      "images/nds/nds-etrian-odyssey-title.png"
+      "images/nds/nds-etrian-odyssey-s1.webp",
+      "images/nds/nds-etrian-odyssey-m1.webp",
+      "images/nds/nds-etrian-odyssey-m2.webp",
+      "images/nds/nds-etrian-odyssey-m3.webp",
+      "images/nds/nds-etrian-odyssey-m4.webp",
+      "images/nds/nds-etrian-odyssey-m5.webp",
+      "images/nds/nds-etrian-odyssey-title.webp"
     ],
-    "cover": "images/nds/nds-etrian-odyssey-box.jpg",
+    "cover": "images/nds/nds-etrian-odyssey-box.webp",
     "styleMatch": 0,
     "styleNote": "第一人称3D迷宫"
   },
@@ -1968,16 +1968,16 @@
     "editorScore": 8.2,
     "is2D": true,
     "screenshots": [
-      "images/nds/nds-rune-factory-s1.png",
-      "images/nds/nds-rune-factory-s2.png",
-      "images/nds/nds-rune-factory-m1.jpg",
-      "images/nds/nds-rune-factory-y1.png",
-      "images/nds/nds-rune-factory-y2.png",
-      "images/nds/nds-rune-factory-y3.png",
-      "images/nds/nds-rune-factory-y4.png",
-      "images/nds/nds-rune-factory-title.png"
+      "images/nds/nds-rune-factory-s1.webp",
+      "images/nds/nds-rune-factory-s2.webp",
+      "images/nds/nds-rune-factory-m1.webp",
+      "images/nds/nds-rune-factory-y1.webp",
+      "images/nds/nds-rune-factory-y2.webp",
+      "images/nds/nds-rune-factory-y3.webp",
+      "images/nds/nds-rune-factory-y4.webp",
+      "images/nds/nds-rune-factory-title.webp"
     ],
-    "cover": "images/nds/nds-rune-factory-box.jpg",
+    "cover": "images/nds/nds-rune-factory-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视像素种田ARPG，小镇自由探索"
   },
@@ -2024,15 +2024,15 @@
     "editorScore": 8.2,
     "is2D": true,
     "screenshots": [
-      "images/nds/nds-shiren-the-wanderer-s1.png",
-      "images/nds/nds-shiren-the-wanderer-x1.png",
-      "images/nds/nds-shiren-the-wanderer-y1.jpg",
-      "images/nds/nds-shiren-the-wanderer-y2.jpg",
+      "images/nds/nds-shiren-the-wanderer-s1.webp",
+      "images/nds/nds-shiren-the-wanderer-x1.webp",
+      "images/nds/nds-shiren-the-wanderer-y1.webp",
+      "images/nds/nds-shiren-the-wanderer-y2.webp",
       "images/nds/nds-shiren-the-wanderer-y3.jpg",
-      "images/nds/nds-shiren-the-wanderer-y4.jpg",
-      "images/nds/nds-shiren-the-wanderer-title.png"
+      "images/nds/nds-shiren-the-wanderer-y4.webp",
+      "images/nds/nds-shiren-the-wanderer-title.webp"
     ],
-    "cover": "images/nds/nds-shiren-the-wanderer-box.jpg",
+    "cover": "images/nds/nds-shiren-the-wanderer-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视像素画面，和风城镇与迷宫"
   },
@@ -2079,11 +2079,11 @@
     "editorScore": 8.1,
     "is2D": false,
     "screenshots": [
-      "images/nds/nds-hotel-dusk-s1.png",
-      "images/nds/nds-hotel-dusk-s2.png",
-      "images/nds/nds-hotel-dusk-title.png"
+      "images/nds/nds-hotel-dusk-s1.webp",
+      "images/nds/nds-hotel-dusk-s2.webp",
+      "images/nds/nds-hotel-dusk-title.webp"
     ],
-    "cover": "images/nds/nds-hotel-dusk-box.jpg",
+    "cover": "images/nds/nds-hotel-dusk-box.webp",
     "styleMatch": 0,
     "styleNote": "3D场景的推理文字冒险"
   },
@@ -2130,15 +2130,15 @@
     "editorScore": 8.0,
     "is2D": false,
     "screenshots": [
-      "images/nds/nds-golden-sun-dark-dawn-s1.png",
-      "images/nds/nds-golden-sun-dark-dawn-s2.png",
-      "images/nds/nds-golden-sun-dark-dawn-m1.png",
-      "images/nds/nds-golden-sun-dark-dawn-m2.jpg",
-      "images/nds/nds-golden-sun-dark-dawn-m3.jpg",
-      "images/nds/nds-golden-sun-dark-dawn-m4.jpg",
-      "images/nds/nds-golden-sun-dark-dawn-title.png"
+      "images/nds/nds-golden-sun-dark-dawn-s1.webp",
+      "images/nds/nds-golden-sun-dark-dawn-s2.webp",
+      "images/nds/nds-golden-sun-dark-dawn-m1.webp",
+      "images/nds/nds-golden-sun-dark-dawn-m2.webp",
+      "images/nds/nds-golden-sun-dark-dawn-m3.webp",
+      "images/nds/nds-golden-sun-dark-dawn-m4.webp",
+      "images/nds/nds-golden-sun-dark-dawn-title.webp"
     ],
-    "cover": "images/nds/nds-golden-sun-dark-dawn-box.jpg",
+    "cover": "images/nds/nds-golden-sun-dark-dawn-box.webp",
     "styleMatch": 0,
     "styleNote": "3D建模画面，虽为俯视RPG"
   },
@@ -2185,11 +2185,11 @@
     "editorScore": 8.0,
     "is2D": false,
     "screenshots": [
-      "images/nds/nds-infinite-space-s1.png",
-      "images/nds/nds-infinite-space-x1.png",
-      "images/nds/nds-infinite-space-x2.jpg"
+      "images/nds/nds-infinite-space-s1.webp",
+      "images/nds/nds-infinite-space-x1.webp",
+      "images/nds/nds-infinite-space-x2.webp"
     ],
-    "cover": "images/nds/nds-infinite-space-box.jpg",
+    "cover": "images/nds/nds-infinite-space-box.webp",
     "styleMatch": 0,
     "styleNote": "3D太空舰队战"
   },
@@ -2236,10 +2236,10 @@
     "editorScore": 7.9,
     "is2D": false,
     "screenshots": [
-      "images/nds/nds-four-heroes-of-light-s1.png",
-      "images/nds/nds-four-heroes-of-light-title.png"
+      "images/nds/nds-four-heroes-of-light-s1.webp",
+      "images/nds/nds-four-heroes-of-light-title.webp"
     ],
-    "cover": "images/nds/nds-four-heroes-of-light-box.jpg",
+    "cover": "images/nds/nds-four-heroes-of-light-box.webp",
     "styleMatch": 0,
     "styleNote": "3D绘本风画面"
   },
@@ -2286,13 +2286,13 @@
     "editorScore": 7.8,
     "is2D": true,
     "screenshots": [
-      "images/nds/nds-summon-night-twin-age-s1.png",
-      "images/nds/nds-summon-night-twin-age-x1.jpg",
-      "images/nds/nds-summon-night-twin-age-x2.jpg",
-      "images/nds/nds-summon-night-twin-age-x3.jpg",
-      "images/nds/nds-summon-night-twin-age-m1.jpg"
+      "images/nds/nds-summon-night-twin-age-s1.webp",
+      "images/nds/nds-summon-night-twin-age-x1.webp",
+      "images/nds/nds-summon-night-twin-age-x2.webp",
+      "images/nds/nds-summon-night-twin-age-x3.webp",
+      "images/nds/nds-summon-night-twin-age-m1.webp"
     ],
-    "cover": "images/nds/nds-summon-night-twin-age-box.jpg",
+    "cover": "images/nds/nds-summon-night-twin-age-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视像素ARPG，岛上村庄自由探索"
   },
@@ -2334,12 +2334,12 @@
     "editorScore": 7.7,
     "is2D": true,
     "screenshots": [
-      "images/nds/nds-glory-of-heracles-s1.png",
-      "images/nds/nds-glory-of-heracles-x1.jpg",
-      "images/nds/nds-glory-of-heracles-x2.jpg",
-      "images/nds/nds-glory-of-heracles-x3.jpg"
+      "images/nds/nds-glory-of-heracles-s1.webp",
+      "images/nds/nds-glory-of-heracles-x1.webp",
+      "images/nds/nds-glory-of-heracles-x2.webp",
+      "images/nds/nds-glory-of-heracles-x3.webp"
     ],
-    "cover": "images/nds/nds-glory-of-heracles-box.jpg",
+    "cover": "images/nds/nds-glory-of-heracles-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视像素RPG，希腊风城镇探索"
   },
@@ -2386,14 +2386,14 @@
     "editorScore": 7.6,
     "is2D": true,
     "screenshots": [
-      "images/nds/nds-children-of-mana-s1.png",
-      "images/nds/nds-children-of-mana-x1.jpg",
-      "images/nds/nds-children-of-mana-y1.jpg",
-      "images/nds/nds-children-of-mana-y2.jpg",
-      "images/nds/nds-children-of-mana-y3.jpg",
-      "images/nds/nds-children-of-mana-title.png"
+      "images/nds/nds-children-of-mana-s1.webp",
+      "images/nds/nds-children-of-mana-x1.webp",
+      "images/nds/nds-children-of-mana-y1.webp",
+      "images/nds/nds-children-of-mana-y2.webp",
+      "images/nds/nds-children-of-mana-y3.webp",
+      "images/nds/nds-children-of-mana-title.webp"
     ],
-    "cover": "images/nds/nds-children-of-mana-box.jpg",
+    "cover": "images/nds/nds-children-of-mana-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视像素ARPG，伊尔西亚村庄据点"
   },
@@ -2440,15 +2440,15 @@
     "editorScore": 7.5,
     "is2D": false,
     "screenshots": [
-      "images/nds/nds-sands-of-destruction-s1.png",
-      "images/nds/nds-sands-of-destruction-s2.png",
-      "images/nds/nds-sands-of-destruction-y1.jpg",
-      "images/nds/nds-sands-of-destruction-y2.jpg",
-      "images/nds/nds-sands-of-destruction-y3.jpg",
-      "images/nds/nds-sands-of-destruction-y4.jpg",
-      "images/nds/nds-sands-of-destruction-title.png"
+      "images/nds/nds-sands-of-destruction-s1.webp",
+      "images/nds/nds-sands-of-destruction-s2.webp",
+      "images/nds/nds-sands-of-destruction-y1.webp",
+      "images/nds/nds-sands-of-destruction-y2.webp",
+      "images/nds/nds-sands-of-destruction-y3.webp",
+      "images/nds/nds-sands-of-destruction-y4.webp",
+      "images/nds/nds-sands-of-destruction-title.webp"
     ],
-    "cover": "images/nds/nds-sands-of-destruction-box.jpg",
+    "cover": "images/nds/nds-sands-of-destruction-box.webp",
     "styleMatch": 2,
     "styleNote": "像素角色配3D场景，城镇可探索"
   }

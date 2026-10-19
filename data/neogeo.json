@@ -43,15 +43,15 @@
     "editorScore": 9.4,
     "is2D": true,
     "screenshots": [
-      "images/neogeo/neogeo-metal-slug-s1.png",
-      "images/neogeo/neogeo-metal-slug-x1.png",
-      "images/neogeo/neogeo-metal-slug-m1.png",
-      "images/neogeo/neogeo-metal-slug-m2.png",
-      "images/neogeo/neogeo-metal-slug-m3.png",
-      "images/neogeo/neogeo-metal-slug-m4.jpg",
-      "images/neogeo/neogeo-metal-slug-title.png"
+      "images/neogeo/neogeo-metal-slug-s1.webp",
+      "images/neogeo/neogeo-metal-slug-x1.webp",
+      "images/neogeo/neogeo-metal-slug-m1.webp",
+      "images/neogeo/neogeo-metal-slug-m2.webp",
+      "images/neogeo/neogeo-metal-slug-m3.webp",
+      "images/neogeo/neogeo-metal-slug-m4.webp",
+      "images/neogeo/neogeo-metal-slug-title.webp"
     ],
-    "cover": "images/neogeo/neogeo-metal-slug-box.jpg",
+    "cover": "images/neogeo/neogeo-metal-slug-box.webp",
     "styleMatch": 0,
     "styleNote": "横版跑射射击，非俯视角RPG"
   },
@@ -99,13 +99,13 @@
     "editorScore": 9.3,
     "is2D": true,
     "screenshots": [
-      "images/neogeo/neogeo-metal-slug-x-s1.png",
-      "images/neogeo/neogeo-metal-slug-x-s2.png",
-      "images/neogeo/neogeo-metal-slug-x-m1.png",
-      "images/neogeo/neogeo-metal-slug-x-m2.jpg",
-      "images/neogeo/neogeo-metal-slug-x-title.png"
+      "images/neogeo/neogeo-metal-slug-x-s1.webp",
+      "images/neogeo/neogeo-metal-slug-x-s2.webp",
+      "images/neogeo/neogeo-metal-slug-x-m1.webp",
+      "images/neogeo/neogeo-metal-slug-x-m2.webp",
+      "images/neogeo/neogeo-metal-slug-x-title.webp"
     ],
-    "cover": "images/neogeo/neogeo-metal-slug-x-box.jpg",
+    "cover": "images/neogeo/neogeo-metal-slug-x-box.webp",
     "styleMatch": 0,
     "styleNote": "横版跑射射击，无城镇探索"
   },
@@ -153,14 +153,14 @@
     "editorScore": 9.3,
     "is2D": true,
     "screenshots": [
-      "images/neogeo/neogeo-metal-slug-3-s1.png",
-      "images/neogeo/neogeo-metal-slug-3-s2.png",
-      "images/neogeo/neogeo-metal-slug-3-s3.png",
-      "images/neogeo/neogeo-metal-slug-3-m1.png",
-      "images/neogeo/neogeo-metal-slug-3-m2.jpg",
-      "images/neogeo/neogeo-metal-slug-3-title.png"
+      "images/neogeo/neogeo-metal-slug-3-s1.webp",
+      "images/neogeo/neogeo-metal-slug-3-s2.webp",
+      "images/neogeo/neogeo-metal-slug-3-s3.webp",
+      "images/neogeo/neogeo-metal-slug-3-m1.webp",
+      "images/neogeo/neogeo-metal-slug-3-m2.webp",
+      "images/neogeo/neogeo-metal-slug-3-title.webp"
     ],
-    "cover": "images/neogeo/neogeo-metal-slug-3-box.jpg",
+    "cover": "images/neogeo/neogeo-metal-slug-3-box.webp",
     "styleMatch": 0,
     "styleNote": "横版跑射射击，无城镇探索"
   },
@@ -208,13 +208,13 @@
     "editorScore": 9.3,
     "is2D": true,
     "screenshots": [
-      "images/neogeo/neogeo-kof-98-s1.png",
-      "images/neogeo/neogeo-kof-98-s2.png",
-      "images/neogeo/neogeo-kof-98-s3.png",
-      "images/neogeo/neogeo-kof-98-m1.jpg",
-      "images/neogeo/neogeo-kof-98-title.png"
+      "images/neogeo/neogeo-kof-98-s1.webp",
+      "images/neogeo/neogeo-kof-98-s2.webp",
+      "images/neogeo/neogeo-kof-98-s3.webp",
+      "images/neogeo/neogeo-kof-98-m1.webp",
+      "images/neogeo/neogeo-kof-98-title.webp"
     ],
-    "cover": "images/neogeo/neogeo-kof-98-box.jpg",
+    "cover": "images/neogeo/neogeo-kof-98-box.webp",
     "styleMatch": 0,
     "styleNote": "2D格斗游戏，玩法完全不同"
   },
@@ -257,15 +257,15 @@
     "editorScore": 9.3,
     "is2D": true,
     "screenshots": [
-      "images/neogeo/neogeo-garou-motw-s1.png",
-      "images/neogeo/neogeo-garou-motw-s2.png",
-      "images/neogeo/neogeo-garou-motw-s3.png",
-      "images/neogeo/neogeo-garou-motw-m1.jpg",
-      "images/neogeo/neogeo-garou-motw-m2.jpg",
-      "images/neogeo/neogeo-garou-motw-m3.png",
-      "images/neogeo/neogeo-garou-motw-title.png"
+      "images/neogeo/neogeo-garou-motw-s1.webp",
+      "images/neogeo/neogeo-garou-motw-s2.webp",
+      "images/neogeo/neogeo-garou-motw-s3.webp",
+      "images/neogeo/neogeo-garou-motw-m1.webp",
+      "images/neogeo/neogeo-garou-motw-m2.webp",
+      "images/neogeo/neogeo-garou-motw-m3.webp",
+      "images/neogeo/neogeo-garou-motw-title.webp"
     ],
-    "cover": "images/neogeo/neogeo-garou-motw-box.jpg",
+    "cover": "images/neogeo/neogeo-garou-motw-box.webp",
     "styleMatch": 0,
     "styleNote": "2D格斗游戏，玩法完全不同"
   },
@@ -313,15 +313,15 @@
     "editorScore": 9.2,
     "is2D": true,
     "screenshots": [
-      "images/neogeo/neogeo-samurai-shodown-2-s1.png",
-      "images/neogeo/neogeo-samurai-shodown-2-m1.png",
-      "images/neogeo/neogeo-samurai-shodown-2-m2.jpg",
-      "images/neogeo/neogeo-samurai-shodown-2-m3.jpg",
-      "images/neogeo/neogeo-samurai-shodown-2-m4.jpg",
-      "images/neogeo/neogeo-samurai-shodown-2-m5.jpg",
+      "images/neogeo/neogeo-samurai-shodown-2-s1.webp",
+      "images/neogeo/neogeo-samurai-shodown-2-m1.webp",
+      "images/neogeo/neogeo-samurai-shodown-2-m2.webp",
+      "images/neogeo/neogeo-samurai-shodown-2-m3.webp",
+      "images/neogeo/neogeo-samurai-shodown-2-m4.webp",
+      "images/neogeo/neogeo-samurai-shodown-2-m5.webp",
       "images/neogeo/neogeo-samurai-shodown-2-title.png"
     ],
-    "cover": "images/neogeo/neogeo-samurai-shodown-2-box.jpg",
+    "cover": "images/neogeo/neogeo-samurai-shodown-2-box.webp",
     "styleMatch": 0,
     "styleNote": "武器格斗游戏，无探索要素"
   },
@@ -369,14 +369,14 @@
     "editorScore": 9.2,
     "is2D": true,
     "screenshots": [
-      "images/neogeo/neogeo-last-blade-2-s1.png",
-      "images/neogeo/neogeo-last-blade-2-s2.png",
-      "images/neogeo/neogeo-last-blade-2-m1.png",
-      "images/neogeo/neogeo-last-blade-2-m2.png",
-      "images/neogeo/neogeo-last-blade-2-m3.jpg",
-      "images/neogeo/neogeo-last-blade-2-title.png"
+      "images/neogeo/neogeo-last-blade-2-s1.webp",
+      "images/neogeo/neogeo-last-blade-2-s2.webp",
+      "images/neogeo/neogeo-last-blade-2-m1.webp",
+      "images/neogeo/neogeo-last-blade-2-m2.webp",
+      "images/neogeo/neogeo-last-blade-2-m3.webp",
+      "images/neogeo/neogeo-last-blade-2-title.webp"
     ],
-    "cover": "images/neogeo/neogeo-last-blade-2-box.jpg",
+    "cover": "images/neogeo/neogeo-last-blade-2-box.webp",
     "styleMatch": 0,
     "styleNote": "武器格斗游戏，无探索要素"
   },
@@ -424,14 +424,14 @@
     "editorScore": 9.1,
     "is2D": true,
     "screenshots": [
-      "images/neogeo/neogeo-blazing-star-s1.png",
-      "images/neogeo/neogeo-blazing-star-m1.jpg",
-      "images/neogeo/neogeo-blazing-star-m2.jpg",
-      "images/neogeo/neogeo-blazing-star-m3.jpg",
-      "images/neogeo/neogeo-blazing-star-m4.jpg",
-      "images/neogeo/neogeo-blazing-star-title.png"
+      "images/neogeo/neogeo-blazing-star-s1.webp",
+      "images/neogeo/neogeo-blazing-star-m1.webp",
+      "images/neogeo/neogeo-blazing-star-m2.webp",
+      "images/neogeo/neogeo-blazing-star-m3.webp",
+      "images/neogeo/neogeo-blazing-star-m4.webp",
+      "images/neogeo/neogeo-blazing-star-title.webp"
     ],
-    "cover": "images/neogeo/neogeo-blazing-star-box.jpg",
+    "cover": "images/neogeo/neogeo-blazing-star-box.webp",
     "styleMatch": 0,
     "styleNote": "横版射击，预渲染画风"
   },
@@ -479,13 +479,13 @@
     "editorScore": 9.0,
     "is2D": true,
     "screenshots": [
-      "images/neogeo/neogeo-last-blade-s1.png",
-      "images/neogeo/neogeo-last-blade-s2.png",
-      "images/neogeo/neogeo-last-blade-s3.png",
-      "images/neogeo/neogeo-last-blade-m1.png",
-      "images/neogeo/neogeo-last-blade-title.png"
+      "images/neogeo/neogeo-last-blade-s1.webp",
+      "images/neogeo/neogeo-last-blade-s2.webp",
+      "images/neogeo/neogeo-last-blade-s3.webp",
+      "images/neogeo/neogeo-last-blade-m1.webp",
+      "images/neogeo/neogeo-last-blade-title.webp"
     ],
-    "cover": "images/neogeo/neogeo-last-blade-box.jpg",
+    "cover": "images/neogeo/neogeo-last-blade-box.webp",
     "styleMatch": 0,
     "styleNote": "武器格斗游戏，无探索要素"
   },
@@ -528,13 +528,13 @@
     "editorScore": 9.0,
     "is2D": true,
     "screenshots": [
-      "images/neogeo/neogeo-kof-97-s1.png",
-      "images/neogeo/neogeo-kof-97-s2.png",
-      "images/neogeo/neogeo-kof-97-s3.png",
-      "images/neogeo/neogeo-kof-97-m1.jpg",
-      "images/neogeo/neogeo-kof-97-title.png"
+      "images/neogeo/neogeo-kof-97-s1.webp",
+      "images/neogeo/neogeo-kof-97-s2.webp",
+      "images/neogeo/neogeo-kof-97-s3.webp",
+      "images/neogeo/neogeo-kof-97-m1.webp",
+      "images/neogeo/neogeo-kof-97-title.webp"
     ],
-    "cover": "images/neogeo/neogeo-kof-97-box.jpg",
+    "cover": "images/neogeo/neogeo-kof-97-box.webp",
     "styleMatch": 0,
     "styleNote": "2D格斗游戏，玩法完全不同"
   },
@@ -577,15 +577,15 @@
     "editorScore": 8.9,
     "is2D": true,
     "screenshots": [
-      "images/neogeo/neogeo-samurai-shodown-s1.png",
-      "images/neogeo/neogeo-samurai-shodown-s2.png",
-      "images/neogeo/neogeo-samurai-shodown-s3.png",
-      "images/neogeo/neogeo-samurai-shodown-m1.png",
-      "images/neogeo/neogeo-samurai-shodown-m2.png",
-      "images/neogeo/neogeo-samurai-shodown-m3.jpg",
+      "images/neogeo/neogeo-samurai-shodown-s1.webp",
+      "images/neogeo/neogeo-samurai-shodown-s2.webp",
+      "images/neogeo/neogeo-samurai-shodown-s3.webp",
+      "images/neogeo/neogeo-samurai-shodown-m1.webp",
+      "images/neogeo/neogeo-samurai-shodown-m2.webp",
+      "images/neogeo/neogeo-samurai-shodown-m3.webp",
       "images/neogeo/neogeo-samurai-shodown-title.png"
     ],
-    "cover": "images/neogeo/neogeo-samurai-shodown-box.jpg",
+    "cover": "images/neogeo/neogeo-samurai-shodown-box.webp",
     "styleMatch": 0,
     "styleNote": "武器格斗游戏，无探索要素"
   },
@@ -633,13 +633,13 @@
     "editorScore": 8.8,
     "is2D": true,
     "screenshots": [
-      "images/neogeo/neogeo-fatal-fury-special-s1.png",
-      "images/neogeo/neogeo-fatal-fury-special-s2.png",
+      "images/neogeo/neogeo-fatal-fury-special-s1.webp",
+      "images/neogeo/neogeo-fatal-fury-special-s2.webp",
       "images/neogeo/neogeo-fatal-fury-special-s3.png",
-      "images/neogeo/neogeo-fatal-fury-special-m1.png",
-      "images/neogeo/neogeo-fatal-fury-special-title.png"
+      "images/neogeo/neogeo-fatal-fury-special-m1.webp",
+      "images/neogeo/neogeo-fatal-fury-special-title.webp"
     ],
-    "cover": "images/neogeo/neogeo-fatal-fury-special-box.jpg",
+    "cover": "images/neogeo/neogeo-fatal-fury-special-box.webp",
     "styleMatch": 0,
     "styleNote": "2D格斗游戏，玩法完全不同"
   },
@@ -682,15 +682,15 @@
     "editorScore": 8.8,
     "is2D": true,
     "screenshots": [
-      "images/neogeo/neogeo-twinkle-star-sprites-s1.png",
-      "images/neogeo/neogeo-twinkle-star-sprites-x1.png",
-      "images/neogeo/neogeo-twinkle-star-sprites-m1.png",
-      "images/neogeo/neogeo-twinkle-star-sprites-m2.jpg",
-      "images/neogeo/neogeo-twinkle-star-sprites-m3.jpg",
-      "images/neogeo/neogeo-twinkle-star-sprites-m4.jpg",
-      "images/neogeo/neogeo-twinkle-star-sprites-title.png"
+      "images/neogeo/neogeo-twinkle-star-sprites-s1.webp",
+      "images/neogeo/neogeo-twinkle-star-sprites-x1.webp",
+      "images/neogeo/neogeo-twinkle-star-sprites-m1.webp",
+      "images/neogeo/neogeo-twinkle-star-sprites-m2.webp",
+      "images/neogeo/neogeo-twinkle-star-sprites-m3.webp",
+      "images/neogeo/neogeo-twinkle-star-sprites-m4.webp",
+      "images/neogeo/neogeo-twinkle-star-sprites-title.webp"
     ],
-    "cover": "images/neogeo/neogeo-twinkle-star-sprites-box.jpg",
+    "cover": "images/neogeo/neogeo-twinkle-star-sprites-box.webp",
     "styleMatch": 0,
     "styleNote": "对战射击，画风可爱但非RPG"
   },
@@ -733,15 +733,15 @@
     "editorScore": 8.6,
     "is2D": true,
     "screenshots": [
-      "images/neogeo/neogeo-aero-fighters-2-s1.png",
-      "images/neogeo/neogeo-aero-fighters-2-m1.png",
-      "images/neogeo/neogeo-aero-fighters-2-m2.png",
-      "images/neogeo/neogeo-aero-fighters-2-m3.png",
-      "images/neogeo/neogeo-aero-fighters-2-m4.png",
-      "images/neogeo/neogeo-aero-fighters-2-m5.jpg",
-      "images/neogeo/neogeo-aero-fighters-2-title.png"
+      "images/neogeo/neogeo-aero-fighters-2-s1.webp",
+      "images/neogeo/neogeo-aero-fighters-2-m1.webp",
+      "images/neogeo/neogeo-aero-fighters-2-m2.webp",
+      "images/neogeo/neogeo-aero-fighters-2-m3.webp",
+      "images/neogeo/neogeo-aero-fighters-2-m4.webp",
+      "images/neogeo/neogeo-aero-fighters-2-m5.webp",
+      "images/neogeo/neogeo-aero-fighters-2-title.webp"
     ],
-    "cover": "images/neogeo/neogeo-aero-fighters-2-box.jpg",
+    "cover": "images/neogeo/neogeo-aero-fighters-2-box.webp",
     "styleMatch": 0,
     "styleNote": "纵版射击，无探索要素"
   },
@@ -779,13 +779,13 @@
     "editorScore": 8.6,
     "is2D": true,
     "screenshots": [
-      "images/neogeo/neogeo-shock-troopers-s1.png",
-      "images/neogeo/neogeo-shock-troopers-s2.png",
-      "images/neogeo/neogeo-shock-troopers-m1.png",
-      "images/neogeo/neogeo-shock-troopers-m2.jpg",
-      "images/neogeo/neogeo-shock-troopers-title.png"
+      "images/neogeo/neogeo-shock-troopers-s1.webp",
+      "images/neogeo/neogeo-shock-troopers-s2.webp",
+      "images/neogeo/neogeo-shock-troopers-m1.webp",
+      "images/neogeo/neogeo-shock-troopers-m2.webp",
+      "images/neogeo/neogeo-shock-troopers-title.webp"
     ],
-    "cover": "images/neogeo/neogeo-shock-troopers-box.jpg",
+    "cover": "images/neogeo/neogeo-shock-troopers-box.webp",
     "styleMatch": 0,
     "styleNote": "俯视角射击，但无城镇与RPG要素"
   },
@@ -833,12 +833,12 @@
     "editorScore": 8.6,
     "is2D": true,
     "screenshots": [
-      "images/neogeo/neogeo-windjammers-s1.png",
-      "images/neogeo/neogeo-windjammers-x1.png",
-      "images/neogeo/neogeo-windjammers-m1.png",
-      "images/neogeo/neogeo-windjammers-title.png"
+      "images/neogeo/neogeo-windjammers-s1.webp",
+      "images/neogeo/neogeo-windjammers-x1.webp",
+      "images/neogeo/neogeo-windjammers-m1.webp",
+      "images/neogeo/neogeo-windjammers-title.webp"
     ],
-    "cover": "images/neogeo/neogeo-windjammers-box.jpg",
+    "cover": "images/neogeo/neogeo-windjammers-box.webp",
     "styleMatch": 0,
     "styleNote": "飞盘体育对战"
   },
@@ -881,13 +881,13 @@
     "editorScore": 8.5,
     "is2D": true,
     "screenshots": [
-      "images/neogeo/neogeo-sengoku-3-s1.png",
-      "images/neogeo/neogeo-sengoku-3-s2.png",
-      "images/neogeo/neogeo-sengoku-3-s3.png",
-      "images/neogeo/neogeo-sengoku-3-m1.png",
-      "images/neogeo/neogeo-sengoku-3-title.png"
+      "images/neogeo/neogeo-sengoku-3-s1.webp",
+      "images/neogeo/neogeo-sengoku-3-s2.webp",
+      "images/neogeo/neogeo-sengoku-3-s3.webp",
+      "images/neogeo/neogeo-sengoku-3-m1.webp",
+      "images/neogeo/neogeo-sengoku-3-title.webp"
     ],
-    "cover": "images/neogeo/neogeo-sengoku-3-box.jpg",
+    "cover": "images/neogeo/neogeo-sengoku-3-box.webp",
     "styleMatch": 1,
     "styleNote": "像素清版动作，仅时代画风相近"
   },
@@ -930,12 +930,12 @@
     "editorScore": 8.4,
     "is2D": true,
     "screenshots": [
-      "images/neogeo/neogeo-waku-waku-7-s1.png",
-      "images/neogeo/neogeo-waku-waku-7-x1.png",
-      "images/neogeo/neogeo-waku-waku-7-m1.png",
-      "images/neogeo/neogeo-waku-waku-7-title.png"
+      "images/neogeo/neogeo-waku-waku-7-s1.webp",
+      "images/neogeo/neogeo-waku-waku-7-x1.webp",
+      "images/neogeo/neogeo-waku-waku-7-m1.webp",
+      "images/neogeo/neogeo-waku-waku-7-title.webp"
     ],
-    "cover": "images/neogeo/neogeo-waku-waku-7-box.jpg",
+    "cover": "images/neogeo/neogeo-waku-waku-7-box.webp",
     "styleMatch": 0,
     "styleNote": "2D格斗游戏，玩法完全不同"
   },
@@ -973,12 +973,12 @@
     "editorScore": 8.4,
     "is2D": true,
     "screenshots": [
-      "images/neogeo/neogeo-neo-turf-masters-s1.png",
-      "images/neogeo/neogeo-neo-turf-masters-x1.png",
-      "images/neogeo/neogeo-neo-turf-masters-m1.png",
-      "images/neogeo/neogeo-neo-turf-masters-title.png"
+      "images/neogeo/neogeo-neo-turf-masters-s1.webp",
+      "images/neogeo/neogeo-neo-turf-masters-x1.webp",
+      "images/neogeo/neogeo-neo-turf-masters-m1.webp",
+      "images/neogeo/neogeo-neo-turf-masters-title.webp"
     ],
-    "cover": "images/neogeo/neogeo-neo-turf-masters-box.jpg",
+    "cover": "images/neogeo/neogeo-neo-turf-masters-box.webp",
     "styleMatch": 0,
     "styleNote": "高尔夫体育游戏"
   },
@@ -1021,13 +1021,13 @@
     "editorScore": 8.2,
     "is2D": true,
     "screenshots": [
-      "images/neogeo/neogeo-super-sidekicks-3-s1.png",
-      "images/neogeo/neogeo-super-sidekicks-3-x1.png",
-      "images/neogeo/neogeo-super-sidekicks-3-m1.jpg",
-      "images/neogeo/neogeo-super-sidekicks-3-m2.png",
-      "images/neogeo/neogeo-super-sidekicks-3-title.png"
+      "images/neogeo/neogeo-super-sidekicks-3-s1.webp",
+      "images/neogeo/neogeo-super-sidekicks-3-x1.webp",
+      "images/neogeo/neogeo-super-sidekicks-3-m1.webp",
+      "images/neogeo/neogeo-super-sidekicks-3-m2.webp",
+      "images/neogeo/neogeo-super-sidekicks-3-title.webp"
     ],
-    "cover": "images/neogeo/neogeo-super-sidekicks-3-box.jpg",
+    "cover": "images/neogeo/neogeo-super-sidekicks-3-box.webp",
     "styleMatch": 0,
     "styleNote": "足球体育游戏"
   },
@@ -1070,15 +1070,15 @@
     "editorScore": 8.2,
     "is2D": true,
     "screenshots": [
-      "images/neogeo/neogeo-pulstar-s1.png",
-      "images/neogeo/neogeo-pulstar-x1.png",
-      "images/neogeo/neogeo-pulstar-m1.jpg",
-      "images/neogeo/neogeo-pulstar-m2.jpg",
-      "images/neogeo/neogeo-pulstar-m3.jpg",
-      "images/neogeo/neogeo-pulstar-m4.jpg",
-      "images/neogeo/neogeo-pulstar-title.png"
+      "images/neogeo/neogeo-pulstar-s1.webp",
+      "images/neogeo/neogeo-pulstar-x1.webp",
+      "images/neogeo/neogeo-pulstar-m1.webp",
+      "images/neogeo/neogeo-pulstar-m2.webp",
+      "images/neogeo/neogeo-pulstar-m3.webp",
+      "images/neogeo/neogeo-pulstar-m4.webp",
+      "images/neogeo/neogeo-pulstar-title.webp"
     ],
-    "cover": "images/neogeo/neogeo-pulstar-box.jpg",
+    "cover": "images/neogeo/neogeo-pulstar-box.webp",
     "styleMatch": 0,
     "styleNote": "横版射击，预渲染画风"
   },
@@ -1121,13 +1121,13 @@
     "editorScore": 8.2,
     "is2D": true,
     "screenshots": [
-      "images/neogeo/neogeo-magical-drop-3-s1.png",
-      "images/neogeo/neogeo-magical-drop-3-x1.png",
-      "images/neogeo/neogeo-magical-drop-3-m1.png",
-      "images/neogeo/neogeo-magical-drop-3-m2.png",
-      "images/neogeo/neogeo-magical-drop-3-title.png"
+      "images/neogeo/neogeo-magical-drop-3-s1.webp",
+      "images/neogeo/neogeo-magical-drop-3-x1.webp",
+      "images/neogeo/neogeo-magical-drop-3-m1.webp",
+      "images/neogeo/neogeo-magical-drop-3-m2.webp",
+      "images/neogeo/neogeo-magical-drop-3-title.webp"
     ],
-    "cover": "images/neogeo/neogeo-magical-drop-3-box.jpg",
+    "cover": "images/neogeo/neogeo-magical-drop-3-box.webp",
     "styleMatch": 0,
     "styleNote": "消除益智游戏"
   },
@@ -1165,12 +1165,12 @@
     "editorScore": 8.1,
     "is2D": true,
     "screenshots": [
-      "images/neogeo/neogeo-kof-2002-s1.png",
-      "images/neogeo/neogeo-kof-2002-s2.png",
-      "images/neogeo/neogeo-kof-2002-m1.jpg",
-      "images/neogeo/neogeo-kof-2002-title.png"
+      "images/neogeo/neogeo-kof-2002-s1.webp",
+      "images/neogeo/neogeo-kof-2002-s2.webp",
+      "images/neogeo/neogeo-kof-2002-m1.webp",
+      "images/neogeo/neogeo-kof-2002-title.webp"
     ],
-    "cover": "images/neogeo/neogeo-kof-2002-box.jpg",
+    "cover": "images/neogeo/neogeo-kof-2002-box.webp",
     "styleMatch": 0,
     "styleNote": "2D格斗游戏，玩法完全不同"
   },
@@ -1213,14 +1213,14 @@
     "editorScore": 8.0,
     "is2D": true,
     "screenshots": [
-      "images/neogeo/neogeo-art-of-fighting-2-s1.png",
-      "images/neogeo/neogeo-art-of-fighting-2-s2.png",
-      "images/neogeo/neogeo-art-of-fighting-2-m1.png",
-      "images/neogeo/neogeo-art-of-fighting-2-m2.png",
+      "images/neogeo/neogeo-art-of-fighting-2-s1.webp",
+      "images/neogeo/neogeo-art-of-fighting-2-s2.webp",
+      "images/neogeo/neogeo-art-of-fighting-2-m1.webp",
+      "images/neogeo/neogeo-art-of-fighting-2-m2.webp",
       "images/neogeo/neogeo-art-of-fighting-2-m3.jpg",
-      "images/neogeo/neogeo-art-of-fighting-2-title.png"
+      "images/neogeo/neogeo-art-of-fighting-2-title.webp"
     ],
-    "cover": "images/neogeo/neogeo-art-of-fighting-2-box.jpg",
+    "cover": "images/neogeo/neogeo-art-of-fighting-2-box.webp",
     "styleMatch": 0,
     "styleNote": "2D格斗游戏，玩法完全不同"
   },
@@ -1258,12 +1258,12 @@
     "editorScore": 7.9,
     "is2D": true,
     "screenshots": [
-      "images/neogeo/neogeo-kizuna-encounter-s1.png",
-      "images/neogeo/neogeo-kizuna-encounter-x1.png",
-      "images/neogeo/neogeo-kizuna-encounter-m1.png",
-      "images/neogeo/neogeo-kizuna-encounter-title.png"
+      "images/neogeo/neogeo-kizuna-encounter-s1.webp",
+      "images/neogeo/neogeo-kizuna-encounter-x1.webp",
+      "images/neogeo/neogeo-kizuna-encounter-m1.webp",
+      "images/neogeo/neogeo-kizuna-encounter-title.webp"
     ],
-    "cover": "images/neogeo/neogeo-kizuna-encounter-box.jpg",
+    "cover": "images/neogeo/neogeo-kizuna-encounter-box.webp",
     "styleMatch": 0,
     "styleNote": "2D格斗游戏，玩法完全不同"
   },
@@ -1311,13 +1311,13 @@
     "editorScore": 7.8,
     "is2D": true,
     "screenshots": [
-      "images/neogeo/neogeo-top-hunter-s1.png",
-      "images/neogeo/neogeo-top-hunter-s2.png",
-      "images/neogeo/neogeo-top-hunter-m1.png",
-      "images/neogeo/neogeo-top-hunter-m2.jpg",
-      "images/neogeo/neogeo-top-hunter-title.png"
+      "images/neogeo/neogeo-top-hunter-s1.webp",
+      "images/neogeo/neogeo-top-hunter-s2.webp",
+      "images/neogeo/neogeo-top-hunter-m1.webp",
+      "images/neogeo/neogeo-top-hunter-m2.webp",
+      "images/neogeo/neogeo-top-hunter-title.webp"
     ],
-    "cover": "images/neogeo/neogeo-top-hunter-box.jpg",
+    "cover": "images/neogeo/neogeo-top-hunter-box.webp",
     "styleMatch": 1,
     "styleNote": "横版像素动作，无城镇探索"
   },
@@ -1361,11 +1361,11 @@
     "is2D": true,
     "screenshots": [
       "images/neogeo/neogeo-ninja-masters-s1.png",
-      "images/neogeo/neogeo-ninja-masters-x1.png",
-      "images/neogeo/neogeo-ninja-masters-m1.png",
-      "images/neogeo/neogeo-ninja-masters-title.png"
+      "images/neogeo/neogeo-ninja-masters-x1.webp",
+      "images/neogeo/neogeo-ninja-masters-m1.webp",
+      "images/neogeo/neogeo-ninja-masters-title.webp"
     ],
-    "cover": "images/neogeo/neogeo-ninja-masters-box.jpg",
+    "cover": "images/neogeo/neogeo-ninja-masters-box.webp",
     "styleMatch": 0,
     "styleNote": "武器格斗游戏，无探索要素"
   },
@@ -1408,11 +1408,11 @@
     "editorScore": 7.8,
     "is2D": true,
     "screenshots": [
-      "images/neogeo/neogeo-puzzle-bobble-s1.png",
-      "images/neogeo/neogeo-puzzle-bobble-m1.png",
-      "images/neogeo/neogeo-puzzle-bobble-title.png"
+      "images/neogeo/neogeo-puzzle-bobble-s1.webp",
+      "images/neogeo/neogeo-puzzle-bobble-m1.webp",
+      "images/neogeo/neogeo-puzzle-bobble-title.webp"
     ],
-    "cover": "images/neogeo/neogeo-puzzle-bobble-box.jpg",
+    "cover": "images/neogeo/neogeo-puzzle-bobble-box.webp",
     "styleMatch": 0,
     "styleNote": "泡泡消除益智游戏"
   },
@@ -1455,12 +1455,12 @@
     "editorScore": 7.7,
     "is2D": true,
     "screenshots": [
-      "images/neogeo/neogeo-world-heroes-perfect-s1.png",
-      "images/neogeo/neogeo-world-heroes-perfect-x1.png",
-      "images/neogeo/neogeo-world-heroes-perfect-m1.png",
+      "images/neogeo/neogeo-world-heroes-perfect-s1.webp",
+      "images/neogeo/neogeo-world-heroes-perfect-x1.webp",
+      "images/neogeo/neogeo-world-heroes-perfect-m1.webp",
       "images/neogeo/neogeo-world-heroes-perfect-title.png"
     ],
-    "cover": "images/neogeo/neogeo-world-heroes-perfect-box.jpg",
+    "cover": "images/neogeo/neogeo-world-heroes-perfect-box.webp",
     "styleMatch": 0,
     "styleNote": "2D格斗游戏，玩法完全不同"
   },
@@ -1498,15 +1498,15 @@
     "editorScore": 7.6,
     "is2D": true,
     "screenshots": [
-      "images/neogeo/neogeo-shinsetsu-samurai-spirits-rpg-x1.png",
-      "images/neogeo/neogeo-shinsetsu-samurai-spirits-rpg-x2.png",
-      "images/neogeo/neogeo-shinsetsu-samurai-spirits-rpg-s1.png",
-      "images/neogeo/neogeo-shinsetsu-samurai-spirits-rpg-m1.jpg",
-      "images/neogeo/neogeo-shinsetsu-samurai-spirits-rpg-m2.png",
-      "images/neogeo/neogeo-shinsetsu-samurai-spirits-rpg-m3.png",
-      "images/neogeo/neogeo-shinsetsu-samurai-spirits-rpg-title.png"
+      "images/neogeo/neogeo-shinsetsu-samurai-spirits-rpg-x1.webp",
+      "images/neogeo/neogeo-shinsetsu-samurai-spirits-rpg-x2.webp",
+      "images/neogeo/neogeo-shinsetsu-samurai-spirits-rpg-s1.webp",
+      "images/neogeo/neogeo-shinsetsu-samurai-spirits-rpg-m1.webp",
+      "images/neogeo/neogeo-shinsetsu-samurai-spirits-rpg-m2.webp",
+      "images/neogeo/neogeo-shinsetsu-samurai-spirits-rpg-m3.webp",
+      "images/neogeo/neogeo-shinsetsu-samurai-spirits-rpg-title.webp"
     ],
-    "cover": "images/neogeo/neogeo-shinsetsu-samurai-spirits-rpg-box.jpg",
+    "cover": "images/neogeo/neogeo-shinsetsu-samurai-spirits-rpg-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角和风像素村庄，自由探索城镇"
   },
@@ -1549,13 +1549,13 @@
     "editorScore": 7.5,
     "is2D": true,
     "screenshots": [
-      "images/neogeo/neogeo-burning-fight-s1.png",
-      "images/neogeo/neogeo-burning-fight-s2.png",
-      "images/neogeo/neogeo-burning-fight-s3.png",
-      "images/neogeo/neogeo-burning-fight-m1.png",
-      "images/neogeo/neogeo-burning-fight-title.png"
+      "images/neogeo/neogeo-burning-fight-s1.webp",
+      "images/neogeo/neogeo-burning-fight-s2.webp",
+      "images/neogeo/neogeo-burning-fight-s3.webp",
+      "images/neogeo/neogeo-burning-fight-m1.webp",
+      "images/neogeo/neogeo-burning-fight-title.webp"
     ],
-    "cover": "images/neogeo/neogeo-burning-fight-box.jpg",
+    "cover": "images/neogeo/neogeo-burning-fight-box.webp",
     "styleMatch": 1,
     "styleNote": "像素清版动作，仅时代画风相近"
   },
@@ -1593,11 +1593,11 @@
     "editorScore": 7.4,
     "is2D": true,
     "screenshots": [
-      "images/neogeo/neogeo-matrimelee-s1.png",
+      "images/neogeo/neogeo-matrimelee-s1.webp",
       "images/neogeo/neogeo-matrimelee-m1.jpg",
-      "images/neogeo/neogeo-matrimelee-title.png"
+      "images/neogeo/neogeo-matrimelee-title.webp"
     ],
-    "cover": "images/neogeo/neogeo-matrimelee-box.jpg",
+    "cover": "images/neogeo/neogeo-matrimelee-box.webp",
     "styleMatch": 0,
     "styleNote": "2D格斗游戏，玩法完全不同"
   },
@@ -1645,15 +1645,15 @@
     "editorScore": 7.2,
     "is2D": true,
     "screenshots": [
-      "images/neogeo/neogeo-robo-army-s1.png",
-      "images/neogeo/neogeo-robo-army-x1.png",
-      "images/neogeo/neogeo-robo-army-m1.jpg",
-      "images/neogeo/neogeo-robo-army-m2.jpg",
-      "images/neogeo/neogeo-robo-army-m3.jpg",
-      "images/neogeo/neogeo-robo-army-m4.jpg",
-      "images/neogeo/neogeo-robo-army-title.png"
+      "images/neogeo/neogeo-robo-army-s1.webp",
+      "images/neogeo/neogeo-robo-army-x1.webp",
+      "images/neogeo/neogeo-robo-army-m1.webp",
+      "images/neogeo/neogeo-robo-army-m2.webp",
+      "images/neogeo/neogeo-robo-army-m3.webp",
+      "images/neogeo/neogeo-robo-army-m4.webp",
+      "images/neogeo/neogeo-robo-army-title.webp"
     ],
-    "cover": "images/neogeo/neogeo-robo-army-box.jpg",
+    "cover": "images/neogeo/neogeo-robo-army-box.webp",
     "styleMatch": 1,
     "styleNote": "像素清版动作，仅时代画风相近"
   },
@@ -1691,12 +1691,12 @@
     "editorScore": 7.0,
     "is2D": true,
     "screenshots": [
-      "images/neogeo/neogeo-breakers-revenge-s1.png",
-      "images/neogeo/neogeo-breakers-revenge-x1.png",
-      "images/neogeo/neogeo-breakers-revenge-m1.png",
+      "images/neogeo/neogeo-breakers-revenge-s1.webp",
+      "images/neogeo/neogeo-breakers-revenge-x1.webp",
+      "images/neogeo/neogeo-breakers-revenge-m1.webp",
       "images/neogeo/neogeo-breakers-revenge-title.png"
     ],
-    "cover": "images/neogeo/neogeo-breakers-revenge-box.jpg",
+    "cover": "images/neogeo/neogeo-breakers-revenge-box.webp",
     "styleMatch": 0,
     "styleNote": "2D格斗游戏，玩法完全不同"
   },
@@ -1734,13 +1734,13 @@
     "editorScore": 7.0,
     "is2D": true,
     "screenshots": [
-      "images/neogeo/neogeo-nightmare-in-the-dark-s1.png",
-      "images/neogeo/neogeo-nightmare-in-the-dark-m1.jpg",
-      "images/neogeo/neogeo-nightmare-in-the-dark-m2.jpg",
-      "images/neogeo/neogeo-nightmare-in-the-dark-m3.jpg",
-      "images/neogeo/neogeo-nightmare-in-the-dark-title.png"
+      "images/neogeo/neogeo-nightmare-in-the-dark-s1.webp",
+      "images/neogeo/neogeo-nightmare-in-the-dark-m1.webp",
+      "images/neogeo/neogeo-nightmare-in-the-dark-m2.webp",
+      "images/neogeo/neogeo-nightmare-in-the-dark-m3.webp",
+      "images/neogeo/neogeo-nightmare-in-the-dark-title.webp"
     ],
-    "cover": "images/neogeo/neogeo-nightmare-in-the-dark-box.jpg",
+    "cover": "images/neogeo/neogeo-nightmare-in-the-dark-box.webp",
     "styleMatch": 1,
     "styleNote": "固定画面像素平台动作"
   }
