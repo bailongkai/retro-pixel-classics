@@ -46,6 +46,7 @@ TGDB_PLATFORMS = {
     "neogeo": {"Neo Geo", "Neo Geo CD", "NeoGeo", "Neo Geo AES"},
     "ngp": {"Neo Geo Pocket", "Neo Geo Pocket Color"},
     "ws": {"WonderSwan", "WonderSwan Color"},
+    "arcade": {"Arcade"},
 }
 
 

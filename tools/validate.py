@@ -11,7 +11,7 @@ REQUIRED = ["id", "title", "titleZh", "year", "developer", "genre", "tagline", "
 
 
 def check(path):
-    plat = os.path.basename(path)[:-5]
+    plat = os.path.basename(path)[:-5].split("_")[0]  # data/arcade_1.json -> "arcade"
     problems, few = [], []
     try:
         games = json.load(open(path))

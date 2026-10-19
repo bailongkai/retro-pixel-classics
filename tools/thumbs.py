@@ -42,6 +42,7 @@ REPOS = {
     "neogeo": ["SNK_-_Neo_Geo", "FBNeo_-_Arcade_Games"],
     "ngp": ["SNK_-_Neo_Geo_Pocket_Color", "SNK_-_Neo_Geo_Pocket"],
     "ws": ["Bandai_-_WonderSwan_Color", "Bandai_-_WonderSwan"],
+    "arcade": ["FBNeo_-_Arcade_Games", "MAME"],
 }
 
 UA = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0) retro-pixel-classics"}

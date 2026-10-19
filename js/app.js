@@ -2,13 +2,14 @@
   "use strict";
 
   // bump on every content update so browsers don't pair new pages with stale cached data
-  const VERSION = "8";
+  const VERSION = "9";
 
   const MAKERS = [
     { key: "Nintendo", zh: "任天堂", en: "NINTENDO" },
     { key: "SEGA", zh: "世嘉", en: "SEGA" },
     { key: "Sony", zh: "索尼", en: "SONY" },
     { key: "Other", zh: "NEC · SNK · 万代", en: "NEC / SNK / BANDAI" },
+    { key: "Arcade", zh: "街机厅", en: "ARCADE" },
   ];
   const PLATFORMS = [
     { key: "fc",  abbr: "FC",  group: "Nintendo", name: "Famicom / NES", zh: "红白机传奇", maker: "Nintendo", year: "1983", color: "#b3262e", ink: "#ffffff",
@@ -45,6 +46,8 @@
       intro: "手感一流的微动摇杆，Q 版拳皇与 SNK vs. Capcom 卡片战斗，短命却被无数玩家怀念的小掌机。" },
     { key: "ws",  abbr: "WS",  group: "Other", name: "WonderSwan / Color", zh: "横井军平的遗作", maker: "Bandai", year: "1999", color: "#5fb3a1", ink: "#0d2b26",
       intro: "GB 之父横井军平的最后作品，日本限定。最终幻想重制、浪漫沙加、Riviera、Judgement Silversword，藏着不少 2D 珍品。" },
+    { key: "arcade", abbr: "AC", group: "Arcade", name: "Arcade 街机", zh: "街机厅的回忆", maker: "Capcom / Konami / Taito / Sega …", year: "1978–2000s", color: "#7b2cbf", ink: "#ffffff",
+      intro: "一枚游戏币、一排摇杆按键、围在身后看高手通关的人群——快打旋风、恐龙快打、三国志、雷电、泡泡龙，街机厅是一代人的青春。" },
   ];
   const PMAP = Object.fromEntries(PLATFORMS.map(p => [p.key, p]));
 
@@ -309,7 +312,7 @@
             <div class="bar"><i style="width:${Math.max(0, Math.min(100, (g.editorScore || 0) * 10))}%"></i></div>
             <div class="verdict">★ ${verdict(g.editorScore || 0)} ★</div>
           </div>
-          ${g.cover ? `<div class="panel box-panel"><h3>游戏包装</h3><button data-cover aria-label="查看包装大图"><img src="${esc(g.cover)}" alt="${esc(g.titleZh || g.title)} 包装" loading="lazy"></button></div>` : ""}
+          ${g.cover ? `<div class="panel box-panel"><h3>${g.platform === "arcade" ? "宣传海报" : "游戏包装"}</h3><button data-cover aria-label="查看包装大图"><img src="${esc(g.cover)}" alt="${esc(g.titleZh || g.title)} 包装" loading="lazy"></button></div>` : ""}
           <div class="panel">
             <h3>游戏档案</h3>
             <table class="info-table">

@@ -1,0 +1,2767 @@
+[
+  {
+    "id": "arcade-street-fighter-iii-3rd-strike",
+    "title": "Street Fighter III: 3rd Strike",
+    "titleZh": "街头霸王III 3rd Strike",
+    "titleJa": "ストリートファイターIII 3rd STRIKE -Fight for the Future-",
+    "year": 1999,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genre": "格斗",
+    "tags": [
+      "像素",
+      "CPS3",
+      "对战格斗",
+      "Blocking"
+    ],
+    "players": "1-2",
+    "tagline": "手绘像素巅峰，格挡一击定乾坤",
+    "description": "1999年，CPS3基板交出了它的最后一份答卷。《3rd Strike》延续了街霸III系列的全新阵容——隆、肯、豪鬼之外，阿历克斯、杜德利、尤里安等新面孔与回归的春丽，19名角色每一位都由数千帧手绘像素构成，挥拳、喘息、倒地的动作流畅得像一部动画电影。\n\n本作的灵魂是“Blocking”（格挡）系统：在攻击命中的瞬间推一下摇杆，就能零伤害化解对手的招式并取得反击机会。传说中梅原大吾在EVO上连续格挡春丽十五段凤翼扇的“Evo Moment #37”，正是这套系统最激动人心的注脚。\n\n街机厅里它也许不如ZERO3热闹，但在高手眼中，这是2D格斗游戏的终极形态。爵士嘻哈风的配乐、斜阳下的街头布景，至今看来依旧是像素艺术的天花板。",
+    "highlights": [
+      "每名角色数千帧的手绘像素动画",
+      "高风险高回报的Blocking格挡系统",
+      "“Evo Moment #37”传奇对决的舞台",
+      "嘻哈爵士风格原声"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通（DC版）",
+        "score": "34/40",
+        "quote": "移植完美，格挡系统带来前所未有的深度"
+      },
+      {
+        "source": "IGN（DC版）",
+        "score": "8.3/10",
+        "quote": "动画精美绝伦，是写给硬核玩家的格斗大作"
+      },
+      {
+        "source": "Metacritic（PS3/360 Online Edition）",
+        "score": "86/100",
+        "quote": "十余年后重制联机版依旧备受推崇"
+      }
+    ],
+    "editorScore": 9.5,
+    "styleMatch": 0,
+    "styleNote": "横版对战格斗，非俯视角RPG",
+    "screenshots": [
+      "images/arcade/arcade-street-fighter-iii-3rd-strike-s1.webp",
+      "images/arcade/arcade-street-fighter-iii-3rd-strike-s2.webp",
+      "images/arcade/arcade-street-fighter-iii-3rd-strike-s3.webp",
+      "images/arcade/arcade-street-fighter-iii-3rd-strike-s4.webp",
+      "images/arcade/arcade-street-fighter-iii-3rd-strike-s5.webp",
+      "images/arcade/arcade-street-fighter-iii-3rd-strike-s6.webp",
+      "images/arcade/arcade-street-fighter-iii-3rd-strike-title.webp"
+    ],
+    "cover": "images/arcade/arcade-street-fighter-iii-3rd-strike-box.webp",
+    "is2D": true
+  },
+  {
+    "id": "arcade-dnd-shadow-over-mystara",
+    "title": "Dungeons & Dragons: Shadow over Mystara",
+    "titleZh": "龙与地下城：秘影",
+    "titleJa": "ダンジョンズ&ドラゴンズ シャドーオーバーミスタラ",
+    "year": 1996,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genre": "动作清版",
+    "tags": [
+      "像素",
+      "CPS2",
+      "RPG要素",
+      "四人合作"
+    ],
+    "players": "1-4",
+    "tagline": "清版与RPG的完美联姻，街机厅最长篇章",
+    "description": "如果说清版动作只是“一路往右打”，那《龙与地下城：秘影》就是一部能投币的角色扮演游戏。战士、矮人、精灵、牧师、魔法使、盗贼六种职业各有专长，魔法使可以从火球术一路学到流星爆，盗贼能开锁偷宝，精灵则剑魔双修——同一关卡换个角色就像换了一款游戏。\n\n关卡之间有商店购物、分支路线选择，宝箱里藏着各式魔法道具与传说装备，隐藏要素多得惊人。四人同时游玩时，满屏的魔法与特效热闹非凡，难怪当年街机厅里总有一群人守在机台前出谋划策。\n\nCapcom动作清版的集大成之作，内容量之丰富足够让你通关十遍仍有新发现。今天通过合集或模拟器重温，依旧是和好友开黑的首选。",
+    "highlights": [
+      "六种职业，各有独特技能与魔法",
+      "商店、分支路线与大量隐藏要素",
+      "四人同屏的华丽魔法演出",
+      "Gamest大赏1996年度最佳动作游戏"
+    ],
+    "reviews": [
+      {
+        "source": "Gamest大赏（1996年度）",
+        "score": "大赏第5名",
+        "quote": "读者票选最佳动作游戏第1名，被视为清版动作的集大成者"
+      },
+      {
+        "source": "Allgame",
+        "score": "4.5/5",
+        "quote": "深度与重玩价值远超同类清版游戏"
+      },
+      {
+        "source": "Retro Gamer（2008）",
+        "score": "街机游戏Top25 第16名",
+        "quote": "入选史上最佳街机游戏之列"
+      }
+    ],
+    "editorScore": 9.4,
+    "styleMatch": 2,
+    "styleNote": "横版清版但有商店、装备与RPG养成",
+    "screenshots": [
+      "images/arcade/arcade-dnd-shadow-over-mystara-s1.webp",
+      "images/arcade/arcade-dnd-shadow-over-mystara-s2.webp",
+      "images/arcade/arcade-dnd-shadow-over-mystara-s3.webp",
+      "images/arcade/arcade-dnd-shadow-over-mystara-s4.webp",
+      "images/arcade/arcade-dnd-shadow-over-mystara-s5.webp",
+      "images/arcade/arcade-dnd-shadow-over-mystara-s6.webp",
+      "images/arcade/arcade-dnd-shadow-over-mystara-title.webp"
+    ],
+    "cover": "images/arcade/arcade-dnd-shadow-over-mystara-box.webp",
+    "is2D": true
+  },
+  {
+    "id": "arcade-bubble-bobble",
+    "title": "Bubble Bobble",
+    "titleZh": "泡泡龙",
+    "titleJa": "バブルボブル",
+    "year": 1986,
+    "developer": "Taito",
+    "publisher": "Taito",
+    "genre": "动作",
+    "tags": [
+      "像素",
+      "固定画面",
+      "双打",
+      "Taito"
+    ],
+    "players": "1-2",
+    "tagline": "吐泡泡、踩泡泡，百关友情试炼",
+    "description": "1986年，Taito的三二富久夫把两只小恐龙“巴布”和“鲍布”放进了一百层的洞窟。吐出泡泡把敌人包住，再一跃顶破，敌人就变成满屏乱跳的水果和点心——这个简单到小学生一看就会的循环，却让无数人在街机厅蹲了整个暑假。\n\n真正的精髓藏在细节里：泡泡可以当踏板往上爬，连锁顶破能打出惊人的分数，收集E-X-T-E-N-D字母多一条命，磨蹭太久还会冒出杀不死的白鲸“骷髅怪”催你上路。更绝的是，必须两人一起通关才能看到真结局，那段“友情才是最大的宝藏”的结尾不知感动了多少对同桌。\n\n明快的配色、魔性的BGM、刚好拿捏的难度，三十多年过去依然是最适合和朋友并肩玩的街机游戏之一。",
+    "highlights": [
+      "吐泡困敌、顶破得分的简单而深邃玩法",
+      "100关洞窟与隐藏房间、秘密道具",
+      "双人通关才能见到的真结局",
+      "洗脑级主题曲，几代人的街机记忆"
+    ],
+    "reviews": [
+      {
+        "source": "Zzap!64（C64移植版）",
+        "score": "97%",
+        "quote": "金奖之作，近乎完美的街机移植，耐玩度惊人"
+      },
+      {
+        "source": "Crash（ZX Spectrum移植版）",
+        "score": "90%",
+        "quote": "可爱而上瘾，双人同玩乐趣翻倍"
+      },
+      {
+        "source": "AllGame（FC移植版）",
+        "score": "4.5/5",
+        "quote": "简单易懂又极具深度的永恒经典"
+      }
+    ],
+    "editorScore": 9.4,
+    "is2D": true,
+    "screenshots": [
+      "images/arcade/arcade-bubble-bobble-s1.webp",
+      "images/arcade/arcade-bubble-bobble-s2.webp",
+      "images/arcade/arcade-bubble-bobble-s3.webp",
+      "images/arcade/arcade-bubble-bobble-s4.webp",
+      "images/arcade/arcade-bubble-bobble-s5.webp",
+      "images/arcade/arcade-bubble-bobble-s6.webp",
+      "images/arcade/arcade-bubble-bobble-title.webp"
+    ],
+    "cover": "images/arcade/arcade-bubble-bobble-box.webp",
+    "styleMatch": 1,
+    "styleNote": "固定画面平台动作，非俯视RPG"
+  },
+  {
+    "id": "arcade-super-street-fighter-ii-turbo",
+    "title": "Super Street Fighter II Turbo",
+    "titleZh": "超级街头霸王II X",
+    "titleJa": "スーパーストリートファイターII X -Grand Master Challenge-",
+    "year": 1994,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genre": "格斗",
+    "tags": [
+      "像素",
+      "CPS2",
+      "对战格斗",
+      "超必杀"
+    ],
+    "players": "1-2",
+    "tagline": "街霸II的终极形态，豪鬼首次登场",
+    "description": "从1991年的初代到1994年的《超级街头霸王II X》，Capcom把街霸II打磨了整整五个版本，而这一作正是公认的最终答案。16名角色齐聚，速度提升，首次加入了“超级必杀技”系统——能量槽蓄满后，隆的真空波动拳、春丽的千裂脚一出手便是满屏光芒。\n\n更令人热血沸腾的是隐藏头目豪鬼（Akuma）的初次登场：满足条件后他会突然出现，一招“瞬狱杀”秒杀最终BOSS维加，当年在街机厅里见过这一幕的人都难以忘怀。\n\n直到今天，《超级街头霸王II X》仍是日本格斗圈长盛不衰的比赛项目。精简而深邃的平衡性、标志性的像素角色，是每一位格斗游戏爱好者的必修课。",
+    "highlights": [
+      "系列首次引入超级必杀技",
+      "隐藏BOSS豪鬼惊艳登场",
+      "16名角色、更快的游戏速度",
+      "至今仍是热门比赛项目"
+    ],
+    "reviews": [
+      {
+        "source": "Gamest大赏（1994年度）",
+        "score": "大赏第4名",
+        "quote": "年度最佳格斗游戏第4名，系列集大成之作"
+      },
+      {
+        "source": "Allgame（街机版）",
+        "score": "4.5/5",
+        "quote": "街霸II系列打磨至今最平衡的版本"
+      },
+      {
+        "source": "Fami通（3DO版）",
+        "score": "29/40",
+        "quote": "移植扎实，超必杀让对战更具戏剧性"
+      }
+    ],
+    "editorScore": 9.3,
+    "styleMatch": 0,
+    "styleNote": "横版对战格斗，非俯视角RPG",
+    "screenshots": [
+      "images/arcade/arcade-super-street-fighter-ii-turbo-s1.webp",
+      "images/arcade/arcade-super-street-fighter-ii-turbo-s2.webp",
+      "images/arcade/arcade-super-street-fighter-ii-turbo-s3.webp",
+      "images/arcade/arcade-super-street-fighter-ii-turbo-s4.webp",
+      "images/arcade/arcade-super-street-fighter-ii-turbo-s5.webp",
+      "images/arcade/arcade-super-street-fighter-ii-turbo-s6.webp",
+      "images/arcade/arcade-super-street-fighter-ii-turbo-title.webp"
+    ],
+    "cover": "images/arcade/arcade-super-street-fighter-ii-turbo-box.webp",
+    "is2D": true
+  },
+  {
+    "id": "arcade-pac-man",
+    "title": "Pac-Man",
+    "titleZh": "吃豆人",
+    "titleJa": "パックマン",
+    "year": 1980,
+    "developer": "Namco",
+    "publisher": "Namco / Midway",
+    "genre": "动作",
+    "tags": [
+      "像素",
+      "迷宫",
+      "黄金时代",
+      "Namco"
+    ],
+    "players": "1-2",
+    "tagline": "一张缺了角的披萨，吃遍了全世界",
+    "description": "1980年，南梦宫的岩谷彻想做一款女孩和情侣也愿意玩的游戏，于是有了这个缺了一角的黄色圆球。在迷宫里吃光所有豆子就能过关，四只幽灵——红色的Blinky、粉色的Pinky、青色的Inky和橙色的Clyde——却会从四面八方围堵你。\n\n《吃豆人》的天才之处在于四只幽灵各有性格：一只紧追不舍，一只抄你前路，一只行踪诡谲，一只忽远忽近。吃下角落里的大力丸，局势瞬间反转，被追的变成了追人的，连吃四只幽灵的分数翻倍让人心跳加速。关卡之间穿插的小动画，更是电子游戏最早的“过场剧情”之一。\n\n它是史上最成功的街机之一，也是第一位真正的游戏明星。今天再投一个币，你会发现那套追逐与反杀的节奏依然完美无瑕。",
+    "highlights": [
+      "四只性格迥异的幽灵AI",
+      "大力丸带来的攻守瞬间逆转",
+      "最早的关卡间过场小动画",
+      "影响整个游戏史的角色形象"
+    ],
+    "reviews": [
+      {
+        "source": "AllGame",
+        "score": "5/5",
+        "quote": "电子游戏史上最具标志性的作品，简单却无比上瘾"
+      },
+      {
+        "source": "Eurogamer（Wii Virtual Console版）",
+        "score": "10/10",
+        "quote": "完美无瑕的设计，任何时代都不过时"
+      },
+      {
+        "source": "Mean Machines（Game Boy移植版）",
+        "score": "80%",
+        "quote": "掌上也同样好玩的经典追逐游戏"
+      }
+    ],
+    "editorScore": 9.3,
+    "is2D": true,
+    "screenshots": [
+      "images/arcade/arcade-pac-man-s1.webp",
+      "images/arcade/arcade-pac-man-s2.webp",
+      "images/arcade/arcade-pac-man-s3.webp",
+      "images/arcade/arcade-pac-man-m4.webp",
+      "images/arcade/arcade-pac-man-x2.webp",
+      "images/arcade/arcade-pac-man-title.webp"
+    ],
+    "cover": "images/arcade/arcade-pac-man-box.webp",
+    "styleMatch": 1,
+    "styleNote": "俯视迷宫追逐，非RPG无村庄"
+  },
+  {
+    "id": "arcade-out-run",
+    "title": "Out Run",
+    "titleZh": "超越",
+    "titleJa": "アウトラン",
+    "year": 1986,
+    "developer": "Sega AM2",
+    "publisher": "Sega",
+    "genre": "竞速",
+    "tags": [
+      "体感",
+      "伪3D",
+      "名曲",
+      "铃木裕"
+    ],
+    "players": "1",
+    "tagline": "敞篷跑车、金发女友与海风",
+    "description": "1986年，铃木裕驾驶一辆红色法拉利Testarossa敞篷车，载着副驾驶座上的金发女友，开上了一条通往夏天的公路。《超越》没有对手、没有枪炮，只有沿海公路、棕榈树和不断倒数的时间——这是一场关于“驾驶的快乐”的旅行。\n\n每段赛道尽头都有分岔路口，左转右转决定下一段风景：海滩、沙漠、山间古堡、麦田风车……五段路程共十五个场景，抵达五种不同的终点。出发前还能像调电台一样挑选背景音乐，《Magical Sound Shower》《Passing Breeze》《Splash Wave》至今仍是游戏音乐的传世名曲。豪华版的液压座舱会随转弯摇晃，在当年的街机厅里简直是梦幻体验。\n\n超高速的Super Scaler伪3D画面在今天看依旧顺滑迷人。想在午后来一场不用拿驾照的海岸兜风？投币吧。",
+    "highlights": [
+      "分岔路线带来十五种风景、五种结局",
+      "可选电台式BGM，川口博史的不朽名曲",
+      "Super Scaler伪3D技术的巅峰流畅度",
+      "液压座舱版体感震撼"
+    ],
+    "reviews": [
+      {
+        "source": "Commodore User（街机版）",
+        "score": "9/10",
+        "quote": "速度感与画面令人叹服，街机厅里最酷的机台"
+      },
+      {
+        "source": "ACE（Master System移植版）",
+        "score": "852/1000",
+        "quote": "在8位机上还原了令人惊喜的驾驶乐趣"
+      },
+      {
+        "source": "Sega-16（MD移植版）",
+        "score": "9/10",
+        "quote": "音乐与氛围无可替代的经典"
+      }
+    ],
+    "editorScore": 9.3,
+    "is2D": true,
+    "screenshots": [
+      "images/arcade/arcade-out-run-s1.webp",
+      "images/arcade/arcade-out-run-s2.webp",
+      "images/arcade/arcade-out-run-s3.webp",
+      "images/arcade/arcade-out-run-s4.webp",
+      "images/arcade/arcade-out-run-s5.webp",
+      "images/arcade/arcade-out-run-s6.webp",
+      "images/arcade/arcade-out-run-title.webp"
+    ],
+    "cover": "images/arcade/arcade-out-run-box.webp",
+    "styleMatch": 0,
+    "styleNote": "伪3D赛车，与俯视RPG无关"
+  },
+  {
+    "id": "arcade-final-fight",
+    "title": "Final Fight",
+    "titleZh": "快打旋风",
+    "titleJa": "ファイナルファイト",
+    "year": 1989,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genre": "动作清版",
+    "tags": [
+      "像素",
+      "CPS1",
+      "双人合作",
+      "清版鼻祖"
+    ],
+    "players": "1-2",
+    "tagline": "大块头、拆汽车，清版动作的教科书",
+    "description": "市长哈格的女儿杰西卡被街头帮派“Mad Gear”绑架，前职业摔角手市长脱掉衬衫、带上女儿的男友科迪和忍者凯，一路从贫民窟打到上城区。1989年，《快打旋风》以前所未有的巨大角色和流畅打击感，让整个街机厅为之震动。\n\n哈格的打桩机、科迪的刀子连斩、凯的三角跳，三名角色手感迥异。油桶里的烤鸡、拆汽车的奖励关、地铁车厢里的混战，以及每关个性十足的头目——这些后来成为清版游戏“标配”的元素，大多都源自本作。\n\n它是1990年日本街机收入冠军，也是无数中国玩家投币生涯的起点。三十多年过去，再挥一拳打碎油桶，依然能听到当年街机厅里的喧闹声。",
+    "highlights": [
+      "巨大角色与扎实的打击手感",
+      "市长、科迪、凯三种截然不同的玩法",
+      "拆汽车奖励关成为经典",
+      "1990年日本街机收入第一"
+    ],
+    "reviews": [
+      {
+        "source": "Gamest大赏（1990年度）",
+        "score": "大赏第1名",
+        "quote": "年度大赏与最佳动作游戏双料冠军，横版清版的代名词"
+      },
+      {
+        "source": "Your Sinclair（街机版）",
+        "score": "88%",
+        "quote": "角色巨大、动作爽快，是当年最火爆的机台"
+      }
+    ],
+    "editorScore": 9.2,
+    "styleMatch": 1,
+    "styleNote": "横版清版动作，同时代像素画风",
+    "screenshots": [
+      "images/arcade/arcade-final-fight-s1.webp",
+      "images/arcade/arcade-final-fight-s2.webp",
+      "images/arcade/arcade-final-fight-s3.webp",
+      "images/arcade/arcade-final-fight-s4.webp",
+      "images/arcade/arcade-final-fight-s5.webp",
+      "images/arcade/arcade-final-fight-s6.webp",
+      "images/arcade/arcade-final-fight-title.webp"
+    ],
+    "cover": "images/arcade/arcade-final-fight-box.webp",
+    "is2D": true
+  },
+  {
+    "id": "arcade-ghouls-n-ghosts",
+    "title": "Ghouls 'n Ghosts",
+    "titleZh": "大魔界村",
+    "titleJa": "大魔界村",
+    "year": 1988,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genre": "平台跳跃",
+    "tags": [
+      "像素",
+      "高难度",
+      "魔界村",
+      "Capcom"
+    ],
+    "players": "1-2",
+    "tagline": "内裤骑士二度出征，魔界更凶残",
+    "description": "公主再一次被掳走，骑士亚瑟又一次穿上铠甲。1988年的《大魔界村》在前作的骨架上全面进化：可以向上、向下攻击，宝箱里藏着能蓄力放魔法的黄金铠甲，舞台机关也变得活灵活现——会塌陷的地面、喷火的岩浆、狂风里颤动的巨树。\n\n但它的本质仍然是“魔界村式”的残酷：一碰就掉盔甲只剩裤衩，再碰一下就化为白骨；红色魔鬼阿雷玛依旧神出鬼没；打倒魔王后还被告知这一切只是幻影，必须带着特定武器重走一遍二周目。藤原得郎设计的每一处陷阱都像在挑衅玩家，可正是这种“死一百次也要看到结局”的执念，让它成为街机厅的传奇。\n\nCPS-1机板描绘的阴森魔界色彩浓郁，配乐也极具哥特气息。挑战心强的玩家，这是必修课。",
+    "highlights": [
+      "上下方向攻击与黄金铠甲魔法",
+      "动态变化的舞台机关",
+      "强制二周目的“魔界村式”真结局",
+      "哥特风浓郁的CPS-1像素美术"
+    ],
+    "reviews": [
+      {
+        "source": "Commodore User（街机版）",
+        "score": "9/10",
+        "quote": "画面与关卡设计全面超越前作，难度依旧惊人"
+      },
+      {
+        "source": "Your Sinclair（街机版）",
+        "score": "9/10",
+        "quote": "节奏紧凑、细节丰富的顶级街机动作"
+      },
+      {
+        "source": "EGM（MD移植版）",
+        "score": "36/40",
+        "quote": "近乎完美的街机移植，年度最佳游戏"
+      }
+    ],
+    "editorScore": 9.2,
+    "is2D": true,
+    "screenshots": [
+      "images/arcade/arcade-ghouls-n-ghosts-s1.webp",
+      "images/arcade/arcade-ghouls-n-ghosts-s2.webp",
+      "images/arcade/arcade-ghouls-n-ghosts-s3.webp",
+      "images/arcade/arcade-ghouls-n-ghosts-s4.webp",
+      "images/arcade/arcade-ghouls-n-ghosts-s5.webp",
+      "images/arcade/arcade-ghouls-n-ghosts-s6.webp",
+      "images/arcade/arcade-ghouls-n-ghosts-title.webp"
+    ],
+    "cover": "images/arcade/arcade-ghouls-n-ghosts-box.webp",
+    "styleMatch": 1,
+    "styleNote": "横版平台动作，同为2D像素风"
+  },
+  {
+    "id": "arcade-dodonpachi-daioujou",
+    "title": "DoDonPachi DaiOuJou",
+    "titleZh": "怒首领蜂 大往生",
+    "titleJa": "怒首領蜂 大往生",
+    "year": 2002,
+    "developer": "Cave",
+    "publisher": "AMI",
+    "genre": "射击",
+    "tags": [
+      "弹幕",
+      "纵版射击",
+      "高难度",
+      "Cave"
+    ],
+    "players": "1-2",
+    "tagline": "弹幕的极致美学，往生的终极试炼",
+    "description": "2002年，Cave把“首领蜂”系列推向了顶点。《怒首领蜂 大往生》的屏幕上常常同时飞舞着数百颗子弹，蓝色与粉色的弹幕像花朵一样绽开，而你的判定点只有机体中央的一小粒像素——在弹幕缝隙中穿行的快感，是任何其他类型都无法给予的。\n\n本作引入了“HYPER”系统：连击累积到一定程度即可发动，火力暴增，同时敌弹速度也随之提升，高风险高回报。配合可选的“元素人偶”辅助，射击模式与炸弹策略衍生出无穷的打法。二周目里等待着的真·最终头目“火蜂”，其弹幕被公认为街机射击史上最凶残的关卡之一，能一币通关二周目的玩家寥寥无几。\n\n即便你只打一周目，那种被弹幕包围却依然闪避成功的心跳也足以让人上瘾。这是弹幕射击的圣典。",
+    "highlights": [
+      "满屏几百发子弹的华丽弹幕",
+      "高风险高回报的HYPER系统",
+      "二周目真头目“火蜂”的传奇难度",
+      "精致的2D机械与爆炸像素"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通（PS2移植版）",
+        "score": "34/40",
+        "quote": "完美移植街机弹幕体验，射击迷必备"
+      },
+      {
+        "source": "Metacritic（iOS移植版）",
+        "score": "80/100",
+        "quote": "总体好评，触屏也能感受弹幕精髓"
+      },
+      {
+        "source": "AppGamer（iOS移植版）",
+        "score": "9/10",
+        "quote": "弹幕射击的巅峰之作"
+      }
+    ],
+    "editorScore": 9.2,
+    "is2D": true,
+    "screenshots": [
+      "images/arcade/arcade-dodonpachi-daioujou-s1.webp",
+      "images/arcade/arcade-dodonpachi-daioujou-s2.webp",
+      "images/arcade/arcade-dodonpachi-daioujou-s3.webp",
+      "images/arcade/arcade-dodonpachi-daioujou-s4.webp",
+      "images/arcade/arcade-dodonpachi-daioujou-s5.webp",
+      "images/arcade/arcade-dodonpachi-daioujou-s6.webp",
+      "images/arcade/arcade-dodonpachi-daioujou-title.webp"
+    ],
+    "cover": "images/arcade/arcade-dodonpachi-daioujou-box.webp",
+    "styleMatch": 0,
+    "styleNote": "纵版弹幕射击，类型完全不同"
+  },
+  {
+    "id": "arcade-vampire-savior",
+    "title": "Vampire Savior: The Lord of Vampire",
+    "titleZh": "恶魔战士 救世主",
+    "titleJa": "ヴァンパイア セイヴァー",
+    "year": 1997,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genre": "格斗",
+    "tags": [
+      "像素",
+      "CPS2",
+      "哥特",
+      "连段"
+    ],
+    "players": "1-2",
+    "tagline": "哥特像素狂想曲，最华丽的CPS2格斗",
+    "description": "莫丽卡、菲莉西亚、狼人加隆、木乃伊阿纳卡里斯……《恶魔战士》系列把欧美怪奇故事里的妖魔鬼怪统统搬进了格斗擂台，而第三作《救世主》（Darkstalkers 3）则把这股哥特风推向巅峰。角色动画张狂夸张，莉莉丝、芭蕾塔、杰达等新角色个个造型惊艳。\n\n系统上，本作取消了传统的回合制，改为“Damage Gauge”体力槽连续制，配合链式连段、空中防御与“暗黑之力”，节奏快得令人窒息。高手对局时攻防转换如闪电，被誉为CPS2基板上最具速度感的格斗游戏。\n\n它在国内也许不及街霸知名，但喜欢像素动画的玩家一定要看一眼：每一帧都是Capcom美术团队的炫技。",
+    "highlights": [
+      "哥特怪奇风格的18名角色",
+      "取消回合制的连续体力槽系统",
+      "极其流畅夸张的像素动画",
+      "Gamest大赏1997年度冠军"
+    ],
+    "reviews": [
+      {
+        "source": "Gamest大赏（1997年度）",
+        "score": "大赏第1名",
+        "quote": "年度大赏与最佳对战格斗游戏双料冠军"
+      },
+      {
+        "source": "GameSpot（PS版）",
+        "score": "7.9/10",
+        "quote": "Capcom多年来最好的格斗游戏之一，动画与配乐出色"
+      },
+      {
+        "source": "Next Generation（街机版）",
+        "score": "3/5",
+        "quote": "有趣但与前作差别不大"
+      }
+    ],
+    "editorScore": 9.1,
+    "styleMatch": 0,
+    "styleNote": "横版对战格斗，非俯视角RPG",
+    "screenshots": [
+      "images/arcade/arcade-vampire-savior-s1.webp",
+      "images/arcade/arcade-vampire-savior-s2.webp",
+      "images/arcade/arcade-vampire-savior-s3.webp",
+      "images/arcade/arcade-vampire-savior-s4.webp",
+      "images/arcade/arcade-vampire-savior-s5.webp",
+      "images/arcade/arcade-vampire-savior-s6.webp",
+      "images/arcade/arcade-vampire-savior-title.webp"
+    ],
+    "cover": "images/arcade/arcade-vampire-savior-box.webp",
+    "is2D": true
+  },
+  {
+    "id": "arcade-rainbow-islands",
+    "title": "Rainbow Islands",
+    "titleZh": "彩虹岛",
+    "titleJa": "レインボーアイランド",
+    "year": 1987,
+    "developer": "Taito",
+    "publisher": "Taito",
+    "genre": "平台跳跃",
+    "tags": [
+      "像素",
+      "彩虹",
+      "泡泡龙续作",
+      "Taito"
+    ],
+    "players": "1-2",
+    "tagline": "以彩虹为剑也为桥，向上攀登吧",
+    "description": "《泡泡龙》的续作，主角巴布和鲍布恢复了人类模样。1987年的《彩虹岛》把武器换成了彩虹：射出的彩虹既能把敌人击飞，又能当作桥梁踩上去，再一脚把它踩碎砸向下方的敌人。整个游戏是一路向上攀爬的纵向关卡，背后还有不断上涨的海水催促你别偷懒。\n\n每座岛都有不同主题——昆虫岛、战斗岛、怪兽岛、玩具岛……每一关都塞满了奇思妙想的敌人和隐藏道具。收集七色大钻石能开启隐藏的岛屿与真结局，鞋子、药水、星星等道具让火力不断强化，越玩越有门道。\n\n明亮梦幻的配色、欢快的音乐，再加上“彩虹”这个令人一见难忘的核心创意，让它在欧洲电脑平台上也红极一时。今天来看，依旧是清新可爱又耐嚼的平台动作佳作。",
+    "highlights": [
+      "彩虹既是武器又是踏板的天才设计",
+      "纵向攀爬与上涨水位的紧迫感",
+      "收集七色钻石开启隐藏岛屿",
+      "明亮梦幻的Taito像素美术"
+    ],
+    "reviews": [
+      {
+        "source": "Zzap!64（C64移植版）",
+        "score": "96%",
+        "quote": "金奖级平台游戏，创意与耐玩度兼备"
+      },
+      {
+        "source": "Mean Machines（MD移植版）",
+        "score": "92%",
+        "quote": "可爱外表下藏着深度十足的玩法"
+      },
+      {
+        "source": "Sega Saturn Magazine（SS移植版）",
+        "score": "92%",
+        "quote": "原汁原味的街机经典，乐趣不减当年"
+      }
+    ],
+    "editorScore": 9.1,
+    "is2D": true,
+    "screenshots": [
+      "images/arcade/arcade-rainbow-islands-s1.webp",
+      "images/arcade/arcade-rainbow-islands-s2.webp",
+      "images/arcade/arcade-rainbow-islands-s3.webp",
+      "images/arcade/arcade-rainbow-islands-m4.webp",
+      "images/arcade/arcade-rainbow-islands-m5.webp",
+      "images/arcade/arcade-rainbow-islands-title.webp"
+    ],
+    "cover": "images/arcade/arcade-rainbow-islands-box.webp",
+    "styleMatch": 1,
+    "styleNote": "纵向平台动作，同为可爱像素风"
+  },
+  {
+    "id": "arcade-r-type",
+    "title": "R-Type",
+    "titleZh": "异形战机",
+    "titleJa": "アールタイプ",
+    "year": 1987,
+    "developer": "Irem",
+    "publisher": "Irem",
+    "genre": "射击",
+    "tags": [
+      "横版射击",
+      "生物机械",
+      "高难度",
+      "Irem"
+    ],
+    "players": "1",
+    "tagline": "一颗力场炮台，改写了横版射击",
+    "description": "1987年，Irem用《异形战机》给横版射击带来一场地震。玩家驾驶R-9战机迎战异次元生命体“拜多帝国”，最大的发明是那颗名为“Force”的橙色力场装置：它能吸附在机头或机尾，也能射出去独立作战，还能挡下敌弹——攻守进退全凭你怎么用它。\n\n按住射击键可以蓄力发射“波动炮”，一炮贯穿成排敌人，节奏感极强。关卡更是不按常理出牌：第三关整个关卡就是一艘巨型战舰，你要沿着它的装甲一路拆解；首关头目多布凯拉托普斯那种血肉与机械交缠的造型，明显受到吉格尔《异形》美术的影响，诡异又迷人。\n\n它需要背板、需要冷静，每一次推进都是解谜。对横版射击爱好者来说，这是必须朝圣的源头之作。",
+    "highlights": [
+      "可分离、可防御的“Force”装置",
+      "蓄力波动炮的节奏快感",
+      "整关都是巨型战舰的震撼设计",
+      "生物机械风格的异色美术"
+    ],
+    "reviews": [
+      {
+        "source": "Commodore User（街机版）",
+        "score": "9/10",
+        "quote": "设计精巧、画面震撼的射击杰作"
+      },
+      {
+        "source": "AllGame（街机版）",
+        "score": "4/5",
+        "quote": "横版射击的里程碑，Force系统影响深远"
+      },
+      {
+        "source": "CVG（PC Engine移植版）",
+        "score": "92%",
+        "quote": "近乎完美的移植，难度与乐趣并存"
+      }
+    ],
+    "editorScore": 9.1,
+    "is2D": true,
+    "screenshots": [
+      "images/arcade/arcade-r-type-s1.webp",
+      "images/arcade/arcade-r-type-s2.webp",
+      "images/arcade/arcade-r-type-s3.webp",
+      "images/arcade/arcade-r-type-s4.webp",
+      "images/arcade/arcade-r-type-s5.webp",
+      "images/arcade/arcade-r-type-s6.webp",
+      "images/arcade/arcade-r-type-title.webp"
+    ],
+    "cover": "images/arcade/arcade-r-type-box.webp",
+    "styleMatch": 0,
+    "styleNote": "横版射击，类型完全不同"
+  },
+  {
+    "id": "arcade-street-fighter-alpha-3",
+    "title": "Street Fighter Alpha 3",
+    "titleZh": "街头霸王ZERO3",
+    "titleJa": "ストリートファイターZERO3",
+    "year": 1998,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genre": "格斗",
+    "tags": [
+      "像素",
+      "CPS2",
+      "对战格斗",
+      "ISM系统"
+    ],
+    "players": "1-2",
+    "tagline": "角色最多的2D街霸，三种ISM任你选",
+    "description": "《街头霸王ZERO3》是CPS2时代街霸系列的压轴之作。28名角色齐聚一堂，从ZERO系列老面孔到初代街霸II的本田、布兰卡，再到新角色神月卡琳、R·美加、科迪，阵容之豪华在当年无出其右。\n\n本作最大的创新是“ISM”系统：X-ISM还原街霸II式的单段超必杀，A-ISM保留ZERO系列的三段能量槽，V-ISM则可以发动华丽的“原创连段”。同一角色选择不同ISM，打法完全不同，配合空中防御和防御崩坏系统，策略深度大增。\n\n在国内街机厅，ZERO3是九十年代末格斗区的常客，鲜艳明快的画面和爽快的连段让它成为无数人心中“最好看的街霸”。",
+    "highlights": [
+      "28名角色的豪华阵容",
+      "X/A/V三种ISM系统",
+      "V-ISM原创连段的爽快感",
+      "Gamest大赏1998年度第3名"
+    ],
+    "reviews": [
+      {
+        "source": "Gamest大赏（1998年度）",
+        "score": "大赏第3名",
+        "quote": "角色与系统都极其丰富，玩家人气排名第2"
+      },
+      {
+        "source": "Fami通（PS版）",
+        "score": "32/40",
+        "quote": "移植度出色，追加模式内容充实"
+      },
+      {
+        "source": "IGN（DC版）",
+        "score": "9.5/10",
+        "quote": "2D格斗的最佳之作之一"
+      }
+    ],
+    "editorScore": 9.0,
+    "styleMatch": 0,
+    "styleNote": "横版对战格斗，非俯视角RPG",
+    "screenshots": [
+      "images/arcade/arcade-street-fighter-alpha-3-s1.webp",
+      "images/arcade/arcade-street-fighter-alpha-3-s2.webp",
+      "images/arcade/arcade-street-fighter-alpha-3-s3.webp",
+      "images/arcade/arcade-street-fighter-alpha-3-s4.webp",
+      "images/arcade/arcade-street-fighter-alpha-3-s5.webp",
+      "images/arcade/arcade-street-fighter-alpha-3-s6.webp",
+      "images/arcade/arcade-street-fighter-alpha-3-title.webp"
+    ],
+    "cover": "images/arcade/arcade-street-fighter-alpha-3-box.webp",
+    "is2D": true
+  },
+  {
+    "id": "arcade-cadillacs-and-dinosaurs",
+    "title": "Cadillacs and Dinosaurs",
+    "titleZh": "恐龙快打",
+    "titleJa": "キャディラックス 恐竜新世紀",
+    "year": 1993,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genre": "动作清版",
+    "tags": [
+      "像素",
+      "CPS1",
+      "三人合作",
+      "枪械"
+    ],
+    "players": "1-3",
+    "tagline": "开凯迪拉克打恐龙，国内街机厅的头号明星",
+    "description": "在中国的街机厅里，《恐龙快打》的地位几乎无可撼动。改编自美国漫画《Xenozoic Tales》，杰克、汉娜、穆斯塔法、麦斯四位主角在恐龙与人类共存的世界里对抗偷猎者集团——穆斯塔法的飞踢、麦斯的抱摔，一招一式都刻在一代人的肌肉记忆里。\n\n本作最大的乐趣在于枪械：乌兹冲锋枪、来复枪、火箭筒，捡起来便是一阵扫射，子弹打光还能把枪当钝器砸。开着凯迪拉克撞飞敌人的驾驶关卡、会突然暴走的恐龙，更是让人笑着拍机台的名场面。\n\n火爆的打击感加上恰到好处的难度，让它成为全民级的清版名作。至今提起“街机”，很多人脑海里第一个浮现的就是那辆绿色的凯迪拉克。",
+    "highlights": [
+      "乌兹、来复枪、火箭筒等丰富枪械",
+      "开凯迪拉克冲撞的驾驶关卡",
+      "四名风格鲜明的角色",
+      "国内街机厅最具代表性的清版游戏之一"
+    ],
+    "reviews": [
+      {
+        "source": "CVG（街机版）",
+        "score": "89/100",
+        "quote": "火爆的清版动作，枪械系统增色不少"
+      },
+      {
+        "source": "Gamest大赏（1993年度）",
+        "score": "最佳动作游戏第10名",
+        "quote": "入选年度最佳动作游戏榜单"
+      }
+    ],
+    "editorScore": 9.0,
+    "styleMatch": 1,
+    "styleNote": "横版清版动作，同时代像素画风",
+    "screenshots": [
+      "images/arcade/arcade-cadillacs-and-dinosaurs-s1.webp",
+      "images/arcade/arcade-cadillacs-and-dinosaurs-s2.webp",
+      "images/arcade/arcade-cadillacs-and-dinosaurs-s3.webp",
+      "images/arcade/arcade-cadillacs-and-dinosaurs-s4.webp",
+      "images/arcade/arcade-cadillacs-and-dinosaurs-s5.webp",
+      "images/arcade/arcade-cadillacs-and-dinosaurs-title.webp"
+    ],
+    "cover": "images/arcade/arcade-cadillacs-and-dinosaurs-box.webp",
+    "is2D": true
+  },
+  {
+    "id": "arcade-alien-vs-predator",
+    "title": "Alien vs. Predator",
+    "titleZh": "异形大战铁血战士",
+    "titleJa": "エイリアンVSプレデター",
+    "year": 1994,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genre": "动作清版",
+    "tags": [
+      "像素",
+      "CPS2",
+      "三人合作",
+      "科幻"
+    ],
+    "players": "1-3",
+    "tagline": "铁血战士联手人类，CPS2清版最强打击感",
+    "description": "国内玩家更习惯叫它“异形战场”。两名铁血战士与两名人类士兵——林恩·黑泽中尉和改造人“荷兰人”舒尔茨——组成小队，在被异形占领的城市里展开清剿。CPS2基板的强大机能让异形的爬行、扑咬和酸液喷溅都栩栩如生。\n\n本作的格斗系统在清版游戏中堪称顶级：冲刺攻击、拦截、追击、拿枪射击一应俱全，搓招能打出各式必杀，连段节奏紧凑爽快。成群的异形从四面八方涌来，三人合作时火力全开的场面极具震撼力。\n\n可惜因版权原因，本作从未被移植到家用机，至今只能在街机上体验——也正因如此，它成了许多玩家心中“最想重制”的清版神作。",
+    "highlights": [
+      "两名铁血战士与两名人类可选",
+      "搓招连段的深度格斗系统",
+      "异形群涌的紧张战斗",
+      "从未正式移植的街机限定名作"
+    ],
+    "reviews": [
+      {
+        "source": "GamePro（街机版）",
+        "score": "5/5",
+        "quote": "画面、音效、操作、乐趣四项全满分"
+      }
+    ],
+    "editorScore": 9.0,
+    "styleMatch": 1,
+    "styleNote": "横版清版动作，同时代像素画风",
+    "screenshots": [
+      "images/arcade/arcade-alien-vs-predator-s1.webp",
+      "images/arcade/arcade-alien-vs-predator-s2.webp",
+      "images/arcade/arcade-alien-vs-predator-s3.webp",
+      "images/arcade/arcade-alien-vs-predator-s4.webp",
+      "images/arcade/arcade-alien-vs-predator-s5.webp",
+      "images/arcade/arcade-alien-vs-predator-s6.webp",
+      "images/arcade/arcade-alien-vs-predator-title.webp"
+    ],
+    "cover": "images/arcade/arcade-alien-vs-predator-box.webp",
+    "is2D": true
+  },
+  {
+    "id": "arcade-tmnt-turtles-in-time",
+    "title": "Teenage Mutant Ninja Turtles: Turtles in Time",
+    "titleZh": "忍者神龟：时空之旅",
+    "titleJa": "T.M.N.T. タートルズ イン タイム",
+    "year": 1991,
+    "developer": "Konami",
+    "publisher": "Konami",
+    "genre": "动作清版",
+    "tags": [
+      "像素",
+      "四人合作",
+      "动画改编",
+      "穿越时空"
+    ],
+    "players": "1-4",
+    "tagline": "四只神龟穿越时空，快乐清版代名词",
+    "description": "莱昂纳多、拉斐尔、多纳泰罗、米开朗基罗——四只神龟的街机第二作，把战场从纽约街头一路扩展到史前时代、海盗船、西部火车和未来太空。施莱德利用时空传送门把神龟们扔进历史长河，玩家得在各个时代杀出一条回家的路。\n\nKonami的四人清版向来以热闹欢乐著称，本作更是登峰造极：把脚忍者摔向屏幕、骑着悬浮滑板冲浪、巨大的克朗机器人……动画般流畅的画面配上动画主题曲，让人仿佛在玩一集真正的卡通片。\n\n上手简单、节奏明快，四个朋友一起投币就是最纯粹的快乐。后来移植到超任的版本同样大获成功，堪称神龟游戏的巅峰。",
+    "highlights": [
+      "史前、海盗、西部、未来等多个时代关卡",
+      "四人同时游玩的欢乐氛围",
+      "把敌人摔向屏幕的标志性演出",
+      "忠实还原动画风格与主题曲"
+    ],
+    "reviews": [
+      {
+        "source": "Play Meter（街机版）",
+        "score": "9/10",
+        "quote": "火爆的四人清版，运营收益表现出色"
+      },
+      {
+        "source": "Allgame（街机版）",
+        "score": "4/5",
+        "quote": "画面与玩法都比前作更上一层楼"
+      },
+      {
+        "source": "EGM（SNES版）",
+        "score": "36/40",
+        "quote": "忠实而华丽的移植，16位机最佳清版之一"
+      }
+    ],
+    "editorScore": 9.0,
+    "styleMatch": 1,
+    "styleNote": "横版清版动作，同时代像素画风",
+    "screenshots": [
+      "images/arcade/arcade-tmnt-turtles-in-time-s1.webp",
+      "images/arcade/arcade-tmnt-turtles-in-time-s2.webp",
+      "images/arcade/arcade-tmnt-turtles-in-time-s3.webp",
+      "images/arcade/arcade-tmnt-turtles-in-time-s4.webp",
+      "images/arcade/arcade-tmnt-turtles-in-time-s5.webp",
+      "images/arcade/arcade-tmnt-turtles-in-time-s6.webp",
+      "images/arcade/arcade-tmnt-turtles-in-time-title.webp"
+    ],
+    "cover": "images/arcade/arcade-tmnt-turtles-in-time-box.webp",
+    "is2D": true
+  },
+  {
+    "id": "arcade-donkey-kong",
+    "title": "Donkey Kong",
+    "titleZh": "大金刚",
+    "titleJa": "ドンキーコング",
+    "year": 1981,
+    "developer": "Nintendo R&D1",
+    "publisher": "Nintendo",
+    "genre": "平台跳跃",
+    "tags": [
+      "像素",
+      "黄金时代",
+      "马力欧初登场",
+      "宫本茂"
+    ],
+    "players": "1-2",
+    "tagline": "马力欧的起点，任天堂的起点",
+    "description": "1981年，年轻的宫本茂接手了一批卖不出去的街机，把它们改造成了一个关于大猩猩、木匠和被掳少女的故事。主角当时还叫“Jumpman”，他后来的名字叫马力欧——这就是《大金刚》，任天堂真正走向世界的第一步。\n\n四个经典场景：滚桶倾泻的钢梁、输送带工厂、上下穿梭的升降梯、拔掉铆钉让大金刚坠落的终局。跳过一个木桶得分，拿到锤子则能一路砸过去；每个场景都要读懂时机，稍一犹豫就会被火球和弹簧吞没。它也是最早用画面讲故事的游戏之一，开场大金刚扛着宝琳爬上钢梁的动画至今仍让人会心一笑。\n\n《大金刚》的高分争夺甚至拍成了纪录片。短短几个场景里，藏着平台跳跃这个类型的全部基因。",
+    "highlights": [
+      "马力欧（Jumpman）的首次登场",
+      "四个各具机关的经典场景",
+      "跳桶、抢锤的紧张节奏",
+      "最早用动画讲述故事的游戏之一"
+    ],
+    "reviews": [
+      {
+        "source": "AllGame（街机版）",
+        "score": "5/5",
+        "quote": "开创平台跳跃类型的划时代作品"
+      },
+      {
+        "source": "Electronic Games（ColecoVision移植版）",
+        "score": "9/10",
+        "quote": "家中也能体验街机神作的出色移植"
+      }
+    ],
+    "editorScore": 9.0,
+    "is2D": true,
+    "screenshots": [
+      "images/arcade/arcade-donkey-kong-s1.webp",
+      "images/arcade/arcade-donkey-kong-s2.webp",
+      "images/arcade/arcade-donkey-kong-s3.webp",
+      "images/arcade/arcade-donkey-kong-x1.webp",
+      "images/arcade/arcade-donkey-kong-x2.webp",
+      "images/arcade/arcade-donkey-kong-title.webp"
+    ],
+    "cover": "images/arcade/arcade-donkey-kong-box.webp",
+    "styleMatch": 1,
+    "styleNote": "固定画面平台跳跃，非RPG"
+  },
+  {
+    "id": "arcade-gradius",
+    "title": "Gradius",
+    "titleZh": "宇宙巡航机",
+    "titleJa": "グラディウス",
+    "year": 1985,
+    "developer": "Konami",
+    "publisher": "Konami",
+    "genre": "射击",
+    "tags": [
+      "横版射击",
+      "能量槽",
+      "摩艾",
+      "Konami"
+    ],
+    "players": "1-2",
+    "tagline": "SPEED UP！一条能量槽定义了射击",
+    "description": "1985年，科乐美的《宇宙巡航机》让“自己选择怎么变强”成为射击游戏的标准。击落红色敌机掉落胶囊，屏幕下方的能量槽随之推进：加速、导弹、双发、激光、子机、护盾……什么时候换什么，全由你决定。这套系统简洁优雅，至今仍被无数作品沿用。\n\n跟在战机身后的“子机”会同步射击，火力倍增的场面壮观无比；摩艾石像吐出圆环的关卡、火山喷发的地形、最后与巨型战舰“Big Core”的对决，都已成为游戏史上的经典画面。一旦中弹，所有强化归零，从头开始的绝望也让每一次复活都充满戏剧性。\n\nFC版、PCE版让它在中国玩家中家喻户晓，但街机原版的流畅与气势才是最正宗的。想追溯横版射击的根，就从这里出发。",
+    "highlights": [
+      "自由选择强化的能量槽系统",
+      "跟随射击的子机“Option”",
+      "摩艾石像、Big Core等经典敌人",
+      "影响深远的横版射击原点"
+    ],
+    "reviews": [
+      {
+        "source": "AllGame（街机版）",
+        "score": "4.5/5",
+        "quote": "开创性的强化系统，横版射击的奠基之作"
+      },
+      {
+        "source": "CVG（家用电脑移植版）",
+        "score": "37/40",
+        "quote": "出色的移植，原作魅力几乎完整保留"
+      },
+      {
+        "source": "Sinclair User（ZX Spectrum移植版）",
+        "score": "5/5",
+        "quote": "经典级别的射击游戏"
+      }
+    ],
+    "editorScore": 9.0,
+    "is2D": true,
+    "screenshots": [
+      "images/arcade/arcade-gradius-s1.webp",
+      "images/arcade/arcade-gradius-s2.webp",
+      "images/arcade/arcade-gradius-s3.webp",
+      "images/arcade/arcade-gradius-s4.webp",
+      "images/arcade/arcade-gradius-x1.webp",
+      "images/arcade/arcade-gradius-x2.webp",
+      "images/arcade/arcade-gradius-title.webp"
+    ],
+    "cover": "",
+    "styleMatch": 0,
+    "styleNote": "横版射击，类型完全不同"
+  },
+  {
+    "id": "arcade-mushihimesama",
+    "title": "Mushihimesama",
+    "titleZh": "虫姬",
+    "titleJa": "虫姫さま",
+    "year": 2004,
+    "developer": "Cave",
+    "publisher": "AMI",
+    "genre": "射击",
+    "tags": [
+      "弹幕",
+      "纵版射击",
+      "甲虫",
+      "Cave"
+    ],
+    "players": "1-2",
+    "tagline": "骑着金色甲虫，在紫色弹雨中起舞",
+    "description": "2004年，Cave把舞台从机械战争搬到了一片神秘的森林。少女蕾珂骑着金色的独角仙“金色”，深入甲兽横行的“神树之森”寻找传说中的神明。茂密的森林、腐朽的巨木、沙漠中的巨型甲虫——《虫姬》用细腻的2D美术描绘出一个充满生命感的奇幻世界。\n\n游戏有三种模式：“Original”适合入门，弹幕相对温和；“Maniac”强调连锁与高分；而“Ultra”模式则是出了名的地狱，铺天盖地的紫色子弹几乎填满整个屏幕，被玩家称为“最美也最不讲理的弹幕”。不同模式的设计让新手和高手都能找到自己的乐趣。\n\n优美的配乐、梦幻的画风，以及Cave一贯精准的弹幕设计，让它成为2000年代最具代表性的街机射击之一。如今家用移植版本俯拾皆是，入坑门槛很低。",
+    "highlights": [
+      "森林与甲虫构成的独特奇幻美术",
+      "Original/Maniac/Ultra三档难度设计",
+      "Ultra模式的传奇级弹幕",
+      "细腻优美的配乐"
+    ],
+    "reviews": [
+      {
+        "source": "Metacritic（PC移植版）",
+        "score": "86/100",
+        "quote": "普遍好评，弹幕射击的经典之作"
+      },
+      {
+        "source": "Destructoid（PC移植版）",
+        "score": "9/10",
+        "quote": "射击迷的必修课，适合任何难度水平"
+      },
+      {
+        "source": "Fami通（Xbox 360移植版）",
+        "score": "31/40",
+        "quote": "画面精美，弹幕设计扎实"
+      }
+    ],
+    "editorScore": 9.0,
+    "is2D": true,
+    "screenshots": [
+      "images/arcade/arcade-mushihimesama-s1.webp",
+      "images/arcade/arcade-mushihimesama-s2.webp",
+      "images/arcade/arcade-mushihimesama-s3.webp",
+      "images/arcade/arcade-mushihimesama-x1.webp",
+      "images/arcade/arcade-mushihimesama-x2.webp",
+      "images/arcade/arcade-mushihimesama-x3.webp",
+      "images/arcade/arcade-mushihimesama-title.webp"
+    ],
+    "cover": "images/arcade/arcade-mushihimesama-box.webp",
+    "styleMatch": 0,
+    "styleNote": "纵版弹幕射击，类型完全不同"
+  },
+  {
+    "id": "arcade-dnd-tower-of-doom",
+    "title": "Dungeons & Dragons: Tower of Doom",
+    "titleZh": "龙与地下城：毁灭之塔",
+    "titleJa": "ダンジョンズ&ドラゴンズ タワーオブドゥーム",
+    "year": 1994,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genre": "动作清版",
+    "tags": [
+      "像素",
+      "CPS2",
+      "RPG要素",
+      "分支路线"
+    ],
+    "players": "1-4",
+    "tagline": "能投币的跑团，分支路线与宝藏满载",
+    "description": "Capcom与TSR合作的第一款《龙与地下城》街机游戏，把桌面角色扮演的精髓搬进了清版动作。战士、牧师、精灵、矮人四种职业，各有武器与魔法，击败敌人获得经验值升级，攒下的金币可以在商店购买道具。\n\n本作最迷人的地方在于自由度：地图上有多条分支路线可选，不同路线会遇到不同敌人与头目，隐藏宝物和秘密房间更是数不胜数。打倒最终BOSS后你会发现，真正的幕后黑手另有其人——这种剧情体验在当年的街机上极为罕见。\n\n它为两年后的《秘影》打下了基础。若你喜欢RPG又怀念街机清版，这就是两者最好的交汇点。",
+    "highlights": [
+      "四种职业与魔法、道具系统",
+      "可自由选择的分支路线",
+      "经验值升级与商店购物",
+      "Gamest大赏1994年度特别奖"
+    ],
+    "reviews": [
+      {
+        "source": "Gamest大赏（1994年度）",
+        "score": "特别奖",
+        "quote": "将桌面RPG融入清版动作的尝试获得认可"
+      }
+    ],
+    "editorScore": 8.9,
+    "styleMatch": 2,
+    "styleNote": "横版清版但有分支地图、商店与升级",
+    "screenshots": [
+      "images/arcade/arcade-dnd-tower-of-doom-s1.webp",
+      "images/arcade/arcade-dnd-tower-of-doom-s2.webp",
+      "images/arcade/arcade-dnd-tower-of-doom-s3.webp",
+      "images/arcade/arcade-dnd-tower-of-doom-s4.webp",
+      "images/arcade/arcade-dnd-tower-of-doom-s5.webp",
+      "images/arcade/arcade-dnd-tower-of-doom-s6.webp",
+      "images/arcade/arcade-dnd-tower-of-doom-title.webp"
+    ],
+    "cover": "images/arcade/arcade-dnd-tower-of-doom-box.webp",
+    "is2D": true
+  },
+  {
+    "id": "arcade-warriors-of-fate",
+    "title": "Warriors of Fate",
+    "titleZh": "三国志II 赤壁之战",
+    "titleJa": "天地を喰らうII 赤壁の戦い",
+    "year": 1992,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genre": "动作清版",
+    "tags": [
+      "像素",
+      "CPS1",
+      "三国",
+      "三人合作"
+    ],
+    "players": "1-3",
+    "tagline": "关张赵黄魏，骑马砍翻曹军",
+    "description": "国内玩家口中的“三国志”或“吞食天地2”，改编自本宫宏志的漫画《吞食天地》。关羽、张飞、赵云、黄忠、魏延五员猛将任选其一，从樊城一路杀到赤壁，与曹操麾下许褚、夏侯惇、张辽等名将正面交锋。\n\n本作的爽快感来自出色的打击手感与“骑马”系统：抢到战马后可在马背上横冲直撞，连斩数敌。各武将的必杀技、抓投与连续技各具特色，张飞的“摔人”和赵云的快刀令人百玩不厌。关底还会出现吃肉包、喝酒恢复体力的设定，充满中国风情。\n\n对中国玩家而言，用三国英雄痛打曹军的代入感无可替代。它是街机厅里排队最长的机台之一，也是三国题材动作游戏的鼻祖级名作。",
+    "highlights": [
+      "五名蜀汉猛将可选",
+      "骑马作战的爽快系统",
+      "许褚、夏侯惇等三国名将头目战",
+      "Gamest大赏1993年度最佳动作第2名"
+    ],
+    "reviews": [
+      {
+        "source": "Gamest大赏（1993年度）",
+        "score": "大赏第10名",
+        "quote": "最佳动作游戏第2名、玩家人气第3名，并获特别奖"
+      },
+      {
+        "source": "Fami通（PS版）",
+        "score": "24/40",
+        "quote": "街机原味移植，爽快感依旧"
+      }
+    ],
+    "editorScore": 8.9,
+    "styleMatch": 1,
+    "styleNote": "横版清版动作，同时代像素画风",
+    "screenshots": [
+      "images/arcade/arcade-warriors-of-fate-s1.webp",
+      "images/arcade/arcade-warriors-of-fate-s2.webp",
+      "images/arcade/arcade-warriors-of-fate-s3.webp",
+      "images/arcade/arcade-warriors-of-fate-s4.webp",
+      "images/arcade/arcade-warriors-of-fate-s5.webp",
+      "images/arcade/arcade-warriors-of-fate-s6.webp",
+      "images/arcade/arcade-warriors-of-fate-title.webp"
+    ],
+    "cover": "images/arcade/arcade-warriors-of-fate-box.webp",
+    "is2D": true
+  },
+  {
+    "id": "arcade-raiden",
+    "title": "Raiden",
+    "titleZh": "雷电",
+    "titleJa": "雷電",
+    "year": 1990,
+    "developer": "Seibu Kaihatsu",
+    "publisher": "Tecmo / Fabtek",
+    "genre": "射击",
+    "tags": [
+      "纵版射击",
+      "双打",
+      "街机厅经典",
+      "Seibu"
+    ],
+    "players": "1-2",
+    "tagline": "红弹扇形、蓝光贯穿，街机厅的标配",
+    "description": "说起九十年代中国街机厅里的纵版射击，《雷电》几乎是每个人的第一反应。1990年，Seibu开发的这款作品以“铁板一块”的硬派风格俘获了无数玩家：红色火神炮呈扇形扩散，蓝色激光一线贯穿，再搭配追踪导弹或核弹导弹，火力组合简单直接又各有用处。\n\n本作节奏紧张、敌弹快而准，坦克会从地面突然开火，战舰甲板上的炮台层层叠叠，稍有大意就会被一发流弹击落。被击坠时散落一地的升级道具、草丛里藏着的勋章与小仙子，都是老玩家口耳相传的秘籍。双人同时游玩、你掩护我捡道具的默契，更是街机厅最美好的回忆之一。\n\n它没有花哨的弹幕，只有扎扎实实的闪避与击破。时至今日，“雷电”二字仍是纵版射击的代名词。",
+    "highlights": [
+      "红色扩散弹与蓝色激光的经典武器体系",
+      "双人同时游玩的合作乐趣",
+      "隐藏勋章与小仙子等秘密要素",
+      "硬派紧凑的关卡节奏"
+    ],
+    "reviews": [
+      {
+        "source": "IGN（Atari Lynx移植版）",
+        "score": "7.0/10",
+        "quote": "雄心勃勃地还原街机体验，略逊原版"
+      },
+      {
+        "source": "AllGame（TG16移植版）",
+        "score": "3.5/5",
+        "quote": "扎实的纵版射击，节奏紧凑"
+      }
+    ],
+    "editorScore": 8.9,
+    "is2D": true,
+    "screenshots": [
+      "images/arcade/arcade-raiden-s1.webp",
+      "images/arcade/arcade-raiden-s2.webp",
+      "images/arcade/arcade-raiden-s3.webp",
+      "images/arcade/arcade-raiden-s4.png",
+      "images/arcade/arcade-raiden-s5.webp",
+      "images/arcade/arcade-raiden-s6.webp",
+      "images/arcade/arcade-raiden-title.webp"
+    ],
+    "cover": "images/arcade/arcade-raiden-box.webp",
+    "styleMatch": 0,
+    "styleNote": "纵版射击，类型完全不同"
+  },
+  {
+    "id": "arcade-galaga",
+    "title": "Galaga",
+    "titleZh": "大蜜蜂",
+    "titleJa": "ギャラガ",
+    "year": 1981,
+    "developer": "Namco",
+    "publisher": "Namco / Midway",
+    "genre": "射击",
+    "tags": [
+      "固定画面射击",
+      "黄金时代",
+      "双机合体",
+      "Namco"
+    ],
+    "players": "1-2",
+    "tagline": "故意被抓走，再救回来变双机",
+    "description": "1981年，南梦宫为《小蜜蜂（Galaxian）》推出了续作《大蜜蜂（Galaga）》。外星虫群不再只是排队下落，它们会以优美的编队飞入画面、俯冲盘旋，而头目“Boss Galaga”还会放出牵引光束把你的战机抓走。\n\n这正是本作最妙的地方：故意让自己被抓，再用下一架飞机击落那只头目，被俘的战机就会回来与你合体成双机，火力翻倍——当然，目标也变大了一倍。每隔几关还有不会攻击你的“挑战关”，敌机以花式轨迹飞过，全部击落可得高额奖励，堪称当年最讨喜的设计之一。\n\n上手只需三秒，钻研起来却永无止境。它在世界各地的游戏厅、酒吧、电影院里都能见到，是固定画面射击的最高峰。",
+    "highlights": [
+      "被俘再营救的双机合体系统",
+      "华丽的敌机编队与俯冲",
+      "高额奖励的“挑战关”",
+      "固定画面射击的巅峰之作"
+    ],
+    "reviews": [
+      {
+        "source": "AllGame（街机版）",
+        "score": "5/5",
+        "quote": "固定画面射击的最高峰，至今依然好玩"
+      },
+      {
+        "source": "IGN（Wii Virtual Console版）",
+        "score": "7.5/10",
+        "quote": "经典的射击体验，值得一玩"
+      }
+    ],
+    "editorScore": 8.9,
+    "is2D": true,
+    "screenshots": [
+      "images/arcade/arcade-galaga-s1.webp",
+      "images/arcade/arcade-galaga-s2.webp",
+      "images/arcade/arcade-galaga-s3.webp",
+      "images/arcade/arcade-galaga-s4.webp",
+      "images/arcade/arcade-galaga-s5.webp",
+      "images/arcade/arcade-galaga-s6.webp",
+      "images/arcade/arcade-galaga-title.webp"
+    ],
+    "cover": "images/arcade/arcade-galaga-box.webp",
+    "styleMatch": 0,
+    "styleNote": "固定画面射击，类型不同"
+  },
+  {
+    "id": "arcade-captain-commando",
+    "title": "Captain Commando",
+    "titleZh": "名将",
+    "titleJa": "キャプテンコマンドー",
+    "year": 1991,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genre": "动作清版",
+    "tags": [
+      "像素",
+      "CPS1",
+      "四人合作",
+      "机甲"
+    ],
+    "players": "1-4",
+    "tagline": "木乃伊、忍者、婴儿机甲，最怪的四人组",
+    "description": "Capcom的“企业吉祥物”队长、木乃伊外星人吉尼特、忍者翔和坐在机甲里的天才婴儿胡佛——《名将》的四名主角大概是清版史上最古怪的组合。国内玩家习惯叫它“名将”，这个名字一叫就是三十年。\n\n本作支持四人同时游玩，角色可以抢夺敌人的机甲驾驶，冲刺、跳跃攻击变化丰富。未来都市的场景设计五光十色，从博物馆的恐龙骨架到空中飞船，每关都有新鲜感。\n\n欢乐的气氛、易上手的操作，加上满屏的爆炸特效，让《名将》成为九十年代初街机厅的人气王。它也是Capcom首批支持四人同玩的清版游戏之一。",
+    "highlights": [
+      "四名风格迥异的角色",
+      "可抢夺驾驶的敌方机甲",
+      "色彩缤纷的未来都市场景",
+      "Gamest大赏1992年度第7名"
+    ],
+    "reviews": [
+      {
+        "source": "Gamest大赏（1992年度）",
+        "score": "大赏第7名",
+        "quote": "最佳动作第3名、年度热门游戏第3名"
+      },
+      {
+        "source": "Zero（街机版）",
+        "score": "2.5/5",
+        "quote": "画面热闹，但玩法略显套路"
+      }
+    ],
+    "editorScore": 8.8,
+    "styleMatch": 1,
+    "styleNote": "横版清版动作，同时代像素画风",
+    "screenshots": [
+      "images/arcade/arcade-captain-commando-s1.webp",
+      "images/arcade/arcade-captain-commando-s2.webp",
+      "images/arcade/arcade-captain-commando-s3.webp",
+      "images/arcade/arcade-captain-commando-s4.webp",
+      "images/arcade/arcade-captain-commando-s5.webp",
+      "images/arcade/arcade-captain-commando-s6.webp",
+      "images/arcade/arcade-captain-commando-title.webp"
+    ],
+    "cover": "images/arcade/arcade-captain-commando-box.webp",
+    "is2D": true
+  },
+  {
+    "id": "arcade-marvel-vs-capcom",
+    "title": "Marvel vs. Capcom: Clash of Super Heroes",
+    "titleZh": "漫画英雄VS卡普空",
+    "titleJa": "マーヴル VS. カプコン クラッシュ オブ スーパーヒーローズ",
+    "year": 1998,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genre": "格斗",
+    "tags": [
+      "像素",
+      "CPS2",
+      "2对2",
+      "超级英雄"
+    ],
+    "players": "1-2",
+    "tagline": "蜘蛛侠对战洛克人，梦幻乱斗大狂欢",
+    "description": "当金刚狼、蜘蛛侠、浩克与隆、春丽、洛克人站上同一个舞台，会发生什么？《漫画英雄VS卡普空》给出的答案是：满屏的光束、几十段的空中连击和震耳欲聋的超必杀。\n\n本作采用2对2组队制，可随时切换角色，还能召唤“特别伙伴”助阵——从雷神索尔、冰人到神秘的Unknown Soldier，种类五花八门。双人合体超必杀“Duo Team Attack”发动时，整个画面都被光芒填满。\n\n它不追求严谨的平衡，而是追求“爽”。在九十年代末的街机厅里，这台机器前总是围满了看热闹的人。想体验CPS2格斗的极致华丽，这一作不容错过。",
+    "highlights": [
+      "漫威与卡普空英雄同台乱斗",
+      "2对2组队与随时换人系统",
+      "召唤特别伙伴的助阵系统",
+      "满屏光效的双人合体超必杀"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通（DC版）",
+        "score": "33/40",
+        "quote": "移植精准，热闹华丽的狂欢格斗"
+      },
+      {
+        "source": "GameSpot（DC版）",
+        "score": "9/10",
+        "quote": "街机级别的完美移植，爽快至极"
+      },
+      {
+        "source": "IGN（DC版）",
+        "score": "8.8/10",
+        "quote": "2D格斗中最具娱乐性的作品之一"
+      }
+    ],
+    "editorScore": 8.8,
+    "styleMatch": 0,
+    "styleNote": "横版对战格斗，非俯视角RPG",
+    "screenshots": [
+      "images/arcade/arcade-marvel-vs-capcom-s1.webp",
+      "images/arcade/arcade-marvel-vs-capcom-s2.webp",
+      "images/arcade/arcade-marvel-vs-capcom-s3.webp",
+      "images/arcade/arcade-marvel-vs-capcom-s4.webp",
+      "images/arcade/arcade-marvel-vs-capcom-s5.webp",
+      "images/arcade/arcade-marvel-vs-capcom-s6.webp",
+      "images/arcade/arcade-marvel-vs-capcom-title.webp"
+    ],
+    "cover": "images/arcade/arcade-marvel-vs-capcom-box.webp",
+    "is2D": true
+  },
+  {
+    "id": "arcade-space-invaders",
+    "title": "Space Invaders",
+    "titleZh": "太空侵略者",
+    "titleJa": "スペースインベーダー",
+    "year": 1978,
+    "developer": "Taito",
+    "publisher": "Taito / Midway",
+    "genre": "射击",
+    "tags": [
+      "黄金时代",
+      "固定画面射击",
+      "开山之作",
+      "Taito"
+    ],
+    "players": "1-2",
+    "tagline": "一切从这群外星人开始",
+    "description": "1978年，Taito的西角友宏独自完成了一款让整个日本陷入狂热的游戏。五十五只外星人排成方阵，左右平移、逐步下压，玩家驾驶炮台躲在碉堡后面一发一发地还击——《太空侵略者》就这样把“电子游戏”从新奇玩具变成了全民娱乐。\n\n它有个奇妙的“意外设计”：由于当时硬件性能有限，敌人越少画面跑得越快，最后一只外星人会以惊人的速度横冲直撞。这种越来越紧张的节奏后来被保留成了游戏的灵魂。碉堡会被双方子弹逐渐打穿，偶尔飞过的UFO能带来神秘分数，还衍生出“名古屋打法”等传说级技巧。坊间甚至流传它让日本一度百元硬币短缺。\n\n它是射击游戏的始祖，也是整个街机产业的起点。在复古游戏的家谱上，这是绕不开的第一页。",
+    "highlights": [
+      "射击游戏类型的开山之作",
+      "敌人越少越快的紧张节奏",
+      "可被逐渐打穿的碉堡掩体",
+      "“名古屋打法”等传奇技巧"
+    ],
+    "reviews": [
+      {
+        "source": "AllGame（街机版）",
+        "score": "5/5",
+        "quote": "开创整个产业的划时代作品"
+      },
+      {
+        "source": "Eurogamer（街机版）",
+        "score": "9/10",
+        "quote": "简单纯粹，至今仍充满张力"
+      }
+    ],
+    "editorScore": 8.8,
+    "is2D": true,
+    "screenshots": [
+      "images/arcade/arcade-space-invaders-s2.webp",
+      "images/arcade/arcade-space-invaders-s3.png",
+      "images/arcade/arcade-space-invaders-s4.webp",
+      "images/arcade/arcade-space-invaders-s5.webp",
+      "images/arcade/arcade-space-invaders-s6.webp",
+      "images/arcade/arcade-space-invaders-x1.webp"
+    ],
+    "cover": "images/arcade/arcade-space-invaders-box.webp",
+    "styleMatch": 0,
+    "styleNote": "固定画面射击，类型不同"
+  },
+  {
+    "id": "arcade-snow-bros",
+    "title": "Snow Bros.",
+    "titleZh": "雪人兄弟",
+    "titleJa": "スノーブラザーズ",
+    "year": 1990,
+    "developer": "Toaplan",
+    "publisher": "Toaplan",
+    "genre": "动作",
+    "tags": [
+      "像素",
+      "固定画面",
+      "双打",
+      "Toaplan"
+    ],
+    "players": "1-2",
+    "tagline": "把敌人滚成雪球，一路撞到底",
+    "description": "1990年，以射击闻名的东亚企划拿出了一款可爱的动作游戏——《雪人兄弟》。雪人尼克和汤姆要闯过五十层高塔救出被掳的公主。喷雪把敌人裹成雪球，再一脚踢出去，雪球会沿着平台一路翻滚，把沿途敌人全部卷走，最后撞墙炸开撒下一地奖励。\n\n《雪人兄弟》最让人上瘾的就是这种“一球清屏”的连锁快感。红色药水加速、蓝色药水加大雪量、黄色药水延长射程，绿色药水能让你变成横冲直撞的巨大雪人。每十层的头目战都设计得别出心裁，双人配合时一个人冻、一个人踢，默契十足。\n\n在九十年代的中国街机厅，它和《泡泡龙》一样是男女老少都能玩的“和平机台”。圆滚滚的造型和欢快旋律，至今看来仍然治愈。",
+    "highlights": [
+      "冻敌成雪球、一脚清屏的连锁快感",
+      "四色药水带来的各种强化",
+      "每十层一场的趣味头目战",
+      "双人合作的街机厅经典"
+    ],
+    "reviews": [
+      {
+        "source": "AllGame（FC移植版）",
+        "score": "4/5",
+        "quote": "可爱又耐玩的合作动作游戏"
+      },
+      {
+        "source": "Fami通（FC移植版）",
+        "score": "24/40",
+        "quote": "移植中规中矩，原作乐趣犹在"
+      },
+      {
+        "source": "CVG（Game Boy移植版）",
+        "score": "90%",
+        "quote": "掌机上也非常出色的移植"
+      }
+    ],
+    "editorScore": 8.8,
+    "is2D": true,
+    "screenshots": [
+      "images/arcade/arcade-snow-bros-s1.webp",
+      "images/arcade/arcade-snow-bros-s2.webp",
+      "images/arcade/arcade-snow-bros-s3.webp",
+      "images/arcade/arcade-snow-bros-s5.webp",
+      "images/arcade/arcade-snow-bros-s6.webp",
+      "images/arcade/arcade-snow-bros-title.webp"
+    ],
+    "cover": "",
+    "styleMatch": 1,
+    "styleNote": "固定画面平台动作，非RPG"
+  },
+  {
+    "id": "arcade-ghosts-n-goblins",
+    "title": "Ghosts 'n Goblins",
+    "titleZh": "魔界村",
+    "titleJa": "魔界村",
+    "year": 1985,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genre": "平台跳跃",
+    "tags": [
+      "像素",
+      "高难度",
+      "骑士",
+      "Capcom"
+    ],
+    "players": "1-2",
+    "tagline": "挨一下掉盔甲，再一下变骷髅",
+    "description": "墓地里，骑士亚瑟正与公主约会，一只红色恶魔突然从天而降把公主掳走。1985年的《魔界村》就以这样一幕开场，然后用接下来的每一分钟告诉你：这个魔界不打算对你客气。\n\n亚瑟只能承受两次攻击——第一次铠甲碎裂只剩一条短裤，第二次直接化为白骨。僵尸从地下钻出、乌鸦俯冲、红色魔鬼“阿雷玛”在空中左右飘移，还会精准地躲开你的长枪。武器有长枪、短剑、火把、斧头和十字架，捡错了武器就可能陷入绝境。最狠的是，好不容易打到最后，却被告知必须再打一遍才能见到真正结局。\n\n藤原得郎的设计苛刻又公平，每次失败都让人想再试一次。在FC版让无数中国小孩摔手柄之前，街机原版早已是游戏厅里的“劝退神作”。",
+    "highlights": [
+      "两击即死的残酷铠甲系统",
+      "神出鬼没的红色恶魔阿雷玛",
+      "五种武器各有利弊",
+      "必须二周目才能见到的真结局"
+    ],
+    "reviews": [
+      {
+        "source": "Zzap!64（C64移植版）",
+        "score": "97%",
+        "quote": "金奖级别的移植，难度与乐趣并存"
+      },
+      {
+        "source": "Crash（ZX Spectrum移植版）",
+        "score": "95%",
+        "quote": "画面出色、极其上瘾的街机移植"
+      },
+      {
+        "source": "AllGame（街机版）",
+        "score": "2.5/5",
+        "quote": "难度过于苛刻，但造型与氛围令人难忘"
+      }
+    ],
+    "editorScore": 8.8,
+    "is2D": true,
+    "screenshots": [
+      "images/arcade/arcade-ghosts-n-goblins-s1.webp",
+      "images/arcade/arcade-ghosts-n-goblins-s2.webp",
+      "images/arcade/arcade-ghosts-n-goblins-s3.webp",
+      "images/arcade/arcade-ghosts-n-goblins-s4.webp",
+      "images/arcade/arcade-ghosts-n-goblins-x1.webp",
+      "images/arcade/arcade-ghosts-n-goblins-x2.webp",
+      "images/arcade/arcade-ghosts-n-goblins-title.webp"
+    ],
+    "cover": "images/arcade/arcade-ghosts-n-goblins-box.webp",
+    "styleMatch": 1,
+    "styleNote": "横版平台动作，同为2D像素风"
+  },
+  {
+    "id": "arcade-the-punisher",
+    "title": "The Punisher",
+    "titleZh": "惩罚者",
+    "titleJa": "ザ・パニッシャー",
+    "year": 1993,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genre": "动作清版",
+    "tags": [
+      "像素",
+      "CPS1",
+      "漫威改编",
+      "双人合作"
+    ],
+    "players": "1-2",
+    "tagline": "弗兰克与神盾局长，以暴制暴的复仇之路",
+    "description": "漫威硬汉“惩罚者”弗兰克·卡斯特与神盾局局长尼克·弗瑞联手，誓要铲除金并（Kingpin）的犯罪帝国。与其他清版游戏相比，《惩罚者》更加硬派：敌人会掏枪射击，主角在危急时刻也会拔出手枪还击，暴力美学的氛围十足。\n\n本作武器种类极其丰富，球棒、武士刀、手里剑、手榴弹，随手捡起就能用。每关末尾的头目战设计精彩，最后在摩天大楼与金并的对决更是紧张刺激。\n\n这是Capcom为数不多的漫威改编清版游戏，也是CPS1末期的力作。干净利落的打击感和漫画般的演出，让它在国内街机厅同样拥有大批拥趸。",
+    "highlights": [
+      "危急时自动拔枪的独特系统",
+      "球棒、武士刀、手里剑等丰富武器",
+      "惩罚者与尼克·弗瑞双主角",
+      "漫画分镜风格的剧情演出"
+    ],
+    "reviews": [
+      {
+        "source": "GamePower（街机版）",
+        "score": "33/40",
+        "quote": "硬派的漫威清版，武器丰富、打击扎实"
+      },
+      {
+        "source": "EGM（MD版）",
+        "score": "6/10",
+        "quote": "移植缩水明显，但仍保留了核心乐趣"
+      }
+    ],
+    "editorScore": 8.7,
+    "styleMatch": 1,
+    "styleNote": "横版清版动作，同时代像素画风",
+    "screenshots": [
+      "images/arcade/arcade-the-punisher-s1.webp",
+      "images/arcade/arcade-the-punisher-s2.webp",
+      "images/arcade/arcade-the-punisher-s3.webp",
+      "images/arcade/arcade-the-punisher-s4.webp",
+      "images/arcade/arcade-the-punisher-title.webp"
+    ],
+    "cover": "images/arcade/arcade-the-punisher-box.webp",
+    "is2D": true
+  },
+  {
+    "id": "arcade-ninja-baseball-bat-man",
+    "title": "Ninja Baseball Bat Man",
+    "titleZh": "野球格斗",
+    "titleJa": "野球格闘リーグマン",
+    "year": 1993,
+    "developer": "Irem",
+    "publisher": "Irem",
+    "genre": "动作清版",
+    "tags": [
+      "像素",
+      "四人合作",
+      "搞笑",
+      "Irem"
+    ],
+    "players": "1-4",
+    "tagline": "忍者棒球手痛扁机械棒球，脑洞清版神作",
+    "description": "四名忍者棒球选手要从邪恶组织手中夺回棒球界的圣物——这个荒诞设定只是开始。敌人是会走路的棒球、手套和球棒，头目一个比一个离谱，Irem的美术团队把所有能想到的棒球元素都变成了怪物。\n\n队长罗杰、何塞、莱诺、史特劳……每名角色招式各异，能抓投、能骑乘道具，必杀技华丽夸张。夸张卡通的动画表现与浓郁的美式漫画风格，让它在一众清版游戏中独树一帜。\n\n本作在北美仅售出数十台，却在亚洲大受欢迎，后来更凭借模拟器成为全球玩家口耳相传的“隐藏神作”。笑点满满、手感扎实，值得每一位清版爱好者体验。",
+    "highlights": [
+      "棒球主题的荒诞世界观",
+      "夸张有趣的卡通动画",
+      "四名手感迥异的角色",
+      "北美极度稀有的“隐藏神作”"
+    ],
+    "reviews": [],
+    "editorScore": 8.7,
+    "styleMatch": 1,
+    "styleNote": "横版清版动作，同时代像素画风",
+    "screenshots": [
+      "images/arcade/arcade-ninja-baseball-bat-man-s1.webp",
+      "images/arcade/arcade-ninja-baseball-bat-man-s2.webp",
+      "images/arcade/arcade-ninja-baseball-bat-man-s3.webp",
+      "images/arcade/arcade-ninja-baseball-bat-man-s4.webp",
+      "images/arcade/arcade-ninja-baseball-bat-man-s5.webp",
+      "images/arcade/arcade-ninja-baseball-bat-man-title.webp"
+    ],
+    "cover": "images/arcade/arcade-ninja-baseball-bat-man-box.webp",
+    "is2D": true
+  },
+  {
+    "id": "arcade-newzealand-story",
+    "title": "The NewZealand Story",
+    "titleZh": "新西兰物语",
+    "titleJa": "ニュージーランドストーリー",
+    "year": 1988,
+    "developer": "Taito",
+    "publisher": "Taito",
+    "genre": "平台跳跃",
+    "tags": [
+      "像素",
+      "可爱",
+      "迷宫探索",
+      "Taito"
+    ],
+    "players": "1-2",
+    "tagline": "小几维鸟踩着气球去救朋友",
+    "description": "新西兰的动物园里，一只可恶的豹斑海豹抓走了几维鸟提基的女朋友和伙伴们。1988年的《新西兰物语》让这只没有翅膀的小鸟踏上营救之旅——它不能飞，于是抢来敌人的气球、飞碟、鸭子，甚至骑着各种奇怪的载具在关卡里穿梭。\n\n与《泡泡龙》式的固定画面不同，本作的关卡是可以自由卷动的迷宫，隐藏通道、秘密传送门和弯弯绕绕的路线比比皆是。提基用弓箭射击，可以捡到激光、炸弹等强化武器；关底的笼子里关着它的伙伴，而头目战往往出人意料——比如在巨鲸肚子里作战。据说灵感来自开发者的新西兰之旅，满满的异国风情。\n\n它可爱外表下藏着不低的难度和探索深度，是Taito黄金时代最有个性的作品之一。",
+    "highlights": [
+      "抢夺气球与各种载具的移动方式",
+      "可自由卷动的迷宫式关卡",
+      "大量隐藏通道与传送门",
+      "新西兰风情的可爱美术"
+    ],
+    "reviews": [
+      {
+        "source": "Your Sinclair（ZX Spectrum移植版）",
+        "score": "93%",
+        "quote": "可爱且极具挑战性的平台佳作"
+      },
+      {
+        "source": "MegaTech（MD移植版）",
+        "score": "89%",
+        "quote": "迷宫关卡丰富，耐玩度高"
+      },
+      {
+        "source": "Crash（ZX Spectrum移植版）",
+        "score": "91%",
+        "quote": "出色的街机移植，值得一玩"
+      }
+    ],
+    "editorScore": 8.7,
+    "is2D": true,
+    "screenshots": [
+      "images/arcade/arcade-newzealand-story-s1.webp",
+      "images/arcade/arcade-newzealand-story-s2.webp",
+      "images/arcade/arcade-newzealand-story-s3.webp",
+      "images/arcade/arcade-newzealand-story-s4.webp",
+      "images/arcade/arcade-newzealand-story-s5.webp",
+      "images/arcade/arcade-newzealand-story-s6.webp",
+      "images/arcade/arcade-newzealand-story-title.webp"
+    ],
+    "cover": "images/arcade/arcade-newzealand-story-box.webp",
+    "styleMatch": 1,
+    "styleNote": "横版迷宫平台动作，非RPG"
+  },
+  {
+    "id": "arcade-strikers-1945",
+    "title": "Strikers 1945",
+    "titleZh": "打击者1945",
+    "titleJa": "ストライカーズ1945",
+    "year": 1995,
+    "developer": "Psikyo",
+    "publisher": "Psikyo",
+    "genre": "射击",
+    "tags": [
+      "纵版射击",
+      "二战",
+      "蓄力攻击",
+      "彩京"
+    ],
+    "players": "1-2",
+    "tagline": "二战名机对决变形机甲，彩京代表作",
+    "description": "1995年，彩京推出《打击者1945》，很快就成了中国街机厅里人气最旺的纵版射击之一。玩家可从P-38闪电、P-51野马、喷火、BF-109、零战、震电六架二战名机中任选其一，每架都有不同的射速、子机与炸弹方式。\n\n本作最大的特色是“蓄力攻击”：停止射击片刻再按键，就会放出各机专属的强力特殊攻击。前半段是熟悉的二战战场，到了后半关，敌方的战舰和坦克会突然变形成巨大的机甲，这种“架空二战+机器人”的混搭让人印象极深。彩京一贯的高速子弹和紧凑节奏，让每一关都爽快又惊险。\n\n双人同屏、各选爱机，一枚硬币就能打一下午。它代表着九十年代中期中国街机厅射击机台的黄金时光。",
+    "highlights": [
+      "六架性能各异的二战名机",
+      "蓄力特殊攻击系统",
+      "敌方兵器变形成巨型机甲",
+      "彩京高速爽快的射击节奏"
+    ],
+    "reviews": [
+      {
+        "source": "电击PlayStation（PS移植版）",
+        "score": "85/90/80/80",
+        "quote": "爽快的街机射击得到忠实移植"
+      },
+      {
+        "source": "Consoles+（SS移植版）",
+        "score": "92%",
+        "quote": "节奏紧凑、乐趣十足的纵版射击"
+      }
+    ],
+    "editorScore": 8.7,
+    "is2D": true,
+    "screenshots": [
+      "images/arcade/arcade-strikers-1945-s1.webp",
+      "images/arcade/arcade-strikers-1945-s2.webp",
+      "images/arcade/arcade-strikers-1945-s3.webp",
+      "images/arcade/arcade-strikers-1945-s4.webp",
+      "images/arcade/arcade-strikers-1945-s5.webp",
+      "images/arcade/arcade-strikers-1945-m6.webp",
+      "images/arcade/arcade-strikers-1945-title.webp"
+    ],
+    "cover": "images/arcade/arcade-strikers-1945-box.webp",
+    "styleMatch": 0,
+    "styleNote": "纵版射击，类型完全不同"
+  },
+  {
+    "id": "arcade-knights-of-the-round",
+    "title": "Knights of the Round",
+    "titleZh": "圆桌骑士",
+    "titleJa": "ナイツ オブ ザ ラウンド",
+    "year": 1991,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genre": "动作清版",
+    "tags": [
+      "像素",
+      "CPS1",
+      "亚瑟王",
+      "升级系统"
+    ],
+    "players": "1-3",
+    "tagline": "亚瑟、兰斯洛特、帕西瓦尔，砍出骑士传说",
+    "description": "取材自亚瑟王传说，亚瑟、兰斯洛特和帕西瓦尔三名骑士踏上讨伐暴君加里布德的征程。《圆桌骑士》最大的特色是“升级系统”：随着分数累积，角色会自动升级，铠甲从布衣变成全身板甲，武器也越来越华丽。\n\n本作的格挡系统在当年颇为新颖——在敌人攻击瞬间按下方向+攻击键即可格挡，高手可以借此无伤推进。骑马作战同样是一大乐趣，马背上的冲锋斩杀爽快无比。三人同玩时，围攻巨型头目的场面极具史诗感。\n\n在国内街机厅，“圆桌”与“三国志”“名将”并称Capcom三大清版，是无数玩家心中的骑士梦。",
+    "highlights": [
+      "角色随分数升级、装备外观变化",
+      "讲究时机的格挡系统",
+      "骑马冲锋作战",
+      "三名骑士性能迥异"
+    ],
+    "reviews": [
+      {
+        "source": "Sinclair User（街机版）",
+        "score": "78/100",
+        "quote": "骑士题材新颖，升级系统颇具吸引力"
+      },
+      {
+        "source": "Zero（街机版）",
+        "score": "4/5",
+        "quote": "画面精美，砍杀手感出色"
+      },
+      {
+        "source": "Fami通（SFC版）",
+        "score": "26/40",
+        "quote": "升级时装备变华丽的设计令人欣喜"
+      }
+    ],
+    "editorScore": 8.6,
+    "styleMatch": 1,
+    "styleNote": "横版清版动作，带升级要素",
+    "screenshots": [
+      "images/arcade/arcade-knights-of-the-round-s1.webp",
+      "images/arcade/arcade-knights-of-the-round-s2.webp",
+      "images/arcade/arcade-knights-of-the-round-s3.webp",
+      "images/arcade/arcade-knights-of-the-round-s4.webp",
+      "images/arcade/arcade-knights-of-the-round-title.webp"
+    ],
+    "cover": "images/arcade/arcade-knights-of-the-round-box.webp",
+    "is2D": true
+  },
+  {
+    "id": "arcade-knights-of-valour",
+    "title": "Knights of Valour",
+    "titleZh": "三国战纪",
+    "titleJa": "",
+    "year": 1999,
+    "developer": "IGS",
+    "publisher": "IGS",
+    "genre": "动作清版",
+    "tags": [
+      "像素",
+      "PGM",
+      "三国",
+      "四人合作"
+    ],
+    "players": "1-4",
+    "tagline": "台湾IGS的三国清版，国内街机厅的千禧记忆",
+    "description": "1999年，台湾鈊象电子（IGS）在自家PGM基板上推出《三国战纪》，迅速席卷了内地与港台的街机厅。以《三国演义》为舞台，关羽、张飞、赵云、诸葛亮等蜀汉英雄任你选择，虎牢关之战、赤壁鏖战等经典战役悉数登场。\n\n本作的系统十分丰富：搓招必杀、连续技、道具宝物与“升级”机制一应俱全，诸葛亮的法术攻击更是别具一格。场景中隐藏的宝物、关卡中的分支挑战，让人总想再投一个币多打一关。\n\n对于八零九零后的中国玩家，《三国战纪》几乎是街机厅最后的黄金记忆。后续还推出了《三国战纪2》《三国战纪3》等多部续作。",
+    "highlights": [
+      "关羽、张飞、赵云、诸葛亮等蜀汉英雄",
+      "丰富的搓招必杀与道具系统",
+      "浓郁的中国风三国题材",
+      "IGS PGM基板代表作"
+    ],
+    "reviews": [],
+    "editorScore": 8.6,
+    "styleMatch": 1,
+    "styleNote": "横版清版动作，同时代像素画风",
+    "screenshots": [
+      "images/arcade/arcade-knights-of-valour-s1.webp",
+      "images/arcade/arcade-knights-of-valour-s2.webp",
+      "images/arcade/arcade-knights-of-valour-s3.webp",
+      "images/arcade/arcade-knights-of-valour-s4.webp",
+      "images/arcade/arcade-knights-of-valour-s5.webp",
+      "images/arcade/arcade-knights-of-valour-s6.webp",
+      "images/arcade/arcade-knights-of-valour-title.webp"
+    ],
+    "cover": "images/arcade/arcade-knights-of-valour-box.webp",
+    "is2D": true
+  },
+  {
+    "id": "arcade-sunset-riders",
+    "title": "Sunset Riders",
+    "titleZh": "日落骑士",
+    "titleJa": "サンセットライダーズ",
+    "year": 1991,
+    "developer": "Konami",
+    "publisher": "Konami",
+    "genre": "射击",
+    "tags": [
+      "像素",
+      "西部",
+      "四人合作",
+      "横版跑射"
+    ],
+    "players": "1-4",
+    "tagline": "西部牛仔赏金猎人，横版跑射的欢乐名作",
+    "description": "四名赏金猎人——史蒂夫、比利、鲍勃、科尔马诺——骑着马穿越荒野，追捕一个又一个悬赏通缉犯。Konami的《日落骑士》把狂野西部的所有元素都塞进了横版跑射：酒馆枪战、火车顶追逐、奔腾的牛群和满天飞的炸药。\n\n双枪射击、八方向瞄准、滑铲闪避，操作简单却极具节奏感。每关最后与通缉犯的对决都有独特的台词和演出，“Bury me with my money!”这样的经典台词让人印象深刻。四人同时游玩时，枪声与爆炸声此起彼伏，热闹非凡。\n\n在《魂斗罗》之外，这是Konami另一款值得珍藏的跑射佳作。西部风情的配乐与幽默感十足的演出，三十年后依旧鲜活。",
+    "highlights": [
+      "狂野西部的赏金猎人题材",
+      "火车、牛群、酒馆等多变关卡",
+      "个性鲜明的通缉犯头目",
+      "最多四人同时游玩"
+    ],
+    "reviews": [
+      {
+        "source": "Sinclair User（街机版）",
+        "score": "82%",
+        "quote": "操作手感出色，是对街机技巧的有趣挑战"
+      },
+      {
+        "source": "Zero（街机版）",
+        "score": "3/5",
+        "quote": "西部题材新颖，玩法略显传统"
+      }
+    ],
+    "editorScore": 8.6,
+    "styleMatch": 0,
+    "styleNote": "横版跑射射击，非俯视角RPG",
+    "screenshots": [
+      "images/arcade/arcade-sunset-riders-s1.webp",
+      "images/arcade/arcade-sunset-riders-s2.webp",
+      "images/arcade/arcade-sunset-riders-s3.webp",
+      "images/arcade/arcade-sunset-riders-s4.webp",
+      "images/arcade/arcade-sunset-riders-s5.webp",
+      "images/arcade/arcade-sunset-riders-s6.webp",
+      "images/arcade/arcade-sunset-riders-title.webp"
+    ],
+    "cover": "images/arcade/arcade-sunset-riders-box.webp",
+    "is2D": true
+  },
+  {
+    "id": "arcade-1943",
+    "title": "1943: The Battle of Midway",
+    "titleZh": "1943 中途岛海战",
+    "titleJa": "1943 ミッドウェイ海戦",
+    "year": 1987,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genre": "射击",
+    "tags": [
+      "纵版射击",
+      "二战",
+      "能量制",
+      "Capcom"
+    ],
+    "players": "1-2",
+    "tagline": "能量槽取代残机，空战更从容",
+    "description": "1987年，卡普空推出了《1942》的续作《1943 中途岛海战》。玩家依旧驾驶P-38，但最大的变化是取消了“残机”，改为一条能量槽：被击中扣能量，飞行时间也会慢慢消耗能量，吃到补给才能续命。这让游戏节奏从“一碰就死”变成了更从容的持久战。\n\n武器种类大幅扩充：散弹、三向弹、自动连射、激光……再加上同时按两个键发动的闪电、海啸等特殊攻击，战术层次丰富了许多。关卡以海战为主，往往要面对整支舰队，舰炮林立的巨型战列舰头目压迫感十足。双人同时作战更让它成为街机厅的人气机台。\n\n后来的《1943改》和FC版同样风靡一时。这是“19XX系列”承上启下、最受欢迎的一作。",
+    "highlights": [
+      "以能量槽取代残机的创新设计",
+      "多种武器与特殊攻击",
+      "以舰队为对手的震撼海战",
+      "双人同时作战"
+    ],
+    "reviews": [],
+    "editorScore": 8.6,
+    "is2D": true,
+    "screenshots": [
+      "images/arcade/arcade-1943-s1.webp",
+      "images/arcade/arcade-1943-s2.webp",
+      "images/arcade/arcade-1943-s3.png",
+      "images/arcade/arcade-1943-s4.webp",
+      "images/arcade/arcade-1943-s5.webp",
+      "images/arcade/arcade-1943-s6.png",
+      "images/arcade/arcade-1943-title.webp"
+    ],
+    "cover": "images/arcade/arcade-1943-box.webp",
+    "styleMatch": 0,
+    "styleNote": "纵版射击，类型完全不同"
+  },
+  {
+    "id": "arcade-salamander",
+    "title": "Salamander",
+    "titleZh": "沙罗曼蛇",
+    "titleJa": "沙羅曼蛇",
+    "year": 1986,
+    "developer": "Konami",
+    "publisher": "Konami",
+    "genre": "射击",
+    "tags": [
+      "横纵交替",
+      "双打",
+      "火焰龙",
+      "Konami"
+    ],
+    "players": "1-2",
+    "tagline": "横纵交替的生物要塞大冒险",
+    "description": "1986年的《沙罗曼蛇》是《宇宙巡航机》的兄弟作，却带来了截然不同的体验。最显眼的变化是关卡在横版与纵版之间交替切换，而且支持双人同时游玩——一个开着Vic Viper，一个开着Lord British，并肩冲入敌人的生物要塞。\n\n本作取消了能量槽，改为直接拾取道具强化，节奏更爽快。关卡设计则大胆而怪诞：会生长蠕动的肉壁、从地面伸出触手的生物关卡，以及最令人难忘的第三关——从太阳表面喷出的火焰巨龙在屏幕上翻腾盘旋，八十年代的玩家看到这一幕无不目瞪口呆。最后还有仓皇逃离敌方要塞的紧张收尾。\n\n在中国，它更多是以FC版“沙罗曼蛇”的名字被记住，但街机原版的画面与气势远在其上。",
+    "highlights": [
+      "横版与纵版关卡交替推进",
+      "双人同时游玩",
+      "火焰巨龙等震撼场面",
+      "怪诞的生物要塞关卡"
+    ],
+    "reviews": [
+      {
+        "source": "CVG（C64移植版）",
+        "score": "93%",
+        "quote": "出色的街机移植，射击爽快感十足"
+      },
+      {
+        "source": "Sinclair User（ZX Spectrum移植版）",
+        "score": "8/10",
+        "quote": "节奏紧凑的优秀射击游戏"
+      }
+    ],
+    "editorScore": 8.6,
+    "is2D": true,
+    "screenshots": [
+      "images/arcade/arcade-salamander-s1.png",
+      "images/arcade/arcade-salamander-s2.webp",
+      "images/arcade/arcade-salamander-s3.webp",
+      "images/arcade/arcade-salamander-s4.webp",
+      "images/arcade/arcade-salamander-s5.webp",
+      "images/arcade/arcade-salamander-s6.webp",
+      "images/arcade/arcade-salamander-title.webp"
+    ],
+    "cover": "images/arcade/arcade-salamander-box.webp",
+    "styleMatch": 0,
+    "styleNote": "横纵射击，类型完全不同"
+  },
+  {
+    "id": "arcade-space-harrier",
+    "title": "Space Harrier",
+    "titleZh": "太空哈利",
+    "titleJa": "スペースハリアー",
+    "year": 1985,
+    "developer": "Sega",
+    "publisher": "Sega",
+    "genre": "射击",
+    "tags": [
+      "伪3D",
+      "体感",
+      "铃木裕",
+      "背后视点"
+    ],
+    "players": "1",
+    "tagline": "Welcome to the Fantasy Zone! Get ready!",
+    "description": "“Welcome to the Fantasy Zone! Get ready!”——1985年，伴随着这句语音，铃木裕把一个夹着巨炮的金发青年扔进了五彩缤纷的奇幻世界。《太空哈利》是一款背后视点的射击游戏，哈利在棋盘格大地上奔跑、飞行，迎面而来的独眼猛犸、石像、飞龙一个比一个奇怪。\n\n它用Sega的缩放技术在当年创造出惊人的纵深与速度感，豪华机台更配有随摇杆倾斜的体感座舱，坐进去就像真的在飞。十八个关卡色彩明艳、背景音乐激昂，长蛇般盘旋的巨龙头目更是游戏史上的经典造型。没有能量槽也没有升级，纯粹的移动与射击，凭反应活下去。\n\n它后来被移植到几乎所有Sega主机上，但只有街机版那种扑面而来的速度感最为纯正。",
+    "highlights": [
+      "开创性的背后视点伪3D射击",
+      "体感座舱的震撼体验",
+      "超现实的奇幻世界与敌人",
+      "经典开场语音与激昂配乐"
+    ],
+    "reviews": [
+      {
+        "source": "Gamest（街机版）",
+        "score": "19/24",
+        "quote": "速度感与画面表现极为出色"
+      },
+      {
+        "source": "CVG（PC Engine移植版）",
+        "score": "89%",
+        "quote": "相当忠实的移植，速度感犹在"
+      },
+      {
+        "source": "Your Sinclair（ZX Spectrum移植版）",
+        "score": "9/10",
+        "quote": "在8位机上依旧爽快刺激"
+      }
+    ],
+    "editorScore": 8.6,
+    "is2D": true,
+    "screenshots": [
+      "images/arcade/arcade-space-harrier-s1.webp",
+      "images/arcade/arcade-space-harrier-s2.webp",
+      "images/arcade/arcade-space-harrier-m3.webp",
+      "images/arcade/arcade-space-harrier-m4.webp",
+      "images/arcade/arcade-space-harrier-x1.webp",
+      "images/arcade/arcade-space-harrier-title.webp"
+    ],
+    "cover": "images/arcade/arcade-space-harrier-box.webp",
+    "styleMatch": 0,
+    "styleNote": "伪3D射击，类型完全不同"
+  },
+  {
+    "id": "arcade-fantasy-zone",
+    "title": "Fantasy Zone",
+    "titleZh": "梦幻地带",
+    "titleJa": "ファンタジーゾーン",
+    "year": 1986,
+    "developer": "Sega",
+    "publisher": "Sega",
+    "genre": "射击",
+    "tags": [
+      "可爱射击",
+      "商店系统",
+      "粉彩画风",
+      "Sega"
+    ],
+    "players": "1",
+    "tagline": "会飞的小翅膀，去商店买武器",
+    "description": "1986年，Sega推出了一款画风截然不同的射击游戏。主角是长着小翅膀的可爱飞船“奥帕奥帕”，舞台是粉彩色调、仿佛童话绘本一般的奇幻星球。《梦幻地带》被称为“可爱射击”（cute 'em up）的代表作之一。\n\n它的玩法也颇有新意：画面可以左右自由卷动，每关需要找到并摧毁所有敌方据点才会出现头目。击落敌人会掉落金币，空中飘着的气球就是商店，进去可以购买更强的主武器、炸弹、引擎——但价格会随购买次数上涨，怎么花钱成了一门学问。欢快的音乐、圆滚滚的敌人和夸张的头目，让整个游戏充满了轻松愉快的氛围。\n\n奥帕奥帕后来甚至成了Sega的早期吉祥物。想玩一款不那么严肃、却同样讲究技术的射击游戏，它是最好的选择。",
+    "highlights": [
+      "粉彩童话风的独特美术",
+      "用金币在商店购买武器",
+      "自由卷动、摧毁据点的关卡设计",
+      "轻快活泼的音乐"
+    ],
+    "reviews": [
+      {
+        "source": "CVG（PC Engine移植版）",
+        "score": "88%",
+        "quote": "色彩缤纷、乐趣十足的射击游戏"
+      },
+      {
+        "source": "Console XS（Master System移植版）",
+        "score": "91%",
+        "quote": "可爱又耐玩的经典"
+      },
+      {
+        "source": "Dragon（Master System移植版）",
+        "score": "4/5",
+        "quote": "画面可爱、系统独特的射击作品"
+      }
+    ],
+    "editorScore": 8.6,
+    "is2D": true,
+    "screenshots": [
+      "images/arcade/arcade-fantasy-zone-s1.webp",
+      "images/arcade/arcade-fantasy-zone-s2.webp",
+      "images/arcade/arcade-fantasy-zone-s3.webp",
+      "images/arcade/arcade-fantasy-zone-s4.webp",
+      "images/arcade/arcade-fantasy-zone-s5.webp",
+      "images/arcade/arcade-fantasy-zone-s6.webp",
+      "images/arcade/arcade-fantasy-zone-title.webp"
+    ],
+    "cover": "images/arcade/arcade-fantasy-zone-box.webp",
+    "styleMatch": 0,
+    "styleNote": "横版射击，类型完全不同"
+  },
+  {
+    "id": "arcade-oriental-legend",
+    "title": "Oriental Legend",
+    "titleZh": "西游释厄传",
+    "titleJa": "",
+    "year": 1997,
+    "developer": "IGS",
+    "publisher": "IGS",
+    "genre": "动作清版",
+    "tags": [
+      "像素",
+      "PGM",
+      "西游记",
+      "四人合作"
+    ],
+    "players": "1-4",
+    "tagline": "师徒四人斩妖除魔，国产清版的骄傲",
+    "description": "孙悟空、猪八戒、沙僧、龙女——IGS的《西游释厄传》把中国人最熟悉的神话故事做成了一款华丽的清版动作游戏。玩家要一路降服牛魔王、白骨精等妖魔，为唐僧西行保驾护航。\n\n本作的法宝系统是最大特色：击败敌人可获得各式法宝与宝石，配合搓招发动的必杀技，满屏都是火焰、雷电与神兽召唤。各角色的招式紧扣原著形象，孙悟空的金箍棒、猪八戒的钉耙一出，国内玩家马上会心一笑。\n\n作为国产（台湾）街机的代表作，《西游释厄传》在九十年代末的街机厅里与Capcom清版平分秋色，后续的《西游释厄传Super》更是将其推向巅峰。",
+    "highlights": [
+      "孙悟空、猪八戒、沙僧、龙女等角色",
+      "丰富的法宝与搓招必杀系统",
+      "牛魔王等原著妖魔头目",
+      "IGS PGM基板早期代表作"
+    ],
+    "reviews": [],
+    "editorScore": 8.5,
+    "styleMatch": 1,
+    "styleNote": "横版清版动作，同时代像素画风",
+    "screenshots": [
+      "images/arcade/arcade-oriental-legend-s1.webp",
+      "images/arcade/arcade-oriental-legend-s2.webp",
+      "images/arcade/arcade-oriental-legend-s3.webp",
+      "images/arcade/arcade-oriental-legend-s4.webp",
+      "images/arcade/arcade-oriental-legend-s5.webp",
+      "images/arcade/arcade-oriental-legend-s6.webp",
+      "images/arcade/arcade-oriental-legend-title.webp"
+    ],
+    "cover": "images/arcade/arcade-oriental-legend-box.webp",
+    "is2D": true
+  },
+  {
+    "id": "arcade-xevious",
+    "title": "Xevious",
+    "titleZh": "铁板阵",
+    "titleJa": "ゼビウス",
+    "year": 1983,
+    "developer": "Namco",
+    "publisher": "Namco / Atari",
+    "genre": "射击",
+    "tags": [
+      "纵版射击",
+      "空对地",
+      "隐藏要素",
+      "Namco"
+    ],
+    "players": "1-2",
+    "tagline": "对空对地双武器，满是秘密的大地",
+    "description": "1983年，南梦宫的远藤雅伸创造了《铁板阵》，它是最早的纵向卷轴射击之一。玩家驾驶战机“索尔瓦鲁”，用“扎帕”攻击空中敌机，用“布拉斯特”轰炸地面目标——空对空、空对地的两套武器同时运用，这在当时是全新的体验。\n\n更让玩家着迷的是它的神秘感：森林、河流、纳斯卡地画般的大地图案细致入微；空无一物的地方用炸弹一扫，可能会冒出隐藏的“索尔塔”；特定位置还藏着加命的旗帜。巨大的空中要塞“安多亚·吉尼西斯”缓缓压过来的场面，让无数人瞪大了眼睛。游戏背后还有一整套精心设定的世界观。\n\n它开启了“隐藏要素”文化，也为后来的纵版射击定下了基调。FC版在国内更是红遍大街小巷。",
+    "highlights": [
+      "对空、对地两套武器的创新设计",
+      "大量隐藏的索尔塔与加命旗帜",
+      "巨型要塞安多亚·吉尼西斯",
+      "细致写实的大地美术"
+    ],
+    "reviews": [
+      {
+        "source": "AllGame（街机版）",
+        "score": "4/5",
+        "quote": "纵版射击的先驱，秘密要素引人入胜"
+      },
+      {
+        "source": "Your Sinclair（ZX Spectrum移植版）",
+        "score": "8/10",
+        "quote": "出色的射击游戏移植"
+      },
+      {
+        "source": "IGN（Xbox Live Arcade版）",
+        "score": "6/10",
+        "quote": "历史意义重大，但以今天标准略显单调"
+      }
+    ],
+    "editorScore": 8.5,
+    "is2D": true,
+    "screenshots": [
+      "images/arcade/arcade-xevious-s1.png",
+      "images/arcade/arcade-xevious-s2.webp",
+      "images/arcade/arcade-xevious-s3.webp",
+      "images/arcade/arcade-xevious-s4.webp",
+      "images/arcade/arcade-xevious-s5.png",
+      "images/arcade/arcade-xevious-s6.webp",
+      "images/arcade/arcade-xevious-title.webp"
+    ],
+    "cover": "images/arcade/arcade-xevious-box.webp",
+    "styleMatch": 0,
+    "styleNote": "纵版射击，类型完全不同"
+  },
+  {
+    "id": "arcade-gauntlet",
+    "title": "Gauntlet",
+    "titleZh": "圣铠传说",
+    "titleJa": "ガントレット",
+    "year": 1985,
+    "developer": "Atari Games",
+    "publisher": "Atari Games",
+    "genre": "动作",
+    "tags": [
+      "俯视角",
+      "地下城",
+      "四人同玩",
+      "Atari"
+    ],
+    "players": "1-4",
+    "tagline": "四人同闯地牢，“精灵急需食物！”",
+    "description": "1985年，雅达利推出了一台可以让四个人同时游玩的街机——《圣铠传说》。战士、女武神、巫师、精灵四种职业各有所长：战士力大、女武神防高、巫师魔法强、精灵速度快。四个陌生人围在一台机台前并肩闯地牢，这种体验在当时前所未有。\n\n这是一款俯视角的地下城动作游戏：迷宫里的怪物发生器源源不断地制造幽灵、恶魔和骷髅，必须先砸掉发生器才能喘口气。生命值会随时间流逝不断下降，捡到食物才能补充，于是投币续命成了常态——“Elf needs food badly!”（精灵急需食物！）这句语音成了一代人的梗。钥匙开门、药水清屏，还要小心不要误射队友的食物。\n\n它为后来的多人地牢动作游戏铺平了道路，《暗黑破坏神》的影子都能在这里找到。",
+    "highlights": [
+      "四人同时游玩的划时代机台",
+      "四种职业各具特色",
+      "怪物发生器与源源不断的敌群",
+      "标志性的语音提示"
+    ],
+    "reviews": [
+      {
+        "source": "Commodore User（家用电脑移植版）",
+        "score": "9/10",
+        "quote": "多人地牢冒险的乐趣被出色还原"
+      },
+      {
+        "source": "Your Sinclair（ZX Spectrum移植版）",
+        "score": "9/10",
+        "quote": "极度上瘾，Megagame级别的移植"
+      },
+      {
+        "source": "Crash（ZX Spectrum移植版）",
+        "score": "92%",
+        "quote": "出色的移植，多人模式乐趣无穷"
+      }
+    ],
+    "editorScore": 8.5,
+    "is2D": true,
+    "screenshots": [
+      "images/arcade/arcade-gauntlet-s1.webp",
+      "images/arcade/arcade-gauntlet-s2.png",
+      "images/arcade/arcade-gauntlet-s3.webp",
+      "images/arcade/arcade-gauntlet-s4.webp",
+      "images/arcade/arcade-gauntlet-s5.webp",
+      "images/arcade/arcade-gauntlet-s6.webp",
+      "images/arcade/arcade-gauntlet-title.webp"
+    ],
+    "cover": "images/arcade/arcade-gauntlet-box.webp",
+    "styleMatch": 2,
+    "styleNote": "俯视角地牢动作，但没有村庄商店"
+  },
+  {
+    "id": "arcade-the-simpsons",
+    "title": "The Simpsons",
+    "titleZh": "辛普森一家",
+    "titleJa": "ザ・シンプソンズ",
+    "year": 1991,
+    "developer": "Konami",
+    "publisher": "Konami",
+    "genre": "动作清版",
+    "tags": [
+      "像素",
+      "四人合作",
+      "动画改编",
+      "搞笑"
+    ],
+    "players": "1-4",
+    "tagline": "霍默一家救宝宝，四人合家欢清版",
+    "description": "史密瑟斯一伙抢劫珠宝店时，钻石意外落进了小宝宝玛吉的嘴里——结果连人带钻被一起掳走！霍默挥起拳头，玛姬抄起吸尘器，巴特踩着滑板，丽莎甩开跳绳，一路从春田镇街头打到核电厂。\n\nKonami完美还原了动画的画风与幽默感：家人之间可以组合出“合体技”，比如霍默和巴特手拉手一起翻滚冲撞；梦境关卡、墓地、电视台等场景都充满对动画的致敬。\n\n本作对清版老手来说难度不高，但四人一起玩时的欢乐程度无可比拟。它是九十年代初美式卡通改编游戏中最成功的作品之一。",
+    "highlights": [
+      "辛普森一家四口各持奇特武器",
+      "家人之间的合体攻击",
+      "忠实还原动画画风与笑点",
+      "最多四人同时游玩"
+    ],
+    "reviews": [
+      {
+        "source": "Sinclair User（街机版）",
+        "score": "86%",
+        "quote": "精美画面、出色音效与巧妙动画让它乐趣十足"
+      },
+      {
+        "source": "Zero（街机版）",
+        "score": "5/5",
+        "quote": "最忠实的动画改编清版游戏"
+      },
+      {
+        "source": "Allgame（街机版）",
+        "score": "4.5/5",
+        "quote": "欢乐的四人合作清版经典"
+      }
+    ],
+    "editorScore": 8.4,
+    "styleMatch": 1,
+    "styleNote": "横版清版动作，同时代像素画风",
+    "screenshots": [
+      "images/arcade/arcade-the-simpsons-s1.webp",
+      "images/arcade/arcade-the-simpsons-s2.webp",
+      "images/arcade/arcade-the-simpsons-s3.webp",
+      "images/arcade/arcade-the-simpsons-s4.webp",
+      "images/arcade/arcade-the-simpsons-s5.webp",
+      "images/arcade/arcade-the-simpsons-s6.webp",
+      "images/arcade/arcade-the-simpsons-title.webp"
+    ],
+    "cover": "images/arcade/arcade-the-simpsons-box.webp",
+    "is2D": true
+  },
+  {
+    "id": "arcade-golden-axe",
+    "title": "Golden Axe",
+    "titleZh": "战斧",
+    "titleJa": "ゴールデンアックス",
+    "year": 1989,
+    "developer": "Sega",
+    "publisher": "Sega",
+    "genre": "动作清版",
+    "tags": [
+      "像素",
+      "剑与魔法",
+      "双人合作",
+      "坐骑"
+    ],
+    "players": "1-2",
+    "tagline": "骑上怪兽、挥舞巨斧，剑与魔法的清版传奇",
+    "description": "野蛮人战士埃克斯、亚马逊女战士提莉斯、矮人吉利亚斯，为了夺回黄金战斧、讨伐魔王“死亡亚德”而踏上冒险之路。1989年的《战斧》把剑与魔法的奇幻世界搬进了清版游戏，也开创了“坐骑”这一经典设定。\n\n玩家可以把骑在怪兽上的敌人踹下来，自己骑上喷火的龙或用尾巴横扫的鸡蛇作战。魔法壶越攒越多，释放的魔法也越华丽，提莉斯的火龙魔法至今令人津津乐道。偷魔法壶的小矮人更是每个玩家都想追着打的“讨厌鬼”。\n\n后来移植到世嘉五代（MD）的版本同样家喻户晓。奇幻世界观、坐骑与魔法的组合，让《战斧》成为世嘉最具代表性的动作游戏之一。",
+    "highlights": [
+      "三名职业风格迥异的英雄",
+      "骑乘怪兽作战的开创性设定",
+      "魔法壶积攒释放的魔法系统",
+      "追打偷魔法壶的小矮人"
+    ],
+    "reviews": [
+      {
+        "source": "Commodore User（街机版）",
+        "score": "89%",
+        "quote": "剑与魔法题材的清版佳作，坐骑系统新颖"
+      },
+      {
+        "source": "Sinclair User（街机版）",
+        "score": "8/10",
+        "quote": "魔法与坐骑让战斗充满变化"
+      },
+      {
+        "source": "Your Sinclair（街机版）",
+        "score": "81%",
+        "quote": "画面出色，节奏扎实"
+      }
+    ],
+    "editorScore": 8.4,
+    "styleMatch": 1,
+    "styleNote": "横版清版动作，同时代像素画风",
+    "screenshots": [
+      "images/arcade/arcade-golden-axe-s1.webp",
+      "images/arcade/arcade-golden-axe-s2.webp",
+      "images/arcade/arcade-golden-axe-s3.webp",
+      "images/arcade/arcade-golden-axe-s4.webp",
+      "images/arcade/arcade-golden-axe-s5.webp",
+      "images/arcade/arcade-golden-axe-s6.webp",
+      "images/arcade/arcade-golden-axe-title.webp"
+    ],
+    "cover": "images/arcade/arcade-golden-axe-box.webp",
+    "is2D": true
+  },
+  {
+    "id": "arcade-19xx",
+    "title": "19XX: The War Against Destiny",
+    "titleZh": "19XX",
+    "titleJa": "19XX ザ・ウォー・アゲンスト・デスティニー",
+    "year": 1995,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genre": "射击",
+    "tags": [
+      "纵版射击",
+      "锁定攻击",
+      "CPS2",
+      "Capcom"
+    ],
+    "players": "1-2",
+    "tagline": "CPS2画质重塑194X系列",
+    "description": "1995年底，卡普空用CPS2机板为“194X系列”带来了一部华丽的新作。《19XX》设定在一个架空的二十世纪，玩家可选P-38闪电、蚊式和震电三架战机，迎战一个企图改写历史的神秘组织。\n\n本作最大的特色是蓄力“锁定攻击”：按住射击键蓄力，放开后射出的弹体会锁定敌人，再追加一串导弹自动追击，打起来既爽快又讲究时机。CPS2带来的精细画面让战机、战舰和爆炸都显得格外气派，多层卷动的背景营造出很强的立体感。关卡中的巨型轰炸机、陆地堡垒等头目设计也颇具压迫感。\n\n相比前作，它节奏更快、画面更炫，是这个系列在街机厅里的华丽谢幕。喜欢《1943》的玩家，一定不能错过这一作。",
+    "highlights": [
+      "三架战机各有特色",
+      "蓄力锁定攻击系统",
+      "CPS2的精美画面与多层卷动",
+      "架空二战题材的华丽头目战"
+    ],
+    "reviews": [
+      {
+        "source": "Player One（街机版）",
+        "score": "87%",
+        "quote": "画面精美、节奏爽快的纵版射击"
+      },
+      {
+        "source": "Next Generation（街机版）",
+        "score": "3/5",
+        "quote": "动画精致、敌群设计多变，跻身同类上乘之作"
+      }
+    ],
+    "editorScore": 8.4,
+    "is2D": true,
+    "screenshots": [
+      "images/arcade/arcade-19xx-s1.webp",
+      "images/arcade/arcade-19xx-s2.webp",
+      "images/arcade/arcade-19xx-s3.webp",
+      "images/arcade/arcade-19xx-s4.webp",
+      "images/arcade/arcade-19xx-s5.webp",
+      "images/arcade/arcade-19xx-s6.webp",
+      "images/arcade/arcade-19xx-title.webp"
+    ],
+    "cover": "images/arcade/arcade-19xx-box.webp",
+    "styleMatch": 0,
+    "styleNote": "纵版射击，类型完全不同"
+  },
+  {
+    "id": "arcade-darius",
+    "title": "Darius",
+    "titleZh": "达拉斯",
+    "titleJa": "ダライアス",
+    "year": 1987,
+    "developer": "Taito",
+    "publisher": "Taito",
+    "genre": "射击",
+    "tags": [
+      "横版射击",
+      "三屏幕",
+      "分支路线",
+      "Taito"
+    ],
+    "players": "1-2",
+    "tagline": "三块屏幕拼出的深海宇宙",
+    "description": "1986年底到1987年间登陆街机厅的《达拉斯》，用三块显示器拼出了一个超宽的画面，机台座椅里还装着体感音响，当时坐进去的玩家无不惊呼。玩家驾驶银鹰战机，在被侵略的达拉斯星系中杀出一条血路。\n\n本作最令人难忘的是那些以海洋生物为原型的巨型机械头目，从钢铁腔棘鱼“King Fossil”开始，每一只登场前都伴随着“WARNING! A HUGE BATTLESHIP IS APPROACHING FAST”的警告字幕，紧张感拉满。每关结束时还能选择上下两条路线，七个阶段共分出二十多个区域，每次游玩都可以走不同的路。小仓久佳创作的配乐神秘而独特，至今仍被奉为经典。\n\n它奠定了“达拉斯系列”鱼形头目、分支路线与经典警告字幕的传统，是Taito射击游戏的象征。",
+    "highlights": [
+      "三屏幕拼接的超宽画面",
+      "以海洋生物为原型的机械头目",
+      "关卡分支路线，二十多个区域",
+      "标志性的“WARNING”警告"
+    ],
+    "reviews": [
+      {
+        "source": "Raze（PC Engine移植版）",
+        "score": "88%",
+        "quote": "出色还原了原作的分支与头目魅力"
+      },
+      {
+        "source": "Commodore User（Amiga移植版）",
+        "score": "81%",
+        "quote": "颇具特色的横版射击移植"
+      }
+    ],
+    "editorScore": 8.4,
+    "is2D": true,
+    "screenshots": [
+      "images/arcade/arcade-darius-s1.webp",
+      "images/arcade/arcade-darius-s2.webp",
+      "images/arcade/arcade-darius-s3.webp",
+      "images/arcade/arcade-darius-s4.webp",
+      "images/arcade/arcade-darius-s5.webp",
+      "images/arcade/arcade-darius-s6.webp",
+      "images/arcade/arcade-darius-title.webp"
+    ],
+    "cover": "images/arcade/arcade-darius-box.webp",
+    "styleMatch": 0,
+    "styleNote": "横版射击，类型完全不同"
+  },
+  {
+    "id": "arcade-hook",
+    "title": "Hook",
+    "titleZh": "铁钩船长",
+    "titleJa": "フック",
+    "year": 1992,
+    "developer": "Irem",
+    "publisher": "Irem",
+    "genre": "动作清版",
+    "tags": [
+      "像素",
+      "四人合作",
+      "电影改编",
+      "Irem"
+    ],
+    "players": "1-4",
+    "tagline": "长大的彼得潘重返梦幻岛，Irem华丽清版",
+    "description": "改编自斯皮尔伯格的电影《铁钩船长》，已经长大成人的彼得潘重返梦幻岛，与“迷失男孩”中的鲁菲奥、Ace、口袋、胖子Thudbutt一起，从铁钩船长手中救回自己的孩子。国内玩家对这款游戏印象极深，它是九十年代街机厅里的常驻机台。\n\nIrem用细腻的美术把梦幻岛描绘得色彩斑斓：海盗村、森林、雪原、海盗船，每个场景都充满童话气息。彼得潘可以在空中飞行作战，各角色招式简洁爽快，四人同时游玩时乱斗气氛浓厚。\n\n与Capcom的硬派清版相比，《铁钩船长》更轻松明快，配乐也颇有电影交响乐的味道。对于很多人来说，那首海盗村的BGM就是童年街机厅的声音。",
+    "highlights": [
+      "彼得潘与迷失男孩共五名角色",
+      "可在空中飞行作战",
+      "色彩斑斓的梦幻岛场景",
+      "最多四人同时游玩"
+    ],
+    "reviews": [],
+    "editorScore": 8.3,
+    "styleMatch": 1,
+    "styleNote": "横版清版动作，同时代像素画风",
+    "screenshots": [
+      "images/arcade/arcade-hook-s1.webp",
+      "images/arcade/arcade-hook-s2.webp",
+      "images/arcade/arcade-hook-s3.webp",
+      "images/arcade/arcade-hook-x1.webp",
+      "images/arcade/arcade-hook-title.webp"
+    ],
+    "cover": "images/arcade/arcade-hook-box.webp",
+    "is2D": true
+  },
+  {
+    "id": "arcade-double-dragon",
+    "title": "Double Dragon",
+    "titleZh": "双截龙",
+    "titleJa": "ダブルドラゴン",
+    "year": 1987,
+    "developer": "Technōs Japan",
+    "publisher": "Taito",
+    "genre": "动作清版",
+    "tags": [
+      "像素",
+      "双人合作",
+      "清版鼻祖",
+      "功夫"
+    ],
+    "players": "1-2",
+    "tagline": "比利与吉米，开创双人清版的始祖",
+    "description": "女友玛丽安被黑帮“黑色战士”当街打倒带走，双胞胎兄弟比利与吉米·李追了上去——1987年，《双截龙》用这段简单直接的开场，奠定了此后十年清版动作游戏的基本模板。\n\n本作首次实现了双人同时合作的横版格斗：抓住敌人用膝盖猛顶、背摔、肘击，抢来球棒、皮鞭、炸药当武器，打起来招招见肉。高大的光头阿伯伯、戴面具的威廉斯，这些敌人形象后来在各种清版游戏里反复出现。结局时兄弟二人为了玛丽安反目成仇的设定，在当年更是令人震惊。\n\n它的影响力远超街机本身，FC版在国内更是家喻户晓。回到原点玩一玩街机版，你会发现一切经典都从这里开始。",
+    "highlights": [
+      "开创双人合作清版的先河",
+      "抓投、肘击等丰富近身招式",
+      "可抢夺使用的多种武器",
+      "兄弟反目的意外结局"
+    ],
+    "reviews": [
+      {
+        "source": "Commodore User（街机版）",
+        "score": "9/10",
+        "quote": "双人合作的街头格斗令人上瘾"
+      }
+    ],
+    "editorScore": 8.3,
+    "styleMatch": 1,
+    "styleNote": "横版清版动作，同时代像素画风",
+    "screenshots": [
+      "images/arcade/arcade-double-dragon-s1.webp",
+      "images/arcade/arcade-double-dragon-s2.webp",
+      "images/arcade/arcade-double-dragon-s3.webp",
+      "images/arcade/arcade-double-dragon-s4.webp",
+      "images/arcade/arcade-double-dragon-s5.webp",
+      "images/arcade/arcade-double-dragon-s6.webp",
+      "images/arcade/arcade-double-dragon-title.webp"
+    ],
+    "cover": "images/arcade/arcade-double-dragon-box.webp",
+    "is2D": true
+  },
+  {
+    "id": "arcade-magic-sword",
+    "title": "Magic Sword: Heroic Fantasy",
+    "titleZh": "魔法剑",
+    "titleJa": "マジックソード",
+    "year": 1990,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genre": "动作",
+    "tags": [
+      "像素",
+      "CPS1",
+      "剑与魔法",
+      "伙伴系统"
+    ],
+    "players": "1-2",
+    "tagline": "攀登五十层魔塔，与伙伴并肩作战",
+    "description": "勇者要攀登魔王多克玛（Drokmar）盘踞的五十层巨塔，取回传说中的魔法剑。《魔法剑》是Capcom早期CPS1时代的横版动作作品，每一层塔都是一个短小精悍的关卡，节奏明快，让人欲罢不能。\n\n本作最有趣的是“伙伴系统”：在塔中用钥匙打开牢房，可以救出骑士、魔法师、忍者、亚马逊战士、盗贼、牧师等八种同伴，他们会跟随主角一同战斗，并随等级提升而变强。选择谁作为伙伴，直接决定了你的攻略方式。蓄力挥剑可以发出魔法剑气，满屏的魔法光效在1990年相当惊艳。\n\n它是《魔界村》与清版动作之间的有趣混合体，Gamest大赏1990年度最佳动作第2名，至今仍值得一玩。",
+    "highlights": [
+      "五十层魔塔的闯关结构",
+      "八种可招募的伙伴角色",
+      "蓄力释放魔法剑气",
+      "隐藏路线与多重结局"
+    ],
+    "reviews": [
+      {
+        "source": "CVG（街机版）",
+        "score": "87%",
+        "quote": "闯塔结构与伙伴系统带来丰富变化"
+      },
+      {
+        "source": "Your Sinclair（街机版）",
+        "score": "86/100",
+        "quote": "画面华丽，节奏爽快"
+      },
+      {
+        "source": "Gamest大赏（1990年度）",
+        "score": "最佳动作第2名",
+        "quote": "同时获得最佳画面第2名"
+      }
+    ],
+    "editorScore": 8.3,
+    "styleMatch": 1,
+    "styleNote": "横版动作闯关，同时代像素画风",
+    "screenshots": [
+      "images/arcade/arcade-magic-sword-s1.webp",
+      "images/arcade/arcade-magic-sword-s2.webp",
+      "images/arcade/arcade-magic-sword-s3.webp",
+      "images/arcade/arcade-magic-sword-s4.webp",
+      "images/arcade/arcade-magic-sword-s5.webp",
+      "images/arcade/arcade-magic-sword-title.webp"
+    ],
+    "cover": "images/arcade/arcade-magic-sword-box.webp",
+    "is2D": true
+  },
+  {
+    "id": "arcade-1942",
+    "title": "1942",
+    "titleZh": "1942",
+    "titleJa": "1942",
+    "year": 1984,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genre": "射击",
+    "tags": [
+      "纵版射击",
+      "二战",
+      "翻滚回避",
+      "Capcom"
+    ],
+    "players": "1-2",
+    "tagline": "一个翻滚，躲开整片太平洋的炮火",
+    "description": "1984年，卡普空推出了它最早的成功作品之一——《1942》。玩家驾驶P-38“超级王牌”从航空母舰上起飞，在太平洋上空与日军机群作战，一共要飞完三十二个关卡。\n\n本作最有名的设计是“翻滚回避”：按下按键，飞机会做一个空中翻转，在这段时间里无敌，可以躲开敌机和子弹，但每关的翻滚次数有限，怎么用成了关键。击落红色编队会掉落强化道具，可以让火力变强或召唤两架僚机；巨大的轰炸机头目出现时，整个画面都被它的影子占满。降落在航母上的过关画面也让人印象深刻。\n\nFC版让它在中国家喻户晓，但街机原版是一切的起点。它开创了长寿的“19XX系列”，至今仍值得一玩。",
+    "highlights": [
+      "有限次数的翻滚回避",
+      "三十二关的漫长空战",
+      "召唤僚机的强化道具",
+      "“19XX系列”的开山之作"
+    ],
+    "reviews": [
+      {
+        "source": "AllGame（街机版）",
+        "score": "4/5",
+        "quote": "简单而经典的纵版射击"
+      },
+      {
+        "source": "Commodore User（C64移植版）",
+        "score": "9/10",
+        "quote": "出色的移植，令人上瘾"
+      }
+    ],
+    "editorScore": 8.3,
+    "is2D": true,
+    "screenshots": [
+      "images/arcade/arcade-1942-s1.webp",
+      "images/arcade/arcade-1942-s2.png",
+      "images/arcade/arcade-1942-s3.png",
+      "images/arcade/arcade-1942-m4.webp",
+      "images/arcade/arcade-1942-m5.webp",
+      "images/arcade/arcade-1942-title.webp"
+    ],
+    "cover": "images/arcade/arcade-1942-box.webp",
+    "styleMatch": 0,
+    "styleNote": "纵版射击，类型完全不同"
+  },
+  {
+    "id": "arcade-twin-cobra",
+    "title": "Twin Cobra",
+    "titleZh": "究极虎",
+    "titleJa": "究極タイガー",
+    "year": 1987,
+    "developer": "Toaplan",
+    "publisher": "Taito",
+    "genre": "射击",
+    "tags": [
+      "纵版射击",
+      "直升机",
+      "东亚企划",
+      "高难度"
+    ],
+    "players": "1-2",
+    "tagline": "东亚企划的硬派直升机射击",
+    "description": "1987年，东亚企划推出了《究极虎》（海外版名为Twin Cobra）。玩家驾驶一架攻击直升机，在陆地、海上与要塞中与庞大的敌军作战。它是东亚企划纵版射击风格的奠基之作，后来的《雷电》等作品都能看出它的影子。\n\n本作的武器系统简洁而实用：红、蓝、绿、黄四种颜色的武器各有特性，吃到同色道具还能逐级强化；炸弹则能清除画面上的敌弹。敌人以坦克和炮台为主，它们会在你毫无防备时从地面开火，节奏紧张、子弹又快又准，对玩家的反应要求极高。一旦被击坠，辛苦攒下的强化全部归零，每一次失误都格外心痛。\n\n它在日本获得了极高的人气，被视为东亚企划的代表作之一。喜欢硬派射击的玩家，这是值得追溯的经典。",
+    "highlights": [
+      "四色武器的强化系统",
+      "东亚企划纵版射击的奠基之作",
+      "坦克与炮台为主的硬派敌阵",
+      "紧张刺激的高难度"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通（PC Engine移植版）",
+        "score": "33/40",
+        "quote": "优秀的街机移植，射击爽快"
+      },
+      {
+        "source": "AllGame（街机版）",
+        "score": "3.5/5",
+        "quote": "扎实硬派的纵版射击"
+      },
+      {
+        "source": "Commodore User（街机版）",
+        "score": "6/10",
+        "quote": "节奏紧张，但难度偏高"
+      }
+    ],
+    "editorScore": 8.3,
+    "is2D": true,
+    "screenshots": [
+      "images/arcade/arcade-twin-cobra-s1.webp",
+      "images/arcade/arcade-twin-cobra-s2.webp",
+      "images/arcade/arcade-twin-cobra-s3.webp",
+      "images/arcade/arcade-twin-cobra-s4.webp",
+      "images/arcade/arcade-twin-cobra-s5.webp",
+      "images/arcade/arcade-twin-cobra-s6.webp",
+      "images/arcade/arcade-twin-cobra-title.webp"
+    ],
+    "cover": "images/arcade/arcade-twin-cobra-box.webp",
+    "styleMatch": 0,
+    "styleNote": "纵版射击，类型完全不同"
+  },
+  {
+    "id": "arcade-x-men",
+    "title": "X-Men",
+    "titleZh": "X战警",
+    "titleJa": "X-MEN",
+    "year": 1992,
+    "developer": "Konami",
+    "publisher": "Konami",
+    "genre": "动作清版",
+    "tags": [
+      "像素",
+      "六人合作",
+      "漫威改编",
+      "双屏"
+    ],
+    "players": "1-6",
+    "tagline": "六人同屏、双屏巨机，最豪华的漫威清版",
+    "description": "金刚狼、镭射眼、暴风女、钢力士、夜行者、炫光（Dazzler）——六名X战警携手对抗万磁王，Konami为此打造了罕见的双屏横向拼接机台，最多支持六人同时游玩，当年在街机厅里绝对是最吸睛的庞然大物。\n\n玩法沿袭Konami四人清版的简洁传统：攻击、跳跃、变种人能力三个键，每次使用能力消耗体力，场面火爆、上手零门槛。哨兵机器人成群结队地被打飞，镭射眼的光束横扫全屏，满满都是看漫画的快感。\n\n本作玩法较为单纯，但热闹程度在清版游戏中首屈一指。和朋友一起站在巨型机台前大呼小叫的回忆，才是它真正的价值。",
+    "highlights": [
+      "六名经典X战警角色",
+      "双屏拼接、六人同玩的巨型机台",
+      "简洁易上手的变种人能力",
+      "1992年美国街机收入前五"
+    ],
+    "reviews": [
+      {
+        "source": "Play Meter（街机版）",
+        "score": "91%",
+        "quote": "运营人员眼中的高收益热门机台"
+      },
+      {
+        "source": "IGN（XBLA版）",
+        "score": "7.5/10",
+        "quote": "简单重复，但和朋友一起玩乐趣十足"
+      },
+      {
+        "source": "Sinclair User（街机版）",
+        "score": "58/100",
+        "quote": "六人同玩很壮观，但不是漫画迷可能难有共鸣"
+      }
+    ],
+    "editorScore": 8.2,
+    "styleMatch": 1,
+    "styleNote": "横版清版动作，同时代像素画风",
+    "screenshots": [
+      "images/arcade/arcade-x-men-s1.webp",
+      "images/arcade/arcade-x-men-s2.webp",
+      "images/arcade/arcade-x-men-s3.webp",
+      "images/arcade/arcade-x-men-s4.webp",
+      "images/arcade/arcade-x-men-s5.webp",
+      "images/arcade/arcade-x-men-s6.webp",
+      "images/arcade/arcade-x-men-title.webp"
+    ],
+    "cover": "images/arcade/arcade-x-men-box.webp",
+    "is2D": true
+  },
+  {
+    "id": "arcade-mercs",
+    "title": "Mercs",
+    "titleZh": "战场之狼II",
+    "titleJa": "戦場の狼II",
+    "year": 1990,
+    "developer": "Capcom",
+    "publisher": "Capcom",
+    "genre": "射击",
+    "tags": [
+      "像素",
+      "CPS1",
+      "三人合作",
+      "俯视角"
+    ],
+    "players": "1-3",
+    "tagline": "三人小队深入敌后，纵版跑射火力全开",
+    "description": "《战场之狼》的正统续作，美国总统在非洲某国被叛军劫持，三名雇佣兵组成的“Wolf”小队奉命营救。本作采用纵向卷轴的俯视角跑射玩法，玩家在丛林、村庄、要塞中一路推进，最多支持三人同时游玩。\n\n武器系统是本作亮点：机枪、火焰喷射器、霰弹枪、导弹各有特色，可以随时升级；全屏炸弹能扫清一片敌人，还能抢夺吉普车、坦克和巡逻艇驾驶。纵版机台的设计让画面视野开阔，枪林弹雨中寻找掩体的紧张感十足。\n\n它是Capcom CPS1时代少见的纵版跑射作品，后来移植到MD上同样口碑出色。三个好友并肩作战的爽快感，丝毫不输同时代的清版名作。",
+    "highlights": [
+      "俯视角纵版跑射玩法",
+      "三人同时合作",
+      "可驾驶吉普车、坦克与巡逻艇",
+      "多种可升级武器与全屏炸弹"
+    ],
+    "reviews": [
+      {
+        "source": "CVG（街机版）",
+        "score": "90%",
+        "quote": "火力十足的三人跑射，获C+VG Hit推荐"
+      },
+      {
+        "source": "Your Sinclair（街机版）",
+        "score": "85%",
+        "quote": "爽快的战场体验"
+      },
+      {
+        "source": "Sinclair User（街机版）",
+        "score": "74%",
+        "quote": "火爆刺激，但与前作相比变化有限"
+      }
+    ],
+    "editorScore": 8.2,
+    "styleMatch": 0,
+    "styleNote": "俯视角跑射射击，非RPG",
+    "screenshots": [
+      "images/arcade/arcade-mercs-s1.webp",
+      "images/arcade/arcade-mercs-s2.webp",
+      "images/arcade/arcade-mercs-s3.png",
+      "images/arcade/arcade-mercs-s4.png",
+      "images/arcade/arcade-mercs-title.webp"
+    ],
+    "cover": "images/arcade/arcade-mercs-box.webp",
+    "is2D": true
+  }
+]

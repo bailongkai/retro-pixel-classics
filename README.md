@@ -1,6 +1,6 @@
 # 像素宝典 PIXEL CLASSICS
 
-怀旧游戏推荐特辑 —— 以 90 年代游戏杂志风格，收录 FC / SFC / GB / GBA / NDS / MD / MCD / GG / SS / DC / PS / PS2 / PSP / PCE / NEO·GEO / NGP / WS 共 17 个平台、700 余款 2D 名作的推荐、介绍、媒体评价、游戏截图与包装。
+怀旧游戏推荐特辑 —— 以 90 年代游戏杂志风格，收录 FC / SFC / GB / GBA / NDS / MD / MCD / GG / SS / DC / PS / PS2 / PSP / PCE / NEO·GEO / NGP / WS / 街机 共 18 个平台、760 余款 2D 名作的推荐、介绍、媒体评价、游戏截图与包装。
 
 - 纯静态站点（HTML + CSS + 原生 JS），无需构建，直接部署到 GitHub Pages
 - 适配手机与桌面

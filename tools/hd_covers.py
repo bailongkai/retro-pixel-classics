@@ -39,6 +39,7 @@ PLATFORMS = {
     "neogeo": ["SNK Neo Geo AES", "SNK Neo Geo MVS", "SNK Neo Geo CD"],
     "ngp": ["SNK Neo Geo Pocket Color", "SNK Neo Geo Pocket"],
     "ws": ["WonderSwan Color", "WonderSwan"],
+    "arcade": ["Arcade"],
 }
 ROMAN = {"ii": "2", "iii": "3", "iv": "4", "v": "5", "vi": "6", "vii": "7", "viii": "8", "ix": "9", "x": "10"}
 
@@ -66,9 +67,11 @@ def load_db():
             names.setdefault(el.findtext("DatabaseID"), []).append(el.findtext("AlternateName") or "")
             el.clear()
         elif el.tag == "GameImage":
-            if el.findtext("Type") == "Box - Front":
-                images.setdefault(el.findtext("DatabaseID"), []).append(
-                    (el.findtext("Region") or "", el.findtext("FileName")))
+            t = el.findtext("Type")
+            # arcade games have no box: use the original promotional flyer instead
+            if t == "Box - Front" or t == "Advertisement Flyer - Front":
+                key = el.findtext("DatabaseID") if t == "Box - Front" else "flyer:" + el.findtext("DatabaseID")
+                images.setdefault(key, []).append((el.findtext("Region") or "", el.findtext("FileName")))
             el.clear()
     return games, names, images
 
@@ -84,6 +87,8 @@ def match_all(plats):
     games, names, images = load_db()
     index = {}
     for gid, info in games.items():
+        if gid not in images and "flyer:" + gid in images:
+            images[gid] = images["flyer:" + gid]
         if gid not in images:
             continue
         for n in [info["name"]] + names.get(gid, []):
