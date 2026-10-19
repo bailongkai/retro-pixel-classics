@@ -45,6 +45,9 @@
       "images/pce/pce-dracula-x-rondo-of-blood-s1.png",
       "images/pce/pce-dracula-x-rondo-of-blood-x1.jpg",
       "images/pce/pce-dracula-x-rondo-of-blood-x3.jpg",
+      "images/pce/pce-dracula-x-rondo-of-blood-m1.png",
+      "images/pce/pce-dracula-x-rondo-of-blood-m2.png",
+      "images/pce/pce-dracula-x-rondo-of-blood-m3.png",
       "images/pce/pce-dracula-x-rondo-of-blood-title.png"
     ],
     "cover": "images/pce/pce-dracula-x-rondo-of-blood-box.jpg",
@@ -133,6 +136,9 @@
     "screenshots": [
       "images/pce/pce-ys-i-ii-x1.png",
       "images/pce/pce-ys-i-ii-x2.png",
+      "images/pce/pce-ys-i-ii-m1.jpg",
+      "images/pce/pce-ys-i-ii-m2.jpg",
+      "images/pce/pce-ys-i-ii-m3.jpg",
       "images/pce/pce-ys-i-ii-title.png"
     ],
     "cover": "images/pce/pce-ys-i-ii-box.jpg",
@@ -179,6 +185,10 @@
     "screenshots": [
       "images/pce/pce-lords-of-thunder-s1.png",
       "images/pce/pce-lords-of-thunder-x1.png",
+      "images/pce/pce-lords-of-thunder-m1.jpg",
+      "images/pce/pce-lords-of-thunder-m2.jpg",
+      "images/pce/pce-lords-of-thunder-m3.jpg",
+      "images/pce/pce-lords-of-thunder-m4.jpg",
       "images/pce/pce-lords-of-thunder-title.png"
     ],
     "cover": "images/pce/pce-lords-of-thunder-box.jpg",
@@ -225,6 +235,10 @@
     "screenshots": [
       "images/pce/pce-gate-of-thunder-s1.png",
       "images/pce/pce-gate-of-thunder-x2.png",
+      "images/pce/pce-gate-of-thunder-m1.png",
+      "images/pce/pce-gate-of-thunder-m2.jpg",
+      "images/pce/pce-gate-of-thunder-m3.jpg",
+      "images/pce/pce-gate-of-thunder-m4.jpg",
       "images/pce/pce-gate-of-thunder-title.png"
     ],
     "cover": "images/pce/pce-gate-of-thunder-box.jpg",
@@ -308,6 +322,7 @@
       "images/pce/pce-spriggan-s1.png",
       "images/pce/pce-spriggan-x1.jpg",
       "images/pce/pce-spriggan-x2.jpg",
+      "images/pce/pce-spriggan-m1.jpg",
       "images/pce/pce-spriggan-title.png"
     ],
     "cover": "images/pce/pce-spriggan-box.jpg",
@@ -360,6 +375,9 @@
       "images/pce/pce-soldier-blade-s1.png",
       "images/pce/pce-soldier-blade-s2.png",
       "images/pce/pce-soldier-blade-s3.png",
+      "images/pce/pce-soldier-blade-m1.png",
+      "images/pce/pce-soldier-blade-m2.jpg",
+      "images/pce/pce-soldier-blade-m3.png",
       "images/pce/pce-soldier-blade-title.png"
     ],
     "cover": "images/pce/pce-soldier-blade-box.jpg",
@@ -401,6 +419,7 @@
     "screenshots": [
       "images/pce/pce-bomberman-94-s1.png",
       "images/pce/pce-bomberman-94-s2.png",
+      "images/pce/pce-bomberman-94-m1.png",
       "images/pce/pce-bomberman-94-title.png"
     ],
     "cover": "images/pce/pce-bomberman-94-box.jpg",
@@ -437,6 +456,10 @@
     "screenshots": [
       "images/pce/pce-kaze-no-densetsu-xanadu-ii-s1.png",
       "images/pce/pce-kaze-no-densetsu-xanadu-ii-x1.png",
+      "images/pce/pce-kaze-no-densetsu-xanadu-ii-m1.png",
+      "images/pce/pce-kaze-no-densetsu-xanadu-ii-m2.png",
+      "images/pce/pce-kaze-no-densetsu-xanadu-ii-m3.png",
+      "images/pce/pce-kaze-no-densetsu-xanadu-ii-m4.png",
       "images/pce/pce-kaze-no-densetsu-xanadu-ii-title.png"
     ],
     "cover": "images/pce/pce-kaze-no-densetsu-xanadu-ii-box.jpg",
@@ -484,6 +507,9 @@
       "images/pce/pce-neutopia-s1.png",
       "images/pce/pce-neutopia-s2.png",
       "images/pce/pce-neutopia-s3.png",
+      "images/pce/pce-neutopia-m1.png",
+      "images/pce/pce-neutopia-m2.jpg",
+      "images/pce/pce-neutopia-m3.jpg",
       "images/pce/pce-neutopia-title.png"
     ],
     "cover": "images/pce/pce-neutopia-box.jpg",
@@ -531,6 +557,9 @@
       "images/pce/pce-neutopia-ii-s1.png",
       "images/pce/pce-neutopia-ii-s2.png",
       "images/pce/pce-neutopia-ii-s3.png",
+      "images/pce/pce-neutopia-ii-m1.jpg",
+      "images/pce/pce-neutopia-ii-m2.jpg",
+      "images/pce/pce-neutopia-ii-m3.jpg",
       "images/pce/pce-neutopia-ii-title.png"
     ],
     "cover": "images/pce/pce-neutopia-ii-box.jpg",
@@ -572,6 +601,8 @@
     "screenshots": [
       "images/pce/pce-ys-iv-s1.png",
       "images/pce/pce-ys-iv-s2.png",
+      "images/pce/pce-ys-iv-m1.jpg",
+      "images/pce/pce-ys-iv-m2.jpg",
       "images/pce/pce-ys-iv-title.png"
     ],
     "cover": "images/pce/pce-ys-iv-box.jpg",
@@ -619,6 +650,7 @@
       "images/pce/pce-tengai-makyou-kabuki-s1.png",
       "images/pce/pce-tengai-makyou-kabuki-x1.png",
       "images/pce/pce-tengai-makyou-kabuki-x2.png",
+      "images/pce/pce-tengai-makyou-kabuki-m1.png",
       "images/pce/pce-tengai-makyou-kabuki-title.png"
     ],
     "cover": "images/pce/pce-tengai-makyou-kabuki-box.jpg",
@@ -665,6 +697,8 @@
     "screenshots": [
       "images/pce/pce-tengai-makyou-ziria-s1.png",
       "images/pce/pce-tengai-makyou-ziria-x1.png",
+      "images/pce/pce-tengai-makyou-ziria-m1.png",
+      "images/pce/pce-tengai-makyou-ziria-m2.png",
       "images/pce/pce-tengai-makyou-ziria-title.png"
     ],
     "cover": "images/pce/pce-tengai-makyou-ziria-box.jpg",
@@ -706,6 +740,10 @@
     "screenshots": [
       "images/pce/pce-devils-crush-s1.png",
       "images/pce/pce-devils-crush-s2.png",
+      "images/pce/pce-devils-crush-m1.png",
+      "images/pce/pce-devils-crush-m2.png",
+      "images/pce/pce-devils-crush-m3.jpg",
+      "images/pce/pce-devils-crush-m4.jpg",
       "images/pce/pce-devils-crush-title.png"
     ],
     "cover": "images/pce/pce-devils-crush-box.jpg",
@@ -749,6 +787,7 @@
       "images/pce/pce-r-type-x1.png",
       "images/pce/pce-r-type-x2.png",
       "images/pce/pce-r-type-x3.png",
+      "images/pce/pce-r-type-m1.jpg",
       "images/pce/pce-r-type-title.png"
     ],
     "cover": "images/pce/pce-r-type-box.jpg",
@@ -797,6 +836,9 @@
       "images/pce/pce-linda-cube-s1.png",
       "images/pce/pce-linda-cube-x1.png",
       "images/pce/pce-linda-cube-x2.jpg",
+      "images/pce/pce-linda-cube-m1.jpg",
+      "images/pce/pce-linda-cube-m2.png",
+      "images/pce/pce-linda-cube-m3.png",
       "images/pce/pce-linda-cube-title.png"
     ],
     "cover": "images/pce/pce-linda-cube-box.jpg",
@@ -849,6 +891,9 @@
       "images/pce/pce-blazing-lazers-s1.png",
       "images/pce/pce-blazing-lazers-x1.png",
       "images/pce/pce-blazing-lazers-x2.png",
+      "images/pce/pce-blazing-lazers-m1.jpg",
+      "images/pce/pce-blazing-lazers-m2.jpg",
+      "images/pce/pce-blazing-lazers-m3.jpg",
       "images/pce/pce-blazing-lazers-title.png"
     ],
     "cover": "images/pce/pce-blazing-lazers-box.jpg",
@@ -895,6 +940,7 @@
     "screenshots": [
       "images/pce/pce-nectaris-s1.png",
       "images/pce/pce-nectaris-x1.png",
+      "images/pce/pce-nectaris-m1.png",
       "images/pce/pce-nectaris-title.png"
     ],
     "cover": "images/pce/pce-nectaris-box.jpg",
@@ -936,6 +982,7 @@
     "screenshots": [
       "images/pce/pce-snatcher-s1.png",
       "images/pce/pce-snatcher-x1.jpg",
+      "images/pce/pce-snatcher-m1.jpg",
       "images/pce/pce-snatcher-title.png"
     ],
     "cover": "images/pce/pce-snatcher-box.jpg",
@@ -987,6 +1034,8 @@
     "screenshots": [
       "images/pce/pce-dungeon-explorer-s1.png",
       "images/pce/pce-dungeon-explorer-s2.png",
+      "images/pce/pce-dungeon-explorer-m1.png",
+      "images/pce/pce-dungeon-explorer-m2.jpg",
       "images/pce/pce-dungeon-explorer-title.png"
     ],
     "cover": "images/pce/pce-dungeon-explorer-box.jpg",
@@ -1034,6 +1083,9 @@
       "images/pce/pce-pc-genjin-s1.png",
       "images/pce/pce-pc-genjin-s2.png",
       "images/pce/pce-pc-genjin-s3.png",
+      "images/pce/pce-pc-genjin-m1.png",
+      "images/pce/pce-pc-genjin-m2.jpg",
+      "images/pce/pce-pc-genjin-m3.jpg",
       "images/pce/pce-pc-genjin-title.png"
     ],
     "cover": "images/pce/pce-pc-genjin-box.jpg",
@@ -1074,6 +1126,7 @@
     "is2D": true,
     "screenshots": [
       "images/pce/pce-gradius-ii-s1.png",
+      "images/pce/pce-gradius-ii-m1.png",
       "images/pce/pce-gradius-ii-title.png"
     ],
     "cover": "images/pce/pce-gradius-ii-box.jpg",
@@ -1167,6 +1220,8 @@
     "screenshots": [
       "images/pce/pce-air-zonk-s1.png",
       "images/pce/pce-air-zonk-s2.png",
+      "images/pce/pce-air-zonk-m1.jpg",
+      "images/pce/pce-air-zonk-m2.png",
       "images/pce/pce-air-zonk-title.png"
     ],
     "cover": "images/pce/pce-air-zonk-box.jpg",
@@ -1208,6 +1263,10 @@
     "screenshots": [
       "images/pce/pce-emerald-dragon-s1.png",
       "images/pce/pce-emerald-dragon-s2.png",
+      "images/pce/pce-emerald-dragon-m1.png",
+      "images/pce/pce-emerald-dragon-m2.png",
+      "images/pce/pce-emerald-dragon-m3.png",
+      "images/pce/pce-emerald-dragon-m4.png",
       "images/pce/pce-emerald-dragon-title.png"
     ],
     "cover": "images/pce/pce-emerald-dragon-box.jpg",
@@ -1249,6 +1308,10 @@
     "screenshots": [
       "images/pce/pce-ninja-spirit-s1.png",
       "images/pce/pce-ninja-spirit-s2.png",
+      "images/pce/pce-ninja-spirit-m1.png",
+      "images/pce/pce-ninja-spirit-m2.jpg",
+      "images/pce/pce-ninja-spirit-m3.jpg",
+      "images/pce/pce-ninja-spirit-m4.jpg",
       "images/pce/pce-ninja-spirit-title.png"
     ],
     "cover": "images/pce/pce-ninja-spirit-box.jpg",
@@ -1333,6 +1396,9 @@
       "images/pce/pce-splatterhouse-s1.png",
       "images/pce/pce-splatterhouse-s2.png",
       "images/pce/pce-splatterhouse-s3.png",
+      "images/pce/pce-splatterhouse-m1.jpg",
+      "images/pce/pce-splatterhouse-m2.jpg",
+      "images/pce/pce-splatterhouse-m3.jpg",
       "images/pce/pce-splatterhouse-title.png"
     ],
     "cover": "images/pce/pce-splatterhouse-box.jpg",
@@ -1374,6 +1440,10 @@
     "screenshots": [
       "images/pce/pce-parasol-stars-s1.png",
       "images/pce/pce-parasol-stars-s2.png",
+      "images/pce/pce-parasol-stars-m1.png",
+      "images/pce/pce-parasol-stars-m2.jpg",
+      "images/pce/pce-parasol-stars-m3.jpg",
+      "images/pce/pce-parasol-stars-m4.jpg",
       "images/pce/pce-parasol-stars-title.png"
     ],
     "cover": "images/pce/pce-parasol-stars-box.jpg",
@@ -1420,6 +1490,10 @@
     "screenshots": [
       "images/pce/pce-magical-chase-s1.png",
       "images/pce/pce-magical-chase-s2.png",
+      "images/pce/pce-magical-chase-m1.png",
+      "images/pce/pce-magical-chase-m2.png",
+      "images/pce/pce-magical-chase-m3.jpg",
+      "images/pce/pce-magical-chase-m4.jpg",
       "images/pce/pce-magical-chase-title.png"
     ],
     "cover": "images/pce/pce-magical-chase-box.jpg",
@@ -1460,6 +1534,7 @@
     "is2D": true,
     "screenshots": [
       "images/pce/pce-super-darius-s1.png",
+      "images/pce/pce-super-darius-m1.jpg",
       "images/pce/pce-super-darius-title.png"
     ],
     "cover": "images/pce/pce-super-darius-box.jpg",
@@ -1542,6 +1617,9 @@
     "screenshots": [
       "images/pce/pce-cosmic-fantasy-2-s1.png",
       "images/pce/pce-cosmic-fantasy-2-x1.png",
+      "images/pce/pce-cosmic-fantasy-2-m1.jpg",
+      "images/pce/pce-cosmic-fantasy-2-m2.jpg",
+      "images/pce/pce-cosmic-fantasy-2-m3.jpg",
       "images/pce/pce-cosmic-fantasy-2-title.png"
     ],
     "cover": "images/pce/pce-cosmic-fantasy-2-box.jpg",
@@ -1583,6 +1661,7 @@
     "screenshots": [
       "images/pce/pce-legend-of-heroes-s1.png",
       "images/pce/pce-legend-of-heroes-s2.png",
+      "images/pce/pce-legend-of-heroes-m1.png",
       "images/pce/pce-legend-of-heroes-title.png"
     ],
     "cover": "images/pce/pce-legend-of-heroes-box.jpg",
@@ -1618,6 +1697,7 @@
     "screenshots": [
       "images/pce/pce-tokimeki-memorial-s1.png",
       "images/pce/pce-tokimeki-memorial-s2.png",
+      "images/pce/pce-tokimeki-memorial-m1.png",
       "images/pce/pce-tokimeki-memorial-title.png"
     ],
     "cover": "images/pce/pce-tokimeki-memorial-box.jpg",
@@ -1654,6 +1734,7 @@
     "screenshots": [
       "images/pce/pce-lodoss-war-s1.png",
       "images/pce/pce-lodoss-war-x1.png",
+      "images/pce/pce-lodoss-war-m1.jpg",
       "images/pce/pce-lodoss-war-title.png"
     ],
     "cover": "images/pce/pce-lodoss-war-box.jpg",
@@ -1731,6 +1812,7 @@
       "images/pce/pce-popful-mail-x1.png",
       "images/pce/pce-popful-mail-x2.png",
       "images/pce/pce-popful-mail-x3.png",
+      "images/pce/pce-popful-mail-m1.png",
       "images/pce/pce-popful-mail-title.png"
     ],
     "cover": "images/pce/pce-popful-mail-box.jpg",
@@ -1773,6 +1855,7 @@
     "screenshots": [
       "images/pce/pce-cosmic-fantasy-3-s1.png",
       "images/pce/pce-cosmic-fantasy-3-x1.png",
+      "images/pce/pce-cosmic-fantasy-3-m1.png",
       "images/pce/pce-cosmic-fantasy-3-title.png"
     ],
     "cover": "images/pce/pce-cosmic-fantasy-3-box.jpg",
@@ -1819,6 +1902,8 @@
     "screenshots": [
       "images/pce/pce-dungeon-explorer-ii-s1.png",
       "images/pce/pce-dungeon-explorer-ii-s2.png",
+      "images/pce/pce-dungeon-explorer-ii-m1.jpg",
+      "images/pce/pce-dungeon-explorer-ii-m2.jpg",
       "images/pce/pce-dungeon-explorer-ii-title.png"
     ],
     "cover": "images/pce/pce-dungeon-explorer-ii-box.jpg",

@@ -46,6 +46,8 @@
       "images/md/md-phantasy-star-iv-x2.png",
       "images/md/md-phantasy-star-iv-x3.png",
       "images/md/md-phantasy-star-iv-s1.png",
+      "images/md/md-phantasy-star-iv-m1.png",
+      "images/md/md-phantasy-star-iv-m2.png",
       "images/md/md-phantasy-star-iv-title.png"
     ],
     "cover": "images/md/md-phantasy-star-iv-box.jpg",
@@ -100,6 +102,7 @@
       "images/md/md-shining-force-ii-x3.png",
       "images/md/md-shining-force-ii-s1.png",
       "images/md/md-shining-force-ii-s2.png",
+      "images/md/md-shining-force-ii-m1.jpg",
       "images/md/md-shining-force-ii-title.png"
     ],
     "cover": "images/md/md-shining-force-ii-box.jpg",
@@ -153,6 +156,8 @@
       "images/md/md-gunstar-heroes-x2.png",
       "images/md/md-gunstar-heroes-x3.png",
       "images/md/md-gunstar-heroes-s1.png",
+      "images/md/md-gunstar-heroes-m1.png",
+      "images/md/md-gunstar-heroes-m2.png",
       "images/md/md-gunstar-heroes-title.png"
     ],
     "cover": "images/md/md-gunstar-heroes-box.jpg",
@@ -206,6 +211,8 @@
       "images/md/md-monster-world-iv-x2.png",
       "images/md/md-monster-world-iv-x3.png",
       "images/md/md-monster-world-iv-s1.png",
+      "images/md/md-monster-world-iv-m1.png",
+      "images/md/md-monster-world-iv-m2.png",
       "images/md/md-monster-world-iv-title.png"
     ],
     "cover": "images/md/md-monster-world-iv-box.jpg",
@@ -259,6 +266,8 @@
       "images/md/md-streets-of-rage-2-x2.png",
       "images/md/md-streets-of-rage-2-x3.png",
       "images/md/md-streets-of-rage-2-s1.png",
+      "images/md/md-streets-of-rage-2-m1.jpg",
+      "images/md/md-streets-of-rage-2-m2.jpg",
       "images/md/md-streets-of-rage-2-title.png"
     ],
     "cover": "images/md/md-streets-of-rage-2-box.jpg",
@@ -309,7 +318,11 @@
     "is2D": true,
     "screenshots": [
       "images/md/md-sonic-3-and-knuckles-x1.png",
-      "images/md/md-sonic-3-and-knuckles-x2.png"
+      "images/md/md-sonic-3-and-knuckles-x2.png",
+      "images/md/md-sonic-3-and-knuckles-m1.png",
+      "images/md/md-sonic-3-and-knuckles-m2.png",
+      "images/md/md-sonic-3-and-knuckles-m3.jpg",
+      "images/md/md-sonic-3-and-knuckles-m4.jpg"
     ],
     "cover": "images/md/md-sonic-3-and-knuckles-box.jpg",
     "styleMatch": 1,
@@ -362,6 +375,8 @@
       "images/md/md-sonic-the-hedgehog-2-x2.png",
       "images/md/md-sonic-the-hedgehog-2-x3.png",
       "images/md/md-sonic-the-hedgehog-2-s1.png",
+      "images/md/md-sonic-the-hedgehog-2-m1.jpg",
+      "images/md/md-sonic-the-hedgehog-2-m2.png",
       "images/md/md-sonic-the-hedgehog-2-title.png"
     ],
     "cover": "images/md/md-sonic-the-hedgehog-2-box.jpg",
@@ -416,6 +431,7 @@
       "images/md/md-landstalker-x3.png",
       "images/md/md-landstalker-s1.png",
       "images/md/md-landstalker-s2.png",
+      "images/md/md-landstalker-m1.jpg",
       "images/md/md-landstalker-title.png"
     ],
     "cover": "images/md/md-landstalker-box.jpg",
@@ -469,6 +485,8 @@
       "images/md/md-beyond-oasis-x2.png",
       "images/md/md-beyond-oasis-x3.png",
       "images/md/md-beyond-oasis-s1.png",
+      "images/md/md-beyond-oasis-m1.png",
+      "images/md/md-beyond-oasis-m2.jpg",
       "images/md/md-beyond-oasis-title.png"
     ],
     "cover": "images/md/md-beyond-oasis-box.jpg",
@@ -522,6 +540,8 @@
       "images/md/md-shining-force-x2.png",
       "images/md/md-shining-force-x3.png",
       "images/md/md-shining-force-s1.png",
+      "images/md/md-shining-force-m1.jpg",
+      "images/md/md-shining-force-m2.jpg",
       "images/md/md-shining-force-title.png"
     ],
     "cover": "images/md/md-shining-force-box.jpg",
@@ -566,6 +586,7 @@
       "images/md/md-langrisser-ii-x3.png",
       "images/md/md-langrisser-ii-s1.png",
       "images/md/md-langrisser-ii-s2.png",
+      "images/md/md-langrisser-ii-m1.png",
       "images/md/md-langrisser-ii-title.png"
     ],
     "cover": "images/md/md-langrisser-ii-box.jpg",
@@ -620,6 +641,7 @@
       "images/md/md-castlevania-bloodlines-x3.png",
       "images/md/md-castlevania-bloodlines-s1.png",
       "images/md/md-castlevania-bloodlines-s2.png",
+      "images/md/md-castlevania-bloodlines-m1.jpg",
       "images/md/md-castlevania-bloodlines-title.png"
     ],
     "cover": "images/md/md-castlevania-bloodlines-box.jpg",
@@ -674,6 +696,7 @@
       "images/md/md-contra-hard-corps-x3.png",
       "images/md/md-contra-hard-corps-s1.png",
       "images/md/md-contra-hard-corps-s2.png",
+      "images/md/md-contra-hard-corps-m1.png",
       "images/md/md-contra-hard-corps-title.png"
     ],
     "cover": "images/md/md-contra-hard-corps-box.jpg",
@@ -728,6 +751,7 @@
       "images/md/md-phantasy-star-ii-x3.png",
       "images/md/md-phantasy-star-ii-s1.png",
       "images/md/md-phantasy-star-ii-s2.png",
+      "images/md/md-phantasy-star-ii-m1.jpg",
       "images/md/md-phantasy-star-ii-title.png"
     ],
     "cover": "images/md/md-phantasy-star-ii-box.jpg",
@@ -782,6 +806,7 @@
       "images/md/md-revenge-of-shinobi-x3.png",
       "images/md/md-revenge-of-shinobi-s1.png",
       "images/md/md-revenge-of-shinobi-s2.png",
+      "images/md/md-revenge-of-shinobi-m1.jpg",
       "images/md/md-revenge-of-shinobi-title.png"
     ],
     "cover": "images/md/md-revenge-of-shinobi-box.jpg",
@@ -835,6 +860,8 @@
       "images/md/md-thunder-force-iv-x2.png",
       "images/md/md-thunder-force-iv-x3.png",
       "images/md/md-thunder-force-iv-s1.png",
+      "images/md/md-thunder-force-iv-m1.png",
+      "images/md/md-thunder-force-iv-m2.png",
       "images/md/md-thunder-force-iv-title.png"
     ],
     "cover": "images/md/md-thunder-force-iv-box.jpg",
@@ -888,6 +915,8 @@
       "images/md/md-yu-yu-hakusho-x2.png",
       "images/md/md-yu-yu-hakusho-x3.png",
       "images/md/md-yu-yu-hakusho-s1.png",
+      "images/md/md-yu-yu-hakusho-m1.jpg",
+      "images/md/md-yu-yu-hakusho-m2.jpg",
       "images/md/md-yu-yu-hakusho-title.png"
     ],
     "cover": "images/md/md-yu-yu-hakusho-box.jpg",
@@ -942,6 +971,7 @@
       "images/md/md-aladdin-x3.png",
       "images/md/md-aladdin-s1.png",
       "images/md/md-aladdin-s2.png",
+      "images/md/md-aladdin-m1.jpg",
       "images/md/md-aladdin-title.png"
     ],
     "cover": "images/md/md-aladdin-box.jpg",
@@ -996,6 +1026,7 @@
       "images/md/md-strider-x3.png",
       "images/md/md-strider-s1.png",
       "images/md/md-strider-s2.png",
+      "images/md/md-strider-m1.jpg",
       "images/md/md-strider-title.png"
     ],
     "cover": "images/md/md-strider-box.jpg",
@@ -1049,6 +1080,8 @@
       "images/md/md-rocket-knight-adventures-x2.png",
       "images/md/md-rocket-knight-adventures-x3.png",
       "images/md/md-rocket-knight-adventures-s1.png",
+      "images/md/md-rocket-knight-adventures-m1.png",
+      "images/md/md-rocket-knight-adventures-m2.jpg",
       "images/md/md-rocket-knight-adventures-title.png"
     ],
     "cover": "images/md/md-rocket-knight-adventures-box.jpg",
@@ -1103,6 +1136,7 @@
       "images/md/md-shinobi-iii-x3.png",
       "images/md/md-shinobi-iii-s1.png",
       "images/md/md-shinobi-iii-s2.png",
+      "images/md/md-shinobi-iii-m1.png",
       "images/md/md-shinobi-iii-title.png"
     ],
     "cover": "images/md/md-shinobi-iii-box.jpg",
@@ -1147,6 +1181,7 @@
       "images/md/md-puyo-puyo-2-x3.png",
       "images/md/md-puyo-puyo-2-s1.png",
       "images/md/md-puyo-puyo-2-s2.png",
+      "images/md/md-puyo-puyo-2-m1.jpg",
       "images/md/md-puyo-puyo-2-title.png"
     ],
     "cover": "images/md/md-puyo-puyo-2-box.jpg",
@@ -1197,6 +1232,11 @@
     "is2D": true,
     "screenshots": [
       "images/md/md-castle-of-illusion-s1.png",
+      "images/md/md-castle-of-illusion-m1.png",
+      "images/md/md-castle-of-illusion-m2.png",
+      "images/md/md-castle-of-illusion-m3.png",
+      "images/md/md-castle-of-illusion-m4.png",
+      "images/md/md-castle-of-illusion-m5.png",
       "images/md/md-castle-of-illusion-title.png"
     ],
     "cover": "images/md/md-castle-of-illusion-box.jpg",
@@ -1250,6 +1290,8 @@
       "images/md/md-ristar-x2.png",
       "images/md/md-ristar-x3.png",
       "images/md/md-ristar-s1.png",
+      "images/md/md-ristar-m1.jpg",
+      "images/md/md-ristar-m2.jpg",
       "images/md/md-ristar-title.png"
     ],
     "cover": "images/md/md-ristar-box.jpg",
@@ -1303,6 +1345,8 @@
       "images/md/md-crusader-of-centy-x2.png",
       "images/md/md-crusader-of-centy-x3.png",
       "images/md/md-crusader-of-centy-s1.png",
+      "images/md/md-crusader-of-centy-m1.png",
+      "images/md/md-crusader-of-centy-m2.png",
       "images/md/md-crusader-of-centy-title.png"
     ],
     "cover": "images/md/md-crusader-of-centy-box.jpg",
@@ -1357,6 +1401,7 @@
       "images/md/md-dynamite-headdy-x3.png",
       "images/md/md-dynamite-headdy-s1.png",
       "images/md/md-dynamite-headdy-s2.png",
+      "images/md/md-dynamite-headdy-m1.png",
       "images/md/md-dynamite-headdy-title.png"
     ],
     "cover": "images/md/md-dynamite-headdy-box.jpg",
@@ -1411,6 +1456,7 @@
       "images/md/md-streets-of-rage-3-x3.png",
       "images/md/md-streets-of-rage-3-s1.png",
       "images/md/md-streets-of-rage-3-s2.png",
+      "images/md/md-streets-of-rage-3-m1.jpg",
       "images/md/md-streets-of-rage-3-title.png"
     ],
     "cover": "images/md/md-streets-of-rage-3-box.jpg",
@@ -1465,6 +1511,7 @@
       "images/md/md-earthworm-jim-x3.png",
       "images/md/md-earthworm-jim-s1.png",
       "images/md/md-earthworm-jim-s2.png",
+      "images/md/md-earthworm-jim-m1.png",
       "images/md/md-earthworm-jim-title.png"
     ],
     "cover": "images/md/md-earthworm-jim-box.jpg",
@@ -1518,6 +1565,8 @@
       "images/md/md-thunder-force-iii-x2.png",
       "images/md/md-thunder-force-iii-x3.png",
       "images/md/md-thunder-force-iii-s1.png",
+      "images/md/md-thunder-force-iii-m1.png",
+      "images/md/md-thunder-force-iii-m2.png",
       "images/md/md-thunder-force-iii-title.png"
     ],
     "cover": "images/md/md-thunder-force-iii-box.jpg",
@@ -1572,6 +1621,7 @@
       "images/md/md-comix-zone-x3.png",
       "images/md/md-comix-zone-s1.png",
       "images/md/md-comix-zone-s2.png",
+      "images/md/md-comix-zone-m1.jpg",
       "images/md/md-comix-zone-title.png"
     ],
     "cover": "images/md/md-comix-zone-box.jpg",
@@ -1625,6 +1675,8 @@
       "images/md/md-alien-soldier-x2.png",
       "images/md/md-alien-soldier-x3.png",
       "images/md/md-alien-soldier-s1.png",
+      "images/md/md-alien-soldier-m1.jpg",
+      "images/md/md-alien-soldier-m2.png",
       "images/md/md-alien-soldier-title.png"
     ],
     "cover": "images/md/md-alien-soldier-box.jpg",
@@ -1679,6 +1731,7 @@
       "images/md/md-ecco-the-dolphin-x3.png",
       "images/md/md-ecco-the-dolphin-s1.png",
       "images/md/md-ecco-the-dolphin-s2.png",
+      "images/md/md-ecco-the-dolphin-m1.jpg",
       "images/md/md-ecco-the-dolphin-title.png"
     ],
     "cover": "images/md/md-ecco-the-dolphin-box.jpg",
@@ -1732,6 +1785,8 @@
       "images/md/md-wonder-boy-in-monster-world-x2.png",
       "images/md/md-wonder-boy-in-monster-world-x3.png",
       "images/md/md-wonder-boy-in-monster-world-s1.png",
+      "images/md/md-wonder-boy-in-monster-world-m1.png",
+      "images/md/md-wonder-boy-in-monster-world-m2.png",
       "images/md/md-wonder-boy-in-monster-world-title.png"
     ],
     "cover": "images/md/md-wonder-boy-in-monster-world-box.jpg",
@@ -1786,6 +1841,7 @@
       "images/md/md-light-crusader-x3.png",
       "images/md/md-light-crusader-s1.png",
       "images/md/md-light-crusader-s2.png",
+      "images/md/md-light-crusader-m1.jpg",
       "images/md/md-light-crusader-title.png"
     ],
     "cover": "images/md/md-light-crusader-box.jpg",
@@ -1837,6 +1893,10 @@
     "screenshots": [
       "images/md/md-musha-s1.png",
       "images/md/md-musha-s2.png",
+      "images/md/md-musha-m1.png",
+      "images/md/md-musha-m2.png",
+      "images/md/md-musha-m3.png",
+      "images/md/md-musha-m4.png",
       "images/md/md-musha-title.png"
     ],
     "cover": "images/md/md-musha-box.jpg",
@@ -1891,6 +1951,7 @@
       "images/md/md-shining-in-the-darkness-x3.png",
       "images/md/md-shining-in-the-darkness-s1.png",
       "images/md/md-shining-in-the-darkness-s2.png",
+      "images/md/md-shining-in-the-darkness-m1.png",
       "images/md/md-shining-in-the-darkness-title.png"
     ],
     "cover": "images/md/md-shining-in-the-darkness-box.jpg",
@@ -1945,6 +2006,7 @@
       "images/md/md-phantasy-star-iii-x3.png",
       "images/md/md-phantasy-star-iii-s1.png",
       "images/md/md-phantasy-star-iii-s2.png",
+      "images/md/md-phantasy-star-iii-m1.png",
       "images/md/md-phantasy-star-iii-title.png"
     ],
     "cover": "images/md/md-phantasy-star-iii-box.jpg",
@@ -1988,6 +2050,8 @@
       "images/md/md-warsong-x2.png",
       "images/md/md-warsong-x3.png",
       "images/md/md-warsong-s1.png",
+      "images/md/md-warsong-m1.png",
+      "images/md/md-warsong-m2.png",
       "images/md/md-warsong-title.png"
     ],
     "cover": "images/md/md-warsong-box.jpg",
@@ -2041,6 +2105,8 @@
       "images/md/md-quackshot-x2.png",
       "images/md/md-quackshot-x3.png",
       "images/md/md-quackshot-s1.png",
+      "images/md/md-quackshot-m1.png",
+      "images/md/md-quackshot-m2.png",
       "images/md/md-quackshot-title.png"
     ],
     "cover": "images/md/md-quackshot-box.jpg",
@@ -2088,6 +2154,9 @@
       "images/md/md-king-colossus-x1.png",
       "images/md/md-king-colossus-x2.png",
       "images/md/md-king-colossus-s1.png",
+      "images/md/md-king-colossus-m1.png",
+      "images/md/md-king-colossus-m2.png",
+      "images/md/md-king-colossus-m3.png",
       "images/md/md-king-colossus-title.png"
     ],
     "cover": "images/md/md-king-colossus-box.jpg",
@@ -2140,6 +2209,9 @@
       "images/md/md-shadowrun-x1.png",
       "images/md/md-shadowrun-s1.png",
       "images/md/md-shadowrun-s2.png",
+      "images/md/md-shadowrun-m1.png",
+      "images/md/md-shadowrun-m2.png",
+      "images/md/md-shadowrun-m3.png",
       "images/md/md-shadowrun-title.png"
     ],
     "cover": "images/md/md-shadowrun-box.jpg",
@@ -2181,7 +2253,10 @@
     "screenshots": [
       "images/md/md-pier-solar-x1.png",
       "images/md/md-pier-solar-x2.png",
-      "images/md/md-pier-solar-x3.png"
+      "images/md/md-pier-solar-x3.png",
+      "images/md/md-pier-solar-m1.png",
+      "images/md/md-pier-solar-m2.png",
+      "images/md/md-pier-solar-m3.jpg"
     ],
     "cover": "images/md/md-pier-solar-box.jpg",
     "styleMatch": 3,
@@ -2233,6 +2308,9 @@
       "images/md/md-surging-aura-x1.png",
       "images/md/md-surging-aura-x2.png",
       "images/md/md-surging-aura-s1.png",
+      "images/md/md-surging-aura-m1.jpg",
+      "images/md/md-surging-aura-m2.jpg",
+      "images/md/md-surging-aura-m3.jpg",
       "images/md/md-surging-aura-title.png"
     ],
     "cover": "images/md/md-surging-aura-box.jpg",
@@ -2285,6 +2363,7 @@
       "images/md/md-ys-iii-x1.png",
       "images/md/md-ys-iii-x2.png",
       "images/md/md-ys-iii-s1.png",
+      "images/md/md-ys-iii-m1.png",
       "images/md/md-ys-iii-title.png"
     ],
     "cover": "images/md/md-ys-iii-box.jpg",
@@ -2336,6 +2415,7 @@
     "screenshots": [
       "images/md/md-rent-a-hero-x1.png",
       "images/md/md-rent-a-hero-x2.png",
+      "images/md/md-rent-a-hero-m1.jpg",
       "images/md/md-rent-a-hero-title.png"
     ],
     "cover": "images/md/md-rent-a-hero-box.jpg",
@@ -2389,6 +2469,8 @@
       "images/md/md-sword-of-vermilion-x2.png",
       "images/md/md-sword-of-vermilion-x3.png",
       "images/md/md-sword-of-vermilion-s1.png",
+      "images/md/md-sword-of-vermilion-m1.png",
+      "images/md/md-sword-of-vermilion-m2.png",
       "images/md/md-sword-of-vermilion-title.png"
     ],
     "cover": "images/md/md-sword-of-vermilion-box.jpg",
@@ -2431,6 +2513,8 @@
       "images/md/md-faery-tale-adventure-x1.png",
       "images/md/md-faery-tale-adventure-x2.png",
       "images/md/md-faery-tale-adventure-s1.png",
+      "images/md/md-faery-tale-adventure-m1.png",
+      "images/md/md-faery-tale-adventure-m2.jpg",
       "images/md/md-faery-tale-adventure-title.png"
     ],
     "cover": "images/md/md-faery-tale-adventure-box.jpg",
@@ -2472,6 +2556,7 @@
     "screenshots": [
       "images/md/md-arcus-odyssey-s1.png",
       "images/md/md-arcus-odyssey-s2.png",
+      "images/md/md-arcus-odyssey-m1.png",
       "images/md/md-arcus-odyssey-title.png"
     ],
     "cover": "images/md/md-arcus-odyssey-box.jpg",
@@ -2560,6 +2645,7 @@
       "images/md/md-super-hydlide-s1.png",
       "images/md/md-super-hydlide-s2.png",
       "images/md/md-super-hydlide-s3.png",
+      "images/md/md-super-hydlide-m1.jpg",
       "images/md/md-super-hydlide-title.png"
     ],
     "cover": "images/md/md-super-hydlide-box.jpg",

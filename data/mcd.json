@@ -45,6 +45,8 @@
     "screenshots": [
       "images/mcd/mcd-lunar-eternal-blue-s1.png",
       "images/mcd/mcd-lunar-eternal-blue-s2.png",
+      "images/mcd/mcd-lunar-eternal-blue-m1.jpg",
+      "images/mcd/mcd-lunar-eternal-blue-m2.jpg",
       "images/mcd/mcd-lunar-eternal-blue-title.png"
     ],
     "cover": "images/mcd/mcd-lunar-eternal-blue-box.jpg",
@@ -97,6 +99,10 @@
     "screenshots": [
       "images/mcd/mcd-lunar-the-silver-star-s1.png",
       "images/mcd/mcd-lunar-the-silver-star-s2.png",
+      "images/mcd/mcd-lunar-the-silver-star-m1.png",
+      "images/mcd/mcd-lunar-the-silver-star-m2.jpg",
+      "images/mcd/mcd-lunar-the-silver-star-m3.png",
+      "images/mcd/mcd-lunar-the-silver-star-m4.png",
       "images/mcd/mcd-lunar-the-silver-star-title.png"
     ],
     "cover": "images/mcd/mcd-lunar-the-silver-star-box.jpg",
@@ -148,6 +154,11 @@
     "is2D": true,
     "screenshots": [
       "images/mcd/mcd-snatcher-s1.png",
+      "images/mcd/mcd-snatcher-m1.jpg",
+      "images/mcd/mcd-snatcher-m2.jpg",
+      "images/mcd/mcd-snatcher-m3.jpg",
+      "images/mcd/mcd-snatcher-m4.jpg",
+      "images/mcd/mcd-snatcher-m5.jpg",
       "images/mcd/mcd-snatcher-title.png"
     ],
     "cover": "images/mcd/mcd-snatcher-box.jpg",
@@ -201,6 +212,9 @@
       "images/mcd/mcd-sonic-cd-s1.png",
       "images/mcd/mcd-sonic-cd-s2.png",
       "images/mcd/mcd-sonic-cd-s3.png",
+      "images/mcd/mcd-sonic-cd-m1.png",
+      "images/mcd/mcd-sonic-cd-m2.png",
+      "images/mcd/mcd-sonic-cd-m3.png",
       "images/mcd/mcd-sonic-cd-title.png"
     ],
     "cover": "images/mcd/mcd-sonic-cd-box.jpg",
@@ -253,6 +267,10 @@
     "screenshots": [
       "images/mcd/mcd-popful-mail-s1.png",
       "images/mcd/mcd-popful-mail-s2.png",
+      "images/mcd/mcd-popful-mail-m1.png",
+      "images/mcd/mcd-popful-mail-m2.png",
+      "images/mcd/mcd-popful-mail-m3.png",
+      "images/mcd/mcd-popful-mail-m4.png",
       "images/mcd/mcd-popful-mail-title.png"
     ],
     "cover": "images/mcd/mcd-popful-mail-box.jpg",
@@ -301,6 +319,9 @@
       "images/mcd/mcd-shining-force-cd-s1.png",
       "images/mcd/mcd-shining-force-cd-s2.png",
       "images/mcd/mcd-shining-force-cd-s3.png",
+      "images/mcd/mcd-shining-force-cd-m1.png",
+      "images/mcd/mcd-shining-force-cd-m2.png",
+      "images/mcd/mcd-shining-force-cd-m3.png",
       "images/mcd/mcd-shining-force-cd-title.png"
     ],
     "cover": "images/mcd/mcd-shining-force-cd-box.jpg",
@@ -349,6 +370,9 @@
       "images/mcd/mcd-earthworm-jim-special-edition-s1.png",
       "images/mcd/mcd-earthworm-jim-special-edition-s2.png",
       "images/mcd/mcd-earthworm-jim-special-edition-s3.png",
+      "images/mcd/mcd-earthworm-jim-special-edition-m1.png",
+      "images/mcd/mcd-earthworm-jim-special-edition-m2.png",
+      "images/mcd/mcd-earthworm-jim-special-edition-m3.png",
       "images/mcd/mcd-earthworm-jim-special-edition-title.png"
     ],
     "cover": "images/mcd/mcd-earthworm-jim-special-edition-box.jpg",
@@ -401,6 +425,10 @@
     "screenshots": [
       "images/mcd/mcd-final-fight-cd-s1.png",
       "images/mcd/mcd-final-fight-cd-s2.png",
+      "images/mcd/mcd-final-fight-cd-m1.png",
+      "images/mcd/mcd-final-fight-cd-m2.png",
+      "images/mcd/mcd-final-fight-cd-m3.png",
+      "images/mcd/mcd-final-fight-cd-m4.png",
       "images/mcd/mcd-final-fight-cd-title.png"
     ],
     "cover": "images/mcd/mcd-final-fight-cd-box.jpg",
@@ -453,6 +481,10 @@
     "screenshots": [
       "images/mcd/mcd-robo-aleste-s1.png",
       "images/mcd/mcd-robo-aleste-s2.png",
+      "images/mcd/mcd-robo-aleste-m1.png",
+      "images/mcd/mcd-robo-aleste-m2.png",
+      "images/mcd/mcd-robo-aleste-m3.png",
+      "images/mcd/mcd-robo-aleste-m4.png",
       "images/mcd/mcd-robo-aleste-title.png"
     ],
     "cover": "images/mcd/mcd-robo-aleste-box.jpg",
@@ -506,6 +538,9 @@
       "images/mcd/mcd-ecco-the-dolphin-cd-s1.png",
       "images/mcd/mcd-ecco-the-dolphin-cd-s2.png",
       "images/mcd/mcd-ecco-the-dolphin-cd-s3.png",
+      "images/mcd/mcd-ecco-the-dolphin-cd-m1.png",
+      "images/mcd/mcd-ecco-the-dolphin-cd-m2.png",
+      "images/mcd/mcd-ecco-the-dolphin-cd-m3.png",
       "images/mcd/mcd-ecco-the-dolphin-cd-title.png"
     ],
     "cover": "images/mcd/mcd-ecco-the-dolphin-cd-box.jpg",
@@ -558,6 +593,10 @@
     "screenshots": [
       "images/mcd/mcd-keio-flying-squadron-s1.png",
       "images/mcd/mcd-keio-flying-squadron-s2.png",
+      "images/mcd/mcd-keio-flying-squadron-m1.png",
+      "images/mcd/mcd-keio-flying-squadron-m2.png",
+      "images/mcd/mcd-keio-flying-squadron-m3.png",
+      "images/mcd/mcd-keio-flying-squadron-m4.png",
       "images/mcd/mcd-keio-flying-squadron-title.png"
     ],
     "cover": "images/mcd/mcd-keio-flying-squadron-box.jpg",
@@ -601,6 +640,8 @@
       "images/mcd/mcd-shin-megami-tensei-s1.png",
       "images/mcd/mcd-shin-megami-tensei-x1.png",
       "images/mcd/mcd-shin-megami-tensei-x2.png",
+      "images/mcd/mcd-shin-megami-tensei-m2.png",
+      "images/mcd/mcd-shin-megami-tensei-m3.png",
       "images/mcd/mcd-shin-megami-tensei-title.png"
     ],
     "cover": "images/mcd/mcd-shin-megami-tensei-box.jpg",
@@ -654,6 +695,9 @@
       "images/mcd/mcd-silpheed-s1.png",
       "images/mcd/mcd-silpheed-s2.png",
       "images/mcd/mcd-silpheed-s3.png",
+      "images/mcd/mcd-silpheed-m1.png",
+      "images/mcd/mcd-silpheed-m2.png",
+      "images/mcd/mcd-silpheed-m3.png",
       "images/mcd/mcd-silpheed-title.png"
     ],
     "cover": "images/mcd/mcd-silpheed-box.jpg",
@@ -701,6 +745,10 @@
     "screenshots": [
       "images/mcd/mcd-lords-of-thunder-s1.png",
       "images/mcd/mcd-lords-of-thunder-s2.png",
+      "images/mcd/mcd-lords-of-thunder-m1.png",
+      "images/mcd/mcd-lords-of-thunder-m2.png",
+      "images/mcd/mcd-lords-of-thunder-m3.png",
+      "images/mcd/mcd-lords-of-thunder-m4.png",
       "images/mcd/mcd-lords-of-thunder-title.png"
     ],
     "cover": "images/mcd/mcd-lords-of-thunder-box.jpg",
@@ -743,6 +791,10 @@
     "screenshots": [
       "images/mcd/mcd-vay-s1.png",
       "images/mcd/mcd-vay-x1.png",
+      "images/mcd/mcd-vay-m1.png",
+      "images/mcd/mcd-vay-m2.png",
+      "images/mcd/mcd-vay-m3.png",
+      "images/mcd/mcd-vay-m4.png",
       "images/mcd/mcd-vay-title.png"
     ],
     "cover": "images/mcd/mcd-vay-box.jpg",
@@ -785,6 +837,10 @@
     "screenshots": [
       "images/mcd/mcd-illusion-city-s1.png",
       "images/mcd/mcd-illusion-city-x1.png",
+      "images/mcd/mcd-illusion-city-m1.png",
+      "images/mcd/mcd-illusion-city-m2.png",
+      "images/mcd/mcd-illusion-city-m3.png",
+      "images/mcd/mcd-illusion-city-m4.png",
       "images/mcd/mcd-illusion-city-title.png"
     ],
     "cover": "images/mcd/mcd-illusion-city-box.jpg",
@@ -837,6 +893,10 @@
     "screenshots": [
       "images/mcd/mcd-dark-wizard-s1.png",
       "images/mcd/mcd-dark-wizard-x1.png",
+      "images/mcd/mcd-dark-wizard-m1.png",
+      "images/mcd/mcd-dark-wizard-m2.png",
+      "images/mcd/mcd-dark-wizard-m3.png",
+      "images/mcd/mcd-dark-wizard-m4.png",
       "images/mcd/mcd-dark-wizard-title.png"
     ],
     "cover": "images/mcd/mcd-dark-wizard-box.jpg",
@@ -879,6 +939,10 @@
     "screenshots": [
       "images/mcd/mcd-heart-of-the-alien-s1.png",
       "images/mcd/mcd-heart-of-the-alien-s2.png",
+      "images/mcd/mcd-heart-of-the-alien-m1.png",
+      "images/mcd/mcd-heart-of-the-alien-m2.png",
+      "images/mcd/mcd-heart-of-the-alien-m3.png",
+      "images/mcd/mcd-heart-of-the-alien-m4.png",
       "images/mcd/mcd-heart-of-the-alien-title.png"
     ],
     "cover": "images/mcd/mcd-heart-of-the-alien-box.jpg",
@@ -922,6 +986,9 @@
       "images/mcd/mcd-yumimi-mix-s1.png",
       "images/mcd/mcd-yumimi-mix-x1.png",
       "images/mcd/mcd-yumimi-mix-x2.png",
+      "images/mcd/mcd-yumimi-mix-m1.png",
+      "images/mcd/mcd-yumimi-mix-m2.png",
+      "images/mcd/mcd-yumimi-mix-m3.png",
       "images/mcd/mcd-yumimi-mix-title.png"
     ],
     "cover": "images/mcd/mcd-yumimi-mix-box.jpg",
@@ -970,6 +1037,9 @@
       "images/mcd/mcd-sol-feace-s1.png",
       "images/mcd/mcd-sol-feace-s2.png",
       "images/mcd/mcd-sol-feace-s3.png",
+      "images/mcd/mcd-sol-feace-m1.png",
+      "images/mcd/mcd-sol-feace-m2.png",
+      "images/mcd/mcd-sol-feace-m3.png",
       "images/mcd/mcd-sol-feace-title.png"
     ],
     "cover": "images/mcd/mcd-sol-feace-box.jpg",
@@ -1023,6 +1093,9 @@
       "images/mcd/mcd-time-gal-s1.png",
       "images/mcd/mcd-time-gal-s2.png",
       "images/mcd/mcd-time-gal-s3.png",
+      "images/mcd/mcd-time-gal-m1.png",
+      "images/mcd/mcd-time-gal-m2.png",
+      "images/mcd/mcd-time-gal-m3.png",
       "images/mcd/mcd-time-gal-title.png"
     ],
     "cover": "images/mcd/mcd-time-gal-box.jpg",
@@ -1065,6 +1138,10 @@
     "screenshots": [
       "images/mcd/mcd-arcus-i-ii-iii-s1.png",
       "images/mcd/mcd-arcus-i-ii-iii-x1.png",
+      "images/mcd/mcd-arcus-i-ii-iii-m1.png",
+      "images/mcd/mcd-arcus-i-ii-iii-m2.png",
+      "images/mcd/mcd-arcus-i-ii-iii-m3.png",
+      "images/mcd/mcd-arcus-i-ii-iii-m4.png",
       "images/mcd/mcd-arcus-i-ii-iii-title.png"
     ],
     "cover": "images/mcd/mcd-arcus-i-ii-iii-box.jpg",
@@ -1107,6 +1184,10 @@
     "screenshots": [
       "images/mcd/mcd-annet-futatabi-s1.png",
       "images/mcd/mcd-annet-futatabi-x1.jpg",
+      "images/mcd/mcd-annet-futatabi-m1.png",
+      "images/mcd/mcd-annet-futatabi-m2.png",
+      "images/mcd/mcd-annet-futatabi-m3.png",
+      "images/mcd/mcd-annet-futatabi-m4.png",
       "images/mcd/mcd-annet-futatabi-title.png"
     ],
     "cover": "images/mcd/mcd-annet-futatabi-box.jpg",
@@ -1149,6 +1230,10 @@
     "screenshots": [
       "images/mcd/mcd-burai-s1.png",
       "images/mcd/mcd-burai-x1.png",
+      "images/mcd/mcd-burai-m1.png",
+      "images/mcd/mcd-burai-m2.png",
+      "images/mcd/mcd-burai-m3.png",
+      "images/mcd/mcd-burai-m4.png",
       "images/mcd/mcd-burai-title.png"
     ],
     "cover": "images/mcd/mcd-burai-box.jpg",
@@ -1201,6 +1286,10 @@
     "screenshots": [
       "images/mcd/mcd-dungeon-explorer-s1.png",
       "images/mcd/mcd-dungeon-explorer-s2.png",
+      "images/mcd/mcd-dungeon-explorer-m1.png",
+      "images/mcd/mcd-dungeon-explorer-m2.png",
+      "images/mcd/mcd-dungeon-explorer-m3.png",
+      "images/mcd/mcd-dungeon-explorer-m4.png",
       "images/mcd/mcd-dungeon-explorer-title.png"
     ],
     "cover": "images/mcd/mcd-dungeon-explorer-box.jpg",
@@ -1243,6 +1332,10 @@
     "screenshots": [
       "images/mcd/mcd-cosmic-fantasy-stories-s1.png",
       "images/mcd/mcd-cosmic-fantasy-stories-x1.png",
+      "images/mcd/mcd-cosmic-fantasy-stories-m1.png",
+      "images/mcd/mcd-cosmic-fantasy-stories-m2.png",
+      "images/mcd/mcd-cosmic-fantasy-stories-m3.png",
+      "images/mcd/mcd-cosmic-fantasy-stories-m4.jpg",
       "images/mcd/mcd-cosmic-fantasy-stories-title.png"
     ],
     "cover": "images/mcd/mcd-cosmic-fantasy-stories-box.jpg",

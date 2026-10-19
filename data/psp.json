@@ -45,6 +45,10 @@
     "screenshots": [
       "images/psp/psp-tactics-ogre-s1.png",
       "images/psp/psp-tactics-ogre-s2.png",
+      "images/psp/psp-tactics-ogre-m1.jpg",
+      "images/psp/psp-tactics-ogre-m2.jpg",
+      "images/psp/psp-tactics-ogre-m3.jpg",
+      "images/psp/psp-tactics-ogre-m4.jpg",
       "images/psp/psp-tactics-ogre-title.png"
     ],
     "cover": "images/psp/psp-tactics-ogre-box.jpg",
@@ -97,6 +101,8 @@
     "screenshots": [
       "images/psp/psp-fft-war-of-the-lions-s1.png",
       "images/psp/psp-fft-war-of-the-lions-x1.png",
+      "images/psp/psp-fft-war-of-the-lions-m1.jpg",
+      "images/psp/psp-fft-war-of-the-lions-m2.jpg",
       "images/psp/psp-fft-war-of-the-lions-title.png"
     ],
     "cover": "images/psp/psp-fft-war-of-the-lions-box.jpg",
@@ -150,7 +156,9 @@
       "images/psp/psp-trails-in-the-sky-fc-s1.png",
       "images/psp/psp-trails-in-the-sky-fc-x1.jpg",
       "images/psp/psp-trails-in-the-sky-fc-x2.jpg",
-      "images/psp/psp-trails-in-the-sky-fc-x3.jpg"
+      "images/psp/psp-trails-in-the-sky-fc-x3.jpg",
+      "images/psp/psp-trails-in-the-sky-fc-m1.jpg",
+      "images/psp/psp-trails-in-the-sky-fc-m2.jpg"
     ],
     "cover": "images/psp/psp-trails-in-the-sky-fc-box.jpg",
     "styleMatch": 3,
@@ -287,6 +295,8 @@
     "screenshots": [
       "images/psp/psp-valkyrie-profile-lenneth-s1.png",
       "images/psp/psp-valkyrie-profile-lenneth-s2.png",
+      "images/psp/psp-valkyrie-profile-lenneth-m1.jpg",
+      "images/psp/psp-valkyrie-profile-lenneth-m2.jpg",
       "images/psp/psp-valkyrie-profile-lenneth-title.png"
     ],
     "cover": "images/psp/psp-valkyrie-profile-lenneth-box.jpg",
@@ -339,6 +349,9 @@
     "screenshots": [
       "images/psp/psp-castlevania-dracula-x-chronicles-s1.png",
       "images/psp/psp-castlevania-dracula-x-chronicles-s3.png",
+      "images/psp/psp-castlevania-dracula-x-chronicles-m1.jpg",
+      "images/psp/psp-castlevania-dracula-x-chronicles-m2.jpg",
+      "images/psp/psp-castlevania-dracula-x-chronicles-m3.jpg",
       "images/psp/psp-castlevania-dracula-x-chronicles-title.png"
     ],
     "cover": "images/psp/psp-castlevania-dracula-x-chronicles-box.jpg",
@@ -381,7 +394,9 @@
     "screenshots": [
       "images/psp/psp-zero-no-kiseki-s1.png",
       "images/psp/psp-zero-no-kiseki-x1.jpg",
-      "images/psp/psp-zero-no-kiseki-x2.jpg"
+      "images/psp/psp-zero-no-kiseki-x2.jpg",
+      "images/psp/psp-zero-no-kiseki-m1.jpg",
+      "images/psp/psp-zero-no-kiseki-m2.jpg"
     ],
     "cover": "images/psp/psp-zero-no-kiseki-box.jpg",
     "styleMatch": 3,
@@ -428,6 +443,10 @@
     "screenshots": [
       "images/psp/psp-ys-oath-in-felghana-s1.png",
       "images/psp/psp-ys-oath-in-felghana-x1.png",
+      "images/psp/psp-ys-oath-in-felghana-m1.png",
+      "images/psp/psp-ys-oath-in-felghana-m2.jpg",
+      "images/psp/psp-ys-oath-in-felghana-m3.jpg",
+      "images/psp/psp-ys-oath-in-felghana-m4.jpg",
       "images/psp/psp-ys-oath-in-felghana-title.png"
     ],
     "cover": "images/psp/psp-ys-oath-in-felghana-box.jpg",
@@ -480,6 +499,10 @@
     "screenshots": [
       "images/psp/psp-disgaea-afternoon-of-darkness-s1.png",
       "images/psp/psp-disgaea-afternoon-of-darkness-x1.png",
+      "images/psp/psp-disgaea-afternoon-of-darkness-m1.png",
+      "images/psp/psp-disgaea-afternoon-of-darkness-m2.png",
+      "images/psp/psp-disgaea-afternoon-of-darkness-m3.png",
+      "images/psp/psp-disgaea-afternoon-of-darkness-m4.png",
       "images/psp/psp-disgaea-afternoon-of-darkness-title.png"
     ],
     "cover": "images/psp/psp-disgaea-afternoon-of-darkness-box.jpg",
@@ -532,6 +555,7 @@
     "screenshots": [
       "images/psp/psp-patapon-s1.png",
       "images/psp/psp-patapon-s2.png",
+      "images/psp/psp-patapon-m1.jpg",
       "images/psp/psp-patapon-title.png"
     ],
     "cover": "images/psp/psp-patapon-box.jpg",
@@ -583,7 +607,9 @@
     "is2D": true,
     "screenshots": [
       "images/psp/psp-lumines-s1.png",
-      "images/psp/psp-lumines-s2.png"
+      "images/psp/psp-lumines-s2.png",
+      "images/psp/psp-lumines-m1.png",
+      "images/psp/psp-lumines-m2.jpg"
     ],
     "cover": "images/psp/psp-lumines-box.jpg",
     "styleMatch": 0,
@@ -629,6 +655,11 @@
     "is2D": false,
     "screenshots": [
       "images/psp/psp-persona-3-portable-s1.png",
+      "images/psp/psp-persona-3-portable-m1.jpg",
+      "images/psp/psp-persona-3-portable-m2.jpg",
+      "images/psp/psp-persona-3-portable-m3.jpg",
+      "images/psp/psp-persona-3-portable-m4.jpg",
+      "images/psp/psp-persona-3-portable-m5.jpg",
       "images/psp/psp-persona-3-portable-title.png"
     ],
     "cover": "images/psp/psp-persona-3-portable-box.jpg",
@@ -681,6 +712,9 @@
     "screenshots": [
       "images/psp/psp-locoroco-s1.png",
       "images/psp/psp-locoroco-s2.png",
+      "images/psp/psp-locoroco-m1.png",
+      "images/psp/psp-locoroco-m2.jpg",
+      "images/psp/psp-locoroco-m3.jpg",
       "images/psp/psp-locoroco-title.png"
     ],
     "cover": "images/psp/psp-locoroco-box.jpg",
@@ -724,6 +758,7 @@
       "images/psp/psp-ys-i-ii-chronicles-s1.png",
       "images/psp/psp-ys-i-ii-chronicles-x1.jpg",
       "images/psp/psp-ys-i-ii-chronicles-x2.jpg",
+      "images/psp/psp-ys-i-ii-chronicles-m1.jpg",
       "images/psp/psp-ys-i-ii-chronicles-title.png"
     ],
     "cover": "images/psp/psp-ys-i-ii-chronicles-box.jpg",
@@ -776,6 +811,10 @@
     "screenshots": [
       "images/psp/psp-half-minute-hero-s1.png",
       "images/psp/psp-half-minute-hero-x1.png",
+      "images/psp/psp-half-minute-hero-m1.png",
+      "images/psp/psp-half-minute-hero-m2.jpg",
+      "images/psp/psp-half-minute-hero-m3.jpg",
+      "images/psp/psp-half-minute-hero-m4.jpg",
       "images/psp/psp-half-minute-hero-title.png"
     ],
     "cover": "images/psp/psp-half-minute-hero-box.jpg",
@@ -822,7 +861,11 @@
     "is2D": false,
     "screenshots": [
       "images/psp/psp-monster-hunter-p2g-s1.png",
-      "images/psp/psp-monster-hunter-p2g-x1.png"
+      "images/psp/psp-monster-hunter-p2g-x1.png",
+      "images/psp/psp-monster-hunter-p2g-m1.jpg",
+      "images/psp/psp-monster-hunter-p2g-m2.jpg",
+      "images/psp/psp-monster-hunter-p2g-m3.jpg",
+      "images/psp/psp-monster-hunter-p2g-m4.jpg"
     ],
     "cover": "images/psp/psp-monster-hunter-p2g-box.jpg",
     "styleMatch": 0,
@@ -873,6 +916,9 @@
     "is2D": false,
     "screenshots": [
       "images/psp/psp-kingdom-hearts-bbs-s1.png",
+      "images/psp/psp-kingdom-hearts-bbs-m1.jpg",
+      "images/psp/psp-kingdom-hearts-bbs-m2.jpg",
+      "images/psp/psp-kingdom-hearts-bbs-m3.jpg",
       "images/psp/psp-kingdom-hearts-bbs-title.png"
     ],
     "cover": "images/psp/psp-kingdom-hearts-bbs-box.jpg",
@@ -925,6 +971,10 @@
     "screenshots": [
       "images/psp/psp-tales-of-eternia-s1.png",
       "images/psp/psp-tales-of-eternia-s2.png",
+      "images/psp/psp-tales-of-eternia-m1.png",
+      "images/psp/psp-tales-of-eternia-m2.jpg",
+      "images/psp/psp-tales-of-eternia-m3.jpg",
+      "images/psp/psp-tales-of-eternia-m4.jpg",
       "images/psp/psp-tales-of-eternia-title.png"
     ],
     "cover": "images/psp/psp-tales-of-eternia-box.jpg",
@@ -972,6 +1022,10 @@
     "screenshots": [
       "images/psp/psp-ff4-complete-collection-s1.png",
       "images/psp/psp-ff4-complete-collection-s2.png",
+      "images/psp/psp-ff4-complete-collection-m1.png",
+      "images/psp/psp-ff4-complete-collection-m2.png",
+      "images/psp/psp-ff4-complete-collection-m3.jpg",
+      "images/psp/psp-ff4-complete-collection-m4.jpg",
       "images/psp/psp-ff4-complete-collection-title.png"
     ],
     "cover": "images/psp/psp-ff4-complete-collection-box.jpg",
@@ -1024,6 +1078,10 @@
     "screenshots": [
       "images/psp/psp-jeanne-darc-s1.png",
       "images/psp/psp-jeanne-darc-s2.png",
+      "images/psp/psp-jeanne-darc-m1.png",
+      "images/psp/psp-jeanne-darc-m2.jpg",
+      "images/psp/psp-jeanne-darc-m3.jpg",
+      "images/psp/psp-jeanne-darc-m4.jpg",
       "images/psp/psp-jeanne-darc-title.png"
     ],
     "cover": "images/psp/psp-jeanne-darc-box.jpg",
@@ -1125,6 +1183,9 @@
       "images/psp/psp-lunar-silver-star-harmony-s1.png",
       "images/psp/psp-lunar-silver-star-harmony-x1.png",
       "images/psp/psp-lunar-silver-star-harmony-x2.png",
+      "images/psp/psp-lunar-silver-star-harmony-m1.png",
+      "images/psp/psp-lunar-silver-star-harmony-m2.jpg",
+      "images/psp/psp-lunar-silver-star-harmony-m3.jpg",
       "images/psp/psp-lunar-silver-star-harmony-title.png"
     ],
     "cover": "images/psp/psp-lunar-silver-star-harmony-box.jpg",
@@ -1173,7 +1234,9 @@
       "images/psp/psp-sfa3-max-s1.png",
       "images/psp/psp-sfa3-max-x1.png",
       "images/psp/psp-sfa3-max-x2.png",
-      "images/psp/psp-sfa3-max-x3.png"
+      "images/psp/psp-sfa3-max-x3.png",
+      "images/psp/psp-sfa3-max-m1.jpg",
+      "images/psp/psp-sfa3-max-m2.jpg"
     ],
     "cover": "images/psp/psp-sfa3-max-box.jpg",
     "styleMatch": 0,
@@ -1214,7 +1277,8 @@
     "is2D": true,
     "screenshots": [
       "images/psp/psp-gradius-collection-s1.png",
-      "images/psp/psp-gradius-collection-x1.png"
+      "images/psp/psp-gradius-collection-x1.png",
+      "images/psp/psp-gradius-collection-m1.png"
     ],
     "cover": "images/psp/psp-gradius-collection-box.jpg",
     "styleMatch": 0,
@@ -1266,7 +1330,10 @@
     "screenshots": [
       "images/psp/psp-star-ocean-second-evolution-s1.png",
       "images/psp/psp-star-ocean-second-evolution-x1.jpg",
-      "images/psp/psp-star-ocean-second-evolution-x2.jpg"
+      "images/psp/psp-star-ocean-second-evolution-x2.jpg",
+      "images/psp/psp-star-ocean-second-evolution-m1.png",
+      "images/psp/psp-star-ocean-second-evolution-m2.jpg",
+      "images/psp/psp-star-ocean-second-evolution-m3.jpg"
     ],
     "cover": "images/psp/psp-star-ocean-second-evolution-box.jpg",
     "styleMatch": 3,
@@ -1313,6 +1380,8 @@
     "screenshots": [
       "images/psp/psp-breath-of-fire-3-s1.png",
       "images/psp/psp-breath-of-fire-3-s2.png",
+      "images/psp/psp-breath-of-fire-3-m1.png",
+      "images/psp/psp-breath-of-fire-3-m2.jpg",
       "images/psp/psp-breath-of-fire-3-title.png"
     ],
     "cover": "images/psp/psp-breath-of-fire-3-box.jpg",
@@ -1364,6 +1433,11 @@
     "is2D": true,
     "screenshots": [
       "images/psp/psp-darkstalkers-chronicle-s1.png",
+      "images/psp/psp-darkstalkers-chronicle-m1.png",
+      "images/psp/psp-darkstalkers-chronicle-m2.png",
+      "images/psp/psp-darkstalkers-chronicle-m3.jpg",
+      "images/psp/psp-darkstalkers-chronicle-m4.jpg",
+      "images/psp/psp-darkstalkers-chronicle-m5.jpg",
       "images/psp/psp-darkstalkers-chronicle-title.png"
     ],
     "cover": "images/psp/psp-darkstalkers-chronicle-box.jpg",
@@ -1511,6 +1585,7 @@
     "screenshots": [
       "images/psp/psp-metal-slug-anthology-s1.png",
       "images/psp/psp-metal-slug-anthology-x1.png",
+      "images/psp/psp-metal-slug-anthology-m1.png",
       "images/psp/psp-metal-slug-anthology-title.png"
     ],
     "cover": "images/psp/psp-metal-slug-anthology-box.jpg",
@@ -1563,6 +1638,10 @@
     "screenshots": [
       "images/psp/psp-mega-man-maverick-hunter-x-s1.png",
       "images/psp/psp-mega-man-maverick-hunter-x-s2.png",
+      "images/psp/psp-mega-man-maverick-hunter-x-m1.jpg",
+      "images/psp/psp-mega-man-maverick-hunter-x-m2.jpg",
+      "images/psp/psp-mega-man-maverick-hunter-x-m3.jpg",
+      "images/psp/psp-mega-man-maverick-hunter-x-m4.jpg",
       "images/psp/psp-mega-man-maverick-hunter-x-title.png"
     ],
     "cover": "images/psp/psp-mega-man-maverick-hunter-x-box.jpg",
@@ -1605,6 +1684,7 @@
     "screenshots": [
       "images/psp/psp-tengai-makyou-4-s1.png",
       "images/psp/psp-tengai-makyou-4-x1.png",
+      "images/psp/psp-tengai-makyou-4-m1.jpg",
       "images/psp/psp-tengai-makyou-4-title.png"
     ],
     "cover": "images/psp/psp-tengai-makyou-4-box.jpg",
@@ -1652,6 +1732,8 @@
     "screenshots": [
       "images/psp/psp-riviera-s1.png",
       "images/psp/psp-riviera-s2.png",
+      "images/psp/psp-riviera-m1.jpg",
+      "images/psp/psp-riviera-m2.png",
       "images/psp/psp-riviera-title.png"
     ],
     "cover": "images/psp/psp-riviera-box.jpg",
@@ -1699,6 +1781,10 @@
     "screenshots": [
       "images/psp/psp-corpse-party-s1.png",
       "images/psp/psp-corpse-party-x1.jpg",
+      "images/psp/psp-corpse-party-m1.png",
+      "images/psp/psp-corpse-party-m2.jpg",
+      "images/psp/psp-corpse-party-m3.jpg",
+      "images/psp/psp-corpse-party-m4.jpg",
       "images/psp/psp-corpse-party-title.png"
     ],
     "cover": "images/psp/psp-corpse-party-box.jpg",
@@ -1798,6 +1884,7 @@
     "screenshots": [
       "images/psp/psp-prinny-s1.png",
       "images/psp/psp-prinny-x1.png",
+      "images/psp/psp-prinny-m1.jpg",
       "images/psp/psp-prinny-title.png"
     ],
     "cover": "images/psp/psp-prinny-box.jpg",
@@ -1839,7 +1926,8 @@
     "is2D": true,
     "screenshots": [
       "images/psp/psp-popolocrois-s1.png",
-      "images/psp/psp-popolocrois-x1.png"
+      "images/psp/psp-popolocrois-x1.png",
+      "images/psp/psp-popolocrois-m1.png"
     ],
     "cover": "images/psp/psp-popolocrois-box.jpg",
     "styleMatch": 3,
@@ -1923,6 +2011,10 @@
     "screenshots": [
       "images/psp/psp-tales-of-phantasia-narikiri-x-s1.png",
       "images/psp/psp-tales-of-phantasia-narikiri-x-x1.jpg",
+      "images/psp/psp-tales-of-phantasia-narikiri-x-m1.jpg",
+      "images/psp/psp-tales-of-phantasia-narikiri-x-m2.jpg",
+      "images/psp/psp-tales-of-phantasia-narikiri-x-m3.jpg",
+      "images/psp/psp-tales-of-phantasia-narikiri-x-m4.jpg",
       "images/psp/psp-tales-of-phantasia-narikiri-x-title.jpg"
     ],
     "cover": "images/psp/psp-tales-of-phantasia-narikiri-x-box.jpg",
@@ -1974,7 +2066,10 @@
     "is2D": true,
     "screenshots": [
       "images/psp/psp-crimson-gem-saga-s1.png",
-      "images/psp/psp-crimson-gem-saga-x1.jpg"
+      "images/psp/psp-crimson-gem-saga-x1.jpg",
+      "images/psp/psp-crimson-gem-saga-m1.png",
+      "images/psp/psp-crimson-gem-saga-m2.jpg",
+      "images/psp/psp-crimson-gem-saga-m3.jpg"
     ],
     "cover": "images/psp/psp-crimson-gem-saga-box.jpg",
     "styleMatch": 2,

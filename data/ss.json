@@ -46,6 +46,9 @@
       "images/ss/ss-radiant-silvergun-s1.png",
       "images/ss/ss-radiant-silvergun-x1.png",
       "images/ss/ss-radiant-silvergun-x2.jpg",
+      "images/ss/ss-radiant-silvergun-m1.png",
+      "images/ss/ss-radiant-silvergun-m2.png",
+      "images/ss/ss-radiant-silvergun-m3.png",
       "images/ss/ss-radiant-silvergun-title.png"
     ],
     "cover": "images/ss/ss-radiant-silvergun-box.jpg",
@@ -97,6 +100,11 @@
     "is2D": true,
     "screenshots": [
       "images/ss/ss-guardian-heroes-s1.png",
+      "images/ss/ss-guardian-heroes-m1.jpg",
+      "images/ss/ss-guardian-heroes-m2.jpg",
+      "images/ss/ss-guardian-heroes-m3.jpg",
+      "images/ss/ss-guardian-heroes-m4.jpg",
+      "images/ss/ss-guardian-heroes-m5.jpg",
       "images/ss/ss-guardian-heroes-title.png"
     ],
     "cover": "images/ss/ss-guardian-heroes-box.jpg",
@@ -148,6 +156,10 @@
     "screenshots": [
       "images/ss/ss-panzer-dragoon-saga-s1.png",
       "images/ss/ss-panzer-dragoon-saga-s3.png",
+      "images/ss/ss-panzer-dragoon-saga-m1.png",
+      "images/ss/ss-panzer-dragoon-saga-m2.jpg",
+      "images/ss/ss-panzer-dragoon-saga-m3.jpg",
+      "images/ss/ss-panzer-dragoon-saga-m4.jpg",
       "images/ss/ss-panzer-dragoon-saga-title.png"
     ],
     "cover": "images/ss/ss-panzer-dragoon-saga-box.jpg",
@@ -200,6 +212,9 @@
       "images/ss/ss-shining-force-3-s1.png",
       "images/ss/ss-shining-force-3-x1.jpg",
       "images/ss/ss-shining-force-3-x2.jpg",
+      "images/ss/ss-shining-force-3-m1.png",
+      "images/ss/ss-shining-force-3-m2.png",
+      "images/ss/ss-shining-force-3-m3.png",
       "images/ss/ss-shining-force-3-title.png"
     ],
     "cover": "images/ss/ss-shining-force-3-box.jpg",
@@ -252,6 +267,8 @@
       "images/ss/ss-grandia-s1.png",
       "images/ss/ss-grandia-x1.png",
       "images/ss/ss-grandia-x2.png",
+      "images/ss/ss-grandia-m1.png",
+      "images/ss/ss-grandia-m2.png",
       "images/ss/ss-grandia-title.png"
     ],
     "cover": "images/ss/ss-grandia-box.jpg",
@@ -303,6 +320,10 @@
     "screenshots": [
       "images/ss/ss-dragon-force-s1.png",
       "images/ss/ss-dragon-force-s2.png",
+      "images/ss/ss-dragon-force-m1.jpg",
+      "images/ss/ss-dragon-force-m2.jpg",
+      "images/ss/ss-dragon-force-m3.jpg",
+      "images/ss/ss-dragon-force-m4.jpg",
       "images/ss/ss-dragon-force-title.png"
     ],
     "cover": "images/ss/ss-dragon-force-box.jpg",
@@ -355,6 +376,7 @@
       "images/ss/ss-lunar-2-eternal-blue-s1.png",
       "images/ss/ss-lunar-2-eternal-blue-x1.jpg",
       "images/ss/ss-lunar-2-eternal-blue-x2.jpg",
+      "images/ss/ss-lunar-2-eternal-blue-m1.jpg",
       "images/ss/ss-lunar-2-eternal-blue-title.png"
     ],
     "cover": "images/ss/ss-lunar-2-eternal-blue-box.jpg",
@@ -401,6 +423,10 @@
     "screenshots": [
       "images/ss/ss-princess-crown-s1.png",
       "images/ss/ss-princess-crown-x1.png",
+      "images/ss/ss-princess-crown-m1.png",
+      "images/ss/ss-princess-crown-m2.png",
+      "images/ss/ss-princess-crown-m3.jpg",
+      "images/ss/ss-princess-crown-m4.jpg",
       "images/ss/ss-princess-crown-title.png"
     ],
     "cover": "images/ss/ss-princess-crown-box.jpg",
@@ -443,6 +469,8 @@
       "images/ss/ss-vampire-savior-s1.png",
       "images/ss/ss-vampire-savior-x1.jpg",
       "images/ss/ss-vampire-savior-x2.jpg",
+      "images/ss/ss-vampire-savior-m1.png",
+      "images/ss/ss-vampire-savior-m2.png",
       "images/ss/ss-vampire-savior-title.png"
     ],
     "cover": "images/ss/ss-vampire-savior-box.jpg",
@@ -489,6 +517,8 @@
     "screenshots": [
       "images/ss/ss-tactics-ogre-s1.png",
       "images/ss/ss-tactics-ogre-x1.png",
+      "images/ss/ss-tactics-ogre-m1.png",
+      "images/ss/ss-tactics-ogre-m2.png",
       "images/ss/ss-tactics-ogre-title.png"
     ],
     "cover": "images/ss/ss-tactics-ogre-box.jpg",
@@ -531,6 +561,9 @@
       "images/ss/ss-sakura-wars-2-s1.png",
       "images/ss/ss-sakura-wars-2-x1.jpg",
       "images/ss/ss-sakura-wars-2-x2.jpg",
+      "images/ss/ss-sakura-wars-2-m1.jpg",
+      "images/ss/ss-sakura-wars-2-m2.jpg",
+      "images/ss/ss-sakura-wars-2-m3.jpg",
       "images/ss/ss-sakura-wars-2-title.png"
     ],
     "cover": "images/ss/ss-sakura-wars-2-box.jpg",
@@ -578,6 +611,9 @@
       "images/ss/ss-sf-zero-3-s1.png",
       "images/ss/ss-sf-zero-3-x1.png",
       "images/ss/ss-sf-zero-3-x2.png",
+      "images/ss/ss-sf-zero-3-m1.png",
+      "images/ss/ss-sf-zero-3-m2.png",
+      "images/ss/ss-sf-zero-3-m3.png",
       "images/ss/ss-sf-zero-3-title.png"
     ],
     "cover": "images/ss/ss-sf-zero-3-box.jpg",
@@ -628,6 +664,11 @@
     "is2D": false,
     "screenshots": [
       "images/ss/ss-nights-s1.png",
+      "images/ss/ss-nights-m1.png",
+      "images/ss/ss-nights-m2.png",
+      "images/ss/ss-nights-m3.png",
+      "images/ss/ss-nights-m4.png",
+      "images/ss/ss-nights-m5.png",
       "images/ss/ss-nights-title.png"
     ],
     "cover": "images/ss/ss-nights-box.jpg",
@@ -721,6 +762,10 @@
     "screenshots": [
       "images/ss/ss-sakura-wars-s1.png",
       "images/ss/ss-sakura-wars-x1.png",
+      "images/ss/ss-sakura-wars-m1.png",
+      "images/ss/ss-sakura-wars-m2.png",
+      "images/ss/ss-sakura-wars-m3.png",
+      "images/ss/ss-sakura-wars-m4.jpg",
       "images/ss/ss-sakura-wars-title.png"
     ],
     "cover": "images/ss/ss-sakura-wars-box.jpg",
@@ -772,6 +817,10 @@
     "screenshots": [
       "images/ss/ss-xmen-vs-sf-s1.png",
       "images/ss/ss-xmen-vs-sf-s2.png",
+      "images/ss/ss-xmen-vs-sf-m1.png",
+      "images/ss/ss-xmen-vs-sf-m2.png",
+      "images/ss/ss-xmen-vs-sf-m3.png",
+      "images/ss/ss-xmen-vs-sf-m4.jpg",
       "images/ss/ss-xmen-vs-sf-title.png"
     ],
     "cover": "images/ss/ss-xmen-vs-sf-box.jpg",
@@ -808,6 +857,7 @@
     "screenshots": [
       "images/ss/ss-dnd-collection-s1.png",
       "images/ss/ss-dnd-collection-x1.png",
+      "images/ss/ss-dnd-collection-m1.png",
       "images/ss/ss-dnd-collection-title.png"
     ],
     "cover": "images/ss/ss-dnd-collection-box.jpg",
@@ -860,6 +910,9 @@
       "images/ss/ss-legend-of-oasis-s1.png",
       "images/ss/ss-legend-of-oasis-x1.jpg",
       "images/ss/ss-legend-of-oasis-x2.jpg",
+      "images/ss/ss-legend-of-oasis-m1.png",
+      "images/ss/ss-legend-of-oasis-m2.jpg",
+      "images/ss/ss-legend-of-oasis-m3.jpg",
       "images/ss/ss-legend-of-oasis-title.png"
     ],
     "cover": "images/ss/ss-legend-of-oasis-box.jpg",
@@ -957,6 +1010,11 @@
     "is2D": true,
     "screenshots": [
       "images/ss/ss-silhouette-mirage-s1.png",
+      "images/ss/ss-silhouette-mirage-m1.png",
+      "images/ss/ss-silhouette-mirage-m2.png",
+      "images/ss/ss-silhouette-mirage-m3.png",
+      "images/ss/ss-silhouette-mirage-m4.png",
+      "images/ss/ss-silhouette-mirage-m5.png",
       "images/ss/ss-silhouette-mirage-title.png"
     ],
     "cover": "images/ss/ss-silhouette-mirage-box.jpg",
@@ -1008,6 +1066,9 @@
     "screenshots": [
       "images/ss/ss-saturn-bomberman-s1.png",
       "images/ss/ss-saturn-bomberman-s2.png",
+      "images/ss/ss-saturn-bomberman-m1.jpg",
+      "images/ss/ss-saturn-bomberman-m2.png",
+      "images/ss/ss-saturn-bomberman-m3.jpg",
       "images/ss/ss-saturn-bomberman-title.png"
     ],
     "cover": "images/ss/ss-saturn-bomberman-box.jpg",
@@ -1054,6 +1115,8 @@
     "screenshots": [
       "images/ss/ss-devil-summoner-s1.png",
       "images/ss/ss-devil-summoner-x1.png",
+      "images/ss/ss-devil-summoner-m1.png",
+      "images/ss/ss-devil-summoner-m2.png",
       "images/ss/ss-devil-summoner-title.png"
     ],
     "cover": "images/ss/ss-devil-summoner-box.jpg",
@@ -1136,6 +1199,9 @@
     "screenshots": [
       "images/ss/ss-tengai-makyou-4-s1.png",
       "images/ss/ss-tengai-makyou-4-x1.png",
+      "images/ss/ss-tengai-makyou-4-m1.png",
+      "images/ss/ss-tengai-makyou-4-m2.png",
+      "images/ss/ss-tengai-makyou-4-m3.png",
       "images/ss/ss-tengai-makyou-4-title.png"
     ],
     "cover": "images/ss/ss-tengai-makyou-4-box.jpg",
@@ -1222,6 +1288,10 @@
     "screenshots": [
       "images/ss/ss-super-robot-wars-f-s1.png",
       "images/ss/ss-super-robot-wars-f-x1.png",
+      "images/ss/ss-super-robot-wars-f-m1.png",
+      "images/ss/ss-super-robot-wars-f-m2.png",
+      "images/ss/ss-super-robot-wars-f-m3.png",
+      "images/ss/ss-super-robot-wars-f-m4.jpg",
       "images/ss/ss-super-robot-wars-f-title.png"
     ],
     "cover": "images/ss/ss-super-robot-wars-f-box.jpg",
@@ -1268,6 +1338,10 @@
     "screenshots": [
       "images/ss/ss-thunder-force-5-s1.png",
       "images/ss/ss-thunder-force-5-x1.png",
+      "images/ss/ss-thunder-force-5-m1.png",
+      "images/ss/ss-thunder-force-5-m2.png",
+      "images/ss/ss-thunder-force-5-m3.png",
+      "images/ss/ss-thunder-force-5-m4.png",
       "images/ss/ss-thunder-force-5-title.png"
     ],
     "cover": "images/ss/ss-thunder-force-5-box.jpg",
@@ -1314,6 +1388,10 @@
     "screenshots": [
       "images/ss/ss-metal-slug-s1.png",
       "images/ss/ss-metal-slug-x1.png",
+      "images/ss/ss-metal-slug-m1.png",
+      "images/ss/ss-metal-slug-m2.png",
+      "images/ss/ss-metal-slug-m3.png",
+      "images/ss/ss-metal-slug-m4.png",
       "images/ss/ss-metal-slug-title.png"
     ],
     "cover": "images/ss/ss-metal-slug-box.jpg",
@@ -1403,6 +1481,7 @@
       "images/ss/ss-kof-97-s1.png",
       "images/ss/ss-kof-97-x1.png",
       "images/ss/ss-kof-97-x2.png",
+      "images/ss/ss-kof-97-m1.png",
       "images/ss/ss-kof-97-title.png"
     ],
     "cover": "images/ss/ss-kof-97-box.jpg",
@@ -1497,6 +1576,9 @@
       "images/ss/ss-albert-odyssey-s1.png",
       "images/ss/ss-albert-odyssey-x1.jpg",
       "images/ss/ss-albert-odyssey-x2.jpg",
+      "images/ss/ss-albert-odyssey-m1.png",
+      "images/ss/ss-albert-odyssey-m2.png",
+      "images/ss/ss-albert-odyssey-m3.jpg",
       "images/ss/ss-albert-odyssey-title.png"
     ],
     "cover": "images/ss/ss-albert-odyssey-box.jpg",
@@ -1538,6 +1620,9 @@
     "screenshots": [
       "images/ss/ss-soukyugurentai-s1.png",
       "images/ss/ss-soukyugurentai-s2.png",
+      "images/ss/ss-soukyugurentai-m1.png",
+      "images/ss/ss-soukyugurentai-m2.png",
+      "images/ss/ss-soukyugurentai-m3.png",
       "images/ss/ss-soukyugurentai-title.png"
     ],
     "cover": "images/ss/ss-soukyugurentai-box.jpg",
@@ -1572,6 +1657,11 @@
     "is2D": true,
     "screenshots": [
       "images/ss/ss-puyo-puyo-sun-s1.png",
+      "images/ss/ss-puyo-puyo-sun-m1.jpg",
+      "images/ss/ss-puyo-puyo-sun-m2.jpg",
+      "images/ss/ss-puyo-puyo-sun-m3.jpg",
+      "images/ss/ss-puyo-puyo-sun-m4.jpg",
+      "images/ss/ss-puyo-puyo-sun-m5.jpg",
       "images/ss/ss-puyo-puyo-sun-title.png"
     ],
     "cover": "images/ss/ss-puyo-puyo-sun-box.jpg",
@@ -1608,6 +1698,9 @@
       "images/ss/ss-langrisser-4-s1.png",
       "images/ss/ss-langrisser-4-x1.jpg",
       "images/ss/ss-langrisser-4-x2.jpg",
+      "images/ss/ss-langrisser-4-m1.jpg",
+      "images/ss/ss-langrisser-4-m2.jpg",
+      "images/ss/ss-langrisser-4-m3.jpg",
       "images/ss/ss-langrisser-4-title.png"
     ],
     "cover": "images/ss/ss-langrisser-4-box.jpg",
@@ -1659,6 +1752,10 @@
     "screenshots": [
       "images/ss/ss-magic-knight-rayearth-s1.png",
       "images/ss/ss-magic-knight-rayearth-x1.jpg",
+      "images/ss/ss-magic-knight-rayearth-m1.png",
+      "images/ss/ss-magic-knight-rayearth-m2.png",
+      "images/ss/ss-magic-knight-rayearth-m3.jpg",
+      "images/ss/ss-magic-knight-rayearth-m4.jpg",
       "images/ss/ss-magic-knight-rayearth-title.png"
     ],
     "cover": "images/ss/ss-magic-knight-rayearth-box.jpg",
@@ -1709,6 +1806,9 @@
     "is2D": true,
     "screenshots": [
       "images/ss/ss-leynos-2-s1.png",
+      "images/ss/ss-leynos-2-m1.png",
+      "images/ss/ss-leynos-2-m2.jpg",
+      "images/ss/ss-leynos-2-m3.png",
       "images/ss/ss-leynos-2-title.png"
     ],
     "cover": "images/ss/ss-leynos-2-box.jpg",
@@ -1756,6 +1856,7 @@
       "images/ss/ss-layer-section-s1.png",
       "images/ss/ss-layer-section-x1.png",
       "images/ss/ss-layer-section-x2.png",
+      "images/ss/ss-layer-section-m1.jpg",
       "images/ss/ss-layer-section-title.png"
     ],
     "cover": "images/ss/ss-layer-section-box.jpg",
@@ -1802,6 +1903,8 @@
     "screenshots": [
       "images/ss/ss-mega-man-8-s1.png",
       "images/ss/ss-mega-man-8-x1.png",
+      "images/ss/ss-mega-man-8-m1.png",
+      "images/ss/ss-mega-man-8-m2.png",
       "images/ss/ss-mega-man-8-title.png"
     ],
     "cover": "images/ss/ss-mega-man-8-box.jpg",
@@ -1838,6 +1941,8 @@
       "images/ss/ss-falcom-classics-s1.png",
       "images/ss/ss-falcom-classics-x1.png",
       "images/ss/ss-falcom-classics-x2.png",
+      "images/ss/ss-falcom-classics-m1.png",
+      "images/ss/ss-falcom-classics-m2.png",
       "images/ss/ss-falcom-classics-title.png"
     ],
     "cover": "images/ss/ss-falcom-classics-box.jpg",
@@ -1885,6 +1990,7 @@
       "images/ss/ss-ogre-battle-s1.png",
       "images/ss/ss-ogre-battle-x1.png",
       "images/ss/ss-ogre-battle-x2.png",
+      "images/ss/ss-ogre-battle-m1.png",
       "images/ss/ss-ogre-battle-title.png"
     ],
     "cover": "images/ss/ss-ogre-battle-box.jpg",
@@ -1931,6 +2037,7 @@
     "screenshots": [
       "images/ss/ss-astal-s1.png",
       "images/ss/ss-astal-s2.png",
+      "images/ss/ss-astal-m1.jpg",
       "images/ss/ss-astal-title.png"
     ],
     "cover": "images/ss/ss-astal-box.jpg",
@@ -1976,6 +2083,7 @@
     "is2D": true,
     "screenshots": [
       "images/ss/ss-rayman-s1.png",
+      "images/ss/ss-rayman-m1.png",
       "images/ss/ss-rayman-title.png"
     ],
     "cover": "images/ss/ss-rayman-box.jpg",
@@ -2018,6 +2126,9 @@
       "images/ss/ss-dragon-force-2-s1.png",
       "images/ss/ss-dragon-force-2-x1.jpg",
       "images/ss/ss-dragon-force-2-x2.jpg",
+      "images/ss/ss-dragon-force-2-m1.png",
+      "images/ss/ss-dragon-force-2-m2.png",
+      "images/ss/ss-dragon-force-2-m3.png",
       "images/ss/ss-dragon-force-2-title.png"
     ],
     "cover": "images/ss/ss-dragon-force-2-box.jpg",
@@ -2070,6 +2181,9 @@
       "images/ss/ss-shining-wisdom-s1.png",
       "images/ss/ss-shining-wisdom-x1.png",
       "images/ss/ss-shining-wisdom-x2.png",
+      "images/ss/ss-shining-wisdom-m1.png",
+      "images/ss/ss-shining-wisdom-m2.jpg",
+      "images/ss/ss-shining-wisdom-m3.jpg",
       "images/ss/ss-shining-wisdom-title.png"
     ],
     "cover": "images/ss/ss-shining-wisdom-box.jpg",
@@ -2106,6 +2220,7 @@
       "images/ss/ss-langrisser-3-s1.png",
       "images/ss/ss-langrisser-3-x1.jpg",
       "images/ss/ss-langrisser-3-x2.jpg",
+      "images/ss/ss-langrisser-3-m1.jpg",
       "images/ss/ss-langrisser-3-title.png"
     ],
     "cover": "images/ss/ss-langrisser-3-box.jpg",
@@ -2157,6 +2272,9 @@
     "screenshots": [
       "images/ss/ss-clockwork-knight-s1.png",
       "images/ss/ss-clockwork-knight-x2.png",
+      "images/ss/ss-clockwork-knight-m1.png",
+      "images/ss/ss-clockwork-knight-m2.png",
+      "images/ss/ss-clockwork-knight-m3.png",
       "images/ss/ss-clockwork-knight-title.png"
     ],
     "cover": "images/ss/ss-clockwork-knight-box.jpg",
@@ -2238,6 +2356,9 @@
     "screenshots": [
       "images/ss/ss-mahou-gakuen-lunar-s1.png",
       "images/ss/ss-mahou-gakuen-lunar-x1.jpg",
+      "images/ss/ss-mahou-gakuen-lunar-m1.png",
+      "images/ss/ss-mahou-gakuen-lunar-m2.png",
+      "images/ss/ss-mahou-gakuen-lunar-m3.png",
       "images/ss/ss-mahou-gakuen-lunar-title.png"
     ],
     "cover": "images/ss/ss-mahou-gakuen-lunar-box.jpg",

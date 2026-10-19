@@ -40,6 +40,7 @@
     "screenshots": [
       "images/gg/gg-shinobi-2-s1.png",
       "images/gg/gg-shinobi-2-s2.png",
+      "images/gg/gg-shinobi-2-m1.png",
       "images/gg/gg-shinobi-2-title.png"
     ],
     "cover": "images/gg/gg-shinobi-2-box.jpg",
@@ -88,6 +89,8 @@
       "images/gg/gg-shining-force-sword-of-hajya-s1.png",
       "images/gg/gg-shining-force-sword-of-hajya-s2.png",
       "images/gg/gg-shining-force-sword-of-hajya-s3.png",
+      "images/gg/gg-shining-force-sword-of-hajya-m1.png",
+      "images/gg/gg-shining-force-sword-of-hajya-m2.jpg",
       "images/gg/gg-shining-force-sword-of-hajya-title.png"
     ],
     "cover": "images/gg/gg-shining-force-sword-of-hajya-box.jpg",
@@ -183,6 +186,9 @@
       "images/gg/gg-shining-force-final-conflict-s1.png",
       "images/gg/gg-shining-force-final-conflict-s2.png",
       "images/gg/gg-shining-force-final-conflict-x1.png",
+      "images/gg/gg-shining-force-final-conflict-m1.png",
+      "images/gg/gg-shining-force-final-conflict-m2.png",
+      "images/gg/gg-shining-force-final-conflict-m3.png",
       "images/gg/gg-shining-force-final-conflict-title.png"
     ],
     "cover": "images/gg/gg-shining-force-final-conflict-box.jpg",
@@ -231,6 +237,7 @@
       "images/gg/gg-sonic-triple-trouble-s1.png",
       "images/gg/gg-sonic-triple-trouble-x1.png",
       "images/gg/gg-sonic-triple-trouble-x2.png",
+      "images/gg/gg-sonic-triple-trouble-m1.jpg",
       "images/gg/gg-sonic-triple-trouble-title.png"
     ],
     "cover": "images/gg/gg-sonic-triple-trouble-box.jpg",
@@ -279,6 +286,7 @@
       "images/gg/gg-the-gg-shinobi-s1.png",
       "images/gg/gg-the-gg-shinobi-s2.png",
       "images/gg/gg-the-gg-shinobi-s3.png",
+      "images/gg/gg-the-gg-shinobi-m1.jpg",
       "images/gg/gg-the-gg-shinobi-title.png"
     ],
     "cover": "images/gg/gg-the-gg-shinobi-box.jpg",
@@ -326,6 +334,7 @@
     "screenshots": [
       "images/gg/gg-sylvan-tale-s1.png",
       "images/gg/gg-sylvan-tale-s2.png",
+      "images/gg/gg-sylvan-tale-m1.png",
       "images/gg/gg-sylvan-tale-title.png"
     ],
     "cover": "images/gg/gg-sylvan-tale-box.jpg",
@@ -373,6 +382,10 @@
     "screenshots": [
       "images/gg/gg-land-of-illusion-s1.png",
       "images/gg/gg-land-of-illusion-s2.png",
+      "images/gg/gg-land-of-illusion-m1.jpg",
+      "images/gg/gg-land-of-illusion-m2.jpg",
+      "images/gg/gg-land-of-illusion-m3.jpg",
+      "images/gg/gg-land-of-illusion-m4.jpg",
       "images/gg/gg-land-of-illusion-title.png"
     ],
     "cover": "images/gg/gg-land-of-illusion-box.jpg",
@@ -425,6 +438,9 @@
     "screenshots": [
       "images/gg/gg-defenders-of-oasis-s1.png",
       "images/gg/gg-defenders-of-oasis-s2.png",
+      "images/gg/gg-defenders-of-oasis-m1.png",
+      "images/gg/gg-defenders-of-oasis-m2.png",
+      "images/gg/gg-defenders-of-oasis-m3.jpg",
       "images/gg/gg-defenders-of-oasis-title.png"
     ],
     "cover": "images/gg/gg-defenders-of-oasis-box.jpg",
@@ -472,6 +488,7 @@
     "screenshots": [
       "images/gg/gg-sonic-chaos-s1.png",
       "images/gg/gg-sonic-chaos-x1.png",
+      "images/gg/gg-sonic-chaos-m1.jpg",
       "images/gg/gg-sonic-chaos-title.png"
     ],
     "cover": "images/gg/gg-sonic-chaos-box.jpg",
@@ -551,6 +568,8 @@
       "images/gg/gg-lunar-sanposuru-gakuen-s1.png",
       "images/gg/gg-lunar-sanposuru-gakuen-x1.jpg",
       "images/gg/gg-lunar-sanposuru-gakuen-x2.png",
+      "images/gg/gg-lunar-sanposuru-gakuen-m1.jpg",
+      "images/gg/gg-lunar-sanposuru-gakuen-m2.jpg",
       "images/gg/gg-lunar-sanposuru-gakuen-title.png"
     ],
     "cover": "images/gg/gg-lunar-sanposuru-gakuen-box.jpg",
@@ -604,6 +623,9 @@
       "images/gg/gg-power-strike-2-s1.png",
       "images/gg/gg-power-strike-2-x1.png",
       "images/gg/gg-power-strike-2-x2.png",
+      "images/gg/gg-power-strike-2-m1.png",
+      "images/gg/gg-power-strike-2-m2.png",
+      "images/gg/gg-power-strike-2-m3.jpg",
       "images/gg/gg-power-strike-2-title.png"
     ],
     "cover": "images/gg/gg-power-strike-2-box.jpg",
@@ -705,6 +727,8 @@
       "images/gg/gg-sonic-2-s1.png",
       "images/gg/gg-sonic-2-x1.png",
       "images/gg/gg-sonic-2-x2.png",
+      "images/gg/gg-sonic-2-m1.png",
+      "images/gg/gg-sonic-2-m2.jpg",
       "images/gg/gg-sonic-2-title.png"
     ],
     "cover": "images/gg/gg-sonic-2-box.jpg",
@@ -758,6 +782,7 @@
       "images/gg/gg-ristar-s1.png",
       "images/gg/gg-ristar-x1.png",
       "images/gg/gg-ristar-x2.png",
+      "images/gg/gg-ristar-m1.jpg",
       "images/gg/gg-ristar-title.png"
     ],
     "cover": "images/gg/gg-ristar-box.jpg",
@@ -811,6 +836,9 @@
       "images/gg/gg-tails-adventure-s1.png",
       "images/gg/gg-tails-adventure-s2.png",
       "images/gg/gg-tails-adventure-x1.png",
+      "images/gg/gg-tails-adventure-m1.png",
+      "images/gg/gg-tails-adventure-m2.png",
+      "images/gg/gg-tails-adventure-m3.png",
       "images/gg/gg-tails-adventure-title.png"
     ],
     "cover": "images/gg/gg-tails-adventure-box.jpg",
@@ -859,6 +887,7 @@
       "images/gg/gg-gunstar-heroes-s1.png",
       "images/gg/gg-gunstar-heroes-x1.png",
       "images/gg/gg-gunstar-heroes-x2.png",
+      "images/gg/gg-gunstar-heroes-m1.png",
       "images/gg/gg-gunstar-heroes-title.png"
     ],
     "cover": "images/gg/gg-gunstar-heroes-box.jpg",
@@ -909,6 +938,7 @@
       "images/gg/gg-last-bible-special-s1.png",
       "images/gg/gg-last-bible-special-x1.png",
       "images/gg/gg-last-bible-special-x2.png",
+      "images/gg/gg-last-bible-special-m1.png",
       "images/gg/gg-last-bible-special-title.png"
     ],
     "cover": "images/gg/gg-last-bible-special-box.jpg"
@@ -957,6 +987,8 @@
       "images/gg/gg-shining-force-gaiden-s1.png",
       "images/gg/gg-shining-force-gaiden-x1.png",
       "images/gg/gg-shining-force-gaiden-x2.png",
+      "images/gg/gg-shining-force-gaiden-m1.png",
+      "images/gg/gg-shining-force-gaiden-m2.png",
       "images/gg/gg-shining-force-gaiden-title.png"
     ],
     "cover": "images/gg/gg-shining-force-gaiden-box.jpg"
@@ -1050,6 +1082,7 @@
     "screenshots": [
       "images/gg/gg-crystal-warriors-s1.png",
       "images/gg/gg-crystal-warriors-x1.png",
+      "images/gg/gg-crystal-warriors-m1.jpg",
       "images/gg/gg-crystal-warriors-title.png"
     ],
     "cover": "images/gg/gg-crystal-warriors-box.jpg",
@@ -1147,6 +1180,8 @@
       "images/gg/gg-moldorian-s1.png",
       "images/gg/gg-moldorian-x1.png",
       "images/gg/gg-moldorian-x2.png",
+      "images/gg/gg-moldorian-m1.png",
+      "images/gg/gg-moldorian-m2.png",
       "images/gg/gg-moldorian-title.png"
     ],
     "cover": "images/gg/gg-moldorian-box.jpg"
@@ -1193,6 +1228,7 @@
       "images/gg/gg-last-bible-s1.png",
       "images/gg/gg-last-bible-x1.png",
       "images/gg/gg-last-bible-x2.png",
+      "images/gg/gg-last-bible-m1.png",
       "images/gg/gg-last-bible-title.png"
     ],
     "cover": "images/gg/gg-last-bible-box.jpg",
@@ -1282,6 +1318,7 @@
     "is2D": true,
     "screenshots": [
       "images/gg/gg-madou-monogatari-1-s1.png",
+      "images/gg/gg-madou-monogatari-1-m1.png",
       "images/gg/gg-madou-monogatari-1-title.png"
     ],
     "cover": "images/gg/gg-madou-monogatari-1-box.jpg",
@@ -1330,6 +1367,7 @@
       "images/gg/gg-columns-s1.png",
       "images/gg/gg-columns-s2.png",
       "images/gg/gg-columns-s3.png",
+      "images/gg/gg-columns-m1.jpg",
       "images/gg/gg-columns-title.png"
     ],
     "cover": "images/gg/gg-columns-box.jpg",
@@ -1377,6 +1415,8 @@
     "screenshots": [
       "images/gg/gg-streets-of-rage-2-s1.png",
       "images/gg/gg-streets-of-rage-2-x1.png",
+      "images/gg/gg-streets-of-rage-2-m1.png",
+      "images/gg/gg-streets-of-rage-2-m2.jpg",
       "images/gg/gg-streets-of-rage-2-title.png"
     ],
     "cover": "images/gg/gg-streets-of-rage-2-box.jpg",
@@ -1426,6 +1466,10 @@
     "screenshots": [
       "images/gg/gg-dragon-crystal-s1.png",
       "images/gg/gg-dragon-crystal-s2.png",
+      "images/gg/gg-dragon-crystal-m1.jpg",
+      "images/gg/gg-dragon-crystal-m2.jpg",
+      "images/gg/gg-dragon-crystal-m3.jpg",
+      "images/gg/gg-dragon-crystal-m4.jpg",
       "images/gg/gg-dragon-crystal-title.png"
     ],
     "cover": "images/gg/gg-dragon-crystal-box.jpg"
@@ -1524,6 +1568,8 @@
       "images/gg/gg-ax-battler-s1.png",
       "images/gg/gg-ax-battler-s2.png",
       "images/gg/gg-ax-battler-s3.png",
+      "images/gg/gg-ax-battler-m1.jpg",
+      "images/gg/gg-ax-battler-m2.jpg",
       "images/gg/gg-ax-battler-title.png"
     ],
     "cover": "images/gg/gg-ax-battler-box.jpg",

@@ -44,6 +44,7 @@
     "screenshots": [
       "images/ngp/ngp-match-of-the-millennium-s1.png",
       "images/ngp/ngp-match-of-the-millennium-x1.jpg",
+      "images/ngp/ngp-match-of-the-millennium-m1.png",
       "images/ngp/ngp-match-of-the-millennium-title.png"
     ],
     "cover": "images/ngp/ngp-match-of-the-millennium-box.jpg",
@@ -96,6 +97,7 @@
       "images/ngp/ngp-card-fighters-clash-s1.png",
       "images/ngp/ngp-card-fighters-clash-x1.png",
       "images/ngp/ngp-card-fighters-clash-x2.png",
+      "images/ngp/ngp-card-fighters-clash-m1.png",
       "images/ngp/ngp-card-fighters-clash-title.png"
     ],
     "cover": "images/ngp/ngp-card-fighters-clash-box.jpg",
@@ -132,6 +134,8 @@
       "images/ngp/ngp-card-fighters-2-s1.png",
       "images/ngp/ngp-card-fighters-2-x1.jpg",
       "images/ngp/ngp-card-fighters-2-x2.jpg",
+      "images/ngp/ngp-card-fighters-2-m1.jpg",
+      "images/ngp/ngp-card-fighters-2-m2.jpg",
       "images/ngp/ngp-card-fighters-2-title.png"
     ],
     "cover": "images/ngp/ngp-card-fighters-2-box.jpg",
@@ -184,6 +188,8 @@
       "images/ngp/ngp-sonic-pocket-adventure-s1.png",
       "images/ngp/ngp-sonic-pocket-adventure-x1.jpg",
       "images/ngp/ngp-sonic-pocket-adventure-x2.jpg",
+      "images/ngp/ngp-sonic-pocket-adventure-m1.png",
+      "images/ngp/ngp-sonic-pocket-adventure-m2.jpg",
       "images/ngp/ngp-sonic-pocket-adventure-title.png"
     ],
     "cover": "images/ngp/ngp-sonic-pocket-adventure-box.jpg",
@@ -220,6 +226,8 @@
       "images/ngp/ngp-metal-slug-2nd-mission-s1.png",
       "images/ngp/ngp-metal-slug-2nd-mission-x1.jpg",
       "images/ngp/ngp-metal-slug-2nd-mission-x2.jpg",
+      "images/ngp/ngp-metal-slug-2nd-mission-m1.png",
+      "images/ngp/ngp-metal-slug-2nd-mission-m2.jpg",
       "images/ngp/ngp-metal-slug-2nd-mission-title.png"
     ],
     "cover": "images/ngp/ngp-metal-slug-2nd-mission-box.jpg",
@@ -267,6 +275,7 @@
       "images/ngp/ngp-kof-r2-s1.png",
       "images/ngp/ngp-kof-r2-x1.jpg",
       "images/ngp/ngp-kof-r2-x2.jpg",
+      "images/ngp/ngp-kof-r2-m1.png",
       "images/ngp/ngp-kof-r2-title.png"
     ],
     "cover": "images/ngp/ngp-kof-r2-box.jpg",
@@ -309,6 +318,9 @@
       "images/ngp/ngp-metal-slug-1st-mission-s1.png",
       "images/ngp/ngp-metal-slug-1st-mission-x1.jpg",
       "images/ngp/ngp-metal-slug-1st-mission-x2.jpg",
+      "images/ngp/ngp-metal-slug-1st-mission-m1.png",
+      "images/ngp/ngp-metal-slug-1st-mission-m2.jpg",
+      "images/ngp/ngp-metal-slug-1st-mission-m3.jpg",
       "images/ngp/ngp-metal-slug-1st-mission-title.png"
     ],
     "cover": "images/ngp/ngp-metal-slug-1st-mission-box.jpg",
@@ -355,6 +367,10 @@
     "screenshots": [
       "images/ngp/ngp-faselei-s1.png",
       "images/ngp/ngp-faselei-s2.png",
+      "images/ngp/ngp-faselei-m1.png",
+      "images/ngp/ngp-faselei-m2.jpg",
+      "images/ngp/ngp-faselei-m3.jpg",
+      "images/ngp/ngp-faselei-m4.jpg",
       "images/ngp/ngp-faselei-title.png"
     ],
     "cover": "images/ngp/ngp-faselei-box.jpg",
@@ -397,6 +413,9 @@
       "images/ngp/ngp-ogre-battle-gaiden-s1.png",
       "images/ngp/ngp-ogre-battle-gaiden-x1.jpg",
       "images/ngp/ngp-ogre-battle-gaiden-x2.jpg",
+      "images/ngp/ngp-ogre-battle-gaiden-m1.png",
+      "images/ngp/ngp-ogre-battle-gaiden-m2.png",
+      "images/ngp/ngp-ogre-battle-gaiden-m3.jpg",
       "images/ngp/ngp-ogre-battle-gaiden-title.png"
     ],
     "cover": "images/ngp/ngp-ogre-battle-gaiden-box.jpg",
@@ -443,6 +462,10 @@
     "screenshots": [
       "images/ngp/ngp-puyo-pop-s1.png",
       "images/ngp/ngp-puyo-pop-s2.png",
+      "images/ngp/ngp-puyo-pop-m1.png",
+      "images/ngp/ngp-puyo-pop-m2.jpg",
+      "images/ngp/ngp-puyo-pop-m3.jpg",
+      "images/ngp/ngp-puyo-pop-m4.jpg",
       "images/ngp/ngp-puyo-pop-title.png"
     ],
     "cover": "images/ngp/ngp-puyo-pop-box.jpg",
@@ -490,6 +513,9 @@
       "images/ngp/ngp-last-blade-s1.png",
       "images/ngp/ngp-last-blade-x1.jpg",
       "images/ngp/ngp-last-blade-x2.jpg",
+      "images/ngp/ngp-last-blade-m1.png",
+      "images/ngp/ngp-last-blade-m2.jpg",
+      "images/ngp/ngp-last-blade-m3.jpg",
       "images/ngp/ngp-last-blade-title.png"
     ],
     "cover": "images/ngp/ngp-last-blade-box.jpg",
@@ -536,6 +562,10 @@
     "screenshots": [
       "images/ngp/ngp-biomotor-unitron-s1.png",
       "images/ngp/ngp-biomotor-unitron-s2.png",
+      "images/ngp/ngp-biomotor-unitron-m1.jpg",
+      "images/ngp/ngp-biomotor-unitron-m2.png",
+      "images/ngp/ngp-biomotor-unitron-m3.jpg",
+      "images/ngp/ngp-biomotor-unitron-m4.jpg",
       "images/ngp/ngp-biomotor-unitron-title.png"
     ],
     "cover": "images/ngp/ngp-biomotor-unitron-box.jpg",
@@ -583,6 +613,9 @@
       "images/ngp/ngp-samurai-shodown-2-s1.png",
       "images/ngp/ngp-samurai-shodown-2-x1.jpg",
       "images/ngp/ngp-samurai-shodown-2-x2.jpg",
+      "images/ngp/ngp-samurai-shodown-2-m1.png",
+      "images/ngp/ngp-samurai-shodown-2-m2.jpg",
+      "images/ngp/ngp-samurai-shodown-2-m3.jpg",
       "images/ngp/ngp-samurai-shodown-2-title.png"
     ],
     "cover": "images/ngp/ngp-samurai-shodown-2-box.jpg",
@@ -629,6 +662,10 @@
     "screenshots": [
       "images/ngp/ngp-snk-gals-fighters-s1.png",
       "images/ngp/ngp-snk-gals-fighters-s2.png",
+      "images/ngp/ngp-snk-gals-fighters-m1.png",
+      "images/ngp/ngp-snk-gals-fighters-m2.jpg",
+      "images/ngp/ngp-snk-gals-fighters-m3.jpg",
+      "images/ngp/ngp-snk-gals-fighters-m4.jpg",
       "images/ngp/ngp-snk-gals-fighters-title.png"
     ],
     "cover": "images/ngp/ngp-snk-gals-fighters-box.jpg",
@@ -665,6 +702,7 @@
     "screenshots": [
       "images/ngp/ngp-kikou-seiki-unitron-s1.png",
       "images/ngp/ngp-kikou-seiki-unitron-x2.jpg",
+      "images/ngp/ngp-kikou-seiki-unitron-m1.jpg",
       "images/ngp/ngp-kikou-seiki-unitron-title.png"
     ],
     "cover": "images/ngp/ngp-kikou-seiki-unitron-box.jpg",
@@ -717,6 +755,9 @@
       "images/ngp/ngp-dark-arms-s1.png",
       "images/ngp/ngp-dark-arms-x1.jpg",
       "images/ngp/ngp-dark-arms-x2.jpg",
+      "images/ngp/ngp-dark-arms-m1.png",
+      "images/ngp/ngp-dark-arms-m2.jpg",
+      "images/ngp/ngp-dark-arms-m3.jpg",
       "images/ngp/ngp-dark-arms-title.png"
     ],
     "cover": "images/ngp/ngp-dark-arms-box.jpg",
@@ -752,6 +793,10 @@
     "screenshots": [
       "images/ngp/ngp-magical-drop-pocket-s1.png",
       "images/ngp/ngp-magical-drop-pocket-s2.png",
+      "images/ngp/ngp-magical-drop-pocket-m1.png",
+      "images/ngp/ngp-magical-drop-pocket-m2.jpg",
+      "images/ngp/ngp-magical-drop-pocket-m3.jpg",
+      "images/ngp/ngp-magical-drop-pocket-m4.jpg",
       "images/ngp/ngp-magical-drop-pocket-title.png"
     ],
     "cover": "images/ngp/ngp-magical-drop-pocket-box.jpg",
@@ -793,6 +838,10 @@
     "screenshots": [
       "images/ngp/ngp-puzzle-bobble-mini-s1.png",
       "images/ngp/ngp-puzzle-bobble-mini-s2.png",
+      "images/ngp/ngp-puzzle-bobble-mini-m1.jpg",
+      "images/ngp/ngp-puzzle-bobble-mini-m2.jpg",
+      "images/ngp/ngp-puzzle-bobble-mini-m3.jpg",
+      "images/ngp/ngp-puzzle-bobble-mini-m4.jpg",
       "images/ngp/ngp-puzzle-bobble-mini-title.png"
     ],
     "cover": "images/ngp/ngp-puzzle-bobble-mini-box.jpg",
@@ -840,6 +889,7 @@
       "images/ngp/ngp-fatal-fury-first-contact-s1.png",
       "images/ngp/ngp-fatal-fury-first-contact-x1.jpg",
       "images/ngp/ngp-fatal-fury-first-contact-x2.jpg",
+      "images/ngp/ngp-fatal-fury-first-contact-m1.png",
       "images/ngp/ngp-fatal-fury-first-contact-title.png"
     ],
     "cover": "images/ngp/ngp-fatal-fury-first-contact-box.jpg",
@@ -882,6 +932,7 @@
       "images/ngp/ngp-neo-turf-masters-s1.png",
       "images/ngp/ngp-neo-turf-masters-x1.jpg",
       "images/ngp/ngp-neo-turf-masters-x2.jpg",
+      "images/ngp/ngp-neo-turf-masters-m1.png",
       "images/ngp/ngp-neo-turf-masters-title.png"
     ],
     "cover": "images/ngp/ngp-neo-turf-masters-box.jpg",
@@ -917,6 +968,7 @@
     "screenshots": [
       "images/ngp/ngp-evolution-s1.png",
       "images/ngp/ngp-evolution-x1.jpg",
+      "images/ngp/ngp-evolution-m1.png",
       "images/ngp/ngp-evolution-title.png"
     ],
     "cover": "images/ngp/ngp-evolution-box.jpg",
@@ -959,6 +1011,9 @@
       "images/ngp/ngp-rockman-battle-fighters-s1.png",
       "images/ngp/ngp-rockman-battle-fighters-x1.jpg",
       "images/ngp/ngp-rockman-battle-fighters-x2.jpg",
+      "images/ngp/ngp-rockman-battle-fighters-m1.png",
+      "images/ngp/ngp-rockman-battle-fighters-m2.jpg",
+      "images/ngp/ngp-rockman-battle-fighters-m3.jpg",
       "images/ngp/ngp-rockman-battle-fighters-title.png"
     ],
     "cover": "images/ngp/ngp-rockman-battle-fighters-box.jpg",
@@ -1001,6 +1056,7 @@
       "images/ngp/ngp-pac-man-s1.png",
       "images/ngp/ngp-pac-man-x1.jpg",
       "images/ngp/ngp-pac-man-x2.jpg",
+      "images/ngp/ngp-pac-man-m1.png",
       "images/ngp/ngp-pac-man-title.png"
     ],
     "cover": "images/ngp/ngp-pac-man-box.jpg",

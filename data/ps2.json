@@ -95,6 +95,10 @@
     "screenshots": [
       "images/ps2/ps2-dragon-quest-viii-s1.png",
       "images/ps2/ps2-dragon-quest-viii-x1.png",
+      "images/ps2/ps2-dragon-quest-viii-m1.jpg",
+      "images/ps2/ps2-dragon-quest-viii-m2.jpg",
+      "images/ps2/ps2-dragon-quest-viii-m3.jpg",
+      "images/ps2/ps2-dragon-quest-viii-m4.jpg",
       "images/ps2/ps2-dragon-quest-viii-title.png"
     ],
     "cover": "images/ps2/ps2-dragon-quest-viii-box.jpg",
@@ -146,6 +150,10 @@
     "screenshots": [
       "images/ps2/ps2-final-fantasy-x-s1.png",
       "images/ps2/ps2-final-fantasy-x-x1.png",
+      "images/ps2/ps2-final-fantasy-x-m1.jpg",
+      "images/ps2/ps2-final-fantasy-x-m2.jpg",
+      "images/ps2/ps2-final-fantasy-x-m3.jpg",
+      "images/ps2/ps2-final-fantasy-x-m4.jpg",
       "images/ps2/ps2-final-fantasy-x-title.png"
     ],
     "cover": "images/ps2/ps2-final-fantasy-x-box.jpg",
@@ -198,6 +206,7 @@
       "images/ps2/ps2-disgaea-s1.png",
       "images/ps2/ps2-disgaea-x1.jpg",
       "images/ps2/ps2-disgaea-x2.jpg",
+      "images/ps2/ps2-disgaea-m1.jpg",
       "images/ps2/ps2-disgaea-title.png"
     ],
     "cover": "images/ps2/ps2-disgaea-box.jpg",
@@ -249,6 +258,7 @@
     "screenshots": [
       "images/ps2/ps2-okami-s1.png",
       "images/ps2/ps2-okami-x1.jpg",
+      "images/ps2/ps2-okami-m1.jpg",
       "images/ps2/ps2-okami-title.png"
     ],
     "cover": "images/ps2/ps2-okami-box.jpg",
@@ -301,6 +311,9 @@
       "images/ps2/ps2-shadow-of-the-colossus-s1.png",
       "images/ps2/ps2-shadow-of-the-colossus-x1.jpg",
       "images/ps2/ps2-shadow-of-the-colossus-x2.jpg",
+      "images/ps2/ps2-shadow-of-the-colossus-m1.jpg",
+      "images/ps2/ps2-shadow-of-the-colossus-m2.jpg",
+      "images/ps2/ps2-shadow-of-the-colossus-m3.jpg",
       "images/ps2/ps2-shadow-of-the-colossus-title.png"
     ],
     "cover": "images/ps2/ps2-shadow-of-the-colossus-box.jpg",
@@ -353,6 +366,9 @@
       "images/ps2/ps2-persona-4-s1.png",
       "images/ps2/ps2-persona-4-x1.jpg",
       "images/ps2/ps2-persona-4-x2.jpg",
+      "images/ps2/ps2-persona-4-m1.jpg",
+      "images/ps2/ps2-persona-4-m2.jpg",
+      "images/ps2/ps2-persona-4-m3.jpg",
       "images/ps2/ps2-persona-4-title.png"
     ],
     "cover": "images/ps2/ps2-persona-4-box.jpg",
@@ -395,6 +411,7 @@
       "images/ps2/ps2-dragon-quest-v-s1.png",
       "images/ps2/ps2-dragon-quest-v-x1.jpg",
       "images/ps2/ps2-dragon-quest-v-x2.png",
+      "images/ps2/ps2-dragon-quest-v-m1.jpg",
       "images/ps2/ps2-dragon-quest-v-title.png"
     ],
     "cover": "images/ps2/ps2-dragon-quest-v-box.jpg",
@@ -448,6 +465,8 @@
       "images/ps2/ps2-final-fantasy-xii-x1.jpg",
       "images/ps2/ps2-final-fantasy-xii-x2.jpg",
       "images/ps2/ps2-final-fantasy-xii-x3.png",
+      "images/ps2/ps2-final-fantasy-xii-m1.jpg",
+      "images/ps2/ps2-final-fantasy-xii-m2.jpg",
       "images/ps2/ps2-final-fantasy-xii-title.png"
     ],
     "cover": "images/ps2/ps2-final-fantasy-xii-box.jpg",
@@ -500,6 +519,9 @@
       "images/ps2/ps2-disgaea-2-s1.png",
       "images/ps2/ps2-disgaea-2-x1.jpg",
       "images/ps2/ps2-disgaea-2-x2.jpg",
+      "images/ps2/ps2-disgaea-2-m1.jpg",
+      "images/ps2/ps2-disgaea-2-m2.jpg",
+      "images/ps2/ps2-disgaea-2-m3.jpg",
       "images/ps2/ps2-disgaea-2-title.png"
     ],
     "cover": "images/ps2/ps2-disgaea-2-box.jpg",
@@ -552,6 +574,7 @@
       "images/ps2/ps2-kingdom-hearts-ii-s1.png",
       "images/ps2/ps2-kingdom-hearts-ii-x1.png",
       "images/ps2/ps2-kingdom-hearts-ii-x2.png",
+      "images/ps2/ps2-kingdom-hearts-ii-m1.jpg",
       "images/ps2/ps2-kingdom-hearts-ii-title.png"
     ],
     "cover": "images/ps2/ps2-kingdom-hearts-ii-box.jpg",
@@ -603,6 +626,10 @@
     "screenshots": [
       "images/ps2/ps2-persona-3-s1.png",
       "images/ps2/ps2-persona-3-x1.png",
+      "images/ps2/ps2-persona-3-m1.jpg",
+      "images/ps2/ps2-persona-3-m2.jpg",
+      "images/ps2/ps2-persona-3-m3.jpg",
+      "images/ps2/ps2-persona-3-m4.jpg",
       "images/ps2/ps2-persona-3-title.png"
     ],
     "cover": "images/ps2/ps2-persona-3-box.jpg",
@@ -705,6 +732,10 @@
     "screenshots": [
       "images/ps2/ps2-kingdom-hearts-s1.png",
       "images/ps2/ps2-kingdom-hearts-x1.png",
+      "images/ps2/ps2-kingdom-hearts-m1.jpg",
+      "images/ps2/ps2-kingdom-hearts-m2.jpg",
+      "images/ps2/ps2-kingdom-hearts-m3.png",
+      "images/ps2/ps2-kingdom-hearts-m4.jpg",
       "images/ps2/ps2-kingdom-hearts-title.png"
     ],
     "cover": "images/ps2/ps2-kingdom-hearts-box.jpg",
@@ -756,6 +787,10 @@
     "screenshots": [
       "images/ps2/ps2-tales-of-the-abyss-s1.png",
       "images/ps2/ps2-tales-of-the-abyss-x1.jpg",
+      "images/ps2/ps2-tales-of-the-abyss-m1.jpg",
+      "images/ps2/ps2-tales-of-the-abyss-m2.jpg",
+      "images/ps2/ps2-tales-of-the-abyss-m3.jpg",
+      "images/ps2/ps2-tales-of-the-abyss-m4.jpg",
       "images/ps2/ps2-tales-of-the-abyss-title.png"
     ],
     "cover": "images/ps2/ps2-tales-of-the-abyss-box.jpg",
@@ -807,6 +842,7 @@
     "screenshots": [
       "images/ps2/ps2-grimgrimoire-s1.png",
       "images/ps2/ps2-grimgrimoire-x1.png",
+      "images/ps2/ps2-grimgrimoire-m1.jpg",
       "images/ps2/ps2-grimgrimoire-title.png"
     ],
     "cover": "images/ps2/ps2-grimgrimoire-box.jpg",
@@ -905,6 +941,8 @@
     "screenshots": [
       "images/ps2/ps2-street-fighter-anniversary-collection-s1.png",
       "images/ps2/ps2-street-fighter-anniversary-collection-s2.png",
+      "images/ps2/ps2-street-fighter-anniversary-collection-m1.jpg",
+      "images/ps2/ps2-street-fighter-anniversary-collection-m2.jpg",
       "images/ps2/ps2-street-fighter-anniversary-collection-title.png"
     ],
     "cover": "images/ps2/ps2-street-fighter-anniversary-collection-box.jpg",
@@ -998,6 +1036,9 @@
       "images/ps2/ps2-suikoden-v-s1.png",
       "images/ps2/ps2-suikoden-v-x1.jpg",
       "images/ps2/ps2-suikoden-v-x2.jpg",
+      "images/ps2/ps2-suikoden-v-m1.jpg",
+      "images/ps2/ps2-suikoden-v-m2.jpg",
+      "images/ps2/ps2-suikoden-v-m3.jpg",
       "images/ps2/ps2-suikoden-v-title.png"
     ],
     "cover": "images/ps2/ps2-suikoden-v-box.jpg",
@@ -1049,6 +1090,10 @@
     "screenshots": [
       "images/ps2/ps2-la-pucelle-tactics-s1.png",
       "images/ps2/ps2-la-pucelle-tactics-x1.png",
+      "images/ps2/ps2-la-pucelle-tactics-m1.jpg",
+      "images/ps2/ps2-la-pucelle-tactics-m2.jpg",
+      "images/ps2/ps2-la-pucelle-tactics-m3.jpg",
+      "images/ps2/ps2-la-pucelle-tactics-m4.jpg",
       "images/ps2/ps2-la-pucelle-tactics-title.png"
     ],
     "cover": "images/ps2/ps2-la-pucelle-tactics-box.jpg",
@@ -1102,6 +1147,8 @@
       "images/ps2/ps2-gradius-v-s2.png",
       "images/ps2/ps2-gradius-v-s3.png",
       "images/ps2/ps2-gradius-v-x1.jpg",
+      "images/ps2/ps2-gradius-v-m1.jpg",
+      "images/ps2/ps2-gradius-v-m2.jpg",
       "images/ps2/ps2-gradius-v-title.png"
     ],
     "cover": "images/ps2/ps2-gradius-v-box.jpg",
@@ -1143,7 +1190,8 @@
     "screenshots": [
       "images/ps2/ps2-tales-of-destiny-2-s1.png",
       "images/ps2/ps2-tales-of-destiny-2-x1.jpg",
-      "images/ps2/ps2-tales-of-destiny-2-x2.jpg"
+      "images/ps2/ps2-tales-of-destiny-2-x2.jpg",
+      "images/ps2/ps2-tales-of-destiny-2-m1.jpg"
     ],
     "cover": "images/ps2/ps2-tales-of-destiny-2-box.jpg",
     "styleMatch": 3,
@@ -1179,6 +1227,7 @@
       "images/ps2/ps2-ys-i-ii-eternal-story-s1.png",
       "images/ps2/ps2-ys-i-ii-eternal-story-x1.png",
       "images/ps2/ps2-ys-i-ii-eternal-story-x2.jpg",
+      "images/ps2/ps2-ys-i-ii-eternal-story-m1.jpg",
       "images/ps2/ps2-ys-i-ii-eternal-story-title.png"
     ],
     "cover": "images/ps2/ps2-ys-i-ii-eternal-story-box.jpg",
@@ -1267,7 +1316,9 @@
       "images/ps2/ps2-tales-of-rebirth-x1.jpg",
       "images/ps2/ps2-tales-of-rebirth-x2.jpg",
       "images/ps2/ps2-tales-of-rebirth-x3.jpg",
-      "images/ps2/ps2-tales-of-rebirth-x4.jpg"
+      "images/ps2/ps2-tales-of-rebirth-x4.jpg",
+      "images/ps2/ps2-tales-of-rebirth-m1.png",
+      "images/ps2/ps2-tales-of-rebirth-m2.png"
     ],
     "cover": "images/ps2/ps2-tales-of-rebirth-box.jpg",
     "styleMatch": 3,
@@ -1308,6 +1359,8 @@
     "screenshots": [
       "images/ps2/ps2-growlanser-generations-s1.png",
       "images/ps2/ps2-growlanser-generations-s2.png",
+      "images/ps2/ps2-growlanser-generations-m1.jpg",
+      "images/ps2/ps2-growlanser-generations-m2.jpg",
       "images/ps2/ps2-growlanser-generations-title.png"
     ],
     "cover": "images/ps2/ps2-growlanser-generations-box.jpg",
@@ -1428,6 +1481,7 @@
     "screenshots": [
       "images/ps2/ps2-growlanser-iv-s1.png",
       "images/ps2/ps2-growlanser-iv-x1.png",
+      "images/ps2/ps2-growlanser-iv-m1.jpg",
       "images/ps2/ps2-growlanser-iv-title.png"
     ],
     "cover": "images/ps2/ps2-growlanser-iv-box.jpg",
@@ -1469,6 +1523,8 @@
     "screenshots": [
       "images/ps2/ps2-kof-98-ultimate-match-s1.png",
       "images/ps2/ps2-kof-98-ultimate-match-x1.png",
+      "images/ps2/ps2-kof-98-ultimate-match-m1.jpg",
+      "images/ps2/ps2-kof-98-ultimate-match-m2.jpg",
       "images/ps2/ps2-kof-98-ultimate-match-title.png"
     ],
     "cover": "images/ps2/ps2-kof-98-ultimate-match-box.jpg",
@@ -1515,6 +1571,8 @@
     "screenshots": [
       "images/ps2/ps2-street-fighter-alpha-anthology-s1.png",
       "images/ps2/ps2-street-fighter-alpha-anthology-x1.png",
+      "images/ps2/ps2-street-fighter-alpha-anthology-m1.jpg",
+      "images/ps2/ps2-street-fighter-alpha-anthology-m2.jpg",
       "images/ps2/ps2-street-fighter-alpha-anthology-title.png"
     ],
     "cover": "images/ps2/ps2-street-fighter-alpha-anthology-box.jpg",
@@ -1566,6 +1624,10 @@
     "screenshots": [
       "images/ps2/ps2-atelier-iris-s1.png",
       "images/ps2/ps2-atelier-iris-x1.jpg",
+      "images/ps2/ps2-atelier-iris-m1.jpg",
+      "images/ps2/ps2-atelier-iris-m2.jpg",
+      "images/ps2/ps2-atelier-iris-m3.jpg",
+      "images/ps2/ps2-atelier-iris-m4.jpg",
       "images/ps2/ps2-atelier-iris-title.png"
     ],
     "cover": "images/ps2/ps2-atelier-iris-box.jpg",
@@ -1608,6 +1670,7 @@
       "images/ps2/ps2-makai-kingdom-s1.png",
       "images/ps2/ps2-makai-kingdom-x1.jpg",
       "images/ps2/ps2-makai-kingdom-x2.jpg",
+      "images/ps2/ps2-makai-kingdom-m1.jpg",
       "images/ps2/ps2-makai-kingdom-title.png"
     ],
     "cover": "images/ps2/ps2-makai-kingdom-box.jpg",
@@ -1785,6 +1848,9 @@
       "images/ps2/ps2-soul-nomad-s1.png",
       "images/ps2/ps2-soul-nomad-x1.jpg",
       "images/ps2/ps2-soul-nomad-x2.jpg",
+      "images/ps2/ps2-soul-nomad-m1.jpg",
+      "images/ps2/ps2-soul-nomad-m2.jpg",
+      "images/ps2/ps2-soul-nomad-m3.jpg",
       "images/ps2/ps2-soul-nomad-title.png"
     ],
     "cover": "images/ps2/ps2-soul-nomad-box.jpg",
@@ -1836,6 +1902,10 @@
     "screenshots": [
       "images/ps2/ps2-ar-tonelico-s1.png",
       "images/ps2/ps2-ar-tonelico-x1.jpg",
+      "images/ps2/ps2-ar-tonelico-m1.jpg",
+      "images/ps2/ps2-ar-tonelico-m2.jpg",
+      "images/ps2/ps2-ar-tonelico-m3.jpg",
+      "images/ps2/ps2-ar-tonelico-m4.jpg",
       "images/ps2/ps2-ar-tonelico-title.png"
     ],
     "cover": "images/ps2/ps2-ar-tonelico-box.jpg",
@@ -1934,6 +2004,9 @@
       "images/ps2/ps2-ar-tonelico-2-s1.png",
       "images/ps2/ps2-ar-tonelico-2-x1.jpg",
       "images/ps2/ps2-ar-tonelico-2-x2.jpg",
+      "images/ps2/ps2-ar-tonelico-2-m1.jpg",
+      "images/ps2/ps2-ar-tonelico-2-m2.jpg",
+      "images/ps2/ps2-ar-tonelico-2-m3.jpg",
       "images/ps2/ps2-ar-tonelico-2-title.png"
     ],
     "cover": "images/ps2/ps2-ar-tonelico-2-box.jpg",
@@ -1975,6 +2048,10 @@
     "screenshots": [
       "images/ps2/ps2-arcana-heart-s1.png",
       "images/ps2/ps2-arcana-heart-x1.jpg",
+      "images/ps2/ps2-arcana-heart-m1.jpg",
+      "images/ps2/ps2-arcana-heart-m2.jpg",
+      "images/ps2/ps2-arcana-heart-m3.jpg",
+      "images/ps2/ps2-arcana-heart-m4.jpg",
       "images/ps2/ps2-arcana-heart-title.png"
     ],
     "cover": "images/ps2/ps2-arcana-heart-box.jpg",
@@ -2027,6 +2104,9 @@
       "images/ps2/ps2-atelier-iris-2-s1.png",
       "images/ps2/ps2-atelier-iris-2-x1.jpg",
       "images/ps2/ps2-atelier-iris-2-x2.jpg",
+      "images/ps2/ps2-atelier-iris-2-m1.jpg",
+      "images/ps2/ps2-atelier-iris-2-m2.jpg",
+      "images/ps2/ps2-atelier-iris-2-m3.jpg",
       "images/ps2/ps2-atelier-iris-2-title.png"
     ],
     "cover": "images/ps2/ps2-atelier-iris-2-box.jpg",
@@ -2078,6 +2158,9 @@
     "screenshots": [
       "images/ps2/ps2-mana-khemia-2-s1.png",
       "images/ps2/ps2-mana-khemia-2-x1.jpg",
+      "images/ps2/ps2-mana-khemia-2-m1.jpg",
+      "images/ps2/ps2-mana-khemia-2-m2.jpg",
+      "images/ps2/ps2-mana-khemia-2-m3.jpg",
       "images/ps2/ps2-mana-khemia-2-title.png"
     ],
     "cover": "images/ps2/ps2-mana-khemia-2-box.jpg",
@@ -2130,6 +2213,8 @@
       "images/ps2/ps2-atelier-iris-3-s1.png",
       "images/ps2/ps2-atelier-iris-3-x1.jpg",
       "images/ps2/ps2-atelier-iris-3-x2.jpg",
+      "images/ps2/ps2-atelier-iris-3-m1.jpg",
+      "images/ps2/ps2-atelier-iris-3-m2.jpg",
       "images/ps2/ps2-atelier-iris-3-title.png"
     ],
     "cover": "images/ps2/ps2-atelier-iris-3-box.jpg",
@@ -2181,7 +2266,10 @@
     "screenshots": [
       "images/ps2/ps2-shining-tears-s1.png",
       "images/ps2/ps2-shining-tears-x1.jpg",
-      "images/ps2/ps2-shining-tears-x2.jpg"
+      "images/ps2/ps2-shining-tears-x2.jpg",
+      "images/ps2/ps2-shining-tears-m1.jpg",
+      "images/ps2/ps2-shining-tears-m2.jpg",
+      "images/ps2/ps2-shining-tears-m3.jpg"
     ],
     "cover": "images/ps2/ps2-shining-tears-box.jpg",
     "styleMatch": 3,

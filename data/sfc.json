@@ -44,6 +44,10 @@
     "screenshots": [
       "images/sfc/sfc-chrono-trigger-s1.png",
       "images/sfc/sfc-chrono-trigger-1.png",
+      "images/sfc/sfc-chrono-trigger-m1.png",
+      "images/sfc/sfc-chrono-trigger-m2.png",
+      "images/sfc/sfc-chrono-trigger-m3.png",
+      "images/sfc/sfc-chrono-trigger-m4.png",
       "images/sfc/sfc-chrono-trigger-title.png"
     ],
     "cover": "images/sfc/sfc-chrono-trigger-box.jpg",
@@ -95,6 +99,10 @@
     "screenshots": [
       "images/sfc/sfc-final-fantasy-vi-s1.png",
       "images/sfc/sfc-final-fantasy-vi-1.png",
+      "images/sfc/sfc-final-fantasy-vi-m1.png",
+      "images/sfc/sfc-final-fantasy-vi-m2.png",
+      "images/sfc/sfc-final-fantasy-vi-m3.png",
+      "images/sfc/sfc-final-fantasy-vi-m4.png",
       "images/sfc/sfc-final-fantasy-vi-title.png"
     ],
     "cover": "images/sfc/sfc-final-fantasy-vi-box.jpg",
@@ -146,6 +154,10 @@
     "screenshots": [
       "images/sfc/sfc-zelda-a-link-to-the-past-s1.png",
       "images/sfc/sfc-zelda-a-link-to-the-past-1.png",
+      "images/sfc/sfc-zelda-a-link-to-the-past-m1.png",
+      "images/sfc/sfc-zelda-a-link-to-the-past-m2.jpg",
+      "images/sfc/sfc-zelda-a-link-to-the-past-m3.jpg",
+      "images/sfc/sfc-zelda-a-link-to-the-past-m4.png",
       "images/sfc/sfc-zelda-a-link-to-the-past-title.png"
     ],
     "cover": "images/sfc/sfc-zelda-a-link-to-the-past-box.jpg",
@@ -197,6 +209,10 @@
     "screenshots": [
       "images/sfc/sfc-super-metroid-s1.png",
       "images/sfc/sfc-super-metroid-1.png",
+      "images/sfc/sfc-super-metroid-m1.png",
+      "images/sfc/sfc-super-metroid-m2.png",
+      "images/sfc/sfc-super-metroid-m3.png",
+      "images/sfc/sfc-super-metroid-m4.png",
       "images/sfc/sfc-super-metroid-title.png"
     ],
     "cover": "images/sfc/sfc-super-metroid-box.jpg",
@@ -248,6 +264,10 @@
     "screenshots": [
       "images/sfc/sfc-seiken-densetsu-3-s1.png",
       "images/sfc/sfc-seiken-densetsu-3-1.png",
+      "images/sfc/sfc-seiken-densetsu-3-m1.png",
+      "images/sfc/sfc-seiken-densetsu-3-m2.png",
+      "images/sfc/sfc-seiken-densetsu-3-m3.png",
+      "images/sfc/sfc-seiken-densetsu-3-m4.png",
       "images/sfc/sfc-seiken-densetsu-3-title.png"
     ],
     "cover": "images/sfc/sfc-seiken-densetsu-3-box.jpg",
@@ -299,6 +319,10 @@
     "screenshots": [
       "images/sfc/sfc-secret-of-mana-s1.png",
       "images/sfc/sfc-secret-of-mana-1.png",
+      "images/sfc/sfc-secret-of-mana-m1.png",
+      "images/sfc/sfc-secret-of-mana-m2.png",
+      "images/sfc/sfc-secret-of-mana-m3.png",
+      "images/sfc/sfc-secret-of-mana-m4.png",
       "images/sfc/sfc-secret-of-mana-title.png"
     ],
     "cover": "images/sfc/sfc-secret-of-mana-box.jpg",
@@ -346,6 +370,9 @@
       "images/sfc/sfc-dragon-quest-v-s1.png",
       "images/sfc/sfc-dragon-quest-v-1.jpg",
       "images/sfc/sfc-dragon-quest-v-2.png",
+      "images/sfc/sfc-dragon-quest-v-m1.png",
+      "images/sfc/sfc-dragon-quest-v-m2.png",
+      "images/sfc/sfc-dragon-quest-v-m3.png",
       "images/sfc/sfc-dragon-quest-v-title.png"
     ],
     "cover": "images/sfc/sfc-dragon-quest-v-box.jpg",
@@ -399,6 +426,8 @@
       "images/sfc/sfc-yoshis-island-s2.png",
       "images/sfc/sfc-yoshis-island-s3.png",
       "images/sfc/sfc-yoshis-island-1.png",
+      "images/sfc/sfc-yoshis-island-m1.jpg",
+      "images/sfc/sfc-yoshis-island-m2.jpg",
       "images/sfc/sfc-yoshis-island-title.png"
     ],
     "cover": "images/sfc/sfc-yoshis-island-box.jpg",
@@ -452,6 +481,8 @@
       "images/sfc/sfc-super-mario-world-s2.png",
       "images/sfc/sfc-super-mario-world-s3.png",
       "images/sfc/sfc-super-mario-world-1.png",
+      "images/sfc/sfc-super-mario-world-m1.jpg",
+      "images/sfc/sfc-super-mario-world-m2.jpg",
       "images/sfc/sfc-super-mario-world-title.png"
     ],
     "cover": "images/sfc/sfc-super-mario-world-box.jpg",
@@ -503,6 +534,10 @@
     "screenshots": [
       "images/sfc/sfc-terranigma-s1.png",
       "images/sfc/sfc-terranigma-1.png",
+      "images/sfc/sfc-terranigma-m1.png",
+      "images/sfc/sfc-terranigma-m2.jpg",
+      "images/sfc/sfc-terranigma-m3.jpg",
+      "images/sfc/sfc-terranigma-m4.jpg",
       "images/sfc/sfc-terranigma-title.png"
     ],
     "cover": "images/sfc/sfc-terranigma-box.jpg",
@@ -551,6 +586,8 @@
       "images/sfc/sfc-tactics-ogre-s2.png",
       "images/sfc/sfc-tactics-ogre-s3.png",
       "images/sfc/sfc-tactics-ogre-1.png",
+      "images/sfc/sfc-tactics-ogre-m1.png",
+      "images/sfc/sfc-tactics-ogre-m2.png",
       "images/sfc/sfc-tactics-ogre-title.png"
     ],
     "cover": "images/sfc/sfc-tactics-ogre-box.jpg",
@@ -602,6 +639,10 @@
     "screenshots": [
       "images/sfc/sfc-earthbound-s1.png",
       "images/sfc/sfc-earthbound-u-s1.png",
+      "images/sfc/sfc-earthbound-m1.jpg",
+      "images/sfc/sfc-earthbound-m2.jpg",
+      "images/sfc/sfc-earthbound-m3.jpg",
+      "images/sfc/sfc-earthbound-m4.jpg",
       "images/sfc/sfc-earthbound-title.png"
     ],
     "cover": "images/sfc/sfc-earthbound-box.jpg",
@@ -653,6 +694,10 @@
     "screenshots": [
       "images/sfc/sfc-final-fantasy-iv-s1.png",
       "images/sfc/sfc-final-fantasy-iv-x1.png",
+      "images/sfc/sfc-final-fantasy-iv-m1.png",
+      "images/sfc/sfc-final-fantasy-iv-m2.jpg",
+      "images/sfc/sfc-final-fantasy-iv-m3.jpg",
+      "images/sfc/sfc-final-fantasy-iv-m4.jpg",
       "images/sfc/sfc-final-fantasy-iv-title.png"
     ],
     "cover": "images/sfc/sfc-final-fantasy-iv-box.jpg",
@@ -694,6 +739,10 @@
     "screenshots": [
       "images/sfc/sfc-fire-emblem-genealogy-s1.png",
       "images/sfc/sfc-fire-emblem-genealogy-1.png",
+      "images/sfc/sfc-fire-emblem-genealogy-m1.png",
+      "images/sfc/sfc-fire-emblem-genealogy-m2.png",
+      "images/sfc/sfc-fire-emblem-genealogy-m3.png",
+      "images/sfc/sfc-fire-emblem-genealogy-m4.png",
       "images/sfc/sfc-fire-emblem-genealogy-title.png"
     ],
     "cover": "images/sfc/sfc-fire-emblem-genealogy-box.jpg",
@@ -735,6 +784,7 @@
     "screenshots": [
       "images/sfc/sfc-final-fantasy-v-s1.png",
       "images/sfc/sfc-final-fantasy-v-x1.png",
+      "images/sfc/sfc-final-fantasy-v-m1.png",
       "images/sfc/sfc-final-fantasy-v-title.png"
     ],
     "cover": "images/sfc/sfc-final-fantasy-v-box.jpg",
@@ -777,6 +827,9 @@
       "images/sfc/sfc-dragon-quest-iii-s1.png",
       "images/sfc/sfc-dragon-quest-iii-x1.jpg",
       "images/sfc/sfc-dragon-quest-iii-x2.jpg",
+      "images/sfc/sfc-dragon-quest-iii-m1.png",
+      "images/sfc/sfc-dragon-quest-iii-m2.png",
+      "images/sfc/sfc-dragon-quest-iii-m3.png",
       "images/sfc/sfc-dragon-quest-iii-title.png"
     ],
     "cover": "images/sfc/sfc-dragon-quest-iii-box.jpg",
@@ -828,6 +881,10 @@
     "screenshots": [
       "images/sfc/sfc-live-a-live-s1.png",
       "images/sfc/sfc-live-a-live-x1.png",
+      "images/sfc/sfc-live-a-live-m1.png",
+      "images/sfc/sfc-live-a-live-m2.png",
+      "images/sfc/sfc-live-a-live-m3.jpg",
+      "images/sfc/sfc-live-a-live-m4.png",
       "images/sfc/sfc-live-a-live-title.png"
     ],
     "cover": "images/sfc/sfc-live-a-live-box.jpg",
@@ -879,6 +936,10 @@
     "screenshots": [
       "images/sfc/sfc-mega-man-x-s1.png",
       "images/sfc/sfc-mega-man-x-1.png",
+      "images/sfc/sfc-mega-man-x-m1.png",
+      "images/sfc/sfc-mega-man-x-m2.png",
+      "images/sfc/sfc-mega-man-x-m3.png",
+      "images/sfc/sfc-mega-man-x-m4.png",
       "images/sfc/sfc-mega-man-x-title.png"
     ],
     "cover": "images/sfc/sfc-mega-man-x-box.jpg",
@@ -920,6 +981,10 @@
     "screenshots": [
       "images/sfc/sfc-fire-emblem-thracia-776-s1.png",
       "images/sfc/sfc-fire-emblem-thracia-776-s3.png",
+      "images/sfc/sfc-fire-emblem-thracia-776-m1.png",
+      "images/sfc/sfc-fire-emblem-thracia-776-m2.png",
+      "images/sfc/sfc-fire-emblem-thracia-776-m3.png",
+      "images/sfc/sfc-fire-emblem-thracia-776-m4.png",
       "images/sfc/sfc-fire-emblem-thracia-776-title.png"
     ],
     "cover": "images/sfc/sfc-fire-emblem-thracia-776-box.jpg",
@@ -971,6 +1036,10 @@
     "screenshots": [
       "images/sfc/sfc-donkey-kong-country-s1.png",
       "images/sfc/sfc-donkey-kong-country-x1.png",
+      "images/sfc/sfc-donkey-kong-country-m1.png",
+      "images/sfc/sfc-donkey-kong-country-m2.png",
+      "images/sfc/sfc-donkey-kong-country-m3.png",
+      "images/sfc/sfc-donkey-kong-country-m4.png",
       "images/sfc/sfc-donkey-kong-country-title.png"
     ],
     "cover": "images/sfc/sfc-donkey-kong-country-box.jpg",
@@ -1013,6 +1082,9 @@
       "images/sfc/sfc-shiren-the-wanderer-s1.png",
       "images/sfc/sfc-shiren-the-wanderer-s2.png",
       "images/sfc/sfc-shiren-the-wanderer-s3.png",
+      "images/sfc/sfc-shiren-the-wanderer-m1.png",
+      "images/sfc/sfc-shiren-the-wanderer-m2.png",
+      "images/sfc/sfc-shiren-the-wanderer-m3.png",
       "images/sfc/sfc-shiren-the-wanderer-title.png"
     ],
     "cover": "images/sfc/sfc-shiren-the-wanderer-box.jpg",
@@ -1055,6 +1127,9 @@
       "images/sfc/sfc-romancing-saga-3-s1.png",
       "images/sfc/sfc-romancing-saga-3-s2.png",
       "images/sfc/sfc-romancing-saga-3-1.jpg",
+      "images/sfc/sfc-romancing-saga-3-m1.png",
+      "images/sfc/sfc-romancing-saga-3-m2.png",
+      "images/sfc/sfc-romancing-saga-3-m3.png",
       "images/sfc/sfc-romancing-saga-3-title.png"
     ],
     "cover": "images/sfc/sfc-romancing-saga-3-box.jpg",
@@ -1108,6 +1183,8 @@
       "images/sfc/sfc-donkey-kong-country-2-s2.png",
       "images/sfc/sfc-donkey-kong-country-2-s3.png",
       "images/sfc/sfc-donkey-kong-country-2-1.png",
+      "images/sfc/sfc-donkey-kong-country-2-m1.png",
+      "images/sfc/sfc-donkey-kong-country-2-m2.png",
       "images/sfc/sfc-donkey-kong-country-2-title.png"
     ],
     "cover": "images/sfc/sfc-donkey-kong-country-2-box.jpg",
@@ -1161,6 +1238,8 @@
       "images/sfc/sfc-ogre-battle-s2.png",
       "images/sfc/sfc-ogre-battle-u-s1.png",
       "images/sfc/sfc-ogre-battle-u-s2.png",
+      "images/sfc/sfc-ogre-battle-m1.png",
+      "images/sfc/sfc-ogre-battle-m2.png",
       "images/sfc/sfc-ogre-battle-title.png"
     ],
     "cover": "images/sfc/sfc-ogre-battle-box.jpg",
@@ -1202,6 +1281,10 @@
     "screenshots": [
       "images/sfc/sfc-dragon-quest-vi-s1.png",
       "images/sfc/sfc-dragon-quest-vi-x1.png",
+      "images/sfc/sfc-dragon-quest-vi-m1.jpg",
+      "images/sfc/sfc-dragon-quest-vi-m2.jpg",
+      "images/sfc/sfc-dragon-quest-vi-m3.jpg",
+      "images/sfc/sfc-dragon-quest-vi-m4.jpg",
       "images/sfc/sfc-dragon-quest-vi-title.png"
     ],
     "cover": "images/sfc/sfc-dragon-quest-vi-box.jpg",
@@ -1254,6 +1337,9 @@
       "images/sfc/sfc-lufia-ii-s1.png",
       "images/sfc/sfc-lufia-ii-x1.jpg",
       "images/sfc/sfc-lufia-ii-x2.jpg",
+      "images/sfc/sfc-lufia-ii-m1.png",
+      "images/sfc/sfc-lufia-ii-m2.png",
+      "images/sfc/sfc-lufia-ii-m3.png",
       "images/sfc/sfc-lufia-ii-title.png"
     ],
     "cover": "images/sfc/sfc-lufia-ii-box.jpg",
@@ -1308,6 +1394,7 @@
       "images/sfc/sfc-super-castlevania-iv-u-s1.png",
       "images/sfc/sfc-super-castlevania-iv-u-s3.png",
       "images/sfc/sfc-super-castlevania-iv-1.png",
+      "images/sfc/sfc-super-castlevania-iv-m1.png",
       "images/sfc/sfc-super-castlevania-iv-title.png"
     ],
     "cover": "images/sfc/sfc-super-castlevania-iv-box.jpg",
@@ -1361,6 +1448,8 @@
       "images/sfc/sfc-kirby-super-star-u-s1.png",
       "images/sfc/sfc-kirby-super-star-u-s2.png",
       "images/sfc/sfc-kirby-super-star-u-s3.png",
+      "images/sfc/sfc-kirby-super-star-m1.png",
+      "images/sfc/sfc-kirby-super-star-m2.png",
       "images/sfc/sfc-kirby-super-star-title.png"
     ],
     "cover": "images/sfc/sfc-kirby-super-star-box.jpg",
@@ -1413,6 +1502,9 @@
       "images/sfc/sfc-super-mario-kart-s1.png",
       "images/sfc/sfc-super-mario-kart-s2.png",
       "images/sfc/sfc-super-mario-kart-s3.png",
+      "images/sfc/sfc-super-mario-kart-m1.png",
+      "images/sfc/sfc-super-mario-kart-m2.png",
+      "images/sfc/sfc-super-mario-kart-m3.png",
       "images/sfc/sfc-super-mario-kart-title.png"
     ],
     "cover": "images/sfc/sfc-super-mario-kart-box.jpg",
@@ -1459,6 +1551,10 @@
     "screenshots": [
       "images/sfc/sfc-contra-iii-s1.png",
       "images/sfc/sfc-contra-iii-s2.png",
+      "images/sfc/sfc-contra-iii-m1.png",
+      "images/sfc/sfc-contra-iii-m2.png",
+      "images/sfc/sfc-contra-iii-m3.png",
+      "images/sfc/sfc-contra-iii-m4.png",
       "images/sfc/sfc-contra-iii-title.png"
     ],
     "cover": "images/sfc/sfc-contra-iii-box.jpg",
@@ -1510,6 +1606,10 @@
     "screenshots": [
       "images/sfc/sfc-street-fighter-ii-turbo-s1.png",
       "images/sfc/sfc-street-fighter-ii-turbo-1.png",
+      "images/sfc/sfc-street-fighter-ii-turbo-m1.png",
+      "images/sfc/sfc-street-fighter-ii-turbo-m2.jpg",
+      "images/sfc/sfc-street-fighter-ii-turbo-m3.jpg",
+      "images/sfc/sfc-street-fighter-ii-turbo-m4.jpg",
       "images/sfc/sfc-street-fighter-ii-turbo-title.png"
     ],
     "cover": "images/sfc/sfc-street-fighter-ii-turbo-box.jpg",
@@ -1545,6 +1645,10 @@
     "screenshots": [
       "images/sfc/sfc-romancing-saga-2-s1.png",
       "images/sfc/sfc-romancing-saga-2-x1.jpg",
+      "images/sfc/sfc-romancing-saga-2-m1.png",
+      "images/sfc/sfc-romancing-saga-2-m2.png",
+      "images/sfc/sfc-romancing-saga-2-m3.png",
+      "images/sfc/sfc-romancing-saga-2-m4.png",
       "images/sfc/sfc-romancing-saga-2-title.png"
     ],
     "cover": "images/sfc/sfc-romancing-saga-2-box.jpg",
@@ -1598,6 +1702,8 @@
       "images/sfc/sfc-super-ghouls-n-ghosts-s2.png",
       "images/sfc/sfc-super-ghouls-n-ghosts-s3.png",
       "images/sfc/sfc-super-ghouls-n-ghosts-u-s1.png",
+      "images/sfc/sfc-super-ghouls-n-ghosts-m1.png",
+      "images/sfc/sfc-super-ghouls-n-ghosts-m2.png",
       "images/sfc/sfc-super-ghouls-n-ghosts-title.png"
     ],
     "cover": "images/sfc/sfc-super-ghouls-n-ghosts-box.jpg",
@@ -1645,6 +1751,7 @@
       "images/sfc/sfc-front-mission-s1.png",
       "images/sfc/sfc-front-mission-x1.jpg",
       "images/sfc/sfc-front-mission-x2.jpg",
+      "images/sfc/sfc-front-mission-m1.jpg",
       "images/sfc/sfc-front-mission-title.png"
     ],
     "cover": "images/sfc/sfc-front-mission-box.jpg",
@@ -1698,6 +1805,8 @@
       "images/sfc/sfc-demons-crest-s2.png",
       "images/sfc/sfc-demons-crest-s3.png",
       "images/sfc/sfc-demons-crest-u-s1.png",
+      "images/sfc/sfc-demons-crest-m1.png",
+      "images/sfc/sfc-demons-crest-m2.png",
       "images/sfc/sfc-demons-crest-title.png"
     ],
     "cover": "images/sfc/sfc-demons-crest-box.jpg",
@@ -1751,6 +1860,8 @@
       "images/sfc/sfc-soul-blazer-u-s1.png",
       "images/sfc/sfc-soul-blazer-u-s2.png",
       "images/sfc/sfc-soul-blazer-u-s3.png",
+      "images/sfc/sfc-soul-blazer-m1.png",
+      "images/sfc/sfc-soul-blazer-m2.png",
       "images/sfc/sfc-soul-blazer-title.png"
     ],
     "cover": "images/sfc/sfc-soul-blazer-box.jpg",
@@ -1799,6 +1910,8 @@
       "images/sfc/sfc-harvest-moon-s2.png",
       "images/sfc/sfc-harvest-moon-u-s1.png",
       "images/sfc/sfc-harvest-moon-u-s2.png",
+      "images/sfc/sfc-harvest-moon-m1.png",
+      "images/sfc/sfc-harvest-moon-m2.png",
       "images/sfc/sfc-harvest-moon-title.png"
     ],
     "cover": "images/sfc/sfc-harvest-moon-box.jpg",
@@ -1845,6 +1958,10 @@
     "screenshots": [
       "images/sfc/sfc-treasure-of-the-rudras-s1.png",
       "images/sfc/sfc-treasure-of-the-rudras-x1.png",
+      "images/sfc/sfc-treasure-of-the-rudras-m1.png",
+      "images/sfc/sfc-treasure-of-the-rudras-m2.png",
+      "images/sfc/sfc-treasure-of-the-rudras-m3.png",
+      "images/sfc/sfc-treasure-of-the-rudras-m4.png",
       "images/sfc/sfc-treasure-of-the-rudras-title.png"
     ],
     "cover": "images/sfc/sfc-treasure-of-the-rudras-box.jpg",
@@ -1886,6 +2003,10 @@
     "screenshots": [
       "images/sfc/sfc-tengai-makyou-zero-s1.png",
       "images/sfc/sfc-tengai-makyou-zero-s2.png",
+      "images/sfc/sfc-tengai-makyou-zero-m1.png",
+      "images/sfc/sfc-tengai-makyou-zero-m2.png",
+      "images/sfc/sfc-tengai-makyou-zero-m3.png",
+      "images/sfc/sfc-tengai-makyou-zero-m4.png",
       "images/sfc/sfc-tengai-makyou-zero-title.png"
     ],
     "cover": "images/sfc/sfc-tengai-makyou-zero-box.jpg",
@@ -1937,6 +2058,10 @@
     "screenshots": [
       "images/sfc/sfc-illusion-of-gaia-s1.png",
       "images/sfc/sfc-illusion-of-gaia-u-s1.png",
+      "images/sfc/sfc-illusion-of-gaia-m1.png",
+      "images/sfc/sfc-illusion-of-gaia-m2.png",
+      "images/sfc/sfc-illusion-of-gaia-m3.png",
+      "images/sfc/sfc-illusion-of-gaia-m4.png",
       "images/sfc/sfc-illusion-of-gaia-title.png"
     ],
     "cover": "images/sfc/sfc-illusion-of-gaia-box.jpg",
@@ -1984,6 +2109,9 @@
       "images/sfc/sfc-bahamut-lagoon-s1.png",
       "images/sfc/sfc-bahamut-lagoon-s2.png",
       "images/sfc/sfc-bahamut-lagoon-s3.png",
+      "images/sfc/sfc-bahamut-lagoon-m1.png",
+      "images/sfc/sfc-bahamut-lagoon-m2.png",
+      "images/sfc/sfc-bahamut-lagoon-m3.png",
       "images/sfc/sfc-bahamut-lagoon-title.png"
     ],
     "cover": "images/sfc/sfc-bahamut-lagoon-box.jpg",
@@ -2026,6 +2154,9 @@
       "images/sfc/sfc-romancing-saga-s1.png",
       "images/sfc/sfc-romancing-saga-s2.png",
       "images/sfc/sfc-romancing-saga-s3.png",
+      "images/sfc/sfc-romancing-saga-m1.png",
+      "images/sfc/sfc-romancing-saga-m2.png",
+      "images/sfc/sfc-romancing-saga-m3.png",
       "images/sfc/sfc-romancing-saga-title.png"
     ],
     "cover": "images/sfc/sfc-romancing-saga-box.jpg",
@@ -2072,6 +2203,10 @@
     "screenshots": [
       "images/sfc/sfc-star-ocean-s1.png",
       "images/sfc/sfc-star-ocean-x1.jpg",
+      "images/sfc/sfc-star-ocean-m1.png",
+      "images/sfc/sfc-star-ocean-m2.png",
+      "images/sfc/sfc-star-ocean-m3.png",
+      "images/sfc/sfc-star-ocean-m4.png",
       "images/sfc/sfc-star-ocean-title.png"
     ],
     "cover": "images/sfc/sfc-star-ocean-box.jpg",
@@ -2125,6 +2260,8 @@
       "images/sfc/sfc-turtles-in-time-s2.png",
       "images/sfc/sfc-turtles-in-time-u-s1.png",
       "images/sfc/sfc-turtles-in-time-u-s3.png",
+      "images/sfc/sfc-turtles-in-time-m1.jpg",
+      "images/sfc/sfc-turtles-in-time-m2.jpg",
       "images/sfc/sfc-turtles-in-time-title.png"
     ],
     "cover": "images/sfc/sfc-turtles-in-time-box.jpg",
@@ -2178,6 +2315,8 @@
       "images/sfc/sfc-breath-of-fire-ii-s2.png",
       "images/sfc/sfc-breath-of-fire-ii-s3.png",
       "images/sfc/sfc-breath-of-fire-ii-u-s1.png",
+      "images/sfc/sfc-breath-of-fire-ii-m1.png",
+      "images/sfc/sfc-breath-of-fire-ii-m2.png",
       "images/sfc/sfc-breath-of-fire-ii-title.png"
     ],
     "cover": "images/sfc/sfc-breath-of-fire-ii-box.jpg",
@@ -2225,6 +2364,9 @@
       "images/sfc/sfc-axelay-s1.png",
       "images/sfc/sfc-axelay-s2.png",
       "images/sfc/sfc-axelay-s3.png",
+      "images/sfc/sfc-axelay-m1.jpg",
+      "images/sfc/sfc-axelay-m2.jpg",
+      "images/sfc/sfc-axelay-m3.jpg",
       "images/sfc/sfc-axelay-title.png"
     ],
     "cover": "images/sfc/sfc-axelay-box.jpg",
@@ -2273,6 +2415,7 @@
       "images/sfc/sfc-panel-de-pon-s2.png",
       "images/sfc/sfc-panel-de-pon-u-s1.png",
       "images/sfc/sfc-panel-de-pon-u-s2.png",
+      "images/sfc/sfc-panel-de-pon-m1.png",
       "images/sfc/sfc-panel-de-pon-title.png"
     ],
     "cover": "images/sfc/sfc-panel-de-pon-box.jpg",
@@ -2321,6 +2464,8 @@
       "images/sfc/sfc-breath-of-fire-s2.png",
       "images/sfc/sfc-breath-of-fire-s3.png",
       "images/sfc/sfc-breath-of-fire-u-s1.png",
+      "images/sfc/sfc-breath-of-fire-m1.png",
+      "images/sfc/sfc-breath-of-fire-m2.png",
       "images/sfc/sfc-breath-of-fire-title.png"
     ],
     "cover": "images/sfc/sfc-breath-of-fire-box.jpg",
@@ -2367,6 +2512,10 @@
     "screenshots": [
       "images/sfc/sfc-treasure-hunter-g-s1.png",
       "images/sfc/sfc-treasure-hunter-g-s2.png",
+      "images/sfc/sfc-treasure-hunter-g-m1.png",
+      "images/sfc/sfc-treasure-hunter-g-m2.png",
+      "images/sfc/sfc-treasure-hunter-g-m3.jpg",
+      "images/sfc/sfc-treasure-hunter-g-m4.jpg",
       "images/sfc/sfc-treasure-hunter-g-title.png"
     ],
     "cover": "images/sfc/sfc-treasure-hunter-g-box.jpg",
@@ -2418,6 +2567,10 @@
     "screenshots": [
       "images/sfc/sfc-secret-of-evermore-s1.png",
       "images/sfc/sfc-secret-of-evermore-x1.png",
+      "images/sfc/sfc-secret-of-evermore-m1.png",
+      "images/sfc/sfc-secret-of-evermore-m2.png",
+      "images/sfc/sfc-secret-of-evermore-m3.png",
+      "images/sfc/sfc-secret-of-evermore-m4.jpg",
       "images/sfc/sfc-secret-of-evermore-title.png"
     ],
     "cover": "images/sfc/sfc-secret-of-evermore-box.jpg",
@@ -2459,6 +2612,10 @@
     "screenshots": [
       "images/sfc/sfc-ys-v-s1.png",
       "images/sfc/sfc-ys-v-e-s1.png",
+      "images/sfc/sfc-ys-v-m1.png",
+      "images/sfc/sfc-ys-v-m2.png",
+      "images/sfc/sfc-ys-v-m3.png",
+      "images/sfc/sfc-ys-v-m4.png",
       "images/sfc/sfc-ys-v-title.png"
     ],
     "cover": "images/sfc/sfc-ys-v-box.jpg",
@@ -2547,6 +2704,9 @@
     "screenshots": [
       "images/sfc/sfc-lufia-s1.png",
       "images/sfc/sfc-lufia-u-s1.png",
+      "images/sfc/sfc-lufia-m1.png",
+      "images/sfc/sfc-lufia-m2.png",
+      "images/sfc/sfc-lufia-m3.png",
       "images/sfc/sfc-lufia-title.png"
     ],
     "cover": "images/sfc/sfc-lufia-box.jpg",
@@ -2593,6 +2753,10 @@
     "screenshots": [
       "images/sfc/sfc-robotrek-s1.png",
       "images/sfc/sfc-robotrek-u-s1.png",
+      "images/sfc/sfc-robotrek-m1.jpg",
+      "images/sfc/sfc-robotrek-m2.jpg",
+      "images/sfc/sfc-robotrek-m3.jpg",
+      "images/sfc/sfc-robotrek-m4.jpg",
       "images/sfc/sfc-robotrek-title.png"
     ],
     "cover": "images/sfc/sfc-robotrek-box.jpg",
@@ -2639,6 +2803,10 @@
     "screenshots": [
       "images/sfc/sfc-brain-lord-s1.png",
       "images/sfc/sfc-brain-lord-s2.png",
+      "images/sfc/sfc-brain-lord-m1.png",
+      "images/sfc/sfc-brain-lord-m2.jpg",
+      "images/sfc/sfc-brain-lord-m3.jpg",
+      "images/sfc/sfc-brain-lord-m4.jpg",
       "images/sfc/sfc-brain-lord-title.png"
     ],
     "cover": "images/sfc/sfc-brain-lord-box.jpg",
@@ -2681,6 +2849,9 @@
       "images/sfc/sfc-ys-iv-s1.png",
       "images/sfc/sfc-ys-iv-x1.png",
       "images/sfc/sfc-ys-iv-x2.png",
+      "images/sfc/sfc-ys-iv-m1.jpg",
+      "images/sfc/sfc-ys-iv-m2.png",
+      "images/sfc/sfc-ys-iv-m3.jpg",
       "images/sfc/sfc-ys-iv-title.png"
     ],
     "cover": "images/sfc/sfc-ys-iv-box.jpg",

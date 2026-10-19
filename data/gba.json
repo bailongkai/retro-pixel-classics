@@ -48,6 +48,7 @@
       "images/gba/gba-mother-3-s3.png",
       "images/gba/gba-mother-3-1.png",
       "images/gba/gba-mother-3-2.png",
+      "images/gba/gba-mother-3-m1.jpg",
       "images/gba/gba-mother-3-title.png"
     ],
     "cover": "images/gba/gba-mother-3-box.jpg",
@@ -102,6 +103,8 @@
       "images/gba/gba-golden-sun-s2.png",
       "images/gba/gba-golden-sun-1.png",
       "images/gba/gba-golden-sun-2.png",
+      "images/gba/gba-golden-sun-m1.png",
+      "images/gba/gba-golden-sun-m2.png",
       "images/gba/gba-golden-sun-title.png"
     ],
     "cover": "images/gba/gba-golden-sun-box.jpg",
@@ -156,6 +159,8 @@
       "images/gba/gba-castlevania-aria-of-sorrow-s2.png",
       "images/gba/gba-castlevania-aria-of-sorrow-s3.png",
       "images/gba/gba-castlevania-aria-of-sorrow-1.jpg",
+      "images/gba/gba-castlevania-aria-of-sorrow-m1.jpg",
+      "images/gba/gba-castlevania-aria-of-sorrow-m2.jpg",
       "images/gba/gba-castlevania-aria-of-sorrow-title.png"
     ],
     "cover": "images/gba/gba-castlevania-aria-of-sorrow-box.jpg",
@@ -208,6 +213,10 @@
     "screenshots": [
       "images/gba/gba-zelda-minish-cap-s1.png",
       "images/gba/gba-zelda-minish-cap-1.png",
+      "images/gba/gba-zelda-minish-cap-m1.jpg",
+      "images/gba/gba-zelda-minish-cap-m2.jpg",
+      "images/gba/gba-zelda-minish-cap-m3.jpg",
+      "images/gba/gba-zelda-minish-cap-m4.jpg",
       "images/gba/gba-zelda-minish-cap-title.png"
     ],
     "cover": "images/gba/gba-zelda-minish-cap-box.jpg",
@@ -261,6 +270,9 @@
       "images/gba/gba-metroid-fusion-s1.png",
       "images/gba/gba-metroid-fusion-1.jpg",
       "images/gba/gba-metroid-fusion-2.png",
+      "images/gba/gba-metroid-fusion-m1.jpg",
+      "images/gba/gba-metroid-fusion-m2.jpg",
+      "images/gba/gba-metroid-fusion-m3.jpg",
       "images/gba/gba-metroid-fusion-title.png"
     ],
     "cover": "images/gba/gba-metroid-fusion-box.jpg",
@@ -314,6 +326,8 @@
       "images/gba/gba-final-fantasy-vi-advance-s1.png",
       "images/gba/gba-final-fantasy-vi-advance-x1.jpg",
       "images/gba/gba-final-fantasy-vi-advance-x2.jpg",
+      "images/gba/gba-final-fantasy-vi-advance-m1.jpg",
+      "images/gba/gba-final-fantasy-vi-advance-m2.jpg",
       "images/gba/gba-final-fantasy-vi-advance-title.png"
     ],
     "cover": "images/gba/gba-final-fantasy-vi-advance-box.jpg",
@@ -366,6 +380,8 @@
     "screenshots": [
       "images/gba/gba-zelda-link-to-the-past-four-swords-s1.png",
       "images/gba/gba-zelda-link-to-the-past-four-swords-x2.png",
+      "images/gba/gba-zelda-link-to-the-past-four-swords-m1.png",
+      "images/gba/gba-zelda-link-to-the-past-four-swords-m2.png",
       "images/gba/gba-zelda-link-to-the-past-four-swords-title.png"
     ],
     "cover": "images/gba/gba-zelda-link-to-the-past-four-swords-box.jpg",
@@ -420,6 +436,8 @@
       "images/gba/gba-golden-sun-the-lost-age-s2.png",
       "images/gba/gba-golden-sun-the-lost-age-1.png",
       "images/gba/gba-golden-sun-the-lost-age-2.png",
+      "images/gba/gba-golden-sun-the-lost-age-m1.png",
+      "images/gba/gba-golden-sun-the-lost-age-m2.png",
       "images/gba/gba-golden-sun-the-lost-age-title.png"
     ],
     "cover": "images/gba/gba-golden-sun-the-lost-age-box.jpg",
@@ -474,6 +492,8 @@
       "images/gba/gba-fire-emblem-s2.png",
       "images/gba/gba-fire-emblem-s3.png",
       "images/gba/gba-fire-emblem-1.png",
+      "images/gba/gba-fire-emblem-m1.png",
+      "images/gba/gba-fire-emblem-m2.png",
       "images/gba/gba-fire-emblem-title.png"
     ],
     "cover": "images/gba/gba-fire-emblem-box.jpg",
@@ -528,6 +548,8 @@
       "images/gba/gba-mario-and-luigi-superstar-saga-s2.png",
       "images/gba/gba-mario-and-luigi-superstar-saga-s3.png",
       "images/gba/gba-mario-and-luigi-superstar-saga-1.png",
+      "images/gba/gba-mario-and-luigi-superstar-saga-m1.jpg",
+      "images/gba/gba-mario-and-luigi-superstar-saga-m2.jpg",
       "images/gba/gba-mario-and-luigi-superstar-saga-title.png"
     ],
     "cover": "images/gba/gba-mario-and-luigi-superstar-saga-box.jpg",
@@ -582,6 +604,8 @@
       "images/gba/gba-advance-wars-s2.png",
       "images/gba/gba-advance-wars-s3.png",
       "images/gba/gba-advance-wars-1.png",
+      "images/gba/gba-advance-wars-m1.png",
+      "images/gba/gba-advance-wars-m2.png",
       "images/gba/gba-advance-wars-title.png"
     ],
     "cover": "images/gba/gba-advance-wars-box.jpg",
@@ -634,6 +658,10 @@
     "screenshots": [
       "images/gba/gba-super-mario-advance-4-s1.png",
       "images/gba/gba-super-mario-advance-4-x1.png",
+      "images/gba/gba-super-mario-advance-4-m1.jpg",
+      "images/gba/gba-super-mario-advance-4-m2.png",
+      "images/gba/gba-super-mario-advance-4-m3.png",
+      "images/gba/gba-super-mario-advance-4-m4.png",
       "images/gba/gba-super-mario-advance-4-title.png"
     ],
     "cover": "images/gba/gba-super-mario-advance-4-box.jpg",
@@ -686,6 +714,10 @@
     "screenshots": [
       "images/gba/gba-metroid-zero-mission-s1.png",
       "images/gba/gba-metroid-zero-mission-x1.png",
+      "images/gba/gba-metroid-zero-mission-m1.jpg",
+      "images/gba/gba-metroid-zero-mission-m2.jpg",
+      "images/gba/gba-metroid-zero-mission-m3.jpg",
+      "images/gba/gba-metroid-zero-mission-m4.jpg",
       "images/gba/gba-metroid-zero-mission-title.png"
     ],
     "cover": "images/gba/gba-metroid-zero-mission-box.jpg",
@@ -729,6 +761,7 @@
       "images/gba/gba-mother-1-2-s1.png",
       "images/gba/gba-mother-1-2-x1.jpg",
       "images/gba/gba-mother-1-2-x2.jpg",
+      "images/gba/gba-mother-1-2-m1.png",
       "images/gba/gba-mother-1-2-title.png"
     ],
     "cover": "images/gba/gba-mother-1-2-box.jpg",
@@ -783,6 +816,8 @@
       "images/gba/gba-final-fantasy-tactics-advance-s2.png",
       "images/gba/gba-final-fantasy-tactics-advance-s3.png",
       "images/gba/gba-final-fantasy-tactics-advance-1.png",
+      "images/gba/gba-final-fantasy-tactics-advance-m1.png",
+      "images/gba/gba-final-fantasy-tactics-advance-m2.jpg",
       "images/gba/gba-final-fantasy-tactics-advance-title.png"
     ],
     "cover": "images/gba/gba-final-fantasy-tactics-advance-box.jpg",
@@ -836,6 +871,9 @@
       "images/gba/gba-pokemon-ruby-sapphire-s1.png",
       "images/gba/gba-pokemon-ruby-sapphire-s2.png",
       "images/gba/gba-pokemon-ruby-sapphire-s3.png",
+      "images/gba/gba-pokemon-ruby-sapphire-m1.png",
+      "images/gba/gba-pokemon-ruby-sapphire-m2.jpg",
+      "images/gba/gba-pokemon-ruby-sapphire-m3.png",
       "images/gba/gba-pokemon-ruby-sapphire-title.png"
     ],
     "cover": "images/gba/gba-pokemon-ruby-sapphire-box.jpg",
@@ -889,6 +927,9 @@
       "images/gba/gba-final-fantasy-v-advance-s1.png",
       "images/gba/gba-final-fantasy-v-advance-x1.jpg",
       "images/gba/gba-final-fantasy-v-advance-x2.jpg",
+      "images/gba/gba-final-fantasy-v-advance-m1.png",
+      "images/gba/gba-final-fantasy-v-advance-m2.png",
+      "images/gba/gba-final-fantasy-v-advance-m3.png",
       "images/gba/gba-final-fantasy-v-advance-title.png"
     ],
     "cover": "images/gba/gba-final-fantasy-v-advance-box.jpg",
@@ -942,6 +983,9 @@
       "images/gba/gba-fire-emblem-sacred-stones-s1.png",
       "images/gba/gba-fire-emblem-sacred-stones-s2.png",
       "images/gba/gba-fire-emblem-sacred-stones-s3.png",
+      "images/gba/gba-fire-emblem-sacred-stones-m1.png",
+      "images/gba/gba-fire-emblem-sacred-stones-m2.png",
+      "images/gba/gba-fire-emblem-sacred-stones-m3.jpg",
       "images/gba/gba-fire-emblem-sacred-stones-title.png"
     ],
     "cover": "images/gba/gba-fire-emblem-sacred-stones-box.jpg",
@@ -994,6 +1038,10 @@
     "screenshots": [
       "images/gba/gba-tactics-ogre-knight-of-lodis-s1.png",
       "images/gba/gba-tactics-ogre-knight-of-lodis-s2.png",
+      "images/gba/gba-tactics-ogre-knight-of-lodis-m1.png",
+      "images/gba/gba-tactics-ogre-knight-of-lodis-m2.png",
+      "images/gba/gba-tactics-ogre-knight-of-lodis-m3.jpg",
+      "images/gba/gba-tactics-ogre-knight-of-lodis-m4.jpg",
       "images/gba/gba-tactics-ogre-knight-of-lodis-title.png"
     ],
     "cover": "images/gba/gba-tactics-ogre-knight-of-lodis-box.jpg",
@@ -1036,6 +1084,10 @@
     "screenshots": [
       "images/gba/gba-fire-emblem-binding-blade-s1.png",
       "images/gba/gba-fire-emblem-binding-blade-s2.png",
+      "images/gba/gba-fire-emblem-binding-blade-m1.jpg",
+      "images/gba/gba-fire-emblem-binding-blade-m2.png",
+      "images/gba/gba-fire-emblem-binding-blade-m3.jpg",
+      "images/gba/gba-fire-emblem-binding-blade-m4.jpg",
       "images/gba/gba-fire-emblem-binding-blade-title.png"
     ],
     "cover": "images/gba/gba-fire-emblem-binding-blade-box.jpg",
@@ -1089,6 +1141,9 @@
       "images/gba/gba-final-fantasy-iv-advance-s1.png",
       "images/gba/gba-final-fantasy-iv-advance-x1.jpg",
       "images/gba/gba-final-fantasy-iv-advance-x2.jpg",
+      "images/gba/gba-final-fantasy-iv-advance-m1.png",
+      "images/gba/gba-final-fantasy-iv-advance-m2.png",
+      "images/gba/gba-final-fantasy-iv-advance-m3.jpg",
       "images/gba/gba-final-fantasy-iv-advance-title.png"
     ],
     "cover": "images/gba/gba-final-fantasy-iv-advance-box.jpg",
@@ -1142,6 +1197,9 @@
       "images/gba/gba-castlevania-circle-of-the-moon-s1.png",
       "images/gba/gba-castlevania-circle-of-the-moon-s2.png",
       "images/gba/gba-castlevania-circle-of-the-moon-s3.png",
+      "images/gba/gba-castlevania-circle-of-the-moon-m1.png",
+      "images/gba/gba-castlevania-circle-of-the-moon-m2.png",
+      "images/gba/gba-castlevania-circle-of-the-moon-m3.jpg",
       "images/gba/gba-castlevania-circle-of-the-moon-title.png"
     ],
     "cover": "images/gba/gba-castlevania-circle-of-the-moon-box.jpg",
@@ -1194,6 +1252,10 @@
     "screenshots": [
       "images/gba/gba-wario-land-4-s1.png",
       "images/gba/gba-wario-land-4-x1.png",
+      "images/gba/gba-wario-land-4-m1.jpg",
+      "images/gba/gba-wario-land-4-m2.jpg",
+      "images/gba/gba-wario-land-4-m3.jpg",
+      "images/gba/gba-wario-land-4-m4.png",
       "images/gba/gba-wario-land-4-title.png"
     ],
     "cover": "images/gba/gba-wario-land-4-box.jpg",
@@ -1236,6 +1298,7 @@
     "screenshots": [
       "images/gba/gba-rhythm-tengoku-s1.png",
       "images/gba/gba-rhythm-tengoku-s2.png",
+      "images/gba/gba-rhythm-tengoku-m1.png",
       "images/gba/gba-rhythm-tengoku-title.png"
     ],
     "cover": "images/gba/gba-rhythm-tengoku-box.jpg",
@@ -1290,6 +1353,8 @@
       "images/gba/gba-astro-boy-omega-factor-s2.png",
       "images/gba/gba-astro-boy-omega-factor-s3.png",
       "images/gba/gba-astro-boy-omega-factor-1.png",
+      "images/gba/gba-astro-boy-omega-factor-m1.jpg",
+      "images/gba/gba-astro-boy-omega-factor-m2.jpg",
       "images/gba/gba-astro-boy-omega-factor-title.png"
     ],
     "cover": "images/gba/gba-astro-boy-omega-factor-box.jpg",
@@ -1343,6 +1408,9 @@
       "images/gba/gba-castlevania-harmony-of-dissonance-s1.png",
       "images/gba/gba-castlevania-harmony-of-dissonance-s2.png",
       "images/gba/gba-castlevania-harmony-of-dissonance-s3.png",
+      "images/gba/gba-castlevania-harmony-of-dissonance-m1.png",
+      "images/gba/gba-castlevania-harmony-of-dissonance-m2.jpg",
+      "images/gba/gba-castlevania-harmony-of-dissonance-m3.jpg",
       "images/gba/gba-castlevania-harmony-of-dissonance-title.png"
     ],
     "cover": "images/gba/gba-castlevania-harmony-of-dissonance-box.jpg",
@@ -1395,6 +1463,10 @@
     "screenshots": [
       "images/gba/gba-mega-man-zero-2-s1.png",
       "images/gba/gba-mega-man-zero-2-s2.png",
+      "images/gba/gba-mega-man-zero-2-m1.png",
+      "images/gba/gba-mega-man-zero-2-m2.png",
+      "images/gba/gba-mega-man-zero-2-m3.png",
+      "images/gba/gba-mega-man-zero-2-m4.jpg",
       "images/gba/gba-mega-man-zero-2-title.png"
     ],
     "cover": "images/gba/gba-mega-man-zero-2-box.jpg",
@@ -1437,6 +1509,10 @@
     "screenshots": [
       "images/gba/gba-magical-vacation-s1.png",
       "images/gba/gba-magical-vacation-x1.png",
+      "images/gba/gba-magical-vacation-m1.png",
+      "images/gba/gba-magical-vacation-m2.png",
+      "images/gba/gba-magical-vacation-m3.png",
+      "images/gba/gba-magical-vacation-m4.png",
       "images/gba/gba-magical-vacation-title.png"
     ],
     "cover": "images/gba/gba-magical-vacation-box.jpg",
@@ -1489,6 +1565,10 @@
     "screenshots": [
       "images/gba/gba-boktai-s1.png",
       "images/gba/gba-boktai-s2.png",
+      "images/gba/gba-boktai-m1.png",
+      "images/gba/gba-boktai-m2.jpg",
+      "images/gba/gba-boktai-m3.jpg",
+      "images/gba/gba-boktai-m4.jpg",
       "images/gba/gba-boktai-title.png"
     ],
     "cover": "images/gba/gba-boktai-box.jpg",
@@ -1538,6 +1618,8 @@
       "images/gba/gba-harvest-moon-friends-of-mineral-town-s2.png",
       "images/gba/gba-harvest-moon-friends-of-mineral-town-s3.png",
       "images/gba/gba-harvest-moon-friends-of-mineral-town-1.png",
+      "images/gba/gba-harvest-moon-friends-of-mineral-town-m1.jpg",
+      "images/gba/gba-harvest-moon-friends-of-mineral-town-m2.jpg",
       "images/gba/gba-harvest-moon-friends-of-mineral-town-title.png"
     ],
     "cover": "images/gba/gba-harvest-moon-friends-of-mineral-town-box.jpg",
@@ -1590,6 +1672,10 @@
     "screenshots": [
       "images/gba/gba-mega-man-zero-s1.png",
       "images/gba/gba-mega-man-zero-s3.png",
+      "images/gba/gba-mega-man-zero-m1.png",
+      "images/gba/gba-mega-man-zero-m2.png",
+      "images/gba/gba-mega-man-zero-m3.png",
+      "images/gba/gba-mega-man-zero-m4.jpg",
       "images/gba/gba-mega-man-zero-title.png"
     ],
     "cover": "images/gba/gba-mega-man-zero-box.jpg",
@@ -1641,6 +1727,11 @@
     "is2D": true,
     "screenshots": [
       "images/gba/gba-gunstar-super-heroes-s1.png",
+      "images/gba/gba-gunstar-super-heroes-m1.png",
+      "images/gba/gba-gunstar-super-heroes-m2.png",
+      "images/gba/gba-gunstar-super-heroes-m3.jpg",
+      "images/gba/gba-gunstar-super-heroes-m4.png",
+      "images/gba/gba-gunstar-super-heroes-m5.png",
       "images/gba/gba-gunstar-super-heroes-title.png"
     ],
     "cover": "images/gba/gba-gunstar-super-heroes-box.jpg",
@@ -1694,6 +1785,9 @@
       "images/gba/gba-pokemon-firered-leafgreen-s1.png",
       "images/gba/gba-pokemon-firered-leafgreen-s2.png",
       "images/gba/gba-pokemon-firered-leafgreen-s3.png",
+      "images/gba/gba-pokemon-firered-leafgreen-m1.png",
+      "images/gba/gba-pokemon-firered-leafgreen-m2.jpg",
+      "images/gba/gba-pokemon-firered-leafgreen-m3.jpg",
       "images/gba/gba-pokemon-firered-leafgreen-title.png"
     ],
     "cover": "images/gba/gba-pokemon-firered-leafgreen-box.jpg",
@@ -1746,6 +1840,10 @@
     "screenshots": [
       "images/gba/gba-mega-man-zero-3-s1.png",
       "images/gba/gba-mega-man-zero-3-s2.png",
+      "images/gba/gba-mega-man-zero-3-m1.png",
+      "images/gba/gba-mega-man-zero-3-m2.png",
+      "images/gba/gba-mega-man-zero-3-m3.jpg",
+      "images/gba/gba-mega-man-zero-3-m4.jpg",
       "images/gba/gba-mega-man-zero-3-title.png"
     ],
     "cover": "images/gba/gba-mega-man-zero-3-box.jpg",
@@ -1799,6 +1897,9 @@
       "images/gba/gba-kirby-amazing-mirror-s1.png",
       "images/gba/gba-kirby-amazing-mirror-s2.png",
       "images/gba/gba-kirby-amazing-mirror-s3.png",
+      "images/gba/gba-kirby-amazing-mirror-m1.png",
+      "images/gba/gba-kirby-amazing-mirror-m2.jpg",
+      "images/gba/gba-kirby-amazing-mirror-m3.jpg",
       "images/gba/gba-kirby-amazing-mirror-title.png"
     ],
     "cover": "images/gba/gba-kirby-amazing-mirror-box.jpg",
@@ -1852,6 +1953,9 @@
       "images/gba/gba-mega-man-battle-network-3-s1.png",
       "images/gba/gba-mega-man-battle-network-3-s2.png",
       "images/gba/gba-mega-man-battle-network-3-s3.png",
+      "images/gba/gba-mega-man-battle-network-3-m1.png",
+      "images/gba/gba-mega-man-battle-network-3-m2.png",
+      "images/gba/gba-mega-man-battle-network-3-m3.png",
       "images/gba/gba-mega-man-battle-network-3-title.png"
     ],
     "cover": "images/gba/gba-mega-man-battle-network-3-box.jpg",
@@ -1895,6 +1999,9 @@
       "images/gba/gba-super-robot-taisen-og-s1.png",
       "images/gba/gba-super-robot-taisen-og-s2.png",
       "images/gba/gba-super-robot-taisen-og-s3.png",
+      "images/gba/gba-super-robot-taisen-og-m1.png",
+      "images/gba/gba-super-robot-taisen-og-m2.png",
+      "images/gba/gba-super-robot-taisen-og-m3.jpg",
       "images/gba/gba-super-robot-taisen-og-title.png"
     ],
     "cover": "images/gba/gba-super-robot-taisen-og-box.jpg",
@@ -1947,6 +2054,10 @@
     "screenshots": [
       "images/gba/gba-drill-dozer-s1.png",
       "images/gba/gba-drill-dozer-s2.png",
+      "images/gba/gba-drill-dozer-m1.png",
+      "images/gba/gba-drill-dozer-m2.png",
+      "images/gba/gba-drill-dozer-m3.jpg",
+      "images/gba/gba-drill-dozer-m4.jpg",
       "images/gba/gba-drill-dozer-title.png"
     ],
     "cover": "images/gba/gba-drill-dozer-box.jpg",
@@ -1999,6 +2110,8 @@
     "screenshots": [
       "images/gba/gba-ninja-five-o-s1.png",
       "images/gba/gba-ninja-five-o-s2.png",
+      "images/gba/gba-ninja-five-o-m1.png",
+      "images/gba/gba-ninja-five-o-m2.png",
       "images/gba/gba-ninja-five-o-title.png"
     ],
     "cover": "images/gba/gba-ninja-five-o-box.jpg",
@@ -2052,6 +2165,9 @@
       "images/gba/gba-breath-of-fire-ii-s1.png",
       "images/gba/gba-breath-of-fire-ii-s2.png",
       "images/gba/gba-breath-of-fire-ii-s3.png",
+      "images/gba/gba-breath-of-fire-ii-m1.jpg",
+      "images/gba/gba-breath-of-fire-ii-m2.png",
+      "images/gba/gba-breath-of-fire-ii-m3.jpg",
       "images/gba/gba-breath-of-fire-ii-title.png"
     ],
     "cover": "images/gba/gba-breath-of-fire-ii-box.jpg",
@@ -2104,6 +2220,10 @@
     "screenshots": [
       "images/gba/gba-pokemon-emerald-s1.png",
       "images/gba/gba-pokemon-emerald-s2.png",
+      "images/gba/gba-pokemon-emerald-m1.png",
+      "images/gba/gba-pokemon-emerald-m2.jpg",
+      "images/gba/gba-pokemon-emerald-m3.jpg",
+      "images/gba/gba-pokemon-emerald-m4.jpg",
       "images/gba/gba-pokemon-emerald-title.png"
     ],
     "cover": "images/gba/gba-pokemon-emerald-box.jpg",
@@ -2157,6 +2277,9 @@
       "images/gba/gba-riviera-the-promised-land-s1.png",
       "images/gba/gba-riviera-the-promised-land-s2.png",
       "images/gba/gba-riviera-the-promised-land-1.png",
+      "images/gba/gba-riviera-the-promised-land-m1.jpg",
+      "images/gba/gba-riviera-the-promised-land-m2.jpg",
+      "images/gba/gba-riviera-the-promised-land-m3.jpg",
       "images/gba/gba-riviera-the-promised-land-title.png"
     ],
     "cover": "images/gba/gba-riviera-the-promised-land-box.jpg",
@@ -2209,6 +2332,10 @@
     "screenshots": [
       "images/gba/gba-mega-man-zero-4-s1.png",
       "images/gba/gba-mega-man-zero-4-s2.png",
+      "images/gba/gba-mega-man-zero-4-m1.jpg",
+      "images/gba/gba-mega-man-zero-4-m2.jpg",
+      "images/gba/gba-mega-man-zero-4-m3.png",
+      "images/gba/gba-mega-man-zero-4-m4.png",
       "images/gba/gba-mega-man-zero-4-title.png"
     ],
     "cover": "images/gba/gba-mega-man-zero-4-box.jpg",
@@ -2310,6 +2437,8 @@
       "images/gba/gba-breath-of-fire-s2.png",
       "images/gba/gba-breath-of-fire-s3.png",
       "images/gba/gba-breath-of-fire-s4.png",
+      "images/gba/gba-breath-of-fire-m1.png",
+      "images/gba/gba-breath-of-fire-m2.png",
       "images/gba/gba-breath-of-fire-title.png"
     ],
     "cover": "images/gba/gba-breath-of-fire-box.jpg",
@@ -2362,6 +2491,10 @@
     "screenshots": [
       "images/gba/gba-lunar-legend-s1.png",
       "images/gba/gba-lunar-legend-s2.png",
+      "images/gba/gba-lunar-legend-m1.png",
+      "images/gba/gba-lunar-legend-m2.jpg",
+      "images/gba/gba-lunar-legend-m3.jpg",
+      "images/gba/gba-lunar-legend-m4.jpg",
       "images/gba/gba-lunar-legend-title.png"
     ],
     "cover": "images/gba/gba-lunar-legend-box.jpg",
@@ -2415,6 +2548,8 @@
       "images/gba/gba-pokemon-mystery-dungeon-red-s1.png",
       "images/gba/gba-pokemon-mystery-dungeon-red-s2.png",
       "images/gba/gba-pokemon-mystery-dungeon-red-s3.png",
+      "images/gba/gba-pokemon-mystery-dungeon-red-m1.jpg",
+      "images/gba/gba-pokemon-mystery-dungeon-red-m2.jpg",
       "images/gba/gba-pokemon-mystery-dungeon-red-title.png"
     ],
     "cover": "images/gba/gba-pokemon-mystery-dungeon-red-box.jpg",
@@ -2468,6 +2603,9 @@
       "images/gba/gba-tales-of-phantasia-s1.png",
       "images/gba/gba-tales-of-phantasia-s2.png",
       "images/gba/gba-tales-of-phantasia-s3.png",
+      "images/gba/gba-tales-of-phantasia-m1.png",
+      "images/gba/gba-tales-of-phantasia-m2.png",
+      "images/gba/gba-tales-of-phantasia-m3.png",
       "images/gba/gba-tales-of-phantasia-title.png"
     ],
     "cover": "images/gba/gba-tales-of-phantasia-box.jpg",
@@ -2521,6 +2659,9 @@
       "images/gba/gba-shining-soul-ii-s1.png",
       "images/gba/gba-shining-soul-ii-s2.png",
       "images/gba/gba-shining-soul-ii-s3.png",
+      "images/gba/gba-shining-soul-ii-m1.png",
+      "images/gba/gba-shining-soul-ii-m2.png",
+      "images/gba/gba-shining-soul-ii-m3.png",
       "images/gba/gba-shining-soul-ii-title.png"
     ],
     "cover": "images/gba/gba-shining-soul-ii-box.jpg",
@@ -2573,6 +2714,10 @@
     "screenshots": [
       "images/gba/gba-summon-night-swordcraft-story-s1.png",
       "images/gba/gba-summon-night-swordcraft-story-s2.png",
+      "images/gba/gba-summon-night-swordcraft-story-m1.png",
+      "images/gba/gba-summon-night-swordcraft-story-m2.jpg",
+      "images/gba/gba-summon-night-swordcraft-story-m3.jpg",
+      "images/gba/gba-summon-night-swordcraft-story-m4.jpg",
       "images/gba/gba-summon-night-swordcraft-story-title.png"
     ],
     "cover": "images/gba/gba-summon-night-swordcraft-story-box.jpg",
@@ -2625,6 +2770,10 @@
     "screenshots": [
       "images/gba/gba-sword-of-mana-s1.png",
       "images/gba/gba-sword-of-mana-x1.jpg",
+      "images/gba/gba-sword-of-mana-m1.png",
+      "images/gba/gba-sword-of-mana-m2.png",
+      "images/gba/gba-sword-of-mana-m3.png",
+      "images/gba/gba-sword-of-mana-m4.png",
       "images/gba/gba-sword-of-mana-title.png"
     ],
     "cover": "images/gba/gba-sword-of-mana-box.jpg",
@@ -2672,6 +2821,10 @@
     "screenshots": [
       "images/gba/gba-final-fantasy-i-ii-dawn-of-souls-s1.png",
       "images/gba/gba-final-fantasy-i-ii-dawn-of-souls-s2.png",
+      "images/gba/gba-final-fantasy-i-ii-dawn-of-souls-m1.jpg",
+      "images/gba/gba-final-fantasy-i-ii-dawn-of-souls-m2.jpg",
+      "images/gba/gba-final-fantasy-i-ii-dawn-of-souls-m3.jpg",
+      "images/gba/gba-final-fantasy-i-ii-dawn-of-souls-m4.jpg",
       "images/gba/gba-final-fantasy-i-ii-dawn-of-souls-title.png"
     ],
     "cover": "images/gba/gba-final-fantasy-i-ii-dawn-of-souls-box.jpg",
@@ -2724,6 +2877,10 @@
     "screenshots": [
       "images/gba/gba-lufia-ruins-of-lore-s1.png",
       "images/gba/gba-lufia-ruins-of-lore-s2.png",
+      "images/gba/gba-lufia-ruins-of-lore-m1.png",
+      "images/gba/gba-lufia-ruins-of-lore-m2.jpg",
+      "images/gba/gba-lufia-ruins-of-lore-m3.jpg",
+      "images/gba/gba-lufia-ruins-of-lore-m4.jpg",
       "images/gba/gba-lufia-ruins-of-lore-title.png"
     ],
     "cover": "images/gba/gba-lufia-ruins-of-lore-box.jpg",

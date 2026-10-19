@@ -45,6 +45,9 @@
       "images/nds/nds-chrono-trigger-s1.png",
       "images/nds/nds-chrono-trigger-x1.png",
       "images/nds/nds-chrono-trigger-x2.png",
+      "images/nds/nds-chrono-trigger-m1.jpg",
+      "images/nds/nds-chrono-trigger-m2.jpg",
+      "images/nds/nds-chrono-trigger-m3.jpg",
       "images/nds/nds-chrono-trigger-title.png"
     ],
     "cover": "images/nds/nds-chrono-trigger-box.jpg",
@@ -96,6 +99,10 @@
     "screenshots": [
       "images/nds/nds-dragon-quest-v-s1.png",
       "images/nds/nds-dragon-quest-v-s2.png",
+      "images/nds/nds-dragon-quest-v-m1.jpg",
+      "images/nds/nds-dragon-quest-v-m2.jpg",
+      "images/nds/nds-dragon-quest-v-m3.jpg",
+      "images/nds/nds-dragon-quest-v-m4.jpg",
       "images/nds/nds-dragon-quest-v-title.png"
     ],
     "cover": "images/nds/nds-dragon-quest-v-box.jpg",
@@ -146,6 +153,11 @@
     "is2D": true,
     "screenshots": [
       "images/nds/nds-castlevania-dawn-of-sorrow-s1.png",
+      "images/nds/nds-castlevania-dawn-of-sorrow-m1.jpg",
+      "images/nds/nds-castlevania-dawn-of-sorrow-m2.jpg",
+      "images/nds/nds-castlevania-dawn-of-sorrow-m3.jpg",
+      "images/nds/nds-castlevania-dawn-of-sorrow-m4.jpg",
+      "images/nds/nds-castlevania-dawn-of-sorrow-m5.jpg",
       "images/nds/nds-castlevania-dawn-of-sorrow-title.png"
     ],
     "cover": "images/nds/nds-castlevania-dawn-of-sorrow-box.jpg",
@@ -197,6 +209,7 @@
     "screenshots": [
       "images/nds/nds-the-world-ends-with-you-s1.png",
       "images/nds/nds-the-world-ends-with-you-x1.png",
+      "images/nds/nds-the-world-ends-with-you-m1.jpg",
       "images/nds/nds-the-world-ends-with-you-title.png"
     ],
     "cover": "images/nds/nds-the-world-ends-with-you-box.jpg",
@@ -249,6 +262,9 @@
       "images/nds/nds-mario-luigi-bowsers-inside-story-s1.png",
       "images/nds/nds-mario-luigi-bowsers-inside-story-x1.png",
       "images/nds/nds-mario-luigi-bowsers-inside-story-x2.png",
+      "images/nds/nds-mario-luigi-bowsers-inside-story-m1.jpg",
+      "images/nds/nds-mario-luigi-bowsers-inside-story-m2.jpg",
+      "images/nds/nds-mario-luigi-bowsers-inside-story-m3.jpg",
       "images/nds/nds-mario-luigi-bowsers-inside-story-title.png"
     ],
     "cover": "images/nds/nds-mario-luigi-bowsers-inside-story-box.jpg",
@@ -300,6 +316,10 @@
     "screenshots": [
       "images/nds/nds-pokemon-heartgold-soulsilver-s1.png",
       "images/nds/nds-pokemon-heartgold-soulsilver-s2.png",
+      "images/nds/nds-pokemon-heartgold-soulsilver-m1.jpg",
+      "images/nds/nds-pokemon-heartgold-soulsilver-m2.jpg",
+      "images/nds/nds-pokemon-heartgold-soulsilver-m3.jpg",
+      "images/nds/nds-pokemon-heartgold-soulsilver-m4.jpg",
       "images/nds/nds-pokemon-heartgold-soulsilver-title.png"
     ],
     "cover": "images/nds/nds-pokemon-heartgold-soulsilver-box.jpg",
@@ -352,6 +372,7 @@
       "images/nds/nds-castlevania-order-of-ecclesia-s1.png",
       "images/nds/nds-castlevania-order-of-ecclesia-x1.png",
       "images/nds/nds-castlevania-order-of-ecclesia-x2.png",
+      "images/nds/nds-castlevania-order-of-ecclesia-m1.jpg",
       "images/nds/nds-castlevania-order-of-ecclesia-title.png"
     ],
     "cover": "images/nds/nds-castlevania-order-of-ecclesia-box.jpg",
@@ -455,6 +476,9 @@
       "images/nds/nds-radiant-historia-s1.png",
       "images/nds/nds-radiant-historia-x1.jpg",
       "images/nds/nds-radiant-historia-x2.jpg",
+      "images/nds/nds-radiant-historia-m1.jpg",
+      "images/nds/nds-radiant-historia-m2.jpg",
+      "images/nds/nds-radiant-historia-m3.jpg",
       "images/nds/nds-radiant-historia-title.png"
     ],
     "cover": "images/nds/nds-radiant-historia-box.jpg",
@@ -505,6 +529,11 @@
     "is2D": true,
     "screenshots": [
       "images/nds/nds-castlevania-portrait-of-ruin-s1.png",
+      "images/nds/nds-castlevania-portrait-of-ruin-m1.jpg",
+      "images/nds/nds-castlevania-portrait-of-ruin-m2.png",
+      "images/nds/nds-castlevania-portrait-of-ruin-m3.png",
+      "images/nds/nds-castlevania-portrait-of-ruin-m4.png",
+      "images/nds/nds-castlevania-portrait-of-ruin-m5.png",
       "images/nds/nds-castlevania-portrait-of-ruin-title.png"
     ],
     "cover": "images/nds/nds-castlevania-portrait-of-ruin-box.jpg",
@@ -597,6 +626,10 @@
     "screenshots": [
       "images/nds/nds-pokemon-platinum-s1.png",
       "images/nds/nds-pokemon-platinum-s2.png",
+      "images/nds/nds-pokemon-platinum-m1.jpg",
+      "images/nds/nds-pokemon-platinum-m2.jpg",
+      "images/nds/nds-pokemon-platinum-m3.png",
+      "images/nds/nds-pokemon-platinum-m4.png",
       "images/nds/nds-pokemon-platinum-title.png"
     ],
     "cover": "images/nds/nds-pokemon-platinum-box.jpg",
@@ -649,6 +682,9 @@
       "images/nds/nds-pokemon-black-white-s1.png",
       "images/nds/nds-pokemon-black-white-x1.jpg",
       "images/nds/nds-pokemon-black-white-x2.jpg",
+      "images/nds/nds-pokemon-black-white-m1.jpg",
+      "images/nds/nds-pokemon-black-white-m2.png",
+      "images/nds/nds-pokemon-black-white-m3.jpg",
       "images/nds/nds-pokemon-black-white-title.png"
     ],
     "cover": "images/nds/nds-pokemon-black-white-box.jpg",
@@ -699,6 +735,11 @@
     "is2D": false,
     "screenshots": [
       "images/nds/nds-final-fantasy-iv-s1.png",
+      "images/nds/nds-final-fantasy-iv-m1.png",
+      "images/nds/nds-final-fantasy-iv-m2.png",
+      "images/nds/nds-final-fantasy-iv-m3.png",
+      "images/nds/nds-final-fantasy-iv-m4.png",
+      "images/nds/nds-final-fantasy-iv-m5.png",
       "images/nds/nds-final-fantasy-iv-title.png"
     ],
     "cover": "images/nds/nds-final-fantasy-iv-box.jpg",
@@ -750,6 +791,7 @@
     "screenshots": [
       "images/nds/nds-dragon-quest-iv-s1.png",
       "images/nds/nds-dragon-quest-iv-s2.png",
+      "images/nds/nds-dragon-quest-iv-m1.png",
       "images/nds/nds-dragon-quest-iv-title.png"
     ],
     "cover": "images/nds/nds-dragon-quest-iv-box.jpg",
@@ -853,6 +895,7 @@
     "screenshots": [
       "images/nds/nds-zelda-phantom-hourglass-s1.png",
       "images/nds/nds-zelda-phantom-hourglass-s2.png",
+      "images/nds/nds-zelda-phantom-hourglass-m1.jpg",
       "images/nds/nds-zelda-phantom-hourglass-title.png"
     ],
     "cover": "images/nds/nds-zelda-phantom-hourglass-box.jpg",
@@ -903,6 +946,9 @@
     "is2D": true,
     "screenshots": [
       "images/nds/nds-kirby-super-star-ultra-s1.png",
+      "images/nds/nds-kirby-super-star-ultra-m1.png",
+      "images/nds/nds-kirby-super-star-ultra-m2.png",
+      "images/nds/nds-kirby-super-star-ultra-m3.jpg",
       "images/nds/nds-kirby-super-star-ultra-title.png"
     ],
     "cover": "images/nds/nds-kirby-super-star-ultra-box.jpg",
@@ -955,6 +1001,9 @@
       "images/nds/nds-mario-luigi-partners-in-time-s1.png",
       "images/nds/nds-mario-luigi-partners-in-time-x1.jpg",
       "images/nds/nds-mario-luigi-partners-in-time-x2.jpg",
+      "images/nds/nds-mario-luigi-partners-in-time-m1.jpg",
+      "images/nds/nds-mario-luigi-partners-in-time-m2.jpg",
+      "images/nds/nds-mario-luigi-partners-in-time-m3.jpg",
       "images/nds/nds-mario-luigi-partners-in-time-title.png"
     ],
     "cover": "images/nds/nds-mario-luigi-partners-in-time-box.jpg",
@@ -1006,6 +1055,10 @@
     "screenshots": [
       "images/nds/nds-new-super-mario-bros-s1.png",
       "images/nds/nds-new-super-mario-bros-s2.png",
+      "images/nds/nds-new-super-mario-bros-m1.jpg",
+      "images/nds/nds-new-super-mario-bros-m2.jpg",
+      "images/nds/nds-new-super-mario-bros-m3.jpg",
+      "images/nds/nds-new-super-mario-bros-m4.jpg",
       "images/nds/nds-new-super-mario-bros-title.png"
     ],
     "cover": "images/nds/nds-new-super-mario-bros-box.jpg",
@@ -1056,6 +1109,8 @@
     "is2D": true,
     "screenshots": [
       "images/nds/nds-phoenix-wright-ace-attorney-s1.png",
+      "images/nds/nds-phoenix-wright-ace-attorney-m1.png",
+      "images/nds/nds-phoenix-wright-ace-attorney-m2.jpg",
       "images/nds/nds-phoenix-wright-ace-attorney-title.png"
     ],
     "cover": "images/nds/nds-phoenix-wright-ace-attorney-box.jpg",
@@ -1106,6 +1161,11 @@
     "is2D": true,
     "screenshots": [
       "images/nds/nds-professor-layton-curious-village-s1.png",
+      "images/nds/nds-professor-layton-curious-village-m1.png",
+      "images/nds/nds-professor-layton-curious-village-m2.jpg",
+      "images/nds/nds-professor-layton-curious-village-m3.jpg",
+      "images/nds/nds-professor-layton-curious-village-m4.jpg",
+      "images/nds/nds-professor-layton-curious-village-m5.jpg",
       "images/nds/nds-professor-layton-curious-village-title.png"
     ],
     "cover": "images/nds/nds-professor-layton-curious-village-box.jpg",
@@ -1158,6 +1218,9 @@
       "images/nds/nds-devil-survivor-s1.png",
       "images/nds/nds-devil-survivor-x1.jpg",
       "images/nds/nds-devil-survivor-x2.jpg",
+      "images/nds/nds-devil-survivor-m1.jpg",
+      "images/nds/nds-devil-survivor-m2.jpg",
+      "images/nds/nds-devil-survivor-m3.jpg",
       "images/nds/nds-devil-survivor-title.png"
     ],
     "cover": "images/nds/nds-devil-survivor-box.jpg",
@@ -1204,6 +1267,7 @@
     "screenshots": [
       "images/nds/nds-fire-emblem-shin-monshou-no-nazo-s1.png",
       "images/nds/nds-fire-emblem-shin-monshou-no-nazo-s2.png",
+      "images/nds/nds-fire-emblem-shin-monshou-no-nazo-m1.jpg",
       "images/nds/nds-fire-emblem-shin-monshou-no-nazo-title.png"
     ],
     "cover": "images/nds/nds-fire-emblem-shin-monshou-no-nazo-box.jpg",
@@ -1245,6 +1309,10 @@
     "screenshots": [
       "images/nds/nds-dragon-quest-heroes-rocket-slime-s1.png",
       "images/nds/nds-dragon-quest-heroes-rocket-slime-s2.png",
+      "images/nds/nds-dragon-quest-heroes-rocket-slime-m1.png",
+      "images/nds/nds-dragon-quest-heroes-rocket-slime-m2.png",
+      "images/nds/nds-dragon-quest-heroes-rocket-slime-m3.png",
+      "images/nds/nds-dragon-quest-heroes-rocket-slime-m4.png",
       "images/nds/nds-dragon-quest-heroes-rocket-slime-title.png"
     ],
     "cover": "images/nds/nds-dragon-quest-heroes-rocket-slime-box.jpg",
@@ -1295,6 +1363,11 @@
     "is2D": true,
     "screenshots": [
       "images/nds/nds-kirby-canvas-curse-s1.png",
+      "images/nds/nds-kirby-canvas-curse-m1.jpg",
+      "images/nds/nds-kirby-canvas-curse-m2.jpg",
+      "images/nds/nds-kirby-canvas-curse-m3.jpg",
+      "images/nds/nds-kirby-canvas-curse-m4.jpg",
+      "images/nds/nds-kirby-canvas-curse-m5.jpg",
       "images/nds/nds-kirby-canvas-curse-title.png"
     ],
     "cover": "images/nds/nds-kirby-canvas-curse-box.jpg",
@@ -1345,6 +1418,8 @@
     "is2D": true,
     "screenshots": [
       "images/nds/nds-contra-4-s1.png",
+      "images/nds/nds-contra-4-m1.png",
+      "images/nds/nds-contra-4-m2.jpg",
       "images/nds/nds-contra-4-title.png"
     ],
     "cover": "images/nds/nds-contra-4-box.jpg",
@@ -1397,6 +1472,9 @@
       "images/nds/nds-pokemon-mystery-dungeon-explorers-of-sky-s1.png",
       "images/nds/nds-pokemon-mystery-dungeon-explorers-of-sky-x1.png",
       "images/nds/nds-pokemon-mystery-dungeon-explorers-of-sky-x2.jpg",
+      "images/nds/nds-pokemon-mystery-dungeon-explorers-of-sky-m1.jpg",
+      "images/nds/nds-pokemon-mystery-dungeon-explorers-of-sky-m2.jpg",
+      "images/nds/nds-pokemon-mystery-dungeon-explorers-of-sky-m3.jpg",
       "images/nds/nds-pokemon-mystery-dungeon-explorers-of-sky-title.png"
     ],
     "cover": "images/nds/nds-pokemon-mystery-dungeon-explorers-of-sky-box.jpg",
@@ -1447,6 +1525,11 @@
     "is2D": true,
     "screenshots": [
       "images/nds/nds-mega-man-zx-s1.png",
+      "images/nds/nds-mega-man-zx-m1.jpg",
+      "images/nds/nds-mega-man-zx-m2.jpg",
+      "images/nds/nds-mega-man-zx-m3.jpg",
+      "images/nds/nds-mega-man-zx-m4.jpg",
+      "images/nds/nds-mega-man-zx-m5.jpg",
       "images/nds/nds-mega-man-zx-title.png"
     ],
     "cover": "images/nds/nds-mega-man-zx-box.jpg",
@@ -1548,6 +1631,11 @@
     "is2D": true,
     "screenshots": [
       "images/nds/nds-mega-man-zx-advent-s1.png",
+      "images/nds/nds-mega-man-zx-advent-m1.jpg",
+      "images/nds/nds-mega-man-zx-advent-m2.png",
+      "images/nds/nds-mega-man-zx-advent-m3.png",
+      "images/nds/nds-mega-man-zx-advent-m4.png",
+      "images/nds/nds-mega-man-zx-advent-m5.png",
       "images/nds/nds-mega-man-zx-advent-title.png"
     ],
     "cover": "images/nds/nds-mega-man-zx-advent-box.jpg",
@@ -1649,7 +1737,10 @@
     "is2D": true,
     "screenshots": [
       "images/nds/nds-rune-factory-3-s1.png",
-      "images/nds/nds-rune-factory-3-s2.png"
+      "images/nds/nds-rune-factory-3-s2.png",
+      "images/nds/nds-rune-factory-3-m1.jpg",
+      "images/nds/nds-rune-factory-3-m2.jpg",
+      "images/nds/nds-rune-factory-3-m3.jpg"
     ],
     "cover": "images/nds/nds-rune-factory-3-box.jpg",
     "styleMatch": 3,
@@ -1751,6 +1842,9 @@
     "is2D": false,
     "screenshots": [
       "images/nds/nds-final-fantasy-iii-s1.png",
+      "images/nds/nds-final-fantasy-iii-m1.jpg",
+      "images/nds/nds-final-fantasy-iii-m2.jpg",
+      "images/nds/nds-final-fantasy-iii-m3.jpg",
       "images/nds/nds-final-fantasy-iii-title.png"
     ],
     "cover": "images/nds/nds-final-fantasy-iii-box.jpg",
@@ -1801,6 +1895,11 @@
     "is2D": false,
     "screenshots": [
       "images/nds/nds-etrian-odyssey-s1.png",
+      "images/nds/nds-etrian-odyssey-m1.png",
+      "images/nds/nds-etrian-odyssey-m2.jpg",
+      "images/nds/nds-etrian-odyssey-m3.jpg",
+      "images/nds/nds-etrian-odyssey-m4.jpg",
+      "images/nds/nds-etrian-odyssey-m5.jpg",
       "images/nds/nds-etrian-odyssey-title.png"
     ],
     "cover": "images/nds/nds-etrian-odyssey-box.jpg",
@@ -1852,6 +1951,7 @@
     "screenshots": [
       "images/nds/nds-rune-factory-s1.png",
       "images/nds/nds-rune-factory-s2.png",
+      "images/nds/nds-rune-factory-m1.jpg",
       "images/nds/nds-rune-factory-title.png"
     ],
     "cover": "images/nds/nds-rune-factory-box.jpg",
@@ -2005,6 +2105,10 @@
     "screenshots": [
       "images/nds/nds-golden-sun-dark-dawn-s1.png",
       "images/nds/nds-golden-sun-dark-dawn-s2.png",
+      "images/nds/nds-golden-sun-dark-dawn-m1.png",
+      "images/nds/nds-golden-sun-dark-dawn-m2.jpg",
+      "images/nds/nds-golden-sun-dark-dawn-m3.jpg",
+      "images/nds/nds-golden-sun-dark-dawn-m4.jpg",
       "images/nds/nds-golden-sun-dark-dawn-title.png"
     ],
     "cover": "images/nds/nds-golden-sun-dark-dawn-box.jpg",
@@ -2158,7 +2262,8 @@
       "images/nds/nds-summon-night-twin-age-s1.png",
       "images/nds/nds-summon-night-twin-age-x1.jpg",
       "images/nds/nds-summon-night-twin-age-x2.jpg",
-      "images/nds/nds-summon-night-twin-age-x3.jpg"
+      "images/nds/nds-summon-night-twin-age-x3.jpg",
+      "images/nds/nds-summon-night-twin-age-m1.jpg"
     ],
     "cover": "images/nds/nds-summon-night-twin-age-box.jpg",
     "styleMatch": 3,

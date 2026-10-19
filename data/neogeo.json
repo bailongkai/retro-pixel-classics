@@ -45,6 +45,10 @@
     "screenshots": [
       "images/neogeo/neogeo-metal-slug-s1.png",
       "images/neogeo/neogeo-metal-slug-x1.png",
+      "images/neogeo/neogeo-metal-slug-m1.png",
+      "images/neogeo/neogeo-metal-slug-m2.png",
+      "images/neogeo/neogeo-metal-slug-m3.png",
+      "images/neogeo/neogeo-metal-slug-m4.jpg",
       "images/neogeo/neogeo-metal-slug-title.png"
     ],
     "cover": "images/neogeo/neogeo-metal-slug-box.jpg",
@@ -97,6 +101,8 @@
     "screenshots": [
       "images/neogeo/neogeo-metal-slug-x-s1.png",
       "images/neogeo/neogeo-metal-slug-x-s2.png",
+      "images/neogeo/neogeo-metal-slug-x-m1.png",
+      "images/neogeo/neogeo-metal-slug-x-m2.jpg",
       "images/neogeo/neogeo-metal-slug-x-title.png"
     ],
     "cover": "images/neogeo/neogeo-metal-slug-x-box.jpg",
@@ -150,6 +156,8 @@
       "images/neogeo/neogeo-metal-slug-3-s1.png",
       "images/neogeo/neogeo-metal-slug-3-s2.png",
       "images/neogeo/neogeo-metal-slug-3-s3.png",
+      "images/neogeo/neogeo-metal-slug-3-m1.png",
+      "images/neogeo/neogeo-metal-slug-3-m2.jpg",
       "images/neogeo/neogeo-metal-slug-3-title.png"
     ],
     "cover": "images/neogeo/neogeo-metal-slug-3-box.jpg",
@@ -203,6 +211,7 @@
       "images/neogeo/neogeo-kof-98-s1.png",
       "images/neogeo/neogeo-kof-98-s2.png",
       "images/neogeo/neogeo-kof-98-s3.png",
+      "images/neogeo/neogeo-kof-98-m1.jpg",
       "images/neogeo/neogeo-kof-98-title.png"
     ],
     "cover": "images/neogeo/neogeo-kof-98-box.jpg",
@@ -251,6 +260,9 @@
       "images/neogeo/neogeo-garou-motw-s1.png",
       "images/neogeo/neogeo-garou-motw-s2.png",
       "images/neogeo/neogeo-garou-motw-s3.png",
+      "images/neogeo/neogeo-garou-motw-m1.jpg",
+      "images/neogeo/neogeo-garou-motw-m2.jpg",
+      "images/neogeo/neogeo-garou-motw-m3.png",
       "images/neogeo/neogeo-garou-motw-title.png"
     ],
     "cover": "images/neogeo/neogeo-garou-motw-box.jpg",
@@ -302,6 +314,11 @@
     "is2D": true,
     "screenshots": [
       "images/neogeo/neogeo-samurai-shodown-2-s1.png",
+      "images/neogeo/neogeo-samurai-shodown-2-m1.png",
+      "images/neogeo/neogeo-samurai-shodown-2-m2.jpg",
+      "images/neogeo/neogeo-samurai-shodown-2-m3.jpg",
+      "images/neogeo/neogeo-samurai-shodown-2-m4.jpg",
+      "images/neogeo/neogeo-samurai-shodown-2-m5.jpg",
       "images/neogeo/neogeo-samurai-shodown-2-title.png"
     ],
     "cover": "images/neogeo/neogeo-samurai-shodown-2-box.jpg",
@@ -354,6 +371,9 @@
     "screenshots": [
       "images/neogeo/neogeo-last-blade-2-s1.png",
       "images/neogeo/neogeo-last-blade-2-s2.png",
+      "images/neogeo/neogeo-last-blade-2-m1.png",
+      "images/neogeo/neogeo-last-blade-2-m2.png",
+      "images/neogeo/neogeo-last-blade-2-m3.jpg",
       "images/neogeo/neogeo-last-blade-2-title.png"
     ],
     "cover": "images/neogeo/neogeo-last-blade-2-box.jpg",
@@ -405,6 +425,10 @@
     "is2D": true,
     "screenshots": [
       "images/neogeo/neogeo-blazing-star-s1.png",
+      "images/neogeo/neogeo-blazing-star-m1.jpg",
+      "images/neogeo/neogeo-blazing-star-m2.jpg",
+      "images/neogeo/neogeo-blazing-star-m3.jpg",
+      "images/neogeo/neogeo-blazing-star-m4.jpg",
       "images/neogeo/neogeo-blazing-star-title.png"
     ],
     "cover": "images/neogeo/neogeo-blazing-star-box.jpg",
@@ -458,6 +482,7 @@
       "images/neogeo/neogeo-last-blade-s1.png",
       "images/neogeo/neogeo-last-blade-s2.png",
       "images/neogeo/neogeo-last-blade-s3.png",
+      "images/neogeo/neogeo-last-blade-m1.png",
       "images/neogeo/neogeo-last-blade-title.png"
     ],
     "cover": "images/neogeo/neogeo-last-blade-box.jpg",
@@ -506,6 +531,7 @@
       "images/neogeo/neogeo-kof-97-s1.png",
       "images/neogeo/neogeo-kof-97-s2.png",
       "images/neogeo/neogeo-kof-97-s3.png",
+      "images/neogeo/neogeo-kof-97-m1.jpg",
       "images/neogeo/neogeo-kof-97-title.png"
     ],
     "cover": "images/neogeo/neogeo-kof-97-box.jpg",
@@ -554,6 +580,9 @@
       "images/neogeo/neogeo-samurai-shodown-s1.png",
       "images/neogeo/neogeo-samurai-shodown-s2.png",
       "images/neogeo/neogeo-samurai-shodown-s3.png",
+      "images/neogeo/neogeo-samurai-shodown-m1.png",
+      "images/neogeo/neogeo-samurai-shodown-m2.png",
+      "images/neogeo/neogeo-samurai-shodown-m3.jpg",
       "images/neogeo/neogeo-samurai-shodown-title.png"
     ],
     "cover": "images/neogeo/neogeo-samurai-shodown-box.jpg",
@@ -607,6 +636,7 @@
       "images/neogeo/neogeo-fatal-fury-special-s1.png",
       "images/neogeo/neogeo-fatal-fury-special-s2.png",
       "images/neogeo/neogeo-fatal-fury-special-s3.png",
+      "images/neogeo/neogeo-fatal-fury-special-m1.png",
       "images/neogeo/neogeo-fatal-fury-special-title.png"
     ],
     "cover": "images/neogeo/neogeo-fatal-fury-special-box.jpg",
@@ -654,6 +684,10 @@
     "screenshots": [
       "images/neogeo/neogeo-twinkle-star-sprites-s1.png",
       "images/neogeo/neogeo-twinkle-star-sprites-x1.png",
+      "images/neogeo/neogeo-twinkle-star-sprites-m1.png",
+      "images/neogeo/neogeo-twinkle-star-sprites-m2.jpg",
+      "images/neogeo/neogeo-twinkle-star-sprites-m3.jpg",
+      "images/neogeo/neogeo-twinkle-star-sprites-m4.jpg",
       "images/neogeo/neogeo-twinkle-star-sprites-title.png"
     ],
     "cover": "images/neogeo/neogeo-twinkle-star-sprites-box.jpg",
@@ -700,6 +734,11 @@
     "is2D": true,
     "screenshots": [
       "images/neogeo/neogeo-aero-fighters-2-s1.png",
+      "images/neogeo/neogeo-aero-fighters-2-m1.png",
+      "images/neogeo/neogeo-aero-fighters-2-m2.png",
+      "images/neogeo/neogeo-aero-fighters-2-m3.png",
+      "images/neogeo/neogeo-aero-fighters-2-m4.png",
+      "images/neogeo/neogeo-aero-fighters-2-m5.jpg",
       "images/neogeo/neogeo-aero-fighters-2-title.png"
     ],
     "cover": "images/neogeo/neogeo-aero-fighters-2-box.jpg",
@@ -742,6 +781,8 @@
     "screenshots": [
       "images/neogeo/neogeo-shock-troopers-s1.png",
       "images/neogeo/neogeo-shock-troopers-s2.png",
+      "images/neogeo/neogeo-shock-troopers-m1.png",
+      "images/neogeo/neogeo-shock-troopers-m2.jpg",
       "images/neogeo/neogeo-shock-troopers-title.png"
     ],
     "cover": "images/neogeo/neogeo-shock-troopers-box.jpg",
@@ -794,6 +835,7 @@
     "screenshots": [
       "images/neogeo/neogeo-windjammers-s1.png",
       "images/neogeo/neogeo-windjammers-x1.png",
+      "images/neogeo/neogeo-windjammers-m1.png",
       "images/neogeo/neogeo-windjammers-title.png"
     ],
     "cover": "images/neogeo/neogeo-windjammers-box.jpg",
@@ -842,6 +884,7 @@
       "images/neogeo/neogeo-sengoku-3-s1.png",
       "images/neogeo/neogeo-sengoku-3-s2.png",
       "images/neogeo/neogeo-sengoku-3-s3.png",
+      "images/neogeo/neogeo-sengoku-3-m1.png",
       "images/neogeo/neogeo-sengoku-3-title.png"
     ],
     "cover": "images/neogeo/neogeo-sengoku-3-box.jpg",
@@ -889,6 +932,7 @@
     "screenshots": [
       "images/neogeo/neogeo-waku-waku-7-s1.png",
       "images/neogeo/neogeo-waku-waku-7-x1.png",
+      "images/neogeo/neogeo-waku-waku-7-m1.png",
       "images/neogeo/neogeo-waku-waku-7-title.png"
     ],
     "cover": "images/neogeo/neogeo-waku-waku-7-box.jpg",
@@ -931,6 +975,7 @@
     "screenshots": [
       "images/neogeo/neogeo-neo-turf-masters-s1.png",
       "images/neogeo/neogeo-neo-turf-masters-x1.png",
+      "images/neogeo/neogeo-neo-turf-masters-m1.png",
       "images/neogeo/neogeo-neo-turf-masters-title.png"
     ],
     "cover": "images/neogeo/neogeo-neo-turf-masters-box.jpg",
@@ -978,6 +1023,8 @@
     "screenshots": [
       "images/neogeo/neogeo-super-sidekicks-3-s1.png",
       "images/neogeo/neogeo-super-sidekicks-3-x1.png",
+      "images/neogeo/neogeo-super-sidekicks-3-m1.jpg",
+      "images/neogeo/neogeo-super-sidekicks-3-m2.png",
       "images/neogeo/neogeo-super-sidekicks-3-title.png"
     ],
     "cover": "images/neogeo/neogeo-super-sidekicks-3-box.jpg",
@@ -1025,6 +1072,10 @@
     "screenshots": [
       "images/neogeo/neogeo-pulstar-s1.png",
       "images/neogeo/neogeo-pulstar-x1.png",
+      "images/neogeo/neogeo-pulstar-m1.jpg",
+      "images/neogeo/neogeo-pulstar-m2.jpg",
+      "images/neogeo/neogeo-pulstar-m3.jpg",
+      "images/neogeo/neogeo-pulstar-m4.jpg",
       "images/neogeo/neogeo-pulstar-title.png"
     ],
     "cover": "images/neogeo/neogeo-pulstar-box.jpg",
@@ -1072,6 +1123,8 @@
     "screenshots": [
       "images/neogeo/neogeo-magical-drop-3-s1.png",
       "images/neogeo/neogeo-magical-drop-3-x1.png",
+      "images/neogeo/neogeo-magical-drop-3-m1.png",
+      "images/neogeo/neogeo-magical-drop-3-m2.png",
       "images/neogeo/neogeo-magical-drop-3-title.png"
     ],
     "cover": "images/neogeo/neogeo-magical-drop-3-box.jpg",
@@ -1114,6 +1167,7 @@
     "screenshots": [
       "images/neogeo/neogeo-kof-2002-s1.png",
       "images/neogeo/neogeo-kof-2002-s2.png",
+      "images/neogeo/neogeo-kof-2002-m1.jpg",
       "images/neogeo/neogeo-kof-2002-title.png"
     ],
     "cover": "images/neogeo/neogeo-kof-2002-box.jpg",
@@ -1161,6 +1215,9 @@
     "screenshots": [
       "images/neogeo/neogeo-art-of-fighting-2-s1.png",
       "images/neogeo/neogeo-art-of-fighting-2-s2.png",
+      "images/neogeo/neogeo-art-of-fighting-2-m1.png",
+      "images/neogeo/neogeo-art-of-fighting-2-m2.png",
+      "images/neogeo/neogeo-art-of-fighting-2-m3.jpg",
       "images/neogeo/neogeo-art-of-fighting-2-title.png"
     ],
     "cover": "images/neogeo/neogeo-art-of-fighting-2-box.jpg",
@@ -1203,6 +1260,7 @@
     "screenshots": [
       "images/neogeo/neogeo-kizuna-encounter-s1.png",
       "images/neogeo/neogeo-kizuna-encounter-x1.png",
+      "images/neogeo/neogeo-kizuna-encounter-m1.png",
       "images/neogeo/neogeo-kizuna-encounter-title.png"
     ],
     "cover": "images/neogeo/neogeo-kizuna-encounter-box.jpg",
@@ -1255,6 +1313,8 @@
     "screenshots": [
       "images/neogeo/neogeo-top-hunter-s1.png",
       "images/neogeo/neogeo-top-hunter-s2.png",
+      "images/neogeo/neogeo-top-hunter-m1.png",
+      "images/neogeo/neogeo-top-hunter-m2.jpg",
       "images/neogeo/neogeo-top-hunter-title.png"
     ],
     "cover": "images/neogeo/neogeo-top-hunter-box.jpg",
@@ -1302,6 +1362,7 @@
     "screenshots": [
       "images/neogeo/neogeo-ninja-masters-s1.png",
       "images/neogeo/neogeo-ninja-masters-x1.png",
+      "images/neogeo/neogeo-ninja-masters-m1.png",
       "images/neogeo/neogeo-ninja-masters-title.png"
     ],
     "cover": "images/neogeo/neogeo-ninja-masters-box.jpg",
@@ -1348,6 +1409,7 @@
     "is2D": true,
     "screenshots": [
       "images/neogeo/neogeo-puzzle-bobble-s1.png",
+      "images/neogeo/neogeo-puzzle-bobble-m1.png",
       "images/neogeo/neogeo-puzzle-bobble-title.png"
     ],
     "cover": "images/neogeo/neogeo-puzzle-bobble-box.jpg",
@@ -1395,6 +1457,7 @@
     "screenshots": [
       "images/neogeo/neogeo-world-heroes-perfect-s1.png",
       "images/neogeo/neogeo-world-heroes-perfect-x1.png",
+      "images/neogeo/neogeo-world-heroes-perfect-m1.png",
       "images/neogeo/neogeo-world-heroes-perfect-title.png"
     ],
     "cover": "images/neogeo/neogeo-world-heroes-perfect-box.jpg",
@@ -1438,6 +1501,9 @@
       "images/neogeo/neogeo-shinsetsu-samurai-spirits-rpg-x1.png",
       "images/neogeo/neogeo-shinsetsu-samurai-spirits-rpg-x2.png",
       "images/neogeo/neogeo-shinsetsu-samurai-spirits-rpg-s1.png",
+      "images/neogeo/neogeo-shinsetsu-samurai-spirits-rpg-m1.jpg",
+      "images/neogeo/neogeo-shinsetsu-samurai-spirits-rpg-m2.png",
+      "images/neogeo/neogeo-shinsetsu-samurai-spirits-rpg-m3.png",
       "images/neogeo/neogeo-shinsetsu-samurai-spirits-rpg-title.png"
     ],
     "cover": "images/neogeo/neogeo-shinsetsu-samurai-spirits-rpg-box.jpg",
@@ -1486,6 +1552,7 @@
       "images/neogeo/neogeo-burning-fight-s1.png",
       "images/neogeo/neogeo-burning-fight-s2.png",
       "images/neogeo/neogeo-burning-fight-s3.png",
+      "images/neogeo/neogeo-burning-fight-m1.png",
       "images/neogeo/neogeo-burning-fight-title.png"
     ],
     "cover": "images/neogeo/neogeo-burning-fight-box.jpg",
@@ -1527,6 +1594,7 @@
     "is2D": true,
     "screenshots": [
       "images/neogeo/neogeo-matrimelee-s1.png",
+      "images/neogeo/neogeo-matrimelee-m1.jpg",
       "images/neogeo/neogeo-matrimelee-title.png"
     ],
     "cover": "images/neogeo/neogeo-matrimelee-box.jpg",
@@ -1579,6 +1647,10 @@
     "screenshots": [
       "images/neogeo/neogeo-robo-army-s1.png",
       "images/neogeo/neogeo-robo-army-x1.png",
+      "images/neogeo/neogeo-robo-army-m1.jpg",
+      "images/neogeo/neogeo-robo-army-m2.jpg",
+      "images/neogeo/neogeo-robo-army-m3.jpg",
+      "images/neogeo/neogeo-robo-army-m4.jpg",
       "images/neogeo/neogeo-robo-army-title.png"
     ],
     "cover": "images/neogeo/neogeo-robo-army-box.jpg",
@@ -1621,6 +1693,7 @@
     "screenshots": [
       "images/neogeo/neogeo-breakers-revenge-s1.png",
       "images/neogeo/neogeo-breakers-revenge-x1.png",
+      "images/neogeo/neogeo-breakers-revenge-m1.png",
       "images/neogeo/neogeo-breakers-revenge-title.png"
     ],
     "cover": "images/neogeo/neogeo-breakers-revenge-box.jpg",
@@ -1662,6 +1735,9 @@
     "is2D": true,
     "screenshots": [
       "images/neogeo/neogeo-nightmare-in-the-dark-s1.png",
+      "images/neogeo/neogeo-nightmare-in-the-dark-m1.jpg",
+      "images/neogeo/neogeo-nightmare-in-the-dark-m2.jpg",
+      "images/neogeo/neogeo-nightmare-in-the-dark-m3.jpg",
       "images/neogeo/neogeo-nightmare-in-the-dark-title.png"
     ],
     "cover": "images/neogeo/neogeo-nightmare-in-the-dark-box.jpg",
