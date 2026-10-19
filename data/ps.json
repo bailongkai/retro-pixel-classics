@@ -1654,6 +1654,51 @@
     "cover": "images/ps/ps-arc-the-lad-ii-box.webp"
   },
   {
+    "id": "ps-tearring-saga",
+    "title": "TearRing Saga: Yutona Eiyuu Senki",
+    "titleZh": "泪指环传说 尤托纳英雄战记",
+    "titleJa": "ティアリングサーガ ユトナ英雄戦記",
+    "year": 2001,
+    "developer": "Tirnanog",
+    "publisher": "Enterbrain",
+    "genre": "战略角色扮演",
+    "tags": [
+      "像素",
+      "战棋",
+      "加贺昭三"
+    ],
+    "players": "1",
+    "tagline": "火纹之父的另一部史诗，硬派战棋的精神续作",
+    "description": "《火焰之纹章》之父加贺昭三离开任天堂阵营后，在PS上交出的战棋大作！被佐亚帝国夺去祖国的拉泽利亚公子琉南，与私掠海盗团\"海狮\"的头领霍姆兹，两位主角各自率领部队，在大陆上展开解放之战。\n\n玩法熟悉又充满新意：格子地图、兵种相克、角色永久死亡，每一步都需深思熟虑。琉南军负责高难度的主线战役，霍姆兹队则可自由航行，在\"自由地图\"中练级寻宝，再把培养好的战力支援主线——双线并行的设计十分巧妙。广田麻由美的人设精美，海量角色各有动人的支线故事。\n\n本作因与火纹相似而卷入诉讼，反倒让它更具传奇色彩。喜欢火纹的玩家绝对不能错过。",
+    "highlights": [
+      "火纹之父加贺昭三的战棋力作",
+      "琉南军与霍姆兹队的双线并行",
+      "可自由练级的自由地图",
+      "众多角色与丰富的支线剧情"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "金殿堂",
+        "quote": "获得Fami通交叉评测金殿堂认证，战棋爱好者的上乘之作"
+      }
+    ],
+    "editorScore": 8.7,
+    "is2D": true,
+    "screenshots": [
+      "images/ps/ps-tearring-saga-s1.webp",
+      "images/ps/ps-tearring-saga-x1.webp",
+      "images/ps/ps-tearring-saga-x2.webp",
+      "images/ps/ps-tearring-saga-x3.webp",
+      "images/ps/ps-tearring-saga-x4.webp",
+      "images/ps/ps-tearring-saga-m1.webp",
+      "images/ps/ps-tearring-saga-title.webp"
+    ],
+    "cover": "images/ps/ps-tearring-saga-box.webp",
+    "styleMatch": 2,
+    "styleNote": "像素战棋，城镇为菜单不可漫步"
+  },
+  {
     "id": "ps-wild-arms",
     "title": "Wild Arms",
     "titleZh": "狂野历险",
@@ -2681,6 +2726,54 @@
     "cover": "images/ps/ps-saiyuki-journey-west-box.webp",
     "styleMatch": 2,
     "styleNote": "像素战棋，城镇为菜单式"
+  },
+  {
+    "id": "ps-little-ralph",
+    "title": "The Adventure of Little Ralph",
+    "titleZh": "小拉尔夫大冒险",
+    "titleJa": "ちっぽけラルフの大冒険",
+    "year": 1999,
+    "developer": "New Corporation",
+    "publisher": "New Corporation",
+    "genre": "平台跳跃",
+    "tags": [
+      "像素",
+      "横版",
+      "日版独占"
+    ],
+    "players": "1-2",
+    "tagline": "变小了也要救她！PS末期最华丽的像素横版",
+    "description": "恶魔入侵人间，青年拉尔夫挺身而出，却被魔王巴尔格施咒变成了一个小孩子，青梅竹马的蕾蒂西亚也被掳走。所幸传说中的圣剑出现在他面前——小小的拉尔夫，就此踏上营救之旅！\n\n在3D当道的1999年，New Corporation交出了一份惊人的2D答卷：手绘般细腻的像素背景层次丰富，沙漠、冰山要塞、飞行战舰等八大关卡各具风貌，角色动画流畅饱满。更令人惊喜的是，部分BOSS战中拉尔夫会暂时恢复成年体，操作瞬间变成《街头霸王II》式的格斗游戏，搓招必杀一应俱全！\n\n难度偏高、讲究刷分，充满街机时代的硬派精神。通关后还能解锁双人对战模式。这款日版独占的冷门佳作，是像素美术爱好者的必收之作。",
+    "highlights": [
+      "PS末期罕见的高品质手绘像素画面",
+      "八大关卡场景风格多变",
+      "BOSS战变身成年体的格斗模式",
+      "通关解锁双人对战"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "26/40",
+        "quote": "老派的高难度动作游戏，适合怀念街机时代的玩家"
+      },
+      {
+        "source": "Planet PlayStation",
+        "score": "75/100",
+        "quote": "画面与音乐品质出众"
+      }
+    ],
+    "editorScore": 8.3,
+    "is2D": true,
+    "screenshots": [
+      "images/ps/ps-little-ralph-s1.webp",
+      "images/ps/ps-little-ralph-x1.webp",
+      "images/ps/ps-little-ralph-x2.webp",
+      "images/ps/ps-little-ralph-x3.webp",
+      "images/ps/ps-little-ralph-x4.webp"
+    ],
+    "cover": "images/ps/ps-little-ralph-box.webp",
+    "styleMatch": 1,
+    "styleNote": "横版像素动作，无城镇探索"
   },
   {
     "id": "ps-gunners-heaven",

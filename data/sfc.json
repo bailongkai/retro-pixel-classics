@@ -2847,6 +2847,49 @@
     "styleNote": "俯视角像素RPG，沙漠集市城镇探索"
   },
   {
+    "id": "sfc-daikaijuu-monogatari-ii",
+    "title": "Daikaijuu Monogatari II",
+    "titleZh": "大贝兽物语2",
+    "titleJa": "大貝獣物語II",
+    "year": 1996,
+    "developer": "Birthday",
+    "publisher": "Hudson Soft",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "建设城镇",
+      "实时时钟"
+    ],
+    "players": "1",
+    "tagline": "贝兽勇者的幻大陆再冒险",
+    "description": "哈德森“贝兽物语”系列的第三作！舞台是幻大陆“谢尔德拉多”，火之贝的勇者再次出发，讨伐暗黑魔导师“达克”。\n\n本作沿用了前作大受好评的“我的城镇”系统——招募居民、发展属于自己的小镇，还有“盖章集邮”和“助手”召唤等玩法；更引入了《天外魔境ZERO》同款的实时时钟系统PLGS，设定好的事件会按真实时间触发，生日当天还有特别奖励。敌人陷入危机时外观会变化，战斗演出生动有趣，安全地带乐队贝斯手六土开正的配乐也十分动听。\n\n可爱的画风下是扎实厚重的冒险内容，是SFC末期哈德森RPG的集大成之作。",
+    "highlights": [
+      "发展自己的“我的城镇”",
+      "实时时钟PLGS系统",
+      "集邮与召唤兽寻找",
+      "敌人濒死时外观变化"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "27/40",
+        "quote": "编辑肯定其丰富的系统与内容量"
+      }
+    ],
+    "editorScore": 8.4,
+    "is2D": true,
+    "screenshots": [
+      "images/sfc/sfc-daikaijuu-monogatari-ii-s1.png",
+      "images/sfc/sfc-daikaijuu-monogatari-ii-x1.webp",
+      "images/sfc/sfc-daikaijuu-monogatari-ii-x2.webp",
+      "images/sfc/sfc-daikaijuu-monogatari-ii-x3.webp",
+      "images/sfc/sfc-daikaijuu-monogatari-ii-title.webp"
+    ],
+    "cover": "images/sfc/sfc-daikaijuu-monogatari-ii-box.webp",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG，可建设自己的城镇"
+  },
+  {
     "id": "sfc-chaos-seed",
     "title": "Chaos Seed",
     "titleZh": "混沌之种：风水回廊记",
@@ -2888,6 +2931,41 @@
     "cover": "images/sfc/sfc-chaos-seed-box.webp",
     "styleMatch": 2,
     "styleNote": "俯视角像素，但以地城建设为主"
+  },
+  {
+    "id": "sfc-last-bible-iii",
+    "title": "Last Bible III",
+    "titleZh": "最后的圣经3",
+    "titleJa": "ラストバイブルIII",
+    "year": 1995,
+    "developer": "Atlus / Multimedia Intelligence Transfer",
+    "publisher": "Atlus",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "魔兽合成",
+      "女神转生外传"
+    ],
+    "players": "1",
+    "tagline": "女神转生外传的魔兽合成之旅",
+    "description": "“女神转生外传”系列的SFC作品！与正传阴郁的末世东京不同，《最后的圣经》系列走的是明亮的奇幻路线，本作讲述一群孩子挺身对抗强大的“警察国家”的阴谋。\n\n系列招牌的“魔兽系统”在这里全面展开：用实时对话与魔兽交涉，观察它们喜怒哀惧的表情变化，把它们拉进队伍；再到合成师那里将两只魔兽合体，继承各自的魔法。月龄会随时间变化，人类在满月时更强、魔兽在新月时更强，还有收集“骨头”合成骷髅僵尸系魔兽等丰富玩法。主角们通过“盖亚”之力自由培养能力。\n\n俯视角的城镇与原野清爽明快，是喜欢收集养成的RPG玩家值得挖掘的佳作。",
+    "highlights": [
+      "实时对话交涉收服魔兽",
+      "魔兽合成与魔法继承",
+      "月龄影响战斗强弱",
+      "明亮的奇幻版女神转生"
+    ],
+    "reviews": [],
+    "editorScore": 8.3,
+    "is2D": true,
+    "screenshots": [
+      "images/sfc/sfc-last-bible-iii-s1.webp",
+      "images/sfc/sfc-last-bible-iii-x2.jpg",
+      "images/sfc/sfc-last-bible-iii-title.webp"
+    ],
+    "cover": "images/sfc/sfc-last-bible-iii-box.webp",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG，城镇原野自由探索"
   },
   {
     "id": "sfc-ys-v",
@@ -3030,6 +3108,48 @@
     "styleNote": "俯视角像素RPG，城镇与迷宫"
   },
   {
+    "id": "sfc-dark-half",
+    "title": "Dark Half",
+    "titleZh": "暗黑之半",
+    "titleJa": "ダークハーフ",
+    "year": 1996,
+    "developer": "Weston",
+    "publisher": "Enix",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "勇者与魔王",
+      "双主角"
+    ],
+    "players": "1",
+    "tagline": "勇者与魔王，七日后的人类终焉",
+    "description": "一千年前被英雄神封印的魔王复活了！而主人公、青年法鲁柯恰好卷入魔王复活的现场而丧命，却被神秘的声音唤回人间……《暗黑之半》最大的特点是让你轮流操控“勇者”与“魔王”两位主角。\n\n勇者一方要阻止魔王，魔王一方则在三位魔人部下的协助下，追杀当年封印自己的六位圣骑士，在城镇中残忍地掠夺人们的灵魂——善与恶的视角交替推进，剧情黑暗而沉重。独特的“灵魂力”系统贯穿整个游戏：移动、战斗都在消耗它，一旦耗尽便是游戏结束，紧张感十足。斜视角的城镇与原野画面精致而阴郁。\n\n这是艾尼克斯在SFC末期一部风格极为鲜明的异色作品，难度颇高，适合追求独特体验的硬派玩家。",
+    "highlights": [
+      "勇者与魔王双主角交替",
+      "灵魂力系统带来紧张感",
+      "七日倒计时的黑暗剧情",
+      "斜视角精致像素画面"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "25/40",
+        "quote": "编辑认可其独特设定，但指出平衡偏严苛"
+      }
+    ],
+    "editorScore": 8.1,
+    "is2D": true,
+    "screenshots": [
+      "images/sfc/sfc-dark-half-s1.png",
+      "images/sfc/sfc-dark-half-x1.webp",
+      "images/sfc/sfc-dark-half-x2.webp",
+      "images/sfc/sfc-dark-half-title.webp"
+    ],
+    "cover": "images/sfc/sfc-dark-half-box.webp",
+    "styleMatch": 3,
+    "styleNote": "斜视角像素RPG，可漫步城镇"
+  },
+  {
     "id": "sfc-robotrek",
     "title": "Robotrek",
     "titleZh": "机器人大冒险",
@@ -3130,6 +3250,48 @@
     "styleNote": "俯视角像素ARPG，以迷宫为主"
   },
   {
+    "id": "sfc-god-mezame-yo",
+    "title": "G.O.D: Mezame yo to Yobu Koe ga Kikoe",
+    "titleZh": "G.O.D 听见呼唤觉醒的声音",
+    "titleJa": "G.O.D 目覚めよと呼ぶ声が聴こえ",
+    "year": 1996,
+    "developer": "Infinity / Third Stage",
+    "publisher": "Imagineer",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "现代日本",
+      "鸿上尚史"
+    ],
+    "players": "1",
+    "tagline": "剧作家、漫画家与恶魔歌手的RPG",
+    "description": "阵容豪华得惊人：总监制兼编剧是剧作家鸿上尚史，人设出自漫画家江川达也之手，音乐监修则由摇滚乐团“圣饥魔II”的恶魔小暮担任！标题中的“G.O.D”意为“Growth or Devolution”（成长或退化）。\n\n与常见的奇幻RPG不同，本作舞台设定在日本，俯视角的街道、学校与民居充满现代生活气息。系统本身较为传统，但剧情却在阴郁的“致郁”展开与无厘头的搞笑、恶搞之间来回摇摆，风格独一无二。\n\n本作后来以《G・O・D pure》之名移植PS。想见识SFC末期的一部异色“作家系”RPG，它不容错过。",
+    "highlights": [
+      "鸿上尚史编剧、江川达也人设",
+      "恶魔小暮监修音乐",
+      "以日本为舞台的现代RPG",
+      "致郁与搞笑交织的剧情"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "27/40",
+        "quote": "编辑肯定其独特的剧本风格"
+      }
+    ],
+    "editorScore": 8.0,
+    "is2D": true,
+    "screenshots": [
+      "images/sfc/sfc-god-mezame-yo-s1.webp",
+      "images/sfc/sfc-god-mezame-yo-x2.jpg",
+      "images/sfc/sfc-god-mezame-yo-x3.jpg",
+      "images/sfc/sfc-god-mezame-yo-title.webp"
+    ],
+    "cover": "images/sfc/sfc-god-mezame-yo-box.webp",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG，现代日本街镇"
+  },
+  {
     "id": "sfc-ys-iv",
     "title": "Ys IV: Mask of the Sun",
     "titleZh": "伊苏4：太阳的假面",
@@ -3216,5 +3378,128 @@
     "cover": "images/sfc/sfc-lennus-ii-box.webp",
     "styleMatch": 3,
     "styleNote": "俯视角像素RPG，异星风格城镇"
+  },
+  {
+    "id": "sfc-ihatovo-monogatari",
+    "title": "Ihatovo Monogatari",
+    "titleZh": "伊哈托布物语",
+    "titleJa": "イーハトーヴォ物語",
+    "year": 1993,
+    "developer": "Hect",
+    "publisher": "Hect",
+    "genre": "冒险",
+    "tags": [
+      "像素",
+      "宫泽贤治",
+      "无战斗"
+    ],
+    "players": "1",
+    "tagline": "在宫泽贤治的童话里漫步",
+    "description": "没有战斗、没有升级、也没有买卖——《伊哈托布物语》是一部特别的“RPG”。它以日本童话作家宫泽贤治笔下的理想乡“伊哈托布”为舞台，玩家在俯视角的小镇与田野中漫步，聆听人与动物的话语，帮助他们寻找所需之物，从而推进故事。\n\n《不畏风雨》《山梨》等名篇，以及许多冷门的贤治作品都被细腻地编织进游戏中，每章结尾还会播放以童话为蓝本的视觉场景，配上二十余首管弦乐风格的配乐，宁静而温柔。\n\n这不是一款追求刺激的游戏，而是一次安静的散步。喜欢慢节奏、喜欢文学的玩家，会在这里找到一份难得的感动。",
+    "highlights": [
+      "改编宫泽贤治的多部童话",
+      "无战斗的散步式冒险",
+      "俯视角的温馨小镇与田园",
+      "二十余首管弦乐风配乐"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "27/40",
+        "quote": "四位编辑给出9、5、7、6，评价两极"
+      }
+    ],
+    "editorScore": 7.8,
+    "is2D": true,
+    "screenshots": [
+      "images/sfc/sfc-ihatovo-monogatari-s1.webp",
+      "images/sfc/sfc-ihatovo-monogatari-x2.jpg",
+      "images/sfc/sfc-ihatovo-monogatari-x3.webp",
+      "images/sfc/sfc-ihatovo-monogatari-x4.webp",
+      "images/sfc/sfc-ihatovo-monogatari-x5.webp",
+      "images/sfc/sfc-ihatovo-monogatari-title.webp"
+    ],
+    "cover": "images/sfc/sfc-ihatovo-monogatari-box.webp",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素小镇漫步，无战斗"
+  },
+  {
+    "id": "sfc-dual-orb-ii",
+    "title": "Dual Orb II",
+    "titleZh": "圣灵珠传说2",
+    "titleJa": "デュアルオーブII",
+    "year": 1994,
+    "developer": "Prism Kikaku",
+    "publisher": "I'Max",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "正统RPG",
+      "日版独占"
+    ],
+    "players": "1",
+    "tagline": "画面精美的正统派冷门RPG",
+    "description": "一部在国内被称作《圣灵珠传说2》的日版独占RPG。本作是正统派的回合制RPG，讲述少年在王国中接受修行、踏上冒险的故事，后来以《啪嗒砰》闻名的小谷浩之，正是从这部作品开始了他的游戏生涯。\n\n本作的画面在当年颇受好评——中国的《电子游戏软件》（游戏风景线栏目）与SNES Central都称赞过它的美术。俯视角的城镇里木屋、石墙与树林错落有致，色彩温暖明快，非常接近参考图那种日式像素村庄的感觉；战斗采用侧视角，敌人造型丰富。\n\n它曾以进口游戏的身份出现在美国商店里，近年也有英文与波兰文汉化补丁。喜欢传统JRPG氛围的朋友可以一试。",
+    "highlights": [
+      "正统回合制RPG",
+      "温暖明快的俯视角城镇",
+      "小谷浩之参与的首部作品",
+      "《电子游戏软件》曾介绍"
+    ],
+    "reviews": [],
+    "editorScore": 7.8,
+    "is2D": true,
+    "screenshots": [
+      "images/sfc/sfc-dual-orb-ii-s1.png",
+      "images/sfc/sfc-dual-orb-ii-x1.webp",
+      "images/sfc/sfc-dual-orb-ii-m1.webp",
+      "images/sfc/sfc-dual-orb-ii-m2.webp",
+      "images/sfc/sfc-dual-orb-ii-title.webp"
+    ],
+    "cover": "images/sfc/sfc-dual-orb-ii-box.webp",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素RPG，村镇画风与参考图相近"
+  },
+  {
+    "id": "sfc-ruin-arm",
+    "title": "Ruin Arm",
+    "titleZh": "废墟之臂",
+    "titleJa": "ルインアーム",
+    "year": 1995,
+    "developer": "Tose",
+    "publisher": "Bandai",
+    "genre": "动作角色扮演",
+    "tags": [
+      "像素",
+      "双人",
+      "末世"
+    ],
+    "players": "1-2",
+    "tagline": "兄妹并肩的末世动作冒险",
+    "description": "遥远的未来，文明衰退后的大地上，少年阿姆与妹妹受父亲之托出门办事，没想到这趟差事最终演变成拯救王国的冒险。《废墟之臂》是万代在SFC上推出的一款俯视角动作RPG。\n\n游戏最大的特点是支持双人同时游玩：一人操作哥哥、一人操作妹妹，并肩在原野与迷宫中作战；单人游玩时则由电脑操控搭档。俯视角的村庄、森林与城镇画面朴素明亮，颇有《圣剑传说》的味道。\n\nFami通的编辑们对操作手感与AI搭档颇有微词，但对于想找一款能和朋友一起玩的SFC动作RPG的玩家，它仍是值得一试的冷门之作。",
+    "highlights": [
+      "支持双人同时游玩",
+      "兄妹搭档冒险",
+      "俯视角动作战斗",
+      "末世奇幻世界观"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "23/40",
+        "quote": "编辑认为操作手感偏迟钝，AI搭档表现不稳定"
+      }
+    ],
+    "editorScore": 7.4,
+    "is2D": true,
+    "screenshots": [
+      "images/sfc/sfc-ruin-arm-s1.png",
+      "images/sfc/sfc-ruin-arm-x2.jpg",
+      "images/sfc/sfc-ruin-arm-x3.jpg",
+      "images/sfc/sfc-ruin-arm-title.png"
+    ],
+    "cover": "images/sfc/sfc-ruin-arm-box.webp",
+    "styleMatch": 3,
+    "styleNote": "俯视角像素ARPG，村镇原野探索"
   }
 ]

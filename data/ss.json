@@ -2508,6 +2508,55 @@
     "styleNote": "俯视角像素ARPG，村庄森林自由探索"
   },
   {
+    "id": "ss-cyber-doll",
+    "title": "Cyber Doll",
+    "titleZh": "赛博玩偶",
+    "titleJa": "サイバードール",
+    "year": 1996,
+    "developer": "Betop",
+    "publisher": "I'MAX",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "赛博朋克",
+      "肢体改造"
+    ],
+    "players": "1",
+    "tagline": "2039年的义体都市，土星上罕见的赛博朋克RPG",
+    "description": "公元2039年，一场大流行病让人类的进化停滞，人们只能依靠机械义体延续生命。《赛博玩偶》把你带进霓虹闪烁又破败阴暗的“零之城”：街头酒吧、义体诊所、地下组织，像素绘制的城市充满《银翼杀手》式的颓废美感。\n\n这是一款传统的回合制RPG，你可以在街区中自由行走、与NPC交谈、到商店购物。战斗系统是最大亮点：头部、躯干、左右手臂和双腿都是独立部位，可以分别瞄准攻击，也会被逐一破坏，还能更换性能各异的义体零件。韭泽靖操刀的角色设计诡异而迷人。\n\n本作只在日本发行，长期被埋没。2026年9月，同好团队Exxistance与Wiredcrackpot发布了完整的英文翻译补丁（对话、菜单与过场字幕全部英文化），这款冷门佳作终于迎来了新的玩家。",
+    "highlights": [
+      "独特的部位破坏与义体更换战斗",
+      "霓虹颓废的赛博朋克都市",
+      "可自由探索的街区、酒吧与商店",
+      "2026年已有英文同好补丁"
+    ],
+    "reviews": [
+      {
+        "source": "Saturn Fan",
+        "score": "6.4/10",
+        "quote": "题材独特，但整体表现平平"
+      },
+      {
+        "source": "Sega Saturn Magazine (日)",
+        "score": "6.33/10",
+        "quote": "评价两极，战斗系统颇具新意"
+      }
+    ],
+    "editorScore": 7.9,
+    "is2D": true,
+    "screenshots": [
+      "images/ss/ss-cyber-doll-s1.webp",
+      "images/ss/ss-cyber-doll-x1.webp",
+      "images/ss/ss-cyber-doll-x2.webp",
+      "images/ss/ss-cyber-doll-x3.webp",
+      "images/ss/ss-cyber-doll-x4.webp",
+      "images/ss/ss-cyber-doll-title.webp"
+    ],
+    "cover": "images/ss/ss-cyber-doll-box.webp",
+    "styleMatch": 3,
+    "styleNote": "斜俯视像素街区，可自由逛酒吧与商店"
+  },
+  {
     "id": "ss-mahou-gakuen-lunar",
     "title": "Mahou Gakuen Lunar!",
     "titleZh": "魔法学园露娜！",
@@ -2578,5 +2627,44 @@
     "cover": "images/ss/ss-terra-phantastica-box.webp",
     "styleMatch": 2,
     "styleNote": "斜视角像素战棋，无城镇自由漫步"
+  },
+  {
+    "id": "ss-astra-superstars",
+    "title": "Astra Superstars",
+    "titleZh": "星光超级巨星",
+    "titleJa": "アストラスーパースターズ",
+    "year": 1998,
+    "developer": "Sunsoft",
+    "publisher": "Sunsoft",
+    "genre": "格斗",
+    "tags": [
+      "像素",
+      "高分辨率",
+      "空中格斗"
+    ],
+    "players": "1-2",
+    "tagline": "全程浮空的高清像素格斗，可爱又疯狂",
+    "description": "《星光超级巨星》是阳光公司（Sunsoft）在格斗游戏黄金年代留下的一部奇作：所有角色都漂浮在空中战斗，把对手打飞后会像弹珠一样在场地边缘反弹，再接一套连段继续追击，节奏极快、观感十足。\n\n本作采用当年罕见的高分辨率2D画面，角色是大头可爱的动画风，色彩明亮、动作细腻流畅，特效夸张又华丽。土星版与街机版几乎同步开发，移植度极高。\n\n它不是硬核格斗迷的竞技首选，却是土星2D美术实力的绝佳展示，和朋友对战时笑声不断。",
+    "highlights": [
+      "全员浮空的独特空中格斗",
+      "弹珠般反弹的连段系统",
+      "罕见的高分辨率2D像素画面",
+      "可爱夸张的动画风角色"
+    ],
+    "reviews": [],
+    "editorScore": 7.7,
+    "is2D": true,
+    "screenshots": [
+      "images/ss/ss-astra-superstars-s1.webp",
+      "images/ss/ss-astra-superstars-x1.webp",
+      "images/ss/ss-astra-superstars-x2.webp",
+      "images/ss/ss-astra-superstars-x3.webp",
+      "images/ss/ss-astra-superstars-m1.webp",
+      "images/ss/ss-astra-superstars-m2.webp",
+      "images/ss/ss-astra-superstars-title.webp"
+    ],
+    "cover": "images/ss/ss-astra-superstars-box.webp",
+    "styleMatch": 0,
+    "styleNote": "2D格斗游戏"
   }
 ]

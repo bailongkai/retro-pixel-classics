@@ -1547,6 +1547,48 @@
     "styleNote": "2D格斗游戏"
   },
   {
+    "id": "ps2-dragon-shadow-spell",
+    "title": "Dragon Shadow Spell",
+    "titleZh": "龙影咒语",
+    "titleJa": "ドラゴンシャドウスペル",
+    "year": 2007,
+    "developer": "Flight-Plan",
+    "publisher": "Flight-Plan",
+    "genre": "战略角色扮演",
+    "tags": [
+      "精细点阵",
+      "斜视角战棋",
+      "吸血鬼"
+    ],
+    "players": "1",
+    "tagline": "召唤之夜团队的点阵绝唱",
+    "description": "《召唤之夜》《黑色矩阵》的开发商Flight-Plan，为纪念创社15周年推出了首部自主品牌作品——《龙影咒语》。这是一个以现代世界为基础的科幻奇幻故事：人们从古文书中解读出名为「法定式（Matrix）」的魔术语言，手持「Matrix Gear」的现代魔法师「Valiant」们，围绕沉睡在遗迹中的方程式展开争夺。\n\n本作最大的看点就是点阵：斜45度视角的战场与城镇被描绘得极其细致，冒险部分可以操纵主角在场景中自由走动、购物、接支线，战斗则是AP制战棋，必杀技「心兽解放技」演出火光四射，堪称PS2末期2D点阵的巅峰之一。高野裕紀与大塚真一郎的人设、全语音对话以及一对一的「Private Talk」羁绊事件同样出彩。可惜只在日本发售，但对喜欢精致2D画面的玩家，这是值得发掘的隐藏佳作。",
+    "highlights": [
+      "PS2末期顶级的精细点阵",
+      "斜视角战棋+华丽「心兽解放技」",
+      "高野裕紀、大塚真一郎人设",
+      "Flight-Plan首部自主品牌作"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "黄金殿堂",
+        "quote": "获得Fami通交叉评测黄金殿堂认定"
+      }
+    ],
+    "editorScore": 8.1,
+    "is2D": true,
+    "screenshots": [
+      "images/ps2/ps2-dragon-shadow-spell-x1.webp",
+      "images/ps2/ps2-dragon-shadow-spell-x2.jpg",
+      "images/ps2/ps2-dragon-shadow-spell-x3.webp",
+      "images/ps2/ps2-dragon-shadow-spell-x4.webp"
+    ],
+    "cover": "images/ps2/ps2-dragon-shadow-spell-box.webp",
+    "styleMatch": 2,
+    "styleNote": "精细点阵斜视角，可走据点，战斗为战棋"
+  },
+  {
     "id": "ps2-street-fighter-alpha-anthology",
     "title": "Street Fighter Alpha Anthology",
     "titleZh": "街头霸王ZERO合集",

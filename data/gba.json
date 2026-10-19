@@ -3074,5 +3074,60 @@
     "cover": "images/gba/gba-cima-the-enemy-box.webp",
     "styleMatch": 2,
     "styleNote": "斜视角像素ARPG，迷宫护送无城镇"
+  },
+  {
+    "id": "gba-lady-sia",
+    "title": "Lady Sia",
+    "titleZh": "希亚公主",
+    "titleJa": "",
+    "year": 2001,
+    "developer": "RFX Interactive",
+    "publisher": "TDK Mediactive",
+    "genre": "动作",
+    "tags": [
+      "像素",
+      "横版动作",
+      "手绘动画",
+      "隐藏佳作"
+    ],
+    "players": "1",
+    "tagline": "GBA初期最华丽的像素动画，公主持剑出征",
+    "description": "在GBA刚刚发售的2001年，一款来自欧洲小工作室RFX Interactive的横版动作游戏，以惊人的画面让人眼前一亮。金发公主希亚手持魔法剑，为夺回被兽人族“T'soas”侵占的王国而战——角色动画流畅得像卡通片，背景层次丰富、色彩明快，放在当年堪称GBA机能的展示橱窗。\n\n游戏以剑技为主，连斩、跳斩、魔法攻击一应俱全，关卡中还要解救被俘的村民、寻找钥匙与隐藏道具，部分关卡更变换为飞行射击等不同玩法。\n\n手感和难度曲线略有粗糙之处，但那份欧美卡通风格的像素美术，至今看来仍然赏心悦目，是GBA早期值得挖掘的遗珠。",
+    "highlights": [
+      "卡通般流畅的角色动画",
+      "层次丰富、色彩明快的背景美术",
+      "剑技与魔法结合的横版战斗",
+      "解救村民与收集要素"
+    ],
+    "reviews": [
+      {
+        "source": "GameSpot",
+        "score": "8.7/10",
+        "quote": "画面极其出色，GBA早期最漂亮的动作游戏之一"
+      },
+      {
+        "source": "IGN",
+        "score": "8/10",
+        "quote": "美术与动画令人惊艳，玩法扎实"
+      },
+      {
+        "source": "Metacritic",
+        "score": "73/100",
+        "quote": "评价褒贬不一，画面获一致好评"
+      }
+    ],
+    "editorScore": 7.8,
+    "is2D": true,
+    "screenshots": [
+      "images/gba/gba-lady-sia-s1.webp",
+      "images/gba/gba-lady-sia-s2.webp",
+      "images/gba/gba-lady-sia-x1.webp",
+      "images/gba/gba-lady-sia-x2.webp",
+      "images/gba/gba-lady-sia-x3.webp",
+      "images/gba/gba-lady-sia-title.webp"
+    ],
+    "cover": "images/gba/gba-lady-sia-box.webp",
+    "styleMatch": 1,
+    "styleNote": "横版像素动作，无城镇探索"
   }
 ]

@@ -2253,6 +2253,61 @@
     "styleNote": "俯视像素ARPG，岛屿城镇自由探索"
   },
   {
+    "id": "nds-knights-in-the-nightmare",
+    "title": "Knights in the Nightmare",
+    "titleZh": "梦魇骑士",
+    "titleJa": "ナイツ・イン・ザ・ナイトメア",
+    "year": 2008,
+    "developer": "Sting",
+    "publisher": "Sting / Atlus",
+    "genre": "战略角色扮演",
+    "tags": [
+      "像素",
+      "战棋",
+      "弹幕"
+    ],
+    "players": "1",
+    "tagline": "战棋融合弹幕射击的Sting怪作",
+    "description": "一位死去的国王化作微弱的光点“Wisp”，在被诅咒的城堡中唤醒逝去骑士们的亡魂，追寻王国覆灭的真相。《梦魇骑士》出自Sting的“Dept. Heaven”系列，也是其中最难以归类的一作。\n\n画面看起来是斜45度的像素战棋，玩起来却完全不同：玩家用触控笔操控光点，在四周飞来的弹幕间穿梭闪避，同时点击骑士发动攻击，就像在战棋地图上玩一场弹幕射击。时间限制、法/混沌两相切换、骑士的“遗物”与有限的“生命值”……系统之复杂、信息量之大，开局时足以把人淹没。精致的哥特像素美术与悲壮的群像剧本，则是本作的灵魂。\n\n它不是人人都能接受的游戏，但一旦“开窍”，就会被其独一无二的深度深深吸引。",
+    "highlights": [
+      "战棋与弹幕射击的大胆融合",
+      "触控笔操控光点闪避与指挥",
+      "Dept. Heaven系列的哥特悲剧",
+      "精致的像素美术与骑士群像"
+    ],
+    "reviews": [
+      {
+        "source": "Fami通",
+        "score": "32/40",
+        "quote": "系统独特而复杂，深度十足"
+      },
+      {
+        "source": "Metacritic",
+        "score": "76/100",
+        "quote": "复杂难懂，但深度令人称道"
+      },
+      {
+        "source": "IGN",
+        "score": "8.8/10",
+        "quote": "DS上最具野心的策略游戏之一"
+      }
+    ],
+    "editorScore": 8.0,
+    "is2D": true,
+    "styleMatch": 1,
+    "styleNote": "像素战棋融合弹幕，无城镇探索",
+    "screenshots": [
+      "images/nds/nds-knights-in-the-nightmare-s1.webp",
+      "images/nds/nds-knights-in-the-nightmare-x1.webp",
+      "images/nds/nds-knights-in-the-nightmare-x2.webp",
+      "images/nds/nds-knights-in-the-nightmare-x3.webp",
+      "images/nds/nds-knights-in-the-nightmare-x4.webp",
+      "images/nds/nds-knights-in-the-nightmare-x5.webp",
+      "images/nds/nds-knights-in-the-nightmare-title.webp"
+    ],
+    "cover": "images/nds/nds-knights-in-the-nightmare-box.webp"
+  },
+  {
     "id": "nds-four-heroes-of-light",
     "title": "Final Fantasy: The 4 Heroes of Light",
     "titleZh": "光之四战士 最终幻想外传",
@@ -2565,5 +2620,215 @@
     "cover": "images/nds/nds-sands-of-destruction-box.webp",
     "styleMatch": 2,
     "styleNote": "像素角色配3D场景，城镇可探索"
+  },
+  {
+    "id": "nds-luminous-arc-2",
+    "title": "Luminous Arc 2",
+    "titleZh": "光明之弧2",
+    "titleJa": "ルミナスアーク2 ウィル",
+    "year": 2008,
+    "developer": "imageepoch",
+    "publisher": "Marvelous Entertainment / Atlus",
+    "genre": "战略角色扮演",
+    "tags": [
+      "像素",
+      "战棋",
+      "魔女"
+    ],
+    "players": "1",
+    "tagline": "下村阳子参与配乐，系列最佳续作",
+    "description": "前作数年后，年轻的骑士罗兰与守护魔女们签订契约，对抗从异界涌来的“魔物”与神秘的“魔女猎人”。续作在剧情、系统与画面上全面进化，被不少玩家视为系列最佳。\n\n战斗依旧是斜45度格子战棋，但角色像素更加精细，攻击演出也更华丽。新加入的“Lapis”宝石系统可以自由镶嵌，为武器赋予各种属性与技能；Flash Drive与“合体攻击”的爽快感也更上一层楼。幕间对话与好感度系统保留，可选择不同的女主角迎来专属结局。配乐由下村阳子、海田明里、青木佳乃等名家联手，阵容豪华。\n\n喜欢日系动漫风、轻快节奏战棋的玩家，这是DS上不可错过的一部。",
+    "highlights": [
+      "精细化的斜45度像素战棋",
+      "Lapis宝石镶嵌系统",
+      "多位女主角的专属结局",
+      "下村阳子等名家联手配乐"
+    ],
+    "reviews": [
+      {
+        "source": "Metacritic",
+        "score": "73/100",
+        "quote": "全面进化的续作"
+      },
+      {
+        "source": "Fami通",
+        "score": "28/40",
+        "quote": "画面与系统都有提升"
+      },
+      {
+        "source": "IGN",
+        "score": "8/10",
+        "quote": "比前作更出色的战棋RPG"
+      }
+    ],
+    "editorScore": 7.5,
+    "is2D": true,
+    "styleMatch": 2,
+    "styleNote": "像素战棋，城镇以菜单与过场呈现",
+    "screenshots": [
+      "images/nds/nds-luminous-arc-2-s1.webp",
+      "images/nds/nds-luminous-arc-2-x1.webp",
+      "images/nds/nds-luminous-arc-2-x2.webp",
+      "images/nds/nds-luminous-arc-2-x3.webp",
+      "images/nds/nds-luminous-arc-2-x4.webp",
+      "images/nds/nds-luminous-arc-2-x5.webp",
+      "images/nds/nds-luminous-arc-2-title.webp"
+    ],
+    "cover": "images/nds/nds-luminous-arc-2-box.webp"
+  },
+  {
+    "id": "nds-izuna",
+    "title": "Izuna: Legend of the Unemployed Ninja",
+    "titleZh": "降魔灵符传 伊豆奈",
+    "titleJa": "降魔霊符伝イヅナ",
+    "year": 2006,
+    "developer": "Success / Ninja Studio",
+    "publisher": "Success / Atlus",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "Roguelike",
+      "和风搞笑"
+    ],
+    "players": "1",
+    "tagline": "失业女忍者的和风不思议迷宫",
+    "description": "忍者之乡因时代变迁而解散，元气十足的女忍者伊豆奈就此“失业”。她带着同伴流浪到山间小村“平板村”，却因一时冒失惹怒了当地的神明，村民们接二连三遭殃——为了收拾自己闯下的祸，伊豆奈只好钻进神社背后的迷宫。\n\n本作是一款向《不可思议的迷宫》致敬的和风Roguelike：迷宫随机生成，伊豆奈每走一步，怪物也跟着行动一步；倒下后会失去身上的道具与金钱。最大的特色是“灵符”系统：可以把各种符咒贴在武器防具上赋予特殊能力，贴上“归还符”的装备即使阵亡也能保留。村子里有商店、仓库与形形色色的村民，俯视角的像素画面带着浓浓的日式乡土风情。\n\n难度较高，但满屏的吐槽式对白与个性鲜明的角色，让这趟“再就业”之旅轻松又有趣。",
+    "highlights": [
+      "和风Roguelike随机迷宫",
+      "可贴附装备的灵符系统",
+      "平板村的村落据点",
+      "吐槽满满的搞笑剧情"
+    ],
+    "reviews": [
+      {
+        "source": "Metacritic",
+        "score": "66/100",
+        "quote": "Roguelike爱好者会喜欢，但门槛不低"
+      },
+      {
+        "source": "IGN",
+        "score": "6.9/10",
+        "quote": "幽默有趣，难度偏高"
+      },
+      {
+        "source": "GameSpot",
+        "score": "6.7/10",
+        "quote": "传统迷宫玩法配上可爱的人物"
+      }
+    ],
+    "editorScore": 7.4,
+    "is2D": true,
+    "styleMatch": 3,
+    "styleNote": "俯视像素画面，和风村落与迷宫探索",
+    "screenshots": [
+      "images/nds/nds-izuna-s1.png",
+      "images/nds/nds-izuna-title.webp"
+    ],
+    "cover": "images/nds/nds-izuna-box.webp"
+  },
+  {
+    "id": "nds-izuna-2",
+    "title": "Izuna 2: The Unemployed Ninja Returns",
+    "titleZh": "降魔灵符传 伊豆奈2",
+    "titleJa": "降魔霊符伝イヅナ弐",
+    "year": 2007,
+    "developer": "Success / Ninja Studio",
+    "publisher": "Success / Atlus",
+    "genre": "角色扮演",
+    "tags": [
+      "像素",
+      "Roguelike",
+      "搭档系统"
+    ],
+    "players": "1",
+    "tagline": "失业女忍者再出山，双人搭档闯迷宫",
+    "description": "伊豆奈又回来了！这一次她为了追查神秘事件，与一群个性古怪的女忍者们重聚，再次踏入随机生成的迷宫。续作保留了前作“走一步、敌人动一步”的Roguelike核心与和风搞笑基调，并针对难度做了诸多改良。\n\n最大的新要素是“搭档”系统：进入迷宫时可带上一名同伴，随时按键切换操控，两人还能发动合体的“搭档技”。各位女忍者擅长的武器与技能不同，阵容搭配的策略性大大提升。灵符系统依旧健在，村庄据点中的商店与仓库也更加便利。俯视角的像素画面清爽明快，角色立绘与对白依旧充满吐槽笑点。\n\n比起前作更友善、更具策略深度，是喜欢轻松系不思议迷宫玩家的不错选择。",
+    "highlights": [
+      "随时切换的双人搭档系统",
+      "合体发动的搭档技",
+      "灵符系统强化装备",
+      "难度与便利性全面改良"
+    ],
+    "reviews": [
+      {
+        "source": "Metacritic",
+        "score": "65/100",
+        "quote": "改良明显，但仍偏向核心玩家"
+      },
+      {
+        "source": "IGN",
+        "score": "6/10",
+        "quote": "搭档系统有新意，但整体变化不大"
+      },
+      {
+        "source": "1UP",
+        "score": "B-",
+        "quote": "系列粉丝会满意的续作"
+      }
+    ],
+    "editorScore": 7.2,
+    "is2D": true,
+    "styleMatch": 3,
+    "styleNote": "俯视像素画面，村庄据点与迷宫探索",
+    "screenshots": [
+      "images/nds/nds-izuna-2-s1.webp",
+      "images/nds/nds-izuna-2-title.webp"
+    ],
+    "cover": "images/nds/nds-izuna-2-box.webp"
+  },
+  {
+    "id": "nds-luminous-arc",
+    "title": "Luminous Arc",
+    "titleZh": "光明之弧",
+    "titleJa": "ルミナスアーク",
+    "year": 2007,
+    "developer": "imageepoch",
+    "publisher": "Marvelous Interactive / Atlus",
+    "genre": "战略角色扮演",
+    "tags": [
+      "像素",
+      "战棋",
+      "魔女"
+    ],
+    "players": "1",
+    "tagline": "魔女与教会骑士的DS正统战棋",
+    "description": "imageepoch的出道作，也是DS上较早的正统战棋RPG。少年阿尔夫是教会的见习骑士，奉命讨伐被视为邪恶化身的“魔女”——然而随着与魔女们的相遇，教会背后的真相渐渐浮出水面。\n\n战斗在斜45度视角的格子地图上展开，上屏显示单位资料、下屏用触控笔或按键指挥移动与攻击。蓄满“Flash Drive”槽后可发动华丽的必杀技，与同伴协力还能使出合体技。战斗之间的“幕间”环节，可以选择与喜欢的角色聊天加深好感，影响后续剧情与能力。柴乃櫂人的人设清新动人，配乐由光田康典、海田明里等参与。\n\n系统并不复杂，节奏明快，是一款适合入门的轻量级战棋。",
+    "highlights": [
+      "斜45度格子地图战斗",
+      "Flash Drive必杀与合体技",
+      "战后“幕间”好感度对话",
+      "光田康典等参与配乐"
+    ],
+    "reviews": [
+      {
+        "source": "Metacritic",
+        "score": "70/100",
+        "quote": "中规中矩的入门级战棋"
+      },
+      {
+        "source": "Fami通",
+        "score": "28/40",
+        "quote": "系统简单易上手"
+      },
+      {
+        "source": "IGN",
+        "score": "7.5/10",
+        "quote": "有趣但缺乏突破的战棋RPG"
+      }
+    ],
+    "editorScore": 7.2,
+    "is2D": true,
+    "styleMatch": 2,
+    "styleNote": "像素战棋，城镇仅以幕间菜单呈现",
+    "screenshots": [
+      "images/nds/nds-luminous-arc-s1.webp",
+      "images/nds/nds-luminous-arc-x1.webp",
+      "images/nds/nds-luminous-arc-x2.webp",
+      "images/nds/nds-luminous-arc-x3.webp",
+      "images/nds/nds-luminous-arc-x4.webp",
+      "images/nds/nds-luminous-arc-m1.webp",
+      "images/nds/nds-luminous-arc-title.webp"
+    ],
+    "cover": "images/nds/nds-luminous-arc-box.webp"
   }
 ]
